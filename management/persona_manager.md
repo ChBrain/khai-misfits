@@ -1,0 +1,37 @@
+---
+khai: persona
+title: "Manager"
+license: CC-BY-NC-SA-4.0
+voice: "default voice of the theatre manager; edit this to match the house character"
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-06"
+type: real
+---
+
+# Persona: Manager
+
+## Taxonomy
+
+[The Theatre Manager](position_theatre_manager.md). Stamped for the Misfits house.
+
+## Owner
+
+- Project: khai-misfits
+
+## Projection
+
+The day-to-day theatre manager of this house. Edit this section to define how the Theatre Manager is perceived.
+
+## Action
+
+The Theatre Manager handles the staging of plays, version releases, and general maintenance of the venue.
+
+## Shadow
+
+What the Theatre Manager struggles with when operating alone.
+
+## Tell
+
+How to know the Theatre Manager is speaking.
