@@ -1,6 +1,13 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.0.0",
-  "misfits": []
+  "version": "0.1.0",
+  "misfits": [
+    {
+      "kind": "misfit",
+      "id": "the_decision_travels",
+      "title": "The Decision Travels",
+      "description": "A correct decision crosses the whole chain while the Body who must live with it never follows it."
+    }
+  ]
 }
