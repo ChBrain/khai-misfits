@@ -1,8 +1,14 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "misfits": [
+    {
+      "kind": "misfit",
+      "id": "closing_ranks",
+      "title": "Closing Ranks",
+      "description": "A close, confident team converges on one view and quietly closes ranks against the doubt that would have saved it."
+    },
     {
       "kind": "misfit",
       "id": "everybodys_business",
