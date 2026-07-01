@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Do"
+title: "Thinning"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-01"
 ---
 
-# Plot: Do
+# Plot: Thinning
 
 ## Taxonomy
 
