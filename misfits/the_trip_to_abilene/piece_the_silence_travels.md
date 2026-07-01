@@ -36,5 +36,5 @@ It looks like agreement building naturally, warmth gathering into a decision, th
 
 ## Yearbook
 
-Carried by all seven seats and stopped by none, until [the drive back](plot_the_drive_back.md).
+Carried by all seven seats and stopped by none, until [the drive back](plot_drive_back.md).
 It crosses no one's view as a total, because each seat sees only the faces before its turn, never the truth behind them. By the time it reaches [the record](place_the_record.md) it is [a mandate](piece_the_manufactured_mandate.md), and the pile of courtesies is called the will of the group.
