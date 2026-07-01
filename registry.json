@@ -1,8 +1,14 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.20.0",
+  "version": "0.21.0",
   "misfits": [
+    {
+      "kind": "misfit",
+      "id": "bad_coin",
+      "title": "Bad Coin",
+      "description": "Good and shoddy pass at the same bar, so the shoddy circulates and the careful work is quietly withdrawn."
+    },
     {
       "kind": "misfit",
       "id": "closing_ranks",
