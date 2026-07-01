@@ -98,14 +98,20 @@ Match the scrutiny to the stakes and the reactor gets the hour: the attention is
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Flat Agenda](plot_flat_agenda.md)**
 A flat agenda is set: the reactor and the bike shed listed one under the other, equal slots for unequal stakes. The Specialist tables the reactor hoping for a hard look, the Handyman tables the shed. Closes when both sit on one running order, level.
 
-**[Do](plot_do.md)**
+**[Table the Reactor](plot_table_the_reactor.md)**
+Cue: the reactor is too large for the hour and too hard for the seats. The room sends it to a sub-group of experts and moves on, and the deferral is minuted as a workstream. Closes when the vital item is routed out of the room that could have held it.
+
+**[Comprehension Gap](plot_comprehension_gap.md)**
 Cue: the floor opens. The bike shed draws a view from every seat and the discussion expands to fill the hour, while the reactor is deferred to the experts nobody wants to question. Closes when the shed has eaten the meeting and the reactor is still untouched.
 
-**[Check](plot_check.md)**
+**[Rubber Stamp](plot_rubber_stamp.md)**
 Cue: the clock runs down. The reactor is moved to the consent agenda and approved without objection so the meeting can end on time, and the minutes record it passed and the paint debated. Closes when the vital decision clears with no scrutiny and the trivial one is minuted in full.
+
+**[Write the Minutes](plot_write_the_minutes.md)**
+Cue: the meeting closes and the record is written. Both items go down as raised and resolved, in the same flat grammar, so an hour on the paint and a nod on the reactor read identically. Closes when the misallocation is preserved in the record as good order.
 
 **[The Reckoning](plot_the_reckoning.md)**
 Cue: the reactor decision fails, out in the world, months later. Someone asks how a thing that large went through with no discussion. Closes when the answer is named, everyone was busy with the shed ... or the next agenda is just as flat.
