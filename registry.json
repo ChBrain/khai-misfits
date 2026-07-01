@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -32,6 +32,12 @@
       "id": "rising_to_unfit",
       "title": "Rising to Unfit",
       "description": "The best are promoted for mastering a job into a different one they cannot do, and cannot be moved back from."
+    },
+    {
+      "kind": "misfit",
+      "id": "sandbag",
+      "title": "Sandbag",
+      "description": "Beat the target and next year's is higher, so everyone hits the number and hides the rest, and no one shows their best."
     },
     {
       "kind": "misfit",
