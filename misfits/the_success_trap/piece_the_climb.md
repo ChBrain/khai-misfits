@@ -37,4 +37,4 @@ From above it is a cheap competitor staying cheap, improving in ways that do not
 ## Yearbook
 
 Driven by [the newcomer](persona_the_newcomer.md), from [the low-end foothold](piece_the_low_end_foothold.md) upward.
-It crosses [the overshoot](piece_the_overshoot.md) coming the other way: the incumbent selling more than the middle needs, the entrant finally offering enough. The two lines were always going to meet. The Climb is the distance closing, read by nobody as a countdown until [the inversion](plot_the_inversion.md) reads it as one.
+It crosses [the overshoot](piece_the_overshoot.md) coming the other way: the incumbent selling more than the middle needs, the entrant finally offering enough. The two lines were always going to meet. The Climb is the distance closing, read by nobody as a countdown until [the inversion](plot_inversion.md) reads it as one.
