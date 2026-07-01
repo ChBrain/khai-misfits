@@ -37,4 +37,4 @@ Read on its own the number is a rising line, and a rising line is success. The g
 ## Yearbook
 
 Driven by every seat doing its job: [the target](piece_the_target.md) chased, [the made number](piece_the_made_number.md) produced, [the unmeasured](piece_the_unmeasured.md) spent.
-It crosses no one's desk as a single figure, because the number lives on the scorecard and the goal lives nowhere, until [reading the goal](plot_read_the_goal.md) draws the second line at last and lays it over the first.
+It crosses no one's desk as a single figure, because the number lives on the scorecard and the goal lives nowhere, until [reading the goal](plot_read_goal.md) draws the second line at last and lays it over the first.
