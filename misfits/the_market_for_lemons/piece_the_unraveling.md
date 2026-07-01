@@ -36,5 +36,5 @@ Read round by round it looks like ordinary decline, prices easing, a category go
 
 ## Yearbook
 
-Driven by [the discount](piece_the_discount.md) and [the cherry](piece_the_cherry.md) in turn, stopped only by [the stamp](plot_the_stamp.md).
+Driven by [the discount](piece_the_discount.md) and [the cherry](piece_the_cherry.md) in turn, stopped only by [the stamp](plot_stamp.md).
 It carries the market from a fair average down to a lemon price, quality and price spiralling together, until the pool is all [the lemon](piece_the_lemon.md) and even that will not clear, because a buyer who assumes the worst will not pay the average of a pool they no longer believe in.
