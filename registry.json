@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -26,6 +26,12 @@
       "id": "the_decision_travels",
       "title": "The Decision Travels",
       "description": "A correct decision crosses the whole chain while the Body who must live with it never follows it."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_frozen_middle",
+      "title": "The Frozen Middle",
+      "description": "A bold change dies in the middle: softened on the way down, and the hard truth smoothed on the way up."
     },
     {
       "kind": "misfit",
