@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Check"
+title: "One-Way Ladder"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-01"
 ---
 
-# Plot: Check
+# Plot: One-Way Ladder
 
 ## Taxonomy
 
