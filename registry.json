@@ -1,8 +1,14 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "misfits": [
+    {
+      "kind": "misfit",
+      "id": "everybodys_business",
+      "title": "Everybody's Business",
+      "description": "A decision everyone can see and anyone could own is dropped, because each assumes it is somebody else's to hold."
+    },
     {
       "kind": "misfit",
       "id": "good_money_after_bad",
