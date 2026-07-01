@@ -37,4 +37,4 @@ It looks handled: identified, assessed, on the register with an owner and a miti
 ## Yearbook
 
 Accepted by [the bettor](persona_the_bettor.md), who weighs a certain cost against a possible one and rationally waits.
-It is the risk that [the empty desk](plot_the_empty_desk.md) collects: seen for years, mitigated on paper, never actually reduced, because every quarter the same sane arithmetic says not yet, until the quarter it says too late.
+It is the risk that [the empty desk](plot_empty_desk.md) collects: seen for years, mitigated on paper, never actually reduced, because every quarter the same sane arithmetic says not yet, until the quarter it says too late.
