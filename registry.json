@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -20,6 +20,12 @@
       "id": "metric_fixation",
       "title": "Metric Fixation",
       "description": "A number chosen to stand for a goal is hit exactly and truthfully, and the goal it stood for quietly dies."
+    },
+    {
+      "kind": "misfit",
+      "id": "rising_to_unfit",
+      "title": "Rising to Unfit",
+      "description": "The best are promoted for mastering a job into a different one they cannot do, and cannot be moved back from."
     },
     {
       "kind": "misfit",
