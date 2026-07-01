@@ -98,16 +98,22 @@ Realign the incentives and the red surfaces at once: the incentive is the story.
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Red Task](plot_red_task.md)**
 The colour is set. On the critical path a task goes red and the float is already gone. The Doer and the Neighbour table their plans: get real help, take the hand-off. Closes when the red is owned by one seat and nobody above has been asked to stop.
 
-**[Do](plot_do.md)**
+**[Move Problem](plot_move_problem.md)**
+Cue: the red input reaches the next task. The Neighbour takes the hand-off, works around the gap, and books the fault upstream, so this seat reports green while the problem it inherited is logged as someone else's column. Closes when the red travels with the work instead of stopping it.
+
+**[Colour Travels](plot_colour_travels.md)**
 Cue: the status leaves the workface and climbs. The work continues sideways task to task while the colour rounds up rung by rung, each rounding carried by an external problem. Closes when the project reports green with actions.
 
-**[Check](plot_check.md)**
+**[Net Green](plot_net_green.md)**
 Cue: the green reaches the top. The portfolio review reads a board of green tiles and signs off. Closes when the aggregate is confirmed and keeping it green is rewarded.
 
-**[Clean the House](plot_clean_the_house.md)**
+**[Net It Out](plot_net_it_out.md)**
+Cue: the red status has climbed as far as it can on its own project. The Aggregator sets it among its neighbours, where one red among many greens is a rounding error, and reports the programme by its balance. Closes when the failing project is dissolved into the health of the many.
+
+**[Clean House](plot_clean_house.md)**
 Cue: a payoff flips. Someone is passed over, or arrives new with no sunk cost, and exposing the red now pays more than grinding it green. Closes when the skin splits ... or the meter runs anyway.
 
 ## Stakes
