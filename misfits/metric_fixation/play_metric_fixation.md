@@ -96,16 +96,19 @@ Measure the goal itself instead of its proxy and the gaming has nothing to grip:
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Proxy](plot_proxy.md)**
 A goal too large to count is given a measure to stand for it, and the measure is made a target. The Aim tables the purpose, the Proxy tables the stand-in. Closes when the proxy is locked as the target and the goal is off the dashboard.
 
-**[Do](plot_do.md)**
+**[Made Number](plot_made_number.md)**
 Cue: the target reaches the floor. It is hit by the nearest means, and what the number does not count is quietly spent to make the number. Closes when the target is met and the goal is not, and no single line was false.
 
-**[Check](plot_check.md)**
+**[Mind Metric](plot_mind_metric.md)**
+Cue: the target is posted on the scorecard with reward and sanction hung on it. The Surrogate manages the team to the dashboard, and the measure, now a bar that pays, becomes a target and stops being a measure. Closes when the team moves the number instead of the thing the number watched.
+
+**[Surrogate Goal](plot_surrogate_goal.md)**
 Cue: the green reaches the review. The metric is now the mission, managed to and certified true, and holding the number is what is rewarded. Closes when the dashboard is all green and the goal is nobody's job.
 
-**[Read the Goal](plot_read_the_goal.md)**
+**[Read Goal](plot_read_goal.md)**
 Cue: someone measures the goal itself, or its collapse finally shows. The number and the thing it stood for are put on one page. Closes when the divergence is read ... or the quarter runs anyway.
 
 ## Stakes

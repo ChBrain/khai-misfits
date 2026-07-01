@@ -98,16 +98,16 @@ Weigh the future against the future and the project dies at the first honest gat
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Reputation Stake](plot_reputation_stake.md)**
 The project is launched and championed, and a reputation is staked on it. The first over-run lands, and a pile of spend begins. Closes when the first gate that could stop it turns to the pile and re-commits.
 
-**[Do](plot_do.md)**
+**[Receding Finish](plot_receding_finish.md)**
 Cue: the finish line is re-drawn just ahead, again. The prospect falls, the ledger cites what is in, and one more increment goes after the last. Closes when continuing is justified by the spend behind, not the value ahead.
 
-**[Check](plot_check.md)**
+**[Backward Rule](plot_backward_rule.md)**
 Cue: the gate review meets. The backward rule is now the decision rule: each phase is approved because stopping would waste the last, and the team digs on, privately sure it is dead. Closes when the project is officially on track and funded entirely by its own history.
 
-**[The Write-Off](plot_the_write_off.md)**
+**[Write-Off](plot_write_off.md)**
 Cue: someone with no stake in the pile arrives, or the money simply runs out. The forward rule is applied at last and the loss is booked whole. Closes when the zombie is put down ... or the next check clears, and it staggers on.
 
 ## Stakes
