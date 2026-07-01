@@ -1,13 +1,19 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "misfits": [
     {
       "kind": "misfit",
       "id": "the_decision_travels",
       "title": "The Decision Travels",
       "description": "A correct decision crosses the whole chain while the Body who must live with it never follows it."
+    },
+    {
+      "kind": "misfit",
+      "id": "watermelon_reporting",
+      "title": "Watermelon Reporting",
+      "description": "Green on the skin, red in the flesh: the red never reaches a seat that can act, because every rung is paid to move on."
     }
   ]
 }
