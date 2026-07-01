@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Check"
+title: "Adaptation Misfit"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +9,7 @@ stamp:
   date: "2026-06-25"
 ---
 
-# Plot: Check
+# Plot: Adaptation Misfit
 
 ## Taxonomy
 
