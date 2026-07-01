@@ -98,16 +98,16 @@ Reward people for the job they will do, not the one they have done, and the ladd
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Wrong Signal](plot_wrong_signal.md)**
 Someone is brilliant at their craft, and the calibration reads that brilliance as the signal to promote. The Natural masters the role, the Rewarder moves to reward it with a bigger one. Closes when the best is promoted on the strength of the job they are leaving.
 
-**[Do](plot_do.md)**
+**[Level of Incompetence](plot_level_of_incompetence.md)**
 Cue: the new role needs different gifts than the old one. The fit runs out, the numbers regress, and the risen person reaches the rung they cannot do. Closes when the promotion has landed a master in a job that is not theirs, and the executive who blessed it cannot unwind it.
 
-**[Check](plot_check.md)**
+**[One-Way Ladder](plot_one_way_ladder.md)**
 Cue: the ladder that lifts on success will not lower on failure. No demotion follows, the reports route around the stuck manager, and the post is held by someone past their fit. Closes when the role is permanently occupied by a misfit, and the work goes on around them.
 
-**[The Backfill](plot_the_backfill.md)**
+**[Backfill](plot_backfill.md)**
 Cue: the real work needs doing, so the next star is pulled up to do it, and set on the same track. Closes when the Peter Principle is named ... or the next Natural is promoted, and rises to their own unfit.
 
 ## Stakes
