@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -14,6 +14,12 @@
       "id": "metric_fixation",
       "title": "Metric Fixation",
       "description": "A number chosen to stand for a goal is hit exactly and truthfully, and the goal it stood for quietly dies."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_colour_of_the_bike_shed",
+      "title": "The Colour of the Bike Shed",
+      "description": "A meeting scrutinises the trivial thing everyone understands and waves through the vital thing no one does."
     },
     {
       "kind": "misfit",
