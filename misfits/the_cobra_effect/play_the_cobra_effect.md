@@ -98,16 +98,16 @@ Reward the outcome you want, not the token you can count, and the farm has nothi
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Bounty](plot_bounty.md)**
 A real problem is named, and a bounty is set per unit removed, in good faith, and the office stands ready to pay on proof. The Well-Meaner sets the price, the Teller readies the till. Closes when the reward per unit is live.
 
-**[Do](plot_do.md)**
+**[Manufactured Supply](plot_manufactured_supply.md)**
 Cue: the reward meets the market. Breeding the unit and killing it for the bounty beats hunting the wild one, so the supply is manufactured and the payouts soar. Closes when the reward is a farm and the metric is booming.
 
-**[Check](plot_check.md)**
+**[Backfire](plot_backfire.md)**
 Cue: the booming payouts are reported as the problem being solved. The Noticer follows the supply and finds the farm, payments up and the real problem up with them. Closes when it is clear the bounty is breeding what it pays to remove.
 
-**[The Release](plot_the_release.md)**
+**[Release](plot_release.md)**
 Cue: the farming is undeniable, and the bounty is pulled. The manufactured stock, now worthless, is turned loose, and the problem is left worse than before. Closes when the cobra effect is named ... or a new bounty is set on the new surplus.
 
 ## Stakes
