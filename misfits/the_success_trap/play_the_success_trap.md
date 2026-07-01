@@ -98,16 +98,19 @@ Change the yardstick from margin defended to ground held and the seed is funded 
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Carry Voice](plot_carry_voice.md)**
 The best customer asks for more along the dimension the firm already sells. The account lead carries it in, the roadmap turns upmarket, and the disruptive champion tables the small bet. Closes when the roadmap locks toward the margin and the seed is deferred to next cycle.
 
-**[Do](plot_do.md)**
+**[Starved Seed](plot_starved_seed.md)**
 Cue: the capital committee applies the hurdle. The seed is starved, the sustaining line ships and overshoots what the mainstream can use, and the entrant takes the low ground nobody defended. Closes when the firm reports a strong quarter and the entrant is beneath notice.
 
-**[Check](plot_check.md)**
+**[Low-End Foothold](plot_low_end_foothold.md)**
+Cue: at the tier the incumbent just costed and declined, the entrant serves the overshot customers cheaply and well. The starved seed the incumbent could not fund becomes the foothold the entrant plants for free. Closes when the least interesting business in the market is left alone to grow.
+
+**[Rational Retreat](plot_rational_retreat.md)**
 Cue: the entrant's foothold improves a tier. The incumbent, doing everything right, retreats further upmarket into richer margin and is congratulated for the discipline. Closes when the core looks healthiest ... the quarter before the climb arrives.
 
-**[The Inversion](plot_the_inversion.md)**
+**[Inversion](plot_inversion.md)**
 Cue: the climb crosses the mainstream threshold. The good-enough product is now enough, the payoff flips, and the ground the firm vacated is the whole market. Closes when the two climbs cross and the discipline reads as the disease ... or the quarter runs anyway.
 
 ## Stakes
