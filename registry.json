@@ -1,8 +1,14 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "misfits": [
+    {
+      "kind": "misfit",
+      "id": "good_money_after_bad",
+      "title": "Good Money After Bad",
+      "description": "A doomed project is funded past every reason to stop: each gate weighs what was spent, not what is left to gain."
+    },
     {
       "kind": "misfit",
       "id": "metric_fixation",
