@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Write the Minutes"
+title: "Write Minutes"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-01"
 ---
 
-# Plot: Write the Minutes
+# Plot: Write Minutes
 
 ## Taxonomy
 
