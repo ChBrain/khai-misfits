@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -38,6 +38,12 @@
       "id": "sandbag",
       "title": "Sandbag",
       "description": "Beat the target and next year's is higher, so everyone hits the number and hides the rest, and no one shows their best."
+    },
+    {
+      "kind": "misfit",
+      "id": "seed_corn",
+      "title": "Seed Corn",
+      "description": "The quarter's number is hit by eating the seed corn: the present looks strong, and the future pays the bill."
     },
     {
       "kind": "misfit",
