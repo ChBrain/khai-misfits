@@ -36,5 +36,5 @@ Read on the dashboard it looks like acceleration toward the goal, the reward wor
 
 ## Yearbook
 
-Driven by [the manufactured supply](piece_the_manufactured_supply.md), unread until [the release](plot_the_release.md).
+Driven by [the manufactured supply](piece_the_manufactured_supply.md), unread until [the release](plot_release.md).
 It carries the programme from a fix to a factory, the payout line and the problem line climbing together the whole way, and it is not seen as a backfire while the money flows, only named as one on the day the bounty stops and [the dumped stock](piece_the_dumped_stock.md) shows how much of the problem the reward had been keeping alive.
