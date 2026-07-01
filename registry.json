@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -80,6 +80,12 @@
       "id": "the_success_trap",
       "title": "The Success Trap",
       "description": "A firm does everything right, and is undone from below by the one market its own discipline was built to refuse."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_survivors",
+      "title": "The Survivors",
+      "description": "You study the survivors and armor the bullet holes, because the planes hit elsewhere never came back to be counted."
     },
     {
       "kind": "misfit",
