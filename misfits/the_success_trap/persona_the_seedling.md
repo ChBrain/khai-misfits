@@ -41,4 +41,4 @@ Being right does not clear the hurdle: foresight has no return yet.
 ## Tell
 
 Says "this will matter" to a room that funds what matters now.
-Then stops asking, or leaves.
+Then stops asking. The seed grows up in a firm that had nothing better to fund.

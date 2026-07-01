@@ -32,9 +32,9 @@ The firm that did everything right looks for the higher ground it always retreat
 ## Stage
 
 [The Newcomer](persona_the_newcomer.md) tables [Take the Low Ground](plan_take_the_low_ground.md) one last time, except the low ground is now the centre.
-[The climb](piece_the_climb.md) crosses [the overshoot](piece_the_overshoot.md) coming the other way, and [the success trap](piece_the_success_trap.md) splits open: read together, the disciplined margin above and the patient climb below were always one shape, closing.
+[The climb](piece_the_climb.md) crosses [the overshoot](piece_the_overshoot.md) coming the other way, and [the success trap](piece_the_success_trap.md) is finally one object: read together, the disciplined margin above and the patient climb below were always the same shape, closing.
 
 ## Tension
 
 Nobody was wrong.
-The skin splits and the discipline reads, at last, as the disease: every correct decision is still correct, and the firm is still finished. The reckoning is not honesty arriving or genius winning. It is the criterion that funded the margin meeting the market it refused to fund ... or the quarter runs anyway, and the firm posts one more record margin on the way down.
+The ground inverts and the discipline reads, at last, as the disease: every correct decision is still correct, and the firm is still finished. The reckoning is not honesty arriving or genius winning. It is the criterion that funded the margin meeting the market it refused to fund ... or the quarter runs anyway, and the firm posts one more record margin on the way down.

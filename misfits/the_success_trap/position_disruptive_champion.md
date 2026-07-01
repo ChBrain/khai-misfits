@@ -21,7 +21,7 @@ stamp:
 
 ## Has
 
-The foresight: it sees the floor rising.
+The foresight: it sees the ground move before the room does.
 The weakest number in the room, every time it speaks.
 
 ## Orders

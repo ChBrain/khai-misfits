@@ -27,7 +27,7 @@ The steady, unremarkable improvement of the good-enough product, from the low en
 ## Load Bearing
 
 Without it the foothold stays a footnote and the low end is just a low-margin corner.
-With it the corner is a trajectory: the entrant reinvests thin revenue into being less worse, one tier per cycle, and because each tier is only a little better than the last, no single step is alarming. The Climb is the play's slow hand. It carries the disruption from beneath notice to the mainstream so gradually that the incumbent is never wrong to ignore it, until the once it is.
+With it the corner is a trajectory: the entrant reinvests thin revenue into being less worse, one tier per cycle, and because each tier is only a little better than the last, no single step is alarming. The Climb is the play's slow hand. It carries the disruption from beneath notice to the mainstream so gradually that the incumbent is never wrong to ignore it, until the year it is.
 
 ## Apparent
 

@@ -22,7 +22,7 @@ stamp:
 ## Shown
 
 The disruptive project, alive and unwatered.
-Kept on the roster, never in the game.
+Kept on the shelf, never in the ground.
 
 ## Holds
 

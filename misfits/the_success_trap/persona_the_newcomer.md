@@ -34,7 +34,7 @@ Reinvests thin revenue into climbing a tier.
 
 ## Shadow
 
-Not a hero, just differently made.
+Not a hero, just built for the ground the incumbent won't stand on.
 Its values fit the ground the incumbent flees, so it funds the bet the incumbent cannot.
 The reckoning is its incentive, not its virtue.
 

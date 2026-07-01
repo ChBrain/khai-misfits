@@ -33,10 +33,10 @@ Then improve, quietly, tier by tier.
 
 Nothing the incumbent counts.
 Its market is too small to name,
-until it counts everything.
+until it is the only market left to count.
 
 ## Drives
 
 Up from below, one tier at a time.
-The floor it stands on is the floor that rises.
+It stands on the low ground, and the low ground is what rises.
 By the time it registers, it is already above.

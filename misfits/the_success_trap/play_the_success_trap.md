@@ -108,7 +108,7 @@ Cue: the capital committee applies the hurdle. The seed is starved, the sustaini
 Cue: the entrant's foothold improves a tier. The incumbent, doing everything right, retreats further upmarket into richer margin and is congratulated for the discipline. Closes when the core looks healthiest ... the quarter before the climb arrives.
 
 **[The Inversion](plot_the_inversion.md)**
-Cue: the climb crosses the mainstream threshold. The good-enough product is now enough, the payoff flips, and the ground the firm vacated is the whole market. Closes when the skin splits and the discipline reads as the disease ... or the quarter runs anyway.
+Cue: the climb crosses the mainstream threshold. The good-enough product is now enough, the payoff flips, and the ground the firm vacated is the whole market. Closes when the two climbs cross and the discipline reads as the disease ... or the quarter runs anyway.
 
 ## Stakes
 

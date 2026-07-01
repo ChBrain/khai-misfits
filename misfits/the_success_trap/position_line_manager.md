@@ -37,6 +37,6 @@ so it climbs when the market asks it to stop.
 
 ## Drives
 
-Toward more performance on the paying axis.
+Toward more of the one performance the top will pay for.
 The good-enough threshold is behind it now.
 It keeps adding. That is the job.
