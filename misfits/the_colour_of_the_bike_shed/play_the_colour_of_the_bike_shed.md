@@ -113,7 +113,7 @@ Cue: the clock runs down. The reactor is moved to the consent agenda and approve
 **[Write the Minutes](plot_write_the_minutes.md)**
 Cue: the meeting closes and the record is written. Both items go down as raised and resolved, in the same flat grammar, so an hour on the paint and a nod on the reactor read identically. Closes when the misallocation is preserved in the record as good order.
 
-**[The Reckoning](plot_the_reckoning.md)**
+**[Reckoning](plot_reckoning.md)**
 Cue: the reactor decision fails, out in the world, months later. Someone asks how a thing that large went through with no discussion. Closes when the answer is named, everyone was busy with the shed ... or the next agenda is just as flat.
 
 ## Stakes

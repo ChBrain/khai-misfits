@@ -36,5 +36,5 @@ It looks natural, organic, the room settling on what it cares about. What it is 
 
 ## Yearbook
 
-Carried by every seat and reversed by none, until [the reckoning](plot_the_reckoning.md).
+Carried by every seat and reversed by none, until [the reckoning](plot_reckoning.md).
 It runs the attention down toward [the bike shed](piece_the_bike_shed.md) while the stakes stay up on [the reactor](piece_the_reactor.md), the two lines drawing apart, and by the time the clock calls the hour the room has spent all of its scrutiny exactly where it was worth the least.
