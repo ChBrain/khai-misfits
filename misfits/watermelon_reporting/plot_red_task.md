@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "The Red Task"
+title: "Red Task"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-01"
 ---
 
-# Plot: The Red Task
+# Plot: Red Task
 
 ## Taxonomy
 
