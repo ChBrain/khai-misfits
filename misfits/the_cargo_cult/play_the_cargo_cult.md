@@ -98,16 +98,19 @@ Strip the ceremony back to the mechanism and ask what actually makes cargo come,
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Copy Best](plot_copy_best.md)**
 A team under pressure to succeed, unsure what causes success, looks to a model that worked. The Copyist adopts its form, and the Patron rewards the resemblance. Closes when the form is chosen over the substance, because the form is what can be seen and paid for.
 
-**[Do](plot_do.md)**
+**[Legitimacy](plot_legitimacy.md)**
+Cue: the recognised form is on show to an audience that knows it. The Patron credits the team for working the way the winners work and funds the resemblance on sight, before any cargo lands. Closes when the form is paid up front, and so is never made to work.
+
+**[Decoupling](plot_decoupling.md)**
 Cue: the form is built to the letter. The Ritualist performs the ceremony faithfully, and the Screen keeps it on display while the real work is decoupled behind it. Closes when the ritual runs perfectly and produces nothing.
 
-**[Check](plot_check.md)**
+**[Empty Runway](plot_empty_runway.md)**
 Cue: no cargo lands, but the audit is of the form. The Inspector scores fidelity to the model and passes it, and the Doubter asks where the planes are and is set aside as off-book. Closes when the form passes its audit while the function fails.
 
-**[The Workshop](plot_the_workshop.md)**
+**[Workshop](plot_workshop.md)**
 Cue: someone stops asking whether the ritual is faithful and asks what actually makes cargo come. The Rebuilder strips the ceremony back to the mechanism and rebuilds function from cause. Closes when function returns at the cost of the ritual's easy legitimacy ... or the ceremony is too comfortable to give up, and the runway stays empty.
 
 ## Stakes

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "The Copy"
+title: "Copy Best"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-01"
 ---
 
-# Plot: The Copy
+# Plot: Copy Best
 
 ## Taxonomy
 
