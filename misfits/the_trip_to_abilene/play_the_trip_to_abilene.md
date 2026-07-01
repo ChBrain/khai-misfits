@@ -96,16 +96,16 @@ Let one person say the private thing out loud and the whole false consensus fall
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Trial Balloon](plot_trial_balloon.md)**
 An idea is floated without being wanted. The first nods come to be agreeable, and the one who objects reads the room and swallows it. Closes when a rough accord forms that no seat has actually endorsed.
 
-**[Do](plot_do.md)**
+**[Silence Travels](plot_silence_travels.md)**
 Cue: the accord is read back as settled. Each private doubt takes the public assent for a majority and falls in line, so the silence travels seat to seat. Closes when a mandate is manufactured from an agreement no one holds.
 
-**[Check](plot_check.md)**
+**[Manufactured Mandate](plot_manufactured_mandate.md)**
 Cue: the mandate is cited as authority. The decision is ratified and carried out, past the point where reversing costs more face than proceeding. Closes when the thing no one wanted is done, on the record, unanimously.
 
-**[The Drive Back](plot_the_drive_back.md)**
+**[Drive Back](plot_drive_back.md)**
 Cue: the cost lands and someone finally says the private thing aloud. One admission cascades into all of them. Closes when the agreement is revealed as held by nobody ... or the silence holds, and the room drives to Abilene again.
 
 ## Stakes

@@ -95,16 +95,16 @@ Reorder the stations and the accumulation stops accumulating: the order is the s
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Specification Misfit](plot_specification_misfit.md)**
 The decision is made: the category specified, the budget set. Closes when the spec and the budget are locked and handed down.
 
-**[Do](plot_do.md)**
+**[Tolerance Misfit](plot_tolerance_misfit.md)**
 Cue: the locked decision reaches the floor. It is built to tolerance and commissioned into the room. Closes when the door shuts and custody passes to the Body.
 
-**[Check](plot_check.md)**
+**[Adaptation Misfit](plot_adaptation_misfit.md)**
 Cue: the Body is living with it. The accumulated gap meets the first open form. Closes when one symptom is filed as a ticket.
 
-**[Act](plot_act.md)**
+**[Finding Misfit](plot_finding_misfit.md)**
 Cue: the ticket reaches service management. A finding carries a fragment back toward the chain. Closes when the loop closes ... or runs anyway.
 
 ## Stakes
