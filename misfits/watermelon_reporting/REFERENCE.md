@@ -61,7 +61,7 @@ Source to constraint, per element.
 - **[The Critical Path](piece_the_critical_path.md)**: carries the sideways axis, work
   continuing task to task past a blown path, that the reporting literature leaves
   implicit.
-- **[The Cleaner](persona_the_cleaner.md)** and [Clean the House](plot_clean_the_house.md):
+- **[The Cleaner](persona_the_cleaner.md)** and [Clean House](plot_clean_house.md):
   carry the reversed incentive and the deaf effect broken, exposure once it finally pays.
 - **[The Watermelon](piece_the_watermelon.md)**: carries the phenomenon itself, green
   skin over red flesh, held whole by nobody.

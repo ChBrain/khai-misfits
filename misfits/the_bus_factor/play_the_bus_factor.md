@@ -98,16 +98,16 @@ Write it down once, where anyone can read it, and the bus has nothing to take: t
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Fast Path](plot_fast_path.md)**
 A critical system rests on one person's tacit knowledge. Questions route to them because it is fastest, and writing it down goes on the backlog. The Keystone answers, the Asker asks. Closes when the fast path is set and the documentation is deferred without end.
 
-**[Do](plot_do.md)**
+**[Backlog Item](plot_backlog_item.md)**
 Cue: the team ships on the expert. Each answer deepens the concentration, the expert becomes indispensable and is rewarded for it, and the named backup is never given the time to become real. Closes when the team is fastest and most fragile, dependence at its peak and redundancy at zero.
 
-**[Check](plot_check.md)**
+**[Single Point](plot_single_point.md)**
 Cue: a new hire cannot onboard from documentation that does not exist, so they learn by asking the expert, deepening it again. The risk owner sees the single point of failure and bets the expert stays, because they are here and delivering. Closes when the risk is on the register, accepted, and growing.
 
-**[The Empty Desk](plot_the_empty_desk.md)**
+**[Empty Desk](plot_empty_desk.md)**
 Cue: the one head leaves, by bus or notice or burnout, and the knowledge leaves with it. The successor digs through the undocumented system to rebuild a partial, wrong copy. Closes when the bus factor is named ... or the next single point is already forming.
 
 ## Stakes

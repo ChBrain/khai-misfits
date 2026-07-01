@@ -36,5 +36,5 @@ It looks like expertise deepening, a go-to person becoming ever more capable, th
 
 ## Yearbook
 
-Driven by every ask, and reversed by nothing, until [the empty desk](plot_the_empty_desk.md).
+Driven by every ask, and reversed by nothing, until [the empty desk](plot_empty_desk.md).
 It runs the dependence up while the redundancy falls, [the fast path](piece_the_fast_path.md) feeding [the tacit knowledge](piece_the_tacit_knowledge.md) back into the one head it came from, the two lines drawing apart the whole way, until the distance between what the team relies on and what it could survive losing is the whole system.

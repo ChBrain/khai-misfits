@@ -37,4 +37,4 @@ Each rung looks like progress, merit rewarded, someone going places. It is progr
 ## Yearbook
 
 Driven by [the mastery](piece_the_mastery.md) read as [the wrong signal](piece_the_wrong_signal.md), stopped only by [the level of incompetence](piece_the_level_of_incompetence.md).
-It carries the best performer steadily away from their best performance, rung after well-earned rung, until [the backfill](plot_the_backfill.md) sends the next one up the same slope, and the ladder does again, to someone new, exactly what it did.
+It carries the best performer steadily away from their best performance, rung after well-earned rung, until [the backfill](plot_backfill.md) sends the next one up the same slope, and the ladder does again, to someone new, exactly what it did.

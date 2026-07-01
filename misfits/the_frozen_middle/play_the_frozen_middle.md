@@ -98,16 +98,16 @@ Measure the middle on the change instead of the quarter and the layer thaws: the
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Continuity Trap](plot_continuity_trap.md)**
 At the off-site the executive sets a bold change, and the evangelist takes it up with conviction and no line authority. The director begins to translate it into something that will not threaten the quarter. Closes when the bold change has become a safe plan.
 
-**[Do](plot_do.md)**
+**[Husk](plot_husk.md)**
 Cue: the change cascades down. Each layer softens it to protect delivery, the manager buffers the disruption, and what reaches the floor is a husk. Closes when the frontline receives the change with its point removed, and keeps doing today's job.
 
-**[Check](plot_check.md)**
+**[On-Track Report](plot_on_track_report.md)**
 Cue: the reality climbs back up. Each layer smooths the floor's alarm into a manageable issue, the roll-up aggregates the good news, and the top hears the change is landing. Closes when the transformation is declared embedded and nothing has moved.
 
-**[The Reorg](plot_the_reorg.md)**
+**[Reorg](plot_reorg.md)**
 Cue: the change plainly did not land, or a new executive arrives. The answer is to bypass the middle with a restructure. Closes when the frozen middle is named ... or the reorg dissolves this middle and grows the next one in its place.
 
 ## Stakes
