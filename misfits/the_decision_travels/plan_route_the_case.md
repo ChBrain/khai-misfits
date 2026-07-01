@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-01"
 status: active
 ---
 
@@ -31,7 +31,7 @@ A logged, moving case is the seat's whole intent: capture the symptom, send it o
 
 ## Implementation
 
-[The help desk](place_the_help_desk.md); the [service management](process_service_management.md) process; an intake form with fields, and a whole that exceeds them.
+[The help desk](place_the_help_desk.md); the [integration](process_integration.md) process; an intake form with fields, and a whole that exceeds them.
 
 ## Targets
 

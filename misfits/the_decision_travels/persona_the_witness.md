@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-25"
+  date: "2026-07-01"
 type: archetype
 ---
 
@@ -14,7 +14,7 @@ type: archetype
 
 ## Taxonomy
 
-[Service Manager](position_service_manager.md). The same desk as the Advocate, turned toward the chain.
+[Integrator](position_integrator.md). The service desk turned all the way around: the one seat that could carry the whole back.
 
 ## Owner
 
@@ -32,8 +32,8 @@ Holds the gap between the one symptom the system will accept and the whole the B
 
 ## Shadow
 
-Can hold the gap but cannot send it.
-The chain files one symptom at a time, so the Witness becomes the place the whole accumulates and stops, a custodian of everything that did not fit the ticket.
+Can hold the gap but, in the forward chain, cannot send it.
+The chain files one symptom at a time, so the Witness becomes the place the whole accumulates and stops, a custodian of everything that did not fit the ticket, waiting for a channel that runs the other way.
 
 ## Tell
 
