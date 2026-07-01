@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -44,6 +44,12 @@
       "id": "the_colour_of_the_bike_shed",
       "title": "The Colour of the Bike Shed",
       "description": "A meeting scrutinises the trivial thing everyone understands and waves through the vital thing no one does."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_commons",
+      "title": "The Commons",
+      "description": "Everyone takes a fair share of the shared field, and the field goes bare, because the cost of one more is split by all."
     },
     {
       "kind": "misfit",
