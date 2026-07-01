@@ -98,13 +98,13 @@ Give it one name on one desk and it is done by Tuesday: the ownership is the sto
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Blank Box](plot_blank_box.md)**
 An open item is raised in the meeting. It sits at the seam between two remits, and on the RACI its Accountable box is blank, or shared. The Flag raises it, the Sidestep passes it to the more obvious owner. Closes when the item is on the table with no name against it.
 
-**[Do](plot_do.md)**
+**[Thinning](plot_thinning.md)**
 Cue: the item travels the circle of plausible owners. The department head assumes the specialist has it, the specialist waits for a mandate, and each deferral thins the next one's share. Closes when responsibility has divided so far that no share is enough to act on.
 
-**[Check](plot_check.md)**
+**[Parking Lot](plot_parking_lot.md)**
 Cue: the room is asked who owns it, and no hand goes up. Each capable seat reads the others as reason to assume it is handled, and the many hands make it nobody's. Closes when the item is officially with the working group and actually with no one.
 
 **[Left Holding](plot_left_holding.md)**

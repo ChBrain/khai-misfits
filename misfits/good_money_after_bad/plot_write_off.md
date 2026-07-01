@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "The Write-Off"
+title: "Write-Off"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-01"
 ---
 
-# Plot: The Write-Off
+# Plot: Write-Off
 
 ## Taxonomy
 
