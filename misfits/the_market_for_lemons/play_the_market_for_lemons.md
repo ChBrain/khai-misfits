@@ -98,16 +98,16 @@ Make the quality visible and the good can name their price and stay: the average
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Pooling Price](plot_pooling_price.md)**
 A good unit and a bad one come to market, and only the seller knows which is which. The buyer cannot verify, so a single price forms for the pool, at the average. The Honest lists a cherry, the Averager sets one price for all. Closes when good and bad are priced the same.
 
-**[Do](plot_do.md)**
+**[Cherry Withdraws](plot_cherry_withdraws.md)**
 Cue: the buyer discounts for the doubt. The good seller, offered the average for an above-average unit, withdraws rather than be robbed, and the lemon seller stays, glad of the price. Closes when the good exit and the pool tilts toward lemons.
 
-**[Check](plot_check.md)**
+**[Adverse Selection](plot_adverse_selection.md)**
 Cue: the good are gone, so the pool is worse, so the price falls again. The appraiser cannot reliably tell good from bad, and a signaller's costly warranty is only half believed. Closes when the pool is mostly lemons and the price is a lemon price.
 
-**[The Stamp](plot_the_stamp.md)**
+**[Stamp](plot_stamp.md)**
 Cue: someone imposes a trusted third-party certification, making quality visible at last. The good can return, at a price that now includes the cost of proving they are good. Closes when the lemons market is named ... or no signal is trusted, and the market empties.
 
 ## Stakes

@@ -98,16 +98,16 @@ Bind the neighbours to a cap they cannot each undercut, and the field can hold: 
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Private Sum](plot_private_sum.md)**
 The green stands full and open, every neighbour free to graze it. The Reckoner works the private math: one more animal is a whole gain to its owner, and its harm to the grass is split among all. The Grazer decides to add. Closes when the private ledger says take.
 
-**[Do](plot_do.md)**
+**[Overshoot](plot_overshoot.md)**
 Cue: every commoner runs the same math at once. The Grazer adds one more, and the Taker draws on the field's upkeep while adding nothing to it, and the herd swells past what the grass can grow back. Closes when the draw outruns the renewal.
 
-**[Check](plot_check.md)**
+**[Bare Ground](plot_bare_ground.md)**
 Cue: the grass thins and the bare patch spreads. The Steward grazes less to spare the field and watches the spared grass eaten by the others, and the Tally counts the herd and warns, and can bind no one. Closes when restraint is punished and the field keeps failing.
 
-**[The Fence](plot_the_fence.md)**
+**[Fence](plot_fence.md)**
 Cue: the Bylaw sets a cap all agree is wise, and the Warden binds every neighbour to it with a watch and a real penalty, so the field can hold. The open green becomes a governed one. Closes when the field recovers under rule ... or no one will be bound, and the green goes to dust.
 
 ## Stakes

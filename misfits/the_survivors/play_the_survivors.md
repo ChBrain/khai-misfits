@@ -98,16 +98,16 @@ Recover the missing, reason from who is absent, and the true lesson turns over: 
 
 ## Triggers
 
-**[Plan](plot_plan.md)**
+**[Attrition](plot_attrition.md)**
 The sortie flies, and some bombers come home and some do not. The Returner is wheeled into the hangar with its holes on show, and the Lost goes into the sea with nothing to show at all. Closes when the sample is all survivors and the fatal cases are gone from it.
 
-**[Do](plot_do.md)**
+**[Sample](plot_sample.md)**
 Cue: the sample is assembled from the returned. The Curator gathers the winners, and the Reader reads the pattern their damage shares, honestly and soundly. Closes when a real pattern is read off a sample the outcome selected.
 
-**[Check](plot_check.md)**
+**[Lesson](plot_lesson.md)**
 Cue: the pattern becomes advice. The Storyteller teaches the crews to armour the holes, and the Mourner points at the sea and asks where the lost were hit, and is waved off as morbid. Closes when the backwards lesson is taught and the doubt about the absent is filed.
 
-**[The Drawing Board](plot_the_drawing_board.md)**
+**[Drawing Board](plot_drawing_board.md)**
 Cue: someone reasons from who is not in the hangar. The Statistician recovers the missing, sees that the survivors' clean spots are where the lost were struck, and armours the gaps. Closes when the true lesson turns over at the cost of the flattering one ... or the survivors are too vivid to doubt, and the wrong armour ships.
 
 ## Stakes
