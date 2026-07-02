@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.30.0",
+  "version": "0.31.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -152,6 +152,12 @@
       "id": "the_ninth_woman",
       "title": "The Ninth Woman",
       "description": "More people are added to a late project to speed it up, and the ramp-up and cross-talk make it later still."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_shirky_principle",
+      "title": "The Shirky Principle",
+      "description": "The body built to cure a problem comes to depend on it, so it solves just enough to stay needed, never enough to end."
     },
     {
       "kind": "misfit",
