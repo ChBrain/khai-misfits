@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.28.0",
+  "version": "0.29.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -56,6 +56,12 @@
       "id": "seed_corn",
       "title": "Seed Corn",
       "description": "The quarter's number is hit by eating the seed corn: the present looks strong, and the future pays the bill."
+    },
+    {
+      "kind": "misfit",
+      "id": "shifting_the_burden",
+      "title": "Shifting the Burden",
+      "description": "Reach for the quick fix and the capacity for the real cure withers, until the fix is the only thing that still works."
     },
     {
       "kind": "misfit",
