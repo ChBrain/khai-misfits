@@ -64,6 +64,8 @@ the thirty-three misfits staged as of this writing.
 - [ ] [P1] Information Cascade (Bikhchandani et al.; Banerjee): each rationally follows the crowd and discards their private signal
 - [ ] [P1] Baumol's Cost Disease (Baumol & Bowen): services grow ever costlier because their wages track productive sectors
 - [ ] [P1] The Dead Sea Effect (Webster): the best evaporate and leave, the residue settles and stays
+- [ ] [P1] Plausible Deniability (Church Committee; willful blindness, Global-Tech v. SEB; Bandura): a principal engineers not-knowing so blame cannot attach, the top-down mirror of Watermelon Reporting
+- [ ] [P1] The Paper Trail (defensive medicine; Merton's goal displacement; blame culture): process optimised for blamelessness rather than outcome, the sign-off and box tick that protect the person while the aim fails
 - [ ] [P2] Limits to Growth (Meadows): pushing the growth engine harder once a balancing limit binds
 - [ ] [P2] Pournelle's Iron Law: the organisation captured by the org-devoted over the mission-devoted
 - [ ] [P2] The Law of the Instrument (Maslow; Kaplan): the tool you hold shapes the problem you see
