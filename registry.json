@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.39.0",
+  "version": "0.40.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -68,6 +68,12 @@
       "id": "regulatory_capture",
       "title": "Regulatory Capture",
       "description": "A watchdog set to guard the public against an industry comes, in time, to guard the industry against the public."
+    },
+    {
+      "kind": "misfit",
+      "id": "rent_seeking",
+      "title": "Rent-Seeking",
+      "description": "Real resources are spent competing to capture a transfer rather than to create wealth, so slicing the pie shrinks it."
     },
     {
       "kind": "misfit",
