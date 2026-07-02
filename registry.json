@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.29.0",
+  "version": "0.30.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -50,6 +50,12 @@
       "id": "sandbag",
       "title": "Sandbag",
       "description": "Beat the target and next year's is higher, so everyone hits the number and hides the rest, and no one shows their best."
+    },
+    {
+      "kind": "misfit",
+      "id": "saving_face",
+      "title": "Saving Face",
+      "description": "A courteous team keeps every mistake unspoken, fixing what it can name and never learning what it cannot say."
     },
     {
       "kind": "misfit",
