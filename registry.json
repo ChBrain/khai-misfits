@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.23.0",
+  "version": "0.24.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -116,6 +116,12 @@
       "id": "the_mirror",
       "title": "The Mirror",
       "description": "Teams ship a system shaped like their own org chart, so the software's seams fall exactly where the teams don't talk."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_ninth_woman",
+      "title": "The Ninth Woman",
+      "description": "More people are added to a late project to speed it up, and the ramp-up and cross-talk make it later still."
     },
     {
       "kind": "misfit",
