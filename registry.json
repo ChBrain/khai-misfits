@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.44.0",
+  "version": "0.45.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -74,6 +74,12 @@
       "id": "path_dependence",
       "title": "Path Dependence",
       "description": "A lead won by accident compounds as each adopter picks what others picked, until a worse standard locks in for good."
+    },
+    {
+      "kind": "misfit",
+      "id": "plausible_deniability",
+      "title": "Plausible Deniability",
+      "description": "A principal wants a deed, won't order it, and arranges not to know it, so when it surfaces the blame cannot reach them."
     },
     {
       "kind": "misfit",
