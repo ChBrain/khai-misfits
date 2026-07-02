@@ -36,5 +36,5 @@ It looks like an ordinary career that levelled off, a manager who is fine, nothi
 
 ## Yearbook
 
-Lived by [the stuck](persona_the_stuck.md), routed around by [the router](persona_the_router.md), and never returned to the bench.
+Lived by [the stuck](persona_the_stuck.md), routed around by the team that must deliver despite the seat, and never returned to the bench.
 It is the human cost the play refuses to hide: a reward that punished excellence by ending it, a master kept from mastery by the very ladder that honoured it, stranded at the top of a climb that should have stopped one rung sooner.
