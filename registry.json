@@ -1,13 +1,19 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.42.0",
+  "version": "0.43.0",
   "misfits": [
     {
       "kind": "misfit",
       "id": "bad_coin",
       "title": "Bad Coin",
       "description": "Good and shoddy pass at the same bar, so the shoddy circulates and the careful work is quietly withdrawn."
+    },
+    {
+      "kind": "misfit",
+      "id": "baumols_cost_disease",
+      "title": "Baumol's Cost Disease",
+      "description": "A service whose hour cannot be sped up grows costlier forever, its wages tracking sectors that got more productive."
     },
     {
       "kind": "misfit",
