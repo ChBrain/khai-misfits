@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.47.0",
+  "version": "0.48.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -86,6 +86,12 @@
       "id": "plausible_deniability",
       "title": "Plausible Deniability",
       "description": "A principal wants a deed, won't order it, and arranges not to know it, so when it surfaces the blame cannot reach them."
+    },
+    {
+      "kind": "misfit",
+      "id": "pournelles_iron_law",
+      "title": "Pournelle's Iron Law",
+      "description": "Those devoted to the organisation win control from those devoted to its mission: control is made of what they tend."
     },
     {
       "kind": "misfit",
