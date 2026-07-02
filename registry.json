@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.31.0",
+  "version": "0.33.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -26,6 +26,12 @@
       "id": "good_money_after_bad",
       "title": "Good Money After Bad",
       "description": "A doomed project is funded past every reason to stop: each gate weighs what was spent, not what is left to gain."
+    },
+    {
+      "kind": "misfit",
+      "id": "jevons_paradox",
+      "title": "Jevons Paradox",
+      "description": "Make a resource go further per unit and total use rises, as cheaper service draws more demand than the saving spared."
     },
     {
       "kind": "misfit",
@@ -68,6 +74,12 @@
       "id": "shifting_the_burden",
       "title": "Shifting the Burden",
       "description": "Reach for the quick fix and the capacity for the real cure withers, until the fix is the only thing that still works."
+    },
+    {
+      "kind": "misfit",
+      "id": "social_loafing",
+      "title": "Social Loafing",
+      "description": "In a group each pulls a little softer, because effort blends into the pool and no single hand can be seen to slack."
     },
     {
       "kind": "misfit",
