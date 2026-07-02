@@ -40,9 +40,7 @@ Price the link, or close it, and the network speeds up: what you add for each is
 
 - [The Planner](persona_the_planner.md)
 - [The Commuter](persona_the_commuter.md)
-- [The Holdout](persona_the_holdout.md)
 - [The Dispatcher](persona_the_dispatcher.md)
-- [The Convert](persona_the_convert.md)
 - [The Mayor](persona_the_mayor.md)
 - [The Tollkeeper](persona_the_tollkeeper.md)
 
@@ -50,9 +48,7 @@ Price the link, or close it, and the network speeds up: what you add for each is
 
 - [Planner](position_planner.md)
 - [Router](position_router.md)
-- [Keeper](position_keeper.md)
 - [Dispatcher](position_dispatcher.md)
-- [Follower](position_follower.md)
 - [Steward](position_steward.md)
 - [Pricer](position_pricer.md)
 
@@ -60,9 +56,7 @@ Price the link, or close it, and the network speeds up: what you add for each is
 
 - [Add the Road](plan_add_the_road.md)
 - [Take the Shortcut](plan_take_the_shortcut.md)
-- [Hold the Route](plan_hold_the_route.md)
 - [Route the Fleet](plan_route_the_fleet.md)
-- [Match the Fast](plan_match_the_fast.md)
 - [Keep the City Moving](plan_keep_the_city_moving.md)
 - [Price the Road](plan_price_the_road.md)
 
@@ -101,10 +95,10 @@ Price the link, or close it, and the network speeds up: what you add for each is
 The network is congested and the pressure is to add capacity. The Planner opens a new link to relieve the old roads. Closes when the extra road is built and open, offered as pure relief.
 
 **[The Shortcut](plot_the_shortcut.md)**
-Cue: the new link is faster for any single driver who takes it. The Commuter reroutes onto it, rationally, and the Holdout keeps the old road and starts to lose. Closes when the new link is the quickest choice for each and the traffic begins to pile onto it.
+Cue: the new link is faster for any single driver who takes it. The Commuter reroutes onto it, rationally, and the traffic left on the old road begins to lose. Closes when the new link is the quickest choice for each and the traffic begins to pile onto it.
 
 **[The Rush](plot_the_rush.md)**
-Cue: on equal terms the shortcut wins, and the Dispatcher routes the whole fleet by shortest path. The Convert, watching the old road lose, drops onto the link to keep up. Closes when nearly everyone is on the shortcut and the old balance is gone.
+Cue: on equal terms the shortcut wins, and the Dispatcher routes the whole fleet by shortest path. The last drivers on the old road drop onto the link to keep up. Closes when nearly everyone is on the shortcut and the old balance is gone.
 
 **[The Slowdown](plot_the_slowdown.md)**
 Cue: the run is now slower than before the road was built. The Mayor measures the average and finds every driver worse off, though each drove well. Closes when the slowdown is named as the cost of the added link ... or blamed on demand, and another road is called for.

@@ -26,7 +26,7 @@ Longer on the map, but balanced, and quick enough when the loads were spread acr
 
 ## Holds
 
-The system-optimal path, kept now only by the holdout.
+The system-optimal path, kept now only by the traffic that has not switched.
 The route a coordinated network would want more drivers on, emptying as they leave.
 
 ## Offers

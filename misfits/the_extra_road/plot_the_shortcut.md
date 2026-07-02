@@ -26,7 +26,7 @@ A driver reads the roads ahead: the shortcut saves a minute, so of course they t
 
 ## Action
 
-[Routing](process_routing.md): [The Commuter](persona_the_commuter.md), holding [the router's seat](position_router.md), reroutes onto the new link because it is fastest for them, while [the holdout](persona_the_holdout.md) keeps the old road and begins to lose time.
+[Routing](process_routing.md): [The Commuter](persona_the_commuter.md), holding [the router's seat](position_router.md), reroutes onto the new link because it is fastest for them, and the traffic still on [the old route](place_the_old_route.md) begins to lose time.
 
 ## Stage
 
@@ -36,4 +36,4 @@ Each reroute is optimal play, and each adds to the load the next driver meets, s
 ## Tension
 
 Every driver is right, and the rightness is the problem.
-There is no better advice than to take the quicker road, and no driver owes the network the slower one, so the shortcut fills with people doing exactly the sensible thing. The minute each saves is paid, many times over, by everyone the link now carries ... and the only driver acting against the crowd, the holdout, is simply losing time for a whole that will not thank them.
+There is no better advice than to take the quicker road, and no driver owes the network the slower one, so the shortcut fills with people doing exactly the sensible thing. The minute each saves is paid, many times over, by everyone the link now carries ... and whatever traffic still holds to the old route is simply losing time for a whole that will not thank it.

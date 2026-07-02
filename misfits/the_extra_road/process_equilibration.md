@@ -22,7 +22,7 @@ stamp:
 ## Initiated by
 
 Drivers switching routes until switching stops helping.
-The last holdout converting, the flows finding their level.
+The last drivers leaving the old route, the flows finding their level.
 
 ## Direction
 
