@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.21.0",
+  "version": "0.22.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -92,6 +92,12 @@
       "id": "the_decision_travels",
       "title": "The Decision Travels",
       "description": "A correct decision crosses the whole chain while the Body who must live with it never follows it."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_extra_road",
+      "title": "The Extra Road",
+      "description": "A road added to ease the jam draws everyone onto it, and the whole network slows: more capacity, less flow."
     },
     {
       "kind": "misfit",
