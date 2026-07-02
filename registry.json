@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.38.0",
+  "version": "0.39.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -26,6 +26,12 @@
       "id": "everybodys_business",
       "title": "Everybody's Business",
       "description": "A decision everyone can see and anyone could own is dropped, because each assumes it is somebody else's to hold."
+    },
+    {
+      "kind": "misfit",
+      "id": "fixes_that_fail",
+      "title": "Fixes that Fail",
+      "description": "A fix relieves the symptom now, and its delayed side effect worsens the problem, so more of the same fix is applied."
     },
     {
       "kind": "misfit",
