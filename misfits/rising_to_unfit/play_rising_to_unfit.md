@@ -42,7 +42,6 @@ Reward people for the job they will do, not the one they have done, and the ladd
 - [The Natural](persona_the_natural.md)
 - [The Rewarder](persona_the_rewarder.md)
 - [The Stuck](persona_the_stuck.md)
-- [The Router](persona_the_router.md)
 - [The Ratchet](persona_the_ratchet.md)
 - [The Blesser](persona_the_blesser.md)
 - [The Next](persona_the_next.md)
@@ -52,7 +51,6 @@ Reward people for the job they will do, not the one they have done, and the ladd
 - [Individual Contributor](position_individual_contributor.md)
 - [Promoting Manager](position_promoting_manager.md)
 - [Manager](position_manager.md)
-- [Report](position_report.md)
 - [HR](position_hr.md)
 - [Executive](position_executive.md)
 - [Successor](position_successor.md)
@@ -62,7 +60,6 @@ Reward people for the job they will do, not the one they have done, and the ladd
 - [Master the Craft](plan_master_the_craft.md)
 - [Reward the Best](plan_reward_the_best.md)
 - [Rise and Stick](plan_rise_and_stick.md)
-- [Route Around](plan_route_around.md)
 - [Never Demote](plan_never_demote.md)
 - [Bless the Numbers](plan_bless_the_numbers.md)
 - [Backfill the Star](plan_backfill_the_star.md)
@@ -72,7 +69,6 @@ Reward people for the job they will do, not the one they have done, and the ladd
 - [The Workbench](place_the_workbench.md)
 - [The Calibration](place_the_calibration.md)
 - [The Corner Office](place_the_corner_office.md)
-- [The Team Room](place_the_team_room.md)
 - [The Org Chart](place_the_org_chart.md)
 - [The Plateau](place_the_plateau.md)
 
@@ -82,7 +78,6 @@ Reward people for the job they will do, not the one they have done, and the ladd
 - [Promotion](process_promotion.md)
 - [Regression](process_regression.md)
 - [Ratcheting](process_ratcheting.md)
-- [Workaround](process_workaround.md)
 - [Recurrence](process_recurrence.md)
 
 **Pieces**

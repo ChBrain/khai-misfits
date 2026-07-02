@@ -27,12 +27,11 @@ The manager is failing in the role and there is no move back, so the failure has
 ## Action
 
 [Ratcheting](process_ratcheting.md): [The Ratchet](persona_the_ratchet.md), holding [the HR seat](position_hr.md), promotes readily and demotes never, because a demotion would humiliate the person and indict the promotion.
-[Workaround](process_workaround.md): [The Router](persona_the_router.md) at [the report's seat](position_report.md), in [the team room](place_the_team_room.md), quietly gets the work done around the stuck manager.
 
 ## Stage
 
 [The Ratchet](persona_the_ratchet.md) tables [Never Demote](plan_never_demote.md): keep the ladder one-way, and [the one-way ladder](piece_the_one_way_ladder.md) welds the misfit in place.
-[The Router](persona_the_router.md) tables [Route Around](plan_route_around.md): deliver despite the seat above, and [the stranded master](piece_the_stranded_master.md) is left in the corner office, a lost maker and a struggling boss, while the team carries the role the role-holder cannot.
+So [the stranded master](piece_the_stranded_master.md) is left in the corner office, a lost maker and a struggling boss, while the team carries the role the role-holder cannot.
 
 ## Tension
 
