@@ -32,7 +32,7 @@ It travels the circle of plausible owners, and each hand that touches it opens r
 ## Stage
 
 [The Nod](persona_the_nod.md) tables [Assume It's Covered](plan_assume_its_covered.md): trust the nearest expert to own it, and [the someone-else](piece_the_someone_else.md) points quietly at the next desk.
-[The Expert](persona_the_expert.md) tables [Wait for the Mandate](plan_wait_for_the_mandate.md): hold until told it is mine, and [the thinning](piece_the_thinning.md) divides the duty a little further with every capable seat it reaches.
+[The Expert](persona_the_expert.md) tables [Wait for the Mandate](plan_wait_for_the_mandate.md): hold until told it is mine, and [the overstep](piece_the_overstep.md) keeps a willing hand off a duty no one may authorise, so [the thinning](piece_the_thinning.md) divides it a little further with every capable seat it reaches.
 
 ## Tension
 

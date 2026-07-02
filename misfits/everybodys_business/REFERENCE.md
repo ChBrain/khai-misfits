@@ -15,9 +15,10 @@ Staging diffusion of responsibility as a **systemic system**: a group in which e
 is willing and the open duty is dropped anyway, because responsibility divides by the number
 who could hold it, so the more capable people who can see a thing, the less of the duty to act
 falls on any one of them. The play models the documented mechanics, diffusion of responsibility
-in the presence of others, the falling rate of intervention as group size grows, the problem of
-many hands under shared contribution, and the assignment structure that leaves no single owner,
-as the load-bearing vectors of the structure, not as a tale of shirkers. The governing finding
+in the presence of others, the falling rate of intervention as group size grows, the willing kept
+from acting by the cost of overstepping an unassigned remit, the problem of many hands under shared
+contribution, and the assignment structure that leaves no single owner, as the load-bearing vectors
+of the structure, not as a tale of shirkers. The governing finding
 of the source literature is the play's governing law: bystander intervention decreases as the
 number of bystanders increases, so the duty runs one direction, thinning with every added seat,
 and the room best able to act is the room least likely to.
@@ -63,6 +64,9 @@ Source to constraint, per element.
   with no single Accountable, diffusion written into the chart.
 - **[The Unraised Hand](piece_the_unraised_hand.md)**: carries the bystander non-response (Latané &
   Darley), the group asked to volunteer and declining in unison.
+- **[The Overstep](piece_the_overstep.md)**: carries evaluation apprehension (Fischer et al.; the
+  "do not overstep a colleague" norm), the willing kept from an unowned duty because acting on it
+  would exceed their remit and be judged as presumption, distinct from assuming another holds it.
 - **[The Many Hands](piece_the_many_hands.md)**: carries the problem of many hands (Thompson), a thing
   everyone touched and no one is answerable for.
 - **[The Thinning](piece_the_thinning.md)**: carries the group-size effect (Latané, Williams & Harkins;

@@ -91,6 +91,7 @@ Give it one name on one desk and it is done by Tuesday: the ownership is the sto
 - [The Someone-Else](piece_the_someone_else.md)
 - [The Blank Box](piece_the_blank_box.md)
 - [The Unraised Hand](piece_the_unraised_hand.md)
+- [The Overstep](piece_the_overstep.md)
 - [The Many Hands](piece_the_many_hands.md)
 - [The Thinning](piece_the_thinning.md)
 - [The Hot Potato](piece_the_hot_potato.md)
