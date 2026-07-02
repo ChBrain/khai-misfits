@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.41.0",
+  "version": "0.42.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -38,6 +38,12 @@
       "id": "good_money_after_bad",
       "title": "Good Money After Bad",
       "description": "A doomed project is funded past every reason to stop: each gate weighs what was spent, not what is left to gain."
+    },
+    {
+      "kind": "misfit",
+      "id": "information_cascade",
+      "title": "Information Cascade",
+      "description": "Everyone follows the crowd and swallows their own hint, so the herd locks onto the first few noisy guesses."
     },
     {
       "kind": "misfit",
