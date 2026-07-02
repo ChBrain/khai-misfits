@@ -30,6 +30,17 @@ restages a misfit lands as one `misfit/` PR); committed alone, an order homes to
 
 Never `--no-verify`. Never merge; open the PR and stop.
 
+## Authoring
+
+Cut to fit, computed not copied. A misfit is one **play**, and the play is the
+only fixed element; the pitch is the single hook. Every element below them
+(personas, positions, plans, places, processes, pieces, plots) is cast to the
+concept's own load-bearing vectors, one per vector and no filler, never a uniform
+mould stamped from a sibling misfit. Fluid is not loose: wire what you name, hold
+the floor. The standard is the Playwright's standing plan,
+[Cut to Fit](management/plan_cut_to_fit.md); read it before authoring or
+restaging a misfit.
+
 ## Versioning
 
 The minor version IS the misfit count, computed not chosen. The `version` script
