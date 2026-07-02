@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.25.0",
+  "version": "0.26.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -146,6 +146,12 @@
       "id": "the_trip_to_abilene",
       "title": "The Trip to Abilene",
       "description": "A group agrees its way into a choice no member wanted, each misreading the others' assent for a wish it lacked."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_winning_bid",
+      "title": "The Winning Bid",
+      "description": "In a common-value auction the bidder who most overestimates wins, so to win is to have overpaid."
     },
     {
       "kind": "misfit",
