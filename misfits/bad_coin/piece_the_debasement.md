@@ -36,5 +36,5 @@ It looks like nothing happened, because no cycle debased the standard visibly: e
 
 ## Yearbook
 
-Spread by [the convert](persona_the_convert.md) through [conversion](process_conversion.md), driven by [the race](piece_the_race.md) no careful maker can win.
+Spread through [conversion](process_conversion.md) by the makers who fold, driven by [the race](piece_the_race.md) no careful maker can win.
 It is the misfit in motion: the Debasement turns the hoarding of [the good coin](piece_the_good_coin.md) into a falling standard, and its endpoint is [the debased corpus](piece_the_debased_corpus.md), a body of work levelled to the cheapest thing that passes.

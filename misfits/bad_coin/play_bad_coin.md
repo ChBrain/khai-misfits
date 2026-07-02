@@ -43,7 +43,6 @@ Grade the work, pay a premium for care, and the good returns to circulation: wha
 - [The Spender](persona_the_spender.md)
 - [The Craftsman](persona_the_craftsman.md)
 - [The Foreman](persona_the_foreman.md)
-- [The Convert](persona_the_convert.md)
 - [The Heir](persona_the_heir.md)
 - [The Assayer](persona_the_assayer.md)
 
@@ -53,7 +52,6 @@ Grade the work, pay a premium for care, and the good returns to circulation: wha
 - [Spender](position_spender.md)
 - [Keeper](position_keeper.md)
 - [Pacer](position_pacer.md)
-- [Converter](position_converter.md)
 - [Holder](position_holder.md)
 - [Grader](position_grader.md)
 
@@ -63,7 +61,6 @@ Grade the work, pay a premium for care, and the good returns to circulation: wha
 - [Ship the Quick](plan_ship_the_quick.md)
 - [Keep the Care](plan_keep_the_care.md)
 - [Hit the Throughput](plan_hit_the_throughput.md)
-- [Match the Pace](plan_match_the_pace.md)
 - [Open the Corpus](plan_open_the_corpus.md)
 - [Grade and Pay](plan_grade_and_pay.md)
 
@@ -105,7 +102,7 @@ The bar is set to pass or fail, not to grade: careful work and quick work clear 
 Cue: the two coins are worth the same to spend and cost differently to mint. The Spender ships the quick version and passes, while the Craftsman does it right, earns nothing extra, and keeps his best back. Closes when the cheap coin circulates and the dear one is hoarded.
 
 **[Match Pace](plot_match_pace.md)**
-Cue: on equal terms, quick beats careful, and the Foreman rewards the pace. The Convert, watching care lose the race, drops to the quick to keep up. Closes when holding to care is a handicap and the good makers convert.
+Cue: on equal terms, quick beats careful, and the Foreman rewards the pace. The careful makers, watching care lose the race, drop to the quick to keep up. Closes when holding to care is a handicap and the good makers convert.
 
 **[Debased Corpus](plot_debased_corpus.md)**
 Cue: the body of work is now all coin that passed and will not hold. The Heir opens the corpus and finds it shoddy through, the standard sunk to the cheapest thing that clears the bar. Closes when the debasement is named as the cost of accepting at par ... or the bar is lowered again to match.
