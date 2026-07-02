@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.48.0",
+  "version": "0.49.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -218,6 +218,12 @@
       "id": "the_head_start",
       "title": "The Head Start",
       "description": "An early lead attracts the credit and resources that make the next lead, so small head starts compound into dominance."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_law_of_the_instrument",
+      "title": "The Law of the Instrument",
+      "description": "The one tool a hand has mastered reshapes every problem into the shape it can strike, and trims off the rest."
     },
     {
       "kind": "misfit",
