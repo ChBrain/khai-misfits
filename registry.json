@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.26.0",
+  "version": "0.27.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -104,6 +104,12 @@
       "id": "the_frozen_middle",
       "title": "The Frozen Middle",
       "description": "A bold change dies in the middle: softened on the way down, and the hard truth smoothed on the way up."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_head_start",
+      "title": "The Head Start",
+      "description": "An early lead attracts the credit and resources that make the next lead, so small head starts compound into dominance."
     },
     {
       "kind": "misfit",
