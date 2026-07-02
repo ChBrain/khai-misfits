@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.34.0",
+  "version": "0.35.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -86,6 +86,12 @@
       "id": "social_loafing",
       "title": "Social Loafing",
       "description": "In a group each pulls a little softer, because effort blends into the pool and no single hand can be seen to slack."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_anticommons",
+      "title": "The Anticommons",
+      "description": "Too many owners each hold a veto over one resource, so it sits idle: anyone can say no, and no one can say yes."
     },
     {
       "kind": "misfit",
