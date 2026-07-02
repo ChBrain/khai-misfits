@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.46.0",
+  "version": "0.47.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -56,6 +56,12 @@
       "id": "jevons_paradox",
       "title": "Jevons Paradox",
       "description": "Make a resource go further per unit and total use rises, as cheaper service draws more demand than the saving spared."
+    },
+    {
+      "kind": "misfit",
+      "id": "limits_to_growth",
+      "title": "Limits to Growth",
+      "description": "Growth stalls on a limit, so the engine that made the success is driven harder, when the limit, not the engine, binds."
     },
     {
       "kind": "misfit",
