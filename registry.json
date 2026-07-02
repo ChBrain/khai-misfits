@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.33.0",
+  "version": "0.34.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -44,6 +44,12 @@
       "id": "moral_hazard",
       "title": "Moral Hazard",
       "description": "Insure a risk and the care taken against it falls, because the one who carries the risk no longer carries the loss."
+    },
+    {
+      "kind": "misfit",
+      "id": "regulatory_capture",
+      "title": "Regulatory Capture",
+      "description": "A watchdog set to guard the public against an industry comes, in time, to guard the industry against the public."
     },
     {
       "kind": "misfit",
