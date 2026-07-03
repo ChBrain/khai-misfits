@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.49.0",
+  "version": "0.50.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -260,6 +260,12 @@
       "id": "the_shirky_principle",
       "title": "The Shirky Principle",
       "description": "The body built to cure a problem comes to depend on it, so it solves just enough to stay needed, never enough to end."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_streetlight_effect",
+      "title": "The Streetlight Effect",
+      "description": "The answer lies in the dark, so the search works the lit patch, where looking is easy, and takes what it finds for it."
     },
     {
       "kind": "misfit",
