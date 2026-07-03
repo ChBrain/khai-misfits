@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.71.0",
+  "version": "0.72.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -290,6 +290,12 @@
       "id": "the_filter_bubble",
       "title": "The Filter Bubble",
       "description": "Each click for the agreeable teaches the feed to show more of it, so exposure narrows and the common ground fragments."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_firefighters_medal",
+      "title": "The Firefighter's Medal",
+      "description": "Prevention is invisible and the dramatic save gets the medal, so effort flows to firefighting and the fires never stop."
     },
     {
       "kind": "misfit",
