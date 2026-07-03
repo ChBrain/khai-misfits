@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.53.0",
+  "version": "0.54.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -314,6 +314,12 @@
       "id": "time_inconsistency",
       "title": "Time Inconsistency",
       "description": "A promise best made today is best broken tomorrow, so no one acts on it, and good outcomes need a hand tied in advance."
+    },
+    {
+      "kind": "misfit",
+      "id": "vetocracy",
+      "title": "Vetocracy",
+      "description": "So many actors can block a decision that none can be made, and each veto is a real check, so the system acts on nothing."
     },
     {
       "kind": "misfit",
