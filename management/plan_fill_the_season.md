@@ -61,7 +61,15 @@ re-reading of an unchanged act rather than a shifted baseline or a trimmed margi
 stage alone until it can be cut to that reclassification alone. Brooks's Law (Brooks, The Mythical
 Man-Month), briefly slated in the previous reconcile, is struck as already carried by The Ninth
 Woman, adding people to a late project makes it later, so it is retired here, not stacked beside
-it. The slate is deduped against the sixty-six misfits staged as of this writing.
+it. The Iron Law of Oligarchy (Michels) is held off as too adjacent to Pournelle's Iron Law: both
+end in a self-serving few holding control, and the distinct sliver, that delegation and the
+technical need for leadership breed oligarchy even in a democratic body, is too fine to stage
+apart from it for now. The Red Queen effect (Van Valen) is held off as too adjacent to The Arms
+Race: both have all running to stand still, and the coevolutionary treadmill adds no vector the
+positional race does not already carry. Dedup is now run against the house-wide REFERENCES.md, the
+research-led concordance that resolves a candidate by its canonical name rather than the house's
+title, the check that would have caught Brooks. The slate is deduped against the sixty-seven
+misfits staged as of this writing.
 
 ## Targets
 
@@ -107,5 +115,10 @@ The refill above is now staged in full; the slate is refilled again below.
 
 The refill above is now staged in full; the slate is refilled again below.
 
-- [ ] [P1] The Dilbert Principle (Adams; the "dance of the lemons"; "kicked upstairs"): the incompetent are promoted out of the work that mattered and into the ranks where they can do least harm, so failure is rewarded with rank and the least able rise, distinct from Rising to Unfit's Peter Principle in that the engine is not competence promoted until it fails but incompetence promoted to get it out of the way
+- [x] [P1] The Dilbert Principle (Adams; the "dance of the lemons"; "kicked upstairs"): the incompetent are promoted out of the work that mattered and into the ranks where they can do least harm, so failure is rewarded with rank and the least able rise, distinct from Rising to Unfit's Peter Principle in that the engine is not competence promoted until it fails but incompetence promoted to get it out of the way
 - [ ] [P2] Prevalence-Induced Concept Change (Levari et al., Science 2018; Haslam's "concept creep"): as instances of a problem grow rare, the concept quietly widens to keep finding them, so milder cases are recategorised as the thing itself and the problem never reads as solved, distinct from Metric Fixation's gamed target, The Streetlight Effect's easy search, and The New Normal's tolerated drift in that the yardstick itself widens with the very success it should register, no standard lowered and no deviation waved through
+
+The slate thins as the season matures: the P0 and P1 wells are dry, and what remains are the more niche P2 traps. The two new targets below were deduped against the house-wide REFERENCES.md concordance by canonical name, not house title.
+
+- [ ] [P2] The Availability Cascade (Kuran & Sunstein, "Availability Cascades and Risk Regulation", Stanford Law Review 1999): a belief gains felt truth by repetition, each person rationally updating on how often and how loudly it is voiced and adding their own voice, so an availability-driven consensus snowballs and drives risk regulation out of proportion, distinct from Information Cascade's herding on observed action and The Filter Bubble's personalised narrowing in that the cascade runs on the availability and repetition of a belief, not on copied choices or a cut feed
+- [ ] [P2] The Balloon Effect (crime displacement, Reppetto 1976; the drug-policy balloon effect): pressing hard on an activity in one place is locally effective and merely displaces it elsewhere, so a squeeze here bulges there and the aggregate is unreduced or worse, distinct from The Cobra Effect's perverse production of the very thing and Fixes that Fail's delayed rebound of the same problem in that the activity is neither created nor returned but relocated, conserved under enforcement
