@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.62.0",
+  "version": "0.63.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -260,6 +260,12 @@
       "id": "the_head_start",
       "title": "The Head Start",
       "description": "An early lead attracts the credit and resources that make the next lead, so small head starts compound into dominance."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_irony_of_automation",
+      "title": "The Irony of Automation",
+      "description": "Automating the routine rusts and disengages the operator, so the rare failure lands on a hand too cold to catch it."
     },
     {
       "kind": "misfit",
