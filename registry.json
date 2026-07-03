@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.77.0",
+  "version": "0.78.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -224,6 +224,12 @@
       "id": "the_bank_run",
       "title": "The Bank Run",
       "description": "Each saver runs because he fears the others will, so a solvent bank is felled by the very fear that it might fail."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_bigger_picture",
+      "title": "The Bigger Picture",
+      "description": "A trend in every subgroup reverses once the groups are pooled, so the same honest data backs opposite calls."
     },
     {
       "kind": "misfit",
