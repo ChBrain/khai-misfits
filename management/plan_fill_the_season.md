@@ -47,30 +47,39 @@ niche or mildly adjacent). Each target carries the concept and its key source. H
 on purpose, as already carried or too adjacent to stage alone: the principal-agent problem (the
 parent of Moral Hazard and Metric Fixation), pluralistic ignorance (The Trip to Abilene), the
 Semmelweis reflex (Saving Face, Closing Ranks), the volunteer's dilemma (Everybody's Business),
-winner-take-all or superstar markets (The Head Start), the planning fallacy (Seed Corn, Watermelon
-Reporting), and the observer or Hawthorne effect (Metric Fixation). The slate is deduped against
-the thirty-three misfits staged as of this writing.
+winner-take-all or superstar markets (The Head Start), and the observer or Hawthorne effect (Metric
+Fixation). The planning fallacy, once held off here as adjacent to Seed Corn and Watermelon
+Reporting, is now slated: its engine is an honest estimation error, the inside view over the base
+rate, which neither of those carries. The slate is deduped against the fifty-four misfits staged as
+of this writing.
 
 ## Targets
 
-- [ ] [P0] Regulatory Capture (Stigler, Nobel): the watchdog comes to serve the ones it guards, distinct from The Shirky Principle's self-perpetuation
-- [ ] [P0] The Anticommons (Heller): too many owners with veto rights, so the resource goes unused, the mirror of The Commons
-- [ ] [P0] Chesterton's Fence (Chesterton): tear out a safeguard whose purpose was forgotten and the quiet harm returns, the foil to The New Normal
-- [ ] [P0] The Bank Run (Diamond & Dybvig, Nobel; Merton): each rational withdrawal triggers the collapse it feared, a self-fulfilling panic equilibrium
-- [ ] [P0] Path Dependence and Lock-In (David; Brian Arthur): an early, possibly inferior standard locks in as switching costs compound
-- [ ] [P1] Fixes that Fail (Senge): the fix whose delayed side effect reinstates the problem
-- [ ] [P1] Rent-Seeking (Tullock; Krueger): burning real resources to capture a bigger slice rather than grow the pie
-- [ ] [P1] Time Inconsistency (Kydland & Prescott, Nobel): the plan optimal today is not optimal to keep tomorrow, so good outcomes need commitment
-- [ ] [P1] Information Cascade (Bikhchandani et al.; Banerjee): each rationally follows the crowd and discards their private signal
-- [ ] [P1] Baumol's Cost Disease (Baumol & Bowen): services grow ever costlier because their wages track productive sectors
-- [ ] [P1] The Dead Sea Effect (Webster): the best evaporate and leave, the residue settles and stays
-- [ ] [P1] Plausible Deniability (Church Committee; willful blindness, Global-Tech v. SEB; Bandura): a principal engineers not-knowing so blame cannot attach, the top-down mirror of Watermelon Reporting
-- [ ] [P1] The Paper Trail (defensive medicine; Merton's goal displacement; blame culture): process optimised for blamelessness rather than outcome, the sign-off and box tick that protect the person while the aim fails
-- [ ] [P2] Limits to Growth (Meadows): pushing the growth engine harder once a balancing limit binds
-- [ ] [P2] Pournelle's Iron Law: the organisation captured by the org-devoted over the mission-devoted
-- [ ] [P2] The Law of the Instrument (Maslow; Kaplan): the tool you hold shapes the problem you see
-- [ ] [P2] The Streetlight Effect: search where it is easy to look, not where the answer is
-- [ ] [P2] Moral Licensing (Monin & Miller): a good deed licenses a later lapse
-- [ ] [P2] Not-Invented-Here (Katz & Allen): rejecting outside ideas by reflex
-- [ ] [P2] Accidental Adversaries (Senge): cooperators spiral into rivalry via locally defensive moves
-- [ ] [P2] Vetocracy (Fukuyama): so many veto points the system can block but never act
+- [x] [P0] Regulatory Capture (Stigler, Nobel): the watchdog comes to serve the ones it guards, distinct from The Shirky Principle's self-perpetuation
+- [x] [P0] The Anticommons (Heller): too many owners with veto rights, so the resource goes unused, the mirror of The Commons
+- [x] [P0] Chesterton's Fence (Chesterton): tear out a safeguard whose purpose was forgotten and the quiet harm returns, the foil to The New Normal
+- [x] [P0] The Bank Run (Diamond & Dybvig, Nobel; Merton): each rational withdrawal triggers the collapse it feared, a self-fulfilling panic equilibrium
+- [x] [P0] Path Dependence and Lock-In (David; Brian Arthur): an early, possibly inferior standard locks in as switching costs compound
+- [x] [P1] Fixes that Fail (Senge): the fix whose delayed side effect reinstates the problem
+- [x] [P1] Rent-Seeking (Tullock; Krueger): burning real resources to capture a bigger slice rather than grow the pie
+- [x] [P1] Time Inconsistency (Kydland & Prescott, Nobel): the plan optimal today is not optimal to keep tomorrow, so good outcomes need commitment
+- [x] [P1] Information Cascade (Bikhchandani et al.; Banerjee): each rationally follows the crowd and discards their private signal
+- [x] [P1] Baumol's Cost Disease (Baumol & Bowen): services grow ever costlier because their wages track productive sectors
+- [x] [P1] The Dead Sea Effect (Webster): the best evaporate and leave, the residue settles and stays
+- [x] [P1] Plausible Deniability (Church Committee; willful blindness, Global-Tech v. SEB; Bandura): a principal engineers not-knowing so blame cannot attach, the top-down mirror of Watermelon Reporting
+- [x] [P1] The Paper Trail (defensive medicine; Merton's goal displacement; blame culture): process optimised for blamelessness rather than outcome, the sign-off and box tick that protect the person while the aim fails
+- [x] [P2] Limits to Growth (Meadows): pushing the growth engine harder once a balancing limit binds
+- [x] [P2] Pournelle's Iron Law: the organisation captured by the org-devoted over the mission-devoted
+- [x] [P2] The Law of the Instrument (Maslow; Kaplan): the tool you hold shapes the problem you see
+- [x] [P2] The Streetlight Effect: search where it is easy to look, not where the answer is
+- [x] [P2] Moral Licensing (Monin & Miller): a good deed licenses a later lapse
+- [x] [P2] Not-Invented-Here (Katz & Allen): rejecting outside ideas by reflex
+- [x] [P2] Accidental Adversaries (Senge): cooperators spiral into rivalry via locally defensive moves
+- [x] [P2] Vetocracy (Fukuyama): so many veto points the system can block but never act
+
+The P0 through P2 tiers above are all staged; the slate is refilled below.
+
+- [ ] [P1] The Tyranny of Small Decisions (Kahn; Schelling): many individually rational small choices sum to a collective outcome no one chose, because nothing ever decides the aggregate, the temporal cousin of The Commons with a distinct engine
+- [ ] [P1] Overfitting (bias-variance; the statistical-learning literature): a model fit so tightly to the sample it captures its noise and fails on new reality, explaining the past perfectly and predicting nothing, kept distinct from Metric Fixation and The Streetlight Effect
+- [ ] [P1] The Planning Fallacy (Kahneman & Tversky; Buehler; Flyvbjerg): the inside view underestimates a task's time and cost even when the base rate is known, distinct from Seed Corn (deliberate present-for-future trade) and Watermelon Reporting (status concealment) in that its engine is an honest estimation error, optimism plus strategic misrepresentation
+- [ ] [P2] The Bullwhip Effect (Forrester; Lee, Padmanabhan & Whang): a small demand wobble amplifies up a supply chain into wild swings, each link rationally over-ordering on a lagged, filtered signal
