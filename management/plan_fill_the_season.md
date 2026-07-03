@@ -47,14 +47,15 @@ niche or mildly adjacent). Each target carries the concept and its key source. H
 on purpose, as already carried or too adjacent to stage alone: the principal-agent problem (the
 parent of Moral Hazard and Metric Fixation), pluralistic ignorance (The Trip to Abilene), the
 Semmelweis reflex (Saving Face, Closing Ranks), the volunteer's dilemma (Everybody's Business),
-winner-take-all or superstar markets (The Head Start), and the observer or Hawthorne effect (Metric
-Fixation). The planning fallacy, once held off here as adjacent to Seed Corn and Watermelon
+winner-take-all or superstar markets (The Head Start), the observer or Hawthorne effect (Metric
+Fixation), the security dilemma (Accidental Adversaries), and risk compensation or the Peltzman
+effect (Moral Hazard). The planning fallacy, once held off here as adjacent to Seed Corn and Watermelon
 Reporting, is now slated: its engine is an honest estimation error, the inside view over the base
 rate, which neither of those carries. Preference falsification (Kuran) is held off as the durable,
 society-scale sibling of the pluralistic ignorance The Trip to Abilene already carries; its one
 distinct sliver, the threshold cascade by which a false consensus flips overnight, is too thin to
 stage until it can be cut narrowly to that tipping dynamic. The slate is deduped against the
-sixty misfits staged as of this writing.
+sixty-two misfits staged as of this writing.
 
 ## Targets
 
@@ -88,5 +89,12 @@ The P0 through P2 tiers above are all staged; the slate is refilled below.
 - [x] [P1] The Arms Race (Hirsch, Social Limits to Growth; Robert Frank, The Darwin Economy; Schelling): the prize is relative rank, so each rational escalation only cancels against the others and all pay the cost of standing on tiptoe for a view no one gains, distinct from Rent-Seeking in that nothing is captured, the effort nets to zero
 - [x] [P1] The Paradox of Thrift (Keynes, General Theory; Samuelson): each household prudently saves as the downturn bites, aggregate demand falls, incomes fall, and all save less than they meant, the fallacy of composition by which what is true of one is false of all, distinct from The Bank Run's liquidity panic
 - [x] [P1] The Stag Hunt (Rousseau; Skyrms, The Stag Hunt; Harsanyi & Selten, Nobel): all would gain from the cooperative prize that needs everyone, but each fears another peels off to the safe solo payoff, so all hedge to the inferior-but-safe equilibrium though every one prefers the better, distinct from The Bank Run in that nothing is grabbed and the good state is never formed rather than collapsed, and from the Prisoner's-Dilemma family in that cooperation is a best response once assured, not dominated
-- [ ] [P2] The Bullwhip Effect (Forrester; Lee, Padmanabhan & Whang): a small demand wobble amplifies up a supply chain into wild swings, each link rationally over-ordering on a lagged, filtered signal
-- [ ] [P2] The Brittle Optimum (Perrow, Normal Accidents; Taleb, Antifragile; Bak): every slice of slack and redundancy is locally wasteful and gets optimised away, until the leanest system shatters on the first shock it has no give to absorb, distinct from Seed Corn's present-for-future trade and Limits to Growth's binding limit
+- [x] [P2] The Bullwhip Effect (Forrester; Lee, Padmanabhan & Whang): a small demand wobble amplifies up a supply chain into wild swings, each link rationally over-ordering on a lagged, filtered signal
+- [x] [P2] The Brittle Optimum (Perrow, Normal Accidents; Taleb, Antifragile; Bak): every slice of slack and redundancy is locally wasteful and gets optimised away, until the leanest system shatters on the first shock it has no give to absorb, distinct from Seed Corn's present-for-future trade and Limits to Growth's binding limit
+
+The refill above is now staged in full; the slate is refilled again below.
+
+- [ ] [P1] The Irony of Automation (Bainbridge): automating the routine work deskills and disengages the operator left to handle the rare hard cases, so the better the automation the worse the human is at the moment it finally needs them, distinct from The Bus Factor's concentrated knowledge and The Brittle Optimum's trimmed slack
+- [ ] [P1] Debt-Deflation (Fisher; Bernanke): falling prices raise the real weight of nominal debt, forcing distressed sales that push prices lower still, a spiral distinct from The Paradox of Thrift's demand shortfall and The Bank Run's liquidity panic in that it runs through the rising real value of debt
+- [ ] [P2] The Filter Bubble (Sunstein, Republic.com; Pariser): each rational click for the agreeable narrows exposure and hardens the divide, so a medium built to give people what they want fragments the common ground, distinct from Information Cascade's action-herding on a shared signal and Closing Ranks' cohesive team
+- [ ] [P2] Alarm Fatigue (the cry-wolf; Breznitz; the clinical alarm-fatigue literature): each alarm set conservatively is rational, but the flood of false positives desensitises the responder, so the one true alarm is the one ignored, distinct from The Streetlight Effect and Watermelon Reporting
