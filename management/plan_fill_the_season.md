@@ -58,8 +58,10 @@ stage until it can be cut narrowly to that tipping dynamic. Normalization of dev
 The Challenger Launch Decision) is held off as too adjacent to The New Normal and The Brittle
 Optimum: its sliver, a risky act reclassified as safe each time it passes without harm, is a
 re-reading of an unchanged act rather than a shifted baseline or a trimmed margin, too fine to
-stage alone until it can be cut to that reclassification alone. The slate is deduped against the
-sixty-five misfits staged as of this writing.
+stage alone until it can be cut to that reclassification alone. Brooks's Law (Brooks, The Mythical
+Man-Month), briefly slated in the previous reconcile, is struck as already carried by The Ninth
+Woman, adding people to a late project makes it later, so it is retired here, not stacked beside
+it. The slate is deduped against the sixty-six misfits staged as of this writing.
 
 ## Targets
 
@@ -101,10 +103,9 @@ The refill above is now staged in full; the slate is refilled again below.
 - [x] [P1] The Irony of Automation (Bainbridge): automating the routine work deskills and disengages the operator left to handle the rare hard cases, so the better the automation the worse the human is at the moment it finally needs them, distinct from The Bus Factor's concentrated knowledge and The Brittle Optimum's trimmed slack
 - [x] [P1] Debt-Deflation (Fisher; Bernanke): falling prices raise the real weight of nominal debt, forcing distressed sales that push prices lower still, a spiral distinct from The Paradox of Thrift's demand shortfall and The Bank Run's liquidity panic in that it runs through the rising real value of debt
 - [x] [P2] The Filter Bubble (Sunstein, Republic.com; Pariser): each rational click for the agreeable narrows exposure and hardens the divide, so a medium built to give people what they want fragments the common ground, distinct from Information Cascade's action-herding on a shared signal and Closing Ranks' cohesive team
-- [ ] [P2] Alarm Fatigue (the cry-wolf; Breznitz; the clinical alarm-fatigue literature): each alarm set conservatively is rational, but the flood of false positives desensitises the responder, so the one true alarm is the one ignored, distinct from The Streetlight Effect and Watermelon Reporting
+- [x] [P2] Alarm Fatigue (the cry-wolf; Breznitz; the clinical alarm-fatigue literature): each alarm set conservatively is rational, but the flood of false positives desensitises the responder, so the one true alarm is the one ignored, distinct from The Streetlight Effect and Watermelon Reporting
 
-The slate is refilled again below; Alarm Fatigue above remains the top open target, ahead of this refill.
+The refill above is now staged in full; the slate is refilled again below.
 
 - [ ] [P1] The Dilbert Principle (Adams; the "dance of the lemons"; "kicked upstairs"): the incompetent are promoted out of the work that mattered and into the ranks where they can do least harm, so failure is rewarded with rank and the least able rise, distinct from Rising to Unfit's Peter Principle in that the engine is not competence promoted until it fails but incompetence promoted to get it out of the way
-- [ ] [P1] Brooks's Law (Brooks, The Mythical Man-Month): adding people to a late project makes it later, because each new hand needs ramp-up and every added worker multiplies the communication links, so the rational move to throw labour at a slip slows the very delivery it meant to speed, distinct from The Bus Factor's concentrated knowledge and The Frozen Middle's layer distortion in that its engine is the coordination cost of partitioning the work itself
-- [ ] [P2] Prevalence-Induced Concept Change (Levari et al., Science 2018; Haslam's "concept creep"): as instances of a problem grow rare, the concept quietly widens to keep finding them, so milder cases are recategorised as the thing itself and the problem never reads as solved, distinct from Metric Fixation's gamed target and The Streetlight Effect's easy search in that the yardstick itself drifts with the very success it should register
+- [ ] [P2] Prevalence-Induced Concept Change (Levari et al., Science 2018; Haslam's "concept creep"): as instances of a problem grow rare, the concept quietly widens to keep finding them, so milder cases are recategorised as the thing itself and the problem never reads as solved, distinct from Metric Fixation's gamed target, The Streetlight Effect's easy search, and The New Normal's tolerated drift in that the yardstick itself widens with the very success it should register, no standard lowered and no deviation waved through
