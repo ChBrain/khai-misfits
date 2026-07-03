@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.54.0",
+  "version": "0.55.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -302,6 +302,12 @@
       "id": "the_trip_to_abilene",
       "title": "The Trip to Abilene",
       "description": "A group agrees its way into a choice no member wanted, each misreading the others' assent for a wish it lacked."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_tyranny_of_small_decisions",
+      "title": "The Tyranny of Small Decisions",
+      "description": "Each small choice is rational and free, yet their sum is an outcome no one chose, since nothing ever decides the whole."
     },
     {
       "kind": "misfit",
