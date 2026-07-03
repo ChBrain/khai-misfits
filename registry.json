@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.74.0",
+  "version": "0.75.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -212,6 +212,12 @@
       "id": "the_availability_cascade",
       "title": "The Availability Cascade",
       "description": "A vivid risk retold in public feels likelier, so alarm outruns the evidence and the guard tracks salience not size."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_balloon_effect",
+      "title": "The Balloon Effect",
+      "description": "Squeeze a banned trade on one patch and it bulges to the next, so local wins move the trade rather than cut it."
     },
     {
       "kind": "misfit",
