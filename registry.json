@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.70.0",
+  "version": "0.71.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -314,6 +314,12 @@
       "id": "the_law_of_the_instrument",
       "title": "The Law of the Instrument",
       "description": "The one tool a hand has mastered reshapes every problem into the shape it can strike, and trims off the rest."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_loyalty_trap",
+      "title": "The Loyalty Trap",
+      "description": "Loyalty keeps the member from leaving and from complaining, so a declining body gets no signal and slides uncorrected."
     },
     {
       "kind": "misfit",
