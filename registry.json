@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.76.0",
+  "version": "0.77.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -290,6 +290,12 @@
       "id": "the_dilbert_principle",
       "title": "The Dilbert Principle",
       "description": "The one who cannot do the work is promoted out of it, so the ranks that lead fill with those who failed at it."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_double_bind",
+      "title": "The Double Bind",
+      "description": "Two demands clash at different levels, and one may not obey both, name the clash, or leave, so every answer is wrong."
     },
     {
       "kind": "misfit",
