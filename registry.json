@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.73.0",
+  "version": "0.74.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -314,6 +314,12 @@
       "id": "the_head_start",
       "title": "The Head Start",
       "description": "An early lead attracts the credit and resources that make the next lead, so small head starts compound into dominance."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_identified_patient",
+      "title": "The Identified Patient",
+      "description": "A group lands its strain on one member who turns symptomatic, so treating them keeps shut the rift that made them ill."
     },
     {
       "kind": "misfit",
