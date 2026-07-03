@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.51.0",
+  "version": "0.52.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -80,6 +80,12 @@
       "id": "moral_licensing",
       "title": "Moral Licensing",
       "description": "A good deed is banked as moral credit, and the credit buys a later lapse, so the virtue funds the vice and washes out."
+    },
+    {
+      "kind": "misfit",
+      "id": "not_invented_here",
+      "title": "Not-Invented-Here",
+      "description": "A good idea from outside is spurned for being outside, and the group builds a worse one of its own to keep it theirs."
     },
     {
       "kind": "misfit",
