@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.60.0",
+  "version": "0.61.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -188,6 +188,12 @@
       "id": "the_bounce",
       "title": "The Bounce",
       "description": "Punish the slump and it recovers, praise the streak and it falls, so we learn that toughness works and praise is poison."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_bullwhip_effect",
+      "title": "The Bullwhip Effect",
+      "description": "A small wobble in demand grows link by link up the chain, each ordering to cover itself, into a wild swing at the top."
     },
     {
       "kind": "misfit",
