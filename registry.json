@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.75.0",
+  "version": "0.76.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -428,6 +428,12 @@
       "id": "the_tyranny_of_small_decisions",
       "title": "The Tyranny of Small Decisions",
       "description": "Each small choice is rational and free, yet their sum is an outcome no one chose, since nothing ever decides the whole."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_tyranny_of_the_urgent",
+      "title": "The Tyranny of the Urgent",
+      "description": "Each task that shouts a deadline gets done first, so the important work that never shouts is deferred and never done."
     },
     {
       "kind": "misfit",
