@@ -47,6 +47,7 @@ sources are carried in the named misfit's `REFERENCE.md`.
 | Path Dependence and Lock-In (QWERTY)                       | David, "Clio and the Economics of QWERTY" (AER, 1985); Arthur                 | Path Dependence (`path_dependence`)             |
 | The Matthew Effect (cumulative advantage; winner-take-all) | Merton, "The Matthew Effect in Science" (Science, 1968)                       | The Head Start (`the_head_start`)               |
 | The Innovator's Dilemma (disruption; competency trap)      | Christensen, _The Innovator's Dilemma_ (1997)                                 | The Success Trap (`the_success_trap`)           |
+| Dutch Disease (the exchange-rate resource curse)           | _The Economist_ (1977); Corden & Neary (Economic Journal, 1982)               | Dutch Disease (`dutch_disease`)                 |
 
 ### Collective action, commons, and coordination
 
@@ -65,34 +66,36 @@ sources are carried in the named misfit's `REFERENCE.md`.
 
 ### Organisations, hierarchy, and management
 
-| Concept (canonical name, aliases)                        | Leading source                                                               | Staged as (`id`)                                            |
-| -------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| The Peter Principle (promotion to incompetence)          | Peter & Hull, _The Peter Principle_ (1969)                                   | Rising to Unfit (`rising_to_unfit`)                         |
-| The Dilbert Principle (failing upwards; kicked upstairs) | Adams, _The Dilbert Principle_ (1996)                                        | The Dilbert Principle (`the_dilbert_principle`)             |
-| Brooks's Law (the mythical man-month)                    | Brooks, _The Mythical Man-Month_ (1975)                                      | The Ninth Woman (`the_ninth_woman`)                         |
-| Conway's Law                                             | Conway, "How Do Committees Invent?" (Datamation, 1968)                       | The Mirror (`the_mirror`)                                   |
-| The Dead Sea Effect (talent evaporation)                 | Webster, "The Wetware Crisis: the Dead Sea effect" (2008)                    | The Dead Sea Effect (`the_dead_sea_effect`)                 |
-| Pournelle's Iron Law of Bureaucracy                      | Pournelle (c. 1980s)                                                         | Pournelle's Iron Law (`pournelles_iron_law`)                |
-| The Shirky Principle (institutions preserve the problem) | Shirky (c. 2010); Kelly                                                      | The Shirky Principle (`the_shirky_principle`)               |
-| Parkinson's Law of Triviality (bikeshedding)             | Parkinson, _Parkinson's Law_ (1957)                                          | The Colour of the Bike Shed (`the_colour_of_the_bike_shed`) |
-| The Frozen Middle (middle-management distortion)         | Huy, "In Praise of Middle Managers" (HBR, 2001)                              | The Frozen Middle (`the_frozen_middle`)                     |
-| Requirements/validation distance (cost-to-fix growth)    | Boehm, _Software Engineering Economics_ (1981)                               | The Decision Travels (`the_decision_travels`)               |
-| The Bus Factor (tacit knowledge; key-person risk)        | Polanyi, _The Tacit Dimension_ (1966)                                        | The Bus Factor (`the_bus_factor`)                           |
-| Managerial short-termism (eating the seed corn)          | Narayanan, "Managerial Incentives for Short-term Results" (J. Finance, 1985) | Seed Corn (`seed_corn`)                                     |
-| The Ratchet Effect (systematic soldiering; sandbagging)  | Taylor (1911); Weitzman                                                      | Sandbag (`sandbag`)                                         |
-| Not-Invented-Here Syndrome                               | Katz & Allen, "Investigating the NIH Syndrome" (R&D Management, 1982)        | Not-Invented-Here (`not_invented_here`)                     |
-| Cargo Cult Science (copying form, not cause)             | Feynman, "Cargo Cult Science" (1974)                                         | The Cargo Cult (`the_cargo_cult`)                           |
+| Concept (canonical name, aliases)                                           | Leading source                                                               | Staged as (`id`)                                            |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| The Peter Principle (promotion to incompetence)                             | Peter & Hull, _The Peter Principle_ (1969)                                   | Rising to Unfit (`rising_to_unfit`)                         |
+| The Dilbert Principle (failing upwards; kicked upstairs)                    | Adams, _The Dilbert Principle_ (1996)                                        | The Dilbert Principle (`the_dilbert_principle`)             |
+| Brooks's Law (the mythical man-month)                                       | Brooks, _The Mythical Man-Month_ (1975)                                      | The Ninth Woman (`the_ninth_woman`)                         |
+| Conway's Law                                                                | Conway, "How Do Committees Invent?" (Datamation, 1968)                       | The Mirror (`the_mirror`)                                   |
+| The Dead Sea Effect (talent evaporation)                                    | Webster, "The Wetware Crisis: the Dead Sea effect" (2008)                    | The Dead Sea Effect (`the_dead_sea_effect`)                 |
+| Pournelle's Iron Law of Bureaucracy                                         | Pournelle (c. 1980s)                                                         | Pournelle's Iron Law (`pournelles_iron_law`)                |
+| The Shirky Principle (institutions preserve the problem)                    | Shirky (c. 2010); Kelly                                                      | The Shirky Principle (`the_shirky_principle`)               |
+| Parkinson's Law of Triviality (bikeshedding)                                | Parkinson, _Parkinson's Law_ (1957)                                          | The Colour of the Bike Shed (`the_colour_of_the_bike_shed`) |
+| The Frozen Middle (middle-management distortion)                            | Huy, "In Praise of Middle Managers" (HBR, 2001)                              | The Frozen Middle (`the_frozen_middle`)                     |
+| Requirements/validation distance (cost-to-fix growth)                       | Boehm, _Software Engineering Economics_ (1981)                               | The Decision Travels (`the_decision_travels`)               |
+| The Bus Factor (tacit knowledge; key-person risk)                           | Polanyi, _The Tacit Dimension_ (1966)                                        | The Bus Factor (`the_bus_factor`)                           |
+| Managerial short-termism (eating the seed corn)                             | Narayanan, "Managerial Incentives for Short-term Results" (J. Finance, 1985) | Seed Corn (`seed_corn`)                                     |
+| The Ratchet Effect (systematic soldiering; sandbagging)                     | Taylor (1911); Weitzman                                                      | Sandbag (`sandbag`)                                         |
+| Not-Invented-Here Syndrome                                                  | Katz & Allen, "Investigating the NIH Syndrome" (R&D Management, 1982)        | Not-Invented-Here (`not_invented_here`)                     |
+| Cargo Cult Science (copying form, not cause)                                | Feynman, "Cargo Cult Science" (1974)                                         | The Cargo Cult (`the_cargo_cult`)                           |
+| The Firefighting Trap (nobody gets credit for problems that never happened) | Repenning & Sterman (CMR, 2001); Bohn (HBR, 2000)                            | The Firefighter's Medal (`the_firefighters_medal`)          |
 
 ### Groups, candour, and face
 
-| Concept (canonical name, aliases)                      | Leading source                                                | Staged as (`id`)                                |
-| ------------------------------------------------------ | ------------------------------------------------------------- | ----------------------------------------------- |
-| Groupthink                                             | Whyte (Fortune, 1952); Janis                                  | Closing Ranks (`closing_ranks`)                 |
-| The Abilene Paradox (pluralistic ignorance)            | Harvey, "The Abilene Paradox" (Organizational Dynamics, 1974) | The Trip to Abilene (`the_trip_to_abilene`)     |
-| The MUM Effect (reluctance to convey bad news)         | Rosen & Tesser (Sociometry, 1970)                             | Watermelon Reporting (`watermelon_reporting`)   |
-| Defensive Routines (face-saving; single-loop learning) | Argyris & Schön, _Organizational Learning_ (1978)             | Saving Face (`saving_face`)                     |
-| Plausible Deniability (willful blindness)              | Church Committee (U.S. Senate, 1975-76)                       | Plausible Deniability (`plausible_deniability`) |
-| Defensive Medicine (goal displacement; blame culture)  | Studdert et al. (JAMA, 2005); Merton                          | The Paper Trail (`the_paper_trail`)             |
+| Concept (canonical name, aliases)                          | Leading source                                                | Staged as (`id`)                                |
+| ---------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------- |
+| Groupthink                                                 | Whyte (Fortune, 1952); Janis                                  | Closing Ranks (`closing_ranks`)                 |
+| The Abilene Paradox (pluralistic ignorance)                | Harvey, "The Abilene Paradox" (Organizational Dynamics, 1974) | The Trip to Abilene (`the_trip_to_abilene`)     |
+| The MUM Effect (reluctance to convey bad news)             | Rosen & Tesser (Sociometry, 1970)                             | Watermelon Reporting (`watermelon_reporting`)   |
+| Defensive Routines (face-saving; single-loop learning)     | Argyris & Schön, _Organizational Learning_ (1978)             | Saving Face (`saving_face`)                     |
+| Plausible Deniability (willful blindness)                  | Church Committee (U.S. Senate, 1975-76)                       | Plausible Deniability (`plausible_deniability`) |
+| Defensive Medicine (goal displacement; blame culture)      | Studdert et al. (JAMA, 2005); Merton                          | The Paper Trail (`the_paper_trail`)             |
+| Exit, Voice, and Loyalty (loyalty suppresses both signals) | Hirschman, _Exit, Voice, and Loyalty_ (1970)                  | The Loyalty Trap (`the_loyalty_trap`)           |
 
 ### Safety, risk, and complex systems
 
@@ -116,19 +119,21 @@ sources are carried in the named misfit's `REFERENCE.md`.
 
 ### Measurement, cognition, and inquiry
 
-| Concept (canonical name, aliases)                         | Leading source                                           | Staged as (`id`)                                        |
-| --------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------- |
-| Goodhart's Law (metric fixation; goal displacement)       | Ridgway (ASQ, 1956); Goodhart; Campbell                  | Metric Fixation (`metric_fixation`)                     |
-| Overfitting (the bias-variance dilemma)                   | Geman, Bienenstock & Doursat (Neural Computation, 1992)  | Overfitting (`overfitting`)                             |
-| The Planning Fallacy (the inside view)                    | Kahneman & Tversky (1979); Flyvbjerg                     | The Planning Fallacy (`the_planning_fallacy`)           |
-| The Streetlight Effect (the drunkard's search)            | Kaplan, _The Conduct of Inquiry_ (1964)                  | The Streetlight Effect (`the_streetlight_effect`)       |
-| The Law of the Instrument (Maslow's hammer)               | Kaplan (1964); Maslow                                    | The Law of the Instrument (`the_law_of_the_instrument`) |
-| Moral Licensing (moral credentials)                       | Monin & Miller (JPSP, 2001)                              | Moral Licensing (`moral_licensing`)                     |
-| Regression to the Mean                                    | Galton, "Regression towards Mediocrity" (1886); Kahneman | The Bounce (`the_bounce`)                               |
-| The Filter Bubble (echo chamber; group polarization)      | Pariser (2011); Sunstein                                 | The Filter Bubble (`the_filter_bubble`)                 |
-| Information Cascade (rational herding)                    | Bikhchandani, Hirshleifer & Welch (JPE, 1992); Banerjee  | Information Cascade (`information_cascade`)             |
-| The Cobra Effect (the perverse incentive)                 | Siebert, _Der Kobra-Effekt_ (2001)                       | The Cobra Effect (`the_cobra_effect`)                   |
-| Escalation of Commitment (sunk cost; throwing good money) | Staw, "Knee-Deep in the Big Muddy" (1976)                | Good Money After Bad (`good_money_after_bad`)           |
+| Concept (canonical name, aliases)                         | Leading source                                                 | Staged as (`id`)                                                        |
+| --------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Goodhart's Law (metric fixation; goal displacement)       | Ridgway (ASQ, 1956); Goodhart; Campbell                        | Metric Fixation (`metric_fixation`)                                     |
+| Overfitting (the bias-variance dilemma)                   | Geman, Bienenstock & Doursat (Neural Computation, 1992)        | Overfitting (`overfitting`)                                             |
+| The Planning Fallacy (the inside view)                    | Kahneman & Tversky (1979); Flyvbjerg                           | The Planning Fallacy (`the_planning_fallacy`)                           |
+| The Streetlight Effect (the drunkard's search)            | Kaplan, _The Conduct of Inquiry_ (1964)                        | The Streetlight Effect (`the_streetlight_effect`)                       |
+| The Law of the Instrument (Maslow's hammer)               | Kaplan (1964); Maslow                                          | The Law of the Instrument (`the_law_of_the_instrument`)                 |
+| Moral Licensing (moral credentials)                       | Monin & Miller (JPSP, 2001)                                    | Moral Licensing (`moral_licensing`)                                     |
+| Regression to the Mean                                    | Galton, "Regression towards Mediocrity" (1886); Kahneman       | The Bounce (`the_bounce`)                                               |
+| The Filter Bubble (echo chamber; group polarization)      | Pariser (2011); Sunstein                                       | The Filter Bubble (`the_filter_bubble`)                                 |
+| Information Cascade (rational herding)                    | Bikhchandani, Hirshleifer & Welch (JPE, 1992); Banerjee        | Information Cascade (`information_cascade`)                             |
+| The Cobra Effect (the perverse incentive)                 | Siebert, _Der Kobra-Effekt_ (2001)                             | The Cobra Effect (`the_cobra_effect`)                                   |
+| Escalation of Commitment (sunk cost; throwing good money) | Staw, "Knee-Deep in the Big Muddy" (1976)                      | Good Money After Bad (`good_money_after_bad`)                           |
+| Model Collapse (the curse of recursion; model autophagy)  | Shumailov et al. (arXiv 2023; Nature 2024); Alemohammad et al. | Model Collapse (`model_collapse`)                                       |
+| Prevalence-Induced Concept Change (concept creep)         | Levari et al. (Science, 2018); Haslam                          | Prevalence-Induced Concept Change (`prevalence_induced_concept_change`) |
 
 ## Restrictions
 
