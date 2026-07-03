@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.64.0",
+  "version": "0.65.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -254,6 +254,12 @@
       "id": "the_extra_road",
       "title": "The Extra Road",
       "description": "A road added to ease the jam draws everyone onto it, and the whole network slows: more capacity, less flow."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_filter_bubble",
+      "title": "The Filter Bubble",
+      "description": "Each click for the agreeable teaches the feed to show more of it, so exposure narrows and the common ground fragments."
     },
     {
       "kind": "misfit",
