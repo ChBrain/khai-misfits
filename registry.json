@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.66.0",
+  "version": "0.67.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -254,6 +254,12 @@
       "id": "the_decision_travels",
       "title": "The Decision Travels",
       "description": "A correct decision crosses the whole chain while the Body who must live with it never follows it."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_dilbert_principle",
+      "title": "The Dilbert Principle",
+      "description": "The one who cannot do the work is promoted out of it, so the ranks that lead fill with those who failed at it."
     },
     {
       "kind": "misfit",
