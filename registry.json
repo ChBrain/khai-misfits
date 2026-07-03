@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.50.0",
+  "version": "0.51.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -74,6 +74,12 @@
       "id": "moral_hazard",
       "title": "Moral Hazard",
       "description": "Insure a risk and the care taken against it falls, because the one who carries the risk no longer carries the loss."
+    },
+    {
+      "kind": "misfit",
+      "id": "moral_licensing",
+      "title": "Moral Licensing",
+      "description": "A good deed is banked as moral credit, and the credit buys a later lapse, so the virtue funds the vice and washes out."
     },
     {
       "kind": "misfit",
