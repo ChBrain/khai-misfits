@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.72.0",
+  "version": "0.73.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -206,6 +206,12 @@
       "id": "the_arms_race",
       "title": "The Arms Race",
       "description": "Each spends more to get ahead, but the prize is rank, so the spending cancels and all stand higher at no one's gain."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_availability_cascade",
+      "title": "The Availability Cascade",
+      "description": "A vivid risk retold in public feels likelier, so alarm outruns the evidence and the guard tracks salience not size."
     },
     {
       "kind": "misfit",
