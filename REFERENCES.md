@@ -61,6 +61,7 @@ sources are carried in the named misfit's `REFERENCE.md`.
 | The Arms Race (positional goods)                   | Hirsch, _Social Limits to Growth_ (1976); Frank        | The Arms Race (`the_arms_race`)                                   |
 | The Tyranny of Small Decisions                     | Kahn (1966); Schelling                                 | The Tyranny of Small Decisions (`the_tyranny_of_small_decisions`) |
 | Braess's Paradox (added capacity, less flow)       | Braess (1968)                                          | The Extra Road (`the_extra_road`)                                 |
+| Crime Displacement (the balloon effect)            | Reppetto (Crime & Delinquency, 1976); Cornish & Clarke | The Balloon Effect (`the_balloon_effect`)                         |
 | Accidental Adversaries (systems archetype)         | Kemeny; Senge, _The Fifth Discipline_ (1990)           | Accidental Adversaries (`accidental_adversaries`)                 |
 | Vetocracy (too many veto points)                   | Fukuyama, _Political Order and Political Decay_ (2014) | Vetocracy (`vetocracy`)                                           |
 
@@ -87,15 +88,17 @@ sources are carried in the named misfit's `REFERENCE.md`.
 
 ### Groups, candour, and face
 
-| Concept (canonical name, aliases)                          | Leading source                                                | Staged as (`id`)                                |
-| ---------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------- |
-| Groupthink                                                 | Whyte (Fortune, 1952); Janis                                  | Closing Ranks (`closing_ranks`)                 |
-| The Abilene Paradox (pluralistic ignorance)                | Harvey, "The Abilene Paradox" (Organizational Dynamics, 1974) | The Trip to Abilene (`the_trip_to_abilene`)     |
-| The MUM Effect (reluctance to convey bad news)             | Rosen & Tesser (Sociometry, 1970)                             | Watermelon Reporting (`watermelon_reporting`)   |
-| Defensive Routines (face-saving; single-loop learning)     | Argyris & Schön, _Organizational Learning_ (1978)             | Saving Face (`saving_face`)                     |
-| Plausible Deniability (willful blindness)                  | Church Committee (U.S. Senate, 1975-76)                       | Plausible Deniability (`plausible_deniability`) |
-| Defensive Medicine (goal displacement; blame culture)      | Studdert et al. (JAMA, 2005); Merton                          | The Paper Trail (`the_paper_trail`)             |
-| Exit, Voice, and Loyalty (loyalty suppresses both signals) | Hirschman, _Exit, Voice, and Loyalty_ (1970)                  | The Loyalty Trap (`the_loyalty_trap`)           |
+| Concept (canonical name, aliases)                           | Leading source                                                | Staged as (`id`)                                  |
+| ----------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- |
+| Groupthink                                                  | Whyte (Fortune, 1952); Janis                                  | Closing Ranks (`closing_ranks`)                   |
+| The Abilene Paradox (pluralistic ignorance)                 | Harvey, "The Abilene Paradox" (Organizational Dynamics, 1974) | The Trip to Abilene (`the_trip_to_abilene`)       |
+| The MUM Effect (reluctance to convey bad news)              | Rosen & Tesser (Sociometry, 1970)                             | Watermelon Reporting (`watermelon_reporting`)     |
+| Defensive Routines (face-saving; single-loop learning)      | Argyris & Schön, _Organizational Learning_ (1978)             | Saving Face (`saving_face`)                       |
+| Plausible Deniability (willful blindness)                   | Church Committee (U.S. Senate, 1975-76)                       | Plausible Deniability (`plausible_deniability`)   |
+| Defensive Medicine (goal displacement; blame culture)       | Studdert et al. (JAMA, 2005); Merton                          | The Paper Trail (`the_paper_trail`)               |
+| Exit, Voice, and Loyalty (loyalty suppresses both signals)  | Hirschman, _Exit, Voice, and Loyalty_ (1970)                  | The Loyalty Trap (`the_loyalty_trap`)             |
+| The Identified Patient (family scapegoat; homeostasis)      | Vogel & Bell (1960); Bowen; Minuchin; Jackson                 | The Identified Patient (`the_identified_patient`) |
+| The Double Bind (paradoxical injunction; metacommunication) | Bateson, Jackson, Haley & Weakland (Behavioral Science, 1956) | The Double Bind (`the_double_bind`)               |
 
 ### Safety, risk, and complex systems
 
@@ -119,21 +122,23 @@ sources are carried in the named misfit's `REFERENCE.md`.
 
 ### Measurement, cognition, and inquiry
 
-| Concept (canonical name, aliases)                         | Leading source                                                 | Staged as (`id`)                                                        |
-| --------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Goodhart's Law (metric fixation; goal displacement)       | Ridgway (ASQ, 1956); Goodhart; Campbell                        | Metric Fixation (`metric_fixation`)                                     |
-| Overfitting (the bias-variance dilemma)                   | Geman, Bienenstock & Doursat (Neural Computation, 1992)        | Overfitting (`overfitting`)                                             |
-| The Planning Fallacy (the inside view)                    | Kahneman & Tversky (1979); Flyvbjerg                           | The Planning Fallacy (`the_planning_fallacy`)                           |
-| The Streetlight Effect (the drunkard's search)            | Kaplan, _The Conduct of Inquiry_ (1964)                        | The Streetlight Effect (`the_streetlight_effect`)                       |
-| The Law of the Instrument (Maslow's hammer)               | Kaplan (1964); Maslow                                          | The Law of the Instrument (`the_law_of_the_instrument`)                 |
-| Moral Licensing (moral credentials)                       | Monin & Miller (JPSP, 2001)                                    | Moral Licensing (`moral_licensing`)                                     |
-| Regression to the Mean                                    | Galton, "Regression towards Mediocrity" (1886); Kahneman       | The Bounce (`the_bounce`)                                               |
-| The Filter Bubble (echo chamber; group polarization)      | Pariser (2011); Sunstein                                       | The Filter Bubble (`the_filter_bubble`)                                 |
-| Information Cascade (rational herding)                    | Bikhchandani, Hirshleifer & Welch (JPE, 1992); Banerjee        | Information Cascade (`information_cascade`)                             |
-| The Cobra Effect (the perverse incentive)                 | Siebert, _Der Kobra-Effekt_ (2001)                             | The Cobra Effect (`the_cobra_effect`)                                   |
-| Escalation of Commitment (sunk cost; throwing good money) | Staw, "Knee-Deep in the Big Muddy" (1976)                      | Good Money After Bad (`good_money_after_bad`)                           |
-| Model Collapse (the curse of recursion; model autophagy)  | Shumailov et al. (arXiv 2023; Nature 2024); Alemohammad et al. | Model Collapse (`model_collapse`)                                       |
-| Prevalence-Induced Concept Change (concept creep)         | Levari et al. (Science, 2018); Haslam                          | Prevalence-Induced Concept Change (`prevalence_induced_concept_change`) |
+| Concept (canonical name, aliases)                                  | Leading source                                                   | Staged as (`id`)                                                        |
+| ------------------------------------------------------------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Goodhart's Law (metric fixation; goal displacement)                | Ridgway (ASQ, 1956); Goodhart; Campbell                          | Metric Fixation (`metric_fixation`)                                     |
+| Overfitting (the bias-variance dilemma)                            | Geman, Bienenstock & Doursat (Neural Computation, 1992)          | Overfitting (`overfitting`)                                             |
+| The Planning Fallacy (the inside view)                             | Kahneman & Tversky (1979); Flyvbjerg                             | The Planning Fallacy (`the_planning_fallacy`)                           |
+| The Streetlight Effect (the drunkard's search)                     | Kaplan, _The Conduct of Inquiry_ (1964)                          | The Streetlight Effect (`the_streetlight_effect`)                       |
+| The Law of the Instrument (Maslow's hammer)                        | Kaplan (1964); Maslow                                            | The Law of the Instrument (`the_law_of_the_instrument`)                 |
+| Moral Licensing (moral credentials)                                | Monin & Miller (JPSP, 2001)                                      | Moral Licensing (`moral_licensing`)                                     |
+| Regression to the Mean                                             | Galton, "Regression towards Mediocrity" (1886); Kahneman         | The Bounce (`the_bounce`)                                               |
+| The Filter Bubble (echo chamber; group polarization)               | Pariser (2011); Sunstein                                         | The Filter Bubble (`the_filter_bubble`)                                 |
+| Information Cascade (rational herding)                             | Bikhchandani, Hirshleifer & Welch (JPE, 1992); Banerjee          | Information Cascade (`information_cascade`)                             |
+| The Cobra Effect (the perverse incentive)                          | Siebert, _Der Kobra-Effekt_ (2001)                               | The Cobra Effect (`the_cobra_effect`)                                   |
+| Escalation of Commitment (sunk cost; throwing good money)          | Staw, "Knee-Deep in the Big Muddy" (1976)                        | Good Money After Bad (`good_money_after_bad`)                           |
+| Model Collapse (the curse of recursion; model autophagy)           | Shumailov et al. (arXiv 2023; Nature 2024); Alemohammad et al.   | Model Collapse (`model_collapse`)                                       |
+| Prevalence-Induced Concept Change (concept creep)                  | Levari et al. (Science, 2018); Haslam                            | Prevalence-Induced Concept Change (`prevalence_induced_concept_change`) |
+| The Availability Cascade (availability heuristic; risk regulation) | Kuran & Sunstein (Stanford Law Review, 1999); Tversky & Kahneman | The Availability Cascade (`the_availability_cascade`)                   |
+| The Mere Urgency Effect (urgent over important)                    | Zhu, Yang & Hsee (JCR, 2018); Hummel; Covey                      | The Tyranny of the Urgent (`the_tyranny_of_the_urgent`)                 |
 
 ## Restrictions
 
