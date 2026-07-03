@@ -1,8 +1,14 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.52.0",
+  "version": "0.53.0",
   "misfits": [
+    {
+      "kind": "misfit",
+      "id": "accidental_adversaries",
+      "title": "Accidental Adversaries",
+      "description": "Two allies each make a locally safe move that quietly harms the other, so each strikes back, and partners become rivals."
+    },
     {
       "kind": "misfit",
       "id": "bad_coin",
