@@ -1,40 +1,159 @@
 ---
-updated: "2026-01-01"
+updated: "2026-07-03"
 ---
 
-# Misfits House: Reference
+# Misfits House: References
+
+The house-wide research index, led by the body of work. Every staged misfit is a structural trap where
+locally rational behaviour sums to a globally bad outcome with no villain needed; each is warranted by a real
+research or practitioner spine, credited and never claimed. This file is the concordance keyed the way a
+concept arrives: by its scholarly name. Look a candidate up by the research (the canonical name and its author,
+not the house's poetic title) to see whether it is already staged, and under which misfit.
+
+Use it to dedup. The house titles deliberately hide the textbook name (Brooks's Law is staged as The Ninth
+Woman, Gresham's Law as Bad Coin, the Peter Principle as Rising to Unfit), so a title scan of `registry.json`
+alone will miss a match. This index resolves the concept to the misfit; the per-misfit `REFERENCE.md` holds the
+full warrant and the distinctness notes.
 
 ## Line of Work
 
-Staging the works of Misfits as **systemic systems**: modeling the mechanical, thematic, and dramatic structures of the source. The house represents these works not as conventional character tragedies, but as structured processes operating under system-wide rules.
-
-### Staging Status
-
-The current status of the Misfits productions within this house:
-
-- [ ] **Example Production** — Planned
+Staging structural traps as **systems**, each modelled from the mechanics of its source rather than as a
+character tragedy. The index below is the inverse of the per-misfit warrants: those go from the house title out
+to its sources, this goes from the research in to the house title that stages it. It carries, per concept, the
+canonical name and common aliases, the leading source, and the misfit that holds it, grouped by field for
+browsing and keyed by concept for lookup.
 
 ## Origin
 
-Misfits's writings, historical archives, and cultural context.
+The research, and the misfit each body of work is staged as. Leading source given; secondary and popularising
+sources are carried in the named misfit's `REFERENCE.md`.
 
-| Source      | Key Work / Event | Scope                            |
-| ----------- | ---------------- | -------------------------------- |
-| **Misfits** | Canonical works  | Description of the source canon. |
+### Markets, money, and economic equilibria
+
+| Concept (canonical name, aliases)                          | Leading source                                                                | Staged as (`id`)                                |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
+| Gresham's Law (bad money drives out good)                  | Gresham (16th c.); named by Macleod                                           | Bad Coin (`bad_coin`)                           |
+| The Market for Lemons (adverse selection)                  | Akerlof, "The Market for 'Lemons'" (QJE, 1970)                                | The Market for Lemons (`the_market_for_lemons`) |
+| Moral Hazard (hidden action; risk compensation)            | Arrow, "Uncertainty and the Welfare Economics of Medical Care" (AER, 1963)    | Moral Hazard (`moral_hazard`)                   |
+| Rent-Seeking (unproductive competition for transfers)      | Tullock (1967); Krueger (1974)                                                | Rent-Seeking (`rent_seeking`)                   |
+| Regulatory Capture                                         | Stigler, "The Theory of Economic Regulation" (Bell Journal, 1971)             | Regulatory Capture (`regulatory_capture`)       |
+| Baumol's Cost Disease                                      | Baumol & Bowen, _Performing Arts: The Economic Dilemma_ (1966)                | Baumol's Cost Disease (`baumols_cost_disease`)  |
+| Jevons Paradox (rebound effect)                            | Jevons, _The Coal Question_ (1865)                                            | Jevons Paradox (`jevons_paradox`)               |
+| The Winner's Curse (common-value auctions)                 | Capen, Clapp & Campbell (1971); Thaler                                        | The Winning Bid (`the_winning_bid`)             |
+| Debt-Deflation                                             | Fisher, "The Debt-Deflation Theory of Great Depressions" (Econometrica, 1933) | Debt-Deflation (`debt_deflation`)               |
+| The Paradox of Thrift (fallacy of composition)             | Keynes, _The General Theory_ (1936)                                           | The Paradox of Thrift (`the_paradox_of_thrift`) |
+| The Bank Run (self-fulfilling panic)                       | Diamond & Dybvig (JPE, 1983); Nobel                                           | The Bank Run (`the_bank_run`)                   |
+| Time Inconsistency (dynamic inconsistency)                 | Kydland & Prescott, "Rules Rather than Discretion" (JPE, 1977); Nobel         | Time Inconsistency (`time_inconsistency`)       |
+| Path Dependence and Lock-In (QWERTY)                       | David, "Clio and the Economics of QWERTY" (AER, 1985); Arthur                 | Path Dependence (`path_dependence`)             |
+| The Matthew Effect (cumulative advantage; winner-take-all) | Merton, "The Matthew Effect in Science" (Science, 1968)                       | The Head Start (`the_head_start`)               |
+| The Innovator's Dilemma (disruption; competency trap)      | Christensen, _The Innovator's Dilemma_ (1997)                                 | The Success Trap (`the_success_trap`)           |
+
+### Collective action, commons, and coordination
+
+| Concept (canonical name, aliases)                  | Leading source                                         | Staged as (`id`)                                                  |
+| -------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------- |
+| The Tragedy of the Commons                         | Lloyd (1833); Hardin (Science, 1968)                   | The Commons (`the_commons`)                                       |
+| The Anticommons (underuse by too many vetoes)      | Michelman (1982); Heller                               | The Anticommons (`the_anticommons`)                               |
+| The Bystander Effect (diffusion of responsibility) | Darley & Latané (JPSP, 1968)                           | Everybody's Business (`everybodys_business`)                      |
+| Social Loafing (the Ringelmann effect)             | Ringelmann (1913); Latané                              | Social Loafing (`social_loafing`)                                 |
+| The Stag Hunt (the assurance game)                 | Rousseau (1755); Skyrms                                | The Stag Hunt (`the_stag_hunt`)                                   |
+| The Arms Race (positional goods)                   | Hirsch, _Social Limits to Growth_ (1976); Frank        | The Arms Race (`the_arms_race`)                                   |
+| The Tyranny of Small Decisions                     | Kahn (1966); Schelling                                 | The Tyranny of Small Decisions (`the_tyranny_of_small_decisions`) |
+| Braess's Paradox (added capacity, less flow)       | Braess (1968)                                          | The Extra Road (`the_extra_road`)                                 |
+| Accidental Adversaries (systems archetype)         | Kemeny; Senge, _The Fifth Discipline_ (1990)           | Accidental Adversaries (`accidental_adversaries`)                 |
+| Vetocracy (too many veto points)                   | Fukuyama, _Political Order and Political Decay_ (2014) | Vetocracy (`vetocracy`)                                           |
+
+### Organisations, hierarchy, and management
+
+| Concept (canonical name, aliases)                        | Leading source                                                               | Staged as (`id`)                                            |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| The Peter Principle (promotion to incompetence)          | Peter & Hull, _The Peter Principle_ (1969)                                   | Rising to Unfit (`rising_to_unfit`)                         |
+| The Dilbert Principle (failing upwards; kicked upstairs) | Adams, _The Dilbert Principle_ (1996)                                        | The Dilbert Principle (`the_dilbert_principle`)             |
+| Brooks's Law (the mythical man-month)                    | Brooks, _The Mythical Man-Month_ (1975)                                      | The Ninth Woman (`the_ninth_woman`)                         |
+| Conway's Law                                             | Conway, "How Do Committees Invent?" (Datamation, 1968)                       | The Mirror (`the_mirror`)                                   |
+| The Dead Sea Effect (talent evaporation)                 | Webster, "The Wetware Crisis: the Dead Sea effect" (2008)                    | The Dead Sea Effect (`the_dead_sea_effect`)                 |
+| Pournelle's Iron Law of Bureaucracy                      | Pournelle (c. 1980s)                                                         | Pournelle's Iron Law (`pournelles_iron_law`)                |
+| The Shirky Principle (institutions preserve the problem) | Shirky (c. 2010); Kelly                                                      | The Shirky Principle (`the_shirky_principle`)               |
+| Parkinson's Law of Triviality (bikeshedding)             | Parkinson, _Parkinson's Law_ (1957)                                          | The Colour of the Bike Shed (`the_colour_of_the_bike_shed`) |
+| The Frozen Middle (middle-management distortion)         | Huy, "In Praise of Middle Managers" (HBR, 2001)                              | The Frozen Middle (`the_frozen_middle`)                     |
+| Requirements/validation distance (cost-to-fix growth)    | Boehm, _Software Engineering Economics_ (1981)                               | The Decision Travels (`the_decision_travels`)               |
+| The Bus Factor (tacit knowledge; key-person risk)        | Polanyi, _The Tacit Dimension_ (1966)                                        | The Bus Factor (`the_bus_factor`)                           |
+| Managerial short-termism (eating the seed corn)          | Narayanan, "Managerial Incentives for Short-term Results" (J. Finance, 1985) | Seed Corn (`seed_corn`)                                     |
+| The Ratchet Effect (systematic soldiering; sandbagging)  | Taylor (1911); Weitzman                                                      | Sandbag (`sandbag`)                                         |
+| Not-Invented-Here Syndrome                               | Katz & Allen, "Investigating the NIH Syndrome" (R&D Management, 1982)        | Not-Invented-Here (`not_invented_here`)                     |
+| Cargo Cult Science (copying form, not cause)             | Feynman, "Cargo Cult Science" (1974)                                         | The Cargo Cult (`the_cargo_cult`)                           |
+
+### Groups, candour, and face
+
+| Concept (canonical name, aliases)                      | Leading source                                                | Staged as (`id`)                                |
+| ------------------------------------------------------ | ------------------------------------------------------------- | ----------------------------------------------- |
+| Groupthink                                             | Whyte (Fortune, 1952); Janis                                  | Closing Ranks (`closing_ranks`)                 |
+| The Abilene Paradox (pluralistic ignorance)            | Harvey, "The Abilene Paradox" (Organizational Dynamics, 1974) | The Trip to Abilene (`the_trip_to_abilene`)     |
+| The MUM Effect (reluctance to convey bad news)         | Rosen & Tesser (Sociometry, 1970)                             | Watermelon Reporting (`watermelon_reporting`)   |
+| Defensive Routines (face-saving; single-loop learning) | Argyris & Schön, _Organizational Learning_ (1978)             | Saving Face (`saving_face`)                     |
+| Plausible Deniability (willful blindness)              | Church Committee (U.S. Senate, 1975-76)                       | Plausible Deniability (`plausible_deniability`) |
+| Defensive Medicine (goal displacement; blame culture)  | Studdert et al. (JAMA, 2005); Merton                          | The Paper Trail (`the_paper_trail`)             |
+
+### Safety, risk, and complex systems
+
+| Concept (canonical name, aliases)                            | Leading source                                         | Staged as (`id`)                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------ | --------------------------------------------------- |
+| Normal Accidents (tight coupling); the fragility of the lean | Perrow, _Normal Accidents_ (1984); Taleb               | The Brittle Optimum (`the_brittle_optimum`)         |
+| Normalization of Deviance                                    | Vaughan, _The Challenger Launch Decision_ (1996)       | The New Normal (`the_new_normal`)                   |
+| Alarm Fatigue (the cry-wolf effect; signal detection)        | Aesop; Breznitz (1984); Green & Swets                  | Alarm Fatigue (`alarm_fatigue`)                     |
+| The Ironies of Automation                                    | Bainbridge, "Ironies of Automation" (Automatica, 1983) | The Irony of Automation (`the_irony_of_automation`) |
+| The Bullwhip Effect (demand amplification)                   | Forrester (HBR, 1958); Lee, Padmanabhan & Whang        | The Bullwhip Effect (`the_bullwhip_effect`)         |
+| Chesterton's Fence (removing a forgotten safeguard)          | Chesterton, _The Thing_ (1929)                         | Chesterton's Fence (`chestertons_fence`)            |
+| Survivorship Bias                                            | Bacon, _Novum Organum_ (1620); Wald                    | The Survivors (`the_survivors`)                     |
+
+### Systems-dynamics archetypes (Senge)
+
+| Concept (canonical name, aliases)                       | Leading source                                | Staged as (`id`)                            |
+| ------------------------------------------------------- | --------------------------------------------- | ------------------------------------------- |
+| Fixes that Fail (the delayed side effect)               | Senge, _The Fifth Discipline_ (1990)          | Fixes that Fail (`fixes_that_fail`)         |
+| Shifting the Burden (dependence on the symptomatic fix) | Senge, _The Fifth Discipline_ (1990)          | Shifting the Burden (`shifting_the_burden`) |
+| Limits to Growth (the binding balancing loop)           | Senge, _The Fifth Discipline_ (1990); Meadows | Limits to Growth (`limits_to_growth`)       |
+
+### Measurement, cognition, and inquiry
+
+| Concept (canonical name, aliases)                         | Leading source                                           | Staged as (`id`)                                        |
+| --------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------- |
+| Goodhart's Law (metric fixation; goal displacement)       | Ridgway (ASQ, 1956); Goodhart; Campbell                  | Metric Fixation (`metric_fixation`)                     |
+| Overfitting (the bias-variance dilemma)                   | Geman, Bienenstock & Doursat (Neural Computation, 1992)  | Overfitting (`overfitting`)                             |
+| The Planning Fallacy (the inside view)                    | Kahneman & Tversky (1979); Flyvbjerg                     | The Planning Fallacy (`the_planning_fallacy`)           |
+| The Streetlight Effect (the drunkard's search)            | Kaplan, _The Conduct of Inquiry_ (1964)                  | The Streetlight Effect (`the_streetlight_effect`)       |
+| The Law of the Instrument (Maslow's hammer)               | Kaplan (1964); Maslow                                    | The Law of the Instrument (`the_law_of_the_instrument`) |
+| Moral Licensing (moral credentials)                       | Monin & Miller (JPSP, 2001)                              | Moral Licensing (`moral_licensing`)                     |
+| Regression to the Mean                                    | Galton, "Regression towards Mediocrity" (1886); Kahneman | The Bounce (`the_bounce`)                               |
+| The Filter Bubble (echo chamber; group polarization)      | Pariser (2011); Sunstein                                 | The Filter Bubble (`the_filter_bubble`)                 |
+| Information Cascade (rational herding)                    | Bikhchandani, Hirshleifer & Welch (JPE, 1992); Banerjee  | Information Cascade (`information_cascade`)             |
+| The Cobra Effect (the perverse incentive)                 | Siebert, _Der Kobra-Effekt_ (2001)                       | The Cobra Effect (`the_cobra_effect`)                   |
+| Escalation of Commitment (sunk cost; throwing good money) | Staw, "Knee-Deep in the Big Muddy" (1976)                | Good Money After Bad (`good_money_after_bad`)           |
 
 ## Restrictions
 
-What the house refuses to model, and to whom it delegates.
+What this index is, and is not.
 
-- **Absolutism & Realism**: The house refuses to claim absolute historical or psychological realism. Elements, roles, and settings are strictly reduced to the essential load-bearing vectors of the play's systemic architecture.
-- **Language Policy**: The house defines its own language policy regarding the staging prose and schema compatibility:
-  - **English for Architecture & Schema**: To maintain compatibility with global validation tooling and the `khai` framework specifications, structural headings, frontmatter keys, reference warrants (`REFERENCE.md` or `REFERENCES.md`), and the house identity (`README.md`) are written in English.
-  - **[Staging Language] for Prose & Staging**: All character projections, actions, shadows, tells, and staging notes are written in the source's authentic language to preserve its original dramatic force and historical qualities.
+- **A concordance, not a warrant**: this file resolves a concept to the misfit that stages it. The full research
+  warrant, the per-element encoding, and the distinctness notes against neighbouring misfits live in each
+  misfit's own `REFERENCE.md`, not here.
+- **Leading source only**: each row names the originating or canonical source. Secondary theorists, popularisers,
+  and the practitioner record are carried in the named misfit's `REFERENCE.md`, so the absence of a name here is
+  not its absence from the warrant.
+- **Kept in step with the count**: the index tracks the misfits staged in `misfits/` and counted in
+  `registry.json`. Adding a misfit adds its concept row here, in the same governance change; the roster is
+  complete as of the staged count recorded in `registry.json`.
+- **Dedup first**: before slating or authoring a candidate, look it up here by its canonical name and its
+  author, not by the house's title. If the concept is present, it is already staged or is a distinctness
+  neighbour to name, not a new misfit to stack beside the old.
 
 ## Encoding
 
-Source to constraint, per file.
+Source to index, per surface.
 
-- **the house ([README.md](README.md))**: The Estate identity that answers for the entire run.
-- **the productions (`misfits/`)**: The individual staging packages, each containing the play definition, personas, positions, pieces, places, processes, and plots.
-- **the gates (`tests/`, `khai-guard.config.json`)**: The conformance and governance checks ensuring that all misfits comply with the canon.
+- **the roster (`registry.json`)**: the build-written list of what is staged, by `id`, title, and description,
+  and the single writer of the version. The authoritative count; this file is its research-keyed concordance.
+- **the warrants (`misfits/<id>/REFERENCE.md`)**: the full per-misfit research spine, encoding, and distinctness
+  notes that this index summarises to one leading row.
+- **the slate (`management/plan_fill_the_season.md`)**: the backlog of concepts not yet staged, deduped against
+  this index and the roster.
