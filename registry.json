@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.56.0",
+  "version": "0.57.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -278,6 +278,12 @@
       "id": "the_paper_trail",
       "title": "The Paper Trail",
       "description": "Each act is made defensible, not effective, so paper piles up, the goal is missed, and the failure is nobody's fault."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_planning_fallacy",
+      "title": "The Planning Fallacy",
+      "description": "A task estimated from its own smooth plan is promised too soon, then beaten by the small surprises no plan can name."
     },
     {
       "kind": "misfit",
