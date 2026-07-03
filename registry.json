@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.68.0",
+  "version": "0.69.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -86,6 +86,12 @@
       "id": "metric_fixation",
       "title": "Metric Fixation",
       "description": "A number chosen to stand for a goal is hit exactly and truthfully, and the goal it stood for quietly dies."
+    },
+    {
+      "kind": "misfit",
+      "id": "model_collapse",
+      "title": "Model Collapse",
+      "description": "Each model trained on the last one's output loses the rare cases first, drifting to a bland self-referential mean."
     },
     {
       "kind": "misfit",
