@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.61.0",
+  "version": "0.62.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -188,6 +188,12 @@
       "id": "the_bounce",
       "title": "The Bounce",
       "description": "Punish the slump and it recovers, praise the streak and it falls, so we learn that toughness works and praise is poison."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_brittle_optimum",
+      "title": "The Brittle Optimum",
+      "description": "Each slice of slack is idle waste in calm, so it is trimmed away, until the leanest system shatters on the first shock."
     },
     {
       "kind": "misfit",
