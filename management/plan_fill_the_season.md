@@ -50,7 +50,7 @@ Semmelweis reflex (Saving Face, Closing Ranks), the volunteer's dilemma (Everybo
 winner-take-all or superstar markets (The Head Start), and the observer or Hawthorne effect (Metric
 Fixation). The planning fallacy, once held off here as adjacent to Seed Corn and Watermelon
 Reporting, is now slated: its engine is an honest estimation error, the inside view over the base
-rate, which neither of those carries. The slate is deduped against the fifty-four misfits staged as
+rate, which neither of those carries. The slate is deduped against the fifty-six misfits staged as
 of this writing.
 
 ## Targets
@@ -79,7 +79,10 @@ of this writing.
 
 The P0 through P2 tiers above are all staged; the slate is refilled below.
 
-- [ ] [P1] The Tyranny of Small Decisions (Kahn; Schelling): many individually rational small choices sum to a collective outcome no one chose, because nothing ever decides the aggregate, the temporal cousin of The Commons with a distinct engine
-- [ ] [P1] Overfitting (bias-variance; the statistical-learning literature): a model fit so tightly to the sample it captures its noise and fails on new reality, explaining the past perfectly and predicting nothing, kept distinct from Metric Fixation and The Streetlight Effect
+- [x] [P1] The Tyranny of Small Decisions (Kahn; Schelling): many individually rational small choices sum to a collective outcome no one chose, because nothing ever decides the aggregate, the temporal cousin of The Commons with a distinct engine
+- [x] [P1] Overfitting (bias-variance; the statistical-learning literature): a model fit so tightly to the sample it captures its noise and fails on new reality, explaining the past perfectly and predicting nothing, kept distinct from Metric Fixation and The Streetlight Effect
 - [ ] [P1] The Planning Fallacy (Kahneman & Tversky; Buehler; Flyvbjerg): the inside view underestimates a task's time and cost even when the base rate is known, distinct from Seed Corn (deliberate present-for-future trade) and Watermelon Reporting (status concealment) in that its engine is an honest estimation error, optimism plus strategic misrepresentation
+- [ ] [P1] The Arms Race (Hirsch, Social Limits to Growth; Robert Frank, The Darwin Economy; Schelling): the prize is relative rank, so each rational escalation only cancels against the others and all pay the cost of standing on tiptoe for a view no one gains, distinct from Rent-Seeking in that nothing is captured, the effort nets to zero
+- [ ] [P1] The Paradox of Thrift (Keynes, General Theory; Samuelson): each household prudently saves as the downturn bites, aggregate demand falls, incomes fall, and all save less than they meant, the fallacy of composition by which what is true of one is false of all, distinct from The Bank Run's liquidity panic
 - [ ] [P2] The Bullwhip Effect (Forrester; Lee, Padmanabhan & Whang): a small demand wobble amplifies up a supply chain into wild swings, each link rationally over-ordering on a lagged, filtered signal
+- [ ] [P2] The Brittle Optimum (Perrow, Normal Accidents; Taleb, Antifragile; Bak): every slice of slack and redundancy is locally wasteful and gets optimised away, until the leanest system shatters on the first shock it has no give to absorb, distinct from Seed Corn's present-for-future trade and Limits to Growth's binding limit
