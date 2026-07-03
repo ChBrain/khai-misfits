@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-misfits",
-  "version": "0.56.0",
+  "version": "0.57.0",
   "description": "khai misfits: the Misfits production house. Misfits staged with khai; the source is credited where it is in the public domain.",
   "type": "module",
   "exports": {
