@@ -30,24 +30,25 @@ sources are carried in the named misfit's `REFERENCE.md`.
 
 ### Markets, money, and economic equilibria
 
-| Concept (canonical name, aliases)                          | Leading source                                                                | Staged as (`id`)                                |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
-| Gresham's Law (bad money drives out good)                  | Gresham (16th c.); named by Macleod                                           | Bad Coin (`bad_coin`)                           |
-| The Market for Lemons (adverse selection)                  | Akerlof, "The Market for 'Lemons'" (QJE, 1970)                                | The Market for Lemons (`the_market_for_lemons`) |
-| Moral Hazard (hidden action; risk compensation)            | Arrow, "Uncertainty and the Welfare Economics of Medical Care" (AER, 1963)    | Moral Hazard (`moral_hazard`)                   |
-| Rent-Seeking (unproductive competition for transfers)      | Tullock (1967); Krueger (1974)                                                | Rent-Seeking (`rent_seeking`)                   |
-| Regulatory Capture                                         | Stigler, "The Theory of Economic Regulation" (Bell Journal, 1971)             | Regulatory Capture (`regulatory_capture`)       |
-| Baumol's Cost Disease                                      | Baumol & Bowen, _Performing Arts: The Economic Dilemma_ (1966)                | Baumol's Cost Disease (`baumols_cost_disease`)  |
-| Jevons Paradox (rebound effect)                            | Jevons, _The Coal Question_ (1865)                                            | Jevons Paradox (`jevons_paradox`)               |
-| The Winner's Curse (common-value auctions)                 | Capen, Clapp & Campbell (1971); Thaler                                        | The Winning Bid (`the_winning_bid`)             |
-| Debt-Deflation                                             | Fisher, "The Debt-Deflation Theory of Great Depressions" (Econometrica, 1933) | Debt-Deflation (`debt_deflation`)               |
-| The Paradox of Thrift (fallacy of composition)             | Keynes, _The General Theory_ (1936)                                           | The Paradox of Thrift (`the_paradox_of_thrift`) |
-| The Bank Run (self-fulfilling panic)                       | Diamond & Dybvig (JPE, 1983); Nobel                                           | The Bank Run (`the_bank_run`)                   |
-| Time Inconsistency (dynamic inconsistency)                 | Kydland & Prescott, "Rules Rather than Discretion" (JPE, 1977); Nobel         | Time Inconsistency (`time_inconsistency`)       |
-| Path Dependence and Lock-In (QWERTY)                       | David, "Clio and the Economics of QWERTY" (AER, 1985); Arthur                 | Path Dependence (`path_dependence`)             |
-| The Matthew Effect (cumulative advantage; winner-take-all) | Merton, "The Matthew Effect in Science" (Science, 1968)                       | The Head Start (`the_head_start`)               |
-| The Innovator's Dilemma (disruption; competency trap)      | Christensen, _The Innovator's Dilemma_ (1997)                                 | The Success Trap (`the_success_trap`)           |
-| Dutch Disease (the exchange-rate resource curse)           | _The Economist_ (1977); Corden & Neary (Economic Journal, 1982)               | Dutch Disease (`dutch_disease`)                 |
+| Concept (canonical name, aliases)                           | Leading source                                                                | Staged as (`id`)                                |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
+| Gresham's Law (bad money drives out good)                   | Gresham (16th c.); named by Macleod                                           | Bad Coin (`bad_coin`)                           |
+| The Market for Lemons (adverse selection)                   | Akerlof, "The Market for 'Lemons'" (QJE, 1970)                                | The Market for Lemons (`the_market_for_lemons`) |
+| Moral Hazard (hidden action; risk compensation)             | Arrow, "Uncertainty and the Welfare Economics of Medical Care" (AER, 1963)    | Moral Hazard (`moral_hazard`)                   |
+| Rent-Seeking (unproductive competition for transfers)       | Tullock (1967); Krueger (1974)                                                | Rent-Seeking (`rent_seeking`)                   |
+| Regulatory Capture                                          | Stigler, "The Theory of Economic Regulation" (Bell Journal, 1971)             | Regulatory Capture (`regulatory_capture`)       |
+| The Iron Triangle (subgovernments; the closed policy triad) | Cater (1964); Gordon Adams (1981); Lowi                                       | The Iron Triangle (`the_iron_triangle`)         |
+| Baumol's Cost Disease                                       | Baumol & Bowen, _Performing Arts: The Economic Dilemma_ (1966)                | Baumol's Cost Disease (`baumols_cost_disease`)  |
+| Jevons Paradox (rebound effect)                             | Jevons, _The Coal Question_ (1865)                                            | Jevons Paradox (`jevons_paradox`)               |
+| The Winner's Curse (common-value auctions)                  | Capen, Clapp & Campbell (1971); Thaler                                        | The Winning Bid (`the_winning_bid`)             |
+| Debt-Deflation                                              | Fisher, "The Debt-Deflation Theory of Great Depressions" (Econometrica, 1933) | Debt-Deflation (`debt_deflation`)               |
+| The Paradox of Thrift (fallacy of composition)              | Keynes, _The General Theory_ (1936)                                           | The Paradox of Thrift (`the_paradox_of_thrift`) |
+| The Bank Run (self-fulfilling panic)                        | Diamond & Dybvig (JPE, 1983); Nobel                                           | The Bank Run (`the_bank_run`)                   |
+| Time Inconsistency (dynamic inconsistency)                  | Kydland & Prescott, "Rules Rather than Discretion" (JPE, 1977); Nobel         | Time Inconsistency (`time_inconsistency`)       |
+| Path Dependence and Lock-In (QWERTY)                        | David, "Clio and the Economics of QWERTY" (AER, 1985); Arthur                 | Path Dependence (`path_dependence`)             |
+| The Matthew Effect (cumulative advantage; winner-take-all)  | Merton, "The Matthew Effect in Science" (Science, 1968)                       | The Head Start (`the_head_start`)               |
+| The Innovator's Dilemma (disruption; competency trap)       | Christensen, _The Innovator's Dilemma_ (1997)                                 | The Success Trap (`the_success_trap`)           |
+| Dutch Disease (the exchange-rate resource curse)            | _The Economist_ (1977); Corden & Neary (Economic Journal, 1982)               | Dutch Disease (`dutch_disease`)                 |
 
 ### Collective action, commons, and coordination
 
@@ -139,6 +140,8 @@ sources are carried in the named misfit's `REFERENCE.md`.
 | Prevalence-Induced Concept Change (concept creep)                  | Levari et al. (Science, 2018); Haslam                            | Prevalence-Induced Concept Change (`prevalence_induced_concept_change`) |
 | The Availability Cascade (availability heuristic; risk regulation) | Kuran & Sunstein (Stanford Law Review, 1999); Tversky & Kahneman | The Availability Cascade (`the_availability_cascade`)                   |
 | The Mere Urgency Effect (urgent over important)                    | Zhu, Yang & Hsee (JCR, 2018); Hummel; Covey                      | The Tyranny of the Urgent (`the_tyranny_of_the_urgent`)                 |
+| Simpson's Paradox (the Yule-Simpson effect; aggregation reversal)  | Simpson (JRSS B, 1951); Blyth; Pearl                             | The Bigger Picture (`the_bigger_picture`)                               |
+| The Curse of Knowledge (the expert-novice gap)                     | Camerer, Loewenstein & Weber (JPE, 1989); Newton; Pinker         | Second Nature (`second_nature`)                                         |
 
 ## Restrictions
 
