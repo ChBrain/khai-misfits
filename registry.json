@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.93.0",
+  "version": "0.94.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -62,6 +62,12 @@
       "id": "first_do_harm",
       "title": "First Do Harm",
       "description": "A remedy applied in good faith treats the complaint and inflicts a new, separate harm the condition never carried."
+    },
+    {
+      "kind": "misfit",
+      "id": "fit_to_fail",
+      "title": "Fit to Fail",
+      "description": "Selection favours a trait that makes each fitter and the whole less viable, so the population is bred past the brink."
     },
     {
       "kind": "misfit",
