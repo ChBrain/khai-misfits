@@ -86,6 +86,8 @@ sources are carried in the named misfit's `REFERENCE.md`.
 | Not-Invented-Here Syndrome                                                  | Katz & Allen, "Investigating the NIH Syndrome" (R&D Management, 1982)        | Not-Invented-Here (`not_invented_here`)                     |
 | Cargo Cult Science (copying form, not cause)                                | Feynman, "Cargo Cult Science" (1974)                                         | The Cargo Cult (`the_cargo_cult`)                           |
 | The Firefighting Trap (nobody gets credit for problems that never happened) | Repenning & Sterman (CMR, 2001); Bohn (HBR, 2000)                            | The Firefighter's Medal (`the_firefighters_medal`)          |
+| The Leadership Script (leadership-as-discourse; the naturalised register)   | Fairclough (1989); Bourdieu (1991); Meindl et al. (1985); Khurana (2002)     | The Leadership Script (`the_leadership_script`)             |
+| Institutional Isomorphism (the iron cage; legitimacy over efficiency)       | DiMaggio & Powell (ASR, 1983); Meyer & Rowan (AJS, 1977)                     | The Done Thing (`the_done_thing`)                           |
 
 ### Groups, candour, and face
 
@@ -106,6 +108,7 @@ sources are carried in the named misfit's `REFERENCE.md`.
 | Concept (canonical name, aliases)                            | Leading source                                                                           | Staged as (`id`)                                    |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | Normal Accidents (tight coupling); the fragility of the lean | Perrow, _Normal Accidents_ (1984); Taleb                                                 | The Brittle Optimum (`the_brittle_optimum`)         |
+| Iatrogenesis (medical nemesis; the harm of the cure)         | Illich, _Medical Nemesis_ (1976); Rochon & Gurwitz (BMJ, 1997)                           | First Do Harm (`first_do_harm`)                     |
 | Normalization of Deviance                                    | Vaughan, _The Challenger Launch Decision_ (1996)                                         | The New Normal (`the_new_normal`)                   |
 | Alarm Fatigue (the cry-wolf effect; signal detection)        | Aesop; Breznitz (1984); Green & Swets                                                    | Alarm Fatigue (`alarm_fatigue`)                     |
 | The Ironies of Automation                                    | Bainbridge, "Ironies of Automation" (Automatica, 1983)                                   | The Irony of Automation (`the_irony_of_automation`) |
