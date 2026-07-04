@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.88.0",
+  "version": "0.89.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -290,6 +290,12 @@
       "id": "the_colour_of_the_bike_shed",
       "title": "The Colour of the Bike Shed",
       "description": "A meeting scrutinises the trivial thing everyone understands and waves through the vital thing no one does."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_common_object",
+      "title": "The Common Object",
+      "description": "A shared object each group reads its own way seems to coordinate them, so the divergence hides until the work is joined."
     },
     {
       "kind": "misfit",
