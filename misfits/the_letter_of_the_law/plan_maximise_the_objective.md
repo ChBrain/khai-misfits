@@ -30,7 +30,7 @@ Search the whole space of moves and take the top of the written objective, by wh
 
 ## Implementation
 
-([The Arena](place_the_arena.md); the [searching](process_searching.md) and [gaming](process_gaming.md) processes; the search tops [the objective](piece_the_objective.md) through [the loophole](piece_the_loophole.md), harvesting [the points](piece_the_points.md) while [the spirit](piece_the_spirit.md) drops out.)
+([The Arena](place_the_arena.md); the [searching](process_searching.md) and [gaming](process_gaming.md) processes; the search tops [the objective](piece_the_objective.md) through [the loophole](piece_the_loophole.md), harvesting the reward in plain sight while [the spirit](piece_the_spirit.md) drops out.)
 
 ## Targets
 

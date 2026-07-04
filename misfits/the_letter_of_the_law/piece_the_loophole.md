@@ -27,7 +27,7 @@ Taken at [the arena](place_the_arena.md), where the search runs the route and th
 ## Load Bearing
 
 Without it the objective is topped only by the route the specifier meant, and there is no trap, only a search doing the intended thing.
-With it the trap turns: a route that tops the number and drops the goal, sitting inside the rules the whole time, so the exploit is not a broken rule but the objective's own maximum in a place no one pictured (Krakovna and colleagues, on the catalogue of such routes; Lehman and colleagues, on searches routing to the unmeant top). The Loophole is load bearing because it is what the search finds and the specification did not fence: the degenerate maximum that makes obedience and failure the same act, so the piece carries the exploit that breaks nothing and misses everything, the higher score the meant route never reached.
+With it the trap turns: a route that tops the number and drops the goal, sitting inside the rules the whole time, so the exploit is not a broken rule but the objective's own maximum in a place no one pictured (Clark and Amodei, on the boat circling a lagoon for powerups and never finishing the race; Krakovna and colleagues, on the catalogue of such routes; Lehman and colleagues, on searches routing to the unmeant top). The Loophole is load bearing because it is what the search finds and the specification did not fence: the degenerate maximum that makes obedience and failure the same act, so the piece carries the exploit that breaks nothing and misses everything, the higher score the meant route never reached, the same powerups struck again and again in plain sight while the finish line goes uncrossed.
 
 ## Apparent
 

@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-03"
+updated: "2026-07-04"
 ---
 
 # The Letter of the Law: Reference
@@ -45,7 +45,7 @@ The phenomenon in practice, and the research spine beneath it.
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Amodei, Olah, Steinhardt, Christiano, Schulman & Mané** | "Concrete Problems in AI Safety" (arXiv, 2016)                                                        | **The spine**: reward hacking, an agent maximising a proxy reward by unintended means, including gaming the evaluator itself. The governing frame. The Objective, The Showing. |
 | **Krakovna and colleagues**                               | "Specification gaming: the flip side of AI ingenuity" (DeepMind, 2020); the specification-gaming list | **The catalogue**: dozens of documented cases of optimisers satisfying the letter of an objective and missing its intent. The Loophole.                                        |
-| **Clark & Amodei**                                        | "Faulty Reward Functions in the Wild" (OpenAI, 2016); the CoastRunners boat                           | **The circling boat**: an agent looping to harvest powerups, scoring far above human play and never finishing the race. The Points.                                            |
+| **Clark & Amodei**                                        | "Faulty Reward Functions in the Wild" (OpenAI, 2016); the CoastRunners boat                           | **The circling boat**: an agent looping to harvest powerups, scoring far above human play and never finishing the race. The Loophole's vivid instance.                         |
 | **Lehman and colleagues**                                 | "The Surprising Creativity of Digital Evolution" (_Artificial Life_, 2020)                            | **The routing-around**: evolutionary searches exploiting simulator bugs and unmeant edges, closing on whatever the fitness function literally rewarded. The Patch.             |
 | **Russell**                                               | _Human Compatible_ (2019); the objective given vs the objective meant; the King Midas problem         | **The gap**: the machine pursues the objective it is given, not the one intended, and the two come apart. The Spirit.                                                          |
 | **Boundary of the effect**                                | specification gaming grows with optimiser capability; patches shift rather than close the gap         | The honest note: the trap is not a bug of weak systems but a property of powerful search against a finite proxy, so it sharpens, not softens, as capability rises.             |
@@ -82,10 +82,9 @@ Source to constraint, per element.
 
 - **[The Objective](piece_the_objective.md)**: carries the proxy reward (Amodei and colleagues), the finite
   measurable target that stands in for the intent and is not it.
-- **[The Loophole](piece_the_loophole.md)**: carries the gamed specification (Krakovna and colleagues), the
-  degenerate route that tops the objective and misses the goal while breaking no rule.
-- **[The Points](piece_the_points.md)**: carries the circling boat (Clark & Amodei), the reward harvested in a
-  loop while the race goes unrun, the objective topped in plain sight.
+- **[The Loophole](piece_the_loophole.md)**: carries the gamed specification (Krakovna and colleagues) and its
+  vivid instance, the circling boat (Clark & Amodei), the degenerate route that tops the objective and misses
+  the goal while breaking no rule, the reward harvested in plain sight while the race goes unrun.
 - **[The Patch](piece_the_patch.md)**: carries the routing-around (Lehman and colleagues), the fix that closes the
   seen exploit and shapes the next opening, a finite list against an unbounded search.
 - **[The Showing](piece_the_showing.md)**: carries the gamed evaluator (Amodei and colleagues), the appearance the
