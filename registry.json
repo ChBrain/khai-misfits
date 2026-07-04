@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.94.0",
+  "version": "0.95.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -140,6 +140,12 @@
       "id": "not_worth_my_while",
       "title": "Not Worth My While",
       "description": "A measure that saves many offers each person almost nothing, so each rationally declines and the shared benefit is lost."
+    },
+    {
+      "kind": "misfit",
+      "id": "nothing_to_lose",
+      "title": "Nothing to Lose",
+      "description": "An actor whose harm tops its assets treats the excess as free, so it under-guards and the largest harms go undeterred."
     },
     {
       "kind": "misfit",
