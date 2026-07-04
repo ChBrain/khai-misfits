@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.80.0",
+  "version": "0.81.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -392,6 +392,12 @@
       "id": "the_ninth_woman",
       "title": "The Ninth Woman",
       "description": "More people are added to a late project to speed it up, and the ramp-up and cross-talk make it later still."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_open_cage",
+      "title": "The Open Cage",
+      "description": "Taught that nothing you do matters, you stop trying, and go on not trying once the cage is open and effort would work."
     },
     {
       "kind": "misfit",
