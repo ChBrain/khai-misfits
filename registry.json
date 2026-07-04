@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.95.0",
+  "version": "0.96.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -26,6 +26,12 @@
       "id": "baumols_cost_disease",
       "title": "Baumol's Cost Disease",
       "description": "A service whose hour cannot be sped up grows costlier forever, its wages tracking sectors that got more productive."
+    },
+    {
+      "kind": "misfit",
+      "id": "belt_and_braces",
+      "title": "Belt and Braces",
+      "description": "Each backup added for safety adds coupling, a shared cause, and shirking, so more redundancy can lower reliability."
     },
     {
       "kind": "misfit",
