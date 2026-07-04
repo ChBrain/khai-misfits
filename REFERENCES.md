@@ -88,6 +88,7 @@ sources are carried in the named misfit's `REFERENCE.md`.
 | The Firefighting Trap (nobody gets credit for problems that never happened) | Repenning & Sterman (CMR, 2001); Bohn (HBR, 2000)                            | The Firefighter's Medal (`the_firefighters_medal`)          |
 | The Leadership Script (leadership-as-discourse; the naturalised register)   | Fairclough (1989); Bourdieu (1991); Meindl et al. (1985); Khurana (2002)     | The Leadership Script (`the_leadership_script`)             |
 | Institutional Isomorphism (the iron cage; legitimacy over efficiency)       | DiMaggio & Powell (ASR, 1983); Meyer & Rowan (AJS, 1977)                     | The Done Thing (`the_done_thing`)                           |
+| The Abstraction Ladder (levels of abstraction; legibility; loss of metis)   | Hayakawa (1949); Korzybski (1933); Trope & Liberman (2010); Scott (1998)     | The Abstraction Ladder (`the_abstraction_ladder`)           |
 
 ### Groups, candour, and face
 
