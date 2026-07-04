@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.90.0",
+  "version": "0.91.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -368,6 +368,12 @@
       "id": "the_head_start",
       "title": "The Head Start",
       "description": "An early lead attracts the credit and resources that make the next lead, so small head starts compound into dominance."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_hollow_word",
+      "title": "The Hollow Word",
+      "description": "A word keeps circulating after the practice it named has gone, so the field speaks the old language and does the new."
     },
     {
       "kind": "misfit",
