@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.87.0",
+  "version": "0.88.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -368,6 +368,12 @@
       "id": "the_identified_patient",
       "title": "The Identified Patient",
       "description": "A group lands its strain on one member who turns symptomatic, so treating them keeps shut the rift that made them ill."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_illusion_of_shared_understanding",
+      "title": "The Illusion of Shared Understanding",
+      "description": "Each receiver fills a message with their own meaning and thinks it shared, so one instruction runs several ways at once."
     },
     {
       "kind": "misfit",
