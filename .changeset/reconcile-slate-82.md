@@ -1,0 +1,7 @@
+---
+"@chbrain/khai-misfits": patch
+---
+
+Reconcile the backlog and the concordance after two misfits merged, and triage a language-and-discourse research batch. Strike the two now staged and merged from the "Fill the Season" slate: Learned Helplessness (staged as The Open Cage) and Automation Bias (staged as The Empty Seat). Add their two rows to the house-wide REFERENCES.md concordance, so it again covers every staged misfit one-for-one (eighty-two rows, eighty-two folders). Bump the slate dedup count to eighty-two.
+
+Triage the language batch through REFERENCES.md by canonical name; all eight core concepts are absent from the concordance. Three survive and are slated: The Leadership Script (Fairclough, the order of discourse; absorbing Linguistic Capital and Identity Lock as facets), The Abstraction Ladder (Hayakawa, 1949), and The Illusion of Shared Understanding (Gilovich, Savitsky & Medvec, the illusion of transparency; Clark, common ground), the last renamed from the batch's "The False Consensus" to keep it clear of Ross's false-consensus effect. Folded into The Leadership Script: Linguistic Capital and Identity Lock. Folded elsewhere: Genre Mimicry into The Cargo Cult. Held as too adjacent: Presupposition Creep (The Leadership Script's naturalisation; The New Normal). Held on an ethic tension: The Unspeakable Constraint (Foucault), whose enforcing power cuts against the no-villain standard. No misfit content moves; the misfit count is unchanged.

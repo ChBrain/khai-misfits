@@ -103,15 +103,16 @@ sources are carried in the named misfit's `REFERENCE.md`.
 
 ### Safety, risk, and complex systems
 
-| Concept (canonical name, aliases)                            | Leading source                                         | Staged as (`id`)                                    |
-| ------------------------------------------------------------ | ------------------------------------------------------ | --------------------------------------------------- |
-| Normal Accidents (tight coupling); the fragility of the lean | Perrow, _Normal Accidents_ (1984); Taleb               | The Brittle Optimum (`the_brittle_optimum`)         |
-| Normalization of Deviance                                    | Vaughan, _The Challenger Launch Decision_ (1996)       | The New Normal (`the_new_normal`)                   |
-| Alarm Fatigue (the cry-wolf effect; signal detection)        | Aesop; Breznitz (1984); Green & Swets                  | Alarm Fatigue (`alarm_fatigue`)                     |
-| The Ironies of Automation                                    | Bainbridge, "Ironies of Automation" (Automatica, 1983) | The Irony of Automation (`the_irony_of_automation`) |
-| The Bullwhip Effect (demand amplification)                   | Forrester (HBR, 1958); Lee, Padmanabhan & Whang        | The Bullwhip Effect (`the_bullwhip_effect`)         |
-| Chesterton's Fence (removing a forgotten safeguard)          | Chesterton, _The Thing_ (1929)                         | Chesterton's Fence (`chestertons_fence`)            |
-| Survivorship Bias                                            | Bacon, _Novum Organum_ (1620); Wald                    | The Survivors (`the_survivors`)                     |
+| Concept (canonical name, aliases)                            | Leading source                                                                           | Staged as (`id`)                                    |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Normal Accidents (tight coupling); the fragility of the lean | Perrow, _Normal Accidents_ (1984); Taleb                                                 | The Brittle Optimum (`the_brittle_optimum`)         |
+| Normalization of Deviance                                    | Vaughan, _The Challenger Launch Decision_ (1996)                                         | The New Normal (`the_new_normal`)                   |
+| Alarm Fatigue (the cry-wolf effect; signal detection)        | Aesop; Breznitz (1984); Green & Swets                                                    | Alarm Fatigue (`alarm_fatigue`)                     |
+| The Ironies of Automation                                    | Bainbridge, "Ironies of Automation" (Automatica, 1983)                                   | The Irony of Automation (`the_irony_of_automation`) |
+| Automation Bias (overtrust; automation complacency)          | Parasuraman & Riley (1997); Skitka, Mosier & Burdick (1999); Parasuraman & Manzey (2010) | The Empty Seat (`the_empty_seat`)                   |
+| The Bullwhip Effect (demand amplification)                   | Forrester (HBR, 1958); Lee, Padmanabhan & Whang                                          | The Bullwhip Effect (`the_bullwhip_effect`)         |
+| Chesterton's Fence (removing a forgotten safeguard)          | Chesterton, _The Thing_ (1929)                                                           | Chesterton's Fence (`chestertons_fence`)            |
+| Survivorship Bias                                            | Bacon, _Novum Organum_ (1620); Wald                                                      | The Survivors (`the_survivors`)                     |
 
 ### Systems-dynamics archetypes (Senge)
 
@@ -123,25 +124,26 @@ sources are carried in the named misfit's `REFERENCE.md`.
 
 ### Measurement, cognition, and inquiry
 
-| Concept (canonical name, aliases)                                  | Leading source                                                   | Staged as (`id`)                                                        |
-| ------------------------------------------------------------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Goodhart's Law (metric fixation; goal displacement)                | Ridgway (ASQ, 1956); Goodhart; Campbell                          | Metric Fixation (`metric_fixation`)                                     |
-| Overfitting (the bias-variance dilemma)                            | Geman, Bienenstock & Doursat (Neural Computation, 1992)          | Overfitting (`overfitting`)                                             |
-| The Planning Fallacy (the inside view)                             | Kahneman & Tversky (1979); Flyvbjerg                             | The Planning Fallacy (`the_planning_fallacy`)                           |
-| The Streetlight Effect (the drunkard's search)                     | Kaplan, _The Conduct of Inquiry_ (1964)                          | The Streetlight Effect (`the_streetlight_effect`)                       |
-| The Law of the Instrument (Maslow's hammer)                        | Kaplan (1964); Maslow                                            | The Law of the Instrument (`the_law_of_the_instrument`)                 |
-| Moral Licensing (moral credentials)                                | Monin & Miller (JPSP, 2001)                                      | Moral Licensing (`moral_licensing`)                                     |
-| Regression to the Mean                                             | Galton, "Regression towards Mediocrity" (1886); Kahneman         | The Bounce (`the_bounce`)                                               |
-| The Filter Bubble (echo chamber; group polarization)               | Pariser (2011); Sunstein                                         | The Filter Bubble (`the_filter_bubble`)                                 |
-| Information Cascade (rational herding)                             | Bikhchandani, Hirshleifer & Welch (JPE, 1992); Banerjee          | Information Cascade (`information_cascade`)                             |
-| The Cobra Effect (the perverse incentive)                          | Siebert, _Der Kobra-Effekt_ (2001)                               | The Cobra Effect (`the_cobra_effect`)                                   |
-| Escalation of Commitment (sunk cost; throwing good money)          | Staw, "Knee-Deep in the Big Muddy" (1976)                        | Good Money After Bad (`good_money_after_bad`)                           |
-| Model Collapse (the curse of recursion; model autophagy)           | Shumailov et al. (arXiv 2023; Nature 2024); Alemohammad et al.   | Model Collapse (`model_collapse`)                                       |
-| Prevalence-Induced Concept Change (concept creep)                  | Levari et al. (Science, 2018); Haslam                            | Prevalence-Induced Concept Change (`prevalence_induced_concept_change`) |
-| The Availability Cascade (availability heuristic; risk regulation) | Kuran & Sunstein (Stanford Law Review, 1999); Tversky & Kahneman | The Availability Cascade (`the_availability_cascade`)                   |
-| The Mere Urgency Effect (urgent over important)                    | Zhu, Yang & Hsee (JCR, 2018); Hummel; Covey                      | The Tyranny of the Urgent (`the_tyranny_of_the_urgent`)                 |
-| Simpson's Paradox (the Yule-Simpson effect; aggregation reversal)  | Simpson (JRSS B, 1951); Blyth; Pearl                             | The Bigger Picture (`the_bigger_picture`)                               |
-| The Curse of Knowledge (the expert-novice gap)                     | Camerer, Loewenstein & Weber (JPE, 1989); Newton; Pinker         | Second Nature (`second_nature`)                                         |
+| Concept (canonical name, aliases)                                  | Leading source                                                                         | Staged as (`id`)                                                        |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Goodhart's Law (metric fixation; goal displacement)                | Ridgway (ASQ, 1956); Goodhart; Campbell                                                | Metric Fixation (`metric_fixation`)                                     |
+| Overfitting (the bias-variance dilemma)                            | Geman, Bienenstock & Doursat (Neural Computation, 1992)                                | Overfitting (`overfitting`)                                             |
+| The Planning Fallacy (the inside view)                             | Kahneman & Tversky (1979); Flyvbjerg                                                   | The Planning Fallacy (`the_planning_fallacy`)                           |
+| The Streetlight Effect (the drunkard's search)                     | Kaplan, _The Conduct of Inquiry_ (1964)                                                | The Streetlight Effect (`the_streetlight_effect`)                       |
+| The Law of the Instrument (Maslow's hammer)                        | Kaplan (1964); Maslow                                                                  | The Law of the Instrument (`the_law_of_the_instrument`)                 |
+| Moral Licensing (moral credentials)                                | Monin & Miller (JPSP, 2001)                                                            | Moral Licensing (`moral_licensing`)                                     |
+| Regression to the Mean                                             | Galton, "Regression towards Mediocrity" (1886); Kahneman                               | The Bounce (`the_bounce`)                                               |
+| The Filter Bubble (echo chamber; group polarization)               | Pariser (2011); Sunstein                                                               | The Filter Bubble (`the_filter_bubble`)                                 |
+| Information Cascade (rational herding)                             | Bikhchandani, Hirshleifer & Welch (JPE, 1992); Banerjee                                | Information Cascade (`information_cascade`)                             |
+| The Cobra Effect (the perverse incentive)                          | Siebert, _Der Kobra-Effekt_ (2001)                                                     | The Cobra Effect (`the_cobra_effect`)                                   |
+| Escalation of Commitment (sunk cost; throwing good money)          | Staw, "Knee-Deep in the Big Muddy" (1976)                                              | Good Money After Bad (`good_money_after_bad`)                           |
+| Model Collapse (the curse of recursion; model autophagy)           | Shumailov et al. (arXiv 2023; Nature 2024); Alemohammad et al.                         | Model Collapse (`model_collapse`)                                       |
+| Prevalence-Induced Concept Change (concept creep)                  | Levari et al. (Science, 2018); Haslam                                                  | Prevalence-Induced Concept Change (`prevalence_induced_concept_change`) |
+| The Availability Cascade (availability heuristic; risk regulation) | Kuran & Sunstein (Stanford Law Review, 1999); Tversky & Kahneman                       | The Availability Cascade (`the_availability_cascade`)                   |
+| The Mere Urgency Effect (urgent over important)                    | Zhu, Yang & Hsee (JCR, 2018); Hummel; Covey                                            | The Tyranny of the Urgent (`the_tyranny_of_the_urgent`)                 |
+| Simpson's Paradox (the Yule-Simpson effect; aggregation reversal)  | Simpson (JRSS B, 1951); Blyth; Pearl                                                   | The Bigger Picture (`the_bigger_picture`)                               |
+| The Curse of Knowledge (the expert-novice gap)                     | Camerer, Loewenstein & Weber (JPE, 1989); Newton; Pinker                               | Second Nature (`second_nature`)                                         |
+| Learned Helplessness (uncontrollability; the reformulation)        | Seligman & Maier (1967); Abramson, Seligman & Teasdale (1978); Maier & Seligman (2016) | The Open Cage (`the_open_cage`)                                         |
 
 ## Restrictions
 
