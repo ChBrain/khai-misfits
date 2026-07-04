@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.82.0",
+  "version": "0.83.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -368,6 +368,12 @@
       "id": "the_law_of_the_instrument",
       "title": "The Law of the Instrument",
       "description": "The one tool a hand has mastered reshapes every problem into the shape it can strike, and trims off the rest."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_letter_of_the_law",
+      "title": "The Letter of the Law",
+      "description": "A powerful optimiser maximises the objective to the letter, taking the route that maxes the reward and misses the goal."
     },
     {
       "kind": "misfit",
