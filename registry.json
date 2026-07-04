@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.83.0",
+  "version": "0.84.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -368,6 +368,12 @@
       "id": "the_law_of_the_instrument",
       "title": "The Law of the Instrument",
       "description": "The one tool a hand has mastered reshapes every problem into the shape it can strike, and trims off the rest."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_leadership_script",
+      "title": "The Leadership Script",
+      "description": "Leadership becomes a way of speaking, so promotion flows to the fluent over the doer and the sound becomes the mark."
     },
     {
       "kind": "misfit",
