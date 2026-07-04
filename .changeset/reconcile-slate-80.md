@@ -1,7 +1,0 @@
----
-"@chbrain/khai-misfits": patch
----
-
-Reconcile the backlog and the concordance after three misfits merged, and triage a research-input batch. Strike the three now staged and merged from the "Fill the Season" slate: Simpson's Paradox (staged as The Bigger Picture), The Curse of Knowledge (staged as Second Nature), and The Iron Triangle. Add their three rows to the house-wide REFERENCES.md concordance, so it again covers every staged misfit one-for-one (eighty rows, eighty folders). Bump the slate dedup count to eighty.
-
-Triage the research batch through REFERENCES.md by canonical name. Two candidates were struck as already staged, the concordance catching both: Goodhart's Law is Metric Fixation, and the Ratchet Effect is Sandbag (the soldiering quota ratchet). Five survive and are slated: Learned Helplessness (Seligman & Maier), Automation Bias (Mosier & Skitka), Specification Gaming (Amodei et al.; Krakovna et al.), the Einstellung Effect (Luchins), and the Fiscal Ratchet (Peacock & Wiseman, flagged for its name collision with Sandbag). Held as too adjacent: Scope Creep (The Tyranny of Small Decisions), the Procrustean Bed (The Law of the Instrument), base-rate neglect (the availability heuristic inside The Availability Cascade), the Congruence Trap (The Success Trap; Path Dependence). Held pending a cited spine: the Lukács Trap and Galaxy-Brained Reasoning. Held as not-fit: the Capability Overhang. No misfit content moves; the misfit count is unchanged.
