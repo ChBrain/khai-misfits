@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.96.0",
+  "version": "0.97.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -512,6 +512,12 @@
       "id": "the_shirky_principle",
       "title": "The Shirky Principle",
       "description": "The body built to cure a problem comes to depend on it, so it solves just enough to stay needed, never enough to end."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_simpler_lever",
+      "title": "The Simpler Lever",
+      "description": "Each simplification of the regulator reads as better governed, until it commands too few responses to hold the outcome."
     },
     {
       "kind": "misfit",
