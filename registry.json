@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.99.0",
+  "version": "0.100.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -464,6 +464,12 @@
       "id": "the_lie_of_the_land",
       "title": "The Lie of the Land",
       "description": "A cue that once meant good habitat still fires after the ground goes bad, so settlers fill the sink, not the source."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_lowest_bar",
+      "title": "The Lowest Bar",
+      "description": "A mobile base sits where the standard costs least, so each jurisdiction lowers its own and all race to the bottom."
     },
     {
       "kind": "misfit",
