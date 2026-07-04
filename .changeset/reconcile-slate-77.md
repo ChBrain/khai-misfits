@@ -1,5 +1,0 @@
----
-"@chbrain/khai-misfits": patch
----
-
-Reconcile the backlog and the concordance after five misfits merged. Strike the five now staged and merged from the "Fill the Season" slate: The Availability Cascade, The Identified Patient, The Balloon Effect, The Tyranny of the Urgent, and The Double Bind (the last cut from the under-review batch, staged to its paradoxical-injunction structure with the abandoned schizophrenia-aetiology claim credited and not carried). Add their five rows to the house-wide REFERENCES.md concordance, so it again covers every staged misfit one-for-one (seventy-seven rows, seventy-seven folders). Bump the slate dedup count to seventy-seven. Retire the signaling or knowledge-economy trap as carried by The Arms Race's positional escalation. Record the Iron Triangle review: it clears Regulatory Capture on the closed-triad vector and stands as the next target pending the house's go. Refill with two concordance-checked candidates, Simpson's Paradox and The Curse of Knowledge, after the check struck the Winner's Curse, Braess's Paradox, and Escalation of Commitment as already staged. No misfit content moves; the misfit count is unchanged.
