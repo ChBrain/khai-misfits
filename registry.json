@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.78.0",
+  "version": "0.79.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -176,6 +176,12 @@
       "id": "saving_face",
       "title": "Saving Face",
       "description": "A courteous team keeps every mistake unspoken, fixing what it can name and never learning what it cannot say."
+    },
+    {
+      "kind": "misfit",
+      "id": "second_nature",
+      "title": "Second Nature",
+      "description": "Know a thing so well you cannot picture not knowing it, so you explain it over the heads of those who don't."
     },
     {
       "kind": "misfit",
