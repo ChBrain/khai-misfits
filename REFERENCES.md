@@ -89,34 +89,38 @@ sources are carried in the named misfit's `REFERENCE.md`.
 | The Leadership Script (leadership-as-discourse; the naturalised register)   | Fairclough (1989); Bourdieu (1991); Meindl et al. (1985); Khurana (2002)     | The Leadership Script (`the_leadership_script`)             |
 | Institutional Isomorphism (the iron cage; legitimacy over efficiency)       | DiMaggio & Powell (ASR, 1983); Meyer & Rowan (AJS, 1977)                     | The Done Thing (`the_done_thing`)                           |
 | The Abstraction Ladder (levels of abstraction; legibility; loss of metis)   | Hayakawa (1949); Korzybski (1933); Trope & Liberman (2010); Scott (1998)     | The Abstraction Ladder (`the_abstraction_ladder`)           |
+| Semantic Drift (semantic bleaching; semantic change)                        | Traugott & Dasher (2002); Bloomfield (1933); Hopper & Traugott               | The Hollow Word (`the_hollow_word`)                         |
 
 ### Groups, candour, and face
 
-| Concept (canonical name, aliases)                           | Leading source                                                | Staged as (`id`)                                  |
-| ----------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- |
-| Groupthink                                                  | Whyte (Fortune, 1952); Janis                                  | Closing Ranks (`closing_ranks`)                   |
-| The Abilene Paradox (pluralistic ignorance)                 | Harvey, "The Abilene Paradox" (Organizational Dynamics, 1974) | The Trip to Abilene (`the_trip_to_abilene`)       |
-| The MUM Effect (reluctance to convey bad news)              | Rosen & Tesser (Sociometry, 1970)                             | Watermelon Reporting (`watermelon_reporting`)     |
-| Defensive Routines (face-saving; single-loop learning)      | Argyris & Schön, _Organizational Learning_ (1978)             | Saving Face (`saving_face`)                       |
-| Plausible Deniability (willful blindness)                   | Church Committee (U.S. Senate, 1975-76)                       | Plausible Deniability (`plausible_deniability`)   |
-| Defensive Medicine (goal displacement; blame culture)       | Studdert et al. (JAMA, 2005); Merton                          | The Paper Trail (`the_paper_trail`)               |
-| Exit, Voice, and Loyalty (loyalty suppresses both signals)  | Hirschman, _Exit, Voice, and Loyalty_ (1970)                  | The Loyalty Trap (`the_loyalty_trap`)             |
-| The Identified Patient (family scapegoat; homeostasis)      | Vogel & Bell (1960); Bowen; Minuchin; Jackson                 | The Identified Patient (`the_identified_patient`) |
-| The Double Bind (paradoxical injunction; metacommunication) | Bateson, Jackson, Haley & Weakland (Behavioral Science, 1956) | The Double Bind (`the_double_bind`)               |
+| Concept (canonical name, aliases)                                           | Leading source                                                            | Staged as (`id`)                                                              |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Groupthink                                                                  | Whyte (Fortune, 1952); Janis                                              | Closing Ranks (`closing_ranks`)                                               |
+| The Abilene Paradox (pluralistic ignorance)                                 | Harvey, "The Abilene Paradox" (Organizational Dynamics, 1974)             | The Trip to Abilene (`the_trip_to_abilene`)                                   |
+| The MUM Effect (reluctance to convey bad news)                              | Rosen & Tesser (Sociometry, 1970)                                         | Watermelon Reporting (`watermelon_reporting`)                                 |
+| Defensive Routines (face-saving; single-loop learning)                      | Argyris & Schön, _Organizational Learning_ (1978)                         | Saving Face (`saving_face`)                                                   |
+| Plausible Deniability (willful blindness)                                   | Church Committee (U.S. Senate, 1975-76)                                   | Plausible Deniability (`plausible_deniability`)                               |
+| Defensive Medicine (goal displacement; blame culture)                       | Studdert et al. (JAMA, 2005); Merton                                      | The Paper Trail (`the_paper_trail`)                                           |
+| Exit, Voice, and Loyalty (loyalty suppresses both signals)                  | Hirschman, _Exit, Voice, and Loyalty_ (1970)                              | The Loyalty Trap (`the_loyalty_trap`)                                         |
+| The Identified Patient (family scapegoat; homeostasis)                      | Vogel & Bell (1960); Bowen; Minuchin; Jackson                             | The Identified Patient (`the_identified_patient`)                             |
+| The Double Bind (paradoxical injunction; metacommunication)                 | Bateson, Jackson, Haley & Weakland (Behavioral Science, 1956)             | The Double Bind (`the_double_bind`)                                           |
+| The Illusion of Shared Understanding (illusory transparency; grounding)     | Gilovich, Savitsky & Medvec (1998); Keysar (1994); Clark & Brennan (1991) | The Illusion of Shared Understanding (`the_illusion_of_shared_understanding`) |
+| Boundary Objects (interpretive flexibility; coordination without consensus) | Star & Griesemer (1989); Carlile (2002); Bowker & Star (1999)             | The Common Object (`the_common_object`)                                       |
 
 ### Safety, risk, and complex systems
 
-| Concept (canonical name, aliases)                            | Leading source                                                                           | Staged as (`id`)                                    |
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Normal Accidents (tight coupling); the fragility of the lean | Perrow, _Normal Accidents_ (1984); Taleb                                                 | The Brittle Optimum (`the_brittle_optimum`)         |
-| Iatrogenesis (medical nemesis; the harm of the cure)         | Illich, _Medical Nemesis_ (1976); Rochon & Gurwitz (BMJ, 1997)                           | First Do Harm (`first_do_harm`)                     |
-| Normalization of Deviance                                    | Vaughan, _The Challenger Launch Decision_ (1996)                                         | The New Normal (`the_new_normal`)                   |
-| Alarm Fatigue (the cry-wolf effect; signal detection)        | Aesop; Breznitz (1984); Green & Swets                                                    | Alarm Fatigue (`alarm_fatigue`)                     |
-| The Ironies of Automation                                    | Bainbridge, "Ironies of Automation" (Automatica, 1983)                                   | The Irony of Automation (`the_irony_of_automation`) |
-| Automation Bias (overtrust; automation complacency)          | Parasuraman & Riley (1997); Skitka, Mosier & Burdick (1999); Parasuraman & Manzey (2010) | The Empty Seat (`the_empty_seat`)                   |
-| The Bullwhip Effect (demand amplification)                   | Forrester (HBR, 1958); Lee, Padmanabhan & Whang                                          | The Bullwhip Effect (`the_bullwhip_effect`)         |
-| Chesterton's Fence (removing a forgotten safeguard)          | Chesterton, _The Thing_ (1929)                                                           | Chesterton's Fence (`chestertons_fence`)            |
-| Survivorship Bias                                            | Bacon, _Novum Organum_ (1620); Wald                                                      | The Survivors (`the_survivors`)                     |
+| Concept (canonical name, aliases)                              | Leading source                                                                           | Staged as (`id`)                                    |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Normal Accidents (tight coupling); the fragility of the lean   | Perrow, _Normal Accidents_ (1984); Taleb                                                 | The Brittle Optimum (`the_brittle_optimum`)         |
+| Iatrogenesis (medical nemesis; the harm of the cure)           | Illich, _Medical Nemesis_ (1976); Rochon & Gurwitz (BMJ, 1997)                           | First Do Harm (`first_do_harm`)                     |
+| Boundary Critique (the planning horizon; the systems boundary) | Ulrich (1983); Midgley (2000); Churchman (1979)                                          | The Horizon Problem (`the_horizon_problem`)         |
+| Normalization of Deviance                                      | Vaughan, _The Challenger Launch Decision_ (1996)                                         | The New Normal (`the_new_normal`)                   |
+| Alarm Fatigue (the cry-wolf effect; signal detection)          | Aesop; Breznitz (1984); Green & Swets                                                    | Alarm Fatigue (`alarm_fatigue`)                     |
+| The Ironies of Automation                                      | Bainbridge, "Ironies of Automation" (Automatica, 1983)                                   | The Irony of Automation (`the_irony_of_automation`) |
+| Automation Bias (overtrust; automation complacency)            | Parasuraman & Riley (1997); Skitka, Mosier & Burdick (1999); Parasuraman & Manzey (2010) | The Empty Seat (`the_empty_seat`)                   |
+| The Bullwhip Effect (demand amplification)                     | Forrester (HBR, 1958); Lee, Padmanabhan & Whang                                          | The Bullwhip Effect (`the_bullwhip_effect`)         |
+| Chesterton's Fence (removing a forgotten safeguard)            | Chesterton, _The Thing_ (1929)                                                           | Chesterton's Fence (`chestertons_fence`)            |
+| Survivorship Bias                                              | Bacon, _Novum Organum_ (1620); Wald                                                      | The Survivors (`the_survivors`)                     |
 
 ### Systems-dynamics archetypes (Senge)
 
