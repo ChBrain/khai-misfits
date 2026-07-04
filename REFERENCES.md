@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-03"
+updated: "2026-07-04"
 ---
 
 # Misfits House: References
@@ -30,41 +30,43 @@ sources are carried in the named misfit's `REFERENCE.md`.
 
 ### Markets, money, and economic equilibria
 
-| Concept (canonical name, aliases)                           | Leading source                                                                | Staged as (`id`)                                |
-| ----------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
-| Gresham's Law (bad money drives out good)                   | Gresham (16th c.); named by Macleod                                           | Bad Coin (`bad_coin`)                           |
-| The Market for Lemons (adverse selection)                   | Akerlof, "The Market for 'Lemons'" (QJE, 1970)                                | The Market for Lemons (`the_market_for_lemons`) |
-| Moral Hazard (hidden action; risk compensation)             | Arrow, "Uncertainty and the Welfare Economics of Medical Care" (AER, 1963)    | Moral Hazard (`moral_hazard`)                   |
-| Rent-Seeking (unproductive competition for transfers)       | Tullock (1967); Krueger (1974)                                                | Rent-Seeking (`rent_seeking`)                   |
-| Regulatory Capture                                          | Stigler, "The Theory of Economic Regulation" (Bell Journal, 1971)             | Regulatory Capture (`regulatory_capture`)       |
-| The Iron Triangle (subgovernments; the closed policy triad) | Cater (1964); Gordon Adams (1981); Lowi                                       | The Iron Triangle (`the_iron_triangle`)         |
-| Baumol's Cost Disease                                       | Baumol & Bowen, _Performing Arts: The Economic Dilemma_ (1966)                | Baumol's Cost Disease (`baumols_cost_disease`)  |
-| Jevons Paradox (rebound effect)                             | Jevons, _The Coal Question_ (1865)                                            | Jevons Paradox (`jevons_paradox`)               |
-| The Winner's Curse (common-value auctions)                  | Capen, Clapp & Campbell (1971); Thaler                                        | The Winning Bid (`the_winning_bid`)             |
-| Debt-Deflation                                              | Fisher, "The Debt-Deflation Theory of Great Depressions" (Econometrica, 1933) | Debt-Deflation (`debt_deflation`)               |
-| The Paradox of Thrift (fallacy of composition)              | Keynes, _The General Theory_ (1936)                                           | The Paradox of Thrift (`the_paradox_of_thrift`) |
-| The Bank Run (self-fulfilling panic)                        | Diamond & Dybvig (JPE, 1983); Nobel                                           | The Bank Run (`the_bank_run`)                   |
-| Time Inconsistency (dynamic inconsistency)                  | Kydland & Prescott, "Rules Rather than Discretion" (JPE, 1977); Nobel         | Time Inconsistency (`time_inconsistency`)       |
-| Path Dependence and Lock-In (QWERTY)                        | David, "Clio and the Economics of QWERTY" (AER, 1985); Arthur                 | Path Dependence (`path_dependence`)             |
-| The Matthew Effect (cumulative advantage; winner-take-all)  | Merton, "The Matthew Effect in Science" (Science, 1968)                       | The Head Start (`the_head_start`)               |
-| The Innovator's Dilemma (disruption; competency trap)       | Christensen, _The Innovator's Dilemma_ (1997)                                 | The Success Trap (`the_success_trap`)           |
-| Dutch Disease (the exchange-rate resource curse)            | _The Economist_ (1977); Corden & Neary (Economic Journal, 1982)               | Dutch Disease (`dutch_disease`)                 |
+| Concept (canonical name, aliases)                                | Leading source                                                                | Staged as (`id`)                                |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
+| Gresham's Law (bad money drives out good)                        | Gresham (16th c.); named by Macleod                                           | Bad Coin (`bad_coin`)                           |
+| The Market for Lemons (adverse selection)                        | Akerlof, "The Market for 'Lemons'" (QJE, 1970)                                | The Market for Lemons (`the_market_for_lemons`) |
+| Moral Hazard (hidden action; risk compensation)                  | Arrow, "Uncertainty and the Welfare Economics of Medical Care" (AER, 1963)    | Moral Hazard (`moral_hazard`)                   |
+| Rent-Seeking (unproductive competition for transfers)            | Tullock (1967); Krueger (1974)                                                | Rent-Seeking (`rent_seeking`)                   |
+| Regulatory Capture                                               | Stigler, "The Theory of Economic Regulation" (Bell Journal, 1971)             | Regulatory Capture (`regulatory_capture`)       |
+| The Iron Triangle (subgovernments; the closed policy triad)      | Cater (1964); Gordon Adams (1981); Lowi                                       | The Iron Triangle (`the_iron_triangle`)         |
+| Baumol's Cost Disease                                            | Baumol & Bowen, _Performing Arts: The Economic Dilemma_ (1966)                | Baumol's Cost Disease (`baumols_cost_disease`)  |
+| Jevons Paradox (rebound effect)                                  | Jevons, _The Coal Question_ (1865)                                            | Jevons Paradox (`jevons_paradox`)               |
+| The Winner's Curse (common-value auctions)                       | Capen, Clapp & Campbell (1971); Thaler                                        | The Winning Bid (`the_winning_bid`)             |
+| Debt-Deflation                                                   | Fisher, "The Debt-Deflation Theory of Great Depressions" (Econometrica, 1933) | Debt-Deflation (`debt_deflation`)               |
+| The Paradox of Thrift (fallacy of composition)                   | Keynes, _The General Theory_ (1936)                                           | The Paradox of Thrift (`the_paradox_of_thrift`) |
+| The Bank Run (self-fulfilling panic)                             | Diamond & Dybvig (JPE, 1983); Nobel                                           | The Bank Run (`the_bank_run`)                   |
+| Time Inconsistency (dynamic inconsistency)                       | Kydland & Prescott, "Rules Rather than Discretion" (JPE, 1977); Nobel         | Time Inconsistency (`time_inconsistency`)       |
+| Path Dependence and Lock-In (QWERTY)                             | David, "Clio and the Economics of QWERTY" (AER, 1985); Arthur                 | Path Dependence (`path_dependence`)             |
+| The Matthew Effect (cumulative advantage; winner-take-all)       | Merton, "The Matthew Effect in Science" (Science, 1968)                       | The Head Start (`the_head_start`)               |
+| The Innovator's Dilemma (disruption; competency trap)            | Christensen, _The Innovator's Dilemma_ (1997)                                 | The Success Trap (`the_success_trap`)           |
+| Dutch Disease (the exchange-rate resource curse)                 | _The Economist_ (1977); Corden & Neary (Economic Journal, 1982)               | Dutch Disease (`dutch_disease`)                 |
+| The Judgment-Proof Problem (limited liability; under-deterrence) | Shavell, "The Judgment-Proof Problem" (Int. Rev. Law & Econ., 1986); Summers  | Nothing to Lose (`nothing_to_lose`)             |
 
 ### Collective action, commons, and coordination
 
-| Concept (canonical name, aliases)                  | Leading source                                         | Staged as (`id`)                                                  |
-| -------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------- |
-| The Tragedy of the Commons                         | Lloyd (1833); Hardin (Science, 1968)                   | The Commons (`the_commons`)                                       |
-| The Anticommons (underuse by too many vetoes)      | Michelman (1982); Heller                               | The Anticommons (`the_anticommons`)                               |
-| The Bystander Effect (diffusion of responsibility) | Darley & Latané (JPSP, 1968)                           | Everybody's Business (`everybodys_business`)                      |
-| Social Loafing (the Ringelmann effect)             | Ringelmann (1913); Latané                              | Social Loafing (`social_loafing`)                                 |
-| The Stag Hunt (the assurance game)                 | Rousseau (1755); Skyrms                                | The Stag Hunt (`the_stag_hunt`)                                   |
-| The Arms Race (positional goods)                   | Hirsch, _Social Limits to Growth_ (1976); Frank        | The Arms Race (`the_arms_race`)                                   |
-| The Tyranny of Small Decisions                     | Kahn (1966); Schelling                                 | The Tyranny of Small Decisions (`the_tyranny_of_small_decisions`) |
-| Braess's Paradox (added capacity, less flow)       | Braess (1968)                                          | The Extra Road (`the_extra_road`)                                 |
-| Crime Displacement (the balloon effect)            | Reppetto (Crime & Delinquency, 1976); Cornish & Clarke | The Balloon Effect (`the_balloon_effect`)                         |
-| Accidental Adversaries (systems archetype)         | Kemeny; Senge, _The Fifth Discipline_ (1990)           | Accidental Adversaries (`accidental_adversaries`)                 |
-| Vetocracy (too many veto points)                   | Fukuyama, _Political Order and Political Decay_ (2014) | Vetocracy (`vetocracy`)                                           |
+| Concept (canonical name, aliases)                                    | Leading source                                                        | Staged as (`id`)                                                  |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| The Tragedy of the Commons                                           | Lloyd (1833); Hardin (Science, 1968)                                  | The Commons (`the_commons`)                                       |
+| The Anticommons (underuse by too many vetoes)                        | Michelman (1982); Heller                                              | The Anticommons (`the_anticommons`)                               |
+| The Bystander Effect (diffusion of responsibility)                   | Darley & Latané (JPSP, 1968)                                          | Everybody's Business (`everybodys_business`)                      |
+| Social Loafing (the Ringelmann effect)                               | Ringelmann (1913); Latané                                             | Social Loafing (`social_loafing`)                                 |
+| The Stag Hunt (the assurance game)                                   | Rousseau (1755); Skyrms                                               | The Stag Hunt (`the_stag_hunt`)                                   |
+| The Arms Race (positional goods)                                     | Hirsch, _Social Limits to Growth_ (1976); Frank                       | The Arms Race (`the_arms_race`)                                   |
+| The Tyranny of Small Decisions                                       | Kahn (1966); Schelling                                                | The Tyranny of Small Decisions (`the_tyranny_of_small_decisions`) |
+| Braess's Paradox (added capacity, less flow)                         | Braess (1968)                                                         | The Extra Road (`the_extra_road`)                                 |
+| Crime Displacement (the balloon effect)                              | Reppetto (Crime & Delinquency, 1976); Cornish & Clarke                | The Balloon Effect (`the_balloon_effect`)                         |
+| Accidental Adversaries (systems archetype)                           | Kemeny; Senge, _The Fifth Discipline_ (1990)                          | Accidental Adversaries (`accidental_adversaries`)                 |
+| Vetocracy (too many veto points)                                     | Fukuyama, _Political Order and Political Decay_ (2014)                | Vetocracy (`vetocracy`)                                           |
+| The Race to the Bottom (regulatory competition; charter competition) | Cary, "Federalism and Corporate Law" (Yale L.J., 1974); Winter (1977) | The Lowest Bar (`the_lowest_bar`)                                 |
 
 ### Organisations, hierarchy, and management
 
@@ -109,18 +111,21 @@ sources are carried in the named misfit's `REFERENCE.md`.
 
 ### Safety, risk, and complex systems
 
-| Concept (canonical name, aliases)                              | Leading source                                                                           | Staged as (`id`)                                    |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Normal Accidents (tight coupling); the fragility of the lean   | Perrow, _Normal Accidents_ (1984); Taleb                                                 | The Brittle Optimum (`the_brittle_optimum`)         |
-| Iatrogenesis (medical nemesis; the harm of the cure)           | Illich, _Medical Nemesis_ (1976); Rochon & Gurwitz (BMJ, 1997)                           | First Do Harm (`first_do_harm`)                     |
-| Boundary Critique (the planning horizon; the systems boundary) | Ulrich (1983); Midgley (2000); Churchman (1979)                                          | The Horizon Problem (`the_horizon_problem`)         |
-| Normalization of Deviance                                      | Vaughan, _The Challenger Launch Decision_ (1996)                                         | The New Normal (`the_new_normal`)                   |
-| Alarm Fatigue (the cry-wolf effect; signal detection)          | Aesop; Breznitz (1984); Green & Swets                                                    | Alarm Fatigue (`alarm_fatigue`)                     |
-| The Ironies of Automation                                      | Bainbridge, "Ironies of Automation" (Automatica, 1983)                                   | The Irony of Automation (`the_irony_of_automation`) |
-| Automation Bias (overtrust; automation complacency)            | Parasuraman & Riley (1997); Skitka, Mosier & Burdick (1999); Parasuraman & Manzey (2010) | The Empty Seat (`the_empty_seat`)                   |
-| The Bullwhip Effect (demand amplification)                     | Forrester (HBR, 1958); Lee, Padmanabhan & Whang                                          | The Bullwhip Effect (`the_bullwhip_effect`)         |
-| Chesterton's Fence (removing a forgotten safeguard)            | Chesterton, _The Thing_ (1929)                                                           | Chesterton's Fence (`chestertons_fence`)            |
-| Survivorship Bias                                              | Bacon, _Novum Organum_ (1620); Wald                                                      | The Survivors (`the_survivors`)                     |
+| Concept (canonical name, aliases)                                | Leading source                                                                           | Staged as (`id`)                                    |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Normal Accidents (tight coupling); the fragility of the lean     | Perrow, _Normal Accidents_ (1984); Taleb                                                 | The Brittle Optimum (`the_brittle_optimum`)         |
+| Iatrogenesis (medical nemesis; the harm of the cure)             | Illich, _Medical Nemesis_ (1976); Rochon & Gurwitz (BMJ, 1997)                           | First Do Harm (`first_do_harm`)                     |
+| Boundary Critique (the planning horizon; the systems boundary)   | Ulrich (1983); Midgley (2000); Churchman (1979)                                          | The Horizon Problem (`the_horizon_problem`)         |
+| Normalization of Deviance                                        | Vaughan, _The Challenger Launch Decision_ (1996)                                         | The New Normal (`the_new_normal`)                   |
+| Alarm Fatigue (the cry-wolf effect; signal detection)            | Aesop; Breznitz (1984); Green & Swets                                                    | Alarm Fatigue (`alarm_fatigue`)                     |
+| The Ironies of Automation                                        | Bainbridge, "Ironies of Automation" (Automatica, 1983)                                   | The Irony of Automation (`the_irony_of_automation`) |
+| Automation Bias (overtrust; automation complacency)              | Parasuraman & Riley (1997); Skitka, Mosier & Burdick (1999); Parasuraman & Manzey (2010) | The Empty Seat (`the_empty_seat`)                   |
+| The Bullwhip Effect (demand amplification)                       | Forrester (HBR, 1958); Lee, Padmanabhan & Whang                                          | The Bullwhip Effect (`the_bullwhip_effect`)         |
+| Chesterton's Fence (removing a forgotten safeguard)              | Chesterton, _The Thing_ (1929)                                                           | Chesterton's Fence (`chestertons_fence`)            |
+| Survivorship Bias                                                | Bacon, _Novum Organum_ (1620); Wald                                                      | The Survivors (`the_survivors`)                     |
+| The Redundancy Paradox (more backups, less reliability)          | Sagan, "The Problem of Redundancy Problem" (Risk Analysis, 2004); Perrow (1984)          | Belt and Braces (`belt_and_braces`)                 |
+| The Law of Requisite Variety (only variety absorbs variety)      | Ashby, _An Introduction to Cybernetics_ (1956); Conant & Ashby (1970)                    | The Simpler Lever (`the_simpler_lever`)             |
+| The Utilisation Trap (heavy-traffic queueing; Kingman's formula) | Kingman (Proc. Camb. Phil. Soc., 1961); Hopp & Spearman, _Factory Physics_               | No Idle Hands (`no_idle_hands`)                     |
 
 ### Systems-dynamics archetypes (Senge)
 
@@ -153,6 +158,16 @@ sources are carried in the named misfit's `REFERENCE.md`.
 | Simpson's Paradox (the Yule-Simpson effect; aggregation reversal)    | Simpson (JRSS B, 1951); Blyth; Pearl                                                   | The Bigger Picture (`the_bigger_picture`)                               |
 | The Curse of Knowledge (the expert-novice gap)                       | Camerer, Loewenstein & Weber (JPE, 1989); Newton; Pinker                               | Second Nature (`second_nature`)                                         |
 | Learned Helplessness (uncontrollability; the reformulation)          | Seligman & Maier (1967); Abramson, Seligman & Teasdale (1978); Maier & Seligman (2016) | The Open Cage (`the_open_cage`)                                         |
+
+### Ecology, evolution, and public health
+
+| Concept (canonical name, aliases)                                        | Leading source                                                             | Staged as (`id`)                            |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ------------------------------------------- |
+| Evolutionary Suicide (runaway selection; evolutionary trapping)          | Matsuda & Abrams (1994); Parvinen (2005)                                   | Fit to Fail (`fit_to_fail`)                 |
+| The Allee Effect (positive density dependence; the extinction vortex)    | Allee (1931; 1938); Courchamp, Berec & Gascoigne (2008)                    | Safety in Numbers (`safety_in_numbers`)     |
+| The Ecological Trap (maladaptive habitat selection; the attractive sink) | Schlaepfer, Runge & Sherman (TREE, 2002); Robertson & Hutto (2006)         | The Lie of the Land (`the_lie_of_the_land`) |
+| Rose's Prevention Paradox (population vs individual benefit)             | Rose, "Sick individuals and sick populations" (Int. J. Epidemiology, 1985) | Not Worth My While (`not_worth_my_while`)   |
+| The Vaccination Free-Rider (herd-immunity free-riding)                   | Bauch & Earn (PNAS, 2004); Fine & Clarkson (1986)                          | Borrowed Immunity (`borrowed_immunity`)     |
 
 ## Restrictions
 
