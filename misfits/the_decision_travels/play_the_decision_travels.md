@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "The Decision Travels"
-description: "A correct decision crosses the whole chain while the Body who must live with it never follows it."
+description: "A correct decision travels every station of the chain, and no one measures it against the person who must live with it."
 language: english
 license: CC-BY-NC-SA-4.0
 voice: "Clinical and procedural on the surface; the cost carried underneath in short broken lines. No dashes: colons, ellipses, and line breaks instead."
