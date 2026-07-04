@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.92.0",
+  "version": "0.93.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -128,6 +128,12 @@
       "id": "not_invented_here",
       "title": "Not-Invented-Here",
       "description": "A good idea from outside is spurned for being outside, and the group builds a worse one of its own to keep it theirs."
+    },
+    {
+      "kind": "misfit",
+      "id": "not_worth_my_while",
+      "title": "Not Worth My While",
+      "description": "A measure that saves many offers each person almost nothing, so each rationally declines and the shared benefit is lost."
     },
     {
       "kind": "misfit",
