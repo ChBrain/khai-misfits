@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.91.0",
+  "version": "0.92.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -116,6 +116,12 @@
       "id": "moral_licensing",
       "title": "Moral Licensing",
       "description": "A good deed is banked as moral credit, and the credit buys a later lapse, so the virtue funds the vice and washes out."
+    },
+    {
+      "kind": "misfit",
+      "id": "no_idle_hands",
+      "title": "No Idle Hands",
+      "description": "Driving a resource to full use to erase idleness makes the queue behind it swell without bound as the slack runs out."
     },
     {
       "kind": "misfit",
