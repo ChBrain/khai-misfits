@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.79.0",
+  "version": "0.80.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -344,6 +344,12 @@
       "id": "the_identified_patient",
       "title": "The Identified Patient",
       "description": "A group lands its strain on one member who turns symptomatic, so treating them keeps shut the rift that made them ill."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_iron_triangle",
+      "title": "The Iron Triangle",
+      "description": "A committee, an agency, and a lobby supply what the others need, so a closed ring runs the policy and the outside pays."
     },
     {
       "kind": "misfit",
