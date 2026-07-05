@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-01"
+updated: "2026-07-04"
 ---
 
 # Watermelon Reporting: Reference
@@ -56,8 +56,18 @@ Source to constraint, per element.
 - **[The External Problem](piece_the_external_problem.md)**: carries strategic
   misrepresentation and the mum effect together, the defensible "red because of X"
   that lets a seat green its own column truthfully.
-- **[The Colour Travels](piece_the_colour_travels.md)** and the fragment pieces: carry
-  the measured optimistic rounding (Snow, Keil & Wallace), one notch per rung.
+- **[The Colour Travels](piece_the_colour_travels.md)**: carries the measured optimistic
+  rounding (Snow, Keil & Wallace), one notch per rung, no rung lying outright.
+- **[The Red Task](piece_the_red_task.md)**: carries the honest colour at the source, the
+  ground truth every rung above holds a rounding of, red only at the workface.
+- **[The Mitigated Amber](piece_the_mitigated_amber.md)**: carries the first notch (the
+  mum effect, softened not withheld): red reframed as amber with a plan, control reported
+  where the task has only a mitigation.
+- **[The Rounded Green](piece_the_rounded_green.md)**: carries the second notch: amber
+  turned green with the red filed in the register, the status and the truth kept in two
+  documents that different people read.
+- **[The Net Green](piece_the_net_green.md)**: carries the third notch: one red averaged
+  into a healthy aggregate, counted honestly at a level where it cannot move the number.
 - **[The Critical Path](piece_the_critical_path.md)**: carries the sideways axis, work
   continuing task to task past a blown path, that the reporting literature leaves
   implicit.
