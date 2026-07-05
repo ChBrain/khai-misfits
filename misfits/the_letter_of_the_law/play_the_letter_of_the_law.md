@@ -77,7 +77,6 @@ Close the gap itself rather than the last loophole: specify the intent as direct
 
 - [The Objective](piece_the_objective.md)
 - [The Loophole](piece_the_loophole.md)
-- [The Points](piece_the_points.md)
 - [The Patch](piece_the_patch.md)
 - [The Showing](piece_the_showing.md)
 - [The Spirit](piece_the_spirit.md)
