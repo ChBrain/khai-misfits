@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-02"
+updated: "2026-07-06"
 ---
 
 # Vetocracy: Reference
@@ -30,15 +30,15 @@ many actors so no decision can be made, one an underused thing and the other an 
 
 The phenomenon in practice, and the research spine beneath it.
 
-| Source                 | Key Work / Event                                                                                                                      | Scope                                                                                                                                         |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Fukuyama**           | _Political Order and Political Decay_ (2014); "America in Decay" (_Foreign Affairs_, 2014)                                            | **The spine and the name**: too many veto points give too many actors the power to block, so the system cannot act. The play's governing law. |
-| **Tsebelis**           | _Veto Players: How Political Institutions Work_ (2002)                                                                                | **The formal theory**: the more veto players, and the more distant, the greater the policy stability and gridlock. The Thicket.               |
-| **Buchanan & Tullock** | _The Calculus of Consent_ (1962)                                                                                                      | **The consent-cost tradeoff**: as the assent required rises toward unanimity, decision costs explode toward paralysis. The Asymmetry.         |
-| **Olson**              | _The Rise and Decline of Nations_ (1982)                                                                                              | **Institutional sclerosis**: the accumulation of veto-holding distributional coalitions that gums up collective action. The Thicket.          |
-| **Rauch**              | _Government's End_ (1994), "demosclerosis"                                                                                            | **The accretion**: interest-group buildup that leaves government unable to act, its cost paid in reforms never made. The Foregone.            |
-| **Kagan**              | _Adversarial Legalism_ (2001)                                                                                                         | **The procedural veto**: litigation and layered process as blocking points that halt action. The Veto, the Extraction.                        |
-| **Practitioner**       | a permitting process any of dozens of stakeholders can halt; a corporate launch every team can block; a treaty a single seat can sink | The gridlock in the field, and its cost: the roads unbuilt and reforms unpassed, and the danger of clearing the checks to act.                |
+| Source                 | Key Work / Event                                                                                                                      | Scope                                                                                                                                               |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fukuyama**           | _Political Order and Political Decay_ (2014); "America in Decay" (_Foreign Affairs_, 2014)                                            | **The spine and the name**: too many veto points give too many actors the power to block, so the system cannot act. The play's governing law.       |
+| **Tsebelis**           | _Veto Players: How Political Institutions Work_ (2002)                                                                                | **The formal theory**: the more veto players, and the more distant, the greater the policy stability and gridlock. The Thicket.                     |
+| **Buchanan & Tullock** | _The Calculus of Consent_ (1962)                                                                                                      | **The consent-cost tradeoff**: as the assent required rises toward unanimity, decision costs explode toward paralysis. The Asymmetry.               |
+| **Olson**              | _The Rise and Decline of Nations_ (1982)                                                                                              | **Institutional sclerosis**: the accumulation of veto-holding distributional coalitions that gums up collective action. The Thicket.                |
+| **Rauch**              | _Demosclerosis_ (1994); _Government's End_ (1999, revised ed.)                                                                        | **The accretion**: "demosclerosis," interest-group buildup that leaves government unable to act, its cost paid in reforms never made. The Foregone. |
+| **Kagan**              | _Adversarial Legalism_ (2001)                                                                                                         | **The procedural veto**: litigation and layered process as blocking points that halt action. The Veto, the Extraction.                              |
+| **Practitioner**       | a permitting process any of dozens of stakeholders can halt; a corporate launch every team can block; a treaty a single seat can sink | The gridlock in the field, and its cost: the roads unbuilt and reforms unpassed, and the danger of clearing the checks to act.                      |
 
 ## Restrictions
 

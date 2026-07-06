@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-02"
+updated: "2026-07-06"
 ---
 
 # Pournelle's Iron Law: Reference
@@ -38,7 +38,7 @@ The phenomenon in practice, and the research spine beneath it.
 | **Downs**        | _Inside Bureaucracy_ (1967)                                                                                                                                                                               | **Goal succession by type**: the life-cycle drift from mission-driven zealots and advocates to self-interested conservers. The Divide, the Drain.                 |
 | **Niskanen**     | _Bureaucracy and Representative Government_ (1971)                                                                                                                                                        | **Budget as the coin**: the bureau official who maximises the budget, the internal resource that measures standing. The Internal Currency.                        |
 | **Parkinson**    | _Parkinson's Law_ (1955)                                                                                                                                                                                  | **Headcount as the coin**: officials multiply subordinates and make work for one another, growth as internal advancement. The Internal Currency, the Turn Inward. |
-| **Weber**        | _Economy and Society_ (1922), bureaucracy and the "iron cage"                                                                                                                                             | **The apparatus**: the permanent officialdom whose careers bind them to the organisation's machinery rather than its ends. The Custodian, the Maintenance.        |
+| **Weber**        | _Economy and Society_ (1922); the permanent bureaucratic apparatus                                                                                                                                        | **The apparatus**: the permanent officialdom whose careers bind them to the organisation's machinery rather than its ends. The Custodian, the Maintenance.        |
 | **Practitioner** | a charity whose fundraising and administration swell as programme work shrinks; a standards body run by its process-keepers; a firm where the owners of the internal calendar outlast the people who ship | The law in the field, and its cure: the mission drained as the body fills, and the hazard of cutting the self-serving upkeep without gutting the real.            |
 
 ## Restrictions

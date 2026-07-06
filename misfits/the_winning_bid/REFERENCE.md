@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-01"
+updated: "2026-07-06"
 ---
 
 # The Winning Bid: Reference
@@ -31,7 +31,7 @@ The phenomenon in practice, and the research spine beneath it.
 | **Wilson**                  | "Competitive Bidding with Disparate Information" (1969); common-value auction theory                                                                    | **The model**: with a common value and private noisy signals, equilibrium bidding requires bidding well below one's estimate. The Estimate, the Shade.                                 |
 | **Milgrom & Weber**         | "A Theory of Auctions and Competitive Bidding", _Econometrica_ (1982)                                                                                   | **The theory**: how information and affiliation drive equilibrium bids, and why the curse deepens as the field grows. The Spread, the Selection.                                       |
 | **Thaler**                  | "Anomalies: The Winner's Curse", _Journal of Economic Perspectives_ (1988)                                                                              | **The synthesis and evidence**: the curse as a robust behavioural anomaly across auctions, and why bidders fail to shade enough. The Curse, the Bid.                                   |
-| **Bazerman & Samuelson**    | "I Won the Auction but Don't Want the Prize", _Journal of Conflict Resolution_ (1983)                                                                   | **The experiment**: the jar-of-coins auction, where the average bid loses money and the winner loses most, isolating the selection effect. The Selection.                              |
+| **Bazerman & Samuelson**    | "I Won the Auction but Don't Want the Prize", _Journal of Conflict Resolution_ (1983)                                                                   | **The experiment**: the jar-of-coins auction, where bids average below the true value yet the winning bid overpays, isolating the selection effect. The Selection.                     |
 | **Practitioner**            | M&A overpayment and acquisition writedowns; spectrum auctions; competitive hiring and free-agent contracts; the "deal fever" of a room that came to win | The curse in markets: winning as adverse selection, and the discipline of walking away or shading the bid. The Boardroom, the Ledger, the Model.                                       |
 
 ## Restrictions

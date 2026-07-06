@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-03"
+updated: "2026-07-06"
 ---
 
 # Fit to Fail: Reference
@@ -43,13 +43,13 @@ terminal, ending in extinction rather than in a standoff maintained at expense.
 
 The phenomenon in the biology, and the research spine beneath it.
 
-| Source                      | Key Work / Event                                                                                                 | Scope                                                                                                                                                                                                 |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Rankin & Lopez-Sepulcre** | "Can adaptation lead to extinction?" (_Oikos_, 2005)                                                             | **The spine**: the synthesis of evolutionary suicide, adaptation at the individual level driving the population to extinction, with no defector and no error. The Ruin, The Viability.                |
-| **Matsuda & Abrams**        | "Runaway evolution to self-extinction under asymmetrical competition" (_The American Naturalist_, 1994)          | **The foraging-effort model**: selection for greater foraging effort crossing a fold bifurcation to prey extinction, the relative advantage carrying the population to collapse. The Trait, The Edge. |
-| **Gyllenberg & Parvinen**   | "Necessary and sufficient conditions for evolutionary suicide" (_Bulletin of Mathematical Biology_, 2001)        | **The fixation conditions**: the trait fixing where no individual can afford the alternative, the one-way spread that cannot reverse. The Ratchet, The Selecting.                                     |
-| **Webb**                    | "A complete classification of Darwinian extinction in ecological interactions" (_The American Naturalist_, 2003) | **The threshold crossing**: the classification of the population evolving across the viability floor into collapse, the point of no return. The Threshold, The Viability.                             |
-| **Boundary of the effect**  | the trait genuinely raises relative fitness; selection is not an error; there is no defector                     | The honest note: the advantage is real and selection faithful, so the ruin is villain-less and the remedy, restraint from outside, is real but costly.                                                |
+| Source                      | Key Work / Event                                                                                                                        | Scope                                                                                                                                                                                                 |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Rankin & Lopez-Sepulcre** | "Can adaptation lead to extinction?" (_Oikos_, 2005)                                                                                    | **The spine**: the synthesis of evolutionary suicide, adaptation at the individual level driving the population to extinction, with no defector and no error. The Ruin, The Viability.                |
+| **Matsuda & Abrams**        | "Timid consumers: self-extinction due to adaptive change in foraging and anti-predator effort" (_Theoretical Population Biology_, 1994) | **The foraging-effort model**: selection for greater foraging effort crossing a fold bifurcation to prey extinction, the relative advantage carrying the population to collapse. The Trait, The Edge. |
+| **Gyllenberg & Parvinen**   | "Necessary and sufficient conditions for evolutionary suicide" (_Bulletin of Mathematical Biology_, 2001)                               | **The fixation conditions**: the trait fixing where no individual can afford the alternative, the one-way spread that cannot reverse. The Ratchet, The Selecting.                                     |
+| **Webb**                    | "A complete classification of Darwinian extinction in ecological interactions" (_The American Naturalist_, 2003)                        | **The threshold crossing**: the classification of the population evolving across the viability floor into collapse, the point of no return. The Threshold, The Viability.                             |
+| **Boundary of the effect**  | the trait genuinely raises relative fitness; selection is not an error; there is no defector                                            | The honest note: the advantage is real and selection faithful, so the ruin is villain-less and the remedy, restraint from outside, is real but costly.                                                |
 
 ## Restrictions
 

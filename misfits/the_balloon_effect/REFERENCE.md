@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-03"
+updated: "2026-07-06"
 ---
 
 # The Balloon Effect: Reference
@@ -46,13 +46,13 @@ conserved and relocated, not that a capacity withers.
 
 The phenomenon in practice, and the research spine beneath it.
 
-| Source                    | Key Work / Event                                                                                                                        | Scope                                                                                                                                                                   |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Thomas Reppetto**       | "Crime Prevention and the Displacement Phenomenon" (_Crime & Delinquency_, 1976)                                                        | **The spine**: displacement as the response of a persistent driver to localised suppression, the trade moved rather than reduced. The governing dynamic.                |
-| **Cornish and Clarke**    | rational-choice and situational crime prevention; the forms of displacement (spatial, temporal, target, tactical, functional)           | **The mechanism**: the offender's rational move to the lowest resistance, why raising the cost on one patch relocates rather than removes. The Operator, the Soft Spot. |
-| **Cornelius Friesendorf** | _US Foreign Policy and the War on Drugs: Displacing the Cocaine and Heroin Industry_ (2007)                                             | **The drug-war case**: interdiction and eradication moving cultivation and routes across borders, the canonical balloon. The Squeeze, the Bulge.                        |
-| **Windle and Farrell**    | "Popping the Balloon Effect: Assessing Drug Law Enforcement in Terms of Displacement, Diffusion, and the Containment Hypothesis" (2012) | **The honest limit**: displacement is often partial, diffusion of benefits is possible, and containment is contested. The credited caveat on the claim.                 |
-| **Guerette and Bowers**   | "Assessing the Extent of Crime Displacement and Diffusion of Benefits" (_Criminology_, 2009)                                            | **The evidence**: displacement is common but frequently incomplete, and benefits sometimes diffuse beyond the treated patch. The Conservation, held as a tendency.      |
+| Source                    | Key Work / Event                                                                                                                        | Scope                                                                                                                                                                                                                                                                  |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Thomas Reppetto**       | "Crime Prevention and the Displacement Phenomenon" (_Crime & Delinquency_, 1976)                                                        | **The spine**: displacement as the response of a persistent driver to localised suppression, and its forms (spatial, temporal, target, tactical, functional), with the limits Reppetto himself flagged, the trade moved rather than reduced. The displacement dynamic. |
+| **Cornish and Clarke**    | rational-choice theory and situational crime prevention                                                                                 | **The mechanism**: the offender's rational move to the lowest resistance, why raising the cost on one patch relocates rather than removes. The Operator, the Soft Spot.                                                                                                |
+| **Cornelius Friesendorf** | _US Foreign Policy and the War on Drugs: Displacing the Cocaine and Heroin Industry_ (2007)                                             | **The drug-war case**: interdiction and eradication moving cultivation and routes across borders, the canonical balloon. The Squeeze, the Bulge.                                                                                                                       |
+| **Windle and Farrell**    | "Popping the Balloon Effect: Assessing Drug Law Enforcement in Terms of Displacement, Diffusion, and the Containment Hypothesis" (2012) | **The honest limit**: displacement is often partial, diffusion of benefits is possible, and containment is contested. The credited caveat on the claim.                                                                                                                |
+| **Guerette and Bowers**   | "Assessing the Extent of Crime Displacement and Diffusion of Benefits" (_Criminology_, 2009)                                            | **The evidence**: across studies displacement is the minority outcome, frequently absent or incomplete, and benefits often diffuse beyond the treated patch. The Conservation, held as a tendency.                                                                     |
 
 ## Restrictions
 
@@ -72,8 +72,8 @@ What the house refuses to model, and how it credits what it stages.
   stop. The reckoning is a trade cut with nothing to point to, bought against every countable win, not a free
   correction, so the cure for a trade merely moved is the victory no patch is credited for.
 - **Credit, not claim**: the research above is other people's work, packaged and attributed here, never claimed
-  as the house's, and its strength is not overstated. The staging is the house's; crime displacement is
-  Reppetto's, the rational-choice mechanism and the forms of displacement are Cornish and Clarke's, the drug-war
+  as the house's, and its strength is not overstated. The staging is the house's; crime displacement and its
+  forms are Reppetto's, the rational-choice mechanism is Cornish and Clarke's, the drug-war
   balloon is Friesendorf's, and the honest limits, that displacement is often partial, that benefits can diffuse,
   and that containment is contested, are Windle and Farrell's and Guerette and Bowers's, carried as carefully as
   the finding itself: the misfit stages the displacement case and credits it as a tendency, not a certainty.

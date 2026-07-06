@@ -1,12 +1,12 @@
 ---
-updated: "2026-07-03"
+updated: "2026-07-06"
 ---
 
 # The Abstraction Ladder: Reference
 
 The research warrant for [The Abstraction Ladder](play_the_abstraction_ladder.md).
 The dynamic is the ascent of the abstraction ladder shedding the checkable particular: Hayakawa's abstraction
-ladder and dead-level abstracting, Korzybski's levels of abstraction, Trope and Liberman's construal-level theory,
+ladder, Wendell Johnson's dead-level abstracting, Korzybski's levels of abstraction, Trope and Liberman's construal-level theory,
 and Scott's legibility and the loss of metis, all cited below.
 
 ## Line of Work
@@ -20,7 +20,8 @@ concrete shed at each rung and the summary that is fair yet unverifiable, the au
 psychological and organisational height construe the world in vaguer terms, the accountability that finds no
 purchase when a failed claim is traced down a chain of honest summaries, and the costly descent that alone puts
 the check back under the abstraction, as the load-bearing vectors of the structure, not as a tale of vague talkers
-or hidden bad news. The governing finding of the sources is the play's governing law: language ascends a ladder of
+or hidden bad news. The sources give the ladder and its shed particulars; the play's governing law carries them from language
+into accountability: language ascends a ladder of
 abstraction from the concrete referent to the high-level term, and a claim pitched too high to cash out in
 particulars can be neither checked nor owned, so an organisation that must summarise upward to command builds an
 authority at the top that answers to no fact and holds no author.
@@ -44,13 +45,14 @@ holds it as one facet of the climb.)
 
 The phenomenon in practice, and the research spine beneath it.
 
-| Source                     | Key Work / Event                                                                        | Scope                                                                                                                                                                            |
-| -------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Hayakawa**               | _Language in Thought and Action_ (1949); the abstraction ladder; dead-level abstracting | **The spine**: language ascending from the concrete particular to the abstract class, and high-level talk that never cashes out in referents. The Ladder, The Summary, The Grip. |
-| **Korzybski**              | _Science and Sanity_ (1933); levels of abstraction; the map is not the territory        | **The referents shed**: each level of abstraction omits more of the particular ground it stands on. The Particulars.                                                             |
-| **Trope & Liberman**       | "Construal-Level Theory of Psychological Distance" (_Psychological Review_, 2010)       | **Height construes abstractly**: greater distance construes the world in more abstract terms, the high view commanding in the abstract. The Command.                             |
-| **Scott**                  | _Seeing Like a State_ (1998); legibility; the loss of metis                             | **The detached summary**: the legible high-level abstraction steers while shedding the local particular knowledge, detached from the ground. The Cloud, The Particulars.         |
-| **Boundary of the effect** | the summary is fair and the abstraction necessary; nothing is concealed                 | The honest note: no hierarchy carries every particular, so the climb is required, and that is exactly why the shed check is undeliberate and the descent costed.                 |
+| Source                     | Key Work / Event                                                                  | Scope                                                                                                                                                                                                  |
+| -------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Hayakawa**               | _Language in Thought and Action_ (1949); the abstraction ladder                   | **The spine**: language ascending from the concrete particular to the abstract class. The Ladder, The Summary.                                                                                         |
+| **Wendell Johnson**        | _People in Quandaries_ (1946); dead-level abstracting                             | **Stuck on one rung**: high-level talk that never cashes out in referents, coined by Johnson and later carried by Hayakawa. The Grip.                                                                  |
+| **Korzybski**              | _Science and Sanity_ (1933); levels of abstraction; the map is not the territory  | **The referents shed**: each level of abstraction omits more of the particular ground it stands on. The Particulars.                                                                                   |
+| **Trope & Liberman**       | "Construal-Level Theory of Psychological Distance" (_Psychological Review_, 2010) | **Height construes abstractly**: greater psychological distance construes the world in more abstract terms; the play maps this to the organisational height whose abstract view commands. The Command. |
+| **Scott**                  | _Seeing Like a State_ (1998); legibility; the loss of metis                       | **The detached summary**: the legible high-level abstraction steers while shedding the local particular knowledge, detached from the ground. The Cloud, The Particulars.                               |
+| **Boundary of the effect** | the summary is fair and the abstraction necessary; nothing is concealed           | The honest note: no hierarchy carries every particular, so the climb is required, and that is exactly why the shed check is undeliberate and the descent costed.                                       |
 
 ## Restrictions
 
@@ -71,7 +73,7 @@ What the house refuses to model, and how it credits what it stages.
   cost of reading the specifics the climb existed to shed, against being heard as lost in the detail, not a free
   correction.
 - **Credit, not claim**: the research above is other people's work, packaged and attributed here, never claimed as
-  the house's. The staging is the house's; the abstraction ladder and dead-level abstracting are Hayakawa's, the
+  the house's. The staging is the house's; the abstraction ladder is Hayakawa's, dead-level abstracting is Wendell Johnson's, the
   levels of abstraction and the map-territory distinction are Korzybski's, the construal of the distant in
   abstract terms is Trope and Liberman's, and the legible abstraction detached from local particular knowledge is
   Scott's. The honest boundary, that the summary is fair and the abstraction necessary so the shed check is
@@ -89,7 +91,7 @@ Source to constraint, per element.
   concrete checkable specifics left below because they cannot climb.
 - **[The Command](piece_the_command.md)**: carries construal-level height (Trope & Liberman), the authority the
   abstract claim wields as distance construes it in vaguer, more directive terms.
-- **[The Grip](piece_the_grip.md)**: carries dead-level abstracting (Hayakawa), the accountability that closes on
+- **[The Grip](piece_the_grip.md)**: carries dead-level abstracting (Johnson), the accountability that closes on
   air because the high claim cashes out in no referent and no owner.
 - **[The Cloud](piece_the_cloud.md)**: carries the detached legible summary whole (Scott; Hayakawa), a summit
   steering by abstraction cut loose from the ground it commands.
