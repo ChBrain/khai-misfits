@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-02"
+updated: "2026-07-06"
 ---
 
 # Social Loafing: Reference
@@ -28,14 +28,14 @@ Loafing the continuous effort that everyone eases while still taking part.
 
 The phenomenon in practice, and the research spine beneath it.
 
-| Source                                 | Key Work / Event                                                                                             | Scope                                                                                                                                                                                      |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Ringelmann**                         | "Recherches sur les moteurs animés: Travail de l'homme", _Annales de l'Institut National Agronomique_ (1913) | **The rope**: per-person pulling force declines as team size grows, the original measurement of effort lost to the group. The Rope, the Ringelmann Curve.                                  |
-| **Ingham, Levinger, Graves & Peckham** | "The Ringelmann effect: Studies of group size and group performance", _JESP_ (1974)                          | **Coordination versus motivation**: separates lost effort from mere mis-timing, isolating the motivational drop that survives when coordination is controlled. The Slack.                  |
-| **Latané, Williams & Harkins**         | "Many Hands Make Light the Work: The Causes and Consequences of Social Loafing", _JPSP_ (1979)               | **The naming**: effort per person falls when contributions are pooled and unidentifiable; reduced identifiability and dispensability as causes. The Pool, the Dispensable Hand.            |
-| **Kerr & Bruun**                       | "Dispensability of member effort and group motivation losses: Free-rider effects", _JPSP_ (1983)             | **The free-rider and sucker effects**: members reduce effort when it seems dispensable, and the hard worker reduces effort to avoid being the sucker who carries them. The Sucker's Guard. |
-| **Karau & Williams**                   | "Social Loafing: A Meta-Analytic Review and Theoretical Integration", _JPSP_ (1993)                          | **The collective effort model**: loafing shrinks when contributions are identifiable, the task is meaningful, and each input is felt to matter. The remedy, the Name Tag.                  |
-| **Steiner**                            | "Group Process and Productivity" (1972)                                                                      | **Process loss**: actual group productivity equals potential minus the losses of coordination and motivation, so a group routinely delivers below its members' sum. The Process Loss.      |
+| Source                                 | Key Work / Event                                                                                                                                                                      | Scope                                                                                                                                                                                                                                  |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ringelmann**                         | "Recherches sur les moteurs animés: Travail de l'homme", _Annales de l'Institut National Agronomique_ (1913)                                                                          | **The rope**: per-person pulling force declines as team size grows, the original measurement of effort lost to the group. The Rope, the Ringelmann Curve.                                                                              |
+| **Ingham, Levinger, Graves & Peckham** | "The Ringelmann effect: Studies of group size and group performance", _JESP_ (1974)                                                                                                   | **Coordination versus motivation**: separates lost effort from mere mis-timing, isolating the motivational drop that survives when coordination is controlled. The Slack.                                                              |
+| **Latané, Williams & Harkins**         | "Many Hands Make Light the Work: The Causes and Consequences of Social Loafing", _JPSP_ (1979)                                                                                        | **The naming**: effort per person falls when contributions are pooled and unidentifiable; reduced identifiability and dispensability as causes. The Pool, the Dispensable Hand.                                                        |
+| **Kerr & Bruun; Kerr**                 | "Dispensability of member effort and group motivation losses: Free-rider effects", _JPSP_ (1983); Kerr, "Motivation losses in small groups: A social dilemma analysis", _JPSP_ (1983) | **The free-rider and sucker effects**: members reduce effort when it seems dispensable (Kerr & Bruun), and the hard worker reduces effort to avoid being the sucker who carries them (Kerr). The Sucker's Guard, the Dispensable Hand. |
+| **Karau & Williams**                   | "Social Loafing: A Meta-Analytic Review and Theoretical Integration", _JPSP_ (1993)                                                                                                   | **The collective effort model**: loafing shrinks when contributions are identifiable, the task is meaningful, and each input is felt to matter. The remedy, the Name Tag.                                                              |
+| **Steiner**                            | "Group Process and Productivity" (1972)                                                                                                                                               | **Process loss**: actual group productivity equals potential minus the losses of coordination and motivation, so a group routinely delivers below its members' sum. The Process Loss.                                                  |
 
 ## Restrictions
 
@@ -66,7 +66,7 @@ Source to constraint, per element.
   eased to the level a hidden effort is worth.
 - **[The Dispensable Hand](piece_the_dispensable_hand.md)**: carries dispensability (Latané et al.; Kerr & Bruun),
   the sense that one grip among many can hardly matter to the whole.
-- **[The Sucker's Guard](piece_the_suckers_guard.md)**: carries the sucker effect (Kerr & Bruun), the hard worker
+- **[The Sucker's Guard](piece_the_suckers_guard.md)**: carries the sucker effect (Kerr), the hard worker
   easing off rather than carry the coasters for an equal share.
 - **[The Ringelmann Curve](piece_the_ringelmann_curve.md)**: carries the group-size decline (Ringelmann; Ingham et
   al.), per-head effort falling as the group grows.

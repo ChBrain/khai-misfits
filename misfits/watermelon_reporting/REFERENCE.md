@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-04"
+updated: "2026-07-06"
 ---
 
 # Watermelon Reporting: Reference
@@ -16,7 +16,9 @@ critical path. The play models the documented mechanics, the mum effect, optimis
 biasing, strategic misrepresentation, and the deaf effect, as the load-bearing
 vectors of the structure, not as a morality tale about dishonest people. The
 governing finding of the source literature is the play's governing law: the bias is
-overwhelmingly one-directional and driven by incentives, not by error.
+predominantly optimistic, roughly twice as often as pessimistic (Snow, Keil & Wallace), and
+driven by incentives as much as by cognitive error (Flyvbjerg); the play stages the incentive
+gradient.
 
 ## Origin
 

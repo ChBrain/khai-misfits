@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-01"
+updated: "2026-07-06"
 ---
 
 # The Frozen Middle: Reference
@@ -19,10 +19,11 @@ documented mechanics, the middle's balancing of continuity and change, its sense
 translation of strategy on the way down, its synthesising of reports on the way up, and the
 active inertia by which an organisation meets disruption with more of its established
 routine, as the load-bearing vectors of the structure, not as a tale of obstructive
-managers. The governing finding of the source literature is the play's governing law: the
+managers. The source literature shows the middle both drives change and buffers it, championing
+upward as well as damping downward; the play stages the buffering as its governing law: the
 middle is a buffer, and a buffer that protects delivery passes the small and safe while
 attenuating the large, so the two signals that most needed to cross, the bold change and the
-hard truth, are the two it dampens to nothing.
+hard truth, are the two it can damp toward nothing.
 
 ## Origin
 

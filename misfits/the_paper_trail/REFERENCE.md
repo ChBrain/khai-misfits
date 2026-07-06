@@ -1,5 +1,5 @@
 ---
-updated: "2026-07-02"
+updated: "2026-07-06"
 ---
 
 # The Paper Trail: Reference
@@ -19,9 +19,11 @@ The play models the documented mechanics, the blame that punishes deviation over
 that is the defensible act, the record that accretes, the displacement of the aim, the diffusion of
 ownership, the covered failure, and the reform of the incentive that alone turns the work back at a
 cost, as the load-bearing vectors of the structure, not as a tale of idleness. The governing finding
-of the source literature is the play's governing law: accountability for the justifiability of a
-process, rather than for the quality of the outcome, drives people to defensive, self-protective
-action that displaces the goal, and the remedy is to change what is judged, not to exhort harder. It
+of the source literature is the play's governing law: when a bad outcome is met with blame, for
+deviating from procedure as much as for the result, each worker is rational to make its acts
+defensible rather than effective, so effort flows to the provable process and the aim recedes, and
+the remedy is to change what is judged, weighing the quality of the judgement over adherence and
+outcome alike, not to exhort harder. It
 is the sibling of the house's Plausible Deniability, the other face of blame-avoidance: there a
 principal engineers ignorance so no knowledge can attach, here everyone engineers process so no fault
 can, and its cure runs straight into the house's Chesterton's Fence, since some of the defensive paper
@@ -31,14 +33,14 @@ is a real safeguard that the stripping hand may tear out.
 
 The phenomenon in practice, and the research spine beneath it.
 
-| Source              | Key Work / Event                                                                                                                                                                           | Scope                                                                                                                                                                                              |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Studdert et al.** | "Defensive Medicine Among High-Risk Specialist Physicians", _JAMA_ (2005)                                                                                                                  | **The canonical case**: physicians ordering tests and procedures to reduce liability rather than to help patients, work aimed at the chart and not the care. The Cover, the Displacement.          |
-| **Merton**          | "Bureaucratic Structure and Personality", _Social Forces_ (1940)                                                                                                                           | **Goal displacement**: adherence to rules meant as means becomes an end, so the procedure displaces the purpose. The Displacement, the Record.                                                     |
-| **Tetlock**         | "Accountability: The Neglected Social Context of Judgment and Choice" (1985); the accountability studies                                                                                   | **The mechanism**: accountability for process and justifiability, rather than outcome, produces defensive, rigid, self-protective decision-making. The Blame, the play's governing law.            |
-| **Dekker; Reason**  | Sidney Dekker, _Just Culture_ (2007); James Reason, _Managing the Risks of Organizational Accidents_ (1997)                                                                                | **The blame cycle and its cure**: blaming individuals for failure drives concealment and defensiveness, and a just culture judges the quality of the judgement, not the outcome alone. The Reform. |
-| **Graeber**         | _The Utopia of Rules_ (2015); _Bullshit Jobs_ (2018)                                                                                                                                       | **The ritual**: the proliferation of box-ticking and form-filling as bureaucratic ritual, work that performs compliance rather than achieving anything. The Auditor, the Diffusion.                |
-| **Practitioner**    | defensive medicine; CYA email and sign-off culture; compliance theatre and box-ticking audits; and the answers of just culture, psychological safety, and the pruning of defensive process | The trail in the field, and its cure and its danger: the file that protected everyone and reached nothing, and the safeguard torn out with the defensive paper.                                    |
+| Source              | Key Work / Event                                                                                                                                                                           | Scope                                                                                                                                                                                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Studdert et al.** | "Defensive Medicine Among High-Risk Specialist Physicians", _JAMA_ (2005)                                                                                                                  | **The canonical case**: physicians ordering tests and procedures to reduce liability rather than to help patients, work aimed at the chart and not the care. The Cover, the Displacement.                                                            |
+| **Merton**          | "Bureaucratic Structure and Personality", _Social Forces_ (1940)                                                                                                                           | **Goal displacement**: adherence to rules meant as means becomes an end, so the procedure displaces the purpose. The Displacement, the Record.                                                                                                       |
+| **Tetlock**         | "Accountability: The Neglected Social Context of Judgment and Choice" (1985); the accountability studies                                                                                   | **The mechanism**: accountability to an audience induces justification-seeking, and under blame — pre-committed, or for a failure already in hand — it hardens into defensive, self-protective decision-making. The Blame, the play's governing law. |
+| **Dekker; Reason**  | Sidney Dekker, _Just Culture_ (2007); James Reason, _Managing the Risks of Organizational Accidents_ (1997)                                                                                | **The blame cycle and its cure**: blaming individuals for failure drives concealment and defensiveness, and a just culture judges the quality of the judgement, not the outcome alone. The Reform.                                                   |
+| **Graeber**         | _The Utopia of Rules_ (2015); _Bullshit Jobs_ (2018)                                                                                                                                       | **The ritual**: the proliferation of box-ticking and form-filling as bureaucratic ritual, work that performs compliance rather than achieving anything. The Auditor, the Diffusion.                                                                  |
+| **Practitioner**    | defensive medicine; CYA email and sign-off culture; compliance theatre and box-ticking audits; and the answers of just culture, psychological safety, and the pruning of defensive process | The trail in the field, and its cure and its danger: the file that protected everyone and reached nothing, and the safeguard torn out with the defensive paper.                                                                                      |
 
 ## Restrictions
 
@@ -66,7 +68,7 @@ What the house refuses to model, and how it credits what it stages.
 
 Source to constraint, per element.
 
-- **[The Blame](piece_the_blame.md)**: carries accountability aimed at process (Tetlock), failure judged by
+- **[The Blame](piece_the_blame.md)**: carries accountability as blame (Tetlock), failure met by asking
   whether the rules were followed, which makes defensibility the goal.
 - **[The Cover](piece_the_cover.md)**: carries the defensive act (Studdert et al.), the test, email, or sign-off
   done to protect the doer rather than to reach the aim.

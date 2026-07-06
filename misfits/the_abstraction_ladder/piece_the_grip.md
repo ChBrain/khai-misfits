@@ -27,7 +27,7 @@ Given purchase only at [the sounding](place_the_sounding.md), where a particular
 ## Load Bearing
 
 Without it the shed ground is merely a loss of knowledge, and no one comes looking to hold the claim.
-With it the trap shows its cost: the accountability that reaches for the failed claim and finds, at every honest rung, a fair summary and no verifiable particular met by its owner, so the hold closes on air (Hayakawa, on dead-level abstracting, high language that never cashes out in a referent, nothing beneath it to point to). The Grip is load bearing because it is accountability made concrete as a hand that finds nothing: the reach for an owner through a chain that shed every particular, so the piece carries the failure of blame to land, not because anyone hid but because the ground the grip needed was climbed away, the hold and the air it closes on.
+With it the trap shows its cost: the accountability that reaches for the failed claim and finds, at every honest rung, a fair summary and no verifiable particular met by its owner, so the hold closes on air (Wendell Johnson, on dead-level abstracting, high language that never cashes out in a referent, nothing beneath it to point to). The Grip is load bearing because it is accountability made concrete as a hand that finds nothing: the reach for an owner through a chain that shed every particular, so the piece carries the failure of blame to land, not because anyone hid but because the ground the grip needed was climbed away, the hold and the air it closes on.
 
 ## Apparent
 
