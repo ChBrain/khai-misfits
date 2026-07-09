@@ -43,19 +43,24 @@ restaging a misfit.
 
 ## Versioning
 
-The minor version IS the misfit count, computed not chosen. The `version` script
-runs `khai-tests registry build`, which sets the version from the misfit count:
+The minor version IS the misfit count, computed not chosen; the **Version Packages**
+PR is the deploy gate every release passes through. The `version` script runs
+`npx khai-tests registry build`, which sets the version from the misfit count:
 `0.<count>.0` (the minor is the count, the patch resets to 0), reconciling both
-`package.json` and `registry.json`. The build is the single writer of the
-version; never hand-edit it.
+`package.json` and `registry.json`. The build is the single writer of the version
+number; never hand-edit it.
 
-- **Adding a misfit** -> no changeset. The misfit PR runs `khai-tests registry build`,
-  which moves the minor to the new misfit count and resets the patch to 0
-  (`0.<count>.0`); `changeset publish` ships it. A per-misfit changeset would
-  re-bump the patch on top of the minor the build already moved, the
-  `0.<count>.1` drift to avoid.
-- **A non-misfit change** (governance, formatting, a fix to existing content) ->
-  a `patch` changeset; it ships at the same misfit count.
+- **Adding a misfit** -> a `minor` changeset. The misfit PR carries it, so the
+  deploy is steered through the Version Packages PR and the CHANGELOG names the
+  misfit. `changeset version` bumps the minor and the build reconciles it back to
+  the misfit count, resetting the patch to 0 (`0.<count>.0`). It **must** be
+  `minor`: a `patch` (or empty) changeset survives the reconcile (count === minor)
+  and drifts the version to `0.<count>.1`, so the `changeset-check` gate rejects it.
+- **A fix to existing content** (ships package `files`) -> a `patch` changeset; it
+  ships at the same misfit count (`0.<count>.1`).
+- **A change that ships nothing** (governance, tooling, docs, tests) -> an
+  **empty** changeset (`npx changeset add --empty`); it records the PR and merges
+  green without republishing identical content.
 
 A non-zero major resets the minor while the count keeps climbing, so a house
 stays `0.x`; the numbering guard rejects a major bump.
