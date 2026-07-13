@@ -63,9 +63,9 @@ Open the back stage, and the raw can enter: build the trust and pay the exposure
 
 **Places**
 
-- [The Stand-Up](place_the_stand_up.md)
-- [The Corridor](place_the_corridor.md)
-- [The All-Hands](place_the_all_hands.md)
+- [The Footlights](place_the_footlights.md)
+- [The Green Room](place_the_green_room.md)
+- [The Invitation](place_the_invitation.md)
 
 **Processes**
 

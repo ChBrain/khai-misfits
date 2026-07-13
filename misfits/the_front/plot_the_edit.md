@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Corridor](place_the_corridor.md), the back stage where a burning thing is held.
+[The Green Room](place_the_green_room.md), the back stage where a burning thing is held.
 The Burning holding something still unresolved, a doubt, a tangle, a thing still on fire, and weighing whether it can be shown.
 
 ## Action

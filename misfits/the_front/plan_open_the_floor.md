@@ -26,11 +26,11 @@ Open the back stage: invite the whole self and mean it, ask for the doubt and th
 
 ## Orders
 
-([The Host](persona_the_host.md) opens the floor at the all-hands, asks for the raw signal, and would go first and pay the exposure that makes the invitation real, or watch the whole self become one more front the room performs.)
+([The Host](persona_the_host.md) opens the floor at the invitation, asks for the raw signal, and would go first and pay the exposure that makes the invitation real, or watch the whole self become one more front the room performs.)
 
 ## Implementation
 
-([The All-Hands](place_the_all_hands.md); against the [surface acting](process_surface_acting.md) the front costs; the invitation set against [the premium](piece_the_premium.md) the room still places on the legible, paid for in [the managed heart](piece_the_managed_heart.md).)
+([The Invitation](place_the_invitation.md); against the [surface acting](process_surface_acting.md) the front costs; the invitation set against [the premium](piece_the_premium.md) the room still places on the legible, paid for in [the managed heart](piece_the_managed_heart.md).)
 
 ## Targets
 

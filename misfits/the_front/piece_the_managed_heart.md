@@ -21,8 +21,8 @@ stamp:
 
 ## Place
 
-Paid across [the stand-up](place_the_stand_up.md) and beyond it, wherever the composed front must be sustained.
-Weighed at [the all-hands](place_the_all_hands.md), where the cost of being seen unresolved is set against an invitation to be.
+Paid across [the footlights](place_the_footlights.md) and beyond it, wherever the composed front must be sustained.
+Weighed at [the invitation](place_the_invitation.md), where the cost of being seen unresolved is set against an invitation to be.
 
 ## Load Bearing
 

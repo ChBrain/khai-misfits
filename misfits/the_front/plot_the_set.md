@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Stand-Up](place_the_stand_up.md), the room convened and everyone already in front of everyone.
+[The Footlights](place_the_footlights.md), the room convened and everyone already in front of everyone.
 The Polished about to give a clean, resolved account, the front stage up before a word is said and no threat anywhere in the room.
 
 ## Action

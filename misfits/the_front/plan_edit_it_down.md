@@ -30,7 +30,7 @@ Set the standing it would cost to show the unresolved thing against the gain of 
 
 ## Implementation
 
-([The Corridor](place_the_corridor.md); the [editing](process_editing.md) process turned on one's own signal; [the raw signal](piece_the_raw_signal.md) weighed against [the premium](piece_the_premium.md) and left behind [the curtain](piece_the_curtain.md).)
+([The Green Room](place_the_green_room.md); the [editing](process_editing.md) process turned on one's own signal; [the raw signal](piece_the_raw_signal.md) weighed against [the premium](piece_the_premium.md) and left behind [the curtain](piece_the_curtain.md).)
 
 ## Targets
 

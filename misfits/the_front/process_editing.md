@@ -22,7 +22,7 @@ stamp:
 ## Initiated by
 
 A raw signal to show and a room that reads it as noise.
-At [the corridor](place_the_corridor.md) or in the moment before the [stand-up](place_the_stand_up.md), the person setting the unresolved thing against how it will read, the resolved version the one the room rewards.
+At [the green room](place_the_green_room.md) or in the moment before the [footlights](place_the_footlights.md), the person setting the unresolved thing against how it will read, the resolved version the one the room rewards.
 
 ## Direction
 

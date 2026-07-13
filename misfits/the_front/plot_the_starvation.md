@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Stand-Up](place_the_stand_up.md), the group needing to move on something.
+[The Footlights](place_the_footlights.md), the group needing to move on something.
 The thing it needs is the doubt no one resolved enough to say, the burning signal that never processed into anything presentable, and the group reaching for it.
 
 ## Action

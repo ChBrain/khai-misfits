@@ -23,7 +23,7 @@ type: archetype
 ## Projection
 
 Composed. Articulate. Right about how it will read.
-Is any one of the many giving an account of themselves, the person at the stand-up, the colleague in the update, the one framing the problem and naming the path in the register a room trusts.
+Is any one of the many giving an account of themselves, the person at the footlights, the colleague in the update, the one framing the problem and naming the path in the register a room trusts.
 No deceit in it: the Polished has done real thinking, resolved a real tangle, and shows the version that is clearer, because the clear version is the courteous one and the one the room can use.
 
 ## Action
