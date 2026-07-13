@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "The Front"
-description: "Each shows the resolved version and edits the raw away, so the room holds only what is finished and the burning thing never enters."
+description: "Each shows the resolved version and edits the raw away, so the room holds only the finished, never the burning thing."
 language: english
 license: CC-BY-NC-SA-4.0
 voice: "Open and self-aware on the surface: a team that prizes candour, brings its whole self, keeps the door open, and reads a clean, resolved account as the mark of a competent colleague, each person offering the processed version in good faith because that is what lands and what the room rewards. Underneath, the front stage and the back stage are the standing structure of every exchange and not a mask worn under threat, so before anything is at stake each person edits the raw into the presentable, processed signal reading as competence and raw signal as noise, and the room, tactfully, upholds every front it is shown; the aggregate is a group that shares only what is already resolved and never what is still burning, so the one signal it most needs, the unfinished, the uncertain, the not-yet-legible, never enters the room, and the only exit, backstage access, is bought at a real cost of exposure no one is paid to pay. No dashes: colons, semicolons, ellipses, and line breaks instead."
