@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.101.1",
+  "version": "0.102.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -398,6 +398,12 @@
       "id": "the_firefighters_medal",
       "title": "The Firefighter's Medal",
       "description": "Prevention is invisible and the dramatic save gets the medal, so effort flows to firefighting and the fires never stop."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_front",
+      "title": "The Front",
+      "description": "Each shows the resolved version and edits the raw away, so the room holds only the finished, never the burning thing."
     },
     {
       "kind": "misfit",
