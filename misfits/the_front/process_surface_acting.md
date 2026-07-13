@@ -22,7 +22,7 @@ stamp:
 ## Initiated by
 
 A front to hold and a room that must keep reading it as competence.
-Across the [stand-up](place_the_stand_up.md) and beyond it, the person maintaining the resolved presentation over time, the composure kept up whatever is burning behind it, the role paid for in [the managed heart](piece_the_managed_heart.md).
+Across the [footlights](place_the_footlights.md) and beyond it, the person maintaining the resolved presentation over time, the composure kept up whatever is burning behind it, the role paid for in [the managed heart](piece_the_managed_heart.md).
 
 ## Direction
 

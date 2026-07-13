@@ -21,8 +21,8 @@ stamp:
 
 ## Place
 
-Alive in [the corridor](place_the_corridor.md), the back stage where the burning thing exists unedited.
-Kept from [the stand-up](place_the_stand_up.md), the front stage where the raw reads as noise and cannot cross.
+Alive in [the green room](place_the_green_room.md), the back stage where the burning thing exists unedited.
+Kept from [the footlights](place_the_footlights.md), the front stage where the raw reads as noise and cannot cross.
 
 ## Load Bearing
 

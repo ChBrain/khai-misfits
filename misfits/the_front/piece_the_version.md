@@ -21,8 +21,8 @@ stamp:
 
 ## Place
 
-Shown at [the stand-up](place_the_stand_up.md), where the resolved account is presented and received.
-Worked out of [the corridor](place_the_corridor.md), where the raw is edited into the version before it crosses.
+Shown at [the footlights](place_the_footlights.md), where the resolved account is presented and received.
+Worked out of [the green room](place_the_green_room.md), where the raw is edited into the version before it crosses.
 
 ## Load Bearing
 

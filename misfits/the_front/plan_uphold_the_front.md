@@ -30,7 +30,7 @@ Meet each front with tact: accept the resolved account as competence, smooth the
 
 ## Implementation
 
-([The Stand-Up](place_the_stand_up.md); the [face-work](process_face_work.md) process; [the version](piece_the_version.md) accepted as competence and the slip across [the curtain](piece_the_curtain.md) smoothed away.)
+([The Footlights](place_the_footlights.md); the [face-work](process_face_work.md) process; [the version](piece_the_version.md) accepted as competence and the slip across [the curtain](piece_the_curtain.md) smoothed away.)
 
 ## Targets
 

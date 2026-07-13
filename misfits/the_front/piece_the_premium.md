@@ -21,8 +21,8 @@ stamp:
 
 ## Place
 
-Set at [the stand-up](place_the_stand_up.md), where the resolved earns standing and the raw costs it.
-Unlifted at [the all-hands](place_the_all_hands.md), where an invitation to candour cannot, by asking, change what the room rewards.
+Set at [the footlights](place_the_footlights.md), where the resolved earns standing and the raw costs it.
+Unlifted at [the invitation](place_the_invitation.md), where an invitation to candour cannot, by asking, change what the room rewards.
 
 ## Load Bearing
 

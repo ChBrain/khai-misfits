@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Stand-Up](place_the_stand_up.md), a front presented and a slip showing through it.
+[The Footlights](place_the_footlights.md), a front presented and a slip showing through it.
 A flicker of the raw crossing a colleague's composure, a half-said doubt, a crack in the resolved account, and the room deciding, by reflex of manners, what to do with it.
 
 ## Action

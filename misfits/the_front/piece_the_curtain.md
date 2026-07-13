@@ -21,8 +21,8 @@ stamp:
 
 ## Place
 
-Drawn at [the stand-up](place_the_stand_up.md), where the front stage begins and the presented self is shown.
-Backed by [the corridor](place_the_corridor.md), where the back stage holds the raw the curtain keeps from the room.
+Drawn at [the footlights](place_the_footlights.md), where the front stage begins and the presented self is shown.
+Backed by [the green room](place_the_green_room.md), where the back stage holds the raw the curtain keeps from the room.
 
 ## Load Bearing
 

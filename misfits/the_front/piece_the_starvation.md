@@ -21,8 +21,8 @@ stamp:
 
 ## Place
 
-Summed across [the stand-up](place_the_stand_up.md) and the room, where many finished accounts enter and no raw one does.
-Never reaching [the corridor](place_the_corridor.md), where the burning thing the group is starving for stays alive but out of reach.
+Summed across [the footlights](place_the_footlights.md) and the room, where many finished accounts enter and no raw one does.
+Never reaching [the green room](place_the_green_room.md), where the burning thing the group is starving for stays alive but out of reach.
 
 ## Load Bearing
 

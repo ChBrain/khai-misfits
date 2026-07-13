@@ -22,7 +22,7 @@ stamp:
 ## Initiated by
 
 A front presented and a slip showing through it.
-At the [stand-up](place_the_stand_up.md), the room meeting an account with courtesy, a flicker of raw showing across [the curtain](piece_the_curtain.md) and the room deciding, by reflex of manners, what to do with it.
+At the [footlights](place_the_footlights.md), the room meeting an account with courtesy, a flicker of raw showing across [the curtain](piece_the_curtain.md) and the room deciding, by reflex of manners, what to do with it.
 
 ## Direction
 

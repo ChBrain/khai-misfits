@@ -22,7 +22,7 @@ stamp:
 ## Initiated by
 
 Many fronts, each honestly kept, summed across a group.
-Across the [stand-up](place_the_stand_up.md) and the room, each member showing the resolved and holding the raw, the finished accounts entering and the burning ones staying back, one edit at a time.
+Across the [footlights](place_the_footlights.md) and the room, each member showing the resolved and holding the raw, the finished accounts entering and the burning ones staying back, one edit at a time.
 
 ## Direction
 

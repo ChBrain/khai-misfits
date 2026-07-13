@@ -26,11 +26,11 @@ Present the resolved version, the tangle worked into a line and the worry framed
 
 ## Orders
 
-([The Polished](persona_the_polished.md) works the raw into the presentable and shows that, at the stand-up, the finished account earning the standing and the burning part left back until it is no longer burning.)
+([The Polished](persona_the_polished.md) works the raw into the presentable and shows that, at the footlights, the finished account earning the standing and the burning part left back until it is no longer burning.)
 
 ## Implementation
 
-([The Stand-Up](place_the_stand_up.md); the [editing](process_editing.md) process; [the version](piece_the_version.md) shown across [the curtain](piece_the_curtain.md), rewarded by [the premium](piece_the_premium.md) the room places on the legible.)
+([The Footlights](place_the_footlights.md); the [editing](process_editing.md) process; [the version](piece_the_version.md) shown across [the curtain](piece_the_curtain.md), rewarded by [the premium](piece_the_premium.md) the room places on the legible.)
 
 ## Targets
 

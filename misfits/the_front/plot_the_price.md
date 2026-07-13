@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The All-Hands](place_the_all_hands.md), the openness declared and the whole self invited.
+[The Invitation](place_the_invitation.md), the openness declared and the whole self invited.
 The Host wanting the raw signal in the room, meaning the invitation, and the question, unshown on the surface, of whether anyone will pay the exposure to test it.
 
 ## Action
