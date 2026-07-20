@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.102.0",
+  "version": "0.103.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -548,6 +548,12 @@
       "id": "the_simpler_lever",
       "title": "The Simpler Lever",
       "description": "Each simplification of the regulator reads as better governed, until it commands too few responses to hold the outcome."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_spent_margin",
+      "title": "The Spent Margin",
+      "description": "A safety measure hands a margin; the driver spends it back as risk, so the gain shrinks and moves to the exposed."
     },
     {
       "kind": "misfit",
