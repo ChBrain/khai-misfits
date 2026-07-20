@@ -1,5 +1,49 @@
 # @chbrain/khai-misfits
 
+## 0.103.0
+
+### Minor Changes
+
+- e4ae7ff: Add The Front misfit (Goffman's impression management), the hundred-and-second, staging the presented self as a self-starving group: to be seen is already to perform, so front stage and back stage are the standing structure of interaction and not a mask worn under threat, and because a group that prizes legibility reads the resolved account as competence and the raw as noise, each member rationally edits the still-burning thing into the presentable or holds it, so the group shares only what is already resolved and the one signal it most needs, the doubt, the tangle, the unfinished thing, never enters the room. Cut clear of Saving Face (baseline performance, not threat-response), Watermelon Reporting (suppression in every direction, not upward alone), The Leadership Script (the universal mechanism, not one performed register), and The Trip to Abilene and the held-off preference falsification (the standing structure those collisions run on, not a false consensus about a decision). No free hero: the back stage opens only when someone pays, in real exposure, the cost Hochschild names as the managed heart. Sources: Goffman (1959; Interaction Ritual, 1967), Hochschild (1983), Leary & Kowalski (1990), Baumeister (1982).
+
+### Patch Changes
+
+- 9b6bd2a: Correct the research warrants. A fidelity review of all 101 warrants against
+  their cited literature found 90 sound and 11 with errors: eight factual
+  miscitations (the_abstraction_ladder, pournelles_iron_law, vetocracy,
+  the_success_trap, fit_to_fail, social_loafing, the_winning_bid,
+  the_balloon_effect) and three overstated governing laws (the_frozen_middle,
+  watermelon_reporting, the_paper_trail). Each is corrected to credit its source
+  accurately; no misfit's staging is changed.
+- 286e89c: The Double Bind: reword the Origin row `Escape and internalisation` to `The seal
+and the setting`, its own scope phrase. The old label was shaped like a two-author
+  cell, so the science index's forward map manufactured a pseudo-scholar `Escape`
+  from it. The reworded label names the same vector (the sealed field and the
+  learned perception) and the computed index drops it cleanly. No staging changed.
+
+  Adopt `@chbrain/khai-tests@^0.2.1`, whose deterministic scholar filter keeps
+  non-author Origin rows out of the `science → misfit` map; `docs/SCIENCE.md` is
+  reindexed accordingly (549 → 519 scholars, all proper nouns).
+
+- e80c89f: The Iron Triangle: add the missing Ripley & Franklin source. Its Encoding cites
+  Ripley & Franklin (_Congress, the Bureaucracy, and Public Policy_, 1976) for The
+  Budget, but the row was absent from the Origin table; add it so every encoded
+  element traces to a credited source. No staging changed.
+- 0bc1a98: The Letter of the Law: recut under Cut to Fit. The Points, a seat carrying the
+  circling boat as illustration rather than a warrant-named vector, is cut and
+  the boat folded into The Loophole; the cast drops to the five pieces the
+  warrant names. Rides with the order recording the stamped-wave review: the
+  other thirty-one misfits of the dominant shape held.
+- af6a171: Management order: recut the stamped wave. Names the dominant cast signature
+  shared by 32 misfits (the whole latest authoring wave) and stands up the
+  Playwright's review of that shape against each warrant under Cut to Fit;
+  recuts land in their own misfit lanes.
+- 73e4ed9: Recast The Front's three places so they hold across contexts rather than grounding Goffman's universal claim in one workplace type. The Stand-Up, The Corridor, and The All-Hands staged the front/back structure inside a single knowledge-work team, inviting a reader who does not work in such a team to locate the phenomenon there and not in their own room, the opposite of what the play shows. They become The Footlights (the front region, wherever another's attention falls), The Green Room (the back region, wherever no one is watching), and The Invitation (the occasion where candour is asked and meant), each written to span domestic, clinical, commercial, romantic, and civic life so the particular points outward toward the universal: to be seen is already to perform, in every room, before any threat. Places only; the play's warrant, count, and version are unchanged.
+- 288b703: Watermelon Reporting: the warrant traces every piece per element. The four
+  fragment pieces (the Red Task, the Mitigated Amber, the Rounded Green, the Net
+  Green) were encoded only as a group; each now carries its own source-to-constraint
+  line.
+
 ## 0.101.1
 
 ### Patch Changes
