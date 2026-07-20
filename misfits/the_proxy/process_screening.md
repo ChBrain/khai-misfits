@@ -22,7 +22,7 @@ stamp:
 ## Initiated by
 
 The Employer, with a post to fill and no cheap read on the individual.
-At [the gate](place_the_gate.md), the applicant unreadable in the time there is and the group average readable, the screener pricing by the group because it is the best cheap signal it has.
+At [the desk](place_the_desk.md), the applicant unreadable in the time there is and the group average readable, the screener pricing by the group because it is the best cheap signal it has.
 
 ## Direction
 

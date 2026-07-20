@@ -30,13 +30,13 @@ The agent cannot read the individual's true quality behind the application, so i
 And so the individual is priced by the group.
 Because the group average stands in for the unknown person, each member is rated not by what they are but by what their group is on average, the same actuarial move an insurer makes with a risk pool, so unlike people are priced alike and the able and the weak of a low-rated group are offered the same low rating.
 And the rating discounts the return.
-A member of a group rated low earns a smaller payoff on any costly signal of quality, because even with it they are still partly priced by their group, so the return on investing in the signal is lower for them than for a member of a group rated high (Phelps; Arrow). The wedge is set: the same effort, a smaller reward.
+A member of a group rated low earns a smaller payoff on any costly signal of quality, because even with it they are still partly priced by their group, so the return on investing in the signal is lower for them than for a member of a group rated high (Arrow). The wedge is set: the same effort, a smaller reward.
 And the group withholds.
 Offered a lower return, the group rationally invests less in the signal, each member answering the payoff the market actually gives them, so the group's real average quality falls, not by any failing of character but by a sound response to a discounted return (Arrow).
 And the fall confirms the rating.
 The lowered average meets the rating that caused it, the assumed average becoming the produced average, so the employer's prior is confirmed by the very investment its rating discouraged, a self-confirming equilibrium in which the belief manufactures the evidence that proves it (Arrow; Coate and Loury). And the able member who did invest is priced by the group still, their signal discounted, the casualty the loop cannot distinguish.
 None of it is animus. The employer pricing by the best cheap signal, the group investing to the return it is offered: each is doing the rational thing, and the discrimination emerges from the sum, no distaste and no forgone profit, which is exactly why it is stable where a taste for prejudice, that costs the one who holds it, would erode.
-Subsidise the group's signal or mandate its hiring, and the prior might break: but the same rational updating discounts a signal known to be subsidised and reads the mandated hire as placed rather than earned, so the stereotype survives the intervention and settles into a patronising equilibrium, the able still doubted, and the reckoning is a prior broken only by a fix the market can turn against, at the cost of the doubt it deepens, not a stereotype that dissolves once the door is opened.
+Mandate the group's hiring, and the prior might break: but whether it does turns on how hard the mandate bites, for the mandate lowers the bar the group is held to, and pushed far enough the hiring it forces makes the signal worth acquiring, so the group invests and the stereotype dissolves, while short of that the lowered bar dampens the very incentive to invest, the group taken without the signal, so fewer acquire it and the average stays low and the prior is confirmed by the investment the remedy discouraged, settling into a patronising equilibrium, the group held to a lower bar and kept below it, so the reckoning is a cure that can feed the disease, not a stereotype that dissolves the moment the door is opened.
 
 ## Company
 
@@ -67,7 +67,7 @@ Subsidise the group's signal or mandate its hiring, and the prior might break: b
 
 **Places**
 
-- [The Gate](place_the_gate.md)
+- [The Desk](place_the_desk.md)
 - [The Ground](place_the_ground.md)
 - [The Programme](place_the_programme.md)
 
@@ -76,7 +76,7 @@ Subsidise the group's signal or mandate its hiring, and the prior might break: b
 - [Screening](process_screening.md)
 - [Withholding](process_withholding.md)
 - [Confirming](process_confirming.md)
-- [Subsidising](process_subsidising.md)
+- [Mandating](process_mandating.md)
 
 **Pieces**
 
@@ -98,9 +98,9 @@ Cue: the return on the signal is discounted for the low-rated group. The Applica
 Cue: the group's average has fallen to meet the rating. The lowered average confirms the Employer's prior, the assumed average become the produced average, and the Standout, who did invest and is genuinely able, is priced by the group anyway, their signal discounted, the loop unable to tell them from it. Closes when the prior is made true by the investment it discouraged, the discrimination self-confirming and the able member its casualty.
 
 **[The Programme](plot_the_programme.md)**
-Cue: someone would break the self-confirming prior. The Reformer subsidises the group's signal and mandates its hiring, against a market whose same rational updating discounts a signal known to be subsidised and reads the mandated hire as placed. Closes when the prior is broken and the rating undone ... or the intervention is discounted, the stereotype survives into a patronising equilibrium, and the able are doubted the more for the help.
+Cue: someone would break the self-confirming prior. The Reformer mandates the group's hiring, lowering the bar it is held to, and whether that breaks the prior turns on how hard the mandate bites. Closes when the mandate bites hard enough to make the signal worth acquiring, the group invests, and the rating is undone ... or the lowered bar dampens the incentive to invest, the group is taken without the signal, and the stereotype survives into a patronising equilibrium, the group held to a lower bar and kept below it.
 
 ## Stakes
 
 Whether a market can price people by what they are, or is always dragged to pricing them by the group they come from and making the price come true.
-Every plot but the last moves the same way: toward the confirmed prior, which the employer is right to hold on the numbers before it and the group is right to answer by investing less, and away from the individual judged on their merits, which would ask an agent to read a quality it cannot cheaply see. The production cannot make the market price the individual, because quality is unobservable and the group average is the rational proxy, so screening by the group is the sound play and the group's under-investment the sound response: the employer pricing by the best cheap signal and the applicant weighing a discounted return are each only doing the rational thing. It can only show that no one is a bigot, that a proxy met by a rational response prices people by their group and makes the pricing come true, and that the one move that would break the prior, subsidising the signal or mandating the hire, is met by the same rational updating that discounts what it cannot verify, so the intervention can deepen the doubt it meant to end, and the rating holds not by anyone's malice but by the sound answer of everyone it touches.
+Every plot but the last moves the same way: toward the confirmed prior, which the employer is right to hold on the numbers before it and the group is right to answer by investing less, and away from the individual judged on their merits, which would ask an agent to read a quality it cannot cheaply see. The production cannot make the market price the individual, because quality is unobservable and the group average is the rational proxy, so screening by the group is the sound play and the group's under-investment the sound response: the employer pricing by the best cheap signal and the applicant weighing a discounted return are each only doing the rational thing. It can only show that no one is a bigot, that a proxy met by a rational response prices people by their group and makes the pricing come true, and that the one move that would break the prior, a mandate that lowers the bar the group is held to, can feed the loop it meant to end, the lowered bar dampening the very incentive to invest unless it bites hard enough to make the signal worth acquiring, so the remedy can deepen the shortfall it meant to lift, and the rating holds not by anyone's malice but by the sound answer of everyone it touches.

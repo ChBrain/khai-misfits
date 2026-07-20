@@ -21,13 +21,13 @@ stamp:
 
 ## Place
 
-Set at [the gate](place_the_gate.md) by the rating, and felt on [the ground](place_the_ground.md) as the payoff on the signal.
+Set at [the desk](place_the_desk.md) by the rating, and felt on [the ground](place_the_ground.md) as the payoff on the signal.
 Flows from the prior to the return, the group's rating cut into the reward its members get for the same effort.
 
 ## Load Bearing
 
 Without it the signal would pay the same to everyone and no group would have reason to invest less, and the loop would never close.
-With it the same investment pays differently by group: because a low-rated applicant is still, in part, priced by their group even with the signal in hand, the return on acquiring it is cut for them, so the Discount is the wedge between the effort and the reward. The Discount is load bearing because it is what turns a belief into a behaviour (Phelps; Arrow): the cut return that makes under-investment the rational answer, so the piece carries the mechanism by which the prior discourages the very investment whose absence will confirm it.
+With it the same investment pays differently by group: because a low-rated applicant is still, in part, priced by their group even with the signal in hand, the return on acquiring it is cut for them, so the Discount is the wedge between the effort and the reward. The Discount is load bearing because it is what turns a belief into a behaviour (Arrow): the cut return that makes under-investment the rational answer, so the piece carries the mechanism by which the prior discourages the very investment whose absence will confirm it.
 
 ## Apparent
 

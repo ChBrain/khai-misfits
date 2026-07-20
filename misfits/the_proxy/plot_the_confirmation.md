@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Gate](place_the_gate.md), the group's average fallen to meet the rating.
+[The Desk](place_the_desk.md), the group's average fallen to meet the rating.
 A produced average now as low as the assumed one, and an able member presenting a full signal the rating discounts.
 
 ## Action

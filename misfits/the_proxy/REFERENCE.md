@@ -6,8 +6,8 @@ updated: "2026-07-20"
 
 The research warrant for [The Proxy](play_the_proxy.md).
 The dynamic is statistical discrimination: Phelps's statistical theory and Arrow's model of it, the taste-based
-discrimination it is set against, the self-confirming stereotype and why subsidised entry can fail to break it, and
-the efficiency nuance that separates it from animus, all cited below.
+discrimination it is set against, the self-confirming stereotype and why a hiring mandate can fail to break it, and
+the skeptical limit on how much the mechanism explains, all cited below.
 
 ## Line of Work
 
@@ -19,8 +19,10 @@ rating, the assumed average becoming the produced average and the prior confirmi
 member is priced by the group and cannot signal their way out because the signal is discounted too. The play models
 the documented mechanics, the unobservable quality that forces a proxy, the group prior the agent screens by, the
 discounted return that the rated-low member gets on the signal, the rational under-investment that lowers the
-group's average, the confirmation that makes the prior true, and the subsidised entry that alone might break it but
-is undercut by the same rational updating, as the load-bearing vectors of the structure, not as a tale of a bigot.
+group's average, the confirmation that makes the prior true, and the hiring mandate that alone might break it but,
+short of biting hard enough to make the signal worth acquiring, lowers the bar and dampens the very investment the
+break needs, so the remedy can feed the loop it meant to end, as the load-bearing vectors of the structure, not as a
+tale of a bigot.
 The governing finding of the source is the play's governing law: where quality is unobservable and priced by a
 group average, the low rating discounts the return to a group's investment, the group rationally invests less, and
 the average falls to confirm the rating, a discriminating equilibrium sustained by no animus and holding itself up.
@@ -40,13 +42,13 @@ nothing, which is why it holds.
 
 The phenomenon in theory, and the research spine beneath it.
 
-| Source            | Key Work / Event                                                                                          | Scope                                                                                                                                                                                                                                        |
-| ----------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Edmund Phelps** | "The Statistical Theory of Racism and Sexism" (_American Economic Review_, 1972)                          | **The spine and the name**: under uncertainty about individual quality, an agent rationally judges the individual by the observable group average, so unlike people are priced by the group they belong to. The play's governing law.        |
-| **Kenneth Arrow** | "The Theory of Discrimination" (in _Discrimination in Labor Markets_, eds. Ashenfelter & Rees, 1973)      | **The self-confirming model**: employers' beliefs about a group shape the group's incentive to invest in skill, and the resulting investment confirms the beliefs, a discriminatory equilibrium held up by its own expectations. The Loop.   |
-| **Gary Becker**   | _The Economics of Discrimination_ (1957); taste-based discrimination                                      | **The contrast, set against**: discrimination driven by a distaste for a group, for which the discriminator forgoes profit, the animus-based engine that statistical discrimination is distinguished from and needs none of. The No-Taste.   |
-| **Coate & Loury** | "Will Affirmative-Action Policies Eliminate Negative Stereotypes?" (_American Economic Review_, 1993)     | **The self-confirming stereotype and the remedy's limit**: a negative stereotype that makes the group under-invest and so comes true, and how subsidised entry can fail to break it, settling into a patronising equilibrium. The Programme. |
-| **Aigner & Cain** | "Statistical Theories of Discrimination in Labor Markets" (_Industrial and Labor Relations Review_, 1977) | **The efficiency nuance**: statistical discrimination need not lower a group's average pay to persist and is not, in itself, the taste-based inefficiency, separating the mechanism from animus and marking what it does and does not claim. |
+| Source            | Key Work / Event                                                                                          | Scope                                                                                                                                                                                                                                                                                                                                        |
+| ----------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Edmund Phelps** | "The Statistical Theory of Racism and Sexism" (_American Economic Review_, 1972)                          | **The spine and the name**: under uncertainty about individual quality, an agent rationally judges the individual by the observable group average, so unlike people are priced by the group they belong to. The play's governing law.                                                                                                        |
+| **Kenneth Arrow** | "The Theory of Discrimination" (in _Discrimination in Labor Markets_, eds. Ashenfelter & Rees, 1973)      | **The self-confirming model**: employers' beliefs about a group shape the group's incentive to invest in skill, and the resulting investment confirms the beliefs, a discriminatory equilibrium held up by its own expectations. The Loop.                                                                                                   |
+| **Gary Becker**   | _The Economics of Discrimination_ (1957); taste-based discrimination                                      | **The contrast, set against**: discrimination driven by a distaste for a group, for which the discriminator forgoes profit, the animus-based engine that statistical discrimination is distinguished from and needs none of. The No-Taste.                                                                                                   |
+| **Coate & Loury** | "Will Affirmative-Action Policies Eliminate Negative Stereotypes?" (_American Economic Review_, 1993)     | **The self-confirming stereotype and the remedy's limit**: a negative stereotype that makes the group under-invest and so comes true, and whether a hiring mandate breaks it or, by lowering the bar and dampening the incentive to invest, settles into a patronising equilibrium, conditional on how hard the policy bites. The Programme. |
+| **Aigner & Cain** | "Statistical Theories of Discrimination in Labor Markets" (_Industrial and Labor Relations Review_, 1977) | **The skeptical limit**: a caution on the whole line, that statistical discrimination compresses rather than lowers, so it need not depress a group's average pay and is, on their argument, unlikely by itself to explain the observed labour-market gap. What the mechanism does not claim.                                                |
 
 ## Restrictions
 
@@ -61,19 +63,22 @@ What the house refuses to model, and how it credits what it stages.
   investing to the return it is offered, prices people by their group and makes the pricing come true, no animus
   and no malice required.
 - **No hero**: the play refuses to resolve the misfit into the market clearing the prior on its own. The one move
-  that could break it is to subsidise the group's signal or mandate its hiring, but the same rational updating
-  discounts a signal known to be subsidised and reads the mandated hire as placed rather than earned, so the
-  stereotype can survive the intervention and settle into a patronising equilibrium, the able still doubted and the
-  cost borne. The reckoning is a prior broken only by an intervention the market can discount, not a stereotype
-  that dissolves once the group is let in, so the cure for a self-confirming rating is a subsidy that the rating
-  can turn against.
+  that could break it is a hiring mandate that lowers the bar the group is held to, and whether it works turns on
+  how hard it bites: pushed far enough, the hiring it forces makes the signal worth acquiring and the group invests,
+  and the stereotype dissolves; short of that, the lowered bar dampens the very incentive to invest, the group taken
+  without the signal, so fewer acquire it, the average stays low, and the prior is confirmed by the investment the
+  remedy discouraged, settling into a patronising equilibrium, the group held to a lower bar and kept below it. The
+  reckoning is a cure that can feed the disease, a bar lowered to let the group in that lowers the reason to clear
+  it, not a stereotype that dissolves the moment the door is opened.
 - **Credit, not claim**: the research above is other people's work, packaged and attributed here, never claimed as
   the house's, and its reach is not overstated. The staging is the house's; the statistical theory of
   discrimination is Phelps's, the self-confirming equilibrium of beliefs and investment is Arrow's, the taste-based
-  discrimination it is set against is Becker's, the self-confirming negative stereotype and the limit of subsidised
-  entry are Coate and Loury's, and the nuance that separates the mechanism from taste-based inefficiency is Aigner
-  and Cain's, each carried as carefully as the finding itself: the misfit stages the self-confirming proxy and
-  credits that it is not, in itself, the animus it is so easily mistaken for.
+  discrimination it is set against is Becker's, the self-confirming negative stereotype and whether a hiring
+  mandate breaks it or lapses into a patronising equilibrium are Coate and Loury's, and the caution that statistical
+  discrimination compresses rather than lowers, so it need not depress a group's average and is unlikely, on its own,
+  to explain the observed gap, is Aigner and Cain's own skepticism, each carried as carefully as the finding itself:
+  the misfit stages the self-confirming proxy, credits that it is not, in itself, the animus it is so easily mistaken
+  for, and does not overstate how much it explains.
 
 ## Encoding
 
@@ -83,8 +88,8 @@ Source to constraint, per element.
   screens the individual by.
 - **[The Signal](piece_the_signal.md)**: carries the costly investment in quality (Arrow), the credential or skill
   whose return decides whether the group invests in it.
-- **[The Discount](piece_the_discount.md)**: carries the lowered return (Phelps; Arrow), the smaller payoff the
-  rated-low member gets on the same signal, the wedge that drives the under-investment.
+- **[The Discount](piece_the_discount.md)**: carries the lowered return to investment (Arrow), the smaller payoff
+  the rated-low member gets on the same signal, the wedge that drives the under-investment.
 - **[The Confirmation](piece_the_confirmation.md)**: carries the self-fulfilment (Arrow; Coate & Loury), the
   under-investment lowering the group's real average until it meets the rating and makes the prior true.
 - **[The Proxy](piece_the_proxy.md)**: carries the phenomenon whole (Phelps; Arrow), the individual priced by the

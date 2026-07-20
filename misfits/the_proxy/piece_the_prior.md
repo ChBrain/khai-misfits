@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Held at [the gate](place_the_gate.md), read where the individual cannot be.
+Held at [the desk](place_the_desk.md), read where the individual cannot be.
 Flows from the group to the individual, the average priced onto the person as their rating.
 
 ## Load Bearing

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[The Proxy](play_the_proxy.md). The seat that would break the self-confirming prior from outside, and meets the same rational updating that set the rating.
+[The Proxy](play_the_proxy.md). The seat that would break the self-confirming prior from outside, and meets a remedy that can dampen the very investment it needs.
 
 ## Owner
 
@@ -21,24 +21,24 @@ stamp:
 
 ## Has
 
-An intervention and an understanding: the means to subsidise the group's signal or mandate its hiring, and the sight of the loop it means to break.
+An intervention and an understanding: the means to mandate the group's hiring and lower the bar it is held to, and the sight of the loop it means to break.
 A hard case: the prior is self-confirming, so nothing inside the equilibrium will move it, and only an outside push might.
-No way to raise the group's average without the market discounting the help, and no mandate the rating cannot read as placement.
+No mandate gentle enough to open the door without lowering the bar, and no lowered bar that does not, short of biting hard, weaken the reason to clear it.
 
 ## Orders
 
 Break the prior.
-Subsidise the signal so the group can invest, or mandate the hire so the door is opened, and try to raise the average the evidence would need to break the rating.
+Mandate the hire so the door is opened and the bar is lowered, and try to force hiring enough that acquiring the signal comes to pay and the average the evidence needs is raised.
 Push the equilibrium from outside, since nothing within it will shift on its own.
 
 ## Loses
 
-The trust the intervention needs, exactly because the market prices the intervention too.
-Because the Employer updates rationally, it discounts a signal known to be subsidised and reads a mandated hire as placed rather than earned, so the boosted credential is trusted less and the required hire doubted, and the prior survives into a patronising equilibrium in which the able of the group are doubted the more for the help.
-It opens the door and loses the trust of what comes through, the correction discounted by the very reason it meant to break.
+The investment the intervention needs, exactly because the remedy that opens the door lowers the bar to it.
+Because the mandate lowers the bar the group is held to, short of biting hard enough to make the signal worth acquiring it dampens the very incentive to invest, the group taken without the signal, so fewer acquire it and the average stays low, and the prior survives into a patronising equilibrium in which the group is held to a lower bar and kept below it.
+It opens the door by lowering the bar and loses the reason to clear it, the correction feeding the loop it meant to break.
 
 ## Drives
 
 Toward a prior pushed from outside,
-and an intervention the market marks down,
-so the seat that would break the rating can deepen the doubt it meant to end.
+and a remedy that can dampen the investment it needs,
+so the seat that would break the rating can deepen the shortfall it meant to end.

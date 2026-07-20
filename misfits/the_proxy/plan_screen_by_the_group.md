@@ -30,7 +30,7 @@ Price the unknown by the known. Read the group average where the individual cann
 
 ## Implementation
 
-([The Gate](place_the_gate.md); the [screening](process_screening.md) process; the Employer prices by [the prior](piece_the_prior.md) and sets [the discount](piece_the_discount.md) on [the signal](piece_the_signal.md), the rating that a group's response will make true.)
+([The Desk](place_the_desk.md); the [screening](process_screening.md) process; the Employer prices by [the prior](piece_the_prior.md) and sets [the discount](piece_the_discount.md) on [the signal](piece_the_signal.md), the rating that a group's response will make true.)
 
 ## Targets
 

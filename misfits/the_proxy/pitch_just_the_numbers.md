@@ -41,4 +41,4 @@ while underneath the rating lowers a group's investment until the group becomes 
 
 After the run: a group priced low and, in time, made low, its average bent to meet the rating by the effort the rating discouraged,
 no bigot in the story, only sound actuarial screening and a sound response to a discounted return,
-and the one move that would break it, subsidising the signal or mandating the hire, discounted by the same cool reason that set the rating, so the doubt deepens where the help was meant to land, and the proxy holds without anyone ever meaning harm.
+and the one move that would break it, a mandate that lowers the bar the group is held to, able to feed the loop it meant to end unless it bites hard enough to make the signal pay, so the shortfall deepens where the help was meant to land, and the proxy holds without anyone ever meaning harm.

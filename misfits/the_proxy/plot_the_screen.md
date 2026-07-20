@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Gate](place_the_gate.md), one post and a hundred applicants the screener cannot read.
+[The Desk](place_the_desk.md), one post and a hundred applicants the screener cannot read.
 A quality that cannot be cheaply seen, and a group average that can, the only cheap information there is.
 
 ## Action

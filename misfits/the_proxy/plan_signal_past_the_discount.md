@@ -30,7 +30,7 @@ Acquire the signal in full and try to be read by it. Invest at full cost in the 
 
 ## Implementation
 
-([The Gate](place_the_gate.md); the [confirming](process_confirming.md) process seen from the one it wrongs; the Standout holds [the signal](piece_the_signal.md) in full against [the discount](piece_the_discount.md), and is priced by [the prior](piece_the_prior.md) that [the confirmation](piece_the_confirmation.md) upholds.)
+([The Desk](place_the_desk.md); the [confirming](process_confirming.md) process seen from the one it wrongs; the Standout holds [the signal](piece_the_signal.md) in full against [the discount](piece_the_discount.md), and is priced by [the prior](piece_the_prior.md) that [the confirmation](piece_the_confirmation.md) upholds.)
 
 ## Targets
 

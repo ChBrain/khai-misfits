@@ -22,7 +22,7 @@ stamp:
 ## Initiated by
 
 The group's fallen average, and the Standout it cannot distinguish.
-At [the gate](place_the_gate.md), the group's real average now as low as the rating assumed, and the able member presenting a full signal the rating discounts.
+At [the desk](place_the_desk.md), the group's real average now as low as the rating assumed, and the able member presenting a full signal the rating discounts.
 
 ## Direction
 

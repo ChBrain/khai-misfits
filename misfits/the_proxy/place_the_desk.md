@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "The Gate"
+title: "The Desk"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,11 +9,11 @@ stamp:
   date: "2026-07-20"
 ---
 
-# Place: The Gate
+# Place: The Desk
 
 ## Taxonomy
 
-[The Proxy](play_the_proxy.md). The screening point where the individual is priced by the group average, and where the able member's signal is discounted.
+[The Proxy](play_the_proxy.md). The screening surface where the individual is priced by the group average, and where the able member's signal is discounted.
 
 ## Owner
 

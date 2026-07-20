@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Acquired on [the ground](place_the_ground.md) and presented at [the gate](place_the_gate.md).
+Acquired on [the ground](place_the_ground.md) and presented at [the desk](place_the_desk.md).
 Flows from the individual who invests in it to the agent who reads it, or is not acquired at all.
 
 ## Load Bearing

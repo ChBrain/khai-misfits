@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Runs across [the gate](place_the_gate.md) and [the ground](place_the_ground.md) as the whole loop, and is pushed at only from [the programme](place_the_programme.md).
+Runs across [the desk](place_the_desk.md) and [the ground](place_the_ground.md) as the whole loop, and is pushed at only from [the programme](place_the_programme.md).
 Flows through every part of the mechanism: the prior set, the discount cut, the group withholding, the average confirming, round again with the next applicant.
 
 ## Load Bearing

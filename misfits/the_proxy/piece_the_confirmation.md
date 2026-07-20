@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Read at [the gate](place_the_gate.md), where the group's fallen average meets the rating that set it.
+Read at [the desk](place_the_desk.md), where the group's fallen average meets the rating that set it.
 Flows back from the group's response to the agent's belief, the shortfall returned as proof.
 
 ## Load Bearing
