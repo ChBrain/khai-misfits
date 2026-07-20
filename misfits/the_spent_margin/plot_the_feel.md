@@ -30,7 +30,7 @@ A real buffer under them and a target of accepted risk to measure it against, th
 
 ## Stage
 
-[The Driver](persona_the_driver.md), holding [the balance](piece_the_balance.md), reads the safer road and feels [the margin](piece_the_margin.md) as slack, the felt danger dropped under the level they keep and room opened they did not have before.
+[The Driver](persona_the_driver.md), on [Spend the Margin](plan_spend_the_margin.md), holding [the balance](piece_the_balance.md), reads the safer road and feels [the margin](piece_the_margin.md) as slack, the felt danger dropped under the level they keep and room opened they did not have before.
 Nothing is done yet, only sensed: the buffer felt, the balance under target, the slack waiting.
 
 ## Tension
