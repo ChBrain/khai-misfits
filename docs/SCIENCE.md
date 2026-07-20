@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 102 misfits, 547 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 102 misfits, 549 scholars.
 
 ## By science
 
@@ -246,6 +246,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | ↳ | `the_bullwhip_effect` | "Industrial Dynamics: A Major Breakthrough for Decision Makers" (HBR, 1958); Industrial Dynamics (1961) | The founding: demand amplification in production-distribution systems, the system-dynamics account of how a small change swells upstream. The Whip. |
 | ↳ | `the_bullwhip_effect` | feedback control and delay; the overshoot of a lagged controller <br><sub>Simon; Forrester</sub> | The control root: a system correcting on delayed information overshoots and oscillates, the shower-tap that answers a beat late. The Whipping. |
 | **Frank** | `the_arms_race` | Choosing the Right Pond (1985); Luxury Fever (1999); The Darwin Economy (2011) | The externality and the remedy: positional spending as a cost each imposes on the others, the parade watched on tiptoe, and the tax that caps it. The Tiptoe, the Cancellation. |
+| **Franklin** | `the_iron_triangle` | Congress, the Bureaucracy, and Public Policy (1976) <br><sub>Ripley & Franklin</sub> | The subgovernment currency: the committee's grip on appropriations, oversight, and authorising law as the resource it trades in the triad. The Budget. |
 | **Freckleton** | `safety_in_numbers` | "What is the Allee effect?" (Oikos, 1999) <br><sub>Stephens, Sutherland & Freckleton</sub> | The definition: the Allee effect as a positive relationship between per-capita growth rate and density, and the critical density that marks it. The Critical Number. |
 | **Freedman** | `the_streetlight_effect` | "Why Scientific Studies Are So Often Wrong: The Streetlight Effect" (Discover, 2010) | The name: research that studies the tractable question rather than the important one. The Easy Search, the False Find. |
 | **Freeman** | `the_iron_triangle` | The Political Process (1955); the policy subsystem <br><sub>J. Leiper Freeman</sub> | The subsystem: the bureau, the committee, and the interest as a stable, self-governing unit below the level of national politics. The Seal. |
@@ -632,6 +633,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | ↳ | `the_irony_of_automation` | "Humans and Automation: Use, Misuse, Disuse, Abuse" (Human Factors, 1997) <br><sub>Parasuraman and Riley</sub> | The complacency: over-reliance and automation bias, the monitor's attention eroding on a system that rarely fails. The Drift. |
 | **Ringelmann** | `social_loafing` | "Recherches sur les moteurs animés: Travail de l'homme", Annales de l'Institut National Agronomique (1913) | The rope: per-person pulling force declines as team size grows, the original measurement of effort lost to the group. The Rope, the Ringelmann Curve. |
 | **Ringleb** | `nothing_to_lose` | "Liability and Large-Scale, Long-Term Hazards" (Journal of Political Economy, 1990) <br><sub>Ringleb & Wiggins</sub> | Hazardous activity spun into thin subsidiaries: dangerous work contracted out to small, under-capitalised firms to cap exposure. The Thinness. |
+| **Ripley** | `the_iron_triangle` | Congress, the Bureaucracy, and Public Policy (1976) <br><sub>Ripley & Franklin</sub> | The subgovernment currency: the committee's grip on appropriations, oversight, and authorising law as the resource it trades in the triad. The Budget. |
 | **Robertson** | `the_lie_of_the_land` | "A Framework for Understanding Ecological Traps and an Evaluation of Existing Evidence" (Ecology, 2006) <br><sub>Robertson & Hutto</sub> | The mechanisms: equal-preference and severe traps, the attractive cue persisting after quality falls, the poor site preferred even above the good. The Quality, The Preference, The Apparent Fit. |
 | **Rochon** | `first_do_harm` | "Optimising drug treatment for elderly people: the prescribing cascade" (BMJ, 1997) <br><sub>Rochon & Gurwitz</sub> | The cascade: a drug's effect mistaken for a new condition and treated with another drug, harm compounding through genuine treatment. The Cascade. |
 | **Roethlisberger** | `sandbag` | the Hawthorne bank wiring room observations (1939) <br><sub>Roethlisberger & Dickson</sub> | Peer enforcement: a work group sets its own norm of a fair day's output and disciplines the rate-buster who exceeds it. The Hare, and the cool that meets him. |
@@ -907,7 +909,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `the_horizon_problem` | Ulrich; Midgley; Churchman; Finite-horizon / Simon; Boundary of the effect |
 | `the_identified_patient` | Vogel and Bell; Murray Bowen; Salvador Minuchin; Don D. Jackson; Practitioner |
 | `the_illusion_of_shared_understanding` | Gilovich, Savitsky & Medvec; Keysar; Clark; Clark & Brennan; Nickerson; Boundary of the effect |
-| `the_iron_triangle` | Douglass Cater; J. Leiper Freeman; Gordon Adams; Theodore Lowi; Hugh Heclo |
+| `the_iron_triangle` | Douglass Cater; J. Leiper Freeman; Ripley & Franklin; Gordon Adams; Theodore Lowi; Hugh Heclo |
 | `the_irony_of_automation` | Bainbridge; Parasuraman and Riley; Sarter and Woods; Wiener and Curry; Reason; Carr; Practitioner |
 | `the_law_of_the_instrument` | Kaplan; Maslow; Duncker; Luchins; Twain (attr.); Practitioner |
 | `the_leadership_script` | Fairclough; Bourdieu; Meindl, Ehrlich & Dukerich; Khurana; Alvesson & Sveningsson; Boundary of the effect |
