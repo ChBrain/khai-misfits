@@ -30,7 +30,7 @@ Be the room and read the room at once: bid up what the room expects the room to 
 
 ## Implementation
 
-([The Floor](place_the_floor.md); the [reflecting](process_reflecting.md) process; the Crowd is [the tower](piece_the_tower.md) made flesh and the swell that inflates [the bubble](piece_the_bubble.md), the average opinion the [prize](piece_the_prize.md) is matched against and itself made of guesses at that opinion.)
+([The Floor](place_the_floor.md); the [reflecting](process_reflecting.md) and [swelling](process_swelling.md) processes; the Crowd is [the tower](piece_the_tower.md) made flesh and the swell that inflates [the bubble](piece_the_bubble.md), the average opinion the [prize](piece_the_prize.md) is matched against and itself made of guesses at that opinion.)
 
 ## Targets
 

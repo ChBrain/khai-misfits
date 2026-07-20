@@ -34,20 +34,24 @@ the crowd will go, because the payoff is the match and not the truth, a simultan
 rather than a chain of learning. It is also distinct from the house's The Stag Hunt, where a group hedges from a
 cooperative prize to a safe payoff under doubt: there the game has two equilibria and doubt selects the inferior
 one, here there is no cooperative prize and no fixed equilibrium to select, only the self-referential tower that
-produces bubbles and fads, the outcome never settling because each level of the regress moves with the next.
+produces bubbles and fads, the outcome never settling because each level of the regress moves with the next. And
+it is distinct from the house's The Bank Run, whose self-fulfilling outcome is a jump between two discrete
+equilibria, run or hold, tipped by the fear that others will run: here there is no equilibrium to tip to and no
+discrete panic, only an unbounded regress of belief about belief that prices the thing by opinion about opinion
+whether the market rises or falls.
 
 ## Origin
 
 The phenomenon in theory, and the research spine beneath it.
 
-| Source                     | Key Work / Event                                                                                                 | Scope                                                                                                                                                                                                                                                  |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **John Maynard Keynes**    | _The General Theory of Employment, Interest and Money_ (1936), ch. 12, "The State of Long-Term Expectation"      | **The spine and the name**: the newspaper beauty contest, where the prize goes not to the prettiest face nor to the one average opinion thinks prettiest, but to whoever best anticipates average opinion; the third degree. The play's governing law. |
-| **Rosemarie Nagel**        | "Unraveling in Guessing Games: An Experimental Study" (_American Economic Review_, 1995)                         | **The experiment and the measure**: the guessing game, choose a number nearest two-thirds of the average, showing players reason to bounded levels and that no one carries the regress all the way. The Tower, counted.                                |
-| **Allen, Morris & Shin**   | "Beauty Contests and Iterated Expectations in Asset Markets" (_Review of Financial Studies_, 2006)               | **The asset-pricing model**: higher-order expectations in a market, where price is a weighted average of iterated expectations of value and stays systematically further from the fundamental than any single belief. The Detachment.                  |
-| **Robert J. Shiller**      | _Irrational Exuberance_ (2000); feedback theory of speculative bubbles                                           | **The bubble**: the self-fulfilling feedback by which rising prices draw buyers who expect the rise to continue, a speculative loop detached from fundamentals for as long as the expectation holds. The Swell.                                        |
-| **Shleifer & Vishny**      | "The Limits of Arbitrage" (_Journal of Finance_, 1997)                                                           | **The valuer's cost**: arbitrage against mispricing is risky and capital-constrained, so the one who anchors on value can be forced out before the price corrects, and value cannot reliably discipline the game. The Anchor's price.                  |
-| **Boundary of the effect** | the fundamental reasserts in the long run; the detachment holds only where horizon, liquidity, and belief permit | The honest note: the game does not run forever, and where value can be held to cheaply and the horizon is long the price is anchored, so the detachment is a property of the payoff-on-matching and the limits of arbitrage, not of folly.             |
+| Source                   | Key Work / Event                                                                                            | Scope                                                                                                                                                                                                                                                                                                          |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **John Maynard Keynes**  | _The General Theory of Employment, Interest and Money_ (1936), ch. 12, "The State of Long-Term Expectation" | **The spine and the name**: the newspaper beauty contest, where the prize goes not to the prettiest face nor to the one average opinion thinks prettiest, but to whoever best anticipates average opinion; the third degree. The play's governing law.                                                         |
+| **Rosemarie Nagel**      | "Unraveling in Guessing Games: An Experimental Study" (_American Economic Review_, 1995)                    | **The experiment and the measure**: the guessing game across several targets, choose a number nearest one-half, two-thirds, or four-thirds of the average, showing players reason to bounded levels and that no one carries the regress all the way. The Tower, counted.                                       |
+| **Allen, Morris & Shin** | "Beauty Contests and Iterated Expectations in Asset Markets" (_Review of Financial Studies_, 2006)          | **The asset-pricing model**: higher-order expectations in a market, where price is a weighted average of iterated expectations of value and stays systematically further from the fundamental than any single belief. The Detachment.                                                                          |
+| **Robert J. Shiller**    | _Irrational Exuberance_ (2000); feedback theory of speculative bubbles                                      | **The bubble**: the self-fulfilling feedback by which rising prices draw buyers who expect the rise to continue, a speculative loop detached from fundamentals for as long as the expectation holds. The Swell.                                                                                                |
+| **Shleifer & Vishny**    | "The Limits of Arbitrage" (_Journal of Finance_, 1997)                                                      | **The valuer's cost**: arbitrage against mispricing is risky and capital-constrained, so the one who anchors on value can be forced out before the price corrects, and value cannot reliably discipline the game. The Anchor's price.                                                                          |
+| **Eugene Fama**          | "Efficient Capital Markets: A Review of Theory and Empirical Work" (_Journal of Finance_, 1970)             | **The counterpoint and the limit**: the efficient-markets view that arbitrage holds price at fundamental value, so the detachment is bounded to where arbitrage is limited and the horizon short; the honest note that the game does not run forever and value anchors the price where it can be cheaply held. |
 
 ## Restrictions
 
@@ -70,8 +74,9 @@ What the house refuses to model, and how it credits what it stages.
   the house's, and its reach is not overstated. The staging is the house's; the beauty contest and the third degree
   are Keynes's, the guessing-game measure of bounded reasoning is Nagel's, the iterated-expectations asset model is
   Allen, Morris and Shin's, the feedback theory of bubbles is Shiller's, and the limit of arbitrage that keeps
-  value from disciplining the game is Shleifer and Vishny's, with the honest limit, that the fundamental reasserts
-  in the long run and the detachment holds only where the game permits, carried as carefully as the finding itself.
+  value from disciplining the game is Shleifer and Vishny's, and the efficient-markets counterpoint, that arbitrage
+  holds price to value where it can and the detachment is bounded to where the game permits, is Fama's, carried as
+  carefully as the finding itself.
 
 ## Encoding
 

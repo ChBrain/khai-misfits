@@ -26,7 +26,7 @@ A market in which everyone expects everyone to keep buying, and the expectation 
 
 ## Action
 
-[Reflecting](process_reflecting.md), turned into a loop: the expectation of a rise draws the buying that makes the rise, and the rise draws the next buyer.
+[Swelling](process_swelling.md): the expectation of a rise draws the buying that makes the rise, and the rise draws the next buyer, a feedback loop closing on itself.
 
 ## Stage
 

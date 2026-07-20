@@ -36,5 +36,5 @@ Seen at the surface, the Bubble looks like vindication, the rise itself the evid
 
 ## Yearbook
 
-Inflated by [the Crowd](persona_the_crowd.md) through [reflecting](process_reflecting.md), the self-fulfilling swell of the game.
+Inflated by [the Crowd](persona_the_crowd.md) through [swelling](process_swelling.md), the self-fulfilling swell of the game.
 It is the trap made visible: the Bubble is the height of [the tower](piece_the_tower.md) turned into a feedback loop, floating above [the fundamental](piece_the_fundamental.md) that [the prize](piece_the_prize.md) taught the players to abandon, the momentum that the whole [contest](piece_the_contest.md) mistakes for worth.

@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 104 misfits, 529 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 104 misfits, 530 scholars.
 
 ## By science
 
@@ -191,6 +191,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | **Eirich** | `the_head_start` | "Cumulative Advantage as a Mechanism for Inequality", Annual Review of Sociology (2006) <br><sub>DiPrete & Eirich</sub> | The synthesis: how small initial differences amplify into large ones over time, and the care needed to separate it from pure merit. The Matthew, the Gap. |
 | **Eisenberg** | `the_anticommons` | "Can Patents Deter Innovation? The Anticommons in Biomedical Research", Science (1998) <br><sub>Heller & Eisenberg</sub> | The patent thicket: too many upstream patent holders on a downstream product, each able to block, so research stalls. The Assembly Cost, the Idle Resource in the lab. |
 | **Fairclough** | `the_leadership_script` | Language and Power (1989); the order of discourse; naturalisation | The spine: a dominant way of speaking naturalised until it is heard as the natural sound of the thing, not a choice. The Script, The Ear. |
+| **Fama** | `the_beauty_contest` | "Efficient Capital Markets: A Review of Theory and Empirical Work" (Journal of Finance, 1970) <br><sub>Eugene Fama</sub> | The counterpoint and the limit: the efficient-markets view that arbitrage holds price at fundamental value, so the detachment is bounded to where arbitrage is limited and the horizon short; the honest note that the game does not run forever and value anchors the price where it can be cheaply held. |
 | **Farrell** | `path_dependence` | "Standardization, Compatibility, and Innovation", RAND Journal of Economics (1985) <br><sub>Farrell & Saloner</sub> | The inertia: switching a standard is a coordination problem, prone to excess inertia, escaped only by moving together or by a sponsor. The Switching Cost, the Sponsor. |
 | ↳ | `the_balloon_effect` | "Popping the Balloon Effect: Assessing Drug Law Enforcement in Terms of Displacement, Diffusion, and the Containment Hypothesis" (2012) <br><sub>Windle and Farrell</sub> | The honest limit: displacement is often partial, diffusion of benefits is possible, and containment is contested. The credited caveat on the claim. |
 | **Festinger** | `good_money_after_bad` | "A Theory of Cognitive Dissonance" (1957) | Self-justification: the mind that made the call is the last that can admit it was wrong, because doing so indicts itself. The Reputation Stake. |
@@ -442,7 +443,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | ↳ | `the_empty_seat` | "Human decision makers and automated decision aids" (1996); "Does automation bias decision-making?" (IJHCS, 1999) <br><sub>Mosier & Skitka; Skitka, Mosier & Burdick</sub> | The two errors: commission, following the aid against one's own information, and omission, missing what the aid did not flag. The Override, the Lapse. |
 | **Moss** | `regulatory_capture` | James Kwak, "Cultural Capture and the Financial Crisis", in Preventing Regulatory Capture (2013) <br><sub>Kwak; Carpenter & Moss</sub> | Cultural capture: regulators adopt the worldview and assumptions of the industry through identity, status, and relationships, with no quid pro quo. The Cultural Capture. |
 | **Muller** | `metric_fixation` | "The Tyranny of Metrics" (2018) | Metric fixation as a cross-sector pattern, from schools to hospitals to policing to business: the same substitution, everywhere it is measured. The synthesis in practice. |
-| **Nagel** | `the_beauty_contest` | "Unraveling in Guessing Games: An Experimental Study" (American Economic Review, 1995) <br><sub>Rosemarie Nagel</sub> | The experiment and the measure: the guessing game, choose a number nearest two-thirds of the average, showing players reason to bounded levels and that no one carries the regress all the way. The Tower, counted. |
+| **Nagel** | `the_beauty_contest` | "Unraveling in Guessing Games: An Experimental Study" (American Economic Review, 1995) <br><sub>Rosemarie Nagel</sub> | The experiment and the measure: the guessing game across several targets, choose a number nearest one-half, two-thirds, or four-thirds of the average, showing players reason to bounded levels and that no one carries the regress all the way. The Tower, counted. |
 | **Narayanan** | `seed_corn` | "Managerial Incentives for Short-term Results", Journal of Finance (1985) | Managerial myopia: managers favour actions that pay off within their horizon and reputation window, even at a cost to long-run value. The Deliverer and the Number. |
 | **Nash** | `the_stag_hunt` | "Non-Cooperative Games" (Annals of Mathematics, 1951): multiple equilibria | The structure: the coordination game with more than one stable point, no one of which a single player can improve on alone. The Fork. |
 | **Neary** | `dutch_disease` | "Booming Sector and De-Industrialisation in a Small Open Economy" (Economic Journal, 1982) <br><sub>Corden and Neary</sub> | The model: the resource-movement and spending effects, the real appreciation, and the contraction of the lagging traded sector. The play's governing law. |
@@ -778,7 +779,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `the_availability_cascade` | Kuran and Sunstein; Tversky and Kahneman; Availability entrepreneurs; Sunstein; Practitioner |
 | `the_balloon_effect` | Thomas Reppetto; Cornish and Clarke; Cornelius Friesendorf; Windle and Farrell; Guerette and Bowers |
 | `the_bank_run` | Diamond & Dybvig; Merton; Bagehot; Bernanke; Bryant; Practitioner |
-| `the_beauty_contest` | John Maynard Keynes; Rosemarie Nagel; Allen, Morris & Shin; Robert J. Shiller; Shleifer & Vishny; Boundary of the effect |
+| `the_beauty_contest` | John Maynard Keynes; Rosemarie Nagel; Allen, Morris & Shin; Robert J. Shiller; Shleifer & Vishny; Eugene Fama |
 | `the_bigger_picture` | Edward H. Simpson; G. Udny Yule; Colin R. Blyth; Bickel, Hammel & O'Connell; Judea Pearl |
 | `the_bounce` | Galton; Tversky & Kahneman; Kahneman & Tversky; Campbell & Kenny; Practitioner |
 | `the_brittle_optimum` | Perrow; Taleb; Bak; Ohno; lean; Hollnagel; Practitioner |

@@ -69,6 +69,7 @@ Anchor on the fundamental and trade against the crowd, and the game could be dis
 
 - [Guessing](process_guessing.md)
 - [Reflecting](process_reflecting.md)
+- [Swelling](process_swelling.md)
 - [Anchoring](process_anchoring.md)
 
 **Pieces**
