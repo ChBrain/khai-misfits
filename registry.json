@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.103.0",
+  "version": "0.104.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -284,6 +284,12 @@
       "id": "the_bank_run",
       "title": "The Bank Run",
       "description": "Each saver runs because he fears the others will, so a solvent bank is felled by the very fear that it might fail."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_beauty_contest",
+      "title": "The Beauty Contest",
+      "description": "Paid to guess what the room will guess, price tracks opinion about opinion and floats free of a thing's worth."
     },
     {
       "kind": "misfit",
