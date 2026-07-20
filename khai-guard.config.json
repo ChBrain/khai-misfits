@@ -23,7 +23,8 @@
       "LICENSE",
       "LICENSE-CODE",
       "SECURITY.md",
-      "registry.json"
+      "registry.json",
+      "docs/SCIENCE.md"
     ],
     "riders": [{ "pattern": "management/orders/**", "fallback": "governance" }],
     "lanes": [
