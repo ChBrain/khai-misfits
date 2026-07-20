@@ -39,7 +39,8 @@
     "test": "vitest run",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "version": "changeset version && npx khai-tests registry build",
+    "science": "npx khai-tests science build",
+    "version": "changeset version && npx khai-tests registry build && npx khai-tests science build",
     "release": "changeset publish"
   },
   "devDependencies": {
