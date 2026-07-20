@@ -1,2 +1,8 @@
 node_modules/
 dist/
+
+# Generated science index: `khai-tests science build` writes docs/SCIENCE.md
+# from every misfit's REFERENCE.md Origin table, and its build-drift gate holds
+# it byte-identical to that build. Prettier reformatting it would fight the gate,
+# and its style is machine-written, not hand-authored.
+docs/SCIENCE.md
