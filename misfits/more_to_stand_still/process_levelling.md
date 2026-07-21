@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[More to Stand Still](play_more_to_stand_still.md). The settling of a raised effect into the new neutral, the gain adapted to and converted into the baseline, so the satisfaction returns to zero no matter the height it is fed.
+[More to Stand Still](play_more_to_stand_still.md). The settling of a raised effect into the new neutral, the gain largely adapted to and converted into the baseline, so the satisfaction returns toward its baseline whatever the height it is fed.
 
 ## Owner
 
@@ -27,14 +27,14 @@ Begins as soon as a raised dose stops being new, the response starting to treat 
 ## Direction
 
 Turns a gain into a baseline.
-Because the response adjusts to whatever it is steadily given, the raised level is itself adapted to and becomes the zero against which the next change is felt, so levelling converts a hard-won increase into the new nothing, the treadmill returning satisfaction to neutral however high the dose that feeds it (Brickman and Campbell; Brickman, Coates and Janoff-Bulman).
+Because the response adjusts to whatever it is steadily given, the raised level is largely adapted to and becomes the zero against which the next change is felt, so levelling converts most of a hard-won increase into the new nothing, the treadmill returning satisfaction toward neutral however high the dose that feeds it, the gain strongly though rarely wholly reabsorbed (Brickman and Campbell; Brickman, Coates and Janoff-Bulman).
 
 ## Lever
 
 The response's return to neutral.
-Because a steady state, however elevated, comes to feel like no state at all, levelling works through the pull of the baseline: the response cannot hold an elevation as an elevation but only as the new normal, so the lever is the plain tendency of feeling to fade to zero, the reset that spends every gain on raising the floor rather than the height.
+Because a steady state, however elevated, comes to feel like much less of one, levelling works through the pull of the baseline: the response holds an elevation poorly, treating most of it as the ordinary, so the lever is the plain tendency of feeling to fade back toward neutral, the reset that spends most of a gain on raising the floor rather than the height.
 
 ## Echo
 
 A raise become the level, and the effect back at its start.
-The echo of levelling is a dose higher than ever producing a feeling no better than the beginning, so the gain is neutralised and the climb shown to have bought only a taller floor, the effect returned to zero from a greater height and the next raise already required just to feel it.
+The echo of levelling is a dose higher than ever producing a feeling little better than the beginning, so the gain is largely neutralised and the climb shown to have bought mostly a taller floor, the effect returned near its baseline from a greater height and the next raise already required just to feel it.

@@ -27,7 +27,7 @@ Begins the moment the dose is withheld, when the counter-response that grew agai
 ## Direction
 
 Turns a stopped dose into a low.
-Because the opponent that shrank the effect does not subside as fast as the dose is removed, its unopposed action carries the response below neutral, so withdrawing converts the mere absence of the stimulus into an active trough, the after-reaction the exact counterpart of the tolerance and deeper for how high the climb had built it (Solomon and Corbit; Frederick and Loewenstein).
+Because the opponent that shrank the effect does not subside as fast as the dose is removed, its unopposed action carries the response below neutral, so withdrawing converts the mere absence of the stimulus into an active trough, the after-reaction roughly the counterpart of the tolerance and deeper for how high the climb had built it (Solomon and Corbit; Frederick and Loewenstein).
 
 ## Lever
 

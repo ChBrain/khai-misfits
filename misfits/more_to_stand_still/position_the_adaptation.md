@@ -34,7 +34,7 @@ Do not hold a gain, since the seat's whole method is to normalise whatever it re
 ## Loses
 
 The ability to keep what it is given, which the seat forfeits by the very act of adapting to it.
-The Adaptation cannot bank a raise, because the same adjustment that lets it settle to a level is the adjustment that turns that level into zero, so whatever it gains it loses to its own recalibration, not slowly but as a matter of course. What the seat forfeits is the capacity to be better off: it can be moved but cannot be raised, since any new height it is brought to becomes, once held, the neutral it feels nothing from, so the seat is structurally incapable of accumulation, every gain spent on resetting the point from which the next gain must exceed, and the more it is given the higher the floor it feels nothing above, its adjustment the reason no amount can ever be enough for long.
+The Adaptation cannot bank a raise, because the same adjustment that lets it settle to a level is the adjustment that turns that level into zero, so whatever it gains it loses to its own recalibration, not slowly but as a matter of course. What the seat forfeits is much of the capacity to be better off: it can be moved but holds a raise poorly, since any new height it is brought to becomes, once held, largely the neutral it feels little from, so the seat can bank scarcely any of what it gains, most of each increase spent on resetting the point the next must exceed, and the more it is given the higher the floor it feels little above, its adjustment the reason no amount stays enough for long.
 
 ## Drives
 

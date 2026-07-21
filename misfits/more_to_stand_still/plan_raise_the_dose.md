@@ -22,7 +22,7 @@ A **standing plan**: the intent of [the Supply](position_the_supply.md), inside 
 
 ## Direction
 
-Meet a faded effect with a larger dose, since more restores the response and restoring the response is the point (Schultz, Dayan and Montague). Read a stalled result as the signal to increase, and do not hold the dose steady expecting the effect to hold, because a constant dose fades and standing pat is slow decline. Give the amount the moment calls for, and accept that the amount which works now will become the level the response adapts to, so the raise that restores the effect today is the floor the effect will stall at tomorrow. Take the increase as correct at each step and the climb as the price of a response that keeps resetting its zero to whatever it is fed.
+Meet a faded effect with a larger dose, since more restores the response and restoring the response is the point, a larger reward outrunning the prediction that dulled the last (Schultz, Dayan and Montague). Read a stalled result as the signal to increase, and do not hold the dose steady expecting the effect to hold, because a constant dose fades and standing pat is slow decline. Give the amount the moment calls for, and accept that the amount which works now will become the level the response adapts to, so the raise that restores the effect today is the floor the effect will stall at tomorrow. Take the increase as correct at each step and the climb as the price of a response that keeps resetting its zero to whatever it is fed.
 
 ## Orders
 

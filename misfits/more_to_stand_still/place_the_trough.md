@@ -27,7 +27,7 @@ Shown as a fall: the motivator is gone and the response is below where it sat, s
 ## Holds
 
 Holds the opponent unmasked, the process that grew against the dose and outlives it.
-The Trough is where the after-reaction runs: the opponent that shrank the effect does not stop when the dose does but is left with nothing to oppose, so the response drops below neutral by the same amount it was held above, the withdrawal the exact mirror of the tolerance and deeper the higher the climb had gone.
+The Trough is where the after-reaction runs: the opponent that shrank the effect does not stop when the dose does but is left with nothing to oppose, so the response drops below neutral in proportion to how far it was held above, the withdrawal roughly the mirror of the tolerance and deeper the higher the climb had gone.
 
 ## Offers
 

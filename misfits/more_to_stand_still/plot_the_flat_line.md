@@ -22,11 +22,11 @@ stamp:
 ## Cue
 
 [The Level](place_the_level.md), the dose higher than ever and the effect back where it began.
-A long run of raises, each one absorbed, the amount now far above the first and the feeling exactly at the start.
+A long run of raises, each one largely absorbed, the amount now far above the first and the feeling back near the start.
 
 ## Action
 
-[Levelling](process_levelling.md): each raised dose has settled into the neutral, so the response sits at the same zero it started from while the input towers over the first.
+[Levelling](process_levelling.md): each raised dose has settled toward the neutral, so the response sits near the same zero it started from while the input towers over the first.
 
 ## Stage
 
@@ -36,4 +36,4 @@ Everything has grown except the result, which is precisely where it was.
 ## Tension
 
 The rising numbers say progress and the flat effect says none, and both are true.
-No step was wrong: each raise worked and each adaptation was involuntary, so the climb is a sequence of sound moves. But the response keeps resetting its zero to the current dose, so the whole ascent has bought only the ground it began on, and the plot closes with the treadmill exposed under the motion, more spent than ever and nothing gained but the effect it started with, the progress an illusion of a baseline that climbed exactly as fast as the dose.
+No step was wrong: each raise worked and each adaptation was involuntary, so the climb is a sequence of sound moves. But the response keeps resetting its zero toward the current dose, so the whole ascent has bought little more than the ground it began on, and the plot closes with the treadmill exposed under the motion, more spent than ever and little gained beyond the effect it started with, the progress mostly an illusion of a baseline that climbed nearly as fast as the dose.

@@ -27,7 +27,7 @@ Begins whenever the effect has faded to the point of a stalled result and the on
 ## Direction
 
 Turns a faded effect into a restored one.
-Because a larger dose clears the raised neutral by enough to register again, raising it brings the response back, so dosing converts a flat result into a working one, the increase the correct answer to a stalled effect and effective at each step because more genuinely does move a response that has adapted to less (Schultz, Dayan and Montague).
+Because a larger dose clears the raised neutral by enough to register again, raising it brings the response back, so dosing converts a flat result into a working one, the increase the correct answer to a stalled effect and effective at each step because more genuinely does move a response that has adapted to less, a larger reward outrunning the prediction that had dulled the last (Schultz, Dayan and Montague).
 
 ## Lever
 

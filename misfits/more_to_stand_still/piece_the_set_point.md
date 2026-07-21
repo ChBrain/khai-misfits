@@ -27,7 +27,7 @@ Flows as the moving baseline of feeling, the point the response calls neutral, c
 ## Load Bearing
 
 Without the Set-Point resetting, a raise would stay a gain and the climb would end: one increase would lift the response and hold it lifted, and there would be no treadmill.
-It is because the neutral moves to whatever level persists that no gain is kept, so the Set-Point is load bearing because it is the reset that neutralises every increase, the reason the response returns to zero however high it is fed (Brickman and Campbell; Brickman, Coates and Janoff-Bulman; Frederick and Loewenstein). Its motion is the whole trap: a fixed baseline would let a raise accumulate, but a baseline that climbs to meet each dose converts every gain into the new nothing, so the Set-Point is what makes standing still cost more each cycle, the floor rising to swallow the height and forcing the next dose to clear a neutral the last dose built.
+It is because the neutral moves toward whatever level persists that little of a gain is kept, so the Set-Point is load bearing because it is the reset that largely neutralises each increase, the reason the response returns toward its baseline however high it is fed, the gain mostly though rarely wholly reabsorbed (Brickman and Campbell; Brickman, Coates and Janoff-Bulman; Frederick and Loewenstein). Its motion is the whole trap: a fixed baseline would let a raise accumulate, but a baseline that climbs to meet each dose converts every gain into the new nothing, so the Set-Point is what makes standing still cost more each cycle, the floor rising to swallow the height and forcing the next dose to clear a neutral the last dose built.
 
 ## Apparent
 

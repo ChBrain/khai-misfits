@@ -20,8 +20,8 @@ raise that restores it, the levelling that turns each raise into the baseline, a
 adaptation loads beneath the climb, as the load-bearing vectors of the structure, not as a tale of greed or weakness.
 The governing finding of the source is the play's governing law: because a response registers change from an adapted
 level rather than absolute amount, a steadily applied motivator strengthens the opponent process against it until the
-net effect shrinks, so holding an effect requires an ever-rising dose, and stopping drops the response below neutral by
-the amount it was held above. The escalation is sound at every step, since each raise answers a genuinely faded effect
+net effect shrinks, so holding an effect requires an ever-rising dose, and stopping drops the response below neutral
+roughly in proportion to how far it was held above. The escalation is sound at every step, since each raise answers a genuinely faded effect
 and adaptation is involuntary, so giving more when the old amount has stopped working is the sensible act, and the
 running-to-stand-still is the sum of correct responses to a response that neutralises whatever it is fed.
 
@@ -39,13 +39,13 @@ system's habituation, not a contest between two.
 
 The phenomenon in theory, and the research spine beneath it.
 
-| Source                                                   | Key Work / Event                                                                                                      | Scope                                                                                                                                                                                                                                                                             |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Richard Solomon and John Corbit**                      | "An Opponent-Process Theory of Motivation" (_Psychological Review_, 1974)                                             | **The mechanism**: repeated stimulation strengthens an opponent process that opposes the stimulus, so the net affective response shrinks with use (tolerance) and the after-reaction on withdrawal grows, the fading and the trough one law. The play's governing law. The Wheel. |
-| **Philip Brickman and Donald Campbell**                  | "Hedonic Relativism and Planning the Good Society" (in _Adaptation-Level Theory_, 1971)                               | **The treadmill**: satisfaction adapts back toward a neutral point, so gains in stimulation are neutralised and staying above neutral requires ever more input, the running-to-stand-still. The Level. The Set-Point.                                                             |
-| **Philip Brickman, Dan Coates and Ronnie Janoff-Bulman** | "Lottery Winners and Accident Victims: Is Happiness Relative?" (_Journal of Personality and Social Psychology_, 1978) | **The set-point**: the empirical demonstration that even large windfalls are adapted to, satisfaction returning toward a baseline, the treadmill's return to zero shown in life outcomes. The Set-Point.                                                                          |
-| **Wolfram Schultz, Peter Dayan and P. Read Montague**    | "A Neural Substrate of Prediction and Reward" (_Science_, 1997)                                                       | **The fading incentive**: a reward that is fully predicted stops eliciting the reward-prediction response, so a repeated, expected motivator loses its bite, the neural basis of an incentive that must be raised to be felt. The Kick.                                           |
-| **Shane Frederick and George Loewenstein**               | "Hedonic Adaptation" (in _Well-Being: The Foundations of Hedonic Psychology_, 1999)                                   | **The synthesis and the asymmetry**: the account of adaptation across domains, and that adaptation is uneven, so the withdrawal after a raised level can bite harder than the gain pleased, the trough that prices the reset. The Trough.                                         |
+| Source                                                   | Key Work / Event                                                                                                      | Scope                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Richard Solomon and John Corbit**                      | "An Opponent-Process Theory of Motivation: I. Temporal Dynamics of Affect" (_Psychological Review_, 1974)             | **The mechanism**: repeated stimulation strengthens an opponent process that opposes the stimulus, so the net affective response shrinks with use (tolerance) and the after-reaction on withdrawal grows, the fading and the trough one law. The play's governing law. The Wheel.                                                                                                   |
+| **Philip Brickman and Donald Campbell**                  | "Hedonic Relativism and Planning the Good Society" (in _Adaptation-Level Theory_, 1971)                               | **The treadmill**: satisfaction adapts back toward a neutral point, so gains in stimulation are neutralised and staying above neutral requires ever more input, the running-to-stand-still. The Level. The Set-Point.                                                                                                                                                               |
+| **Philip Brickman, Dan Coates and Ronnie Janoff-Bulman** | "Lottery Winners and Accident Victims: Is Happiness Relative?" (_Journal of Personality and Social Psychology_, 1978) | **The set-point**: the finding that even large windfalls are substantially adapted to, lottery winners rating present happiness no higher than controls and lower on everyday pleasures, evidence of strong adaptation though the design is cross-sectional and cannot show a full return-to-baseline trajectory, later panel work finding adaptation often partial. The Set-Point. |
+| **Wolfram Schultz, Peter Dayan and P. Read Montague**    | "A Neural Substrate of Prediction and Reward" (_Science_, 1997)                                                       | **The fading incentive**: a reward that is fully predicted stops eliciting the phasic dopamine reward-prediction response, so a repeated, expected reward loses its bite, a proposed neural substrate for the fading of an appetitive incentive that must be raised to be felt, offered here as an analogy for the wider class of motivators the paper did not test. The Kick.      |
+| **Shane Frederick and George Loewenstein**               | "Hedonic Adaptation" (in _Well-Being: The Foundations of Hedonic Psychology_, 1999)                                   | **The synthesis and the asymmetry**: the account of adaptation across domains, and that adaptation is uneven, so the withdrawal after a raised level can bite harder than the gain pleased, the trough that prices the reset. The Trough.                                                                                                                                           |
 
 ## Restrictions
 
@@ -72,16 +72,22 @@ What the house refuses to model, and how it credits what it stages.
   its withdrawal mirror is Solomon and Corbit's, the hedonic treadmill is Brickman and Campbell's, the empirical
   adaptation to a set-point is Brickman, Coates and Janoff-Bulman's, the fading of a predicted reward is Schultz, Dayan
   and Montague's, and the synthesis of hedonic adaptation and its asymmetry is Frederick and Loewenstein's, each carried
-  as carefully as the finding itself: the misfit stages a response that neutralises what it is given and credits that no
-  one was greedy and the climb is the response's own.
+  as carefully as the finding itself. Its reach is scoped, not universalised: adaptation is a strong tendency, not an
+  invariant law, often substantial but incomplete and varying by domain, since some stimuli sensitise rather than
+  habituate and some losses (chronic pain, noise, disability) are adapted to only partially, so the misfit stages the
+  treadmill where it runs and does not claim every gain returns wholly to zero. The staging credits that no one was
+  greedy and the climb is the response's own.
 
 ## Encoding
 
 Source to constraint, per element.
+The Kick and the Wheel model the same felt fading at two different levels, a neural reward-prediction signal (Schultz,
+Dayan and Montague) and an affective opponent process (Solomon and Corbit), parallel accounts of the same behaviour and
+not one reducible to the other.
 
 - **[The Wheel](piece_the_wheel.md)**: carries the phenomenon whole (Solomon and Corbit; Brickman and Campbell), the
-  response that reads change and not level neutralising whatever it is given, so the dose rises forever to hold a
-  constant effect and the system escalates to stand still.
+  response that reads change and not level largely neutralising whatever it is given, so the dose rises and rises to hold
+  a constant effect and the system escalates to stand still.
 - **[The Kick](piece_the_kick.md)**: carries the fading reward (Schultz, Dayan and Montague), the effect that leaps on a
   fresh dose and barely registers on a predicted one, the diminishing return the climb keeps paying to recover.
 - **[The Set-Point](piece_the_set_point.md)**: carries the moving neutral (Brickman and Campbell; Brickman, Coates and

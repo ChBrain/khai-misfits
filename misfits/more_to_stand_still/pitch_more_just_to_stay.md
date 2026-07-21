@@ -31,8 +31,8 @@ Underneath, the response adjusts to whatever persists, so the larger dose is its
 
 ## Nerve
 
-The dose is higher and higher and the effect is exactly where it began.
-The nerve is that the climb buys maintenance and reads as progress: the rising numbers feel like motion, but the response keeps resetting its zero to the current dose, so the system spends more and more to hold the effect it started with, running as hard as it can just to stand still.
+The dose is higher and higher and the effect is barely above where it began.
+The nerve is that the climb buys maintenance and reads as progress: the rising numbers feel like motion, but the response keeps resetting its zero toward the current dose, so the system spends more and more to hold the effect it started with, running as hard as it can just to stand still.
 
 ## Echo
 
