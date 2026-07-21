@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Chasing the Price](play_chasing_the_price.md). The self-perpetuation, each overshoot answered by the same sound response, so the market keeps swinging on its own.
+[Chasing the Price](play_chasing_the_price.md). The self-feeding of the swing, each overshoot answered by the same sound response, so that where the slopes do not damp it the market keeps swinging on its own.
 
 ## Owner
 
@@ -32,9 +32,9 @@ The producers answer the low price with a small planting and the high price with
 ## Lever
 
 The soundness of the response, repeated.
-Because answering the current price is always correct in the moment, chasing needs no error to continue, only the same good sense applied each season, so its lever is the very rationality of the plan: the swing persists precisely because every producer keeps doing the right thing.
+Because answering the current price is always correct in the moment, chasing needs no error to continue, only the same good sense applied each season, so its lever is the very rationality of the plan: the swing continues, where the slopes do not damp it, precisely because every producer keeps doing the right thing.
 
 ## Echo
 
 A cycle that stands on its own, turning boom to bust and back.
-The echo of chasing is a market that oscillates indefinitely with no shock to drive it, the crash calling forth the dearth and the dearth the crash, a self-perpetuating swing kept alive by nothing but each producer soundly answering the price the last swing left them.
+The echo of chasing is a market that can keep oscillating with no shock to drive it, the crash calling forth the dearth and the dearth the crash, a swing that, where the slopes do not damp it, is kept alive by nothing but each producer soundly answering the price the last swing left them.

@@ -5,8 +5,9 @@ updated: "2026-07-21"
 # Chasing the Price: Reference
 
 The research warrant for [Chasing the Price](play_chasing_the_price.md).
-The dynamic is the cobweb cycle: Ezekiel's naming of it, Kaldor's classification of its convergence, the hog cycle that
-first showed it, the expectations that drive it, and the rational forecast that dissolves it, all cited below.
+The dynamic is the cobweb cycle: Ezekiel's naming and classifying of it, Kaldor's earlier diagram and determinateness,
+the hog cycle that first showed it, the expectations that drive it, and the rational forecast that dissolves it, all
+cited below.
 
 ## Line of Work
 
@@ -15,12 +16,14 @@ must commit output before it exists and plans on the price in front of them, but
 only after the lag, and because every producer reads the same current price and answers it the same way, a high price
 draws a glut that crashes it and a low price a dearth that spikes it, and a single market oscillates boom to bust on
 its own. The play models the documented mechanics, the current price read as the signal, the production delay that
-divides decision from delivery, the swing the synchronised response overshoots into, and the self-perpetuating cobweb
-the overshoots compose, as the load-bearing vectors of the structure, not as a tale of a miscalculation or an outside
-shock. The governing finding of the source is the play's governing law: when supply responds to price with a
-production lag and producers plan on the current price, the market overshoots equilibrium in alternating directions, a
-cycle endogenous to the lag and the response whose amplitude depends on how sharply supply answers price, corrected
-only by planning on the expected rather than the current price.
+divides decision from delivery, the swing the synchronised response overshoots into, and the cobweb the overshoots
+compose, as the load-bearing vectors of the structure, not as a tale of a miscalculation or an outside shock. The
+governing finding of the source is the play's governing law: when supply responds to price with a production lag and
+producers plan on the current price, the market overshoots equilibrium in alternating directions, a cycle endogenous
+to the lag and the response. Whether the swing fades, holds, or grows turns on the slopes: where supply answers price
+more gently than demand the overshoots damp to equilibrium on their own, needing no change of plan, and where supply
+answers at least as sharply they hold or widen, the case this misfit stages, corrected then only by planning on the
+expected rather than the current price.
 
 It is distinct from the house's The Bullwhip Effect, where a small wobble in end demand is amplified into ever larger
 swings as it travels up a multi-link supply chain, each stage over-ordering to buffer the stage below: there the
@@ -33,13 +36,13 @@ up a chain.
 
 The phenomenon in theory, and the research spine beneath it.
 
-| Source               | Key Work / Event                                                                                   | Scope                                                                                                                                                                                                                                                                         |
-| -------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Mordecai Ezekiel** | "The Cobweb Theorem" (_Quarterly Journal of Economics_, 1938)                                      | **The origin and the name**: a market where supply lags price and producers plan on the current price oscillates around equilibrium, the fluctuations convergent, divergent, or continuing by the relative slopes of supply and demand. The play's governing law. The Cobweb. |
-| **Nicholas Kaldor**  | "A Classificatory Note on the Determinateness of Equilibrium" (_Review of Economic Studies_, 1934) | **The classification**: the cobweb figure and the determinateness of the swing, whether it settles, holds, or explodes turning on how sharply supply answers price against how sharply demand answers it. The Delay.                                                          |
-| **Arthur Hanau**     | "Die Prognose der Schweinepreise" (_Vierteljahrshefte zur Konjunkturforschung_, 1928)              | **The hog cycle**: the empirical study of the recurring pork-price cycle, the boom-to-bust swing in a real market with a breeding lag that the cobweb model was built to explain. The Swing.                                                                                  |
-| **Marc Nerlove**     | "Adaptive Expectations and Cobweb Phenomena" (_Quarterly Journal of Economics_, 1958)              | **The expectations**: the cycle's behaviour depends on how producers form their price expectations, so the engine is not the lag alone but the rule by which the current price is read into a plan. The Price.                                                                |
-| **John F. Muth**     | "Rational Expectations and the Theory of Price Movements" (_Econometrica_, 1961)                   | **The remedy**: if producers form rational expectations and plan on the price they anticipate rather than the one they see, the cobweb cycle disappears, the correction that dissolves the swing by forgoing the current signal. The Price.                                   |
+| Source               | Key Work / Event                                                                                   | Scope                                                                                                                                                                                                                                                                                                                                                  |
+| -------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Mordecai Ezekiel** | "The Cobweb Theorem" (_Quarterly Journal of Economics_, 1938)                                      | **The naming and the classification**: the synthesis that fixed the model in the English literature, a market where supply lags price and producers plan on the current price oscillating around equilibrium, the fluctuations convergent, divergent, or continuing by the relative slopes of supply and demand. The play's governing law. The Cobweb. |
+| **Nicholas Kaldor**  | "A Classificatory Note on the Determinateness of Equilibrium" (_Review of Economic Studies_, 1934) | **The diagram and the priority**: the earlier statement that gave the cobweb its figure and its name, framing whether an equilibrium is even approached as a matter of the relative slopes, the determinateness Ezekiel later synthesised. The Swing.                                                                                                  |
+| **Arthur Hanau**     | "Die Prognose der Schweinepreise" (_Vierteljahrshefte zur Konjunkturforschung_, 1928)              | **The hog cycle**: the empirical study of the recurring pork-price cycle, the boom-to-bust swing in a real market with a breeding lag that the cobweb model was built to explain. The Swing.                                                                                                                                                           |
+| **Marc Nerlove**     | "Adaptive Expectations and Cobweb Phenomena" (_Quarterly Journal of Economics_, 1958)              | **The expectations**: the cycle's behaviour depends on how producers form their price expectations, so the engine is not the lag alone but the rule by which the current price is read into a plan. The Price.                                                                                                                                         |
+| **John F. Muth**     | "Rational Expectations and the Theory of Price Movements" (_Econometrica_, 1961)                   | **The remedy**: if producers form rational expectations and plan on the price they anticipate rather than the one they see, the cobweb cycle disappears, the correction that dissolves the swing by forgoing the current signal. The Price.                                                                                                            |
 
 ## Restrictions
 
@@ -72,11 +75,14 @@ What the house refuses to model, and how it credits what it stages.
 
 Source to constraint, per element.
 
-- **[The Price](piece_the_price.md)**: carries the current price read as the signal (Ezekiel; Nerlove), the true number
-  each producer plans on and, read too soon, answers in chorus.
+- **[The Price](piece_the_price.md)**: carries the current price read as the signal (Ezekiel), the true number each
+  producer plans on and, read too soon, answers in chorus; the rule by which it is read into a plan is what the cycle's
+  fate turns on (Nerlove), and re-reading it as a forecast is the remedy (Muth).
 - **[The Delay](piece_the_delay.md)**: carries the production lag between decision and delivery (Ezekiel; Kaldor), the
   interval that divides the price read from the price got and gives the trap its room.
-- **[The Swing](piece_the_swing.md)**: carries the overshoot of the synchronised response (Kaldor; Hanau), the
-  boom-to-bust oscillation whose amplitude turns on how sharply supply answers price.
-- **[The Cobweb](piece_the_cobweb.md)**: carries the phenomenon whole (Ezekiel; Hanau), the self-perpetuating cycle by
-  which each overshoot becomes the next period's signal and the market chases its own tail.
+- **[The Swing](piece_the_swing.md)**: carries the overshoot of the synchronised response, seen in the hog cycle
+  (Hanau) and its amplitude classified by the slopes (Kaldor), the boom-to-bust oscillation whose height turns on how
+  sharply supply answers price against how sharply demand does.
+- **[The Cobweb](piece_the_cobweb.md)**: carries the phenomenon whole (Ezekiel; Hanau), the cycle by which each
+  overshoot becomes the next period's signal and the market chases its own tail, standing where the slopes do not damp
+  it.

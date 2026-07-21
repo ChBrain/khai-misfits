@@ -34,9 +34,9 @@ Does what a market does: buys what is offered at the clearing price, holding dem
 
 ## Shadow
 
-Not a mover, but the wall the swing bounces off, and that is the quiet of it: the Buyer changes nothing and yet is the reason the growers' volume swings become price swings at all.
-Because demand holds steady while supply oscillates, the same fixed want that would anchor a well-timed market amplifies a mistimed one, translating a glut into a low price and a dearth into a high one, so the Buyer's constancy, no fault of theirs, is exactly what gives the growers a swinging signal to chase.
-The appetite is steady and the price is not, so the one party that does nothing to cause the cycle is the surface it rebounds from, its very steadiness the thing that turns lagged supply into a boom and a bust.
+Not a mover, but the one least able to imagine they are any part of the machine, and that is the quiet of it: the Buyer only ever wants what they always wanted, so of everyone in the market they feel the most blameless and see their own role the least.
+Nothing in a steady appetite looks like a cause. The Buyer sets no plan and chases no trend, so when the price lurches they read it as the growers' doing or the season's luck, never as the answer their own constancy returns, and would be honestly baffled to be told they help price the swing at all.
+The want is innocent and the innocence is total, so the party with the cleanest hands is the one most invisible to itself, feeling the glut and the dearth as things done to it and never suspecting the steadiness that meets them.
 
 ## Tell
 

@@ -22,7 +22,7 @@ A **standing plan**: the intent of [the Almanac](position_the_almanac.md), insid
 
 ## Direction
 
-Plan output on the price you expect at harvest, not the price on offer now, treating today's high price as the sign of tomorrow's glut and today's low price as the sign of tomorrow's dearth. Plant small when the current price is high and large when it is low, leaning against the swing rather than feeding it. Distrust the going number by design, and accept that in any single season the crowd chasing the current price may look right and you wrong.
+Plan output on the price you expect at harvest, not the price on offer now, forming a rational expectation of where the market will land rather than extrapolating the current number (Muth), treating today's high price as the sign of tomorrow's glut and today's low price as the sign of tomorrow's dearth. Plant small when the current price is high and large when it is low, leaning against the swing rather than feeding it. Distrust the going number by design, and accept that in any single season the crowd chasing the current price may look right and you wrong.
 
 ## Orders
 

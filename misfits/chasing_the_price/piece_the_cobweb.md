@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Chasing the Price](play_chasing_the_price.md). The phenomenon whole, the self-perpetuating cycle by which each overshoot becomes the next period's signal and the market chases its own tail.
+[Chasing the Price](play_chasing_the_price.md). The phenomenon whole, the cycle by which each overshoot becomes the next period's signal and the market chases its own tail, standing where the slopes do not damp it.
 
 ## Owner
 
@@ -27,12 +27,12 @@ Flows through the entire play, from the first price read to the endless swing it
 ## Load Bearing
 
 Without it there are only parts: a price, a delay, a swing, with no name for the loop that ties each overshoot to the next.
-With it the parts become one standing cycle: a true price read on a lag draws a synchronised response that overshoots into a swing, and each swing hands the producers the next extreme to read, so the market turns boom to bust to boom without a shock to drive it. The Cobweb is load bearing because it is the phenomenon entire (Ezekiel; Hanau): the self-perpetuating oscillation of a lagged market whose producers plan on the current price, named for the spiral it traces between the supply and demand curves, kept alive by the very soundness of each response. So the piece carries the whole trap, the closed loop in which answering the price truly is what keeps the price swinging, broken only by planning on the price to come.
+With it the parts become one cycle: a true price read on a lag draws a synchronised response that overshoots into a swing, and each swing hands the producers the next extreme to read, so the market can turn boom to bust to boom without a shock to drive it. The Cobweb is load bearing because it is the phenomenon entire (Ezekiel; Hanau): the oscillation of a lagged market whose producers plan on the current price, named for the spiral it traces between the supply and demand curves, and, where the slopes do not damp it, kept alive by the very soundness of each response. So the piece carries the whole trap, the closed loop in which, in that case, answering the price truly is what keeps the price swinging, stilled then only by planning on the price to come.
 
 ## Apparent
 
 Just a volatile market, one that happens to boom and bust by turns.
-Seen at the surface, the Cobweb looks like a run of good and bad years, a market buffeted by fortune, and the truth that it is a mechanism, that the swing is self-made and self-sustaining, that the cycle needs no shock because each sound response feeds the next, that it will turn forever until someone stops chasing the price, stays hidden behind how much a self-driven loop looks like plain volatility.
+Seen at the surface, the Cobweb looks like a run of good and bad years, a market buffeted by fortune, and the truth that it is a mechanism, that the swing is self-made and self-sustaining, that the cycle needs no shock because each sound response feeds the next, that where the slopes do not damp it the swing does not settle on its own but turns until someone stops chasing the price, stays hidden behind how much a self-driven loop looks like plain volatility.
 
 ## Yearbook
 

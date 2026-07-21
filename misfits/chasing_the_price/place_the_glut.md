@@ -37,4 +37,4 @@ Here the low price is real and the retreat correct, so the Glut offers sound ind
 ## Withheld
 
 Withholds the fact that the crash was self-inflicted.
-What the Glut hides is that the flood drowning the price is the market's own answer to the last high price, so the signal now screaming retreat was made by the very response it is punishing, and the small planting it now tempts will, shared by all, become the next dearth as surely as the last boom became this bust.
+What the Glut hides is that the flood drowning the price is the market's own answer to the last high price, so the signal now screaming retreat was made by the very response it is punishing, and the small planting it now tempts will, shared by all, become the next dearth just as the last boom became this bust.

@@ -34,9 +34,9 @@ Does what a producer who has seen the pattern does: forecasts the price their pe
 
 ## Shadow
 
-Not a seer, but the one whose correct forecast costs them in every season the crowd's mistiming happens to pay, and that is the bind: to still the swing they must plant against the plainest evidence, and evidence is persuasive.
-Because the Steady Hand forgoes the current price for a predicted one, they plant small in a boom that, for a year, rewards the big planters, and large in a slump that, for a year, punishes them, so the discipline that would break the cycle looks in each moment like stubbornness against a market plainly saying otherwise.
-The forecast is right over the cycle and wrong-looking in the season, so the one who would end the swing is the one who must bear looking foolish while it lasts, and, if too few join them, bear it without even damping the swing they planted against.
+Not a seer, but the one who must hold a nerve the market spends every season trying to break, and that is the bind: the evidence is always against them in the moment, and being proved right a year on is cold comfort against a season of looking wrong.
+The doubt is the hardest part. Each boom that rewards the big planters is a season the Steady Hand watches their own forecast look foolish, and no forecast feels certain while the going price shouts the opposite, so the discipline is less a calculation than a refusal to flinch, held against the market and their own second thoughts at once.
+What wears on them is not the arithmetic but the solitude of it: to plant on a number no one else can see, through the seasons it does not pay, and to keep faith with it when caving would be so easy and, for a year, so plainly rewarded.
 
 ## Tell
 

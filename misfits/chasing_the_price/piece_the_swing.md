@@ -27,7 +27,7 @@ Flows as the alternation of glut and dearth, the price flung past equilibrium fi
 ## Load Bearing
 
 Without the Swing the lag would be harmless: a mistimed plan would miss the mark by a little and the market would settle.
-With it the miss is amplified into a cycle: the Swing is the overshoot the synchronised response produces (Kaldor; Hanau), the price crashing under everyone's big crop and spiking under everyone's small one, its amplitude set by how sharply supply answers price against how sharply demand does. The Swing is load bearing because it is the shape the trap takes, the boom and bust that a true signal read on a lag and answered in chorus must produce, so the piece carries the outcome of the cycle, the price thrown far past the mark that a well-timed market would have found.
+With it the miss becomes a cycle whose amplitude can hold, grow, or shrink by how sharply supply answers price against how sharply demand does: the Swing is the overshoot the synchronised response produces, seen in the hog cycle (Hanau) and classified by those slopes (Kaldor), the price crashing under everyone's big crop and spiking under everyone's small one. The Swing is load bearing because it is the shape the trap takes, the boom and bust that a true signal read on a lag and answered in chorus produces where the slopes do not damp it, so the piece carries the outcome of the cycle, the price thrown past the mark that a well-timed market would have found.
 
 ## Apparent
 

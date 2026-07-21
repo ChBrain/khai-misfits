@@ -37,4 +37,4 @@ Here the high price is real and the response correct, so the Dearth offers sound
 ## Withheld
 
 Withholds the fact that the signal is shared.
-What the Dearth hides is that the price each grower reads privately is read by all of them together, so the plan that is right for one is ruinous for the sum, and the strong signal that rewards planting is precisely the signal that, answered in chorus, guarantees the glut that will punish it.
+What the Dearth hides is that the price each grower reads privately is read by all of them together, so the plan that is right for one is ruinous for the sum, and the strong signal that rewards planting is precisely the signal that, answered in chorus, sets up the glut that will punish it.

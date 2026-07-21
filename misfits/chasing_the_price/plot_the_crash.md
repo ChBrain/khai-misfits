@@ -30,7 +30,7 @@ A flood of supply arriving into a market whose want has not grown, the plan made
 
 ## Stage
 
-[The Grower](persona_the_grower.md)'s harvest meets [the Buyer](persona_the_buyer.md)'s fixed want, and [the price](piece_the_price.md) falls to whatever will empty the market, turning the high price into [the swing](piece_the_swing.md)'s crash.
+[The Grower](persona_the_grower.md)'s harvest meets [the Buyer](persona_the_buyer.md), on [Buy What Comes](plan_buy_what_comes.md), whose fixed want prices the flood, and [the price](piece_the_price.md) falls to whatever will empty the market, turning the high price into [the swing](piece_the_swing.md)'s crash.
 The crop is exactly what the old price called for, and it arrives to spoil the price by arriving all together.
 
 ## Tension
