@@ -34,13 +34,13 @@ informal from the start and denied rather than entrenched in office.
 
 The phenomenon in theory, and the research spine beneath it.
 
-| Source                 | Key Work / Event                                                                              | Scope                                                                                                                                                                                                                                                                |
-| ---------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Jo Freeman**         | "The Tyranny of Structurelessness" (_The Second Wave_; _Berkeley Journal of Sociology_, 1972) | **The origin and the name**: refusing formal structure does not abolish power but drives it into an informal, unaccountable elite, harder to check than a named hierarchy, and the remedy is democratic structuring. The play's governing law. The Hidden Hierarchy. |
-| **George C. Homans**   | _The Human Group_ (1950)                                                                      | **The impossibility**: every human group develops an internal system of norms, status, and roles, so a structureless group cannot exist and the only choice is formal structure or informal. The Openness.                                                           |
-| **Robert Michels**     | _Political Parties_ (1911), the iron law of oligarchy                                         | **The oligarchy**: even organisations founded on democracy tend to concentrate power in a few, the formal-organisation cousin of the informal elite, power gathering to a minority whatever the professed equality. The Sway.                                        |
-| **Jane Mansbridge**    | _Beyond Adversary Democracy_ (1980)                                                           | **The informal domination**: in consensus and unitary settings the articulate, confident, and well-connected come to dominate, informal inequalities of power operating through friendship and status rather than the vote. The Sway.                                |
-| **Francesca Polletta** | _Freedom Is an Endless Meeting: Democracy in American Social Movements_ (2002)                | **The recurrence**: participatory-democracy movements repeatedly generate unaccountable informal hierarchies built on friendship, the tyranny of structurelessness recurring across cases rather than marking one group's failure. The Hidden Hierarchy.             |
+| Source                 | Key Work / Event                                                                                       | Scope                                                                                                                                                                                                                                                                                                         |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Jo Freeman**         | "The Tyranny of Structurelessness" (_The Second Wave_, 1972; _Berkeley Journal of Sociology_, 1972-73) | **The origin and the name**: refusing formal structure does not abolish power but drives it into an informal, unaccountable elite, harder to check than a named hierarchy, and the remedy is democratic structuring. The play's governing law. The Hidden Hierarchy.                                          |
+| **George C. Homans**   | _The Human Group_ (1950)                                                                               | **The impossibility**: every human group develops an internal system of norms, status, and roles, so a structureless group cannot exist and the only choice is formal structure or informal. The Openness.                                                                                                    |
+| **Robert Michels**     | _Political Parties_ (1911), the iron law of oligarchy                                                  | **The oligarchy**: even organisations founded on democracy tend to concentrate power in a few, the formal-organisation cousin of the informal elite, power gathering to a minority whatever the professed equality, a parallel case rather than the cause of the friendship-based sway. A cousin to The Sway. |
+| **Jane Mansbridge**    | _Beyond Adversary Democracy_ (1980)                                                                    | **The informal domination**: in consensus and unitary settings the articulate, confident, and well-connected come to dominate, informal inequalities of power operating through friendship and status rather than the vote. The Sway.                                                                         |
+| **Francesca Polletta** | _Freedom Is an Endless Meeting: Democracy in American Social Movements_ (2002)                         | **The recurrence**: participatory-democracy movements repeatedly generate unaccountable informal hierarchies built on friendship, the tyranny of structurelessness recurring across cases rather than marking one group's failure. The Hidden Hierarchy.                                                      |
 
 ## Restrictions
 
@@ -56,10 +56,12 @@ What the house refuses to model, and how it credits what it stages.
   the insider who filled it.
 - **No hero**: the play refuses to resolve the misfit into an openness that stays open by good faith. The one move that
   would make the power answerable is to formalise the structure, to build the offices, rules, and votes that name who
-  decides and let them be checked, but that rebuilds the very hierarchy the group formed to escape and trades the prized
-  openness for accountability, so it is refused, or resented, as a betrayal of the ideal. The reckoning is a structure
-  named and checkable at the cost of the openness, or an openness kept at the cost of a power no one can reach, not a way
-  to have the open floor and the answerable leader at once, so the cure for a hidden hierarchy is the loss of the very
+  decides and let them be checked, but to those who fled hierarchy that looks like rebuilding the thing they left, so it
+  is refused, or resented, as a betrayal of the ideal, even though the democratic structuring the source proposes,
+  delegated, rotated, and accountable, is meant to serve the equality structurelessness only promised rather than to
+  restore the domination they fled. The reckoning is a structure named and checkable at the cost of the group's prized
+  structurelessness, or that structurelessness kept at the cost of a power no one can reach, not a way to have an
+  unstructured floor and an answerable leader at once, so the cure for a hidden hierarchy is the loss of the very
   structurelessness the group was built to protect.
 - **Credit, not claim**: the research above is other people's work, packaged and attributed here, never claimed as the
   house's, and its reach is not overstated. The staging is the house's; the tyranny of structurelessness and its remedy
@@ -75,7 +77,7 @@ Source to constraint, per element.
 
 - **[The Openness](piece_the_openness.md)**: carries the ideal the refusal means to protect (Freeman; Homans), the
   equal, unstructured floor that a structureless group cannot in fact sustain.
-- **[The Sway](piece_the_sway.md)**: carries the informal power that fills the vacuum (Mansbridge; Michels), the
+- **[The Sway](piece_the_sway.md)**: carries the informal power that fills the vacuum (Mansbridge), the
   influence gathered by friendship and confidence rather than by any vote.
 - **[The Disclaimer](piece_the_disclaimer.md)**: carries the denial of leadership that shields the elite (Freeman), the
   sincere claim that no one is in charge which armours the ones who are.

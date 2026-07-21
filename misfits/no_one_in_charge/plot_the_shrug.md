@@ -30,7 +30,7 @@ An informal power that has steered the group, and a group that holds, sincerely,
 
 ## Stage
 
-[The Insider](persona_the_insider.md), holding [the sway](piece_the_sway.md), says in perfect honesty that they hold no office and lead no one, so [the disclaimer](piece_the_disclaimer.md) turns the absence of a title into a shield around the influence.
+[The Insider](persona_the_insider.md), on [Keep It Informal](plan_keep_it_informal.md), holding [the sway](piece_the_sway.md), says in perfect honesty that they hold no office and lead no one, so [the disclaimer](piece_the_disclaimer.md) turns the absence of a title into a shield around the influence.
 The denial is true and it is total, the leader who holds no post able to disown leading with nothing false to expose.
 
 ## Tension

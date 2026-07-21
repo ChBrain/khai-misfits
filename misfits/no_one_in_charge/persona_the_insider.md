@@ -34,9 +34,9 @@ Does what a well-placed person does: uses the relationships they have to move th
 
 ## Shadow
 
-Not a schemer, but the one whose real power is protected by the very fact that it is unofficial, and that is the quiet of it: they hold no office, so they can hold no blame, and the sway is theirs precisely because no one voted it to them.
-Because the Insider leads without a title, they cannot be voted out, questioned as a leader, or held to a leader's account, and when asked they can say in perfect honesty that they are not in charge, so the informal power is not only real but armoured, safer than any office because it can be truthfully denied.
-The influence is genuine and the deniability is genuine, so the one who leads the group is the one who can least be called its leader, unaccountable not despite holding no office but because of it.
+Not a schemer, but the one who need never quite admit to themselves what they hold, and that is the quiet of it: they sought no office and can point to none, so they can tell themselves, in perfect truth, that they are just one of the group, the same as anyone.
+And that self-description is where the complicity hides. Because the power came to them unasked, through friendship and being present, they feel no author of it and no keeper of it, and "I never wanted to be in charge" becomes both entirely honest and the very thing that lets them go on being in charge without the discomfort of owning it.
+The influence is genuine and so is the innocence, so the one who most steers the group is the one most able to believe they do not, at ease in a power they never have to see as power, and so never have to answer to themselves for.
 
 ## Tell
 

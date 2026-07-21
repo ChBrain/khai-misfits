@@ -21,8 +21,8 @@ stamp:
 
 ## Initiated by
 
-[The Outsider](persona_the_outsider.md), at [the Impasse](place_the_impasse.md), finding no route in and no one to hold, meeting the wall for the first time.
-Begins when someone outside the network seeks entry or an accountable answer and discovers there is neither, the exclusion felt by the one who runs into it.
+The informality of the door itself, at [the Impasse](place_the_impasse.md), admitting only those already inside.
+Begins when someone outside the network seeks entry or an accountable answer and finds neither, the shutting-out done by the structure and merely met by [the Outsider](persona_the_outsider.md) who runs into it.
 
 ## Direction
 

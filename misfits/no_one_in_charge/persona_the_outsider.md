@@ -34,9 +34,9 @@ Does what a shut-out member does: asks who decided this and how one joins the de
 
 ## Shadow
 
-Not a malcontent, but the one whose exclusion is invisible because the group believes its floor is open, and that is the bind: they are kept out by a structure no one admits exists, so their very complaint sounds like sour grapes against a group that has no leaders to resent.
-Because the Outsider faces an informal elite with no formal door, they cannot earn their way in by any rule or unseat anyone by any vote, and cannot even make the case that they are excluded, since the group's sincere belief in its openness makes the wall unnameable, felt by the one outside and denied by everyone in.
-The exclusion is real and it is deniable, so the one shut out of an open group is the one with no lever to open it, barred by a hierarchy that answers every objection with the truth that it does not exist.
+Not a malcontent, but the one whose own certainty starts to give way under the group's sincere denials, and that is the bind: told again and again, in good faith, that the floor is open and no one leads, they begin to wonder whether the wall they feel is real or whether they are simply the difficult one, unwelcome for reasons of their own.
+The doubt does its own work. Each time the complaint meets not a defence but a puzzled, honest denial, it sounds a little more like sour grapes, even in their own ears, so the Outsider comes to distrust their read of the room, half-persuaded that a group this plainly well-meaning cannot really be shutting them out.
+What isolates them is not only the closed door but the second-guessing it breeds: the one who cannot get in is also the one talked out of believing there is an inside, kept quiet less by rejection than by the creeping suspicion that the exclusion is all in their head.
 
 ## Tell
 

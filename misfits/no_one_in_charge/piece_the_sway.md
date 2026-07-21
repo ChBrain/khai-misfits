@@ -27,7 +27,7 @@ Flows to the trusted, the articulate, and the available, the actual steering of 
 ## Load Bearing
 
 Without the Sway the refusal would leave a real emptiness, and the group would simply fail to act.
-With it the vacuum is filled: the Sway is the informal influence that forms where formal power was refused (Mansbridge; Michels), the deciding that flows to the well-placed because the work must go somewhere and there is no other channel. The Sway is load bearing because it is the power the group swore it had abolished, real and unequal and gathered by no election, so the piece carries the substance of the trap, the authority that is none the less authority for having no name, no office, and no vote behind it.
+With it the vacuum is filled: the Sway is the informal influence that forms where formal power was refused (Mansbridge), the deciding that flows to the well-placed because the work must go somewhere and there is no other channel. The Sway is load bearing because it is the power the group swore it had abolished, real and unequal and gathered by no election, so the piece carries the substance of the trap, the authority that is none the less authority for having no name, no office, and no vote behind it.
 
 ## Apparent
 
