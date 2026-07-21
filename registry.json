@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.118.0",
+  "version": "0.119.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -272,6 +272,12 @@
       "id": "social_loafing",
       "title": "Social Loafing",
       "description": "In a group each pulls a little softer, because effort blends into the pool and no single hand can be seen to slack."
+    },
+    {
+      "kind": "misfit",
+      "id": "someone_will_catch_me",
+      "title": "Someone Will Catch Me",
+      "description": "The rescue is certain, so no one builds a footing, and the kindness that will always catch you keeps you falling."
     },
     {
       "kind": "misfit",
