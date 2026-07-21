@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.105.0",
+  "version": "0.106.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -392,6 +392,12 @@
       "id": "the_extra_road",
       "title": "The Extra Road",
       "description": "A road added to ease the jam draws everyone onto it, and the whole network slows: more capacity, less flow."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_file_drawer",
+      "title": "The File Drawer",
+      "description": "Only the studies that worked reach the record, so science reads surer than it is, its failures unseen in the drawer."
     },
     {
       "kind": "misfit",
