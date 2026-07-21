@@ -37,10 +37,11 @@ spent, a backward-looking error that the sunk cost should have been ignored to a
 and correct, the smaller loss chosen not because of what was spent but because the all-pay rule makes the next bid
 worth its cost, and the trap needs two parties and no fallacy required, so where Good Money After Bad is irrational
 persistence, the dollar auction is step-wise rational escalation. It is distinct too from The Winning Bid, where the winner's
-curse has the winner overpay because they most overestimated a prize of uncertain common value: here the prize's
-value is known exactly, a dollar is a dollar, and no one misjudges it, the overpayment driven entirely by the all-pay
-structure and not by any error of estimation, so the two paradoxes overpay for opposite reasons, one from a
-misjudged value and the other from a rule that punishes coming second.
+curse has the winner overpay because, among honest estimates of an uncertain common value, theirs ran highest and
+won the prize: here the prize's value is known exactly, a dollar is a dollar, and no one estimates it at all, the
+overpayment driven entirely by the all-pay structure and not by a value that could only be guessed, so the two
+paradoxes overpay for opposite reasons, one from a value known only by estimate and the other from a rule that
+punishes coming second.
 
 ## Origin
 
