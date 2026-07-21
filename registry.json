@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.109.0",
+  "version": "0.110.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -32,6 +32,12 @@
       "id": "belt_and_braces",
       "title": "Belt and Braces",
       "description": "Each backup added for safety adds coupling, a shared cause, and shirking, so more redundancy can lower reliability."
+    },
+    {
+      "kind": "misfit",
+      "id": "bootleggers_and_baptists",
+      "title": "Bootleggers and Baptists",
+      "description": "A sincere moralist and a quiet profiteer back the same rule for opposite reasons, and a bad law cannot be repealed."
     },
     {
       "kind": "misfit",
