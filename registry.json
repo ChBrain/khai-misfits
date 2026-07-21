@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.120.0",
+  "version": "0.121.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -182,6 +182,12 @@
       "id": "nothing_to_lose",
       "title": "Nothing to Lose",
       "description": "An actor whose harm tops its assets treats the excess as free, so it under-guards and the largest harms go undeterred."
+    },
+    {
+      "kind": "misfit",
+      "id": "only_the_close_ones",
+      "title": "Only the Close Ones",
+      "description": "The clear cases settle, so only the toss-ups are tried, so the trial record comes out near even and means little."
     },
     {
       "kind": "misfit",
