@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Fine Print](place_the_fine_print.md), a term no one reads and a rival who will move it.
+[The Fine Print](place_the_fine_print.md), a term almost no one reads and a rival who will move it.
 A non-salient clause sitting unpoliced, and a market that rewards the lower price the clause can fund.
 
 ## Action
