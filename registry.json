@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.121.0",
+  "version": "0.122.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -164,6 +164,12 @@
       "id": "no_one_in_charge",
       "title": "No One in Charge",
       "description": "A group that refuses leaders does not abolish power but hides it in an informal elite no one can hold to account."
+    },
+    {
+      "kind": "misfit",
+      "id": "nobody_reads_it",
+      "title": "Nobody Reads It",
+      "description": "Reading the terms costs more than it saves, so few read them, nothing polices them, and they drift to the drafter."
     },
     {
       "kind": "misfit",
