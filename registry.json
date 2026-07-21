@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.112.0",
+  "version": "0.113.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -296,6 +296,12 @@
       "id": "the_beauty_contest",
       "title": "The Beauty Contest",
       "description": "Paid to guess what the room will guess, price tracks opinion about opinion and floats free of a thing's worth."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_best_on_paper",
+      "title": "The Best on Paper",
+      "description": "Pick the highest-scoring option and you pick the one whose estimate ran luckiest, so it tends to disappoint."
     },
     {
       "kind": "misfit",
