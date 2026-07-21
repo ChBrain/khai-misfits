@@ -31,7 +31,7 @@ The layer that solved a problem does not stop costing when it stops earning: its
 
 ## Lever
 
-The permanence of complexity, which is easy to raise and all but impossible to retire.
+The permanence of complexity, which is easy to raise and seldom retired.
 Because the society has a method for adding structure and none for shedding it, the upkeep can only accumulate, so accruing works by ratchet, each layer joining a total that grows and does not shrink, its lever the absence of any mechanism for subtraction.
 
 ## Echo

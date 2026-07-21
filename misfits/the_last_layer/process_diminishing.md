@@ -21,7 +21,7 @@ stamp:
 
 ## Initiated by
 
-The strategy's own success, spending the best solutions first.
+The strategy's own success at [the frontier](place_the_frontier.md), spending the best solutions first.
 Begins as soon as the cheap, high-return layers are taken, since what remains is dearer and less rewarding, so the very act of solving the easy problems sets the return on the next ones falling.
 
 ## Direction
@@ -32,9 +32,9 @@ The society goes on answering problems the same way, but because the easiest and
 ## Lever
 
 The order in which problems are solved.
-Because a society reaches for its cheapest effective solution first, every later solution is drawn from a poorer stock, so diminishing needs no mistake and no decline in skill to work, only the sequence itself, its lever the plain fact that the best is taken before the rest.
+Because a society reaches for its cheapest effective solution first, every later solution is drawn from a poorer vein, so diminishing needs no mistake and no decline in skill to work, only the sequence itself, its lever the plain fact that the best is taken before the rest.
 
 ## Echo
 
 The method outlives the point where it pays.
-The echo of diminishing is a strategy applied past its own peak: the return on more complexity falls toward zero and through it, but the society, having no other method, keeps adding layers whose yield no longer covers their cost, solving problems at a loss because solving is all it knows how to do.
+The echo of diminishing is a strategy applied past its own peak: the return on more complexity falls below its cost, but the society, having no other method, keeps adding layers whose yield no longer covers their cost, solving problems at a loss because solving is all it knows how to do.

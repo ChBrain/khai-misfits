@@ -34,7 +34,7 @@ Does what a capable administrator does: sees a problem, builds the apparatus tha
 
 ## Shadow
 
-Not a blunderer, but the first mover on a strategy that pays less every time it is used, and that is the quiet of it: the layer that solves the problem also joins the standing weight, and the method that works today is the method that cannot be stopped tomorrow.
+Not a blunderer, but the first mover on a strategy that pays less every time it is used, and that is the quiet of it: the layer that solves the problem also joins the standing weight, and the method that works today is the method not stopped tomorrow.
 Because the Administrator meets each problem by adding complexity and each solution is kept and fed thereafter, the apparatus only grows, and the returns that are huge at the start fall as the easy problems are used up, so the very success of the early layers is what commits the society to a strategy whose margin bends toward zero.
 The solution is sound and it is permanent, so the administrator who solves the problem well is the one who lays the first stone of a weight no later hand can lift.
 

@@ -23,7 +23,7 @@ stamp:
 
 A mandate to solve problems, and the means to raise structure against them.
 An institutional reflex: the seat exists to meet difficulties, and the tool it holds is complexity, so every problem that arrives is answered by creating an office, a rule, a tier, or a work that had not been there before.
-No mechanism for subtraction, since the seat is designed to add capacity and has no instrument for removing it, only for building more.
+No habit of subtraction, since the seat is built to add capacity and reaches for no instrument to remove it, only to build more.
 
 ## Orders
 
@@ -33,12 +33,12 @@ Answer the next problem the same way, since the method is proven and the seat ha
 
 ## Loses
 
-The power to shed what it has built, which no problem-solving seat is equipped to hold.
-An office raised to solve a problem outlives the problem: it acquires a staff, a budget, and a purpose of its own, and the seat that could create it in a day has no procedure to dissolve it in a year, so the apparatus is a ratchet, able to grow and unable to shrink.
-What the seat forfeits is reversibility: built only to add capacity, it cannot register that a layer has stopped earning or remove one that has, so the structure accumulates past every point of use, and the seat that solves problems becomes the seat that cannot stop solving them.
+The power to shed what it has built, which a problem-solving seat holds in principle and never exercises.
+An office raised to solve a problem outlives the problem: it acquires a staff, a budget, and a purpose of its own, and the seat that could create it in a day has no procedure it will use to dissolve it in a year, so the apparatus is a ratchet the office turns only one way, growing and, in its hands, never shrinking.
+What the seat forfeits is reversibility: built to add capacity, it is not equipped to register that a layer has stopped earning and will not be the seat to remove one that has, so the structure accumulates past every point of use, and the seat that solves problems becomes the seat that does not stop solving them.
 
 ## Drives
 
 Toward an apparatus that only ever grows,
-and a standing structure no office can rescind,
+and a standing structure no office moves to rescind,
 so the seat built to add and never to subtract is the one that carries the society's complexity past the point where any of it can be put down.

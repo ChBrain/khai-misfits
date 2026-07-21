@@ -27,7 +27,7 @@ Flows through the entire play, from the first cheap layer that pays enormously t
 ## Load Bearing
 
 Without it there are only parts: a layer, a return, an upkeep, with no name for the shape they make across the whole life of a society.
-With it the parts become one trajectory: complexity rises in return, plateaus as the easy solutions are spent, goes negative as upkeep outruns yield, and drops by collapse to a simpler level the base will support. The Descent is load bearing because it is the phenomenon entire (Tainter; Renfrew): the arc of a problem-solving strategy carried past its own peak until the society cannot afford its apparatus and simplifies by falling, a rapid transformation to lower complexity that for those who stop paying is an economy and not a catastrophe, so the piece carries the whole trap, the curve from cheap solution to unpayable weight to the drop that clears it.
+With it the parts become one trajectory: complexity rises in return, plateaus as the easy solutions are spent, falls below its upkeep as the dear ones remain, and drops by collapse to a simpler level the base will support. The Descent is load bearing because it is the phenomenon entire (Tainter; Renfrew): the arc of a problem-solving strategy carried past its own peak until the society cannot afford its apparatus and simplifies by falling, a rapid transformation to lower complexity that for those who stop paying is an economy and not a catastrophe, so the piece carries the whole trap, the curve from cheap solution to unpayable weight to the drop that clears it.
 
 ## Apparent
 

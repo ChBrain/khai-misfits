@@ -29,13 +29,13 @@ A standing choice, since the seat can direct its surplus to the apparatus, to a 
 
 Fall away.
 Weigh the levy against what the levy buys, and support the apparatus while it returns order and defence worth the surplus given up, but no longer than that.
-Withdraw when the return goes negative, because the seat owes nothing to a structure that takes more than it gives, and a nearer or a smaller order that costs less is the sounder bargain.
+Withdraw when the return to the base goes negative, because the seat owes nothing to a structure that takes more than it gives, and a nearer or a smaller order that costs less is the sounder bargain.
 
 ## Loses
 
-Nothing it means to lose, and yet its withdrawal is what the whole cannot survive.
-The seat at the edge is furthest from the apparatus and feels its benefit last and its cost first, so as the return thins the Margin is the position for which staying stops paying soonest, and its support is the support the centre most depends on and least secures.
-What the seat forfeits is not its own footing but the centre's: by declining to feed an apparatus that has stopped returning, the Margin keeps its surplus and lets the whole go, so the position that loses least in the fall is the one whose ordinary economising sets the fall in motion.
+The one thing a funding seat should hold: a say in what it is made to fund.
+The Margin sits at the base of the apparatus and at no table where the levy is set or the layers are chosen, so it is drawn on by the Treasury without a voice in the drawing, made to feed decisions it had no part in and cannot revise.
+What the seat forfeits is every instrument short of exit: with no formal channel to renegotiate the levy or refuse a layer, the position at the edge can enter its verdict only by ceasing to pay, so the seat with the least standing in the apparatus is the one left holding the single lever that brings the apparatus down.
 
 ## Drives
 
