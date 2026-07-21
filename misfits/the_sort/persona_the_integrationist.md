@@ -34,9 +34,9 @@ Does what a person who values integration does: names the drift, argues for the 
 
 ## Shadow
 
-Not a tyrant, but the one whose only working remedy is coercion of the blameless, and that is the bind: to keep the street mixed is to override the tolerant wish of every resident, so the defender of the mix must become the constrainer of freedom or watch the sort proceed.
-Because the Integrationist sees the whole and holds no lever over the parts, they can prevent the sort only by holding the composition off the threshold, which no persuasion achieves because no resident is doing wrong, so the good aim runs into a cost it cannot avoid, a limit on lawful choice.
-The aim is decent and the lever is coercive, so the one who most wants the mixed street is the one forced to choose between constraining innocent moves and letting the city sort, no third path on offer.
+Not a tyrant, but a reformer who cannot bear what their own remedy would make of them, and that is the bind felt from the inside: they entered this to open the neighbourhood, not to police it, and want to believe there is a way to keep the mix that asks nothing of anyone.
+So they reach, and keep reaching, for the gentle lever, an appeal, a campaign, a case that would move people who are already free and already blameless, and each time it comes up empty the discomfort sharpens, because the only thing left is the one thing they set out to be the opposite of.
+The self-image is what gives way: the champion of the open street, followed to its end, is its warden, so the one who most wants the mix carries the private, unwelcome knowledge that wanting it decently is not the same as being able to keep it with clean hands.
 
 ## Tell
 

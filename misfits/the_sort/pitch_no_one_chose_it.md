@@ -37,4 +37,4 @@ The nerve is that no one is a bigot and no one chose the line, yet the line is d
 ## Echo
 
 The only thing that keeps the street mixed is a constraint on the freedom that sorted it.
-What lingers is that the remedy has a price no free society pays easily: holding the mix off the threshold means telling tolerant people where they may and may not move, so the mixed street survives only by force against the mild, lawful preference that, left free, sorts the city every time.
+What lingers is that the remedy has a price no free society pays easily: holding the mix off the threshold means telling tolerant people where they may and may not move, so the mixed street survives only by force against the mild, lawful preference that, left free, is enough to sort the city.

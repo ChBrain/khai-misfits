@@ -34,8 +34,8 @@ Fill, because an empty spot is unstable and the neighbourhood resolves it by occ
 ## Loses
 
 Neutrality, which no filled seat can keep.
-A vacancy opened by a departure sits in a block already a little more one-sided, so the occupant it fits is of the kind that departure left behind, and filling the seat with them tilts the block further, drawing the next vacancy toward the same kind.
-What the seat forfeits is any settling that does not propagate: because it can be filled only by someone, and someone is always of one kind, the Vacancy converts a departure into a further tilt no matter who takes it, so the opening that looks like a free choice for whoever arrives is a step in the sort whichever way it is filled.
+Whoever takes the spot counts to one side or the other, so there is no occupant whose arrival leaves the block's balance exactly as it was, and the seat has no way to be filled that holds the mix in place.
+What the seat forfeits is any settling that does not move the balance: because it must be filled by someone and someone always tips the count, the Vacancy shifts the block whichever way it is taken, so the opening that looks like a free choice for whoever arrives is, structurally, a move of the mix no matter who arrives.
 
 ## Drives
 

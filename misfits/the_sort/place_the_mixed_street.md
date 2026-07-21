@@ -37,4 +37,4 @@ Here the integration is real and no one is constrained, so the block looks like 
 ## Withheld
 
 Withholds the threshold, invisible while the mix sits above it.
-What the Mixed Street hides is that its balance is perched, not anchored: every resident's tolerance has a line beneath it, and the street stays mixed only while the composition stays clear of every line, so the harmony on show is one move away from a slope it cannot climb back up.
+What the Mixed Street hides is that its balance is perched, not anchored: every resident's tolerance has a line beneath it, and the street stays mixed only while the composition stays clear of every line, so where a line sits close the harmony is one move from a slide that, once it starts, does not climb back on its own.

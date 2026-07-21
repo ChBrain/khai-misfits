@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[The Sort](play_the_sort.md). The discontinuity, a block crossing its threshold and flipping from a stable mix to a one-sided rout that does not reverse.
+[The Sort](play_the_sort.md). The discontinuity, a block crossing its threshold and flipping from a stable mix to a one-sided state that, once underway, settles rather than reverting.
 
 ## Owner
 
@@ -36,5 +36,5 @@ Because content turns to departure at a line rather than by degrees, tipping nee
 
 ## Echo
 
-A block emptied of one kind and set in the other, past return.
-The echo of tipping is a segregated block where a mixed one stood, and no composition between the two that holds, so once a block has tipped it sets, and the local flip becomes one more tile in a map that no single tip could show and no tip meant to draw.
+A block emptied of one kind and set in the other, at rest where it lands.
+The echo of tipping is a segregated block where a mixed one stood, and once the moves have run out no one left wants to leave, so the tipped block sets, and the local flip becomes one more tile in a map that no single tip could show and no tip meant to draw.

@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The Turning Block](place_the_turning_block.md), a block sitting right at its tip point.
-A vacancy open in a street that has already thinned, the mix poised on the line from which it will not return.
+A vacancy open in a street that has already thinned, the mix poised on the line from which, once it tips, it will not return on its own.
 
 ## Action
 

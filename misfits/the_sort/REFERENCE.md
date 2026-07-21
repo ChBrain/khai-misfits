@@ -6,7 +6,7 @@ updated: "2026-07-21"
 
 The research warrant for [The Sort](play_the_sort.md).
 The dynamic is Schelling's tipping: the spatial model of segregation, the tip point it turns on, the checkerboard
-that first simulated it, the threshold mathematics that generalises it, and the empirical test that shows the
+that simulated it, the threshold mathematics that generalises it, and the empirical test that shows the
 preferences are real and mild, all cited below.
 
 ## Line of Work
@@ -20,14 +20,14 @@ models the documented mechanics, the mild preference that is the whole of what a
 inside it, the local mix that each move shifts, and the tipping by which tolerant micro-wishes compose into a stark
 macro-segregation, as the load-bearing vectors of the structure, not as a tale of bigotry or design. The governing
 finding of the source is the play's governing law: individually mild and tolerant preferences over local composition
-aggregate, through a tipping threshold, into a segregation no one intended or preferred, the macro-pattern
-discontinuous in a smooth change of taste, so the separated map is an emergent sum and not a chosen end.
+can aggregate, through a tipping threshold, into a segregation no one intended or preferred, the outcome turning on
+where the threshold sits, so that preferences mild enough for a mixed street to satisfy can still sort a city, the
+macro-pattern discontinuous in a smooth change of taste and the separated map an emergent sum, not a chosen end.
 
 It is distinct from the house's The Tyranny of Small Decisions, where many self-regarding choices, each about one's
-own consumption, sum to an aggregate no one set because nothing ever decides the whole: there the preferences are
-about oneself and the failure is a missing collective choice, while here the preferences are about the composition of
-one's neighbours and the engine is a tipping threshold that turns a smooth, tolerant wish into a discontinuous, sorted
-macro-state. It is distinct too from Information Cascade, where each agent herds on the actions of others and discards
+own consumption, sum to an aggregate no one set because nothing ever decides the whole: there the failure is a
+missing point of collective choice, while here, though each resident's wish is equally their own, the engine is a
+tipping threshold that turns a smooth, tolerant preference into a discontinuous, sorted macro-state. It is distinct too from Information Cascade, where each agent herds on the actions of others and discards
 their own private signal, so the outcome is informational and imitative: here each resident acts on their own stable
 preference and copies no one, and the aggregation is spatial and threshold-driven, a sort produced by independent mild
 wishes rather than a cascade of imitation.
@@ -36,13 +36,13 @@ wishes rather than a cascade of imitation.
 
 The phenomenon in theory, and the research spine beneath it.
 
-| Source                  | Key Work / Event                                                                                                              | Scope                                                                                                                                                                                                                                                                  |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Thomas C. Schelling** | "Dynamic Models of Segregation" (_Journal of Mathematical Sociology_, 1971); _Micromotives and Macrobehavior_ (1978)          | **The origin and the thesis**: mild individual preferences over the local mix aggregate, through a tipping threshold, into a stark segregation no one intended, the macro-pattern nothing like the micro-motive that drove it. The play's governing law.               |
-| **Morton Grodzins**     | "Metropolitan Segregation" (_Scientific American_, 1957); _The Metropolitan Area as a Racial Problem_ (1958)                  | **The tip point**: the share past which a neighbourhood's majority departs and the area flips from one kind to the other, the threshold at which content turns to a rout, named before Schelling formalised its dynamics. The Threshold.                               |
-| **James M. Sakoda**     | "The Checkerboard Model of Social Interaction" (_Journal of Mathematical Sociology_, 1971)                                    | **The board**: the checkerboard of agents who read their local neighbours and move when unsatisfied, the cellular model that first simulated the sort, developed alongside Schelling's. The Mix.                                                                       |
-| **Mark Granovetter**    | "Threshold Models of Collective Behavior" (_American Journal of Sociology_, 1978)                                             | **The threshold cascade**: the general mathematics of a collective in which each acts once a threshold fraction of others has, so a smooth spread of thresholds yields a discontinuous jump in the aggregate, the tipping generalised beyond segregation. The Tipping. |
-| **W. A. V. Clark**      | "Residential Preferences and Neighborhood Racial Segregation: A Test of the Schelling Segregation Model" (_Demography_, 1991) | **The mild preference**: the empirical test showing that observed, moderate residential preferences, not a taste for separation, are enough to drive the sort, so the segregation follows from mild and lawful wishes and not from bigotry. The Preference.            |
+| Source                  | Key Work / Event                                                                                                              | Scope                                                                                                                                                                                                                                                                                  |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Thomas C. Schelling** | "Dynamic Models of Segregation" (_Journal of Mathematical Sociology_, 1971); _Micromotives and Macrobehavior_ (1978)          | **The origin and the thesis**: mild individual preferences over the local mix aggregate, through a tipping threshold, into a stark segregation no one intended, the macro-pattern nothing like the micro-motive that drove it. The play's governing law.                               |
+| **Morton Grodzins**     | "Metropolitan Segregation" (_Scientific American_, 1957); _The Metropolitan Area as a Racial Problem_ (1958)                  | **The tip point**: the share past which a neighbourhood's majority departs and the area flips from one kind to the other, the threshold at which content turns to a rout, named before Schelling formalised its dynamics. The Threshold.                                               |
+| **James M. Sakoda**     | "The Checkerboard Model of Social Interaction" (_Journal of Mathematical Sociology_, 1971)                                    | **The board**: the checkerboard of agents who read their local neighbours and move when unsatisfied, the cellular model of the sort, developed alongside Schelling's. The Mix.                                                                                                         |
+| **Mark Granovetter**    | "Threshold Models of Collective Behavior" (_American Journal of Sociology_, 1978)                                             | **The threshold cascade**: the general mathematics of a collective in which each acts once a threshold fraction of others has, so a smooth spread of thresholds yields a discontinuous jump in the aggregate, the tipping generalised beyond segregation. The Tipping.                 |
+| **W. A. V. Clark**      | "Residential Preferences and Neighborhood Racial Segregation: A Test of the Schelling Segregation Model" (_Demography_, 1991) | **The mild preference**: the empirical test showing that observed, moderate residential preferences are on their own enough to produce segregation approaching what is seen, without any taste for separation, so the mechanism modelled here needs no bigotry to run. The Preference. |
 
 ## Restrictions
 
@@ -55,14 +55,15 @@ What the house refuses to model, and how it credits what it stages.
   the separated map emerges from the sum of tolerant choices, so the misfit is that mild and lawful preferences,
   aggregating through a tipping threshold, compose into a stark segregation none of them held, no bigot and no designer
   required. The move is a small and blameless exercise of freedom, not a stroke against a neighbour, and the sort is the
-  aggregate of many such moves, matching no one's actual preference.
-- **No hero**: the play refuses to resolve the misfit into a mix that free choice sustains. The one move that would keep
-  the street mixed is to hold its composition off the threshold, but that means overriding the mild, lawful preference
-  of each resident, telling tolerant people where they may and may not live, so the remedy is a standing constraint on
-  ordinary and blameless choice and is refused, or resented, for exactly that reason. The reckoning is a mix held by
-  force against everyone's small freedom or a separation reached by the free exercise of it, not a street that stays
-  mixed because everyone, left alone, wished it so, so the cure for a self-sorting city is a limit on the very liberty
-  whose innocent use produced the sort.
+  aggregate of many such moves, matching no one's actual preference. This is the model's own logic, not a full account
+  of why any real city is segregated, where discrimination, income, and policy also bear.
+- **No hero**: the play refuses to resolve the misfit into a mix that free choice sustains once a threshold bites. The
+  one move that would keep the street mixed is to hold its composition off the threshold, but that means overriding the
+  mild, lawful preference of each resident, telling tolerant people where they may and may not live, so the remedy is a
+  standing constraint on ordinary and blameless choice and is refused, or resented, for exactly that reason. The
+  reckoning is a mix held by force against everyone's small freedom or a separation reached by the free exercise of it,
+  not, where the threshold bites, a street that free choice alone keeps mixed, so the cure for a city sorting on this
+  mechanism is a limit on the very liberty whose innocent use produced the sort.
 - **Credit, not claim**: the research above is other people's work, packaged and attributed here, never claimed as the
   house's, and its reach is not overstated. The staging is the house's; the tipping model of segregation and the
   micro-motive to macro-behaviour gap are Schelling's, the tip point is Grodzins's, the checkerboard simulation is

@@ -37,4 +37,4 @@ Seen at the surface, the Threshold looks like ordinary preference expressed as a
 ## Yearbook
 
 Carried unknowingly by [the Neighbour](persona_the_neighbour.md) and by [the Newcomer](persona_the_newcomer.md) alike, and the one thing [the Integrationist](persona_the_integrationist.md) must keep a mix clear of, the hidden line the whole tips on.
-It is the trigger of the trap: the Threshold is what [tipping](process_tipping.md) crosses, the cliff inside [the preference](piece_the_preference.md) that [the mix](piece_the_mix.md) drifts below, turning a smooth taste into [the tipping](piece_the_tipping.md) that sorts the block and, block by block, the city.
+It is the trigger of the trap: the Threshold is the cliff inside [the preference](piece_the_preference.md) that [the mix](piece_the_mix.md) drifts below, and the [tipping](process_tipping.md) process is what crossing it sets off, turning a smooth taste into the stark, sorted whole that [the Tipping](piece_the_tipping.md) carries, block by block, across the city.

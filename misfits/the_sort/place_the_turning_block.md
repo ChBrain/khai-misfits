@@ -27,7 +27,7 @@ Shown as sudden and self-driven, a street that was settled a week ago now emptyi
 ## Holds
 
 Holds the cascade, each departure lowering the like-share and unsettling the next resident in turn.
-The Turning Block is where the threshold does its work: a first move pushes a neighbour below their line, whose move pushes the next, and the vacancies fill with the kind the block is tilting toward, so the composition runs one way and does not come back.
+The Turning Block is where the threshold does its work: a first move pushes a neighbour below their line, whose move pushes the next, and the vacancies fill with the kind the block is tilting toward, so the composition runs one way and, once enough neighbours sit near their lines, does not come back on its own.
 
 ## Offers
 
@@ -37,4 +37,4 @@ Here every single move is individually right, the leaver truly now too few and t
 ## Withheld
 
 Withholds the point of return, already behind it.
-What the Turning Block hides is that its slide has no natural stopping place short of the sorted end: once the composition crosses the threshold there is no mix at which the departures halt and the balance re-forms, so the block that looks merely unsettled is in fact past the line from which it could have been held, on its way to set.
+What the Turning Block hides is that its slide has no natural stopping place short of the sorted end: once enough residents sit near their lines the departures feed one another, so the block that looks merely unsettled may already be past the point from which a mixed balance restores itself, on its way to set.
