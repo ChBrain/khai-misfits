@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.106.0",
+  "version": "0.107.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -578,6 +578,12 @@
       "id": "the_stag_hunt",
       "title": "The Stag Hunt",
       "description": "All prefer the stag that needs everyone, but each fears another takes a hare, so all take hares and the stag walks free."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_straight_rows",
+      "title": "The Straight Rows",
+      "description": "To govern a place the centre makes it legible, and the grid it imposes clears the local knowledge that made it work."
     },
     {
       "kind": "misfit",
