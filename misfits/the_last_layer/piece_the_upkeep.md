@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Falls due at [the capital](place_the_capital.md), where the whole apparatus is maintained, and drawn from [the margin](position_the_margin.md), whose surplus covers it.
+Falls due at [the capital](place_the_capital.md), where the whole apparatus is maintained, and left unmet at [the retreat](place_the_retreat.md), where the base stops covering it.
 Flows from every layer ever raised into a single recurring bill, the sum of all past solutions presented anew each year whether or not any of them still earns.
 
 ## Load Bearing

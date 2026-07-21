@@ -36,5 +36,5 @@ The nerve is that nothing was overbuilt on purpose: the office solved a real dif
 
 ## Echo
 
-The collapse is not a blunder but an economy: when the return goes negative, letting the complexity go costs less than keeping it.
+The collapse is not a blunder but an economy: when the return falls below its cost, letting the complexity go costs less than keeping it.
 What lingers is that the drop to a simpler level, which looks like catastrophe from the apex, is relief for the base that stops paying, so the one cure that would spare the fall, simplifying before the return turns, means giving up capacities the society still uses and cannot bear to lose, and the collapse it suffers instead is the same simplification arriving too late and all at once.
