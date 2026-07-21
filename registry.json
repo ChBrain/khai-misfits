@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.114.0",
+  "version": "0.115.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -44,6 +44,12 @@
       "id": "borrowed_immunity",
       "title": "Borrowed Immunity",
       "description": "Each skips the shot the herd already covers, so coverage slips below the line and the disease returns."
+    },
+    {
+      "kind": "misfit",
+      "id": "chasing_the_price",
+      "title": "Chasing the Price",
+      "description": "Each grower plants to today's price, but so does every other, so the harvest lands too late, into a glut they all made."
     },
     {
       "kind": "misfit",
