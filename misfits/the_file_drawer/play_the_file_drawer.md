@@ -4,7 +4,7 @@ title: "The File Drawer"
 description: "Only the studies that worked reach the record, so science reads surer than it is, its failures unseen in the drawer."
 language: english
 license: CC-BY-NC-SA-4.0
-voice: "Rigorous and self-correcting on the surface: peer review, replication, the published record, the machinery of a science that checks itself. Underneath, a filter that admits a result by whether it came out significant and not by how well it was done, so the record everyone reads and pools is a biased sample of the work that was done, every effect in it overstated, and the nulls that would temper it not destroyed but drawered, existing and unseen. No dashes: colons, ellipses, and line breaks instead."
+voice: "Rigorous and self-correcting on the surface: peer review, replication, the published record, the machinery of a science that checks itself. Underneath, a filter that admits a result by whether it came out significant and not by how well it was done, so the record everyone reads and pools is a biased sample of the work that was done, the effects in it overstated, and the nulls that would temper it not destroyed but drawered, existing and unseen. No dashes: colons, ellipses, and line breaks instead."
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -24,7 +24,7 @@ A hundred labs run the same honest experiment, and by chance and by truth some c
 
 ## Arc
 
-The bend is this: when the record keeps a result by whether it came out significant and not by how well it was done, the significant enter and the nulls drawer, so the published literature is a biased sample of the work that was done and overstates every effect it holds, a false confidence manufactured by no fraud and corrected by no replication, because the replication that fails is a null and drawers too.
+The bend is this: when the record keeps a result by whether it came out significant and not by how well it was done, the significant enter and the nulls drawer, so the published literature is a biased sample of the work that was done and overstates the effects it holds, a false confidence manufactured by no fraud and corrected by no replication, because the replication that fails is a null and drawers too.
 It runs on a filter that falls on the outcome.
 The record does not keep a study by how sound its method was, which would keep the significant and the null alike, but by how its result came out, and a significant result is a finding while a null is nothing to report, so the filter selects on the very thing the study was run to learn (Sterling). The screen is not on quality but on outcome, and it falls after the fact.
 And so the null files into the drawer.
@@ -32,9 +32,9 @@ Offered no publication, no citation, and no career for a non-finding, the author
 And the record is a biased sample.
 What remains in the literature is the significant selected out of the significant and the null, so the published record over-represents the true effects that drew a large sample and the false positives that drew a lucky one, and under-represents every null that would have pulled the estimate down (Sterling). The sample everyone reads is filtered on the result.
 And the pool inflates.
-The meta-analyst who gathers the published studies and pools them, doing everything right, gets an effect larger than the truth, because the drawered nulls are missing from the sum and the fail-safe number of them needed to overturn the finding is unknown and often small (Rosenthal; Ioannidis). The distortion is invisible in any one study and lives only in the aggregate.
+The meta-analyst who gathers the published studies and pools them, doing everything right, gets an effect larger than the truth, because the drawered nulls are missing from the sum, and how many sit in drawers, and whether they would overturn the finding, no one can see (Rosenthal; Ioannidis). The distortion is invisible in any one study and lives only in the aggregate.
 And the correction cannot enter.
-The doubter who runs the study again and gets a null has produced a non-finding, which the same filter drawers, so the failed replication that would correct the record is subject to the record's own screen, and the false positive stands uncorrected while the correction sits in a drawer (Ioannidis). The self-correcting science cannot self-correct through a filter that keeps only the positive.
+The doubter who runs the study again and gets a null has produced a non-finding, which the same filter drawers, so the failed replication that would correct the record is subject to the record's own screen, and the false positive stands uncorrected while the correction sits in a drawer, a null like any other. The self-correcting science cannot self-correct through a filter that keeps only the positive.
 None of it is fraud. The author writing up the win, the reviewer preferring the novel, the editor spending a scarce page where it is read: each is doing the reasonable thing, and the overstated record emerges from the sum, no faked data and no lie, which is exactly why it holds where a fabricated result, that a replication would expose, would not.
 Pre-register the study and publish the null, and the drawer might open: but registration is slow and a registered null still wins no citation and no career, so each party's reward runs against the remedy, and the reckoning is a record cleared only by a discipline that pays no one to keep it, not a literature that corrects itself once enough eyes have read it.
 

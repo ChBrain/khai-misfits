@@ -28,7 +28,7 @@ Nothing false in any line of it: no data faked, no result invented, each study d
 ## Undertow
 
 Under the rigour, a record edited by the result.
-Because the literature keeps a study by whether it came out significant and not by how well it was run, the nulls file into the drawer and the significant fill the record, so the sample everyone reads and pools is selected on the very outcome it is read to learn, every effect in it larger than the truth by the tempering evidence that is missing.
+Because the literature keeps a study by whether it came out significant and not by how well it was run, the nulls file into the drawer and the significant fill the record, so the sample everyone reads and pools is selected on the very outcome it is read to learn, the effects in it larger than the truth by the tempering evidence that is missing.
 The published record that reads as the knowledge of a field is a biased sample of the work the field did, surer than the science because its failures are not counted, filed unseen in a thousand drawers.
 
 ## Nerve

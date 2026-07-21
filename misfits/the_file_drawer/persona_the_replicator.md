@@ -22,7 +22,7 @@ type: archetype
 
 ## Projection
 
-Skeptical. Rigorous. Science's own correction.
+Sceptical. Rigorous. Science's own correction.
 Is the one who doubts a published finding and does the honest thing, runs it again, carefully and at power, to see whether it holds.
 No agenda wished on them: they want only to know if the effect is real, and they carry the mechanism a science trusts to catch its false positives.
 
