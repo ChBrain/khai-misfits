@@ -22,13 +22,14 @@ governing finding of the source is the play's governing law: where a sample is s
 independent causes, an association appears between the causes that is real in the sample and absent in the world, a
 trade-off manufactured by the selection and gone the moment the excluded units are counted.
 
-It is distinct from the house's The Bigger Picture, and the distinction is the whole point of the cut, an exact
+It is distinct from the house's The Bigger Picture, and the distinction is the whole point of the cut, a
 causal mirror: The Bigger Picture stages Simpson's paradox, where a **confounder**, a common cause of two variables,
 makes a pooled trend reverse when the strata are combined, and the remedy is to stratify, to control for the
-confounder; here the gate is a **collider**, a common effect, and controlling for it is precisely the error,
-conditioning on a common effect manufacturing an association that stratifying on a common cause would have removed,
-so the two paradoxes point opposite ways, one saying adjust and the other saying never adjust, and mistaking the
-collider for the confounder is the very move that casts the ghost. It is distinct too from The Survivors, where
+confounder, once the third variable is correctly read as a common cause and not a mediator; here the gate is a
+**collider**, a common effect, and controlling for it is precisely the error, conditioning on a common effect
+manufacturing an association that stratifying on a common cause would have removed, so the two point opposite ways,
+one saying adjust to recover the tie and the other saying do not condition, and mistaking the collider for the
+confounder is the very move that casts the ghost. It is distinct too from The Survivors, where
 survivorship bias reasons from the units that persisted and a hazard removed the rest, biasing the estimate of a
 single quantity by attrition: here nothing is lost to a hazard and no single average is skewed, an active selection
 on a shared effect ties two independent qualities together, the artefact a manufactured relationship between two
@@ -38,13 +39,13 @@ things, not a thinned estimate of one.
 
 The phenomenon in theory, and the research spine beneath it.
 
-| Source                              | Key Work / Event                                                                                                     | Scope                                                                                                                                                                                                                                                                                 |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Joseph Berkson**                  | "Limitations of the Application of Fourfold Table Analysis to Hospital Data" (_Biometrics Bulletin_, 1946)           | **The origin and the name**: among hospital patients, two unrelated diseases appear associated because each raises the chance of admission, so a case-control study drawn from the admitted reads a relationship that the general population does not hold. The play's governing law. |
-| **Judea Pearl**                     | _Causality: Models, Reasoning, and Inference_ (Cambridge University Press, 2000; 2nd ed. 2009)                       | **The formal spine**: the collider, a variable that is a common effect of two others; conditioning on it opens a spurious path between its causes ("explaining away"), the mirror of the confounder one adjusts for. The Collider.                                                    |
-| **Hernán, Hernández-Díaz & Robins** | "A Structural Approach to Selection Bias" (_Epidemiology_, 2004)                                                     | **Selection as collider**: selection bias recast as collider-stratification bias, the act of selecting or conditioning on a common effect of exposure and outcome biasing the association between them. The Sample.                                                                   |
-| **Elwert & Winship**                | "Endogenous Selection Bias: The Problem of Conditioning on a Collider Variable" (_Annual Review of Sociology_, 2014) | **The general statement**: across the social sciences, conditioning on a collider, including selecting a sample on an outcome the variables jointly cause, manufactures association where none exists, a hazard as general as confounding and less recognised. The Reading.           |
-| **David Sackett**                   | "Bias in Analytic Research" (_Journal of Chronic Diseases_, 1979)                                                    | **The empirical footprint**: a catalogue of the biases of observational research, admission-rate (Berkson) bias among them, documenting that the artefact is not a curiosity but a recurring corruption of real findings acted on in practice. The World.                             |
+| Source                              | Key Work / Event                                                                                                     | Scope                                                                                                                                                                                                                                                                                                                               |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Joseph Berkson**                  | "Limitations of the Application of Fourfold Table Analysis to Hospital Data" (_Biometrics Bulletin_, 1946)           | **The origin and the name**: among hospital patients, two unrelated diseases appear associated because each raises the chance of admission, so a case-control study drawn from the admitted reads a relationship that the general population does not hold. The play's governing law.                                               |
+| **Judea Pearl**                     | _Causality: Models, Reasoning, and Inference_ (Cambridge University Press, 2000; 2nd ed. 2009)                       | **The formal spine**: the collider, a variable that is a common effect of two others; conditioning on it opens a spurious path between its causes, the pattern long called "explaining away" in the Bayesian-network tradition and formalised here within the collider, the mirror of the confounder one adjusts for. The Collider. |
+| **Hernán, Hernández-Díaz & Robins** | "A Structural Approach to Selection Bias" (_Epidemiology_, 2004)                                                     | **Selection as collider**: selection bias recast as collider-stratification bias, the act of selecting or conditioning on a common effect of exposure and outcome biasing the association between them. The Sample.                                                                                                                 |
+| **Elwert & Winship**                | "Endogenous Selection Bias: The Problem of Conditioning on a Collider Variable" (_Annual Review of Sociology_, 2014) | **The general statement**: across the social sciences, conditioning on a collider, including selecting a sample on an outcome the variables jointly cause, manufactures association where none exists, a hazard as general as confounding and less recognised. The Reading.                                                         |
+| **David Sackett**                   | "Bias in Analytic Research" (_Journal of Chronic Diseases_, 1979)                                                    | **The empirical footprint**: a catalogue of the biases of observational research, admission-rate (Berkson) bias among them, documenting that the artefact is a recurring, named corruption of real observational research and not a curiosity. The World.                                                                           |
 
 ## Restrictions
 
@@ -72,7 +73,9 @@ What the house refuses to model, and how it credits what it stages.
   selection is Elwert and Winship's, and the empirical catalogue that shows admission-rate bias corrupting real
   research is Sackett's, each carried as carefully as the finding itself: the misfit stages the collider that ties
   two independent causes together and credits that the trade-off is real in the sample and false only in the world
-  the sample was drawn from.
+  the sample was drawn from. The decider's loss, the value spent by acting on the artefact, is the house's own
+  drawing-out of the mechanism and not a finding of the sources: it follows from the sum-selection the play stages,
+  and is credited as the house's extension rather than claimed for the cited work.
 
 ## Encoding
 

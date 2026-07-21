@@ -37,4 +37,4 @@ Because it would be neither fair nor sensible to demand both qualities at their 
 ## Echo
 
 A sample selected on the sum, its qualities already forced together.
-What leaves this process is a pool of the admitted conditioned on the gate, so the two qualities that vary freely in the world are, among the kept, bound by the effect they were selected on, and the sample is handed to the next process carrying an association no one measured yet and no one put there on purpose.
+What leaves this process is a pool of the admitted conditioned on the gate, so the two qualities that vary freely in the world are, among the kept, selected together on the effect they both feed, and the sample is handed to the next process conditioned on the gate, the association it will show not yet drawn out or measured and no one having put it there on purpose.
