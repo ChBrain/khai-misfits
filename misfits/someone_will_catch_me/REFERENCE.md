@@ -27,10 +27,14 @@ It is distinct from the house's Moral Hazard, where a party takes hidden, unobse
 onto a third party such as an insurer: there the action is concealed and the cost externalised, while here the
 recipient's under-provision is fully observed, the Samaritan can see it plainly, and no cost is transferred to anyone
 else, the engine being the helper's own inability to commit to withholding rather than concealment or a shifted burden.
-It is distinct from Time Inconsistency, whose staged form is a single planner's own optimal plan going stale, corrected
-by tying one's hands: the Samaritan's Dilemma is a time inconsistency, but the two-sided altruistic case, where it is
-compassion that cannot commit and a second party rationally under-provides in anticipation, so the trap lives in the
-interaction of the soft heart and the recipient's best response, not in one actor's inconsistency alone. And it is
+It is distinct from Time Inconsistency less in shape than in what the shape produces. That misfit, like this one, stages
+a time-inconsistent party and a second who anticipates the reneging and best-responds, so the two are near-isomorphic in
+structure. The difference is the outcome: there the anticipation makes the beneficial interaction collapse, since the
+responder, foreseeing that the promise will not be kept, withholds the investment or trust the promise was meant to
+secure, and the good outcome simply never happens, a one-shot unravelling. Here the time-inconsistent act is an aid the
+helper carries out every cycle, so nothing collapses: the help keeps flowing, the recipient keeps under-providing, and
+the trap is a recurring steady-state dependence sustained by the very reliability of the compassion, not a cooperation
+deterred before it begins. And it is
 distinct from Shifting the Burden, where a capability that existed atrophies from disuse while a symptomatic fix is
 leaned on: here nothing withers, the footing is never built in the first place, a rational ex-ante under-investment
 against an assured rescue, and the driver is the giver's commitment problem, not the erosion of a used capacity.
@@ -44,7 +48,7 @@ The phenomenon in theory, and the research spine beneath it.
 | **James M. Buchanan**                | "The Samaritan's Dilemma" (in _Altruism, Morality, and Economic Theory_, ed. Edmund Phelps, 1975)         | **The naming and the dilemma**: the utility-maximising Samaritan who relieves present suffering ex post thereby induces the recipient to under-provide for themselves, so the aid manufactures the dependence, a time-inconsistent compassion. The play's governing law. The Soft Heart. The Rescue. |
 | **Finn Kydland and Edward Prescott** | "Rules Rather than Discretion: The Inconsistency of Optimal Plans" (_Journal of Political Economy_, 1977) | **The time inconsistency**: the plan optimal ex ante is not optimal to keep ex post, so discretion undoes it and the threat to hold to it is not believed, the reason the Samaritan's condition cannot bind. The Empty Threat.                                                                       |
 | **Thomas Schelling**                 | "The Strategy of Conflict" (1960)                                                                         | **The credible commitment**: a threat moves behaviour only if it will be kept, and credibility often requires binding away one's own freedom to be reasonable in the moment, the precommitment that makes a refusal real. The Vow.                                                                   |
-| **János Kornai**                     | "The Soft Budget Constraint" (_Kyklos_, 1986)                                                             | **The soft budget constraint**: an organisation that expects to be rescued from failure does not economise, because the funder cannot commit to letting it fail, the economic sibling of the Samaritan's Dilemma at the scale of firms and states. The Reliance.                                     |
+| **János Kornai**                     | "The Soft Budget Constraint" (_Kyklos_, 1986)                                                             | **The soft budget constraint**: an organisation that expects to be rescued from failure does not economise as it would under a hard constraint, because the funder cannot commit to letting it fail, the economic sibling of the Samaritan's Dilemma at the scale of firms and states. The Reliance. |
 | **Neil Bruce and Michael Waldman**   | "The Rotten-Kid Theorem Meets the Samaritan's Dilemma" (_Quarterly Journal of Economics_, 1990)           | **The recipient's response**: the altruist's inability to commit leads the beneficiary to under-save and over-consume, formalising how a rational recipient provisions less against a rescue they can anticipate. The Unbuilt.                                                                       |
 
 ## Restrictions

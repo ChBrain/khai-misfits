@@ -33,11 +33,11 @@ Discount the threat to withhold, since the seat can read the helper's ex-post in
 
 ## Loses
 
-The footing it does not build, which the seat forgoes soundly and cannot recover alone.
-The Reliance gives up the strength that only comes from having to bear one's own falls, because building it while the rescue stands is paying for a capacity it will not use, so the seat's rational economy is the slow surrender of its own capability, each covered risk a footing unbuilt. What the seat forfeits is the very self-sufficiency the help was meant to restore, given up not by any single unreasonable choice but by the sum of reasonable ones, since to build the footing unilaterally is to accept a fall no rational seat accepts by choice while a catch is sure, so the seat that could stand on its own is the seat that will not, its dependence not a failing of will but the correct arithmetic of a guarantee it did not ask for and cannot make itself refuse.
+The power to commit to standing alone, which the seat can hold no better than the benefactor can hold the threat to withhold.
+The Reliance would be better off if it could bind itself to refuse the catch, since a recipient known to be committed to self-reliance would meet the incentive to build and would draw a helper who expected it to, but the seat cannot make that commitment credible: when the brink comes and the suffering is real, it will take the help, and both sides know it. What the seat forfeits is any exit from the dependent role, fixed there not by a failure of will but by the same structure that binds the giver, since it holds no more power to commit to going without than the Open Hand holds to commit to refusing, so its own softness answers the helper's. The seat that would gain most from a credible self-reliance is the seat that can least promise one, its standing in the relation set by a commitment problem that is its own as much as the helper's, and no lever it holds can undo it, since it can neither remove the catch nor bind its future self against reaching for it.
 
 ## Drives
 
 Toward a footing left unbuilt because a rescue covers it,
-and a self-sufficiency surrendered by sound economy,
-so the seat that leans on the sure catch is the seat that never grows able to do without it, its reliance the right response to the guarantee and the making of its own need.
+and a dependent role it cannot commit its way out of,
+so the seat that leans on the sure catch is the seat that could not refuse it even to free itself, its reliance the right response to the guarantee and its own softness the mirror of the helper's.
