@@ -15,7 +15,7 @@ Staging the diminishing returns on complexity as a **problem-solving-that-outgro
 answers each problem by adding complexity, which solves it and stays, so the standing apparatus grows layer by layer,
 and because the cheapest and most rewarding solutions are taken first, each further layer costs more and yields less
 than the last, until the upkeep of the complexity already built consumes nearly all the surplus the producing base
-yields and the marginal return on more complexity falls to zero and past it. The play models the documented mechanics,
+yields and the marginal return on more complexity falls below the cost of the complexity it buys. The play models the documented mechanics,
 the layer added as the standing answer, the return that is large at first and falls at the margin, the upkeep that
 accumulates and never leaves, and the descent by which a society unable to afford its own apparatus sheds complexity
 and drops to a simpler level, as the load-bearing vectors of the structure, not as a tale of decadence or a single
@@ -37,13 +37,13 @@ bear.
 
 The phenomenon in theory, and the research spine beneath it.
 
-| Source                | Key Work / Event                                                                                                    | Scope                                                                                                                                                                                                                                                                                      |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Joseph A. Tainter** | _The Collapse of Complex Societies_ (Cambridge University Press, 1988)                                              | **The origin and the thesis**: complexity is a problem-solving strategy with a declining marginal return, so a society that answers every problem by adding complexity reaches a point where the apparatus costs more than it yields and simplifies by collapse. The play's governing law. |
-| **Leslie A. White**   | "Energy and the Evolution of Culture" (_American Anthropologist_, 1943); _The Evolution of Culture_ (1959)          | **The energetics**: culture advances by capturing more energy per head, and complexity is bought and maintained with it, so every layer carries a real, standing cost paid in the energy and surplus the base yields. The Upkeep.                                                          |
-| **Turgot & Ricardo**  | Turgot, on diminishing returns to agricultural inputs (1767); Ricardo, _Principles of Political Economy_ (1817)     | **The law**: successive inputs applied to a fixed factor yield a falling marginal product, the classical law of diminishing returns Tainter transposes from inputs on land onto problem-solving complexity itself. The Return.                                                             |
-| **Elman R. Service**  | _Primitive Social Organization: An Evolutionary Perspective_ (1962)                                                 | **The rise**: the evolutionary sequence of increasing complexity, band to tribe to chiefdom to state, and the managerial benefits that drive it, the standing trend of adding organisation whose costs Tainter prices. The Layer.                                                          |
-| **Colin Renfrew**     | "Systems Collapse as Social Transformation" (in _Transformations: Mathematical Approaches to Culture Change_, 1979) | **The collapse**: the systems account of early-state collapse as a rapid transformation to lower complexity, the model of collapse Tainter extends by giving it an economic engine, the marginal return that has gone negative. The Descent.                                               |
+| Source                | Key Work / Event                                                                                                                    | Scope                                                                                                                                                                                                                                                                                      |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Joseph A. Tainter** | _The Collapse of Complex Societies_ (Cambridge University Press, 1988)                                                              | **The origin and the thesis**: complexity is a problem-solving strategy with a declining marginal return, so a society that answers every problem by adding complexity reaches a point where the apparatus costs more than it yields and simplifies by collapse. The play's governing law. |
+| **Leslie A. White**   | "Energy and the Evolution of Culture" (_American Anthropologist_, 1943); _The Evolution of Culture_ (1959)                          | **The energetics**: culture advances by capturing more energy per head, and complexity is bought and maintained with it, so every layer carries a real, standing cost paid in the energy and surplus the base yields. The Upkeep.                                                          |
+| **Turgot & Ricardo**  | Turgot, on diminishing returns to agricultural inputs (1767); Ricardo, _On the Principles of Political Economy and Taxation_ (1817) | **The law**: successive inputs applied to a fixed factor yield a falling marginal product, the classical law of diminishing returns Tainter transposes from inputs on land onto problem-solving complexity itself. The Return.                                                             |
+| **Elman R. Service**  | _Primitive Social Organization: An Evolutionary Perspective_ (1962)                                                                 | **The rise**: the evolutionary sequence of increasing complexity, band to tribe to chiefdom to state, and the managerial benefits that drive it, the standing trend of adding organisation whose costs Tainter prices. The Layer.                                                          |
+| **Colin Renfrew**     | "Systems Collapse as Social Transformation" (in _Transformations: Mathematical Approaches to Culture Change_, 1979)                 | **The collapse**: the systems account of early-state collapse as a rapid transformation to lower complexity, the model of collapse Tainter extends by giving it an economic engine, the marginal return that has fallen below its cost. The Descent.                                       |
 
 ## Restrictions
 
@@ -55,14 +55,15 @@ What the house refuses to model, and how it credits what it stages.
   worked, and the ruin is the sum of sensible acts, not the product of anyone's vice. The administrator meets the
   problem, the ruler funds the apparatus they inherited, the base supports the system while it pays, and the durable
   overbuild emerges from the aggregate, so the misfit is that a strategy sound at every step, answering each problem
-  with more complexity, drives the marginal return to zero and past it, no decadence and no single fatal shock required.
+  with more complexity, drives the marginal return below the cost of the complexity it buys, no decadence and no single fatal shock required.
   The collapse is a rapid simplification, and for the base that stops paying it is an economy, not a disaster visited on
   the innocent.
 - **No hero**: the play refuses to resolve the misfit into an apparatus saved by better management. The one move that
-  would spare the ruin is deliberate simplification, shedding complexity before the return goes negative, but that means
+  would spare the ruin is deliberate simplification, shedding complexity before the return falls below its cost, but that means
   disbanding offices and abandoning works while they still function, forgoing capacities the society paid dearly for and
   still uses, so it looks on the day it must be made like throwing away the very things that made the society great and
-  is refused for exactly that reason. The reckoning is a simplification chosen in time or a collapse suffered later, not
+  is refused for exactly that reason, the more so because a society that simplified while its rivals kept their
+  complexity would risk being overtaken by them. The reckoning is a simplification chosen in time or a collapse suffered later, not
   a way to hold the whole apparatus up and pay for it too, so the cure for a complexity that costs more than it yields is
   a loss of capacity no one at the apex will choose while the layers still work.
 - **Credit, not claim**: the research above is other people's work, packaged and attributed here, never claimed as the

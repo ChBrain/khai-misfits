@@ -30,7 +30,7 @@ A difficulty as real as any before, but the cheap solutions are long spent and o
 
 ## Stage
 
-[The Successor](persona_the_successor.md), on [Carry the Whole](plan_carry_the_whole.md), adds another [layer](piece_the_layer.md) whose [return](piece_the_return.md) has already gone negative, because the method is proven and there is no other, and a problem left unmet is no answer at all.
+[The Successor](persona_the_successor.md), on [Carry the Whole](plan_carry_the_whole.md), adds another [layer](piece_the_layer.md) whose [return](piece_the_return.md) has already fallen below its cost, because the method is proven and there is no other, and a problem left unmet is no answer at all.
 The move is the same one that made the founder great, and on this stretch of the curve it makes the society poorer.
 
 ## Tension

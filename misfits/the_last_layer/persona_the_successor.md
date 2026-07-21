@@ -36,9 +36,9 @@ Does what a responsible successor does: holds the whole together, pays what it c
 
 Not a wastrel, but the one who works the method where it has stopped paying, and that is the trap: the same act that made the founder great, solving a problem by adding complexity, makes the successor poorer, because the curve they stand on is not the curve the founder stood on.
 Because the Successor inherits an apparatus whose easy returns are long spent, every layer they add meets a harder problem at a higher cost for a smaller yield, and the upkeep of all that came before must be paid whether it earns or not, so they run to stand still, spending nearly everything to hold a position that grows no stronger.
-The duty is real and the method is proven, so the successor who does exactly what worked before is the one on whose watch the return goes negative, faithful to a strategy precisely as it turns against them.
+The duty is real and the method is proven, so the successor who does exactly what worked before is the one on whose watch the return falls below its cost, faithful to a strategy precisely as it turns against them.
 
 ## Tell
 
 Says "we cannot stop paying for this, and the problem still needs solving."
-Is right that the apparatus must be funded and the problem met, and cannot afford to see that the method itself has gone negative, that another layer now costs more than it saves, because the only alternative visible from the apex is to abandon what the society is made of.
+Is right that the apparatus must be funded and the problem met, and cannot afford to see that the method itself no longer pays, that another layer now costs more than it saves, because the only alternative visible from the apex is to abandon what the society is made of.
