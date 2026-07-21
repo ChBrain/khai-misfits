@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.113.0",
+  "version": "0.114.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -146,6 +146,12 @@
       "id": "no_idle_hands",
       "title": "No Idle Hands",
       "description": "Driving a resource to full use to erase idleness makes the queue behind it swell without bound as the slack runs out."
+    },
+    {
+      "kind": "misfit",
+      "id": "no_one_in_charge",
+      "title": "No One in Charge",
+      "description": "A group that refuses leaders does not abolish power but hides it in an informal elite no one can hold to account."
     },
     {
       "kind": "misfit",
