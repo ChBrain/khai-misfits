@@ -33,9 +33,9 @@ Organise where the diffuse public will not, since the seat feels the stake sharp
 
 ## Loses
 
-Its exposure, which the principle spares it.
-Because the same rule the Pulpit preaches is the rule the Back Room banks, the seat need neither coordinate with the moralist nor be acknowledged by them, so the interest that would be seen and resisted on its own hides behind a conviction it never has to share, its money defending a law its name never touches.
-It loses nothing and keeps everything, the one seat in the coalition that pays in cash and is never seen, safe behind a cover it did not have to buy.
+The right to be heard, traded away for the safety of not being seen.
+A seat that wins by silence can never claim the rule as its own, never argue it in daylight, never defend the law in the one voice that would give the game away, so the Back Room holds a gain it cannot speak for and a rule it cannot be seen to want.
+What it forfeits is standing: the seat keeps the profit only so long as the principle keeps talking, holding no legitimacy of its own and wholly dependent on a case it does not make, rich and voiceless and safe to exactly the degree it stays out of the light.
 
 ## Drives
 

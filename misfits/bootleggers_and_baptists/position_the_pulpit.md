@@ -33,9 +33,9 @@ Argue the principle on its merits, since the sincerity of the case is exactly wh
 
 ## Loses
 
-Nothing it means to give, and yet it gives the profit its cover.
-Because the Pulpit argues the rule cleanly and asks nothing, the law wears a face above suspicion, so a private interest can shelter behind the cause, and the better the case is made the better the cover, the seat handing a passenger a ride it never knows it granted.
-It keeps its integrity whole and loses the rule to the interest hiding behind it, the honest case become the shelter of a profit it never named.
+Not its integrity, which stays whole, but its title to what that integrity buys.
+A seat of moral authority puts legitimacy into the public record, and legitimacy once spoken is a thing anyone may draw on, so the Pulpit cannot meter who spends the credit its sincerity earns.
+What it forfeits is ownership of its own good name: the respectability the seat builds is a resource it cannot keep to its cause, drawn down by an interest it never licensed and cannot see, so the seat gives away, in the plain act of speaking, exactly what it never meant to lend.
 
 ## Drives
 

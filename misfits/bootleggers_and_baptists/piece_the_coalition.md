@@ -36,5 +36,5 @@ Seen at the surface, the Coalition looks like ordinary democratic weight, a regu
 
 ## Yearbook
 
-Made of [the Baptist](persona_the_baptist.md), [the Bootlegger](persona_the_bootlegger.md), and [the Legislator](persona_the_legislator.md) who each act alone, the alliance they compose without convening.
+Made of [the Baptist](persona_the_baptist.md) and [the Bootlegger](persona_the_bootlegger.md), who each act alone, the two-sided alliance they compose without convening, with [the Legislator](persona_the_legislator.md) no party to it but the seat where its two pressures set into a kept rule.
 It is the whole of it: the Coalition is [preaching](process_preaching.md), [profiting](process_profiting.md), [covering](process_covering.md), and [entrenching](process_entrenching.md) run as one, [the principle](piece_the_principle.md) sheltering [the profit](piece_the_profit.md) over [the rule](piece_the_rule.md) behind [the cover](piece_the_cover.md), a durable bad law authored by no conspiracy and kept by a coalition no one had to form.

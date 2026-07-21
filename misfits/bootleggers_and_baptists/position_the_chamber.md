@@ -33,9 +33,9 @@ Count the constituencies, since a rule defended by principle and money and barel
 
 ## Loses
 
-The honest accounting, which the balance of pressure overrides.
-Because principle pushes from the podium and profit from the back room, the Chamber meets outrage and a war chest at once for any move to repeal, so the rational course is to keep a rule its own cost-benefit would fail, and the seat that merely answers the room becomes the mechanism that makes a bad law permanent.
-It reads the pressures soundly and loses the public interest, the representative that takes no bribe still keeping the law the bribe would have bought.
+The one thing a lawmaking seat is built to protect: the standing to weigh a rule on its own merits.
+The Chamber is machinery for turning pressure into law, so a rule with a moral bloc and a funded bloc behind it and only a scattered public against arrives already carried, the seat's own tally counting it kept before a single cost is weighed.
+What the office forfeits is not its honesty but its independence: designed to aggregate the room, it cannot register a cost no one in the room is organised to voice, so the public interest is lost not to a choice the seat makes but to the count it exists to take.
 
 ## Drives
 

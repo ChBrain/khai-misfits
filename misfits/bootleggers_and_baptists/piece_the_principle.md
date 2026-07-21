@@ -27,7 +27,7 @@ Flows from the Baptist's conviction into the law, the honest cause that gives th
 ## Load Bearing
 
 Without a sincere principle the rule would be a naked interest, easily seen and easily opposed, and no cover would be cast at all.
-With it the rule has a legitimacy money cannot buy: the Principle is argued in good faith by people who ask nothing, so it makes the law respectable and its backers unimpeachable. The Principle is load bearing because its very sincerity is the cover (Yandle; Olson): a case meant honestly and pursued for its own sake, which is exactly why the profit can shelter behind it, so the piece carries the honest half of the coalition, the conviction that is real and, being real, does the work no bribe could.
+With it the rule has a legitimacy money cannot buy: the Principle is argued in good faith by people who ask nothing, so it makes the law respectable and its backers unimpeachable. The Principle is load bearing because its very sincerity is the cover (Yandle and Smith): a case meant honestly and pursued for its own sake, which is exactly why the profit can shelter behind it, so the piece carries the honest half of the coalition, the conviction that is real and, being real, does the work no bribe could.
 
 ## Apparent
 

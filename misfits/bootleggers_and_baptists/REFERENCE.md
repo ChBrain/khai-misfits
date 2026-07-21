@@ -44,7 +44,7 @@ The phenomenon in theory, and the research spine beneath it.
 | **Bruce Yandle**   | "Bootleggers and Baptists: The Education of a Regulatory Economist" (_Regulation_, 1983)                                                                        | **The origin and the name**: the durable regulation backed by a moral constituency for its principle and a private one for its profit, the Sabbath ban that honours the moralist and shelters the bootlegger, wanted by both for reasons that never touch. The play's governing law. |
 | **Yandle & Smith** | _Bootleggers and Baptists: How Economic Forces and Moral Persuasion Interact to Shape Regulatory Politics_ (Bruce Yandle & Adam C. Smith, Cato Institute, 2014) | **The taxonomy**: the book-length treatment, sorting the coalitions by whether the two sides are covert or coordinated and showing how moral persuasion and economic interest interact across cases from Prohibition to modern regulation. The Cover.                                |
 | **George Stigler** | "The Theory of Economic Regulation" (_Bell Journal of Economics and Management Science_, 1971)                                                                  | **The public-choice foundation**: regulation is acquired by and operated for the interests it benefits, the interest-group demand for rules that Yandle adds the sincere moralist to, the profit side of the coalition. The Profit.                                                  |
-| **Mancur Olson**   | _The Logic of Collective Action_ (Harvard University Press, 1965)                                                                                               | **The asymmetry**: the concentrated interest organises to defend a rule where the diffuse public will not, and a moral cause mobilises where naked private gain, unable to speak in its own name, cannot, explaining why the coalition forms lopsided. The Principle.                |
+| **Mancur Olson**   | _The Logic of Collective Action_ (Harvard University Press, 1965)                                                                                               | **The asymmetry**: the concentrated interest organises to defend a rule where the diffuse public, feeling the cost too thinly, will not, so the defence is resourced on the side of the gain and unorganised on the side of the cost, and the coalition forms lopsided. The Profit.  |
 | **Gary Becker**    | "A Theory of Competition Among Pressure Groups for Political Influence" (_Quarterly Journal of Economics_, 1983)                                                | **The durability**: political outcomes settle where the pressure of competing groups balances, so a rule pushed by both principle and profit outweighs the diffuse opposition and holds, the equilibrium that makes the bad law immovable. The Coalition.                            |
 
 ## Restrictions
@@ -81,7 +81,7 @@ Source to constraint, per element.
 
 - **[The Rule](piece_the_rule.md)**: carries the regulation both sides back (Yandle), the single law wanted on
   principle by one constituency and for profit by another.
-- **[The Principle](piece_the_principle.md)**: carries the sincere moral case (Yandle; Olson), the good-faith
+- **[The Principle](piece_the_principle.md)**: carries the sincere moral case (Yandle), the good-faith
   argument that is the rule's public face and its legitimacy.
 - **[The Profit](piece_the_profit.md)**: carries the private gain (Stigler; Olson), the protected earning the rule
   hands a quiet interest that spends to keep it.
