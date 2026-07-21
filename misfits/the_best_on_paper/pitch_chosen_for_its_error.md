@@ -36,5 +36,5 @@ The nerve is that no estimate was biased and no one lied: the overstatement is c
 
 ## Echo
 
-The realised value regresses toward the truth the estimate left, and the best on paper falls short in fact.
+The realised value regresses toward the truth the estimate left, and the best on paper, on average, falls short in fact.
 What lingers is that the cure is to distrust your own best number: shrink the estimates toward the prior and the choice de-biases, but the boldest projection is pulled back hardest, so correcting the curse means passing on the very option that looked best, and taking the top of the list means, on average, being let down.

@@ -27,7 +27,7 @@ Shown as a disappointment that feels like bad luck, a pick that promised more th
 ## Holds
 
 Holds the regression, the return of the flattered estimate's value toward the truth it left.
-The Outcome is where the selected extreme comes back to earth: the chosen option's realisation regresses toward its true worth, so the value lands below the estimate that topped the list, a postdecision surprise owed to the maximum and not to any error in the reading.
+The Outcome is where the selected extreme comes back to earth: the chosen option's realisation regresses toward its true worth, so the value, on average, lands below the estimate that topped the list, a postdecision surprise owed to the maximum and not to any error in the reading.
 
 ## Offers
 

@@ -32,7 +32,7 @@ The Pick is where the maximum is taken: ranking the estimates and choosing the h
 ## Offers
 
 Offers the decider the top of the list, and the sceptic the one chance to shrink it first.
-Here the choice can go two ways: taken raw, the maximum flatters the winner and the letdown is booked in; shrunk toward the prior first, the boldest reading is pulled back and the pick de-biased at the cost of the top, so the scene is where the curse is either incurred or paid down.
+Here the choice can go two ways: taken raw, the maximum flatters the winner and a letdown is the expected cost; shrunk toward the prior first, the boldest reading is pulled back and the pick de-biased at the cost of the top, so the scene is where the curse is either incurred or paid down.
 
 ## Withheld
 

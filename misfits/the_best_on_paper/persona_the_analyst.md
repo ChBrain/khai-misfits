@@ -24,7 +24,7 @@ type: archetype
 
 Careful. Even-handed. Honest to the number.
 Is the one who appraises each option on its merits and reports a value, taking no side and putting no thumb on the scale, so each estimate is as likely to land above the truth as below it.
-No bias wished on them: they measure straight, their errors are symmetric and centred on nothing, and no single valuation they produce is wrong on average, which is exactly the standard the work is meant to meet.
+No bias wished on them: they measure straight, their errors are centred on nothing, so no single valuation they produce is wrong on average, which is exactly the standard the work is meant to meet.
 
 ## Action
 

@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Created at [the pick](place_the_pick.md), the moment the maximum is taken, and paid at [the outcome](place_the_outcome.md), where the realised value falls short.
+Created at [the pick](place_the_pick.md), the moment the maximum is taken, and paid at [the outcome](place_the_outcome.md), where the realised value, on average, falls short.
 Flows into being only at the choice, absent from every estimate seen alone and real for the winner the instant it is selected, a bias born of the ranking and not the reading.
 
 ## Load Bearing
@@ -32,9 +32,9 @@ With it the letdown has its cause: the Overstatement is the gap the selection op
 ## Apparent
 
 Just a good number, the high estimate that made this option the choice.
-Seen at the surface, the Overstatement looks like merit, the winner's reading taken as the value to expect, and the truth that the number is high in part because it was chosen, that selection created a bias no appraisal contains, that the very score that won is the score the outcome will undercut, stays hidden behind how naturally the top of the list is trusted as the best.
+Seen at the surface, the Overstatement looks like merit, the winner's reading taken as the value to expect, and the truth that the number is high in part because it was chosen, that selection created a bias no appraisal contains, that the very score that won is the score the outcome is likely to undercut, stays hidden behind how naturally the top of the list is trusted as the best.
 
 ## Yearbook
 
-Never made by [the Analyst](persona_the_analyst.md), created by [the Selector](persona_the_selector.md) who cannot see it, and removed in advance by [the Sceptic](persona_the_sceptic.md) who shrinks it away, the bias the choice itself invents.
+Never made by [the Analyst](persona_the_analyst.md), created by [the Selector](persona_the_selector.md) who cannot see it, and discounted in advance by [the Sceptic](persona_the_sceptic.md) who shrinks it back, the bias the choice itself invents.
 It is the mechanism of the trap: the Overstatement is what [maximising](process_maximising.md) creates from [the error](piece_the_error.md) inside the winning [valuation](piece_the_valuation.md), the conditional lift [shrinking](process_shrinking.md) removes before the fact and [regressing](process_regressing.md) reclaims after it, the heart of [the letdown](piece_the_letdown.md).

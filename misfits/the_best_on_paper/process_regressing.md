@@ -27,12 +27,12 @@ Begins when the pick is played out and its actual value comes in, no longer the 
 ## Direction
 
 Turns a flattered estimate into a shortfall.
-The selected extreme comes back toward its mean: the chosen option's realisation returns toward its true worth, so the value lands below the number that topped the list, and the gap the selection opened between estimate and truth is paid, on realisation, as a disappointment.
+The selected extreme comes back toward its mean: the chosen option's realisation returns toward its true worth, so the value, on average, lands below the number that topped the list, and the gap the selection opened between estimate and truth is paid, on realisation, as a disappointment.
 
 ## Lever
 
 Regression to the mean, which follows any selected extreme.
-Because a reading chosen for being highest carried an error that will not repeat, regressing needs no new mistake to work, only the return of a selected outlier toward the average, its lever the statistical certainty that lucky noise does not persist.
+Because a reading chosen for being highest carried an error that will not repeat, regressing needs no new mistake to work, only the return of a selected outlier toward the average, its lever the expectation, not the guarantee, that lucky noise does not persist.
 
 ## Echo
 

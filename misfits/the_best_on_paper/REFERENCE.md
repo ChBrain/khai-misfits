@@ -14,14 +14,16 @@ Staging the optimiser's curse as a **maximum-of-noisy-estimates structure**: a d
 with an estimate that is noisy but individually unbiased, then chooses the option with the highest estimate, and
 because the highest estimate is likeliest to belong to the option whose true worth and whose upward error summed
 largest, the act of taking the maximum conditions on upward error, so the chosen option's estimate is biased above its
-truth and its realised value disappoints. The play models the documented mechanics, the unbiased valuation of each
+truth and its realised value, on average, disappoints. The play models the documented mechanics, the unbiased valuation of each
 option, the mean-zero error inside it, the overstatement that selection creates for the winner alone, and the
 regression by which the realised value returns toward the truth, as the load-bearing vectors of the structure, not as
 a tale of a biased analyst or a rigged choice. The governing finding of the source is the play's governing law:
 selecting the maximum of noisy but individually unbiased estimates yields a chosen estimate that is biased high and a
-realised value that disappoints, a postdecision surprise owed to the selection and not to any error, so the letdown
-grows with the number of options ranked and the noise in the read, and is corrected only by shrinking the estimates
-toward the prior before choosing.
+realised value that, on average, disappoints, a postdecision surprise owed to the selection and not to any error, so
+the letdown grows with the number of options ranked and the noise in the read, and is corrected only by shrinking the
+estimates toward the prior before choosing. The play draws each error as symmetric, as likely to fall short as to
+overshoot, the illustrative case the source assumes; unbiasedness requires only that the error average to zero, not
+that it be symmetric.
 
 It is distinct from the house's The Winning Bid, where the winner's curse falls on the highest bidder in a
 common-value auction: there many rivals bid on one shared value and winning means having overestimated it most, the
@@ -36,13 +38,13 @@ rather than through a model bent to the data.
 
 The phenomenon in theory, and the research spine beneath it.
 
-| Source                      | Key Work / Event                                                                                                    | Scope                                                                                                                                                                                                                                                                         |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Smith & Winkler**         | "The Optimizer's Curse: Skepticism and Postdecision Surprise in Decision Analysis" (_Management Science_, 2006)     | **The origin and the name**: choosing the option with the highest of noisy but unbiased estimates biases the chosen estimate high, so the realised value disappoints, and the Bayesian remedy is to shrink estimates toward the prior. The play's governing law. The Letdown. |
-| **Harrison & March**        | "Decision Making and Postdecision Surprises" (_Administrative Science Quarterly_, 1984)                             | **The surprise**: choosing the best-estimated alternative yields a systematic postdecision disappointment, the realised value falling below the estimate that selected it, named before the Bayesian correction. The Overstatement.                                           |
-| **Francis Galton**          | "Regression towards Mediocrity in Hereditary Stature" (_Journal of the Anthropological Institute_, 1886)            | **The regression**: a selected extreme value regresses toward the mean on realisation, the statistical law by which the flattered estimate's outcome returns toward the truth it departed from. The Error.                                                                    |
-| **Stein; James & Stein**    | "Inadmissibility of the Usual Estimator..." (Stein, 1956); "Estimation with Quadratic Loss" (James and Stein, 1961) | **The shrinkage**: pulling many estimates toward a common mean dominates taking them at face value, the statistical form of the remedy that shrinks the boldest reading back toward the prior. The Valuation.                                                                 |
-| **Capen, Clapp & Campbell** | "Competitive Bidding in High-Risk Situations" (_Journal of Petroleum Technology_, 1971)                             | **The winner's curse**: in a common-value auction the winner is the bidder who most overestimated the prize, the competitive mirror of the same selection-of-the-largest-error, distinguished here as the auction cousin of the single decider's curse. The Letdown.          |
+| Source                      | Key Work / Event                                                                                                    | Scope                                                                                                                                                                                                                                                                                    |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Smith & Winkler**         | "The Optimizer's Curse: Skepticism and Postdecision Surprise in Decision Analysis" (_Management Science_, 2006)     | **The origin and the name**: choosing the option with the highest of noisy but unbiased estimates biases the chosen estimate high, so the realised value on average disappoints, and the Bayesian remedy is to shrink estimates toward the prior. The play's governing law. The Letdown. |
+| **Harrison & March**        | "Decision Making and Postdecision Surprises" (_Administrative Science Quarterly_, 1984)                             | **The surprise**: choosing the best-estimated alternative yields a systematic postdecision disappointment, the realised value falling below the estimate that selected it, named before the Bayesian correction. The Overstatement.                                                      |
+| **Francis Galton**          | "Regression towards Mediocrity in Hereditary Stature" (_Journal of the Anthropological Institute_, 1886)            | **The regression**: a selected extreme value regresses toward the mean on realisation, the statistical law by which the flattered estimate's outcome returns toward the truth it departed from. The Error.                                                                               |
+| **Stein; James & Stein**    | "Inadmissibility of the Usual Estimator..." (Stein, 1956); "Estimation with Quadratic Loss" (James and Stein, 1961) | **The shrinkage**: pulling three or more estimates toward a common mean dominates taking them at face value, the statistical form of the remedy that shrinks the boldest reading back toward the prior. The Valuation.                                                                   |
+| **Capen, Clapp & Campbell** | "Competitive Bidding in High-Risk Situations" (_Journal of Petroleum Technology_, 1971)                             | **The winner's curse**: in a common-value auction the winner is the bidder who most overestimated the prize, the competitive mirror of the same selection-of-the-largest-error, distinguished here as the auction cousin of the single decider's curse. The Letdown.                     |
 
 ## Restrictions
 
@@ -53,7 +55,7 @@ What the house refuses to model, and how it credits what it stages.
   valued as fairly as it can be, the estimate as likely to fall short as to overshoot, and the decider does the rational
   thing in taking the highest. No single estimate is wrong on average, and the overstatement is created by the selection
   itself, so the misfit is that choosing the maximum of honest, unbiased estimates biases the winner high and
-  disappoints on realisation, no thumb on the scale and no mistake required. The letdown is a property of the maximum,
+  disappoints on average at realisation, no thumb on the scale and no mistake required. The letdown is a property of the maximum,
   not a fault in the reading, and the analyst who valued every option straight is as beyond reproach as the decider who
   optimised.
 - **No hero**: the play refuses to resolve the misfit into a choice made right by more care. The one move that would
@@ -83,5 +85,5 @@ Source to constraint, per element.
   (Smith and Winkler; Harrison and March), the conditional fact that the winner's estimate stands above its worth
   because it was chosen.
 - **[The Letdown](piece_the_letdown.md)**: carries the phenomenon whole (Smith and Winkler; Capen, Clapp and Campbell),
-  the postdecision surprise by which the maximum of noisy estimates overstates the winner and its realised value
-  disappoints.
+  the postdecision surprise by which the maximum of noisy estimates overstates the winner so its realised value, on
+  average, disappoints.

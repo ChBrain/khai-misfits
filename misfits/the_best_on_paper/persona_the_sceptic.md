@@ -34,9 +34,9 @@ Does what a Bayesian does: treats the estimate as evidence to be weighed against
 
 ## Shadow
 
-Not a defeatist, but the one whose correction costs the very bet it debunks, and that is the bind: shrinking de-biases the choice, but it pulls the boldest number back toward the ordinary, so the cure for the curse is a standing discount on one's own best estimate.
-Because the Sceptic distrusts the top reading most where it is most dazzling, they will sometimes shrink a genuinely-best option back below a safer one and pass on it, paying in missed upside for the disappointments they avoid, a trade with no free side.
-The correction is right and the price is real, so the one who de-biases the choice is the one who must forgo the top of the list, trading the flattered winners they would have regretted for the bold winners they will never book.
+Not a defeatist, but the one for whom the discipline of doubt hardens into a temperament, and that is the private cost: the Sceptic has trained themselves never to be dazzled, and a mind that shrinks every bright number learns, in time, to distrust its own enthusiasm as a reflex.
+The habit does not stay at the ledger. Having watched too many top readings flatter and fade, they come to meet any bold estimate, their own included, with the instinct to discount it first, so the very scepticism that spares them the letdown also dulls the capacity to be moved by a genuinely good bet.
+What wears on them is not being wrong but being right in a way that never thrills: the one who always shrinks the dazzling number books the sound, modest winner and watches from a distance the bold prizes they talked themselves out of, carrying the quiet suspicion that a life of correct discounts is its own kind of loss.
 
 ## Tell
 

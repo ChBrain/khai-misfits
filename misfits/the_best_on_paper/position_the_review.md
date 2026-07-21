@@ -35,7 +35,7 @@ Trust the corrected number, not the raw one, because the seat's function is to d
 
 The raw top, which the shrink is bound to pull down.
 The Review can correct the selection only by discounting, and the discount falls hardest on the boldest estimate, so the seat cannot de-bias the choice without lowering the very reading that looked best and, often, unseating it.
-What the seat forfeits is the upside it declines: able to remove the overstatement only by shrinking, it must trade the flattered winners it would have regretted for the bold winners it will never take, so the seat that alone can correct the curse is the one whose sole instrument costs it the top of the list.
+What the seat forfeits is a second instrument: holding only the shrink, it can subtract overstatement but never add information, so it has no way to tell a bold estimate that is genuinely best from one merely flattered and must discount both alike, the seat that alone can correct the curse structurally unable to spare the true prize as it removes the false one.
 
 ## Drives
 

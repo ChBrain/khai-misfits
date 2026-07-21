@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[The Best on Paper](play_the_best_on_paper.md). The phenomenon whole, the postdecision surprise by which the maximum of noisy estimates overstates the winner and its realised value disappoints.
+[The Best on Paper](play_the_best_on_paper.md). The phenomenon whole, the postdecision surprise by which the maximum of noisy estimates overstates the winner so its realised value, on average, disappoints.
 
 ## Owner
 
@@ -27,12 +27,12 @@ Flows through the entire play, from the unbiased valuations to the disappointmen
 ## Load Bearing
 
 Without it there are only parts: a valuation, an error, an overstatement, with no name for the arc that carries honest numbers to a predictable disappointment.
-With it the parts become one law: honest estimates, ranked and topped, hand the winner an overstatement that the realisation gives back. The Letdown is load bearing because it is the phenomenon entire (Smith and Winkler; Capen, Clapp and Campbell): the optimiser's curse, the surprise built into taking the maximum of noisy but unbiased readings, growing with the options ranked and the noise in the read, and corrected only by shrinking toward the prior. So the piece carries the whole trap, the passage from a fair slate to a flattered winner to a value that falls short, a disappointment owed to the arithmetic of the maximum and to no one's mistake.
+With it the parts become one law: honest estimates, ranked and topped, hand the winner an overstatement that the realisation, on average, gives back. The Letdown is load bearing because it is the phenomenon entire (Smith and Winkler; Capen, Clapp and Campbell): the optimiser's curse, the surprise built into taking the maximum of noisy but unbiased readings, growing with the options ranked and the noise in the read, and corrected only by shrinking toward the prior. So the piece carries the whole trap, the passage from a fair slate to a flattered winner to a value that falls short, a disappointment owed to the arithmetic of the maximum and to no one's mistake.
 
 ## Apparent
 
 Just bad luck, a choice that promised more than it paid.
-Seen at the surface, the Letdown looks like misfortune, a pick that happened to underdeliver, and the truth that it is systematic, that optimising on noisy estimates disappoints by construction, that the surprise repeats as a law and names no error to blame, stays hidden behind how much a single shortfall looks like a single stroke of luck.
+Seen at the surface, the Letdown looks like misfortune, a pick that happened to underdeliver, and the truth that it is systematic, that optimising on noisy estimates disappoints on average by the construction of the maximum, that the surprise repeats as a law and names no error to blame, stays hidden behind how much a single shortfall looks like a single stroke of luck.
 
 ## Yearbook
 

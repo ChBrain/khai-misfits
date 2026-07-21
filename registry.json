@@ -301,7 +301,7 @@
       "kind": "misfit",
       "id": "the_best_on_paper",
       "title": "The Best on Paper",
-      "description": "Pick the option that scored highest and you pick the one whose estimate was luckiest, so the best on paper disappoints."
+      "description": "Pick the highest-scoring option and you pick the one whose estimate ran luckiest, so it tends to disappoint."
     },
     {
       "kind": "misfit",

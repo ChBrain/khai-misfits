@@ -36,4 +36,4 @@ The disappointment is real and names no culprit, the analyst unbiased and the ru
 ## Tension
 
 A choice with nothing wrong in it still disappoints, and the disappointment reads as bad luck and repeats as a law.
-There is no mistake to find: the estimate was honest, the maximum was the right rule, and yet the realised value returns toward the truth the flattered number left, because a selected extreme regresses toward its mean. So the plot closes with the decider let down by a sound choice, the shortfall legible at last as the noise the winning estimate carried, a postdecision surprise owed to the arithmetic of the maximum and to no one's error.
+There is no mistake to find: the estimate was honest, the maximum was the right rule, and yet the realised value tends to return toward the truth the flattered number left, because a selected extreme regresses toward its mean. So the plot closes with the decider let down by a sound choice, the shortfall legible at last as the noise the winning estimate carried, a postdecision surprise owed to the arithmetic of the maximum and to no one's error.

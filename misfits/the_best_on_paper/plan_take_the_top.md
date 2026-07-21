@@ -30,7 +30,7 @@ Order the options by their estimates and choose the highest, because with unbias
 
 ## Implementation
 
-([The Pick](place_the_pick.md); the [maximising](process_maximising.md) process; the Selector takes the option with the highest [valuation](piece_the_valuation.md), whose [error](piece_the_error.md) ran upward, booking the [overstatement](piece_the_overstatement.md) selection creates.)
+([The Pick](place_the_pick.md); the [maximising](process_maximising.md) process; the Selector takes the option with the highest [valuation](piece_the_valuation.md), whose [error](piece_the_error.md) most likely ran upward, booking the [overstatement](piece_the_overstatement.md) selection creates.)
 
 ## Targets
 

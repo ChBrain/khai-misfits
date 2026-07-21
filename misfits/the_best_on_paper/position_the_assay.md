@@ -34,8 +34,8 @@ Report the honest number and pass it on, because the seat's duty is accuracy on 
 ## Loses
 
 Authority over the aggregate, which the seat never held.
-The Assay values each option in isolation and cannot see that its honest estimates will be ranked, so it produces symmetric, blameless errors with no way to know that a maximum will later condition on the ones that ran high.
-What the seat forfeits is any governance of the selection: confined to the single reading, it cannot register that its unbiased numbers become a biased choice once the top is taken, so the seat that is right about every option one at a time has no lever over the aggregate its readings feed.
+The Assay's remit ends at the single option: it values each in isolation and hands the number on, with no standing over how the readings are ranked or which is taken, so its honest estimates pass out of its jurisdiction the moment they leave the seat.
+What the seat forfeits is any governance of the selection: confined to the single reading, it holds no lever over the aggregate its numbers feed, so the seat that is right about every option one at a time has no authority where those unbiased numbers become a biased choice.
 
 ## Drives
 
