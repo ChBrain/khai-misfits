@@ -36,5 +36,5 @@ The nerve is that the blindness is not laziness: asked to find a better answer, 
 
 ## Echo
 
-The stronger the practice, the tighter the block, and the only cure is to distrust the answer that has never failed you.
-What lingers is that expertise is partly the trap: the more a method has worked, the faster it fires and the harder it holds, so the master misses where the beginner sees, and the one move that would find the better answer is to treat every good one as a suspect, look again past a solution that already works, and be slower at everything easy to be better at the rare thing that was hiding.
+Expertise is no escape from the block, and the only cure is to distrust the answer that has never failed you.
+What lingers is that a ready answer is what does the blocking, so the master, who holds one, is caught where the empty-handed beginner is not, no mere novice's stumble but a cost of competence; and though deeper skill lifts the strongest past it more often, none are wholly immune, so the one move that would find the better answer is to treat every good one as a suspect, look again past a solution that already works, and be slower at everything easy to be better, sometimes, at the rare thing that was hiding.

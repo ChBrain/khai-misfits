@@ -14,7 +14,7 @@ type: archetype
 
 ## Taxonomy
 
-[The Fresh Eye](position_the_fresh_eye.md). Holds no method to reach for, so meets the problem whole and finds the path the practised mind is blind to, winning here only by lacking what wins everywhere else.
+[The Fresh Eye](position_the_fresh_eye.md). Holds no set method for this kind of problem to reach for, so meets it whole and finds the path the practised mind is blind to, winning here only by lacking what wins everywhere else.
 
 ## Owner
 
@@ -28,7 +28,7 @@ No brilliance wished on them: the openness is not insight but the absence of a g
 
 ## Action
 
-Comes to the problem with no method ready, so looks at all of it, and where a better path is the only path, sees it, the region the practised gaze skips being simply part of the board to them.
+Comes to the problem with no method ready for its kind, so looks at all of it, and where a better path is the only path, sees it, the region the practised gaze skips being simply part of the board to them.
 Solves the extinction problem the master fails, not by searching harder but by searching evenly, having no first answer to spend the looking on.
 Does what an unset mind does: reads the problem as itself rather than as one of a known kind, and finds the plain path plainly, passing exactly where the expert is held.
 

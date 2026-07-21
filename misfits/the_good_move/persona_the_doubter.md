@@ -30,7 +30,7 @@ No gift wished on them: the doubt is not intuition but a practised refusal, a de
 
 Finds the good answer as fast as anyone, and then, instead of stopping, makes themselves look again, deliberately away from the ground the first answer holds, into the part of the board the good move would have them skip.
 Warns themselves off the easy path with the answer already in hand, checking the region the set says is empty, so the search does not close on the first solution but is spent evenly across the whole.
-Does what a burned mind does: assumes every good move may be blocking a better one, and buys the better move, when there is one, with the effort of distrusting a solution that did not deserve distrust.
+Does what a burned mind does: assumes every good move may be blocking a better one, and buys the better move more often, when there is one, though never every time, with the effort of distrusting a solution that did not deserve distrust.
 
 ## Shadow
 

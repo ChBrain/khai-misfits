@@ -14,7 +14,7 @@ type: archetype
 
 ## Taxonomy
 
-[The Repertoire](position_the_repertoire.md). Meets the new problem with the method a hundred solved problems have made ready, finds the good answer at once, and is held by it, most blind exactly where most practised.
+[The Repertoire](position_the_repertoire.md). Meets the new problem with the method a hundred solved problems have made ready, finds the good answer at once, and is held by it, caught by a block the empty-handed beginner never meets.
 
 ## Owner
 
@@ -36,7 +36,7 @@ Does what a skilled hand does: applies what has solved this before, trusts the a
 
 Not that they are careless, but that the looking felt complete and was not: the certainty of having searched, while the eye never left the move already found, is the part that stings when the better one is finally shown.
 What gnaws is the discovery that skill did not free them. Each time the better move is revealed, it was present the whole while, on the same board, and the practice that should have found it was the very thing that hid it, so the mastery they trust is exposed as partly the blinkers, and there is no felt difference from the inside between a search that was free and one that was already spent.
-The bind is interior and quiet: the more they have practised, the more sure the good answer feels and the less a better one seems possible, so the confidence that is the fruit of their expertise is the same confidence that keeps them from doubting it, and they cannot tell, in the moment, which of their sure answers is the one with a better move hiding behind it.
+The bind is interior and quiet: when the good answer feels this sure, a better one seems not worth seeking, so the confidence that is the fruit of their expertise is the same confidence that keeps them from doubting it, and they cannot tell, in the moment, which of their sure answers is the one with a better move hiding behind it. That deeper skill would more often break its own hold is no comfort in the moment, since from inside the surest answer and the blocked one feel exactly alike.
 
 ## Tell
 

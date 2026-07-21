@@ -34,10 +34,10 @@ Trust the store, since the seat's whole method is to reach into what it has and 
 ## Loses
 
 The clear field a better move would need, which the seat crowds by its own richness.
-The Repertoire cannot both hold a deep, fast store and keep the board open, because the same readiness that delivers the good answer first is what spends the attention before a search for better can begin, so the seat's asset is its liability in one motion: the fuller the store, the faster it fires, and the faster it fires, the sooner the looking closes on what it produced. What the seat forfeits is the even search across the whole problem, given up not by neglect but by design, since a store worth having is a store that answers before you ask, and an answer that arrives before the question is one that fills the space a better answer would have occupied, so the seat that makes the solver expert is the seat that makes them blind on exactly the problems where a better move was there to find.
+The Repertoire cannot both hold a ready store and keep the board open, because the same readiness that delivers the good answer first is what spends the attention before a search for better can begin, so the seat's asset is its liability in one motion: only a seat that holds a ready answer can have its search closed by one, so the very store that makes it expert is what exposes it to the block, the empty seat spared not by wisdom but by having nothing ready to fire. What the seat forfeits is the even search across the whole problem, given up not by neglect but by design, since a store worth having is a store that answers before you ask, and an answer that arrives before the question is one that fills the space a better answer would have occupied, so the seat that makes the solver expert is the seat that makes them blind on exactly the problems where a better move was there to find.
 
 ## Drives
 
 Toward a good answer delivered fast and a better one crowded out,
 and a field spoken for before it is searched,
-so the seat that holds the expertise is the same seat whose richness closes the looking, its depth the reason the better move is never reached.
+so the seat that holds the expertise is the same seat whose ready answer closes the looking, the answer it can supply the reason the better move is never reached.

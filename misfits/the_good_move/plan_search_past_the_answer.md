@@ -22,7 +22,7 @@ A **standing plan**: the intent of [the Second Look](position_the_second_look.md
 
 ## Direction
 
-Take the good answer, and then refuse to stop. Treat a working solution as a suspect rather than a conclusion, and look again deliberately away from its ground, into the region the set marks empty, since that is exactly where a better move would sit unseen (Luchins and Luchins). Warn yourself off the easy path with the answer already in hand, and spend the search evenly across the whole board rather than let it pool on the first solution. Accept that this costs on every problem to pay off on a few: the set is invisible from inside, so you cannot tell the case with a better move hiding from the many where the first answer was best, and must therefore doubt them all, being slower and treating your own competence as untrustworthy to recover the move the good one would have blocked.
+Take the good answer, and then refuse to stop. Treat a working solution as a suspect rather than a conclusion, and look again deliberately away from its ground, into the region the set marks empty, since that is exactly where a better move would sit unseen (Luchins; Luchins and Luchins). Warn yourself off the easy path with the answer already in hand, and spend the search evenly across the whole board rather than let it pool on the first solution. Accept that this costs on every problem to pay off on a few: the set is invisible from inside, so you cannot tell the case with a better move hiding from the many where the first answer was best, and must therefore doubt them all, being slower and treating your own competence as untrustworthy to recover, more often though never surely, the move the good one would have blocked, since even the deliberate look reduces the set without erasing it.
 
 ## Orders
 
@@ -37,4 +37,4 @@ Take the good answer, and then refuse to stop. Treat a working solution as a sus
 - [ ] the good answer is taken but not allowed to close the search
 - [ ] the looking is pushed deliberately into the ground the set marks empty
 - [ ] the search is spent evenly rather than pooling on the first solution
-- [ ] the cost of doubting every good answer is accepted for the rare better one
+- [ ] the cost of doubting every good answer is accepted for the better one it sometimes saves
