@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.110.0",
+  "version": "0.111.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -482,6 +482,12 @@
       "id": "the_irony_of_automation",
       "title": "The Irony of Automation",
       "description": "Automating the routine rusts and disengages the operator, so the rare failure lands on a hand too cold to catch it."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_last_layer",
+      "title": "The Last Layer",
+      "description": "A society answers every problem with more complexity, until the complexity it lives by costs more than it yields."
     },
     {
       "kind": "misfit",
