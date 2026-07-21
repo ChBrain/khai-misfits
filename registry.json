@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.117.0",
+  "version": "0.118.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -146,6 +146,12 @@
       "id": "moral_licensing",
       "title": "Moral Licensing",
       "description": "A good deed is banked as moral credit, and the credit buys a later lapse, so the virtue funds the vice and washes out."
+    },
+    {
+      "kind": "misfit",
+      "id": "more_to_stand_still",
+      "title": "More to Stand Still",
+      "description": "The dose stops working, so you raise it, and the raise becomes the level you need just to stand where you started."
     },
     {
       "kind": "misfit",
