@@ -22,13 +22,13 @@ stamp:
 ## Has
 
 The power to grant, and the cost of it spread thin.
-The seat holds the means to fund a need when a crisis presents one, and grants the commitment against little resistance, because the outlay's cost is diffused across everyone who pays while its benefit is felt sharply by those it helps.
+The seat holds the means to fund a need when a crisis presents one, and grants the commitment against little resistance, because the outlay's cost is diffused across everyone who pays and deferred onto those who will pay later, borne partly by taxpayers not yet arrived, while its benefit is felt sharply and now by those it helps.
 Ease of motion in one direction only, since the seat can lift a commitment with the light friction of a spread cost but cannot lower it without the heavy friction of a concentrated loss.
 
 ## Orders
 
 Fund the need the crisis shows.
-Meet the present emergency with the present means, granting what the moment demands because the need is real and the cost, spread across the many, draws little objection (Buchanan and Wagner).
+Meet the present emergency with the present means, granting what the moment demands because the need is real and the cost, spread across the many and pushed onto later payers, draws little objection (Buchanan and Wagner).
 Do not price the exit when you grant, since at the moment of granting there is no constituency yet to resist a future cut, and the difficulty of ending the commitment is invisible precisely when the commitment is made.
 
 ## Loses

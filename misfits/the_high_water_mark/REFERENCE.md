@@ -19,11 +19,15 @@ climbs from that mark, not the old line. The play models the documented mechanic
 stickiness that keeps the raised level after the emergency has gone, the concentrated constituency that entrenches the
 commitment against a diffuse saving, and the accumulation of plateaus into a secular rise, as the load-bearing vectors
 of the structure, not as a tale of profligacy or a plan to grow the state. The governing finding of the source is the
-play's governing law: public expenditure moves upward in steps, displaced to a new and permanent level by each crisis
-and not receding when the crisis ends, the trend a staircase of displacements rather than a smooth climb. The rise is
-sound at every step, since each outlay answers a genuine need and the asymmetry that makes granting easy and cutting
-dear is a plain fact of who bears a diffuse cost and who defends a concentrated benefit, so the floor climbs not by
-anyone's greed but by the ordinary good sense of every party who funds a crisis and keeps a commitment.
+play's governing law: public expenditure moves upward in steps, displaced to a new and lasting level by each crisis and
+mostly not receding when the crisis ends, the trend a staircase of displacements rather than a smooth climb. This is a
+documented historical tendency, drawn chiefly from war-driven crises in the United Kingdom's record, not an arithmetic
+law: spending does sometimes fall, rarely all the way back to the old line and only against the resistance the floor has
+gathered, cleared fully only by an upheaval as large as the one that raised it, so the play stages the tendency and not
+an impossibility of decline. The rise is sound at every step, since each outlay answers a genuine need and the asymmetry
+that makes granting easy and cutting dear is a plain fact of who bears a diffuse cost and who defends a concentrated
+benefit, so the floor climbs not by anyone's greed but by the ordinary good sense of every party who funds a crisis and
+keeps a commitment.
 
 It is distinct from the house's Sandbag, where the ratchet is on an output quota that a worker games by soldiering,
 holding back capacity so that beating the target this period does not raise it next: there the ratcheted thing is a
@@ -40,13 +44,13 @@ look ordinary.
 
 The phenomenon in theory, and the research spine beneath it.
 
-| Source                                | Key Work / Event                                                         | Scope                                                                                                                                                                                                                                                                                                                    |
-| ------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Alan Peacock and Jack Wiseman**     | "The Growth of Public Expenditure in the United Kingdom" (1961)          | **The naming and the displacement effect**: the finding that public spending is displaced upward to a new, permanent level by each crisis, chiefly war, and does not fall back when the crisis ends, so the long trend rises in steps rather than smoothly. The play's governing law. The Watermark.                     |
-| **Adolph Wagner**                     | "Wagner's Law" of increasing state activity (_Finanzwissenschaft_, 1883) | **The secular tendency**: the earlier law that public expenditure grows as a share of the economy with industrial development, the smooth upward trend against which Peacock and Wiseman set their stepwise displacement, the long climb the marks accumulate into. The Climbing.                                        |
-| **Mancur Olson**                      | "The Rise and Decline of Nations" (1982)                                 | **The entrenchment**: distributional coalitions accrete over stable periods, each small, organised group defending its niche against a diffuse public that will not organise to end it, so commitments lock in and are cleared only by upheaval, the concentrated-benefit asymmetry that holds the floor. The Waterline. |
-| **James Buchanan and Richard Wagner** | "Democracy in Deficit" (1977)                                            | **The asymmetry**: the political ease of granting a concentrated benefit whose cost is diffuse or deferred against the pain of withdrawing it, spending raised readily and lowered only against a formed resistance, up cheap and down dear. The Purse. The Knife.                                                       |
-| **James Hines and Richard Thaler**    | "The Flypaper Effect" (_Journal of Economic Perspectives_, 1995)         | **The stickiness**: the empirical finding that funds, once placed, stick where they land rather than draining fungibly away, so a raised level of spending persists instead of reversing, the money bedding in rather than receding. The Outlay.                                                                         |
+| Source                                | Key Work / Event                                                         | Scope                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Alan Peacock and Jack Wiseman**     | "The Growth of Public Expenditure in the United Kingdom" (1961)          | **The naming and the displacement effect**: the finding that public spending is displaced upward to a new, permanent level by each crisis, chiefly war, and does not fall back when the crisis ends, so the long trend rises in steps rather than smoothly. The play's governing law. The Watermark.                                                                                                |
+| **Adolph Wagner**                     | "Wagner's Law" of increasing state activity (_Finanzwissenschaft_, 1883) | **The secular tendency**: the earlier law that public expenditure grows as a share of the economy with industrial development, the smooth upward trend against which Peacock and Wiseman set their stepwise displacement, the long climb the marks accumulate into. The Climbing.                                                                                                                   |
+| **Mancur Olson**                      | "The Rise and Decline of Nations" (1982)                                 | **The entrenchment**: distributional coalitions accrete over stable periods, each small, organised group defending its niche against a diffuse public that will not organise to end it, so commitments lock in and are cleared only by upheaval, the concentrated-benefit asymmetry that holds the floor. The Waterline.                                                                            |
+| **James Buchanan and Richard Wagner** | "Democracy in Deficit" (1977)                                            | **The asymmetry**: the political ease of granting a concentrated benefit whose cost is diffuse or deferred against the pain of withdrawing it, spending raised readily and lowered only against a formed resistance, up cheap and down dear. The Purse. The Knife.                                                                                                                                  |
+| **James Hines and Richard Thaler**    | "The Flypaper Effect" (_Journal of Economic Perspectives_, 1995)         | **The stickiness, by analogy**: the flypaper finding that money landing in a budget sticks there as spending rather than passing through to taxpayers as a tax cut, a violation of fungibility, cast here as the reason a crisis outlay, once placed, is not handed back when the crisis ends but stays in the budget it entered, the non-reversion itself being Peacock and Wiseman's. The Outlay. |
 
 ## Restrictions
 
@@ -68,14 +72,14 @@ What the house refuses to model, and how it credits what it stages.
   gain to the mass, so the reformer arrives with an argument and the beneficiaries with a person, and the person prevails
   (Olson; Buchanan and Wagner). Being right about the sum buys no cover against the particular, since the cost of the
   standing floor is spread too thin for anyone to bleed from visibly while the cost of the cut has a face and a voice.
-  The reckoning is a body that only ever grows, or a cut that costs the cutter and the constituency more than the diffuse
-  many will notice they were spared, not a way to lower the floor without taking a real thing from the people who stand
-  on it.
+  The reckoning is a body that grows far more than it shrinks, or a cut that costs the cutter and the constituency more
+  than the diffuse many will notice they were spared, not a way to lower the floor without taking a real thing from the
+  people who stand on it.
 - **Credit, not claim**: the research above is other people's work, packaged and attributed here, never claimed as the
   house's, and its reach is not overstated. The staging is the house's; the displacement effect and the stepwise ratchet
   of public spending are Peacock and Wiseman's, the secular upward tendency is Wagner's, the entrenchment by
-  distributional coalitions is Olson's, the asymmetry between granting and withdrawing is Buchanan and Wagner's, and the
-  flypaper stickiness of a placed outlay is Hines and Thaler's, each carried as carefully as the finding itself: the
+  distributional coalitions is Olson's, the asymmetry between granting a deferred-cost benefit and withdrawing it is Buchanan and Wagner's, and the
+  flypaper stickiness of placed money, borrowed here by analogy, is Hines and Thaler's, each carried as carefully as the finding itself: the
   misfit stages a floor raised by a true crisis and held by a real constituency, and credits that no one was profligate
   and the climb is the structure's own.
 
@@ -84,11 +88,11 @@ What the house refuses to model, and how it credits what it stages.
 Source to constraint, per element.
 
 - **[The Watermark](piece_the_watermark.md)**: carries the displacement effect whole (Peacock and Wiseman), the level
-  lifted by each crisis and never given back, the permanent floor that ties the cresting, bedding-in, and entrenchment
+  lifted by each crisis and rarely given back, the lasting floor that ties the cresting, bedding-in, and entrenchment
   into one phenomenon and climbs in steps.
-- **[The Outlay](piece_the_outlay.md)**: carries the individual commitment and its stickiness (Hines and Thaler), the
-  sound spend raised to meet a need that beds where it lands rather than receding, the good decision the floor is made
-  of.
+- **[The Outlay](piece_the_outlay.md)**: carries the individual commitment and its stickiness, cast from the flypaper
+  finding that placed money stays in the budget rather than passing back as a tax cut (Hines and Thaler), the sound spend
+  that beds where it lands rather than receding, the good decision the floor is made of.
 - **[The Waterline](piece_the_waterline.md)**: carries the concentrated-benefit asymmetry (Olson), the inhabited level a
   cut must fall below, where a diffuse saving meets the concentrated loss of the constituency that entrenches the
   commitment.

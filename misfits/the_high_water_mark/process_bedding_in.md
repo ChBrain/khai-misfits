@@ -27,7 +27,7 @@ Begins when the emergency passes and the spending, instead of draining back, kee
 ## Direction
 
 Turns a temporary measure into a permanent one.
-Because money once placed sticks where it landed rather than fungibly receding, the crisis outlay does not reverse when the crisis ends but beds into the ordinary budget, so bedding in converts an emergency response into a standing commitment, the temporary naturalised into the baseline (Hines and Thaler).
+Because money that lands in a budget tends to stick there as spending rather than pass back to taxpayers as a tax cut, the crisis outlay is not returned when the crisis ends but stays in the ordinary budget, so bedding in converts an emergency response into a standing commitment, the temporary naturalised into the baseline, the placed money sticking where it landed as the flypaper finding has it (Hines and Thaler).
 
 ## Lever
 

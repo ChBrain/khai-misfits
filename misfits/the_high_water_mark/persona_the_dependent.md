@@ -35,8 +35,8 @@ Does what a rational beneficiary does: values the thing they will lose far more 
 ## Shadow
 
 Not a parasite, but someone asked to give back alone what was handed to everyone, and that is the sting: they did not design the commitment or lobby it into being, they only trusted it, and now the trusting is named as the problem and the untrusting is asked of them first.
-What wears on them is the knowledge that their defence, honest and proportionate, is the very thing that holds the floor up. They can see, when they lift their eyes from their own stake, that the sum of all the defences is a state that only grows, and yet they cannot be the one to stand down, because standing down alone means bearing the whole loss so that everyone else can keep theirs, a sacrifice asked of them and no one.
-The bind is interior and lonely: to be reasonable about the aggregate is to volunteer as its single victim, so the clearer they see that the ratchet should be broken somewhere, the plainer it is that it cannot fairly be broken on them, and the fairness and the floor rise together, each defence just and the whole immovable.
+What wears on them is not an argument but the feeling of being singled out. When the talk turns to what must be cut, it is their name that comes up, their livelihood held up as the excess, and the reasonableness of the people naming it makes it worse, because there is no villain to be angry at, only a fairness that keeps arriving at their door. They took an offer made in good faith, and the taking is treated now as though it were the fault.
+The bind is interior and lonely: they know they are not wrong to hold on, and still they feel like the obstacle, so they carry a resentment that has nowhere to land and a guilt they did nothing to earn, keeping a thing they were invited to depend on and feeling, for keeping it, like the reason nothing can change.
 
 ## Tell
 

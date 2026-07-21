@@ -27,14 +27,14 @@ Begins whenever a new emergency arrives to a floor already raised by the last, a
 ## Direction
 
 Turns a series of displacements into a trend.
-Because each crisis crests from the plateau the previous one left, the rises do not return to a common floor but stack on one another, so climbing converts a sequence of bounded emergencies into an unbounded ascent, the long line of spending trending ever upward as the marks accumulate (Wagner; Peacock and Wiseman).
+Because each crisis crests from the plateau the previous one left, the rises do not return to a common floor but stack on one another, so climbing converts a sequence of bounded emergencies into a long upward trend, the line of spending trending upward as the marks accumulate (Wagner; Peacock and Wiseman).
 
 ## Lever
 
 The mark as the base of the next rise.
-Because the level never falls all the way back, each new surge starts from the height the last one left, so climbing works through the simple arithmetic of a floor that only adds: every crisis contributes its displacement and none subtracts, so the sum can only grow, the ascent guaranteed not by any single steep rise but by the absence of any fall.
+Because the level rarely falls all the way back, each new surge starts near the height the last one left, so climbing works through the near-absence of subtraction: most crises add their displacement and few take one away, so the sum trends upward absent an upheaval large enough to clear a mark, the ascent the default and a fall the costly exception.
 
 ## Echo
 
-A state that only ever grows, in steps and never down.
-The echo of climbing is the ratchet as the shape of the history, the spending higher after each crisis than before it and lower after none, so the record reads as a staircase, every tread a passed emergency and no step going down, the accumulation the outcome no crisis intended and every crisis built.
+A state that trends upward, in steps and seldom down.
+The echo of climbing is the ratchet as the shape of the history, the spending usually higher after a crisis than before it and lower only when an upheaval as large as the one that raised a mark forces it down, so the record reads as a staircase, most treads a passed emergency held and the rare descent paid for in full, the accumulation the outcome no crisis intended and each crisis, unless cleared, built.

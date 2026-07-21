@@ -34,9 +34,9 @@ Does what a reformer does against an entrenched outlay: trades a concentrated, i
 
 ## Shadow
 
-Not a cruelty, but the loneliness of being right in a way that helps no one who can feel it and hurts everyone who can, and that is the weight: the gain they fight for is invisible and unowned, while the loss they inflict has a face, a name, and a voice raised against them.
-What gnaws is that their correctness is worthless as cover. They cannot point to a victim of the standing floor the way the constituency can point to a victim of the cut, because the cost of the commitment is spread so thin that no one bleeds from it visibly, so they arrive with an argument and the other side arrives with a person, and the person wins, and should, in the eye that sees only who is hurt today.
-The bind is interior and thankless: to do the right thing by the sum is to become the villain of the particular, so the more surely they know the floor should come down, the more certainly they know it will come down on someone real and by their hand, and there is no version of the cut that is both correct and kind, only the choice to be hated for a saving no one will ever trace back to them with thanks.
+Not a cruelty, but the private cost of being cast as the villain for doing the sum right, and that is the weight they carry alone: the faces of the people a cut would hurt are specific and known to them, and the mass who would gain are no one they will ever meet or be thanked by.
+What gnaws is the doubt the role breeds in them. To be met with anger, season after season, for a good they cannot show anyone is to begin to wonder whether a rightness no one can feel is worth the harm everyone can, and the wondering does not resolve, because their own conscience keeps returning a verdict their heart will not sign. They must harden to do the thing at all, and then they distrust the hardening.
+The bind is interior and corrosive: they have to become the kind of person who can look at a named loss and choose it anyway, and that is not a comfortable person to be, so each cut they carry leaves them a little colder, a little more sure they were right and a little less sure it was worth what it made of them, hated for the choosing and never once thanked, until they can no longer tell their resolve from a callus.
 
 ## Tell
 
