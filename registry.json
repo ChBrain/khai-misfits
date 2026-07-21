@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.116.0",
+  "version": "0.117.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -470,6 +470,12 @@
       "id": "the_head_start",
       "title": "The Head Start",
       "description": "An early lead attracts the credit and resources that make the next lead, so small head starts compound into dominance."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_high_water_mark",
+      "title": "The High-Water Mark",
+      "description": "Each crisis lifts the spending to meet it, and when the crisis passes the spending stays, so the floor only climbs."
     },
     {
       "kind": "misfit",
