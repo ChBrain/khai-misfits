@@ -33,11 +33,11 @@ Stretch the thin water, since the seat cannot summon a well by needing one, its 
 
 ## Loses
 
-The pull on supply, which the seat lacks precisely where it needs it most.
-The Thirst cannot draw a well by the depth of its need, because supply answers reward and the seat's need comes without the coin, voice, or nearness that reward is read in, so the seat's very want, spoken in a currency the slope does not hear, registers as a low call. What the seat forfeits is the standing to command provision at all: its need is greatest and its pull is faintest, the two bound together, since the same poverty and hardness that make the thirst deep are what make the ground unrewarding and the voice unheard, so the seat cannot convert need into supply by any means it holds, and is counted, from the comfortable distance of the well-watered, as undemanding, its unmet thirst read as low demand and its silence taken for sufficiency rather than for the absence of any well to ask at.
+The pull on supply, which the seat cannot generate however deep its need.
+The Thirst holds need without purchasing power, and supply is allocated by reward, so the seat has no bid to place: it cannot pay to attract a well, cannot offer the firm ground or the ready coin a provider sites by, and cannot turn the depth of a need into a quantity a reward-allocated supply reads as demand. What the seat forfeits is any channel from need to provision: the two run in different currencies, need in one and supply in the other, so the seat's want is not a signal the market can act on, and the same poverty and hardness that make the thirst deep are what strip it of every lever, coin, proximity, the means to travel or to choose, by which a need becomes a claim on a well, leaving it a demand with no mechanism to demand and, on a supply that answers reward, a pull of nothing.
 
 ## Drives
 
 Toward a need that is deepest and a pull that is faintest,
-and a thirst counted as low demand because it cannot reach a well,
-so the seat that most requires care is the seat that least commands it, its need and its silence the same lack, unheard in the one currency the slope answers.
+and a demand with no mechanism to signal itself to a supply allocated by reward,
+so the seat that most requires care is the seat that least commands it, its need and its want of purchasing power the same lack, unpriced in the one currency the slope answers.

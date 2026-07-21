@@ -33,11 +33,11 @@ Hold the well against the slope, since a correction left alone drifts back to th
 
 ## Loses
 
-The ground that pays, which the seat forgoes by design, and the rest of never being done.
-The Divining can answer the deepest thirst only by sinking where it does not pay, so it gives up the viable ground the trade would take, funds wells that will never return, and sends scarce hands to the places that grind them, spending in reward foregone what the slope would have given freely. What the seat forfeits is any settled end: because the pull of viability and the fuller reach of the well-watered are always working to carry care back down the slope, the correction is never held once and done but must be renewed against a gravity that never tires, so the seat pays not a price but a standing tax, its every gain re-wonable and its whole achievement the invisible one of a thirst that did not go unanswered, no monument to a crisis prevented and no rest from the holding.
+The ground that pays, which the seat forgoes by design, and any terminal point to its work.
+The Divining can answer the deepest thirst only by sinking where it does not pay, so it gives up the viable ground the trade would take, funds wells that will never return, and staffs the grim ground the slope would leave bare, spending in reward foregone what viability would otherwise have supplied. What the seat forfeits is closure: the allocation it opposes is not a single misplacement to be corrected but a standing pressure, restored the moment the counter-force lifts, so the seat's output is not a correction made and kept but a subsidy funded every period and a direction issued afresh, holding only while the spending continues and reverting to reward as soon as it stops. The seat is defined by a recurring cost rather than a task that completes, an office whose whole function is to meet, outlay by outlay, a slope that resets whenever it is left alone.
 
 ## Drives
 
 Toward care held to need against the slope that would misplace it,
-and a correction that must be re-won for as long as it is to last,
-so the seat that alone can answer the deepest thirst is the seat that must dig where it does not pay and hold, without end, what reward is always drawing back.
+and a correction that holds only while it is funded and reverts the moment it is left,
+so the seat that alone can answer the deepest thirst is the seat that must dig where it does not pay and meet, without end, a slope that reward is always restoring.

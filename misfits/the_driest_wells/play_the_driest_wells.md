@@ -24,7 +24,7 @@ Care is a well, and a well is sunk where the sinking pays and the ground gives w
 
 ## Arc
 
-The bend is this: the availability of good care varies inversely with the need for it, because provision follows the slope of reward and reward runs opposite to need, so care is most available where it is least needed, an inversion that runs more completely the more care is exposed to the market (Tudor Hart).
+The bend is this: the availability of good care tends to vary inversely with the need for it, because provision follows the slope of reward and reward runs opposite to need, so care is most available where it is least needed, an inversion that runs more completely the more care is exposed to the market (Tudor Hart).
 It runs on a supply that follows reward, not need.
 Because care settles where it can be sustained, where there is coin and ease and firm ground, the provider sinks the well where the work is viable, which is the sound and necessary condition of practising at all, so supply gathers along the slope of reward (Tudor Hart). The choice is right for each provider, and it is a choice about where they can work, not about who most needs them.
 And the slope of reward runs opposite to the slope of need.

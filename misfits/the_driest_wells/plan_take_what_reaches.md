@@ -22,7 +22,7 @@ A **standing plan**: the intent of [the Thirst](position_the_thirst.md), inside 
 
 ## Direction
 
-Make do with the care that reaches the hardpan, since the provision that answers reward does not come to the deepest thirst and the far well is the only well there is (Tudor Hart). Stretch the thin water across a need far larger than it, and do not expect to summon a well by needing one, because the seat's thirst, spoken in a currency the slope does not hear, makes no pull on the supply that would answer it. Accept that the under-use forced by distance and cost and thin knowledge will read, in the ledger of demand, as a low call, so the deepest need is counted as small precisely because it cannot reach the well that would meet it (the Black Report; Marmot).
+Make do with the care that reaches the hardpan, since the provision that answers reward does not come to the deepest thirst and the far well is the only well there is (Tudor Hart). Stretch the thin water across a need far larger than it, and do not expect to summon a well by needing one, because the seat's thirst, spoken in a currency the slope does not hear, makes no pull on the supply that would answer it. Accept that the under-use forced by distance and cost and thin knowledge will read, in the ledger of demand, as a low call, so the deepest need is counted as small precisely because it cannot reach the well that would meet it (Le Grand; the Black Report).
 
 ## Orders
 
