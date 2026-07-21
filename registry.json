@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.108.0",
+  "version": "0.109.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -368,6 +368,12 @@
       "id": "the_dilbert_principle",
       "title": "The Dilbert Principle",
       "description": "The one who cannot do the work is promoted out of it, so the ranks that lead fill with those who failed at it."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_dollar_auction",
+      "title": "The Dollar Auction",
+      "description": "A dollar goes to the top bidder and the runner-up pays too, so each rational raise carries both past the prize to ruin."
     },
     {
       "kind": "misfit",
