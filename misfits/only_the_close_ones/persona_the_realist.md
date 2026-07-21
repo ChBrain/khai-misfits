@@ -34,9 +34,9 @@ Does what reading a selected record rightly requires: builds a model of what did
 
 ## Shadow
 
-Not an oracle, but someone who must build their answer on the cases they can least see, and that is the strain: the settled disputes are private, their terms unrecorded, so the correction rests hardest on the very data the world keeps hidden, and the confidence they can offer is bounded by a darkness they cannot light.
-What wears on them is that their careful correction looks weaker than the error it fixes. The Tallyman offers a clean number and a firm conclusion; the Realist offers a range, an assumption, a caveat about the unobserved, so the true reading is the less persuasive one, and they are forever the person replacing a confident answer with an honest doubt that convinces fewer.
-The bind is interior and thankless: to be right they must rest their estimate on what was never recorded, so they can never be as sure as the reader they correct, and the more faithfully they account for the missing cases the more provisional their answer must sound, the honesty of the reconstruction and its persuasiveness pulling against each other.
+Not an oracle, but someone doomed to be right in the least convincing way, and that is the quiet loneliness of it: they carry the true answer and it lands softer than the false one, so the room leans toward the Tallyman's clean number and away from their careful range, and being correct buys them no weight in the argument, only the private knowledge that they are.
+What wears on them is a strange envy. The Tallyman gets to be sure, gets the ease of a firm figure and a nodding audience, while they must always qualify, always gesture at the dark they cannot light, and there are days they would trade the burden of the honest doubt for the comfort of the confident error, if only the error were not wrong.
+The bind is interior and wearing: they must say the true thing knowing it will persuade fewer than the false one, and be, in every room where the plain count is welcome, the unwelcome voice asking after cases no one wrote down, right and alone and quietly tired of both.
 
 ## Tell
 

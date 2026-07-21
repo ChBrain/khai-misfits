@@ -32,7 +32,7 @@ Underneath, the cases both sides could call have already left by settlement, pri
 ## Nerve
 
 A docket of toss-ups comes out near even, whatever the world was.
-The nerve is that the trial win rate is driven to one half by the selection and not by the merits, so a lopsided law and a balanced one leave the same fifty-fifty record, and the reader who counts it measures the sample's clustering and mistakes it for the world's.
+The nerve is that the trial win rate is driven toward one half by the selection and not by the merits, so a lopsided law and a balanced one leave the same fifty-fifty record, and the reader who counts it measures the sample's clustering and mistakes it for the world's.
 
 ## Echo
 

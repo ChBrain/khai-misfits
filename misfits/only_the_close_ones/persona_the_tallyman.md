@@ -34,9 +34,9 @@ Does what a careful empiricist does: lets the data speak, and is betrayed by it,
 
 ## Shadow
 
-Not careless, but betrayed by the one thing they were trained to trust, and that is the disquiet if it dawns on them: the more rigorously they count, the more confident they become in a number that means nothing about the world, their very carefulness deepening a conclusion the sample cannot support.
-What gnaws, once seen, is that no refinement of method saves them. Cleaner data, larger samples, better statistics all sharpen the estimate of a quantity that was the wrong quantity to begin with, so their diligence does not correct the error but polishes it, and they cannot tell, from inside the count, that the record was filtered, because the filter left no mark on any row.
-The bind is interior and epistemic: everything they can see says the measure is sound, and the flaw is in what they cannot see, the cases that never entered the record, so to distrust their own careful count they would have to doubt data that looks, by every visible test, clean, and reach for a population the record gives them no way to reach.
+Not careless, but a person whose faith in the count is the very thing that undoes them, and that is the vertigo of it if it ever dawns: the habit of a lifetime, that clean data honestly counted yields truth, is exactly the habit that leads them wrong here, and no inner sense warns them, no felt doubt rises to be trusted, because the number sits as solid in them as any true one they have ever reached.
+What gnaws, once they glimpse it, is that they cannot unfeel the confidence. The record still looks clean, the arithmetic still satisfies, and the wrongness lives somewhere they have no instinct for, so they are asked to mistrust a result that every trained reflex tells them to believe, and the mistrust will not come of itself, only as an effort turned against their own judgement.
+The bind is interior and disorienting: careful counting is their whole discipline and their quiet pride, and here the discipline is the snare, so they must hold their best skill in suspicion, doubt the thing they are good at exactly when it feels most reliable, and carry a measure that is at once impeccable and empty, a craft they trust gone strange in their hands.
 
 ## Tell
 

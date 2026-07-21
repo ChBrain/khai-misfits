@@ -33,8 +33,8 @@ Trust the data, since the seat's method is to let the record speak, and the reco
 
 ## Loses
 
-The truth of its own measure, which the seat cannot reach because the flaw is in what it never sees.
-The Tally can only count what was tried, and what was tried was selected before it arrived, so the seat computes an honest rate over a sample chosen on the outcome, its diligence spent on the wrong population. What the seat forfeits is the ability to detect its own error from within: every visible test of the data passes, the rows are real and the arithmetic sound, and the selection left no mark on any verdict, so the seat has no signal that the record was filtered and no way, by counting harder, to recover the cases the filter removed, its very rigour deepening a confidence in a number that describes the residue and not the world, the seat that measures most carefully the seat least able to see that its measure is of the wrong thing.
+The truth of its own measure, which the seat has no instrument to reach.
+The Tally can only count what was tried, and what was tried was selected before it arrived, so the seat computes an honest rate over a sample chosen on the outcome, its work spent on the wrong population. What the seat forfeits is any internal check: every test it can run is a test of the record it holds, and the record it holds is clean, so no diagnostic available to the seat reveals that the sample was filtered, because the filter operated before the data arrived and left nothing in the data to find. The seat cannot recover the missing cases by processing the present ones, since no function of the tried record reconstructs the settled ones it never contained, so more computation only refines an estimate of the wrong quantity, the seat sealed inside a sample whose bias is invisible to every operation it can perform on it.
 
 ## Drives
 

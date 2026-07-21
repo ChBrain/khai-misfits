@@ -27,7 +27,7 @@ Flows as the disputes that produced no verdict, the informative cases resolved o
 ## Load Bearing
 
 Without the Unlitigated the record would be complete and reading it sound: it is the mass of settled cases, missing exactly where the inference needs them, that makes the trial record a residue rather than a sample.
-The Unlitigated is load bearing because it is the informative absence, the clear cases whose known outcomes would have shown the pattern, removed precisely because they were clear (Priest and Klein). Its being unobserved is the whole difficulty: the correction that would read the record rightly needs this population, and this population is private, its terms unrecorded and its size unknown, so the data most needed is the data least available, and the reader cannot even measure how much is missing, the Unlitigated withholding not just its outcomes but any count of itself.
+The Unlitigated is load bearing because it is the informative absence, the clear cases whose known outcomes would have shown the pattern, removed precisely because they were clear (Priest and Klein). Its being unobserved is the whole difficulty: the correction that would read the record rightly needs this population (Heckman), and this population is private, its terms unrecorded and its size unknown, so the data most needed is the data least available, and the reader cannot even measure how much is missing, the Unlitigated withholding not just its outcomes but any count of itself.
 
 ## Apparent
 
