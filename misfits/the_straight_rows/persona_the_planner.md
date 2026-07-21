@@ -35,7 +35,7 @@ Does what a centre must under distance: reduces the tangle to a grid it can mana
 ## Shadow
 
 Not a tyrant, but the one whose need to see clears what it cannot read, and that is the quiet of it: the grid is a real tool and it razes a real knowledge.
-Because the Planner can record only what it can measure, the legible order it imposes keeps the rows and clears the métis, the mixed stand and the customary rotation and the street's unplanned life, so the domain is remade into the thin image the map can hold, and the Planner, meaning only to govern, has cleared the working knowledge that made the place worth governing.
+Because the Planner can record only what it can measure, the legible order it imposes keeps the rows and clears the mētis, the mixed stand and the customary rotation and the street's unplanned life, so the domain is remade into the thin image the map can hold, and the Planner, meaning only to govern, has cleared the working knowledge that made the place worth governing.
 Every simplification is reasonable, and the sum of reasonable simplifications is a domain that can be read and cannot live.
 
 ## Tell

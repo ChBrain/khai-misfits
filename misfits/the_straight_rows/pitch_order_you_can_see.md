@@ -28,7 +28,7 @@ Nothing cruel in it: the planner means to improve the place, the state must tax 
 ## Undertow
 
 Under the method, a grid thinner than the life it maps.
-Because the survey can record only what it can measure, the legible order it imposes keeps the countable rows and clears the rest, the mixed species and the customary rotation and the sidewalk's unplanned order, the tacit métis that actually ran the system and no table could hold, so the domain is remade into the thin image the centre can read.
+Because the survey can record only what it can measure, the legible order it imposes keeps the countable rows and clears the rest, the mixed species and the customary rotation and the sidewalk's unplanned order, the tacit mētis that actually ran the system and no table could hold, so the domain is remade into the thin image the centre can read.
 The order that reads as improvement is a simplification that has cleared the working knowledge, and the place the centre can finally see is the place that can no longer feed itself.
 
 ## Nerve
@@ -41,4 +41,4 @@ while underneath the map presses down onto the ground and clears the knowledge i
 
 After the run: a domain made legible and, in time, made barren, the second rotation sick where the first was heavy, the knowledge that carried it cleared with the underbrush,
 no tyrant in the story, only method and improvement and a centre reading its revenue from a map,
-and the one move that would spare it, holding the grid below the point where it clears the métis, refused by the same drive to govern that drew the grid, so the ground gives out where the plan looked soundest, and the place is hollowed without anyone ever meaning it harm.
+and the one move that would spare it, holding the grid below the point where it clears the mētis, refused by the same drive to govern that drew the grid, so the ground gives out where the plan looked soundest, and the place is hollowed without anyone ever meaning it harm.

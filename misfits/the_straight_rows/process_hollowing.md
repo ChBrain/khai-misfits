@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[The Straight Rows](play_the_straight_rows.md). The legible system, run on the grid alone, losing the function the cleared métis carried, and failing.
+[The Straight Rows](play_the_straight_rows.md). The legible system, run on the grid alone, losing the function the cleared mētis carried, and failing.
 
 ## Owner
 
@@ -21,18 +21,18 @@ stamp:
 
 ## Initiated by
 
-The Successor, running the map faithfully after the métis is gone.
+The Successor, running the map faithfully after the mētis is gone.
 At [the forest](place_the_forest.md), the second rotation is worked exactly as the first, but the ground beneath it is the ground the clearing left, unfed and stripped of the web that carried the heavy first yield.
 
 ## Direction
 
 Toward the collapse the first success concealed.
-Because the domain now runs on only what the grid can see, hollowing points at the missing function: the métis that held the soil, the rotation, the unplanned order is gone, so the system that looked vindicated by the first yield loses what carried it, the second rotation coming in sick and the third dead, the place failing on the very grid that made it governable.
+Because the domain now runs on only what the grid can see, hollowing points at the missing function: the mētis that held the soil, the rotation, the unplanned order is gone, so the system that looked vindicated by the first yield loses what carried it, the second rotation coming in sick and the worst of the third dead, the place failing on the very grid that made it governable.
 
 ## Lever
 
 The reserve spent by the clearing, and the plan that cannot see it is gone.
-Because the first yield drew on a métis the grid had already cleared, hollowing runs on a debt hidden in the success, so the more faithfully the Successor runs the proven plan the more surely it meets the shortfall, the legible order having no line for the reserve it spent and no way to rebuild a knowledge it never recorded.
+Because the first yield drew on a mētis the grid had already cleared, hollowing runs on a debt hidden in the success, so the more faithfully the Successor runs the proven plan the more surely it meets the shortfall, the legible order having no line for the reserve it spent and no way to rebuild a knowledge it never recorded.
 
 ## Echo
 

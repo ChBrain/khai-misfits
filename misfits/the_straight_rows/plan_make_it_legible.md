@@ -30,11 +30,11 @@ See the domain so it can be governed. Reduce the tangle to a legible grid, repla
 
 ## Implementation
 
-([The Survey](place_the_survey.md), pressed onto [The Forest](place_the_forest.md); the [simplifying](process_simplifying.md) process; the Planner draws [the map](piece_the_map.md) and clears [the métis](piece_the_metis.md), remaking the domain into [the legible order](piece_the_legible_order.md) it can run.)
+([The Survey](place_the_survey.md), pressed onto [The Forest](place_the_forest.md); the [simplifying](process_simplifying.md) process; the Planner draws [the map](piece_the_map.md) and clears [the mētis](piece_the_metis.md), remaking the domain into [the legible order](piece_the_legible_order.md) it can run.)
 
 ## Targets
 
 - [ ] the domain is reduced to a legible grid the centre can read from a distance
 - [ ] the map is imposed because a centre cannot act on what it cannot hold in a table
-- [ ] the métis the survey cannot record is cleared with everything else it cannot see
+- [ ] the mētis the survey cannot record is cleared with everything else it cannot see
 - [ ] the place is remade into the thin image the map can hold, and can at last be governed

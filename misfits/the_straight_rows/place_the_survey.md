@@ -27,7 +27,7 @@ The Planner at the map, turning forest and village into rows and squares and fig
 ## Holds
 
 The reduction of the domain to what can be read.
-Here the place is not worked but represented, so the Survey holds the first move of the trap: the tangle is reduced to a legible grid, and because the map can carry only what it can measure, everything unwritten and particular falls off the page, the métis lost not by intent but by the format of the representation itself.
+Here the place is not worked but represented, so the Survey holds the first move of the trap: the tangle is reduced to a legible grid, and because the map can carry only what it can measure, everything unwritten and particular falls off the page, the mētis lost not by intent but by the format of the representation itself.
 The Survey is where the domain becomes the map, and where the map keeps only what it can record.
 
 ## Offers
@@ -38,4 +38,4 @@ Because the Survey turns the tangle into a grid, it offers the Planner a place i
 ## Withheld
 
 Everything the map cannot record, and any sign that what it drops still matters.
-The Survey can draw the domain as rows and figures, but it withholds a line for the métis, the unwritten particular knowledge that ran the place, and, the grid looking so complete, it withholds any sign that the dropped knowledge was load-bearing, so it hands the centre a map that reads as the whole domain and has quietly left out the part that kept it alive.
+The Survey can draw the domain as rows and figures, but it withholds a line for the mētis, the unwritten particular knowledge that ran the place, and, the grid looking so complete, it withholds any sign that the dropped knowledge was load-bearing, so it hands the centre a map that reads as the whole domain and has quietly left out the part that kept it alive.

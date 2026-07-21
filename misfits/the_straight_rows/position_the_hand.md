@@ -22,7 +22,7 @@ stamp:
 ## Has
 
 A domain known by hand, and a knowledge that lives only in the working of it.
-The métis: which soil, which season, which patch to leave, which custom holds, a practical intelligence learned by doing and passed by doing, real and unwritten.
+The mētis: which soil, which season, which patch to leave, which custom holds, a practical intelligence learned by doing and passed by doing, real and unwritten.
 No way to render that knowing into a rule or a table, since it is a knowledge of the particular that exists in the practice and not apart from it.
 
 ## Orders
@@ -34,7 +34,7 @@ Read the particular that the survey cannot, since the domain is carried by exact
 ## Loses
 
 The knowledge itself, cleared when the grid comes down, because it could not be written.
-Because the legible order keeps only what it can record, the Hand's métis is banned, displaced, or left to die, the mixed stand felled for the rows and the custom overruled by the plan, not refuted but simply unread.
+Because the legible order keeps only what it can record, the Hand's mētis is banned, displaced, or left to die, the mixed stand felled for the rows and the custom overruled by the plan, not refuted but simply unread.
 It holds the place and loses its knowing to a grid that cannot see it, the working intelligence cleared as disorder because the survey has no line for it.
 
 ## Drives

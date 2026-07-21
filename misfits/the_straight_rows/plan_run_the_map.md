@@ -30,11 +30,11 @@ Keep faith with the design the first success proved. Tend the plantation and adm
 
 ## Implementation
 
-([The Forest](place_the_forest.md); the [hollowing](process_hollowing.md) process; the Successor works [the legible order](piece_the_legible_order.md) with [the métis](piece_the_metis.md) gone, and the heavy first [yield](piece_the_yield.md) gives way to [the blight](piece_the_blight.md).)
+([The Forest](place_the_forest.md); the [hollowing](process_hollowing.md) process; the Successor works [the legible order](piece_the_legible_order.md) with [the mētis](piece_the_metis.md) gone, and the heavy first [yield](piece_the_yield.md) gives way to [the blight](piece_the_blight.md).)
 
 ## Targets
 
 - [ ] the plan is run faithfully, exactly as the vindicated design specifies
-- [ ] the system has no reserve, the métis that carried the first yield already cleared
-- [ ] the second rotation comes in sick and the third dead, the ground giving out beneath a sound-looking plan
+- [ ] the system has no reserve, the mētis that carried the first yield already cleared
+- [ ] the second rotation comes in sick and the worst of the third dead, the ground giving out beneath a sound-looking plan
 - [ ] the legible order fails on the very grid that made it governable, past any faithful running to reverse

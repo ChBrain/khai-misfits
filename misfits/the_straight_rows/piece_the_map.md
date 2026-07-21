@@ -37,4 +37,4 @@ Seen at the surface, the Map looks like knowledge of the territory, an order fin
 ## Yearbook
 
 Drawn by [the Planner](persona_the_planner.md), imposed on the domain, and inherited by [the Successor](persona_the_successor.md), the grid the whole order is read in.
-It is the instrument of the trap: the Map is what [simplifying](process_simplifying.md) produces, it is pressed down to clear [the métis](piece_the_metis.md) it cannot record, and it is the thin frame that becomes [the legible order](piece_the_legible_order.md), the reach that governs the domain and the reduction that cannot keep it alive.
+It is the instrument of the trap: the Map is what [simplifying](process_simplifying.md) produces, it is pressed down to clear [the mētis](piece_the_metis.md) it cannot record, and it is the thin frame that becomes [the legible order](piece_the_legible_order.md), the reach that governs the domain and the reduction that cannot keep it alive.

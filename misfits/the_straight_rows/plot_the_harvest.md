@@ -30,7 +30,7 @@ A legible order newly imposed, and a harvest that will be read as its proof.
 
 ## Stage
 
-[The Planner](persona_the_planner.md) counts [the yield](piece_the_yield.md) at [the survey](place_the_survey.md) and carries the method to the next forest, the heavy first rotation proving the grid, though the harvest was drawn on [the métis](piece_the_metis.md) the plan had already cleared.
+[The Planner](persona_the_planner.md) counts [the yield](piece_the_yield.md) at [the survey](place_the_survey.md) and carries the method to the next forest, the heavy first rotation proving the grid, though the harvest was drawn on [the mētis](piece_the_metis.md) the plan had already cleared.
 The success is real, and it is borrowed, a proof grown on a reserve the clearing spent.
 
 ## Tension

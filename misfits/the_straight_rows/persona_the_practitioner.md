@@ -24,7 +24,7 @@ type: archetype
 
 Skilled. Local. Knowing in the doing.
 Is the one who actually works the domain: the forester who reads the mixed stand, the peasant who knows the rotation, the dweller who keeps the street, holding a practical knowledge learned by hand and passed by doing.
-No mysticism wished on them: the métis is real and it works, a knowledge of the particular place that the survey cannot write down because it lives in the practice and not in a rule.
+No mysticism wished on them: the mētis is real and it works, a knowledge of the particular place that the survey cannot write down because it lives in the practice and not in a rule.
 
 ## Action
 
@@ -34,9 +34,9 @@ Does what working knowledge does: holds the place together by a thousand tacit a
 
 ## Shadow
 
-Not defeated on the merits, but cleared as disorder, and that is the loss: the métis is not refuted by the grid, it is simply unreadable to it, and what the survey cannot see it treats as not there.
+Not defeated on the merits, but cleared as disorder, and that is the loss: the mētis is not refuted by the grid, it is simply unreadable to it, and what the survey cannot see it treats as not there.
 Because the legible order keeps only what it can record, the Practitioner's knowledge is banned, displaced, or left to die when the grid comes down, the mixed stand felled for the rows and the custom overruled by the plan, so the working knowledge is cleared not because it failed but because it could not be written, and the domain loses the hand that ran it.
-The métis holds the place and the map cannot see the métis, so the map clears the hand that held the place.
+The mētis holds the place and the map cannot see the mētis, so the map clears the hand that held the place.
 
 ## Tell
 

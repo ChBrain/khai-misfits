@@ -14,7 +14,7 @@ type: archetype
 
 ## Taxonomy
 
-[The Aftermath](position_the_aftermath.md). Inherits the legible system after the métis is gone and meets the slow collapse the first rotation hid.
+[The Aftermath](position_the_aftermath.md). Inherits the legible system after the mētis is gone and meets the slow collapse the first rotation hid.
 
 ## Owner
 
@@ -29,13 +29,13 @@ No error wished on them: they run the system exactly as the plan intended, and t
 ## Action
 
 Runs the map as given: tends the plantation, administers the plan, harvests the second rotation as the first was harvested, doing everything the legible order specifies.
-Answers the system as it stands, which is now only what the grid can see, the métis that carried the first success already cleared and unrecorded, so there is nothing left to run by but the plan.
+Answers the system as it stands, which is now only what the grid can see, the mētis that carried the first success already cleared and unrecorded, so there is nothing left to run by but the plan.
 Does what an heir to a working method must: keeps faith with the design, and finds the ground giving out beneath a plan that did everything right.
 
 ## Shadow
 
 Not negligent, but handed a system that has already spent the knowledge it ran on, and that is the sting: the collapse was set in motion a rotation before the Successor arrived, by the clearing that made the domain legible.
-Because the first yield was carried by a métis the grid then cleared, the Successor inherits a plantation with no reserve, the soil unfed and the web gone, so the second rotation comes in sick and the third dead, and the faithful running of a sound-looking plan meets a ruin it did not cause and cannot reverse, the legible order failing on the very grid that made it governable.
+Because the first yield was carried by a mētis the grid then cleared, the Successor inherits a plantation with no reserve, the soil unfed and the web gone, so the second rotation comes in sick and the worst of the third dead, and the faithful running of a sound-looking plan meets a ruin it did not cause and cannot reverse, the legible order failing on the very grid that made it governable.
 The plan was right on its own terms and the terms had cleared what kept it standing, so the heir who runs it perfectly is the one the collapse finds.
 
 ## Tell

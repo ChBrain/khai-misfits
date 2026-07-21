@@ -27,7 +27,7 @@ Flows through the entire domain, from the tangle reduced to the ruin that follow
 ## Load Bearing
 
 Without it there are only parts: a map, a cleared knowledge, a first harvest, a dying stand, with no name for the order that binds them.
-With it the parts become one legible engine: the grid is imposed to govern, the métis is cleared because the grid cannot record it, the first yield vindicates the method, and the domain, run on only what the grid can see, gives out. The Legible Order is load bearing because it is the phenomenon entire (Scott): the map pressed down onto the ground that remakes the territory into its own thin image and then cannot keep it alive, so the piece carries the trap whole, a rational, improving, governing order that hollows the place in the act of learning to read it, and needs no tyrant to do it.
+With it the parts become one legible engine: the grid is imposed to govern, the mētis is cleared because the grid cannot record it, the first yield vindicates the method, and the domain, run on only what the grid can see, gives out. The Legible Order is load bearing because it is the phenomenon entire (Scott): the map pressed down onto the ground that remakes the territory into its own thin image and then cannot keep it alive, so the piece carries the trap whole, a rational, improving, governing order that hollows the place in the act of learning to read it, and needs no tyrant to do it.
 
 ## Apparent
 
@@ -37,4 +37,4 @@ Seen at the surface, the Legible Order looks like progress, method replacing mud
 ## Yearbook
 
 Imposed by [the Planner](persona_the_planner.md), cleared through the [Practitioner](persona_the_practitioner.md), and inherited by [the Successor](persona_the_successor.md), the order they each serve honestly.
-It is the whole of it: the Legible Order is [simplifying](process_simplifying.md), [erasing](process_erasing.md), [vindicating](process_vindicating.md), and [hollowing](process_hollowing.md) run as one, [the map](piece_the_map.md) pressed down and [the métis](piece_the_metis.md) cleared and [the yield](piece_the_yield.md) counted before [the blight](piece_the_blight.md), a domain hollowed by the reasonable reach of a centre that must see to act and no tyrant required.
+It is the whole of it: the Legible Order is [simplifying](process_simplifying.md), [erasing](process_erasing.md), [vindicating](process_vindicating.md), and [hollowing](process_hollowing.md) run as one, [the map](piece_the_map.md) pressed down and [the mētis](piece_the_metis.md) cleared and [the yield](piece_the_yield.md) counted before [the blight](piece_the_blight.md), a domain hollowed by the reasonable reach of a centre that must see to act and no tyrant required.

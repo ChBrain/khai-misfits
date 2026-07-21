@@ -27,7 +27,7 @@ Flows from the legible order to the ledger, the countable harvest that reads as 
 ## Load Bearing
 
 Without it the method would not be trusted or spread, and no one would double down on a plan the collapse would soon expose.
-With it the legible order earns its confidence: the first rotation is heavy, the plan on schedule, the revenue counted, so the Yield is the success that vindicates the grid and carries it to the next forest and the next province. The Yield is load bearing because it is why the trap entrenches (Lowood): the early harvest that proves the method just as it spends the reserve, so the piece carries the deceptive success of the structure, a real result drawn on the métis the grid already cleared, the very yield that hides the coming blight.
+With it the legible order earns its confidence: the first rotation is heavy, the plan on schedule, the revenue counted, so the Yield is the success that vindicates the grid and carries it to the next forest and the next province. The Yield is load bearing because it is why the trap entrenches (Lowood): the early harvest that proves the method just as it spends the reserve, so the piece carries the deceptive success of the structure, a real result drawn on the mētis the grid already cleared, the very yield that hides the coming blight.
 
 ## Apparent
 
@@ -37,4 +37,4 @@ Seen at the surface, the Yield looks like the answer to every doubt, the legible
 ## Yearbook
 
 Counted by [the Planner](persona_the_planner.md) and harvested again by [the Successor](persona_the_successor.md), the success that entrenches the order.
-It is the hinge of the trap: the Yield is what [vindicating](process_vindicating.md) makes of the legible order, it is drawn on [the métis](piece_the_metis.md) the grid cleared, and it is the harvest that hides [the blight](piece_the_blight.md) to come, the deceptive proof the whole [legible order](piece_the_legible_order.md) is trusted on.
+It is the hinge of the trap: the Yield is what [vindicating](process_vindicating.md) makes of the legible order, it is drawn on [the mētis](piece_the_metis.md) the grid cleared, and it is the harvest that hides [the blight](piece_the_blight.md) to come, the deceptive proof the whole [legible order](piece_the_legible_order.md) is trusted on.

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[The Straight Rows](play_the_straight_rows.md). The human ground, the customary settlement remade to a legible plan, where the social métis that ran it is cleared as disorder.
+[The Straight Rows](play_the_straight_rows.md). The human ground, the customary settlement remade to a legible plan, where the social mētis that ran it is cleared as disorder.
 
 ## Owner
 
@@ -27,7 +27,7 @@ The Planner reading a community it can at last enumerate and tax, the Practition
 ## Holds
 
 The customary order cleared, and the plan that cannot replace it.
-Here the domain ran on a social métis, the unplanned order of the street and the web of customary practice, so the Village holds the human face of the clearing: a community remade into a legible scheme the centre can read, its tacit order razed as disorder because it could not be diagrammed, and the thin plan left standing where the working custom was.
+Here the domain ran on a social mētis, the unplanned order of the street and the web of customary practice, so the Village holds the human face of the clearing: a community remade into a legible scheme the centre can read, its tacit order razed as disorder because it could not be diagrammed, and the thin plan left standing where the working custom was.
 The Village is where the grid meets a living community and clears the knowledge that held it together.
 
 ## Offers

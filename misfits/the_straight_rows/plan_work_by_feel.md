@@ -30,11 +30,11 @@ Run the system as the ground actually is. Read the particular place by long prac
 
 ## Implementation
 
-([The Forest](place_the_forest.md), and [The Village](place_the_village.md); the [erasing](process_erasing.md) process seen from the one it clears; the Practitioner holds the place by [the métis](piece_the_metis.md) against [the map](piece_the_map.md) that has no line for it.)
+([The Forest](place_the_forest.md), and [The Village](place_the_village.md); the [erasing](process_erasing.md) process seen from the one it clears; the Practitioner holds the place by [the mētis](piece_the_metis.md) against [the map](piece_the_map.md) that has no line for it.)
 
 ## Targets
 
 - [ ] the domain is run by tacit, situated knowledge learned in the doing
-- [ ] the métis carries the working system through a thousand adjustments no plan sees
+- [ ] the mētis carries the working system through a thousand adjustments no plan sees
 - [ ] the grid, recording only what it can measure, has no line for the knowing
 - [ ] the working knowledge is cleared as disorder when the map is imposed, not refuted but unread

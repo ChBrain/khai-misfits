@@ -33,12 +33,12 @@ See the place so it can be governed, since a centre cannot act on what it cannot
 
 ## Loses
 
-The métis, cleared with everything the grid cannot record.
+The mētis, cleared with everything the grid cannot record.
 Because the Centre keeps only what it can measure, the legible order it imposes razes the mixed stand and the customary practice and the unplanned order, the working knowledge that carried the domain, so the place is remade into the thin image the map can hold.
 It gains a domain it can read and loses the knowledge that made the domain live, the survey mistaking what it cannot see for what is not there.
 
 ## Drives
 
 Toward a domain remade to be read,
-and a métis cleared to make it legible,
+and a mētis cleared to make it legible,
 so the seat that must see to govern hollows the place in the very act of learning to run it.
