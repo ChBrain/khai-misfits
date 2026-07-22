@@ -29,7 +29,7 @@ The harm is what buys the spread. Because a parasite travels by multiplying insi
 
 ## Nerve
 
-The trap's nerve is that nothing is cruel. The germ has no aim and strikes no bargain in malice: it multiplies to spread, harms in the multiplying, and the fittest strain is the one whose harm buys the most passage, so the sickness is a price and not a purpose. And the germ cannot choose to pay less, because a lineage that held its harm down would be outspread by one that did not, so even a level worse for the germ's own long run is locked in, kept there not by anyone's will but by the plain fact that the strain which spreads most inherits the world.
+The trap's nerve is that nothing is cruel. The germ has no aim and strikes no bargain in malice: it multiplies to spread, harms in the multiplying, and the fittest strain is the one whose harm buys the most passage, so the sickness is a price and not a purpose. And the germ cannot choose to pay less, because a lineage that held its harm down would be outspread by one that did not, so the level is locked in, kept there not by anyone's will but by the plain fact that the strain which spreads most inherits the world.
 
 ## Echo
 

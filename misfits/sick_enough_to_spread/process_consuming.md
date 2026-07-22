@@ -37,4 +37,4 @@ Because the parasite has nothing to build its copies from but the host, consumin
 ## Echo
 
 A host spent to the measure of the spread, and no enemy to show for it.
-The echo of consuming is a body harmed exactly to the degree the germ's transmission required, a fare paid and no malice behind it, so the host bears a sickness set by the spread and not by any will, worse than it would choose and no gain to the germ's long run, the damage the price of a passage and the host the one who paid it.
+The echo of consuming is a body harmed exactly to the degree the germ's transmission required, a fare paid and no malice behind it, so the host bears a sickness set by the spread and not by any will, worse than it would choose, the damage the price of a passage and the host the one who paid it.

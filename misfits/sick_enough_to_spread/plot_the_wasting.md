@@ -26,7 +26,7 @@ A parasite settled at the level that spreads best, multiplying in a host built f
 
 ## Action
 
-[Consuming](process_consuming.md): the germ spends the host to the degree the spread requires, drawing its copies from the host's own body, a harm worse than an achievable gentler one and no gain to the germ's long run.
+[Consuming](process_consuming.md): the germ spends the host to the degree the spread requires, drawing its copies from the host's own body, a harm worse than an achievable gentler state for the host.
 
 ## Stage
 
@@ -36,4 +36,4 @@ The host is wasted, and there is no enemy in the room, only a thing that is spre
 ## Tension
 
 The host is spent to the germ's exact need, and no one meant it any harm.
-There is no malice: the germ takes nothing it is not built to take, drawing its copies from the host because there is nothing else to build them from, so the wasting is a fare and not an attack, set by what the spread costs and paid in the host's own substance. But the level is the one that spreads best and not the one the host would keep, and part of the harm is done in tissue the germ will never travel from, so the plot closes with a host consumed past any sense it would choose, worse for itself and no better for the germ's own long run, bearing a sickness that answers to no will and appeals to none, the price of a passage it never booked and cannot lower by any effort of its own.
+There is no malice: the germ takes nothing it is not built to take, drawing its copies from the host because there is nothing else to build them from, so the wasting is a fare and not an attack, set by what the spread costs and paid in the host's own substance. But the level is the one that spreads best and not the one the host would keep, and part of the harm is done in tissue the germ will never travel from, so the plot closes with a host consumed past any sense it would choose, bearing a sickness that answers to no will and appeals to none, the price of a passage it never booked and cannot lower by any effort of its own.

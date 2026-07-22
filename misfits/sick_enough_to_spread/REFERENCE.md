@@ -16,9 +16,8 @@ below.
 Staging the evolution of virulence as a **harm-is-the-price-of-spread structure**: a parasite is selected only to
 maximise its transmission, and because the replication that spreads it through a host is the same replication that
 damages the host, harm is coupled to spread, so selection does not drive virulence to zero but settles it at the level
-that spreads best, an intermediate optimum that is sicker than the host would choose and no better for the parasite's own
-long run, and holds there as a durable equilibrium because a lineage that harmed less would spread less and be
-outcompeted. The play models the documented mechanics, the coupling of transmission to harm through replication, the
+that spreads best, an intermediate optimum that is sicker than the host would choose, and holds there as a durable
+equilibrium because a lineage that harmed less would spread less and be outcompeted. The play models the documented mechanics, the coupling of transmission to harm through replication, the
 intermediate optimum where the reproduction number peaks, the host consumed to the degree the spread requires, and the
 transmission ecology that moves the optimum, as the load-bearing vectors of the structure, not as a tale of a cruel germ
 or a designed plague. The governing finding is the play's governing law: virulence is an evolved trait coupled to
@@ -70,9 +69,9 @@ What the house refuses to model, and how it credits what it stages.
   plague, because the source finding is precisely that no malice and no design is needed: the parasite multiplies to
   spread and harms in the multiplying, so the harm is the price of the transmission and not an aim (Anderson and May),
   the fittest strain is the one that harms exactly enough to spread most, so the level is set by what spreads and not by
-  any intent (Anderson and May), and a gentler lineage is simply outspread, so restraint cannot be held even where it
-  would serve the germ's own long run (Frank). So the misfit is that a parasite selected purely to travel settles at the
-  harm that spreads best, sicker than the host would choose and no better for the parasite's future, no cruelty and no
+  any intent (Anderson and May), and a gentler lineage is simply outspread, so restraint cannot be held against a rival
+  that will not hold it (Frank). So the misfit is that a parasite selected purely to travel settles at the
+  harm that spreads best, sicker than the host would choose, no cruelty and no
   plan required. The play holds virulence in its technical sense, the parasite-induced rate of host death, and not lay
   nastiness, and stages the harm as offence by the germ and not the host's own response, keeping clear of the
   immunopathology that in real disease often does the damage.
@@ -103,8 +102,8 @@ What the house refuses to model, and how it credits what it stages.
 Source to constraint, per element.
 
 - **[The Set Point](piece_the_set_point.md)**: carries the phenomenon whole (Anderson and May; Ewald), the durable
-  transmission-optimal virulence selection settles at, sicker than the host would choose and no better for the parasite's
-  long run.
+  transmission-optimal virulence selection settles at, sicker than the host would choose and held there because a
+  gentler strain would simply be outspread.
 - **[The Curve](piece_the_curve.md)** and **[Multiplying](process_multiplying.md)**: carry the coupling (Anderson and
   May), the replication that spreads the parasite being the same that harms the host, so transmission has a price in harm.
 - **[The Span](piece_the_span.md)** and **[Winnowing](process_winnowing.md)**: carry the intermediate optimum (Anderson

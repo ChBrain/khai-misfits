@@ -34,7 +34,7 @@ Answer to nothing but spread, because the seat carries no term for the host's su
 ## Loses
 
 The host's survival as a term, and the option of restraint.
-The Passage can be selected for spread and cannot be selected to spare, because its measure contains no weight on the host's longevity: the seat optimises transmission alone, so the harm the transmission costs is not a term it can hold down, and a variant that held it down would spread less and be replaced. What the position forfeits is the gentler road: it cannot choose to harm less even where harming less would serve the lineage's own long run, since restraint is outspread wherever a rival will not restrain, so the seat has no reachable state below the transmission optimum. It loses, too, any stake past the infectious window, because the seat is done with a host once the germ has been passed on, so the host's fate after carrying is nowhere in what the seat is selected on.
+The Passage can be selected for spread and cannot be selected to spare, because its measure contains no weight on the host's longevity: the seat optimises transmission alone, so the harm the transmission costs is not a term it can hold down, and a variant that held it down would spread less and be replaced. What the position forfeits is the gentler road: it cannot choose to harm less, since restraint is outspread wherever a rival will not restrain, so the seat has no reachable state below the transmission optimum. It loses, too, any stake past the infectious window, because the seat is done with a host once the germ has been passed on, so the host's fate after carrying is nowhere in what the seat is selected on.
 
 ## Drives
 
