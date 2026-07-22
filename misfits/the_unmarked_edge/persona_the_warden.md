@@ -36,7 +36,7 @@ Does what defending an unmarked edge requires: guesses the line, holds it agains
 
 The particular loneliness of it is that they have no edge to point to, only a conviction, so every warning comes out sounding like the boy who cried wolf, and the longer they are right the more it sounds that way, because each safe day the drift buys is another day the record says they were wrong.
 What wears on them is that their success is indistinguishable from their being unnecessary. If they hold the point back and no accident comes, they have prevented a thing that leaves no trace, so the best case for their whole effort is a nothing that looks exactly like the nothing that would have happened anyway, and they feel the impossibility of ever being thanked, of ever pointing to the disaster that did not occur and saying, that, I stopped that. The margin they keep is invisible when kept and obvious only when spent.
-The bind is interior and thankless: they must warn without proof, hold a line they had to guess, and watch their own credibility fall with every safe day, knowing that the only thing that will ever vindicate them is the accident they exist to prevent, so to be believed is to have failed and to succeed is to be dismissed, right and unprovable to the end.
+The bind is interior and thankless: they must warn without proof, hold a line they had to guess, and watch their own credibility fall with every safe day, knowing that the one event that would ever vindicate them is the accident their whole work is meant to forestall, so to be believed is to have already failed, and to succeed is to be waved away as the one who fussed over nothing.
 
 ## Tell
 

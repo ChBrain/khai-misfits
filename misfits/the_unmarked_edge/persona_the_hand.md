@@ -35,10 +35,10 @@ Does what a capable worker does under a load the method never budgeted for: adap
 ## Shadow
 
 There is a real pride in it, the pride of the one who gets it done when the clean method would have stalled, and that pride is the part that will not let them see the cost, because to see the cost would be to call their own competence a hazard, and it does not feel like a hazard, it feels like being good at the job.
-What sits under it is a normalcy so complete it has swallowed the memory of the rule. They could not now say when the shortcut became the standard, only that everyone does it this way and always has as far as the eye goes back, so there is nothing to flag and no moment to point to, just the settled sense that this is simply how the work is done, and a faint, rarely-visited unease that they could not say, if asked, how much room is left.
-The bind is interior and quiet: they must adapt to do the job at all, feel the adapting as skill and not risk, and carry, under the competence, the unexamined fact that they are the ones spending a margin they cannot see, sure the way they work is safe because it always has been, which is exactly the feeling the drift is made of.
+What sits under it is the pull itself, felt from the inside as nothing more sinister than relief: the easier way is easier, and the body and the day both lean toward it, so the shortcut is not a decision weighed and taken but the path of least resistance followed because there is a job to finish and only so much of them to finish it with. Each task takes all the attention it has while it lasts and is gone, replaced by the next, so the question of where a hundred such tasks have carried the work as a whole is not one they suppress but one that never arrives, since the day gives no vantage from which the whole could be seen at all.
+The bind is interior and quiet: they must adapt to do the job at all, feel the adapting as skill and not risk, and carry, under the competence, the unexamined fact that they are the ones spending a margin they cannot see, sure the way they work is safe because every day of it has worked, which is exactly the feeling the drift is made of.
 
 ## Tell
 
-Says "it's fine, we always do it this way."
-Is the whole drift in one phrase, since "we always do it this way" is both true and the problem, a run of safe repetitions offered as proof of safety, so the sentence that sounds like reassurance is the sound of the sharp end reading its own unbroken record as room to spare, certain of the margin precisely because nothing has yet spent the last of it.
+Says "it works, doesn't it."
+Is the whole drift in one phrase, since the shortcut does work, every time so far, and the working is offered as proof it is safe, so the sentence that sounds like plain sense is the sound of the sharp end reading a run of good outcomes as room to spare, certain of the margin precisely because nothing has yet spent the last of it.

@@ -30,7 +30,7 @@ Reason to where the boundary must be, mark it as best it can be marked, and hold
 
 ## Implementation
 
-([The Verge](place_the_verge.md); through the [marking](process_marking.md) process, against the [migrating](process_migrating.md) it would halt; the Warden would fix [the unmarked boundary](piece_the_unmarked_boundary.md) and hold [the operating point](piece_the_operating_point.md) back from it, countering [the pull](piece_the_pull.md) that [the quiet](piece_the_quiet.md) absolves.)
+([The Brink](place_the_brink.md); through the [marking](process_marking.md) process, against the [migrating](process_migrating.md) it would halt; the Warden would fix [the unmarked boundary](piece_the_unmarked_boundary.md) and hold [the operating point](piece_the_operating_point.md) back from it, countering [the pull](piece_the_pull.md) that [the quiet](piece_the_quiet.md) absolves.)
 
 ## Targets
 

@@ -22,7 +22,7 @@ A **standing plan**: the intent of [the Sharp End](position_the_sharp_end.md), i
 
 ## Direction
 
-Meet the job with the time and effort there is: adapt where the method asks more than the moment allows, drop the step that has never mattered, and keep any change that finishes the work and causes no incident. Read each adaptation by its local result, the task done and the effort saved and nothing gone wrong, and retain what works, since a shortcut that succeeds is by every visible measure an improvement (Rasmussen). Judge by the evidence the sharp end holds, the immediate outcome, and treat the absence of harm as licence to keep the leaner way, because the margin the change might have spent leaves no mark the seat can read and the success it produced is plain.
+Meet the job with the time and effort there is: adapt where the method asks more than the moment allows, drop the step that has never mattered, and keep any change that finishes the work and causes no incident. Read each adaptation by its local result, the task done and the effort saved and nothing gone wrong, and retain what works, since a shortcut that succeeds is by every visible measure an improvement (Snook). Judge by the evidence the sharp end holds, the immediate outcome, and treat the absence of harm as licence to keep the leaner way, because the margin the change might have spent leaves no mark the seat can read and the success it produced is plain.
 
 ## Orders
 

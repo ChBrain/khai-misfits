@@ -67,7 +67,7 @@ None of it is a fix. The manager presses for efficiency because efficiency is th
 
 - [The Line](place_the_line.md)
 - [The Boardroom](place_the_boardroom.md)
-- [The Verge](place_the_verge.md)
+- [The Brink](place_the_brink.md)
 
 **Processes**
 

@@ -21,13 +21,13 @@ stamp:
 
 ## Place
 
-Acts from [the Boardroom](place_the_boardroom.md) and [the Line](place_the_line.md) together, moving the point across [the Verge](place_the_verge.md).
+Acts from [the Boardroom](place_the_boardroom.md) and [the Line](place_the_line.md) together, moving the point across [the Brink](place_the_brink.md).
 Flows as two pressures resolved into one direction, the demand for less cost and the demand for less effort both leaning toward the edge, a slope the point rolls down.
 
 ## Load Bearing
 
 Without the Pull the operating point would sit where it was put and drift nowhere: it is the alignment of the two gradients, both pushing the same way, that gives the point a steady lean toward the boundary.
-The Pull is load bearing because it is the force of the whole trap, the resultant of a cost gradient and an effort gradient that do not oppose but sum (Rasmussen). Each gradient alone is legitimate, the pressure to spend less and the pressure to work less hard, and neither is about safety, but because they point the same way their moves accumulate, so the Pull is not one push but the compounding of two, relentless because it is fed from both the blunt end and the sharp end at once. Every distortion downstream follows from this shared direction: the point migrates because the Pull never rests and never reverses, both hands on the system pressing it toward the one edge neither is looking at.
+The Pull is load bearing because it is the force of the whole trap, the resultant of a cost gradient and an effort gradient that do not oppose but sum (Rasmussen). Each gradient alone is legitimate, the pressure to spend less and the pressure to work less hard, each a routine trade of thoroughness for efficiency (Hollnagel), and neither is about safety, but because they point the same way their moves accumulate, so the Pull is not one push but the compounding of two, relentless because it is fed from both the blunt end and the sharp end at once. Every distortion downstream follows from this shared direction: the point migrates because the Pull never rests and never reverses, both hands on the system pressing it toward the one edge neither is looking at.
 
 ## Apparent
 

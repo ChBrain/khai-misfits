@@ -21,13 +21,13 @@ stamp:
 
 ## Initiated by
 
-[The Hand](persona_the_hand.md), at [the Verge](place_the_verge.md), the accumulated adaptations settling the point closer to the edge, driven with them by the Purser's steady pressure.
+[The Hand](persona_the_hand.md), at [the Brink](place_the_brink.md), the accumulated adaptations settling the point closer to the edge, driven with them by the Purser's steady pressure.
 Begins when the local moves and the cuts add up, and the operating point comes to rest nearer the boundary than before.
 
 ## Direction
 
 Turns a run of local successes into a system near the edge.
-Because the effort gradient and the cost gradient both push the point the same way, their moves accumulate rather than cancel, so migrating converts a series of individually rewarded adaptations and economies into a single drift toward the boundary, the point carried to the verge by the combined pull with no step among them a decision to be unsafe (Rasmussen).
+Because the effort gradient and the cost gradient both push the point the same way, their moves accumulate rather than cancel, so migrating converts a series of individually rewarded adaptations and economies into a single drift toward the boundary, the point carried to the brink by the combined pull with no step among them a decision to be unsafe (Rasmussen).
 
 ## Lever
 
@@ -36,5 +36,5 @@ Because the pressure for less effort and the pressure for less cost both run dow
 
 ## Echo
 
-A system resting at the verge, its margin spent on a hundred good moves.
+A system resting at the brink, its margin spent on a hundred good moves.
 The echo of migrating is an operating point close to a boundary it cannot see, arrived at not by any plan but by the sum of adaptations and cuts each of which paid, so the drift is complete and invisible, the system sitting near the edge with a record of nothing but successes behind it.

@@ -27,7 +27,7 @@ Begins whenever the method demands more than the moment allows and a leaner way 
 ## Direction
 
 Turns a shortfall of effort into a move toward the edge.
-Because the job must be done with the time and hands there are, the Hand drops the step that has never mattered and keeps what works, so adapting converts a gap between method and reality into a change in how the work is done, each retained shortcut moving the operating point a little toward the boundary while returning a clean local success (Rasmussen).
+Because the job must be done with the time and hands there are, the Hand drops the step that has never mattered and keeps what works, so adapting converts a gap between method and reality into a change in how the work is done, each retained shortcut moving the operating point a little toward the boundary while returning a clean local success (Snook; Rasmussen).
 
 ## Lever
 

@@ -27,7 +27,7 @@ Begins whenever a budget under pressure meets slack that has produced no visible
 ## Direction
 
 Turns a demand for efficiency into a move toward the edge.
-Because the system must not cost too much and slack shows no return the room can read, the Purser trims the margin and tightens the schedule, so pressing converts a legitimate economy into a change in where the point sits, each cut pushing the operating point toward the boundary while booking a clean saving (Rasmussen).
+Because the system must not cost too much and slack shows no return the room can read, the Purser trims the margin and tightens the schedule, so pressing converts a legitimate economy, a routine trade of thoroughness for efficiency (Hollnagel), into a change in where the point sits, each cut pushing the operating point toward the boundary while booking a clean saving (Rasmussen).
 
 ## Lever
 

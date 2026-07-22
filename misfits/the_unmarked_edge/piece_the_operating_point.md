@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Sits in the space bounded by [the Boardroom](place_the_boardroom.md)'s economics and [the Line](place_the_line.md)'s effort, drifting across [the Verge](place_the_verge.md) toward the unmarked edge.
+Sits in the space bounded by [the Boardroom](place_the_boardroom.md)'s economics and [the Line](place_the_line.md)'s effort, drifting across [the Brink](place_the_brink.md) toward the unmarked edge.
 Flows as the live position of the system, not the rules on paper but the practice in fact, the single point that says how cheaply, how easily, and how safely the work is really being done.
 
 ## Load Bearing

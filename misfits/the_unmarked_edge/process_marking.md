@@ -21,7 +21,7 @@ stamp:
 
 ## Initiated by
 
-[The Warden](persona_the_warden.md), at [the Verge](place_the_verge.md), reasoning to where the edge must be and pressing the point back from it.
+[The Warden](persona_the_warden.md), at [the Brink](place_the_brink.md), reasoning to where the edge must be and pressing the point back from it.
 Begins when someone reads the drift for what it is and tries to defend a margin the two gradients want spent.
 
 ## Direction
@@ -36,5 +36,5 @@ Because the edge leaves no sign until it is crossed, marking works only through 
 
 ## Echo
 
-A guessed line, held for a while and overrun, proved only by the crossing.
-The echo of marking is a counter-pressure that slows the drift and does not stop it, a margin defended on inference and spent anyway, so the Warden's line is a guess that the safe record argues against until the point crosses the real edge and the accident draws it, the marking vindicated exactly when it is too late to have mattered.
+A guessed line, more often overrun than not, and hardest to prove where it holds.
+The echo of marking is a counter-pressure that, pushing uphill against two gradients and lacking a coordinate, more often slows the drift than halts it, a margin defended on inference and, where the edge stays unmarked, spent anyway, so the Warden's line is mostly a guess the safe record argues against, and where it gives way the point crosses the real edge and the accident draws it, the marking vindicated too late: only where the boundary can be instrumented and the margin truly held does the line stop the point before the crossing, and there it prevents an accident that leaves no proof it was near.

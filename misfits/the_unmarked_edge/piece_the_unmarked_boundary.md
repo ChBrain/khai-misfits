@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Lies at [the Verge](place_the_verge.md), unseen, the far side of the ground the point now rests on.
+Lies at [the Brink](place_the_brink.md), unseen, the far side of the ground the point now rests on.
 Flows as an edge without a mark, a boundary real in its consequence and absent in every sign, the one line in the space that is not drawn anywhere the system can read.
 
 ## Load Bearing
@@ -37,4 +37,4 @@ Seen at the surface, the Unmarked Boundary is nothing at all, since an edge that
 ## Yearbook
 
 Unseen by [the Hand](persona_the_hand.md) who moves toward it, uncharged to [the Purser](persona_the_purser.md) who funds the approach, and named but not located by [the Warden](persona_the_warden.md) who would mark it.
-It is the invisible line: the Unmarked Boundary is what [migrating](process_migrating.md) approaches and [marking](process_marking.md) cannot fix, the edge [the operating point](piece_the_operating_point.md) nears under [the pull](piece_the_pull.md) while [the quiet](piece_the_quiet.md) reads its silence as safety, drawn at last only by the crossing.
+It is the invisible line: the Unmarked Boundary is what [migrating](process_migrating.md) approaches and [marking](process_marking.md) struggles to fix without a coordinate, the edge [the operating point](piece_the_operating_point.md) nears under [the pull](piece_the_pull.md) while [the quiet](piece_the_quiet.md) reads its silence as safety, drawn at last only by the crossing.

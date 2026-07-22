@@ -22,7 +22,7 @@ A **standing plan**: the intent of [the Blunt End](position_the_blunt_end.md), i
 
 ## Direction
 
-Find the cost that can come out and take it: cut the slack that has produced no visible benefit, tighten the schedule, and read the leaner quarter with no incident as a saving cleanly made (Rasmussen). Judge each cut by the result that reaches the seat, the economy this period and the absence of harm, since a margin that has bought no incident in memory looks like money sitting idle. Bank what the numbers confirm, and press again, because the saving lands with a clear signal and the risk the cut may have added arrives, if at all, far off and on another account, so the evidence available to the seat runs all one way, toward cutting more.
+Find the cost that can come out and take it: cut the slack that has produced no visible benefit, tighten the schedule, and read the leaner quarter with no incident as a saving cleanly made (Rasmussen; Hollnagel). Judge each cut by the result that reaches the seat, the economy this period and the absence of harm, since a margin that has bought no incident in memory looks like money sitting idle. Bank what the numbers confirm, and press again, because the saving lands with a clear signal and the risk the cut may have added arrives, if at all, far off and on another account, so the evidence available to the seat runs all one way, toward cutting more.
 
 ## Orders
 
