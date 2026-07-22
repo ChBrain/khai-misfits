@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.127.0",
+  "version": "0.128.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -764,6 +764,12 @@
       "id": "watermelon_reporting",
       "title": "Watermelon Reporting",
       "description": "Green on the skin, red in the flesh: the red never reaches a seat that can act, because every rung is paid to move on."
+    },
+    {
+      "kind": "misfit",
+      "id": "whoever_asks_last",
+      "title": "Whoever Asks Last",
+      "description": "Every voter is rational and sincere, yet the majority cycles, so whoever sets the order of the votes decides."
     }
   ]
 }
