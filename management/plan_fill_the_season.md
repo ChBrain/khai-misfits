@@ -277,6 +277,20 @@ rational, until the point crosses an edge no one could see and an accident revea
 of The New Normal's cognitive reclassification of an unchanged act (the point migrates under pressure, no perception of
 the act need shift), The Brittle Optimum's statically optimised-away slack (a dynamic migration of the working point, not
 a one-time trimming), and The Spent Margin's risk compensation for a realised safety gain, cut to Rasmussen's migration
-model and hedged to the documented dynamic. Behind it, Muller's Ratchet (Muller, 1964; Felsenstein, 1974) still awaits a
-clean cut from Model Collapse, held the more carefully now that Nobody Reads It has staged a one-way ratchet, so its
-irreversible-click-and-recombination-remedy vector must be cut clear of both.
+model and hedged to the documented dynamic. Behind it, Drift into Failure (Rasmussen, 1997; Dekker, 2011) is promoted and staged as **The Unmarked Edge**, cut to the
+gradient-driven migration of the operating point toward the unmarked boundary of safe operation, named clear of The New
+Normal's cognitive reclassification (the point migrates under pressure, no perception need shift), The Brittle Optimum's
+static optimised-away slack, and The Spent Margin's risk compensation, its cast vocabulary chosen deliberately off The
+New Normal's own safety-org roles, and hedged to a tendency under pressure rather than a fate every system crosses,
+taking the house to one hundred and twenty-four. With the held-pending pair down to one, Muller's Ratchet (Muller, "The
+Relation of Recombination to Mutational Advance", 1964; Felsenstein, "The Evolutionary Advantage of Recombination", 1974)
+is promoted as the next birth, to be cut to the irreversible-click-and-recombination-remedy vector: in a finite
+population that copies without mixing, the least-loaded class, the genotype carrying the fewest deleterious mutations, is
+lost by chance and cannot be reconstituted without recombination, so the minimum mutation load ratchets up one
+irreversible click at a time, no selection for the mutations and no agent choosing the decline. It is to be named clear
+of Model Collapse's recursive-resampling erosion of the distribution tails (there the tails thin as a model retrains on
+its own output; here a discrete fittest class is lost by drift and the specific remedy is recombination), and clear of
+the one-way ratchet Nobody Reads It already stages (a market-discipline failure, not a chance loss of a fittest class),
+cut to the drift-loss-and-recombination engine, kept from titling any element a ratchet, and hedged to the documented
+population-genetic tendency. With Muller's Ratchet the last held-pending reserve is spent, so the season will need a
+fresh research sweep to refill the slate beyond it.
