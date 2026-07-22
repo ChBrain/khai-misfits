@@ -261,11 +261,22 @@ rational-search-cost clearing-failure and never the behavioural-inattention vers
 Lemons's exit spiral (an informed-minority failure on a non-salient term, not an adverse selection on a hidden quality,
 the market intact and clearing while its print slides) and of The Lowest Bar, and hedged to the informed-minority
 tendency under stated conditions rather than an iron law, taking the house to one hundred and twenty-two. With that the
-flagged reserve queue advances to the Overdiagnosis Popularity Paradox (Raffle & Gray, Screening: Evidence and Practice;
-Welch, Overdiagnosed), the next birth, stageable only if cut hard to the popularity loop, the overdiagnosed becoming the
-grateful advocates whose demand inflates the very screening that overdiagnosed them, so a programme grows more popular
-the more it overdiagnoses and popularity tracks the harm and not the benefit, named clear of First Do Harm's iatrogenic
-harm, The Survivors' passive-attrition inference read from a filtered sample, and Metric Fixation's gamed survival
-statistic, cut to the self-reinforcing feedback the harmed themselves drive, or it stays their composite and is not
-staged; behind it the held-pending pair, Drift into Failure and Muller's Ratchet, still await a clean cut from The New
-Normal and Model Collapse.
+flagged reserve queue is exhausted: the Overdiagnosis Popularity Paradox (Raffle & Gray, Screening: Evidence and
+Practice; Welch, Overdiagnosed) is promoted and staged as **It Saved My Life**, cut to the popularity loop where the
+overdiagnosed become the grateful advocates whose demand inflates the very screening that overdiagnosed them, so a
+programme grows more beloved the more it overdiagnoses and its support tracks the harm and not the benefit, named clear
+of First Do Harm's iatrogenic harm, The Survivors' passive-attrition inference read from a filtered sample (here the
+survivors act, becoming the constituency that grows the programme, a feedback loop and not a misread residue), and Metric
+Fixation's gamed survival statistic (here the survival rate is honestly computed and honestly misleading), and hedged to
+the documented tendency where overdiagnosis is substantial, taking the house to one hundred and twenty-three. Both
+flagged-for-cut reserves now spent, the season turns to the held-pending pair, and the first, Drift into Failure
+(Rasmussen, "Risk Management in a Dynamic Society", 1997; Dekker, Drift into Failure, 2011), is promoted as the next
+birth, to be cut to the gradient-driven migration of the operating point: cost and effort pressures move a system's
+working point toward the unmarked boundary of safe operation, each local step to work a little cheaper or a little easier
+rational, until the point crosses an edge no one could see and an accident reveals where it was. It is to be named clear
+of The New Normal's cognitive reclassification of an unchanged act (the point migrates under pressure, no perception of
+the act need shift), The Brittle Optimum's statically optimised-away slack (a dynamic migration of the working point, not
+a one-time trimming), and The Spent Margin's risk compensation for a realised safety gain, cut to Rasmussen's migration
+model and hedged to the documented dynamic. Behind it, Muller's Ratchet (Muller, 1964; Felsenstein, 1974) still awaits a
+clean cut from Model Collapse, held the more carefully now that Nobody Reads It has staged a one-way ratchet, so its
+irreversible-click-and-recombination-remedy vector must be cut clear of both.
