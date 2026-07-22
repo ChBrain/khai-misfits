@@ -34,7 +34,7 @@ Does what fighting a disease made of the patient requires: not a clean excision 
 
 ## Shadow
 
-What sits on the Attending is that there is no stroke that only heals: the blade is real and it cuts both ways at once, so the work is never the clean lifting-out the word cure suggests but a weighing of two harms, done again by the week with the patient watching, and the steadiest hand cannot make it a rescue, only a good enough trade.
+What sits on the Attending is that there is no stroke that only heals: the blade is real and it cuts both ways at once, so the work is never the clean rescue the word cure promises but a weighing of two harms, done again by the week with the patient watching, and the steadiest hand cannot make it a rescue, only a good enough trade.
 The particular ache is the kinship of the target. This is not an intruder to be driven off but the patient's own blood, so the Attending spends the person to save the person, empties the marrow that is theirs to reach the line that is also theirs, and feels every dose as given and taken from the same body, with no separate enemy anywhere to aim at instead.
 And yet the Attending must not carry it as futility, because sometimes the trade is simply won: a child through leukaemia and grown, a promyelocytic line broken and gone, whole lives bought at the price and worth it, so the weight is not despair but the knowledge that the winning is never free, and that the same stroke that cures one is spent, on another, for too little, and both were the right call made in the dark.
 

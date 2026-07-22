@@ -35,7 +35,7 @@ Takes the ground the body renews, filling the space the marrow makes for fresh b
 ## Shadow
 
 From the inside there is no inside for the body: the Line is all forward, the flat and tireless pressure of one more division and one more, and nothing in it can register the whole it belongs to, because it is not the kind of thing that holds a whole in view. It does not feel itself as a self against the body; it does not feel the body at all.
-What it cannot know is that everything it destroys is its own kin. The cells it starves are its cousins, built from the same book, and the ground it poisons is the ground it grew from, but there is no sense in the Line that carries kinship or debt, only the plain sufficiency of an edge that works. It wins the way water finds the low place, without meaning and without a stopping-point of its own.
+What it cannot know is that everything it destroys is its own kin. The cells it starves are its cousins, built from the same book, and the ground it poisons is the ground it grew from, but there is no sense in the Line that carries kinship or debt, only the plain sufficiency of an edge that works. It wins the way water finds the low place, without meaning and with nothing in it that could ever say enough.
 The bind is that it is most itself exactly when it is most ruinous: to divide and to hold and to take the ground is to be a healthy cell in every particular but its address, so the Line is never more than a cell doing well, and the doing-well is the disease, with nothing in the cell that could ever tell it so.
 
 ## Tell
