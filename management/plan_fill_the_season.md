@@ -364,4 +364,11 @@ permits it, not a defence overshooting), and of No Way Back Up (positive selecti
 drift-loss of the fittest class). The harm is to be staged as the clone jamming the normal blood's maturation and
 poisoning its niche, not evicting it, and the remedy as a trade paid in the renewal the body needs, never as doom, some
 leukaemias being curable; hedged past a flat no-cause (radiation, benzene, prior therapy, and inherited and age-related
-risk are real) and past selection as the sole author (drift and niche matter). Authored after this record.
+risk are real) and past selection as the sole author (drift and niche matter). Now staged as **The Peace It Keeps**, the
+body a truce and the disease a coup by one of its own cells, the whole-piece The Coup and the spine piece The Truce, its
+clone-side cast renamed off Fit to Fail's own Edge and Advantage (to The Gain and The Upstart) and its remedy persona
+named clear of the medical siblings' Physician and Clinician (The Attending). Its three-lens review confirmed the
+distinctness from Fit to Fail holds on the level asymmetry, corrected a reference slip that had the clone kill by
+displacing tissue against the jam-not-evict cut, documented Gatenby's competitive release, and softened the imatinib and
+transmissible-cancer claims off an overreach. That takes the house to one hundred and twenty-seven, and returns the slate
+to The Evolution of Virulence at the top of the unstruck P1 line.
