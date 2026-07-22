@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.124.0",
+  "version": "0.125.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -170,6 +170,12 @@
       "id": "no_one_in_charge",
       "title": "No One in Charge",
       "description": "A group that refuses leaders does not abolish power but hides it in an informal elite no one can hold to account."
+    },
+    {
+      "kind": "misfit",
+      "id": "no_way_back_up",
+      "title": "No Way Back Up",
+      "description": "The least-mutated class is lost by chance and can't be remade without mixing, so a copied lineage's load only rises."
     },
     {
       "kind": "misfit",
