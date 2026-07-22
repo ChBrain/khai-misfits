@@ -26,7 +26,7 @@ An infection arrives, and the body defends itself. The immune system senses the 
 
 The bend is this: the immune response, escalating in correct proportion to a threat, damages the host's own tissue with the same weapons it turns on the pathogen, and because the response amplifies itself, a defence proportioned to a real threat can destroy the host beyond what the pathogen would, the defence itself the disease (Zinkernagel and Doherty).
 It runs on a response scaled to the threat.
-Because a threat met with too little force wins, the immune system escalates in proportion to what it detects, more invader answered with more defence, so the response is correct exactly insofar as it is large, its strength the measure of its fitness for the threat (Zinkernagel and Doherty). The scaling is sound, and it is what makes a large response a right one.
+Because a threat met with too little force wins, the immune system escalates in proportion to what it detects, more invader answered with more defence, so the response is correct exactly insofar as it is large, its strength the measure of its fitness for the threat (Medzhitov, Schneider and Soares). The scaling is sound, and it is what makes a large response a right one.
 And the weapons are not precise.
 Because the means of defence, the inflammation, the cell-killing, the flood of signals, act on the host as well as the pathogen, the response damages the tissue with the same force it turns on the invader, so the collateral is not a malfunction but the ordinary working of the guard, the body harmed by its own defence doing exactly its job (Rouse and Sehrawat). The imprecision is built in, and it makes every defence a cost.
 And the response feeds itself.

@@ -22,7 +22,7 @@ A **standing plan**: the intent of [the Response](position_the_response.md), ins
 
 ## Direction
 
-Read the threat and scale the force to it, meeting more invader with more defence and summoning each wave the last one calls for, since a danger under-met is a danger that wins (Zinkernagel and Doherty). Bring the whole armoury the threat warrants, the inflammation, the cell-killing, the flood of signals, and judge the response by its size, because the seat's measure is force against threat and a lesser response is only the body left exposed. Escalate without hesitation and read the escalation as protection, since the weapons cannot be aimed to spare the tissue and holding them back would fail the danger, so the plan meets the threat in full and lets the harm fall where the force does.
+Read the threat and scale the force to it, meeting more invader with more defence and summoning each wave the last one calls for, since a danger under-met is a danger that wins (Medzhitov, Schneider and Soares). Bring the whole armoury the threat warrants, the inflammation, the cell-killing, the flood of signals, and judge the response by its size, because the seat's measure is force against threat and a lesser response is only the body left exposed. Escalate without hesitation and read the escalation as protection, since the weapons cannot be aimed to spare the tissue and holding them back would fail the danger, so the plan meets the threat in full and lets the harm fall where the force does.
 
 ## Orders
 

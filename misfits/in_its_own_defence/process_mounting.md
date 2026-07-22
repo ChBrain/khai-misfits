@@ -27,7 +27,7 @@ Begins whenever an infection is detected and the body raises a defence to match 
 ## Direction
 
 Turns a detected threat into a proportioned force.
-Because a danger under-met is a danger that wins, the Defender scales the response to the threat and summons each wave the last one calls for, so mounting converts the reading of an invader into a defence sized to it, the force raised in correct proportion and its magnitude the measure of its fitness for the danger (Zinkernagel and Doherty).
+Because a danger under-met is a danger that wins, the Defender scales the response to the threat and summons each wave the last one calls for, so mounting converts the reading of an invader into a defence sized to it, the force raised in correct proportion and its magnitude the measure of its fitness for the danger (Medzhitov, Schneider and Soares).
 
 ## Lever
 

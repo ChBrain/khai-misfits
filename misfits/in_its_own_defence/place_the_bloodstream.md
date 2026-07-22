@@ -36,5 +36,5 @@ Here the summons reaches the whole system, so the Bloodstream offers a defence t
 
 ## Withheld
 
-Withholds the brake the feedback lacks, and the bound the spread would need.
-What the Bloodstream cannot offer is a governor on its own loop: the channel that carries the call for more force carries no signal fast enough to say enough, so the amplification runs without a native limit and the response spreads body-wide before any local end is reached. The place that carries the defence carries no check on it, present with every summons and absent the counter-summons that would hold it, so a fight that began in one tissue becomes a storm through all of them, the same current that made the guard strong making it uncontainable.
+Withholds a brake quick enough for the feedback, and the bound the spread would need.
+What the Bloodstream cannot offer is a governor fast enough for its own loop: the channel that carries the call for more force carries no counter-signal quick enough to say enough in time, so the amplification outpaces the brakes the body does have and the response spreads body-wide before any local end is reached. The place that carries the defence carries no swift check on it, present with every summons and quicker than the counter-summons that would hold it, so a fight that began in one tissue becomes a storm through all of them, the same current that made the guard strong making it uncontainable.

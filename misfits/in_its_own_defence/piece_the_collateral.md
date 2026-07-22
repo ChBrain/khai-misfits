@@ -27,7 +27,7 @@ Flows as the wound the guard leaves in the ground it defends, the inflammation a
 ## Load Bearing
 
 Without the Collateral a strong defence would be pure protection: it is the damage the weapons do to the host that makes the response a cost, the harm folded into every act of clearing.
-The Collateral is load bearing because it is the imprecision of the defence made concrete, the fact that the means of the response cannot tell host from pathogen (Rouse and Sehrawat). It is not an error but the ordinary working of the guard: inflammation swells and starves, the killers kill the body's infected cells, the signals make the vessels leak, so the Collateral is what every weapon does to the tissue it fights in, inseparable from what it does to the invader. The whole harm of the misfit passes through this piece, since it is the point at which defending and wounding become one act, the protection and the damage delivered by the same blow to the same ground.
+The Collateral is load bearing because it is the imprecision of the defence made concrete, the fact that the response's weapons are not selective and fall on the tissue they act in as readily as on the pathogen (Rouse and Sehrawat). It is not an error but the ordinary working of the guard: inflammation swells and starves, the killers kill the body's infected cells, the signals make the vessels leak, so the Collateral is what every weapon does to the tissue it fights in, inseparable from what it does to the invader. It is the cost of resistance itself, the price of clearing a pathogen that a tolerant defence might limit but never lift away (Medzhitov, Schneider and Soares). The whole harm of the misfit passes through this piece, since it is the point at which defending and wounding become one act, the protection and the damage delivered by the same blow to the same ground.
 
 ## Apparent
 
@@ -37,4 +37,4 @@ Seen at the surface, the Collateral looks like an acceptable price, the unavoida
 ## Yearbook
 
 Dealt by [the Defender](persona_the_defender.md) without seeing it, suffered by [the Host](persona_the_host.md) as its own defence, and unreachable by [the Clinician](persona_the_clinician.md) except through the protection.
-It is the wound in the ground: the Collateral is what [ravaging](process_ravaging.md) realizes and [the proportion](piece_the_proportion.md) guarantees, the damage carried in every escalation of [mounting](process_mounting.md), the harm [the overkill](piece_the_overkill.md) is made of and [damping](process_damping.md) cannot lower without lowering the clearing.
+It is the wound in the ground: the Collateral is what [ravaging](process_ravaging.md) realises and [the proportion](piece_the_proportion.md) guarantees, the damage carried in every escalation of [mounting](process_mounting.md), the harm [the overkill](piece_the_overkill.md) is made of and [damping](process_damping.md) cannot lower without lowering the clearing.

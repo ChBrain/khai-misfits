@@ -37,4 +37,4 @@ Because the harmful force and the protective force are the same force, damping w
 ## Echo
 
 A tissue spared and a guard weakened, on a setting with no safety in it.
-The echo of damping is a response held lower, the storm eased and the infection given room, so the remedy buys the tissue at the cost of the clearing and leaves the case balanced between two failures, the right amount unknown until too late and shifting as the battle does, a trade paid and never a harm undone.
+The echo of damping is a response held lower, the storm eased and the infection given room, so the remedy buys the tissue at the cost of the clearing and leaves the case balanced between two failures, the right amount unknown until too late and shifting as the battle does. Decades of trials aimed at blocking the harmful response have not found the dose that spares the host without disabling its defence (Angus and van der Poll), so the echo is a trade paid and never a harm undone.

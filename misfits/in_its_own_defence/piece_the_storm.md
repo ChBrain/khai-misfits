@@ -27,7 +27,7 @@ Flows as a defence feeding on its own output, each summons drawing reinforcement
 ## Load Bearing
 
 Without the Storm the response would stop where the threat did: it is the positive feedback that carries the defence past its cause, turning a proportioned force into an overwhelming one.
-The Storm is load bearing because it is the amplification at the trap's centre, the loop in which the call for force is itself force calling (Tisoncik, Korth, Simmons, Farrar, Martin and Katze). It has no native limit: the same signal that summons help raises the level of help summoned, so nothing in the loop says enough, and a defence sound at the start climbs body-wide before any local end is reached. This piece is what makes a correct response lethal, since without it the harm would be bounded by the threat and with it the harm outgrows the threat, the guard's own reinforcement mechanism the thing that carries it past the danger and into the body at large.
+The Storm is load bearing because it is the amplification at the trap's centre, the loop in which the call for force is itself force calling (Tisoncik, Korth, Simmons, Farrar, Martin and Katze). It has no fast brake: the same signal that summons help raises the level of help summoned, so nothing in the loop is quick enough to say enough, and a defence sound at the start climbs body-wide, outrunning the checks the body does have before any local end is reached. This piece is what makes a correct response lethal, since without it the harm would be bounded by the threat and with it the harm outgrows the threat, the guard's own reinforcement mechanism the thing that carries it past the danger and into the body at large.
 
 ## Apparent
 

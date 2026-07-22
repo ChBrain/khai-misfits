@@ -35,8 +35,8 @@ Does what managing a defence-turned-harm requires: not a cure but a balance held
 ## Shadow
 
 The particular dread of it is that there is no move that only helps: whatever the Clinician does, some harm follows, so the choice is never between right and wrong but between two ways to lose, and the weight of it is having to choose anyway, by the hour, with a life on the scale.
-What wears on them is the blindness of the timing. The dose that is too little now is too much in an hour, and the sign that would tell them which comes late or not at all, so they must act before they can know and will learn whether they were right only from what happens next, carrying the whole responsibility for a call that no amount of skill can make safe, only less unsafe.
-The bind is interior and exposed: they must intervene because the defence is killing the tissue, hold a lever that disarms the body it would spare, and answer for the outcome whichever way it breaks, blamed for the infection if they suppress and for the ruin if they do not, standing between two harms with a hand that cannot reach one without feeding the other.
+What wears on them is not knowing, in the moment, which way the dose is wrong. Too little now reads as too much within the hour, and the body returns its verdict only after the choice is spent, so the Clinician lives in the gap between the act and its meaning, feeling the full weight of a decision whose rightness will not be told until it can no longer be changed, a call that skill can render less unsafe but never safe.
+The bind is felt from the inside: the defence is killing the tissue and cannot be left to it, yet the only hand that reaches the harm disarms the body it means to spare, so every motion toward mercy is a motion toward exposure, and the Clinician feels each dose as a thing given and taken in the same breath, no ease in it that is not also a risk, no steadiness to be had where relief and danger are the same gesture.
 
 ## Tell
 

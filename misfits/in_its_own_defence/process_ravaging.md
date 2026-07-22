@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[In Its Own Defence](play_in_its_own_defence.md). The falling of the response's weapons on the host, the collateral realized, the tissue wrecked by the same force that clears the invader.
+[In Its Own Defence](play_in_its_own_defence.md). The falling of the response's weapons on the host, the collateral realised, the tissue wrecked by the same force that clears the invader.
 
 ## Owner
 
@@ -31,7 +31,7 @@ Because the means of the response act on the tissue as on the pathogen, the forc
 
 ## Lever
 
-Weapons that cannot tell host from pathogen.
+Weapons that strike whatever they reach.
 Because the inflammation and the killing and the signalling strike whatever they reach, ravaging works through the imprecision of the defence itself: there is no aim to spare the tissue, so the lever is the weapon's own indiscriminacy, which makes every act of clearing an act of wounding, the harm not a side effect but the response landing on the body it stands in.
 
 ## Echo

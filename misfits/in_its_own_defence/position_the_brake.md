@@ -40,4 +40,4 @@ The Brake can lower the response and cannot lower the damage without the defence
 
 Toward a damping that spares the tissue only by disarming the guard,
 and a lever with no safe setting, too much losing the patient to the pathogen and too little to the response,
-so the seat that alone can slow the harm is the seat that must weaken the protection to do it, its one brake acting on the whole defence and its every dose a trade paid on a knife-edge in the dark.
+so the seat that alone can slow the harm is the seat that must weaken the protection to do it, its one brake acting on the whole defence and its every dose a trade paid on a knife-edge in the dark, no trial having yet found the brake that spares the host and leaves the defence (Angus and van der Poll).

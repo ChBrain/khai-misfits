@@ -32,7 +32,7 @@ Because each summons draws reinforcements that summon in their turn, the respons
 ## Lever
 
 The summoning that is also the amplifying.
-Because the same signal that calls help raises the level of help called, amplifying works through the mechanism of reinforcement itself: there is no separate throttle, the call and the escalation are one act, so the lever is the feedback built into the summons, which makes the defence strong by the very process that makes it uncontainable, no native limit anywhere in the loop.
+Because the same signal that calls help raises the level of help called, amplifying works through the mechanism of reinforcement itself: there is no separate throttle, the call and the escalation are one act, so the lever is the feedback built into the summons, which makes the defence strong by the very process that makes it uncontainable, no brake fast enough to catch the loop before it runs body-wide.
 
 ## Echo
 
