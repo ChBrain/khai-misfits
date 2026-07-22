@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.126.0",
+  "version": "0.127.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -644,6 +644,12 @@
       "id": "the_paradox_of_thrift",
       "title": "The Paradox of Thrift",
       "description": "All save more against hard times, so all spend less, so all earn less, and the nation saves less by trying to save more."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_peace_it_keeps",
+      "title": "The Peace It Keeps",
+      "description": "A body holds its cells in a truce, and one of them, rewarded for winning, undoes the whole it is a part of."
     },
     {
       "kind": "misfit",
