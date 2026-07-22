@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.122.0",
+  "version": "0.123.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -110,6 +110,12 @@
       "id": "information_cascade",
       "title": "Information Cascade",
       "description": "Everyone follows the crowd and swallows their own hint, so the herd locks onto the first few noisy guesses."
+    },
+    {
+      "kind": "misfit",
+      "id": "it_saved_my_life",
+      "title": "It Saved My Life",
+      "description": "The overdiagnosed cannot tell rescue from harm, so they credit the test and campaign, and it grows where it harms."
     },
     {
       "kind": "misfit",
