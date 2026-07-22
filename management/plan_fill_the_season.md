@@ -255,9 +255,17 @@ promoted and staged as **The Driest Wells**, cut to the supply-follows-reward-no
 Head Start, taking the house to one hundred and twenty. The Priest-Klein selection hypothesis (Priest & Klein, 1984) is
 then promoted and staged as **Only the Close Ones**, cut to the settlement-selects-the-sample engine, named clear of The
 Survivors' passive attrition, and hedged to the fifty-percent tendency, taking the house to one hundred and twenty-one.
-Both ready reserves now spent, the next birth is the first of the flagged-for-cut reserves, the Standard-Form Term
-Degradation of adhesion contracts (Schwartz & Wilde, 1979), to be cut hard to the rational-search-cost clearing-failure
-and never the behavioural-inattention version, kept structural and clear of The Market for Lemons's exit spiral; with
-the Overdiagnosis Popularity Paradox (Raffle & Gray; Welch) stageable only if cut hard to the popularity loop, and the
-held-pending pair, Drift into Failure and Muller's Ratchet, still awaiting a clean cut from The New Normal and Model
-Collapse.
+Both ready reserves now spent, the first of the flagged-for-cut reserves, the Standard-Form Term Degradation of
+adhesion contracts (Schwartz & Wilde, 1979), is promoted and staged as **Nobody Reads It**, cut hard to the
+rational-search-cost clearing-failure and never the behavioural-inattention version, named clear of The Market for
+Lemons's exit spiral (an informed-minority failure on a non-salient term, not an adverse selection on a hidden quality,
+the market intact and clearing while its print slides) and of The Lowest Bar, and hedged to the informed-minority
+tendency under stated conditions rather than an iron law, taking the house to one hundred and twenty-two. With that the
+flagged reserve queue advances to the Overdiagnosis Popularity Paradox (Raffle & Gray, Screening: Evidence and Practice;
+Welch, Overdiagnosed), the next birth, stageable only if cut hard to the popularity loop, the overdiagnosed becoming the
+grateful advocates whose demand inflates the very screening that overdiagnosed them, so a programme grows more popular
+the more it overdiagnoses and popularity tracks the harm and not the benefit, named clear of First Do Harm's iatrogenic
+harm, The Survivors' passive-attrition inference read from a filtered sample, and Metric Fixation's gamed survival
+statistic, cut to the self-reinforcing feedback the harmed themselves drive, or it stays their composite and is not
+staged; behind it the held-pending pair, Drift into Failure and Muller's Ratchet, still await a clean cut from The New
+Normal and Model Collapse.
