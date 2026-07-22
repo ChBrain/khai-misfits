@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "The Physician"
+title: "The Attending"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
 type: archetype
 ---
 
-# Persona: The Physician
+# Persona: The Attending
 
 ## Taxonomy
 
@@ -24,7 +24,7 @@ type: archetype
 
 Reaching for a blade that cannot tell kin apart. Dosing the renewal to dose the disease. Holding a cure that costs the thing it saves.
 Is the one who sees a line overtaking the marrow and a body failing of it, and holds the means to kill dividing cells, or to ablate and replace the whole blood system, none of which can spare the healthy division the body lives by.
-No cruelty and no miracle wished on them: the harm is not the Physician's doing and the trade is not theirs to escape, so the one who would help arrives holding a weapon that helps and harms in the same stroke, and must choose how much of each.
+No cruelty and no miracle wished on them: the harm is not the Attending's doing and the trade is not theirs to escape, so the one who would help arrives holding a weapon that helps and harms in the same stroke, and must choose how much of each.
 
 ## Action
 
@@ -34,11 +34,11 @@ Does what fighting a disease made of the patient requires: not a clean excision 
 
 ## Shadow
 
-What sits on the Physician is that there is no stroke that only heals: the blade is real and it cuts both ways at once, so the work is never the clean lifting-out the word cure suggests but a weighing of two harms, done again by the week with the patient watching, and the steadiest hand cannot make it a rescue, only a good enough trade.
-The particular ache is the kinship of the target. This is not an intruder to be driven off but the patient's own blood, so the Physician spends the person to save the person, empties the marrow that is theirs to reach the line that is also theirs, and feels every dose as given and taken from the same body, with no separate enemy anywhere to aim at instead.
-And yet the Physician must not carry it as futility, because sometimes the trade is simply won: a child through leukaemia and grown, a promyelocytic line broken and gone, whole lives bought at the price and worth it, so the weight is not despair but the knowledge that the winning is never free, and that the same stroke that cures one is spent, on another, for too little, and both were the right call made in the dark.
+What sits on the Attending is that there is no stroke that only heals: the blade is real and it cuts both ways at once, so the work is never the clean lifting-out the word cure suggests but a weighing of two harms, done again by the week with the patient watching, and the steadiest hand cannot make it a rescue, only a good enough trade.
+The particular ache is the kinship of the target. This is not an intruder to be driven off but the patient's own blood, so the Attending spends the person to save the person, empties the marrow that is theirs to reach the line that is also theirs, and feels every dose as given and taken from the same body, with no separate enemy anywhere to aim at instead.
+And yet the Attending must not carry it as futility, because sometimes the trade is simply won: a child through leukaemia and grown, a promyelocytic line broken and gone, whole lives bought at the price and worth it, so the weight is not despair but the knowledge that the winning is never free, and that the same stroke that cures one is spent, on another, for too little, and both were the right call made in the dark.
 
 ## Tell
 
 Says "I can spend the marrow or spare the line, not neither."
-Is the knife-edge in one breath, since sparing the marrow is sparing the line and spending the line is spending the marrow, so the sentence that sounds like a hard choice is the plain shape of a weapon that cannot tell the clone from the renewal it is made of, leaving the Physician to pick a point on a scale where every point is paid in the patient's own blood.
+Is the knife-edge in one breath, since sparing the marrow is sparing the line and spending the line is spending the marrow, so the sentence that sounds like a hard choice is the plain shape of a weapon that cannot tell the clone from the renewal it is made of, leaving the Attending to pick a point on a scale where every point is paid in the patient's own blood.

@@ -49,11 +49,11 @@ None of it is a fix. The body suppresses its cells because that is what makes it
 
 - [The Line](persona_the_line.md)
 - [The Body](persona_the_body.md)
-- [The Physician](persona_the_physician.md)
+- [The Attending](persona_the_attending.md)
 
 **Positions**
 
-- [The Advantage](position_the_advantage.md)
+- [The Upstart](position_the_upstart.md)
 - [The Whole](position_the_whole.md)
 - [The Knife](position_the_knife.md)
 
@@ -79,7 +79,7 @@ None of it is a fix. The body suppresses its cells because that is what makes it
 **Pieces**
 
 - [The Truce](piece_the_truce.md)
-- [The Edge](piece_the_edge.md)
+- [The Gain](piece_the_gain.md)
 - [The Reach](piece_the_reach.md)
 - [The Coup](piece_the_coup.md)
 
@@ -95,7 +95,7 @@ Cue: a suppressor lapses. A dividing cell carries a change that gives it an edge
 Cue: the line fills the marrow. It does not evict the normal cells but jams their maturing and poisons the ground they grow in, so the counts fall while the marrow crowds. Closes when the blood fails of function though the stem cells persist, the body starved not by an invader but by its own tissue overgrown and the reach of it spreading past the marrow.
 
 **[The Cut](plot_the_cut.md)**
-Cue: someone would stop the line. The Physician strikes at the dividing cells, or would replace the system whole, but the renewal is dividing cells too, so every measure that lowers the line lowers the blood the body needs. Closes when the harm is fought only by spending the renewal or the system, a trade with no clean setting, costly and sometimes won but never free.
+Cue: someone would stop the line. The Attending strikes at the dividing cells, or would replace the system whole, but the renewal is dividing cells too, so every measure that lowers the line lowers the blood the body needs. Closes when the harm is fought only by spending the renewal or the system, a trade with no clean setting, costly and sometimes won but never free.
 
 ## Stakes
 

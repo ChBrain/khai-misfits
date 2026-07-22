@@ -26,11 +26,11 @@ Lower the line by striking what divides, or by ablating and replacing the whole 
 
 ## Orders
 
-([The Physician](persona_the_physician.md) strikes the dividing cells and takes the marrow with the clone, or replaces the blood system whole, holding the patient through the cost and knowing the win is a trade and not a clean removal.)
+([The Attending](persona_the_attending.md) strikes the dividing cells and takes the marrow with the clone, or replaces the blood system whole, holding the patient through the cost and knowing the win is a trade and not a clean removal.)
 
 ## Implementation
 
-([The Bedside](place_the_bedside.md); through the [cut](plot_the_cut.md) that lowers [the line](persona_the_line.md) and the [renewing](process_renewing.md) together; the Physician spends [the marrow](place_the_marrow.md) to lower [the coup](piece_the_coup.md), buying a remission at the price of the blood the body needs and sometimes winning it outright.)
+([The Bedside](place_the_bedside.md); through the [cut](plot_the_cut.md) that lowers [the line](persona_the_line.md) and the [renewing](process_renewing.md) together; the Attending spends [the marrow](place_the_marrow.md) to lower [the coup](piece_the_coup.md), buying a remission at the price of the blood the body needs and sometimes winning it outright.)
 
 ## Targets
 

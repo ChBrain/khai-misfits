@@ -36,5 +36,5 @@ Seen at the surface, the Coup looks like a misfortune that came upon the body, a
 
 ## Yearbook
 
-Raised by [the Line](persona_the_line.md) without a plan, borne by [the Body](persona_the_body.md) as its own undoing, and held back by [the Physician](persona_the_physician.md) only by spending the body itself.
-It is the whole in one piece: the Coup is what [winning](process_winning.md) drives and [jamming](process_jamming.md) delivers, the overturning of [the truce](piece_the_truce.md) that [the edge](piece_the_edge.md) rises on and [the reach](piece_the_reach.md) carries through the frame, the seizure [the knife](position_the_knife.md) can lower only by cutting the renewal it is made of.
+Raised by [the Line](persona_the_line.md) without a plan, borne by [the Body](persona_the_body.md) as its own undoing, and held back by [the Attending](persona_the_attending.md) only by spending the body itself.
+It is the whole in one piece: the Coup is what [winning](process_winning.md) drives and [jamming](process_jamming.md) delivers, the overturning of [the truce](piece_the_truce.md) that [the gain](piece_the_gain.md) rises on and [the reach](piece_the_reach.md) carries through the frame, the seizure [the knife](position_the_knife.md) can lower only by cutting the renewal it is made of.

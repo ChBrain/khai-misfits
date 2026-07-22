@@ -37,4 +37,4 @@ Seen at the surface, the Truce is invisible, since a peace kept well feels like 
 ## Yearbook
 
 Kept by [the Body](persona_the_body.md) as the whole it is, held from [the Whole](position_the_whole.md), and slipped at one cell through [slipping](process_slipping.md).
-It is the floor the misfit stands on: the Truce is what [the coup](piece_the_coup.md) overturns and [winning](process_winning.md) resumes the fight against, the peace [renewing](process_renewing.md) must keep armed to maintain, the order [the edge](piece_the_edge.md) escapes and no [knife](position_the_knife.md) can restore once a line has won.
+It is the floor the misfit stands on: the Truce is what [the coup](piece_the_coup.md) overturns and [winning](process_winning.md) resumes the fight against, the peace [renewing](process_renewing.md) must keep armed to maintain, the order [the gain](piece_the_gain.md) escapes and no [knife](position_the_knife.md) can restore once a line has won.

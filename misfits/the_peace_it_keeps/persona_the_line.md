@@ -14,7 +14,7 @@ type: archetype
 
 ## Taxonomy
 
-[The Advantage](position_the_advantage.md). The body's own cell-line that gained a heritable edge and, doing only what an advantage does, out-replicates its neighbours and spreads through the marrow it is made of, undoing the whole by the plain arithmetic of leaving more copies.
+[The Upstart](position_the_upstart.md). The body's own cell-line that gained a heritable edge and, doing only what an advantage does, out-replicates its neighbours and spreads through the marrow it is made of, undoing the whole by the plain arithmetic of leaving more copies.
 
 ## Owner
 

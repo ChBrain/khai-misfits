@@ -14,11 +14,11 @@ status: active
 
 ## Taxonomy
 
-A **standing plan**: the intent of [the Advantage](position_the_advantage.md), inside [The Peace It Keeps](play_the_peace_it_keeps.md).
+A **standing plan**: the intent of [the Upstart](position_the_upstart.md), inside [The Peace It Keeps](play_the_peace_it_keeps.md).
 
 ## Owner
 
-- Owner: [The Advantage](position_the_advantage.md)
+- Owner: [The Upstart](position_the_upstart.md)
 
 ## Direction
 
@@ -30,7 +30,7 @@ Divide, hold the edge, and fill the space the marrow keeps open, leaving more co
 
 ## Implementation
 
-([The Marrow](place_the_marrow.md); through the [winning](process_winning.md) that the [slipping](process_slipping.md) of the checks lets loose, growing into the room the [renewing](process_renewing.md) keeps open; the Line brings [the edge](piece_the_edge.md) and, in the same growth, the [jamming](process_jamming.md) of the normal blood, driving [the coup](piece_the_coup.md) it never sees.)
+([The Marrow](place_the_marrow.md); through the [winning](process_winning.md) that the [slipping](process_slipping.md) of the checks lets loose, growing into the room the [renewing](process_renewing.md) keeps open; the Line brings [the gain](piece_the_gain.md) and, in the same growth, the [jamming](process_jamming.md) of the normal blood, driving [the coup](piece_the_coup.md) it never sees.)
 
 ## Targets
 

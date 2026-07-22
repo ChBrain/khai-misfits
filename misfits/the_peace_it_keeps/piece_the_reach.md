@@ -37,4 +37,4 @@ Seen at the surface, the Reach hides inside the ordinary, a marrow finding or a 
 ## Yearbook
 
 Spread by [the Line](persona_the_line.md) through the body, suffered by [the Body](persona_the_body.md) as a state of its whole self, and met by [the Knife](position_the_knife.md) only as one more reason no local cut suffices.
-It is the trap's spread: the Reach is what [jamming](process_jamming.md) carries past the marrow, the systemic face of [the coup](piece_the_coup.md), the whole-body cost that [the truce](piece_the_truce.md), where it holds, keeps closed and that a slipped [edge](piece_the_edge.md), given time, opens.
+It is the trap's spread: the Reach is what [jamming](process_jamming.md) carries past the marrow, the systemic face of [the coup](piece_the_coup.md), the whole-body cost that [the truce](piece_the_truce.md), where it holds, keeps closed and that a slipped [gain](piece_the_gain.md), given time, opens.
