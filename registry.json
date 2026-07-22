@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.125.0",
+  "version": "0.126.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -104,6 +104,12 @@
       "id": "good_money_after_bad",
       "title": "Good Money After Bad",
       "description": "A doomed project is funded past every reason to stop: each gate weighs what was spent, not what is left to gain."
+    },
+    {
+      "kind": "misfit",
+      "id": "in_its_own_defence",
+      "title": "In Its Own Defence",
+      "description": "The body's defence escalates correctly against infection, but its weapons wreck the host and amplify past the invader."
     },
     {
       "kind": "misfit",
