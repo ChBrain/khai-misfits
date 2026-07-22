@@ -37,4 +37,4 @@ Because randomisation balances the screened and the unscreened in everything but
 ## Echo
 
 A true answer, late and often null, and quieter than a story.
-The echo of randomising is a disease-specific mortality that resolves only after years, frequently unmoved, with the screened accruing the extra diagnoses that measure the overdiagnosis, so the correction arrives cold and slow against a constituency already formed, right about the harm and outweighed by a single grateful survivor.
+The echo of randomising is a disease-specific mortality that resolves only after years, frequently little moved, with the screened accruing the extra diagnoses that measure the overdiagnosis, so the correction arrives cold and slow against a constituency already formed, right about the harm and outweighed by a single grateful survivor.

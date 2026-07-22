@@ -26,7 +26,7 @@ A reader unwilling to take the survival rate or the testimony for proof, ready t
 
 ## Action
 
-[Randomising](process_randomising.md): the Trialist compares screened against unscreened, counts to death rather than to diagnosis, and reads a mortality unmoved and an incidence inflated.
+[Randomising](process_randomising.md): the Trialist compares screened against unscreened, counts to death rather than to diagnosis, and reads a mortality barely moved and an incidence inflated.
 
 ## Stage
 

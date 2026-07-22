@@ -29,7 +29,7 @@ The right answer and no way to make it land, since the seat commands the measure
 
 Randomise, count to death, and report the mortality whatever it says.
 Compare the screened against the unscreened, wait out the years the endpoint takes, and read the disease-specific deaths and the total incidence, discounting the survival rate as inflated and the testimony as unable to tell the two kinds apart.
-Report the null when the null is true, since the seat's whole worth is a measure that does not flatter, so it must carry a mortality unmoved against a programme that offers a survival transformed, and say the unwelcome thing the count found.
+Report the null when the null is true, since the seat's whole worth is a measure that does not flatter, so it must carry a mortality little moved against a programme that offers a survival transformed, and say the unwelcome thing the count found.
 
 ## Loses
 

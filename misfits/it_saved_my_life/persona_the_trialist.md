@@ -30,12 +30,12 @@ No coldness of heart wished on them: the insistence is not indifference to the g
 
 Randomises a population to screening or not, counts to death rather than to diagnosis, and reads the mortality, discounting the survival rate as inflated by early and harmless detection alike.
 Waits for the endpoint that takes years, since a life saved and a life merely found earlier look identical until the deaths are counted and the incidence compared.
-Does what an honest evaluation of screening requires: builds the comparison the clinic cannot, accepts that the answer arrives late and often null, and offers a mortality unmoved where the programme offered a survival transformed.
+Does what an honest evaluation of screening requires: builds the comparison the clinic cannot, accepts that the answer arrives late and often null, and offers a mortality little moved where the programme offered a survival transformed.
 
 ## Shadow
 
 There is a particular kind of hatred reserved for the person who questions a beloved cure, and they have learned to expect it: not to be argued with but to be cast as the one who wants to let people die, as though carrying the true number were the same as wishing the harm it reports.
-What wears on them is that they are on the side of the patients and are treated as the enemy of them, and there is no clean way to say it. To stand up with a null result against a room of grateful survivors is to look, to that room, like cruelty in a lab coat, and the trialist feels the injustice of it and cannot escape it, because the very thing they are trying to prevent, people treated for disease that would never have harmed them, is invisible to the people they are trying to protect, who experience only the rescue and hear only an attack on it.
+What wears on them is that they are on the side of the patients and are treated as the enemy of them, and there is no clean way to say it. To carry a cold count to people who are certain they were saved is to look, to them, like cruelty in a lab coat, and the trialist feels the injustice of it and cannot escape it, because the very thing they are trying to prevent, people treated for disease that would never have harmed them, is invisible to the people they are trying to protect, who experience only the rescue and hear only an attack on it.
 The bind is interior and lonely: they must bring the cold measure to warm people, know it will be heard as heartlessness by the ones it is meant to spare, and live as the unwelcome voice at every celebration, right about the harm and hated for naming it, defending strangers who would boo them off the stage.
 
 ## Tell

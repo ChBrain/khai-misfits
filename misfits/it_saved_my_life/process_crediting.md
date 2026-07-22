@@ -27,7 +27,7 @@ Begins whenever a person treated for a screen-found disease survives, and reads 
 ## Direction
 
 Turns a survival into a rescue, and an overdiagnosis into a gratitude.
-Because a diagnosis followed by treatment followed by survival reads as cause and cure and outcome, the person draws the line through the three points they hold and credits the test, so crediting converts a life that continued into a life the test rescued, the harmless kind's survivor as grateful as the lethal kind's and unable to tell which they are (Zelen and Feinleib).
+Because a diagnosis followed by treatment followed by survival reads as cause and cure and outcome, the person draws the line through the three points they hold and credits the test, so crediting converts a life that continued into a life the test rescued, the harmless kind's survivor as grateful as the lethal kind's and unable to tell which they are (Welch and Black).
 
 ## Lever
 

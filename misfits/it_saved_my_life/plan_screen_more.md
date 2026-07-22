@@ -22,7 +22,7 @@ A **standing plan**: the intent of [the Programme](position_the_programme.md), i
 
 ## Direction
 
-Extend the test to more of the well, find disease before the body would report it, treat what is found, and read the climbing detection, survival, and demand as the programme working (Welch and Black). Take each disease caught as a case addressed and each survivor as a life touched, cite the five-year survival that rises and the gratitude that swells, and grow the reach on the strength of those signals, because every instrument the programme holds agrees it is succeeding. Trust the numbers that all point one way, since detection and survival and demand climb together and none of them shows a cost, so screening more is the plain reading of a dashboard that registers overdiagnosis only as further success (Welch, Schwartz and Woloshin).
+Extend the test to more of the well, find disease before the body would report it (Welch and Black), treat what is found, and read the climbing detection, survival, and demand as the programme working. Take each disease caught as a case addressed and each survivor as a life touched, cite the five-year survival that rises and the gratitude that swells, and grow the reach on the strength of those signals, because every instrument the programme holds agrees it is succeeding. Trust the numbers that all point one way, since detection and survival and demand climb together and none of them shows a cost, the five-year survival among them rising with overdiagnosis by the very arithmetic that lifts it with early detection (Welch, Schwartz and Woloshin), so screening more is the plain reading of a dashboard that registers overdiagnosis only as further success.
 
 ## Orders
 

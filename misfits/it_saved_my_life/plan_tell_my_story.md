@@ -22,7 +22,7 @@ A **standing plan**: the intent of [the Diagnosis](position_the_diagnosis.md), i
 
 ## Direction
 
-Read the survival as a rescue and carry it to others: thank the test, tell the story, and press it on everyone worth sparing, turning a private survival into a public case for screening. Take the finding as the disease caught in time, the treatment as the reason it did no harm, and the continuing life as proof the test works, because from inside a single life those three points draw exactly that line. Offer the living body as evidence, the most moving thing anyone can bring to the question, and campaign in good faith, since the gratitude is sincere whether the disease was lethal or harmless and the person telling the story cannot tell which it was (Zelen and Feinleib).
+Read the survival as a rescue and carry it to others: thank the test, tell the story, and press it on everyone worth sparing, turning a private survival into a public case for screening. Take the finding as the disease caught in time, the treatment as the reason it did no harm, and the continuing life as proof the test works, because from inside a single life those three points draw exactly that line. Offer the living body as evidence, the most moving thing anyone can bring to the question, and campaign in good faith, since the gratitude is sincere whether the disease was lethal or harmless and the person telling the story cannot tell which it was (Welch and Black).
 
 ## Orders
 
