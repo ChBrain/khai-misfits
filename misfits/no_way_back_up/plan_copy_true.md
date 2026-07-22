@@ -22,7 +22,7 @@ A **standing plan**: the intent of [the Clone](position_the_clone.md), inside [N
 
 ## Direction
 
-Copy the genome forward faithfully and reproduce at the full rate a mateless copier allows: pass the inheritance on intact, add the mutations that arise, and keep the best individuals reproducing, since faithful transmission is exactly what reproduction is and asking no partner doubles the rate (Muller). Reproduce without mixing, taking the whole asexual advantage and foregoing the one operation that could lighten the load, because copying carries a genome forward and has no means to repair it, so the plan gains a population filled fast and a load that can only be held or added to, never subtracted.
+Copy the genome forward faithfully and reproduce at the full rate a mateless copier allows: pass the inheritance on intact, add the mutations that arise, and keep the best individuals reproducing, since faithful transmission is exactly what reproduction is (Muller) and asking no partner doubles the rate (Maynard Smith). Reproduce without mixing, taking the whole asexual advantage and foregoing the one operation that could lighten the load, because copying carries a genome forward and has no means to repair it, so the plan gains a population filled fast and a load that can only be held or added to, never subtracted.
 
 ## Orders
 

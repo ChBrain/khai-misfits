@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[No Way Back Up](play_no_way_back_up.md). The price of the remedy, the two-fold cost of pairing and the broken combinations, what recombination charges to lower the floor and what an efficient copier is always tempted to stop paying.
+[No Way Back Up](play_no_way_back_up.md). The price of the remedy, the two-fold cost of producing non-bearing males and the further costs of pairing and broken combinations, what recombination charges to lower the floor and what an efficient copier is always tempted to stop paying.
 
 ## Owner
 
@@ -22,7 +22,7 @@ stamp:
 ## Place
 
 Paid at [the Braid](place_the_braid.md), each time two lineages mix rather than one copies.
-Flows as the whole expense of sex, the sons who bear no young, the half of each genome given to a partner, the good stretches broken up along with the bad.
+Flows as the whole expense of sex: the two-fold cost of producing sons who bear no young, and beside it the further costs, the half of each genome given to a partner and the good stretches broken up along with the bad.
 
 ## Load Bearing
 

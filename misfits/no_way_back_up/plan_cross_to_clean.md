@@ -22,7 +22,7 @@ A **standing plan**: the intent of [the Cross](position_the_cross.md), inside [N
 
 ## Direction
 
-Mix two genomes and build an offspring cleaner than either: combine the least-mutated stretches of two parents into one inheritance, reconstituting a least-loaded class the draw had dropped, so the floor copying could only raise is lowered by the one act that assembles rather than transmits (Felsenstein). Pay the cost and mix anyway, bearing the two-fold cost of sex, the sons who bear no young, and the good combinations broken as freely as bad, because recombination is the sole force that halts and reverses the climb (Maynard Smith). Accept that the remedy reaches only the variation still present and prevents the next click better than it undoes the last, since a mutation already fixed in the whole population sits in every genome the mixing has to draw on.
+Mix two genomes and build an offspring cleaner than either: combine the least-mutated stretches of two parents into one inheritance, reconstituting a least-loaded class the draw had dropped, so the floor copying could only raise is lowered by the one act that assembles rather than transmits (Felsenstein). Pay the cost and mix anyway, bearing the two-fold cost of sex, the sons who bear no young, and the good combinations broken as freely as bad (Maynard Smith), because recombination is the sole force that halts and reverses the climb (Felsenstein). Accept that the remedy reaches only the variation still present and prevents the next click better than it undoes the last, since a mutation already fixed in the whole population sits in every genome the mixing has to draw on.
 
 ## Orders
 

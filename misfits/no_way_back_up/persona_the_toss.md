@@ -34,7 +34,7 @@ Does what a finite sample does: takes what it happens to take, plays no favourit
 
 ## Shadow
 
-There is nothing inside it to appeal to, and that is the whole of its horror: it does not know what the cleanest class was worth, does not weigh it, does not even register that it took the best rather than the worst, because it is not choosing at all, only landing, and a thing that only lands cannot be reasoned with or resented into mercy.
+There is nothing inside it to appeal to, and that is exactly what makes the loss so hard to bear: it does not know what the cleanest class was worth, does not weigh it, does not even register that it took the best rather than the worst, because it is not choosing at all, only landing, and a thing that only lands cannot be reasoned with or resented into mercy.
 What there is no way around is the blankness. One could bear a loss that meant something, that answered to a fault or a fight, but the least-loaded class is not taken for being unfit or for losing to anything, it is taken for nothing, dropped by a draw that would as readily have dropped the worst, so the loss carries no lesson and offers no purchase, an emptiness where a reason should be, and the population is left poorer with no one and nothing to hold it against.
 The bind is interior only in the way an absence is: it must decide and decides by luck, holds no regard for what it removes, and cannot be made to spare the best because sparing would require a seeing it does not have, so the cleanest are lost to a thing that never meant to take them and never knew it did.
 
