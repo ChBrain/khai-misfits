@@ -36,5 +36,5 @@ Seen at the surface, the Cycle looks like an ordinary contest that happens to be
 
 ## Yearbook
 
-Composed by [the Voter](persona_the_voter.md) without intending it, inherited by [the Convenor](persona_the_convenor.md) as the thing an order must resolve, and untouched by [the Framer](persona_the_framer.md), whose fair rule cannot unbend it.
+Composed by [the Voter](persona_the_voter.md) without intending it, inherited by [the Presider](persona_the_presider.md) as the thing an order must resolve, and untouched by [the Framer](persona_the_framer.md), whose fair rule cannot unbend it.
 It is the root of the misfit: the Cycle is what [cycling](process_cycling.md) produces and [ranking](process_ranking.md) feeds, the loop [the sequence](piece_the_sequence.md) turns into a winner and [the impossibility](piece_the_impossibility.md) forbids any fair rule from straightening, the headless preference [the made majority](piece_the_made_majority.md) is built on.

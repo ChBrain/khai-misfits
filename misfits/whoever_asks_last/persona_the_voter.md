@@ -35,10 +35,10 @@ Trusts the majority to carry, because a fair vote counts every say alike, and st
 ## Shadow
 
 From the inside the certainty is total and private: the Voter knows their own ranking cold, could defend every step of it, and feels the clean conscience of having voted exactly as they meant to, with nothing hidden and nothing gamed.
-What unsettles them, quietly, is that the room's answer never quite feels like anyone's. The winner is not what they put first, nor what their neighbour put first, and when they look for whose choice it was they cannot find a face behind it, only the count, so a decision arrives that seems authored by no one in a room full of people who each meant something clear.
+What unsettles them, quietly, is that the room's answer never quite feels like the room's. It may sit at the top of one member's ballot and not another's, and still no majority of them prefers it to the rest, so when they look for the group's own choice behind it they cannot find one, only the count, and a decision arrives that seems authored by no coherent will in a room full of people who each meant something clear.
 The bind is that there is nowhere to lay the disquiet, because nothing was done wrong: they cannot blame their own vote, which was honest, nor their neighbour's, which was honest too, nor the count, which was fair, and so the sense that the outcome is somehow nobody's has no object to attach to, a wrongness with no wrongdoer that they carry without being able to name.
 
 ## Tell
 
-Says "I ranked them honestly, and the room chose one no one ranked first."
-Is the whole misfit in one line, since both halves are true and neither is a complaint: the Voter did rank honestly, and the room did land on an option that sat at the top of no one's ballot, so the sentence that sounds like a grievance is the plain arithmetic of sincere preferences that leave the group with no first choice of its own.
+Says "I ranked them honestly, and the room chose one it does not, as a whole, prefer."
+Is the whole misfit in one line, since both halves are true and neither is a complaint: the Voter did rank honestly, and the room did settle on an option no majority of it prefers to the rest, so the sentence that sounds like a grievance is the plain arithmetic of sincere preferences that leave the group with no coherent choice of its own.

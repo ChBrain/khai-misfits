@@ -21,7 +21,7 @@ stamp:
 
 ## Initiated by
 
-[The Convenor](persona_the_convenor.md), at [the Order Paper](place_the_order_paper.md), fixing which options meet first and which the survivor faces next.
+[The Presider](persona_the_presider.md), at [the Order Paper](place_the_order_paper.md), fixing which options meet first and which the survivor faces next.
 Begins when a winner must be found and the options can be taken only a pair at a time.
 
 ## Direction

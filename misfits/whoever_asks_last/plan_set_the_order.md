@@ -26,11 +26,11 @@ Choose a sequence for the contests and run the options a pair at a time, decidin
 
 ## Orders
 
-([The Convenor](persona_the_convenor.md) sets the sequence of pairings, runs them fairly to a single survivor, and declares it the room's choice, holding no preference and meaning only to conclude the vote.)
+([The Presider](persona_the_presider.md) sets the sequence of pairings, runs them fairly to a single survivor, and declares it the room's choice, holding no preference and meaning only to conclude the vote.)
 
 ## Implementation
 
-([The Order Paper](place_the_order_paper.md); through the [sequencing](process_sequencing.md) that resolves the [cycling](process_cycling.md) it inherits; the Convenor turns [the cycle](piece_the_cycle.md) into a winner by [the sequence](piece_the_sequence.md) it sets, authoring [the made majority](piece_the_made_majority.md) without choosing it.)
+([The Order Paper](place_the_order_paper.md); through the [sequencing](process_sequencing.md) that resolves the [cycling](process_cycling.md) it inherits; the Presider turns [the cycle](piece_the_cycle.md) into a winner by [the sequence](piece_the_sequence.md) it sets, authoring [the made majority](piece_the_made_majority.md) without choosing it.)
 
 ## Targets
 

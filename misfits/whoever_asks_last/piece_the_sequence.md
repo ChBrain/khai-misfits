@@ -36,5 +36,5 @@ Seen at the surface, the Sequence looks like a neutral schedule, the dull matter
 
 ## Yearbook
 
-Set by [the Convenor](persona_the_convenor.md) as a duty and enacted as a verdict, borne by [the Voter](persona_the_voter.md) as a result their honest ballot did not choose, and unreachable by [the Framer](persona_the_framer.md), whose fair rule cannot make the order not matter.
+Set by [the Presider](persona_the_presider.md) as a duty and enacted as a verdict, borne by [the Voter](persona_the_voter.md) as a result their honest ballot did not choose, and unreachable by [the Framer](persona_the_framer.md), whose fair rule cannot make the order not matter.
 It is the trap's centre: the Sequence is what [sequencing](process_sequencing.md) sets, the resolution [the cycle](piece_the_cycle.md) demands and cannot supply itself, the hand [the made majority](piece_the_made_majority.md) is dealt by, the thing no [method](position_the_method.md) can render harmless without a fairness spent.

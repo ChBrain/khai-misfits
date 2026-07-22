@@ -28,7 +28,7 @@ No cynicism wished on them: the Framer wants the fair rule sincerely and looks f
 
 ## Action
 
-Drafts a rule and tests it against the fairness it must keep, and watches it honour almost all and break one, a Borda count that lets an irrelevant option tip the pair, a runoff that punishes a candidate for gaining support.
+Drafts a rule and tests it against the fairness it must keep, and watches it honour almost all and break one, a Borda count that lets an irrelevant option tip the pair, a rule kept general, faithful, and independent only by letting one voter's ranking always decide.
 Tries the next rule and the next, each satisfying a different three of the four conditions and failing the last, the failure moving from rule to rule but never leaving.
 Turns at last to the escapes, narrowing what voters may prefer or seating a decider, and sees the coherence come back only as the fairness it was bought with goes.
 

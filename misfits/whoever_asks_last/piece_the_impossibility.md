@@ -36,5 +36,5 @@ Seen at the surface, the Impossibility looks like an open question, a better vot
 
 ## Yearbook
 
-Met by [the Framer](persona_the_framer.md) as the wall their good faith cannot pass, unfelt by [the Voter](persona_the_voter.md) and [the Convenor](persona_the_convenor.md), who never see why no rule saves them.
+Met by [the Framer](persona_the_framer.md) as the wall their good faith cannot pass, unfelt by [the Voter](persona_the_voter.md) and [the Presider](persona_the_presider.md), who never see why no rule saves them.
 It is the trap's floor: the Impossibility is what [amending](process_amending.md) keeps meeting and [the method](position_the_method.md) cannot escape, the proof that [the cycle](piece_the_cycle.md) has no fair straightening and [the sequence](piece_the_sequence.md) no fair disarming, the reason [the made majority](piece_the_made_majority.md) stands with nothing lawful to unseat it.
