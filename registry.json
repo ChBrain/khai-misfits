@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.123.0",
+  "version": "0.124.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -716,6 +716,12 @@
       "id": "the_tyranny_of_the_urgent",
       "title": "The Tyranny of the Urgent",
       "description": "Each task that shouts a deadline gets done first, so the important work that never shouts is deferred and never done."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_unmarked_edge",
+      "title": "The Unmarked Edge",
+      "description": "Cost and effort push the working point toward a safety edge no one can see, so the system drifts across it step by step."
     },
     {
       "kind": "misfit",
