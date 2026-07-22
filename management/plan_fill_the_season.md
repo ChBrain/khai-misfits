@@ -353,6 +353,15 @@ premise from Zinkernagel and Doherty to Medzhitov's resistance while keeping the
 overkill, corrected the amplification from no brake to no fast brake the feedback outpaces, and recast the weapons' harm
 as indiscriminacy rather than misidentification. That takes the house to one hundred and twenty-six. The next slated,
 The Evolution of Virulence, waits behind a held target: the somatic clonal evolution of the blood, staged as a system
-sickness, is promoted for a distinct cut against Fit to Fail and The Commons, the renewal that keeps the tissue alive
-being the same process that re-arms cell-level selection and grows the clone, its warrant under a thoughtful research
-sweep before authoring.
+sickness, is promoted on a distinct cut settled by a research sweep. The daylight from Fit to Fail is not the renewal
+that grows the clone, which alone reads as evolutionary suicide and collides, but the level asymmetry: a body is a
+truce, a higher-level individual that exists only by holding its own cells' selection down through differentiation,
+apoptosis, senescence, and surveillance, so the clone is the resumption of a suppressed lower-level process that
+destroys the very suppressor it is a part of, the killer a component of its victim and dying with it, per-organism and
+heritable to no host generation. It is cut clear of The Commons too (no agent and no restraint lever, a defector lineage
+displacing rather than a shared resource depleting), of In Its Own Defence (immunity is a suppressor whose failure
+permits it, not a defence overshooting), and of No Way Back Up (positive selection for a fitter clone, not the
+drift-loss of the fittest class). The harm is to be staged as the clone jamming the normal blood's maturation and
+poisoning its niche, not evicting it, and the remedy as a trade paid in the renewal the body needs, never as doom, some
+leukaemias being curable; hedged past a flat no-cause (radiation, benzene, prior therapy, and inherited and age-related
+risk are real) and past selection as the sole author (drift and niche matter). Authored after this record.
