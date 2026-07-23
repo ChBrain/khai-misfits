@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.129.0",
+  "version": "0.130.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -74,6 +74,12 @@
       "id": "dutch_disease",
       "title": "Dutch Disease",
       "description": "A resource windfall lifts the currency and prices the factories out, so the boom hollows the economy that got it."
+    },
+    {
+      "kind": "misfit",
+      "id": "early_and_uncounted",
+      "title": "Early and Uncounted",
+      "description": "A gene favoured early is never billed for its late cost, because too few of the cohort survive to pay it."
     },
     {
       "kind": "misfit",
