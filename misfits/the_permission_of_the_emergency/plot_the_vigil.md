@@ -31,9 +31,9 @@ There is nothing left to do but wait, and waiting, for once, is the whole of the
 ## Stage
 
 [The Held](persona_the_held.md), on [Wait for Leave](plan_wait_for_leave.md), waits without protest and without guilt, since the leave has already been granted and asks nothing further of it.
-No one crosses to question the hour: the crisis stands in for every argument the bath could never make, and [the Refill](piece_the_refill.md), rare and unplanned, arrives anyway.
+No one crosses to question the hour: the crisis stands in for every argument the bath could never make, and yet [the Refill](piece_the_refill.md) does not arrive, the flooded floor granting the time but not the being-away, its stillness anxious and spent on the damage.
 
 ## Tension
 
-The stillness is real rest, and it is only reached because a disaster forced it, and both are true at once.
-The plot closes with the licensed stillness kept, the one reliable rest a life affords, granted only because something broke.
+The stillness is licensed and the hours are real, and still it rests no one: an anxious stop spent on the damage, not the soft, undemanding hour that would restore, so the one stop a life reliably reaches is the one that reloads nothing.
+The plot closes with the licensed stillness kept, granted in full because something broke and restoring nothing, while the hour that would have refilled the self waits, unlicensed, and is refused.
