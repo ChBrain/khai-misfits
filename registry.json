@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.132.0",
+  "version": "0.133.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -398,6 +398,12 @@
       "id": "the_bus_factor",
       "title": "The Bus Factor",
       "description": "A team runs fast on the one person who knows everything, until the day they are gone and the knowledge with them."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_calm_you_pay_for",
+      "title": "The Calm You Pay For",
+      "description": "A loop pushes its sensitivity down in band, but a conservation law forces it up elsewhere: calm paid for as a rise."
     },
     {
       "kind": "misfit",
