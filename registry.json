@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.133.0",
+  "version": "0.134.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -782,6 +782,12 @@
       "id": "time_inconsistency",
       "title": "Time Inconsistency",
       "description": "A promise best made today is best broken tomorrow, so no one acts on it, and good outcomes need a hand tied in advance."
+    },
+    {
+      "kind": "misfit",
+      "id": "too_much_to_ask",
+      "title": "Too Much to Ask",
+      "description": "Each step is added for a good reason, but the cost of claiming deters the very people the programme was built to serve."
     },
     {
       "kind": "misfit",
