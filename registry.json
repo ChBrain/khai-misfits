@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.130.0",
+  "version": "0.131.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -662,6 +662,12 @@
       "id": "the_peace_it_keeps",
       "title": "The Peace It Keeps",
       "description": "A body holds its cells in a truce, and one of them, rewarded for winning, undoes the whole it is a part of."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_permission_of_the_emergency",
+      "title": "The Permission of the Emergency",
+      "description": "A crisis grants the leave to stop that ordinary rest never gets, so time is found for the disaster, never for the bath."
     },
     {
       "kind": "misfit",
