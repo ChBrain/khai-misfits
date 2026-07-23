@@ -402,3 +402,16 @@ the asymmetry a fact about when a fair count can reach), with Kirkwood's disposa
 held off entire, the play staging why the gene is retained rather than how the body allocates. That takes the house to
 one hundred and thirty, and returns the slate to Fatigue Failure and Cumulative Damage at the top of the unstruck P1
 line.
+
+A staging off the slate, from the floor rather than the backlog: The Permission of the Emergency, cut from a
+practitioner observation that a household finds three hours to sit and wait out a burst pipe and never forty minutes for
+a bath. It is staged to the justification account of idleness (Hsee, Yang, and Wang on idleness aversion and the need for
+justifiable busyness, with Bellezza, Paharia, and Keinan on busyness as status, Tonietto, Malkoc, Reczek, and Norton on
+leisure spoiled by the sense of waste, and Kaplan's attention restoration as the good that is starved), cut to the vector
+no staged misfit holds: rest is entered only under a licence, and a crisis is the readiest one, so the emergency grants
+the leave to stop that ordinary rest is never given. Named clear of The Tyranny of the Urgent (task over task within one
+actor's attention, the deferred thing high-worth work rather than restorative rest, the crisis licensing a stillness and
+not merely out-shouting it), The Firefighter's Medal (an audience crediting the save and a shared capacity that erodes,
+where here the permission is granted by the situation itself and nothing spirals), and Moral Licensing (a virtue
+permitting a vice, not a disaster permitting a rest). That takes the house to one hundred and thirty-one, and leaves the
+slate unmoved, Fatigue Failure and Cumulative Damage still at the top of the unstruck P1 line.
