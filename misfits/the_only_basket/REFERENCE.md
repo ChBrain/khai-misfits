@@ -50,7 +50,7 @@ The phenomenon in practice, and the research spine beneath it.
 | **William A. Fischel**  | _The Homevoter Hypothesis: How Home Values Influence Local Government Taxation, School Finance, and Land-Use Policies_ (Harvard University Press, 2001) | **The spine**: the home is the owner's largest, undiversifiable asset, so homeowners vote their homes at the local level and use zoning as insurance against value-reducing development. The governing law. The Only Basket, The Ballot. |
 | **William A. Fischel**  | _Zoning Rules! The Economics of Land Use Regulation_ (Lincoln Institute, 2015); the history of the bus, truck, and highway threats                      | **The mechanism and its rise**: how the inability to insure the home against nearby change drove increasingly restrictive, exclusionary land-use regulation over the century. The Restriction.                                           |
 | **Glaeser and Gyourko** | "The Impact of Zoning on Housing Affordability" (_FRBNY Economic Policy Review_, 2003); "The Economic Implications of Housing Supply" (_JEP_, 2018)     | **The supply and price effect**: land-use restriction, not construction cost, drives the gap between house prices and the cost of building, choking supply and raising prices where regulation binds. The Shortage.                      |
-| **The disenfranchised** | the would-be resident, renter, or worker priced out of a metro by the zoning of towns whose elections they cannot vote in                               | **The incidence**: the cost of the restriction falls on newcomers with no vote in the jurisdictions that impose it, the externality across the municipal boundary. The Newcomer.                                                         |
+| **The disenfranchised** | the would-be resident, renter, or worker priced out of a metro by the zoning of towns whose elections they cannot vote in                               | **The incidence**: the cost of the restriction falls on newcomers with no vote in the jurisdictions that impose it, the externality across the municipal boundary. The Boundary.                                                         |
 | **Practitioner**        | the metro where every suburb down-zones to protect its own home values and the region ends starved of housing                                           | The trap in the field, and its cost: each town's restriction locally sound and its owners sincere, the regional shortage a sum no jurisdiction chose and no homeowner voted for as a goal.                                               |
 
 ## Restrictions
@@ -91,8 +91,9 @@ proposed load-bearing pieces the warrant commits the staging to carry, one per v
   owner insures the value of the home, and which the newcomer does not hold.
 - **The Restriction**: carries the individual act (Fischel), the down-zoning, density cap, or growth
   control that defends the value nearby, each one locally reasonable.
-- **The Newcomer**: carries the incidence (the disenfranchised), the would-be resident who bears the
-  shortage and has no vote in the jurisdiction that imposes it, the externality across the boundary.
+- **The Boundary**: carries the incidence (the disenfranchised), the jurisdiction line across which the
+  restriction's cost falls, the newcomer who bears the shortage having no vote inside the boundary that
+  imposes it.
 - **The Shortage**: carries the accrued sum (Glaeser and Gyourko), the metro-wide housing supply choked
   below need and the prices raised, the cost that lives only in the aggregate no town chose.
 - **The Higher Table**: carries the escape and its price (Fischel), moving the land-use decision to a
