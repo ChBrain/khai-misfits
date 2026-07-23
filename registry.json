@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.137.0",
+  "version": "0.138.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -86,6 +86,12 @@
       "id": "everybodys_business",
       "title": "Everybody's Business",
       "description": "A decision everyone can see and anyone could own is dropped, because each assumes it is somebody else's to hold."
+    },
+    {
+      "kind": "misfit",
+      "id": "faster_than_it_can_cool",
+      "title": "Faster Than It Can Cool",
+      "description": "A sound system, heat made exponentially and shed only linearly, is carried by ordinary ageing to the point it runs away."
     },
     {
       "kind": "misfit",
