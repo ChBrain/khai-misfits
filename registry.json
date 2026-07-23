@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.131.0",
+  "version": "0.132.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -602,6 +602,12 @@
       "id": "the_lie_of_the_land",
       "title": "The Lie of the Land",
       "description": "A cue that once meant good habitat still fires after the ground goes bad, so settlers fill the sink, not the source."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_load_it_always_carried",
+      "title": "The Load It Always Carried",
+      "description": "Every cycle passes every check, yet the increments sum until the part fractures under the load it always carried."
     },
     {
       "kind": "misfit",
