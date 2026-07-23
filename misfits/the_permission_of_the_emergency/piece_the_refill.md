@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[The Permission of the Emergency](play_the_permission_of_the_emergency.md). The restorative good of being away, the directed attention the bath and the book would reload, unlocked only when the permit allows it.
+[The Permission of the Emergency](play_the_permission_of_the_emergency.md). The restorative good of being away, the directed attention an unhurried hour would reload, owed to the unlicensed hour and never bought by the permit.
 
 ## Owner
 
@@ -27,7 +27,7 @@ Withheld there, and not delivered by the crisis either: [the flooded floor](plac
 ## Load Bearing
 
 Without it the refusal would cost nothing more than an evening, a hobby foregone and no lasting harm.
-With it the refusal costs the very thing rest exists to restore: a mind whose directed attention runs down and is refilled only through being away, through the soft fascination of a bath or a book that asks nothing of it in return. The Refill is load bearing because it carries the restorative good that only the unhurried, undemanding hour supplies (Kaplan): attention restoration is real and it is starved precisely by the pattern this misfit stages, since the hour that would refill it is exactly the hour that has no licence and is exactly the hour refused, so the refill is reached only through that unhurried hour and never through the crisis, whose anxious stillness grants the time but not the restoration, and, the hour that would supply it being refused, the refill goes unreached and the mind is never reloaded. The piece carries the good the whole trap starves.
+With it the refusal costs the very thing rest exists to restore: a mind whose directed attention runs down and is refilled only through being away and soft fascination, the restorative qualities an unhurried hour like a bath or a book can offer and a working life rarely does. The Refill is load bearing because it carries that restorative good (Kaplan): directed-attention restoration is real and it is starved precisely by the pattern this misfit stages, since the hour that would refill it is exactly the hour that has no licence and is exactly the hour refused, so the refill is reached only through that unhurried hour and never through the crisis, whose anxious stillness grants the time but not the restoration, and, the hour that would supply it being refused, the refill goes unreached and the mind is never reloaded. The piece carries the good the whole trap starves.
 
 ## Apparent
 
