@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.134.0",
+  "version": "0.135.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -650,6 +650,12 @@
       "id": "the_ninth_woman",
       "title": "The Ninth Woman",
       "description": "More people are added to a late project to speed it up, and the ramp-up and cross-talk make it later still."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_one_in_front_of_you",
+      "title": "The One in Front of You",
+      "description": "Compassion answers the named victim in view and falls silent before the statistical many, so aid flows to the one seen."
     },
     {
       "kind": "misfit",
