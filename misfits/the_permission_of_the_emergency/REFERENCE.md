@@ -25,7 +25,7 @@ mechanics: the aversion to unjustified idleness and the pull of any justificatio
 Yang, and Wang), the status that busyness signals and the confession that leisure reads as (Bellezza,
 Paharia, and Keinan), the enjoyment of rest undermined by the sense that it is wasteful, worst for the
 terminal rest pursued as an end in itself (Tonietto, Malkoc, Reczek, and Norton), the restorative good
-of being away that only the licence unlocks (Kaplan), and the self depleted across a life not for want
+of being away that the licence never buys, the crisis granting the time but not the restoration (Kaplan), and the self depleted across a life not for want
 of time but for want of leave, as the load-bearing vectors of the structure, not as a tale of a person
 too lazy or too driven to rest.
 
@@ -98,7 +98,7 @@ proposed load-bearing pieces the warrant commits the staging to carry, one per v
 - **The Spoiled Bath**: carries the guilt that undermines rest even when it is taken (Tonietto, Malkoc,
   Reczek, and Norton), worst for the terminal rest pursued as its own end.
 - **The Refill**: carries the restorative good of being away (Kaplan), the directed attention the bath
-  and the book reload, which only the permit ever unlocks.
+  and the book reload, which the unlicensed hour alone would supply and the permit never buys.
 - **The Undrawn**: carries the accrued cost (the sum), the self run down across a life not for want of
   time but for want of leave, invisible in any single week and total across the years.
 - **The Permission of the Emergency**: carries the phenomenon whole (Hsee, Yang, and Wang; Bellezza,
