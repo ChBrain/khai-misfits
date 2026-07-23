@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.135.0",
+  "version": "0.136.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -656,6 +656,12 @@
       "id": "the_one_in_front_of_you",
       "title": "The One in Front of You",
       "description": "Compassion answers the named victim in view and falls silent before the statistical many, so aid flows to the one seen."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_only_basket",
+      "title": "The Only Basket",
+      "description": "Each owner votes locally to protect their undiversifiable home, and the sum of sound defences is a housing shortage."
     },
     {
       "kind": "misfit",
