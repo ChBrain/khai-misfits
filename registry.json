@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.138.0",
+  "version": "0.139.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -230,6 +230,12 @@
       "id": "only_the_close_ones",
       "title": "Only the Close Ones",
       "description": "The clear cases settle, so only the toss-ups are tried, so the trial record comes out near even and means little."
+    },
+    {
+      "kind": "misfit",
+      "id": "onto_the_survivors",
+      "title": "Onto the Survivors",
+      "description": "A failed member's load falls onto the survivors, so past a critical fraction the sharing that made it safe ruptures it."
     },
     {
       "kind": "misfit",
