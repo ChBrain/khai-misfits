@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.143.0",
+  "version": "0.144.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -836,6 +836,12 @@
       "id": "time_inconsistency",
       "title": "Time Inconsistency",
       "description": "A promise best made today is best broken tomorrow, so no one acts on it, and good outcomes need a hand tied in advance."
+    },
+    {
+      "kind": "misfit",
+      "id": "too_kind_to_drop",
+      "title": "Too Kind to Drop",
+      "description": "A buffer that refuses to drop packets hides the loss that tells the sender to slow, so it fills and latency balloons."
     },
     {
       "kind": "misfit",
