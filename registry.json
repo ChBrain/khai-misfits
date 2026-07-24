@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.139.0",
+  "version": "0.140.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -188,6 +188,12 @@
       "id": "no_idle_hands",
       "title": "No Idle Hands",
       "description": "Driving a resource to full use to erase idleness makes the queue behind it swell without bound as the slack runs out."
+    },
+    {
+      "kind": "misfit",
+      "id": "no_one_gains_by_telling_you",
+      "title": "No One Gains by Telling You",
+      "description": "A low headline hides a costly add-on, and the firm that would warn you gains nothing, so the myopia tax stands."
     },
     {
       "kind": "misfit",
