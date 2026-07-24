@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.144.0",
+  "version": "0.145.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -290,6 +290,12 @@
       "id": "prevalence_induced_concept_change",
       "title": "Prevalence-Induced Concept Change",
       "description": "As the real cases grow scarce, the mind widens what counts as the thing, so the problem is never seen to shrink."
+    },
+    {
+      "kind": "misfit",
+      "id": "priced_in",
+      "title": "Priced In",
+      "description": "Everyone reads the answer off the price, so no one pays to find it out, and the price stops holding the answer."
     },
     {
       "kind": "misfit",
