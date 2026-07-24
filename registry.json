@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.140.0",
+  "version": "0.141.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -50,6 +50,12 @@
       "id": "chasing_the_price",
       "title": "Chasing the Price",
       "description": "Each grower plants to today's price, but so does every other, so the harvest lands too late, into a glut they all made."
+    },
+    {
+      "kind": "misfit",
+      "id": "cheaper_not_to_know",
+      "title": "Cheaper Not to Know",
+      "description": "One vote almost never decides, so learning the issues never pays, and the electorate decides on cues at no one's fault."
     },
     {
       "kind": "misfit",
