@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 140 misfits, 713 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 141 misfits, 714 scholars.
 
 ## By science
 
@@ -227,7 +227,8 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | **DiPrete** | `the_head_start` | "Cumulative Advantage as a Mechanism for Inequality", Annual Review of Sociology (2006) <br><sub>DiPrete & Eirich</sub> | The synthesis: how small initial differences amplify into large ones over time, and the care needed to separate it from pure merit. The Matthew, the Gap. |
 | **Doherty** | `in_its_own_defence` | "Immunological Surveillance Against Altered Self Components by Sensitised T Lymphocytes in Lymphocytic Choriomeningitis" (Nature, 1974); Nobel 1996 <br><sub>Rolf Zinkernagel and Peter Doherty</sub> | The naming and the finding: the sensitised T cells, not the virus, cause the lethal tissue damage, so the immune response itself can be the proximate cause of disease and death. The play's governing law. The Overkill. |
 | **Doursat** | `overfitting` | "Neural Networks and the Bias/Variance Dilemma" (Neural Computation, 1992) <br><sub>Geman, Bienenstock and Doursat</sub> | The spine: expected error as bias plus variance, and the dilemma that more capacity trades one for the other. The play's governing law, the Signal and Noise. |
-| **Downs** | `pournelles_iron_law` | Inside Bureaucracy (1967) | Goal succession by type: the life-cycle drift from mission-driven zealots and advocates to self-interested conservers. The Divide, the Drain. |
+| **Downs** | `cheaper_not_to_know` | An Economic Theory of Democracy (1957); the theory of rational ignorance and information shortcuts <br><sub>Anthony Downs</sub> | The spine: the probability that a single vote decides a mass election is vanishingly small, so the expected benefit of becoming informed is near zero against a real cost of learning, and the rational citizen stays ignorant and votes on ideology and other cheap cues. The Vote, The Pivot, The Cost, The Return, The Cue. |
+| ↳ | `pournelles_iron_law` | Inside Bureaucracy (1967) | Goal succession by type: the life-cycle drift from mission-driven zealots and advocates to self-interested conservers. The Divide, the Drain. |
 | **Dukerich** | `the_leadership_script` | "The Romance of Leadership" (ASQ, 1985) <br><sub>Meindl, Ehrlich & Dukerich</sub> | The attribution: leadership read into a performance and into the risen, the observer's romance supplying the substance the sound only signals. The Ladder. |
 | **Duncker** | `the_law_of_the_instrument` | "On Problem-Solving" (1945), functional fixedness | The fixation: a known use blocks an object's other uses, so perception narrows to the accustomed function. The Reflex, the Amputation. |
 | **Dwernychuk** | `the_lie_of_the_land` | "Ducks Nesting in Association with Gulls: an Ecological Trap?" (Canadian Journal of Zoology, 1972) <br><sub>Dwernychuk & Boag</sub> | The field case: ducks led by a gull colony to nest where they fare worst, the classic empirical trap. The Attractive Sink. |
@@ -825,6 +826,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | **Snow** | `watermelon_reporting` | "The Effects of Optimistic and Pessimistic Biasing on Software Project Status Reporting", Information & Management (2007) <br><sub>Snow, Keil & Wallace</sub> | Status reports are biased a majority of the time, and the bias is roughly twice as likely to be optimistic as pessimistic: the green rounding, measured. |
 | **Soares** | `in_its_own_defence` | "Disease Tolerance as a Defense Strategy" (Science, 2012) <br><sub>Ruslan Medzhitov, David Schneider and Miguel Soares</sub> | Resistance versus tolerance: mounting resistance to clear a pathogen inflicts collateral damage, distinct from tolerance, limiting the damage a given burden does, so meeting the threat is necessary and its cost a strategy variable, not an accident. The Proportion. The Collateral. |
 | **Solomon** | `more_to_stand_still` | "An Opponent-Process Theory of Motivation: I. Temporal Dynamics of Affect" (Psychological Review, 1974) <br><sub>Richard Solomon and John Corbit</sub> | The mechanism: repeated stimulation strengthens an opponent process that opposes the stimulus, so the net affective response shrinks with use (tolerance) and the after-reaction on withdrawal grows, the fading and the trough one law. The play's governing law. The Wheel. |
+| **Somin** | `cheaper_not_to_know` | Democracy and Political Ignorance: Why Smaller Government Is Smarter (2013) <br><sub>Ilya Somin</sub> | The field evidence and the cost: the measured breadth and depth of political ignorance across the electorate, argued to be mostly rational given near-zero pivotality, and its consequence for the competence of democratic choice. The Verdict; that the ignorance is rational, not mere apathy. |
 | **Sorrell** | `jevons_paradox` | "The Rebound Effect: an Assessment of the Evidence" (UKERC, 2007) | The empirical bounds: how large direct and economy-wide rebound actually run, and when backfire is plausible. The New Use, the extensive margin measured. |
 | **Soulé** | `safety_in_numbers` | "Minimum Viable Populations: Processes of Species Extinction" (1986) <br><sub>Gilpin & Soulé</sub> | The vortex: small populations drawn to extinction by mutually reinforcing feedbacks, the density dependence running in reverse. The Spiral, The Vortex. |
 | **Spearman** | `no_idle_hands` | Factory Physics (1996) <br><sub>Hopp & Spearman</sub> | Operationalised: the VUT relation, variability times a utilisation factor times the process time, and utilisation buffered against variability by slack. The Slack, The Jam. |
@@ -1000,6 +1002,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `bootleggers_and_baptists` | Bruce Yandle; Yandle & Smith; George Stigler; Mancur Olson; Gary Becker |
 | `borrowed_immunity` | Bauch & Earn; Fine & Clarkson; Fine; Anderson & May; Boundary of the effect |
 | `chasing_the_price` | Mordecai Ezekiel; Nicholas Kaldor; Arthur Hanau; Marc Nerlove; John F. Muth |
+| `cheaper_not_to_know` | Anthony Downs; Ilya Somin; Practitioner |
 | `chestertons_fence` | Chesterton; Merton; Polanyi; Hayek; Burke; Practitioner |
 | `closing_ranks` | Whyte; Asch; Janis; 't Hart; Practitioner |
 | `debt_deflation` | Fisher; Bernanke; Minsky; Koo; Friedman and Schwartz; Practitioner |
