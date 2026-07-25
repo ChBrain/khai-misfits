@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.145.0",
+  "version": "0.146.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -662,6 +662,12 @@
       "id": "the_load_it_always_carried",
       "title": "The Load It Always Carried",
       "description": "Every cycle passes every check, yet the increments sum until the part fractures under the load it always carried."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_long_calm",
+      "title": "The Long Calm",
+      "description": "Years of calm make more debt look safe, so leverage builds, and the calm quietly breeds the crash it looks least like."
     },
     {
       "kind": "misfit",
