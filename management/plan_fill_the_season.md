@@ -857,14 +857,21 @@ both are struck, not stacked beside them. The three below survive the check and 
       coverage of the abandoned ends and not wasted effort or a lowered standard, and the whole held lightly against the
       correction that under quadratic transport costs the rivals maximally differentiate instead (d'Aspremont, Gabszewicz,
       and Thisse), with personas The Contender, The Pivot, The Fringe, and The Maverick
-- [ ] [P2] The Two-Sided Cold Start (Rochet & Tirole, "Platform Competition in Two-Sided Markets", _Journal of the
+- [x] [P2] The Two-Sided Cold Start (Rochet & Tirole, "Platform Competition in Two-Sided Markets", _Journal of the
       European Economic Association_, 2003; Caillaud & Jullien, 2003): a platform is worth joining on each side only once
       the other side is there, so buyers wait for sellers and sellers wait for buyers, and each side's rational wait keeps
       the cross-side value from ever forming, so a platform that would serve everyone fails to launch, distinct from The Stag
       Hunt's single-population coordination on a shared prize in that the coordination is across two distinct sides joined by
       a cross-side externality, and from Path Dependence's lock-in of an established standard in that nothing has yet formed
       to lock in; the remedy subsidising one side, seeding it, or divide-and-conquer pricing, flagged for the Stag Hunt
-      adjacency so the cut is made to the two-sided externality
+      adjacency so the cut is made to the two-sided externality; staged as **After You**, cut to the
+      cross-side-coordination-at-launch vector no staged misfit holds, a platform worth joining on each side only once the
+      other side is there, so each side rationally waits for the other and the cross-side value never forms and a platform
+      that would have served everyone fails to launch, named clear of The Stag Hunt and Path Dependence, with the two-sided
+      market and its cross-side externality and price structure homed to Rochet and Tirole, the chicken-and-egg and the
+      divide-and-conquer remedy and the decisive role of expectations to Caillaud and Jullien, and the network-externality
+      antecedent to Katz and Shapiro, the failure carried as one of two equilibria selected by expectations and not an
+      impossibility, with personas The Supply, The Demand, The Platform, and The Marquee
 
 Triage of the rest of this pass, against REFERENCES.md. Held pending a distinct cut, each with a real spine but a fit
 still to find: the Lucas Critique (Lucas, 1976), whose breakdown of estimated relationships when they are used for
@@ -942,3 +949,79 @@ the correction that keeps it conditional to d'Aspremont, Gabszewicz, and Thisse,
 middle, the abandoned end, and the differentiator cast as the personas The Contender, The Pivot, The Fringe, and The
 Maverick. That takes the house to one hundred and forty-nine, and returns the slate to The Two-Sided Cold Start at the top
 of the unstruck P2 line.
+
+The house strikes The Two-Sided Cold Start, staged as **After You**. The trap is a market that would serve everyone and
+cannot begin itself. A platform, an intermediary, a marketplace, is worth nothing in itself and everything as a
+meeting-place, and it joins two distinct sides each of whose reason to come is the other's presence: a seller wants
+buyers, a buyer wants sellers, a cross-side externality that puts each side's value in the other side's numbers and not its
+own (Rochet and Tirole). So each side, facing a platform still empty on the other side, rationally waits, because the first
+to arrive pays now for a value that does not yet exist, and neither is wrong to hold back, a seller declining to stock a
+market with no buyers and a buyer declining to cross to one with no sellers. With both waiting, the cross-side value never
+forms and a platform that would have served everyone fails to launch, a chicken and egg with no first term (Caillaud and
+Jullien). It is authored by no one, because no side was wrong to wait, and it hides as a simple lack of demand when the
+demand was real and only the coordination was missing, so the harm is a launch that never happened and it leaves no mark.
+It is cut to the cross-side-coordination-at-launch vector no staged misfit holds, and it is named clear of The Stag Hunt
+(a single population choosing a common action, each fearing a fellow defector, whereas here two distinct sides each wait on
+the other across a cross-side externality, resolved by an asymmetric price a same-choice game has no analog for) and Path
+Dependence (where something has already formed and a worse standard locks in, whereas here nothing has formed and the right
+thing never starts, a failure to launch and not a lock-in, the two opposite in time). The lever is the price structure, not
+the level: the platform can subsidise one side below cost to build it and recoup from the other, divide and conquer, a real
+cost carried against an uncertain launch and able to be spent on the wrong side or taken by users who do not stay (Caillaud
+and Jullien; Rochet and Tirole). And the whole is held against its own limit, that the failure is one of two equilibria and
+not a fate: the same platform reaches the full outcome or the empty one according to what each side expects of the other,
+both beliefs self-fulfilling, so a first arrival that turns belief, a marquee seller or a seeded side, can tip the empty
+room to a full one, the escape real but bought and never assured (Caillaud and Jullien; Katz and Shapiro). The two-sided
+market and its price structure are homed to Rochet and Tirole, the chicken-and-egg and the divide-and-conquer remedy and
+the role of expectations to Caillaud and Jullien, and the network externality with self-fulfilling expectations to Katz and
+Shapiro, credited as the antecedent the two-sided case extends, with the offering side, the seeking side, the intermediary,
+and the first mover cast as the personas The Supply, The Demand, The Platform, and The Marquee. That takes the house to one
+hundred and fifty.
+
+With The Two-Sided Cold Start struck, the P2 well is dry again: Grossman and Stiglitz, Minsky, the cache stampede, the
+hold-up problem, minimum differentiation, and the two-sided cold start are all staged, and no unstruck target remains above
+this line. The slate is refilled below by a fresh research-input pass, each candidate run through registry.json and
+REFERENCES.md by canonical name and against the structural test, that the pattern must run in the system regardless of
+which agent is inside it. The concordance caught several before slating: the winner's curse is already staged as The
+Winning Bid, the tragedy of the anticommons as The Anticommons, and Baumol's cost disease, Dutch disease, and Jevons's
+paradox under their own names, the Peter principle as Rising to Unfit, and the cobra effect and Goodhart's law as The Cobra
+Effect and Metric Fixation, so all are struck, not stacked beside them. The three below survive the check and are slated,
+worked from the top.
+
+- [ ] [P1] Motivation Crowding-Out (Deci, "Effects of Externally Mediated Rewards on Intrinsic Motivation", _Journal of
+      Personality and Social Psychology_, 1971; Titmuss, _The Gift Relationship_, 1970; Gneezy & Rustichini, "A Fine Is a
+      Price", _Journal of Legal Studies_, 2000; Frey & Jegen, "Motivation Crowding Theory", _Journal of Economic Surveys_,
+      2001): attaching an explicit price or reward to a behaviour that was carried by an intrinsic or a moral motive can
+      reduce that behaviour, because the incentive reframes a duty or a pleasure as a market transaction and displaces the
+      stronger motive it was meant to reinforce, so the day-care fine that raised late pickups and the payment that lowered
+      blood donation, distinct from The Cobra Effect's and Metric Fixation's gamed measure in that nothing is gamed, the
+      incentive is not exploited but crowds out the prior motive, and from Moral Licensing's good deed that permits a later
+      lapse in that the reward removes the reason rather than earning a credit; the caution that adding a reason can subtract
+      a stronger one, to be cut to the incentive-displaces-intrinsic-motive vector, credited to the crowding-theory spine
+- [ ] [P2] Brooks's Law (Brooks, _The Mythical Man-Month_, 1975): adding manpower to a late software project makes it
+      later, because the new workers must be trained by the ones already productive and the communication paths among a team
+      grow with the square of its size while the work is only partly partitionable, so past a point each added head subtracts
+      more in coordination than it adds in labour, distinct from Social Loafing's per-person effort that slackens unseen in a
+      group in that here every worker works fully and the loss is coordination overhead and not shirking, and from The Last
+      Layer's diminishing returns on added complexity in that the drag is communication cost among people and not the
+      marginal yield of a feature; the remedy small teams, partitioned work, and not answering a slip by adding bodies, to be
+      cut to the coordination-cost-grows-with-headcount vector
+- [ ] [P2] The Punishment Illusion (Kahneman & Tversky, "On the Psychology of Prediction", _Psychological Review_, 1973;
+      Kahneman, _Thinking, Fast and Slow_, 2011, the flight-instructor case): because performance regresses to the mean, an
+      exceptional result tends to be followed by a more ordinary one and a poor result by a better one whatever is done
+      between, so praise after a high seems to backfire and a rebuke after a low seems to work, and the observer wrongly
+      learns that punishment helps and reward hurts, distinct from Metric Fixation's gamed measure and The Proxy's
+      self-fulfilling statistical-discrimination loop in that nothing is gamed and no one's behaviour is actually changed,
+      the error being a misreading of ordinary statistical reversion as the effect of an intervention; the caution that
+      regression to the mean mimics cause, to be cut to the regression-misread-as-causation vector
+
+Triage of this pass, against REFERENCES.md, carrying forward the three still held from the last. Held pending a distinct
+cut, each with a real spine but a fit still to find: the Lucas Critique (Lucas, 1976), whose breakdown of estimated
+relationships when they are used for policy reads more as a methodological caution than a locally-rational-sums-to-
+globally-bad behavioural trap and brushes Metric Fixation's gamed measure, held until a cut is found that keeps it
+structural and clear of Metric Fixation; the Pygmalion and Golem effects (Rosenthal & Jacobson, 1968), whose self-
+fulfilling expectation shaping a person's performance is close both to The Proxy's self-fulfilling statistical-
+discrimination loop and to the expectation channel just staged in After You, held until the interpersonal expectation
+channel is cut clear of both; and the Liquidity Trap (Keynes, 1936; Krugman, 1998), whose demand shortfall at the zero
+lower bound is adjacent to The Paradox of Thrift, held until the monetary-impotence sliver is cut clear of the fallacy of
+composition already staged. The three slated above are the pass's refill, worked from the top, and past them a further
+research-input pass will be wanted, run the same way, by canonical name through REFERENCES.md.
