@@ -1,13 +1,19 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.149.0",
+  "version": "0.150.0",
   "misfits": [
     {
       "kind": "misfit",
       "id": "accidental_adversaries",
       "title": "Accidental Adversaries",
       "description": "Two allies each make a locally safe move that quietly harms the other, so each strikes back, and partners become rivals."
+    },
+    {
+      "kind": "misfit",
+      "id": "after_you",
+      "title": "After You",
+      "description": "A market needs both sides at once, but each waits for the other to arrive first, so it never forms at all."
     },
     {
       "kind": "misfit",
