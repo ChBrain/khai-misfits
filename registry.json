@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.151.0",
+  "version": "0.152.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -182,6 +182,12 @@
       "id": "limits_to_growth",
       "title": "Limits to Growth",
       "description": "Growth stalls on a limit, so the engine that made the success is driven harder, when the limit, not the engine, binds."
+    },
+    {
+      "kind": "misfit",
+      "id": "loath_to_part",
+      "title": "Loath to Part",
+      "description": "Owning a thing lifts its value above what any buyer will pay, so the trade both would gain from is never made."
     },
     {
       "kind": "misfit",
