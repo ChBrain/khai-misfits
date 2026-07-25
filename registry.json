@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.147.0",
+  "version": "0.148.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -266,6 +266,12 @@
       "id": "outranked_from_below",
       "title": "Outranked from Below",
       "description": "Every scheduling call is correct, yet the highest work starves behind lower, because holding the lock carries no rank."
+    },
+    {
+      "kind": "misfit",
+      "id": "over_a_barrel",
+      "title": "Over a Barrel",
+      "description": "The most valuable deal needs a specific investment, but once it is sunk you can be squeezed, so it is never made."
     },
     {
       "kind": "misfit",
