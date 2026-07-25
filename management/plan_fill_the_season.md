@@ -686,12 +686,28 @@ struck, not stacked beside it. The three below survive the check and are slated,
       bought by the noise traders' average losses and not a flaw awaiting a fix, the informed and the uninformed and the
       value-blind trader and the price-setting mechanism cast as the personas The Informed, The Uninformed, The Noise
       Trader, and The Market
-- [ ] [P2] The Financial Instability Hypothesis (Minsky, _Stabilizing an Unstable Economy_, 1986; "The Financial
+- [x] [P2] The Financial Instability Hypothesis (Minsky, _Stabilizing an Unstable Economy_, 1986; "The Financial
       Instability Hypothesis", 1992): a stretch of calm rationally lowers the risk premium and raises leverage, so hedge
       finance gives way to speculative and then Ponzi finance and the system drifts to fragility, stability itself the cause
       of the coming instability, flagged for the adjacency to The Brittle Optimum's trimmed slack and The New Normal's drift
       so the cut is made to the endogenous rise of leverage and risk-appetite in calm, not a trimmed margin or a
-      reclassified deviance
+      reclassified deviance; staged as **The Long Calm**, cut to the calm-breeds-the-fragility-that-ends-it vector no
+      staged misfit holds, a stretch of stability whose genuine record of low defaults and rising prices, read
+      rationally, moves borrowers and lenders to gear up because the caution the last crisis taught now looks overpriced,
+      so the financing structure migrates rung by rung from hedge, covering interest and principal, to speculative,
+      covering interest and rolling the principal, to Ponzi, covering neither and riding the price, and the system grows
+      more fragile the longer it stays calm, most brittle exactly when it looks safest, until a small shock keeps a
+      refinancing-dependent unit from rolling its debt and the accumulated fragility tips, stability itself
+      destabilizing, named clear of Debt-Deflation (the bust-side spiral of falling prices raising the real weight of
+      debt, not the boom-side build-up of the fragility that makes such a spiral possible), The Brittle Optimum (a
+      trimmed physical or organisational buffer meeting an external shock, not accumulated financial leverage that tips
+      from within with no shock required), and The New Normal (a drift in what is perceived as tolerable, not an
+      objective migration of the financing structure toward refinancing dependence), with the financial instability
+      hypothesis and the three financing postures and the formulation that stability is destabilizing homed to Minsky,
+      the Minsky moment label to McCulley, and the downward spiral once the tip comes credited to Fisher's debt-deflation
+      and staged elsewhere, the no-hero carried as a fragility built by prudence in the good times and a backstop that
+      cushions the fall while validating the risk that feeds the next cycle, the safe, middle, top, and lending postures
+      cast as the personas The Hedged, The Speculator, The Ponzi, and The Lender
 - [ ] [P2] The Cache Stampede (the dogpile or thundering-herd effect; the web-caching and operating-systems literature):
       a popular cached value expires and every concurrent request misses at the same instant and recomputes it at once, a
       synchronized spike that overwhelms the backend the cache was there to spare, each miss individually correct, distinct
@@ -731,3 +747,30 @@ winner), with the impossibility result and the equilibrium degree of disequilibr
 Grossman and Stiglitz, and the informed, the uninformed, the value-blind trader, and the price-setting mechanism cast as
 the personas The Informed, The Uninformed, The Noise Trader, and The Market. That takes the house to one hundred and
 forty-five, and returns the slate to The Financial Instability Hypothesis at the top of the unstruck P2 line.
+
+The house strikes The Financial Instability Hypothesis, staged as **The Long Calm**. The trap is a calm that breeds the
+crash it looks least like. Give an economy a good long stretch of stability, loans repaid, defaults rare, prices
+climbing, and everyone who took a risk rewarded for it, and a rational borrower reads that record and concludes,
+correctly on the evidence, that the caution the last crisis taught is now overpriced, the danger it guarded against a
+decade absent. A rational lender reads the same record and eases terms for the same reason. So the financing structure
+migrates, unit by unit, from hedge finance, where income covers interest and principal both, to speculative finance,
+where it covers only the interest and the principal must be rolled over, to Ponzi finance, where it covers neither and
+only the rising price sustains it, and each step is a sound response to a genuine calm (Minsky). The fragility hides in
+the calm, because everything that would test the leverage, a credit squeeze, a price fall, is exactly what the long calm
+has not produced, so the structure grows most brittle precisely as it looks most secure, and a small shock, an ordinary
+rise in rates or a shortfall, is then enough to keep one refinancing-dependent unit from rolling its debt, force it to
+sell, and bring the whole of the accumulated fragility apart: stability itself destabilizing, the shock small and
+interchangeable and the fragility, built by years of sound decisions, doing the work. None of it is folly or fraud: the
+borrower and the lender each read a real record and responded soundly, and the collapse is authored by no one. It is cut
+to the calm-breeds-the-fragility vector no staged misfit holds, and the fixes are hard for the reason the trap is:
+leaning against the boom means restraining credit while everything looks fine and everyone is paid to have taken risk,
+and the backstop that softens the fall validates the risk-taking after the fact and feeds the next cycle. It is named
+clear of Debt-Deflation (the bust-side spiral of falling prices raising the real weight of debt, whereas this is the
+boom-side build-up that makes the spiral possible, Minsky taking Fisher's debt-deflation as the shape of the descent),
+The Brittle Optimum (a trimmed physical or organisational buffer meeting an external shock, whereas here the fragility
+is accumulated leverage that tips from within, a Ponzi unit simply failing to roll), and The New Normal (a drift in what
+is perceived as tolerable, whereas here the balance sheets objectively become more leveraged and refinancing-dependent),
+with the hypothesis and the three financing postures homed to Minsky, the Minsky moment label to McCulley, and the
+downward spiral to Fisher's debt-deflation staged elsewhere, and the safe, middle, top, and lending postures cast as the
+personas The Hedged, The Speculator, The Ponzi, and The Lender. That takes the house to one hundred and forty-six, and
+returns the slate to The Cache Stampede at the top of the unstruck P2 line.
