@@ -840,14 +840,23 @@ both are struck, not stacked beside them. The three below survive the check and 
       lightly as contested, the load-bearing harm carried as the ex-ante underinvestment and not the ex-post transfer, and
       the exposed party, the party who reopens the terms, the alternatives that empty once the asset is specific, and the
       remedy of one ownership cast as the personas The Investor, The Buyer, The Rival, and The Owner
-- [ ] [P2] The Principle of Minimum Differentiation (Hotelling, "Stability in Competition", _Economic Journal_, 1929;
+- [x] [P2] The Principle of Minimum Differentiation (Hotelling, "Stability in Competition", _Economic Journal_, 1929;
       Downs, _An Economic Theory of Democracy_, 1957, the median-voter theorem): competitors selling to a spread-out market
       each rationally move toward the center to capture more of it, so both cluster at the median and the variety and
       coverage the spread-out customers wanted is lost, each repositioning locally right and the sum a huddle at the middle,
       distinct from The Arms Race's positional escalation that nets to zero in that the loss is reduced variety and coverage,
       not effort wasted standing on tiptoe, and from Information Cascade's herding on observed actions in that no one copies
       anyone, each independently chases the same median; the political case the convergence of candidates on the median
-      voter, to be cut to the reposition-to-the-center vector and flagged for the Arms Race adjacency
+      voter, to be cut to the reposition-to-the-center vector and flagged for the Arms Race adjacency; staged as **The
+      Crowded Middle**, cut to the reposition-to-the-center vector no staged misfit holds, a market spread across a
+      dimension of preference with each customer buying from the nearest, so for each competitor alone the winning move is
+      to edge toward the center where the mass lies, and both converge on the median and cluster alike while the ends go
+      unserved, named clear of The Arms Race, Information Cascade, and The Lowest Bar, with the spatial convergence against
+      the quartile optimum homed to Hotelling, the name to Boulding, the median voter as Condorcet winner to Black, and the
+      two-party convergence with its abstention caveat to Downs, the load-bearing harm carried as the lost variety and
+      coverage of the abandoned ends and not wasted effort or a lowered standard, and the whole held lightly against the
+      correction that under quadratic transport costs the rivals maximally differentiate instead (d'Aspremont, Gabszewicz,
+      and Thisse), with personas The Contender, The Pivot, The Fringe, and The Maverick
 - [ ] [P2] The Two-Sided Cold Start (Rochet & Tirole, "Platform Competition in Two-Sided Markets", _Journal of the
       European Economic Association_, 2003; Caillaud & Jullien, 2003): a platform is worth joining on each side only once
       the other side is there, so buyers wait for sellers and sellers wait for buyers, and each side's rational wait keeps
@@ -898,3 +907,38 @@ contested, and the exposed party, the party who reopens the terms, the alternati
 specific, and the remedy of one ownership cast as the personas The Investor, The Buyer, The Rival, and The Owner. That
 takes the house to one hundred and forty-eight, and returns the slate to The Principle of Minimum Differentiation at the
 top of the unstruck P2 line.
+
+The house strikes The Principle of Minimum Differentiation, staged as **The Crowded Middle**. The trap is a market spread
+across a range of tastes and two rivals who each, competing well, abandon their own ground for the crowded center. Picture
+two ice cream carts on a long beach of evenly spread sunbathers, each buyer walking to the nearer cart. If the carts sat
+at the quarter points every buyer would have a short walk and the beach would be served as well as it could be, but that
+is not where they end up: for either cart alone, edging toward the middle keeps every customer behind it, who still have
+no one nearer, and steals a share of those between the two, so the move wins the whole span for the loss of only the thin
+tail, and each cart, reading the same beach, slides inward until the two stand together at the middle (Hotelling). The
+same shape runs in politics, where two vote-maximizing parties each move toward the position of the median voter, the
+point that beats any other under majority rule, and so converge and come to sound alike (Black; Downs). Neither cart
+blundered and neither party schemed: each move is the right reply to where the other stands, and the sameness they reach
+is the equilibrium, the principle of minimum differentiation Boulding named, not a failure in either of them. The cost
+falls not on the rivals, who are each exactly where they should be, but on the ends: the customer at the far end of the
+beach and the voter at the edge of the spectrum, offered nothing near what they wanted, served by no one, and their number
+is precisely the variety the market has lost. It is authored by no one, and it never shows, because the thing that would
+have revealed it, a cart at the quarter point, a party at the edge, was never there to be missed, so the harm is a
+coverage foregone and a coverage foregone leaves no mark. It is cut to the reposition-to-the-center vector no staged
+misfit holds, and the load-bearing harm is carried as the lost variety and coverage of the abandoned ends, not effort
+wasted and not a standard lowered. It is named clear of The Arms Race (whose escalation nets to zero, the moves cancelling
+and the loss a resource dissipated on tiptoe, whereas here each move captures real share and the loss falls on the ends,
+a misallocation of position and not a waste), Information Cascade (whose agents herd on the observed actions of those
+ahead, whereas here no one copies anyone and each independently computes that the center maximizes its own catchment), and
+The Lowest Bar (whose standard slides to the floor, whereas here nothing is lowered and the median may be exactly what the
+largest block wants, only the variety at the ends going). The abandoned hold one lever and it is small, the alienated
+extreme refusing to be served and pulling a rival back only where the walk is possible and felt (Downs), and the huddle
+breaks only at a price, by a third entrant, real differentiation, or a rule that rewards distinctness. And the whole is
+held lightly against its own correction, that the pull to the center was never a law: Hotelling's claim of a stable price
+equilibrium at the middle is wrong, and under quadratic transport costs the rivals fly apart to the ends instead,
+maximally differentiated (d'Aspremont, Gabszewicz, and Thisse), so the crowded middle is what competition reaches on one
+ground and comes undone on another. The spatial convergence and the quartile optimum are homed to Hotelling, the name to
+Boulding, the median voter as Condorcet winner to Black, the two-party convergence and the abstention caveat to Downs, and
+the correction that keeps it conditional to d'Aspremont, Gabszewicz, and Thisse, with the drawn-in rival, the courted
+middle, the abandoned end, and the differentiator cast as the personas The Contender, The Pivot, The Fringe, and The
+Maverick. That takes the house to one hundred and forty-nine, and returns the slate to The Two-Sided Cold Start at the top
+of the unstruck P2 line.
