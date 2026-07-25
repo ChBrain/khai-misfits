@@ -821,7 +821,7 @@ system regardless of which agent is inside it. The concordance caught two before
 on complexity is already staged as The Last Layer, and Parkinson is already carried by The Colour of the Bike Shed, so
 both are struck, not stacked beside them. The three below survive the check and are slated, worked from the top.
 
-- [ ] [P1] The Hold-Up Problem (Klein, Crawford & Alchian, "Vertical Integration, Appropriable Rents, and the
+- [x] [P1] The Hold-Up Problem (Klein, Crawford & Alchian, "Vertical Integration, Appropriable Rents, and the
       Competitive Contracting Process", _Journal of Law and Economics_, 1978; Williamson, _The Economic Institutions of
       Capitalism_, 1985; Grossman & Hart, _Journal of Political Economy_, 1986): once a party sinks a relationship-specific
       investment worth far more inside the relationship than outside it, the other party can renegotiate to capture the
@@ -830,7 +830,16 @@ both are struck, not stacked beside them. The three below survive the check and 
       hidden action and The Market for Lemons's hidden quality in that nothing is concealed, the trap being ex-post
       bargaining power over a sunk specific investment under an incomplete contract; the remedy vertical integration, long
       contracts, or hostages, each costly, and to be cut to the specific-investment-and-opportunism vector, credited to the
-      transaction-cost and property-rights spine
+      transaction-cost and property-rights spine; staged as **Over a Barrel**, cut to the specific-investment-exposed-to-opportunism
+      vector no staged misfit holds, a relationship-specific asset worth far more inside the deal than outside it sunk under
+      an incomplete contract, so once it is fixed the counterparty can reopen the terms and take the quasi-rent openly and
+      within the rules, and the investor, foreseeing exactly this, builds general or less and the most valuable version of
+      the deal is never made, named clear of Moral Hazard, The Market for Lemons, and Good Money After Bad, the quasi-rent
+      and the appropriation homed to Klein, Crawford, and Alchian, the fundamental transformation from many bidders to one
+      to Williamson, and the incomplete-contract underinvestment to Grossman and Hart, the Fisher Body and GM case held
+      lightly as contested, the load-bearing harm carried as the ex-ante underinvestment and not the ex-post transfer, and
+      the exposed party, the party who reopens the terms, the alternatives that empty once the asset is specific, and the
+      remedy of one ownership cast as the personas The Investor, The Buyer, The Rival, and The Owner
 - [ ] [P2] The Principle of Minimum Differentiation (Hotelling, "Stability in Competition", _Economic Journal_, 1929;
       Downs, _An Economic Theory of Democracy_, 1957, the median-voter theorem): competitors selling to a spread-out market
       each rationally move toward the center to capture more of it, so both cluster at the median and the variety and
@@ -859,3 +868,33 @@ demand shortfall at the zero lower bound is adjacent to The Paradox of Thrift, h
 is cut clear of the fallacy of composition already staged. The three slated above are the pass's refill, worked from the
 top, and past them a further research-input pass will be wanted, run the same way, by canonical name through
 REFERENCES.md.
+
+The house strikes The Hold-Up Problem, staged as **Over a Barrel**. The trap is a value that only a tight fit can create
+and only the tight fit exposes. A party can make the most of a deal by fitting an asset closely to this one relationship,
+building the plant beside the factory or cutting the tool to the spec, but the closer the fit the less the asset is worth
+anywhere else, so once it is sunk its value inside the relationship far exceeds its value outside, and that difference,
+the quasi-rent, sits there to be taken (Klein, Crawford, and Alchian). The counterparty can reopen the terms and ask for
+a larger share, up to the whole quasi-rent, and the investor's only alternative is to lose everything the specific asset
+is worth here, so it yields. No one is deceived and no promise is broken: the squeeze presses only what the incomplete
+contract left unnamed, a contingency it could not have written, so the counterparty threatens nothing before the
+investment and breaks nothing after. What disciplined the terms was competition, the other buyers and suppliers whose
+standing offers set what a fair deal was, and the sinking of the specific asset is exactly what empties that competition,
+since no rival can bid on a plant built for one factory; Williamson names this the fundamental transformation, a deal
+that began with many bidders becoming, the moment the asset is specific, a bargain of one against one. The harm is not
+the transfer but what the transfer forecloses: the investor, foreseeing the squeeze as clearly as the counterparty does,
+builds general rather than specific, or invests less, or not at all, and the most valuable version of the deal is never
+made, the loss invisible because the thing that would have caused it was never built (Grossman and Hart). The fixes all
+buy back the security the specificity spent, bringing both sides under one ownership so there is no separate party left
+to hold up, writing longer contracts, or posting hostages, and each is costly, trading the market's sharp incentives for
+the firm's dulled ones or paying to bind a promise nothing else would hold. It is named clear of Moral Hazard (a hidden
+action taken because the actor does not bear its full cost, whereas here every action is open and the exposure is a sunk
+asset, not a concealed choice), The Market for Lemons (a hidden quality that unravels a market before any deal, whereas
+here nothing is concealed and the trap springs after the investment, not before it), and Good Money After Bad (a sunk
+cost driving further investment into a failing course, the opposite direction, whereas here the sunk asset drives
+underinvestment, the specific fit foregone before it is ever made), with the quasi-rent and its appropriation homed to
+Klein, Crawford, and Alchian, the fundamental transformation from many bidders to one to Williamson, and the
+incomplete-contract underinvestment to Grossman and Hart, the Fisher Body and General Motors case held lightly as
+contested, and the exposed party, the party who reopens the terms, the alternatives that vanish once the asset is
+specific, and the remedy of one ownership cast as the personas The Investor, The Buyer, The Rival, and The Owner. That
+takes the house to one hundred and forty-eight, and returns the slate to The Principle of Minimum Differentiation at the
+top of the unstruck P2 line.
