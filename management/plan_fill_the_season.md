@@ -708,13 +708,27 @@ struck, not stacked beside it. The three below survive the check and are slated,
       and staged elsewhere, the no-hero carried as a fragility built by prudence in the good times and a backstop that
       cushions the fall while validating the risk that feeds the next cycle, the safe, middle, top, and lending postures
       cast as the personas The Hedged, The Speculator, The Ponzi, and The Lender
-- [ ] [P2] The Cache Stampede (the dogpile or thundering-herd effect; the web-caching and operating-systems literature):
+- [x] [P2] The Cache Stampede (the dogpile or thundering-herd effect; the web-caching and operating-systems literature):
       a popular cached value expires and every concurrent request misses at the same instant and recomputes it at once, a
       synchronized spike that overwhelms the backend the cache was there to spare, each miss individually correct, distinct
       from Held Under's retry-fed bistable overload that persists after its trigger and The Bank Run's belief-driven
       synchronized withdrawal in that the engine is a mechanical synchronization of correct actions on a shared expiry, the
       remedy request coalescing, early or jittered expiration, and serving stale while revalidating; flagged for the Held
-      Under adjacency so the cut is made to the coincidence and not to a self-sustaining loop
+      Under adjacency so the cut is made to the coincidence and not to a self-sustaining loop; staged as **All at Once**, cut
+      to the synchronized-coincidence-of-correct-actions vector no staged misfit holds, a popular value cached with a time
+      to live so the backend is spared while it is warm, but because the value is popular its expiry is a single shared
+      instant, so every concurrent request misses at once and each correctly recomputes from the backend, and the very
+      popularity that made caching worthwhile concentrates all the misses into one synchronized spike that overwhelms the
+      backend the cache was there to protect, no request out of line and nothing misconfigured, ended only by
+      de-synchronizing or collapsing the recomputations, named clear of Held Under (a retry-fed bistable overload that
+      persists after its trigger, not a one-shot spike synchronized by a shared clock that subsides once re-cached, a
+      severe stampede tipping into it being the two mechanisms composing) and The Bank Run (a belief-driven panic where
+      each acts from fear of the others, not a mechanical coincidence on a shared expiry with no belief anywhere in the
+      loop), with the formal treatment and probabilistic early recomputation homed to Vattani, Chierichetti, and
+      Lowenstein and the lease and request-coalescing remedy to Nishtala and colleagues, the thundering herd credited as
+      the antecedent family, the no-hero carried as a guard that must be built in ahead of time and bought with a value
+      served a little stale, a request made to wait, or a refresh done early, the caller and the store and the origin and
+      the remedy discipline cast as the personas The Request, The Cache, The Backend, and The Warden
 
 Triage of the rest of this pass, against REFERENCES.md. Held pending a distinct cut, each with a real spine but a fit
 still to find: the Osborne Effect (the pre-announcement of a better product collapsing present demand for the current
@@ -774,3 +788,74 @@ with the hypothesis and the three financing postures homed to Minsky, the Minsky
 downward spiral to Fisher's debt-deflation staged elsewhere, and the safe, middle, top, and lending postures cast as the
 personas The Hedged, The Speculator, The Ponzi, and The Lender. That takes the house to one hundred and forty-six, and
 returns the slate to The Cache Stampede at the top of the unstruck P2 line.
+
+The house strikes The Cache Stampede, staged as **All at Once**. The trap is a coincidence of correct actions. An
+expensive value is cached with a time to live, so while it is warm every request is handed the cheap copy and the
+expensive backend is spared, and the more callers converge on the one hot value the more the cache absorbs. But the
+stored copy has one expiry, the same instant for every caller because they all read the one entry, so the moment it goes
+stale every concurrent request misses at once, and each does exactly what a cache miss is defined to do, recompute the
+value from the backend and write it back. Not one is wrong: a single miss recomputing is the whole correct mechanism.
+But the misses are as many as the value was popular and as simultaneous as the expiry was shared, so the recomputation
+that is nothing one at a time arrives as one synchronized flood that strikes the backend the cache existed to protect,
+hardest at the moment the cache stops shielding it (Vattani, Chierichetti, and Lowenstein). It is authored by no one:
+the cache served and expired as a cache should and every request kept the contract exactly, so the harm is in no action
+but in their coincidence, the popularity that fills the cache and the shared clock that empties it building the stampede
+between them. It is cut to the synchronized-coincidence vector no staged misfit holds, and the fixes all break the
+coincidence rather than the correctness, scattering the refreshes off the shared cliff or collapsing them to a single
+recompute the rest wait on (Nishtala and colleagues), each de-synchronizing rather than computing less and each bought
+with a value served a little stale, a request made to wait, or a refresh done early, and built in ahead of time. It is
+named clear of Held Under (a retry-fed bistable overload that persists after its trigger, whereas this is a one-shot
+spike synchronized by a shared clock that subsides once the value is re-cached, a severe stampede tipping into a
+persistent state being the two mechanisms composing, not this one alone) and The Bank Run (a self-fulfilling panic where
+each acts from fear of what the others will do, whereas here no request believes anything or watches any other and the
+synchrony is mechanical, a shared expiry timestamp, each request acting identically alone), with the formal treatment
+and the probabilistic early recomputation homed to Vattani, Chierichetti, and Lowenstein, the lease and request
+coalescing to Nishtala and colleagues, and the thundering herd credited as the antecedent family, and the caller, the
+store, the origin, and the remedy discipline cast as the personas The Request, The Cache, The Backend, and The Warden.
+That takes the house to one hundred and forty-seven.
+
+With The Cache Stampede struck, the P2 well is dry again: Grossman and Stiglitz, Minsky, and the cache stampede are all
+staged, and no unstruck target remains above this line. The slate is refilled below by a fresh research-input pass, each
+candidate run through REFERENCES.md by canonical name and against the structural test, that the pattern must run in the
+system regardless of which agent is inside it. The concordance caught two before slating: Tainter's diminishing returns
+on complexity is already staged as The Last Layer, and Parkinson is already carried by The Colour of the Bike Shed, so
+both are struck, not stacked beside them. The three below survive the check and are slated, worked from the top.
+
+- [ ] [P1] The Hold-Up Problem (Klein, Crawford & Alchian, "Vertical Integration, Appropriable Rents, and the
+      Competitive Contracting Process", _Journal of Law and Economics_, 1978; Williamson, _The Economic Institutions of
+      Capitalism_, 1985; Grossman & Hart, _Journal of Political Economy_, 1986): once a party sinks a relationship-specific
+      investment worth far more inside the relationship than outside it, the other party can renegotiate to capture the
+      quasi-rent, so, anticipating the hold-up, each rationally underinvests in the specific asset that would have created
+      the most value, and the gains go unmade with no contract breached and no one deceived, distinct from Moral Hazard's
+      hidden action and The Market for Lemons's hidden quality in that nothing is concealed, the trap being ex-post
+      bargaining power over a sunk specific investment under an incomplete contract; the remedy vertical integration, long
+      contracts, or hostages, each costly, and to be cut to the specific-investment-and-opportunism vector, credited to the
+      transaction-cost and property-rights spine
+- [ ] [P2] The Principle of Minimum Differentiation (Hotelling, "Stability in Competition", _Economic Journal_, 1929;
+      Downs, _An Economic Theory of Democracy_, 1957, the median-voter theorem): competitors selling to a spread-out market
+      each rationally move toward the center to capture more of it, so both cluster at the median and the variety and
+      coverage the spread-out customers wanted is lost, each repositioning locally right and the sum a huddle at the middle,
+      distinct from The Arms Race's positional escalation that nets to zero in that the loss is reduced variety and coverage,
+      not effort wasted standing on tiptoe, and from Information Cascade's herding on observed actions in that no one copies
+      anyone, each independently chases the same median; the political case the convergence of candidates on the median
+      voter, to be cut to the reposition-to-the-center vector and flagged for the Arms Race adjacency
+- [ ] [P2] The Two-Sided Cold Start (Rochet & Tirole, "Platform Competition in Two-Sided Markets", _Journal of the
+      European Economic Association_, 2003; Caillaud & Jullien, 2003): a platform is worth joining on each side only once
+      the other side is there, so buyers wait for sellers and sellers wait for buyers, and each side's rational wait keeps
+      the cross-side value from ever forming, so a platform that would serve everyone fails to launch, distinct from The Stag
+      Hunt's single-population coordination on a shared prize in that the coordination is across two distinct sides joined by
+      a cross-side externality, and from Path Dependence's lock-in of an established standard in that nothing has yet formed
+      to lock in; the remedy subsidising one side, seeding it, or divide-and-conquer pricing, flagged for the Stag Hunt
+      adjacency so the cut is made to the two-sided externality
+
+Triage of the rest of this pass, against REFERENCES.md. Held pending a distinct cut, each with a real spine but a fit
+still to find: the Lucas Critique (Lucas, 1976), whose breakdown of estimated relationships when they are used for
+policy reads more as a methodological caution than a locally-rational-sums-to-globally-bad behavioural trap and brushes
+Metric Fixation's gamed measure, held until a cut is found that keeps it structural and clear of Metric Fixation; the
+Pygmalion and Golem effects (Rosenthal & Jacobson, 1968), whose self-fulfilling expectation shaping a person's
+performance is close to The Proxy's self-fulfilling statistical-discrimination loop, held until the interpersonal
+expectation channel is cut clear of the group-proxy one; and the Liquidity Trap (Keynes, 1936; Krugman, 1998), whose
+demand shortfall at the zero lower bound is adjacent to The Paradox of Thrift, held until the monetary-impotence sliver
+is cut clear of the fallacy of composition already staged. The three slated above are the pass's refill, worked from the
+top, and past them a further research-input pass will be wanted, run the same way, by canonical name through
+REFERENCES.md.
