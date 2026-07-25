@@ -1005,22 +1005,26 @@ worked from the top.
       price to Gneezy and Rustichini, the gift crowded out to Titmuss and held as contested, and the crowding theory with its
       conditions to Frey, Jegen, and Oberholzer-Gee, the failure held as conditional and not a law, with personas The
       Willing, The Payer, The Served, and The Steward
-- [ ] [P2] Brooks's Law (Brooks, _The Mythical Man-Month_, 1975): adding manpower to a late software project makes it
+- [x] [P2] Brooks's Law (Brooks, _The Mythical Man-Month_, 1975): adding manpower to a late software project makes it
       later, because the new workers must be trained by the ones already productive and the communication paths among a team
       grow with the square of its size while the work is only partly partitionable, so past a point each added head subtracts
       more in coordination than it adds in labour, distinct from Social Loafing's per-person effort that slackens unseen in a
       group in that here every worker works fully and the loss is coordination overhead and not shirking, and from The Last
       Layer's diminishing returns on added complexity in that the drag is communication cost among people and not the
       marginal yield of a feature; the remedy small teams, partitioned work, and not answering a slip by adding bodies, to be
-      cut to the coordination-cost-grows-with-headcount vector
-- [ ] [P2] The Punishment Illusion (Kahneman & Tversky, "On the Psychology of Prediction", _Psychological Review_, 1973;
+      cut to the coordination-cost-grows-with-headcount vector; struck by the concordance, already staged as **The Ninth
+      Woman**, the same Brooks's Law, so not stacked beside it, a miss in the last refill's scholar-and-keyword check caught
+      here on a scan of the concordance's descriptions
+- [x] [P2] The Punishment Illusion (Kahneman & Tversky, "On the Psychology of Prediction", _Psychological Review_, 1973;
       Kahneman, _Thinking, Fast and Slow_, 2011, the flight-instructor case): because performance regresses to the mean, an
       exceptional result tends to be followed by a more ordinary one and a poor result by a better one whatever is done
       between, so praise after a high seems to backfire and a rebuke after a low seems to work, and the observer wrongly
       learns that punishment helps and reward hurts, distinct from Metric Fixation's gamed measure and The Proxy's
       self-fulfilling statistical-discrimination loop in that nothing is gamed and no one's behaviour is actually changed,
       the error being a misreading of ordinary statistical reversion as the effect of an intervention; the caution that
-      regression to the mean mimics cause, to be cut to the regression-misread-as-causation vector
+      regression to the mean mimics cause, to be cut to the regression-misread-as-causation vector; struck by the
+      concordance, already staged as **The Bounce**, the same regression-to-the-mean illusion, so not stacked beside it, the
+      second miss of the last refill caught on the same descriptions scan
 
 Triage of this pass, against REFERENCES.md, carrying forward the three still held from the last. Held pending a distinct
 cut, each with a real spine but a fit still to find: the Lucas Critique (Lucas, 1976), whose breakdown of estimated
@@ -1062,4 +1066,61 @@ Ryan, the overjustification effect to Lepper, Greene, and Nisbett, the fine that
 and Rustichini, the gift crowded out to Titmuss and held as contested, and the crowding theory with its conditions to Frey,
 Jegen, and Oberholzer-Gee, with the willing giver, the well-meaning payer, the one served by the free act, and the careful
 hand that knows the bound cast as the personas The Willing, The Payer, The Served, and The Steward. That takes the house to
-one hundred and fifty-one, and returns the slate to Brooks's Law at the top of the unstruck P2 line.
+one hundred and fifty-one.
+
+With Motivation Crowding-Out staged, the last refill's other two lines fall to a second look. Working the slate from the
+top, the concordance now catches both as already staged: Brooks's Law is **The Ninth Woman**, and The Punishment Illusion
+is **The Bounce**, so both are struck above, not stacked beside their twins. The two were a miss of the last refill, which
+ran its dedup by scholar name and keyword and so slid past the house's own titles, which are cut as readings and not as
+labels: The Ninth Woman names Brooks's non-partitionability by its image and The Bounce names regression to the mean by
+its effect, and neither carries the scholar or the textbook term a keyword search would catch. The correction is to run the
+concordance against the descriptions and not the titles alone, and that scan is how both were found. So the P2 well is dry
+again, with only Motivation Crowding-Out surviving of the last refill, and it is refilled below by a fresh research-input
+pass, each candidate now run through registry.json by canonical name and against every misfit's description, and against
+the structural test that the pattern must run in the system regardless of which agent is inside it. That descriptions scan
+caught several before slating: the winner's curse is The Winning Bid, the risk-compensation offset The Spent Margin, the
+Matthew effect The Head Start, survivorship bias The Survivors, Simpson's paradox The Bigger Picture, and Conway's law The
+Mirror, so all are struck, not stacked beside them. The three below survive the check and are slated, worked from the top.
+
+- [ ] [P1] The Endowment Effect (Thaler, "Toward a Positive Theory of Consumer Choice", _Journal of Economic Behavior and
+      Organization_, 1980; Kahneman, Knetsch & Thaler, "Experimental Tests of the Endowment Effect and the Coase Theorem",
+      _Journal of Political Economy_, 1990): merely owning a thing raises the price one demands to give it up above the price
+      one would pay to get it, a gap between willingness-to-accept and willingness-to-pay driven by loss aversion, so
+      mutually beneficial trades go unmade because each holder values what they hold above the market and above the buyer,
+      and goods stick where they sit rather than moving to who values them most, distinct from The Anticommons's many vetoes
+      that leave a resource idle in that here a single owner will trade, only at a price inflated by ownership itself, and
+      from Over a Barrel's hold-up over a sunk specific investment in that nothing is specific or sunk, the inflation is the
+      bare fact of possession; the remedy framing, experience, and liquid markets that shrink the gap, to be cut to the
+      ownership-inflates-value vector, credited to the loss-aversion spine
+- [ ] [P2] The Disposition Effect (Shefrin & Statman, "The Disposition to Sell Winners Too Early and Ride Losers Too
+      Long", _Journal of Finance_, 1985; Odean, "Are Investors Reluctant to Realize Their Losses?", _Journal of Finance_,
+      1998): an investor sells the holdings that have risen and keeps the ones that have fallen, because selling a winner
+      books a gain and selling a loser books a loss, and realising the loss is what is avoided, so the paper loss is nursed
+      in hope of a rebound while the gain is cut short, and returns and taxes both suffer, distinct from Good Money After
+      Bad's escalation of fresh funds into a failing project in that no new money is committed, only the refusal to close a
+      losing position, and from The High-Water Mark's ratchet of spending in that the lever is the aversion to realising a
+      loss on what is already held; the remedy rules that close positions on the merits and not the entry price, to be cut
+      to the realising-a-loss-is-avoided vector
+- [ ] [P2] The O-Ring (Kremer, "The O-Ring Theory of Economic Development", _Quarterly Journal of Economics_, 1993): where
+      production is a chain of tasks and one weak link spoils the value of all the rest, as a single faulty seal destroyed
+      the whole shuttle, a small drop in the quality of any part cuts the worth of the whole output, so high-skill workers
+      match with high-skill workers and low with low, and small differences in skill open large gaps in wage and in the
+      value of the firms that can be built, and low-skill workers are stranded out of high-value production, distinct from
+      The Bus Factor's single point of failure in one person in that the fragility is the multiplicative chain and the
+      sorting it forces, not the loss of one keeper of knowledge, and from The Brittle Optimum's trimmed slack in that no
+      buffer was cut, the sensitivity is inherent in a product of qualities; the case not a remedy but an explanation of
+      assortative matching and the poverty trap it makes, to be cut to the weakest-link-multiplies vector
+
+Triage of this pass, against the descriptions, carrying forward the three still held from before. Held pending a distinct
+cut, each with a real spine but a fit still to find: the Dunning-Kruger effect (Kruger & Dunning, 1999), whose unskilled
+who cannot see their own lack overrate themselves, held until it is cut clear both of The Bounce, since a large part of the
+measured effect is regression to the mean and the better-than-average bias, and of I Know How It Works, the illusion of
+explanatory depth already staged; the Lucas Critique (Lucas, 1976), whose breakdown of estimated relationships used for
+policy still reads more as a methodological caution than a locally-rational-sums-to-globally-bad trap and brushes Metric
+Fixation, held until a structural cut clear of Metric Fixation is found; the Pygmalion and Golem effects (Rosenthal &
+Jacobson, 1968), whose self-fulfilling expectation shaping a person's performance is close both to The Proxy and to the
+expectation channel staged in After You, held until the interpersonal channel is cut clear of both; and the Liquidity Trap
+(Keynes, 1936; Krugman, 1998), whose demand shortfall at the zero lower bound is adjacent to The Paradox of Thrift, held
+until the monetary-impotence sliver is cut clear of the fallacy of composition. The three slated above are the pass's
+refill, worked from the top, and past them a further research-input pass will be wanted, run against the descriptions and
+not the titles alone.
