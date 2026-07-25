@@ -987,7 +987,7 @@ paradox under their own names, the Peter principle as Rising to Unfit, and the c
 Effect and Metric Fixation, so all are struck, not stacked beside them. The three below survive the check and are slated,
 worked from the top.
 
-- [ ] [P1] Motivation Crowding-Out (Deci, "Effects of Externally Mediated Rewards on Intrinsic Motivation", _Journal of
+- [x] [P1] Motivation Crowding-Out (Deci, "Effects of Externally Mediated Rewards on Intrinsic Motivation", _Journal of
       Personality and Social Psychology_, 1971; Titmuss, _The Gift Relationship_, 1970; Gneezy & Rustichini, "A Fine Is a
       Price", _Journal of Legal Studies_, 2000; Frey & Jegen, "Motivation Crowding Theory", _Journal of Economic Surveys_,
       2001): attaching an explicit price or reward to a behaviour that was carried by an intrinsic or a moral motive can
@@ -996,7 +996,15 @@ worked from the top.
       blood donation, distinct from The Cobra Effect's and Metric Fixation's gamed measure in that nothing is gamed, the
       incentive is not exploited but crowds out the prior motive, and from Moral Licensing's good deed that permits a later
       lapse in that the reward removes the reason rather than earning a credit; the caution that adding a reason can subtract
-      a stronger one, to be cut to the incentive-displaces-intrinsic-motive vector, credited to the crowding-theory spine
+      a stronger one, to be cut to the incentive-displaces-intrinsic-motive vector, credited to the crowding-theory spine;
+      staged as **A Reason Too Many**, cut to the incentive-displaces-intrinsic-motive vector no staged misfit holds, a
+      behaviour carried by an intrinsic or moral motive that a price or a fine, meant to strengthen it, reframes as a
+      transaction and so crowds the motive out, the incentive buying less of the act and the motive not returning when it is
+      withdrawn, named clear of The Cobra Effect, Metric Fixation, and Moral Licensing, with the undermining of intrinsic
+      motivation homed to Deci and Ryan, the overjustification effect to Lepper, Greene, and Nisbett, the fine that became a
+      price to Gneezy and Rustichini, the gift crowded out to Titmuss and held as contested, and the crowding theory with its
+      conditions to Frey, Jegen, and Oberholzer-Gee, the failure held as conditional and not a law, with personas The
+      Willing, The Payer, The Served, and The Steward
 - [ ] [P2] Brooks's Law (Brooks, _The Mythical Man-Month_, 1975): adding manpower to a late software project makes it
       later, because the new workers must be trained by the ones already productive and the communication paths among a team
       grow with the square of its size while the work is only partly partitionable, so past a point each added head subtracts
@@ -1025,3 +1033,33 @@ channel is cut clear of both; and the Liquidity Trap (Keynes, 1936; Krugman, 199
 lower bound is adjacent to The Paradox of Thrift, held until the monetary-impotence sliver is cut clear of the fallacy of
 composition already staged. The three slated above are the pass's refill, worked from the top, and past them a further
 research-input pass will be wanted, run the same way, by canonical name through REFERENCES.md.
+
+The house strikes Motivation Crowding-Out, staged as **A Reason Too Many**. The trap is the attempt to buy more of a
+willing act undoing the willingness. A behaviour is already carried by a motive that needs no payment, an interest taken
+for its own sake, a duty felt, an act of care or giving, and someone lays an incentive on it, a reward for doing it or a
+fine for not, in the ordinary and usually correct expectation that a price added to a motive raises the act. But where the
+prior motive was intrinsic or moral, the incentive does not simply add: it reframes a self-chosen or obligated act as a
+market transaction, so the day-care parent reads the fine as a price and buys the extra time with a clear conscience,
+lateness rising rather than falling, and the person paid a token for what they enjoyed comes to see it as work and does
+less once unpaid (Gneezy and Rustichini; Deci and Ryan; Lepper, Greene, and Nisbett). The added reason crowds out the
+stronger one it was piled onto, because motivation is not additive, so the behaviour the incentive was meant to raise falls
+instead. It is authored by no one: the one who set the incentive acted sensibly and the one who answered it as the price it
+now is acted honestly, so the loss is the intrinsic or moral motive displaced by the very reward meant to reinforce it, and
+it hides as a mere failure to pay enough. And it does not return when the price is removed, because the act has been
+reframed and the shared understanding that carried it is gone, so the day-care lateness stayed high after the fine was
+dropped. It is cut to the incentive-displaces-intrinsic-motive vector no staged misfit holds, and it is named clear of The
+Cobra Effect (where a bounty is farmed and breeds what it pays to remove, the incentive gamed, whereas here nothing is
+gamed and the price is answered honestly, and being a price at all is what displaces the motive), Metric Fixation (where a
+proxy is optimised until it parts from its goal, whereas here there is no measure, only a motive extinguished), and Moral
+Licensing (where a good deed is banked as a credit that buys a later lapse, whereas here the incentive removes the reason
+at the moment it is offered, no credit drawn down). The remedy is to know when not to pay, withholding the incentive where
+a motive already carries the act, paying enough rather than too little where it does not, and framing a reward as
+recognition rather than control, each a real judgement under uncertainty since the strength of a motive shows clearest only
+after a price has tested it. And the whole is held against its own limit, that crowding-out is conditional and not a law:
+incentives ordinarily raise behaviour and displace a motive only under particular conditions, sometimes crowding it in, so
+the trap is real and common and bounded (Frey and Jegen). The undermining of intrinsic motivation is homed to Deci and
+Ryan, the overjustification effect to Lepper, Greene, and Nisbett, the fine that became a price and stayed one to Gneezy
+and Rustichini, the gift crowded out to Titmuss and held as contested, and the crowding theory with its conditions to Frey,
+Jegen, and Oberholzer-Gee, with the willing giver, the well-meaning payer, the one served by the free act, and the careful
+hand that knows the bound cast as the personas The Willing, The Payer, The Served, and The Steward. That takes the house to
+one hundred and fifty-one, and returns the slate to Brooks's Law at the top of the unstruck P2 line.
