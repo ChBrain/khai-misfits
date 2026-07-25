@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.146.0",
+  "version": "0.147.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -14,6 +14,12 @@
       "id": "alarm_fatigue",
       "title": "Alarm Fatigue",
       "description": "Set alarms to miss no danger and the flood of false ones deadens the responder, so the one true alarm is ignored."
+    },
+    {
+      "kind": "misfit",
+      "id": "all_at_once",
+      "title": "All at Once",
+      "description": "A cached value spares the backend until it expires, when every request misses at once and floods the thing it spared."
     },
     {
       "kind": "misfit",
