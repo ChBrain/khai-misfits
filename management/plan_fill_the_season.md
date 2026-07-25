@@ -663,14 +663,29 @@ against the structural test, that the pattern must run in the system regardless 
 concordance caught one before slating: Gresham's Law is already staged as Bad Coin, bad money driving out good, so it is
 struck, not stacked beside it. The three below survive the check and are slated, worked from the top.
 
-- [ ] [P1] The Impossibility of Informationally Efficient Markets (Grossman & Stiglitz, _American Economic Review_,
+- [x] [P1] The Impossibility of Informationally Efficient Markets (Grossman & Stiglitz, _American Economic Review_,
       1980): information is costly to gather, and a market price partly reveals the informed traders' information to the
       uninformed for free, so if the price reflected all of it no one would be paid for gathering it and no one would, and
       the price could not reflect it, an equilibrium that must stay noisy enough that gathering still pays, distinct from
       Information Cascade's herding on observed actions and Cheaper Not to Know's near-zero pivotality of the voter in that
       the engine is a price signal that, by revealing costly private research for free, destroys the incentive to produce
       the very information it aggregates; the remedy is the noise or reward that keeps information-gathering paid, and to be
-      given a market-native register with a plain metaphor for the paradox
+      given a market-native register with a plain metaphor for the paradox; staged as **Priced In**, cut to the
+      signal-that-reveals-effort-for-free-destroys-the-effort vector no staged misfit holds, a market price that
+      aggregates the informed traders' costly research and reveals it to everyone for free the moment they act, so each
+      uninformed trader rationally reads the answer off the price rather than pay to gather it, and a fully informative
+      price would leave no return to gathering and so no one to gather, self-defeating, the market resting instead at an
+      equilibrium degree of disequilibrium, informative enough to be useful and noisy enough that gathering still pays,
+      the noise supplied by traders who on average lose, named clear of Information Cascade (a held private signal set
+      aside by imitation, not a signal never gathered because the price reveals others' research for free), Cheaper Not
+      to Know (a voter's non-self-referential ignorance with no market and no price to aggregate, not a paradox turning
+      on the price's own efficiency removing the incentive that produces it), and The Winning Bid (an auction winner's
+      curse falling on the winner through estimate dispersion, not a standing property of a continuous market's price
+      with no auction and no single winner), the impossibility result and the equilibrium degree of disequilibrium and
+      the noise that must persist homed to Grossman and Stiglitz, the no-hero carried as a permanent incompleteness
+      bought by the noise traders' average losses and not a flaw awaiting a fix, the informed and the uninformed and the
+      value-blind trader and the price-setting mechanism cast as the personas The Informed, The Uninformed, The Noise
+      Trader, and The Market
 - [ ] [P2] The Financial Instability Hypothesis (Minsky, _Stabilizing an Unstable Economy_, 1986; "The Financial
       Instability Hypothesis", 1992): a stretch of calm rationally lowers the risk premium and raises leverage, so hedge
       finance gives way to speculative and then Ponzi finance and the system drifts to fragility, stability itself the cause
@@ -691,3 +706,28 @@ one), a documented business trap whose each-customer-rationally-waits engine is 
 is thin and anecdotal, held until a cited treatment anchors it past the single Osborne Computer case. The three slated
 above are the pass's refill, worked from the top, and past them a further research-input pass will be wanted, run the
 same way, by canonical name through REFERENCES.md.
+
+The house strikes The Impossibility of Informationally Efficient Markets, staged as **Priced In**. The trap is a signal
+that reveals the effort behind it for free. A market price gathers what the informed have found out about what a thing
+is worth and shows it, in a single number, to everyone who reads it, so a trader who has done no research can read the
+answer off the price for nothing. But finding out what a thing is worth costs real effort, and a trader pays that cost
+only when the return covers it, so the moment they trade their finding leaks into the price for free, and the better the
+price reveals what the informed know, the less the informed are paid to know it. If the price ever reflected everything,
+the return to finding anything out would be zero, no rational trader would pay the cost, and then the price would have
+nothing to reflect, so a perfectly informative price is self-defeating (Grossman and Stiglitz). None of it is folly or a
+swindle: the uninformed who reads the answer off the price is sensible, the informed who quits when the edge is gone is
+sensible, the market that moves the price is doing its job, so the impossibility arises with no one cheating and nothing
+rigged, the market's very success at spreading information undercutting the making of it. It is cut to the
+signal-that-reveals-effort-for-free vector no staged misfit holds and given a market-native register, its plain metaphor
+the analyst who stops doing the research once it is all priced in, and the one thing that keeps the finding-out alive is
+that the price stays a little wrong, noisy with trades made for reasons unrelated to value, so the informed can hide and
+keep some edge, an equilibrium degree of disequilibrium that is not a flaw to fix but the condition of the price working
+at all, paid for by the noise traders who on average lose. It is named clear of Information Cascade (a held private
+signal set aside by imitation, not a signal never gathered because the price reveals others' research for free), Cheaper
+Not to Know (a voter's non-self-referential ignorance with no market and no price to aggregate, where here the price's
+own efficiency removes the incentive that produces it), and The Winning Bid (an auction winner's curse falling on the
+winner through estimate dispersion, not a standing property of a continuous market's price with no auction and no single
+winner), with the impossibility result and the equilibrium degree of disequilibrium and the necessary noise homed to
+Grossman and Stiglitz, and the informed, the uninformed, the value-blind trader, and the price-setting mechanism cast as
+the personas The Informed, The Uninformed, The Noise Trader, and The Market. That takes the house to one hundred and
+forty-five, and returns the slate to The Financial Instability Hypothesis at the top of the unstruck P2 line.
