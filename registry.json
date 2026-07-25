@@ -1,8 +1,14 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.150.0",
+  "version": "0.151.0",
   "misfits": [
+    {
+      "kind": "misfit",
+      "id": "a_reason_too_many",
+      "title": "A Reason Too Many",
+      "description": "A thing done freely for its own sake is given a reward, and the reward crowds out the reason, so less is done."
+    },
     {
       "kind": "misfit",
       "id": "accidental_adversaries",
