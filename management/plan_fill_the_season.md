@@ -1419,7 +1419,7 @@ registry.json by canonical name and against every misfit's description, the desc
 advertising, audience, or novelty vector staged. The two below survive the check and are slated; the triage that follows
 records the rest.
 
-- [ ] [P1] The Audience Commodity (Smythe, "Communications: Blindspot of Western Marxism", 1977; Wu, _The Attention
+- [x] [P1] The Audience Commodity (Smythe, "Communications: Blindspot of Western Marxism", 1977; Wu, _The Attention
       Merchants_, 2016; the advertising filter of Herman & Chomsky, _Manufacturing Consent_, 1988): an advertising-funded
       outlet's paying customer is the advertiser and its product is the audience's attention sold on, so each outlet
       rationally optimises attention-capture and advertiser value while the reader's informational interest is not what is
@@ -1428,7 +1428,16 @@ records the rest.
       Capture's watchdog turned over time in that no capture occurs, who-pays-is-who-is-served by design, and from The Filter
       Bubble's personalised narrowing in that the funding model tilts the whole product regardless of any feed; to be cut to
       the misaligned-customer, audience-as-product vector, the costly remedy subscription or public funding each with its own
-      tilt
+      tilt; staged as **You Are the Product**, cut to the misaligned-customer, audience-as-product vector no staged misfit
+      holds, an advertising-funded medium selling not its content but its audience so the paying customer is the advertiser
+      and the product is the reader, the content shaped to gather and hold the attention advertisers will pay for and the
+      reader's own interest served only where it coincides with attention-capture, named clear of Metric Fixation, Regulatory
+      Capture, The Filter Bubble, and After You, with the audience commodity and the free lunch homed to Smythe,
+      watching-as-working to Jhally and Livant, the attention merchants to Wu, and the advertising filter to Herman and
+      Chomsky credited narrowly to its structural claim and never the press-conspiracy reading the house refuses, no villain
+      throughout, held to a tilt that bites where the funding is advertising and interests diverge and softens where they
+      coincide or the reader or public becomes the payer, with personas The Outlet, The Advertiser, The Audience, and The
+      Patron
 - [ ] [P2] False News by Novelty (Vosoughi, Roy & Aral, "The spread of true and false news online", _Science_ 2018): false
       news diffuses farther, faster, and deeper than true because novelty drives sharing and false stories are more novel, so
       each rational share of the surprising amplifies falsehood over truth with no one intending to deceive, and automated
@@ -1455,3 +1464,35 @@ epidemiology, and the macro-sociology of institutions freely, so a candidate is 
 locally-rational-sums-to-globally-bad trap that casts to agents and no staged misfit holds, and never by the scale at which
 its phenomenon lives. The two slated above are the pass's refill, worked from the top, and the slate returns to The Audience
 Commodity at the top of the fresh P1 line.
+
+The house strikes The Audience Commodity, staged as **You Are the Product**. The trap is that the reader who felt served was
+the thing being sold. When a channel airs a show for free, or a site gives its whole content away for nothing, a plain
+question goes unasked: who is paying, and for what. Dallas Smythe answered it. The content is not the product but the "free
+lunch," the bait a medium gives away to gather an audience, and the real product it produces and sells is the audience's
+attention, sold to advertisers, so the paying customer is the advertiser and the reader is what is sold to them (Smythe).
+From that one fact the tilt follows: because the outlet's revenue comes from delivering an audience and not from pleasing
+it, its rational aim is to produce and shape the attention advertisers will pay for, a large and desirable audience held in a
+receptive, buying mood, and the content is made to hold that audience and steered clear of what would drive it or its
+advertisers away (Jhally and Livant). The audience's own interest, in being informed of what it needs to know as a citizen,
+is served only where that interest coincides with holding attention: what people need but will not attend to goes undermade
+because attention is what is sold, and what holds attention but unsettles advertisers goes undermade because the advertiser
+is the customer, neither censored, both simply not what anyone is paying for. It is authored by no one: the outlet serves the
+advertiser as any business serves its customer, the advertiser buys the attention it needs and gives no orders, and the
+audience takes a free lunch it genuinely enjoys, so the loss is the reader's own interest served only by accident and the
+misfit is that the content given free to gather the audience is paid for by making the audience the product rather than the
+customer. It is cut to the misaligned-customer, audience-as-product vector no staged misfit holds, and it is named clear of
+Metric Fixation (a proxy gamed until the goal dies, whereas here nothing is measured and gamed, the served party simply the
+payer from the start), Regulatory Capture (a watchdog turned from its mandate over time, whereas here there is no turning,
+the outlet serves the payer from the first day), The Filter Bubble (a feed narrowed by the reader's own clicks, whereas here
+the funding model tilts what is made at all), and After You (a two-sided market that never forms, whereas here the market
+forms and functions and its functioning tilts the product against the audience). And the whole is held against its own
+limit: the tilt is felt only where the audience's interest and the advertiser's diverge, and softens where they coincide, so
+advertising funds much that is excellent where holding a crowd and serving it align, and where the reader or the public
+becomes the payer the customer is realigned, at the cost of a paywall's forfeited reach or a public purse's risk of capture,
+so the trap is as deep as the gap between what holds an audience and what serves it and no deeper, and not a claim that all
+ad-supported media is worthless. The audience commodity and the free lunch are homed to Smythe, the valorisation of watching
+as working to Jhally and Livant, the field history of the attention merchants to Wu, and the advertising filter to Herman and
+Chomsky, credited narrowly to its structural claim and never the press-conspiracy reading the house refuses, with the
+advertising-funded medium, the paying advertiser, the reader who is sold, and the reader or public funder who would realign
+the customer cast as the personas The Outlet, The Advertiser, The Audience, and The Patron. That takes the house to one
+hundred and fifty-eight, and returns the slate to False News by Novelty at the top of the unstruck P2 line.
