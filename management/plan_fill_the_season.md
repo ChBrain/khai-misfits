@@ -1117,7 +1117,7 @@ Mirror, so all are struck, not stacked beside them. The three below survive the 
       Odean, and the reflected value function to Tversky and Kahneman, the effect held bounded by tax-loss selling,
       sophistication, and rules and not a law of all ownership of a fallen asset, with personas The Investor, The Winner, The
       Loser, and The Adviser
-- [ ] [P2] The O-Ring (Kremer, "The O-Ring Theory of Economic Development", _Quarterly Journal of Economics_, 1993): where
+- [x] [P2] The O-Ring (Kremer, "The O-Ring Theory of Economic Development", _Quarterly Journal of Economics_, 1993): where
       production is a chain of tasks and one weak link spoils the value of all the rest, as a single faulty seal destroyed
       the whole shuttle, a small drop in the quality of any part cuts the worth of the whole output, so high-skill workers
       match with high-skill workers and low with low, and small differences in skill open large gaps in wage and in the
@@ -1125,7 +1125,16 @@ Mirror, so all are struck, not stacked beside them. The three below survive the 
       The Bus Factor's single point of failure in one person in that the fragility is the multiplicative chain and the
       sorting it forces, not the loss of one keeper of knowledge, and from The Brittle Optimum's trimmed slack in that no
       buffer was cut, the sensitivity is inherent in a product of qualities; the case not a remedy but an explanation of
-      assortative matching and the poverty trap it makes, to be cut to the weakest-link-multiplies vector
+      assortative matching and the poverty trap it makes, to be cut to the weakest-link-multiplies vector; staged as **Only
+      as Good as the Worst**, cut to the weakest-link-multiplies vector no staged misfit holds, production a chain of
+      complementary tasks whose qualities multiply rather than add so one weak link caps the whole however good the rest,
+      forcing the positive assortative matching of skill with skill and stranding the low-skill out of high-value work as a
+      small skill gap widens into a large wage gap, named clear of The Bus Factor, The Brittle Optimum, and Onto the
+      Survivors, with the multiplicative production function, the weak link that cuts the whole, the assortative matching it
+      forces, the amplification of small skill differences, and the poverty trap homed to Kremer and the positive assortative
+      matching of complements to Becker as the antecedent, the result held bounded to multiplicative complementary production
+      and softening where tasks are substitutable or redundant, with personas The Firm, The Skilled, The Stranded, and The
+      Improver
 
 Triage of this pass, against the descriptions, carrying forward the three still held from before. Held pending a distinct
 cut, each with a real spine but a fit still to find: the Dunning-Kruger effect (Kruger & Dunning, 1999), whose unskilled
@@ -1195,3 +1204,81 @@ evidence that the sold winners beat the held losers to Odean, and the reference-
 Tversky and Kahneman, with the investor, the risen holding cashed too soon, the fallen holding ridden too long, and the
 disciplined remedy cast as the personas The Investor, The Winner, The Loser, and The Adviser. That takes the house to one
 hundred and fifty-three, and returns the slate to The O-Ring at the top of the unstruck P2 line.
+
+The house strikes The O-Ring, staged as **Only as Good as the Worst**. The trap is that where a product is a chain of
+complementary tasks whose qualities multiply rather than add, one weak link cuts the value of the whole however well every
+other task was done, as a single faulty O-ring seal destroyed a shuttle built otherwise to the highest standard (Kremer).
+Because the value is a product and not a sum, a task at half quality roughly halves the whole, so the worst task sets the
+ceiling and no excellence elsewhere buys it back, and a high-quality input is therefore worth far more beside its peers than
+beside a weak link. From that one fact the sorting follows: firms match high quality with high and low with low, the positive
+assortative matching Becker showed for complements and Kremer carried into production, not from snobbery but because pairing
+skill with skill is what maximises the value each can make (Kremer; Becker). And from the same fact the harm follows: a small
+difference in skill, multiplied through a chain and sorted into different firms, widens into a large difference in wage and in
+the worth of what can be built, and the low-skill are stranded out of high-value production that needs every task done well, a
+poverty trap the multiplication makes (Kremer). It is authored by no one: the firm that will not place a task that could
+spoil the whole in unreliable hands is protecting its product, and a worker whose quality would cut the chain is genuinely
+worth less to that firm than to a lesser one, so the matching of like with like is each party's sound response to a
+production function in which the whole is only as good as its worst part. It is cut to the weakest-link-multiplies vector no
+staged misfit holds, and it is named clear of The Bus Factor (where the fragility is one irreplaceable person and the loss is
+their knowledge, whereas here no one is irreplaceable and the fragility is the multiplicative chain and the sorting it
+forces), The Brittle Optimum (where a buffer was trimmed and the system shatters on a shock, whereas here nothing was cut and
+no shock is needed, the sensitivity inherent in a product of qualities), and Onto the Survivors (where a failed member's load
+redistributes across a network past a critical fraction, whereas here the tasks carry none of one another's load, the value
+is simply their product). And the whole is held against its own limit: the result is as strong as production is multiplicative
+and complementary, and softens where tasks are substitutable, redundant, or additive, so the trap is real for complementary
+chains and not a law of all production (Kremer). The multiplicative production function, the weak link that cuts the whole,
+the assortative matching it forces, the amplification of small skill differences, and the poverty trap are homed to Kremer,
+and the positive assortative matching of complements to Becker as the antecedent the O-ring theory extends, with the maker
+who sorts to protect the product, the high-quality input worth most among peers, the willing input shut out for a small
+deficit, and the costly remedy that lifts the floor cast as the personas The Firm, The Skilled, The Stranded, and The
+Improver. That takes the house to one hundred and fifty-four.
+
+With Only as Good as the Worst staged, the last refill is spent: The Endowment Effect, The Disposition Effect, and now The
+O-Ring are all struck, and the P2 well is dry again. It is refilled below by a fresh research-input pass, each candidate run
+through registry.json by canonical name and against every misfit's description, and against the structural test that the
+pattern must run in the system regardless of which agent is inside it. That descriptions scan caught several before slating:
+the Jevons paradox is already staged under its own name, rational voter ignorance is Cheaper Not to Know, Gresham's law is
+Bad Coin, and the majority-cycling of Condorcet is Whoever Asks Last, so all are struck, not stacked beside them. The three
+below survive the check and are slated, worked from the top.
+
+- [ ] [P1] The Logic of Collective Action (Olson, _The Logic of Collective Action_, 1965): a benefit spread thin over a
+      large group and a cost concentrated on a small one leave the many with too little at stake each to organise and the few
+      with enough, so the small group with concentrated per-capita stakes acts while the diffuse majority rationally
+      free-rides on a collective effort no member's share can justify, and policy tilts to the organised few though the
+      unorganised many would gain more in sum, distinct from The Commons's depletion of a rivalrous stock and Everybody's
+      Business's diffusion of responsibility among bystanders in that the engine is the asymmetry of per-capita stakes that
+      makes the concentrated interest organise and the diffuse one abstain, and from Rent-Seeking's spending of real
+      resources to capture a transfer, The Iron Triangle's closed triad, and Bootleggers and Baptists's two-coalition
+      alliance in that nothing is spent, no ring is formed, and no second coalition is needed, only the free-riding of the
+      many against the few; to be cut to the concentrated-benefit-diffuse-cost asymmetry and the collective-action failure it
+      makes
+- [ ] [P2] The Hot-Stove Effect (Denrell, "Why Most People Disapprove of Me: Experience Sampling in Impression Formation",
+      _Psychological Review_, 2005; Denrell & March, 2001): an agent that stops sampling an option after a bad early outcome
+      never gathers the evidence that would correct the error, so a false negative seals itself while a false positive is
+      caught by continued use, and choices settle on a biased picture built from an asymmetrically censored sample, distinct
+      from The Open Cage's learned helplessness in that trying does not cease across the board but only for the one option a
+      bad draw condemned, and from The Survivors' survivorship bias in that the missing evidence is not lost to attrition but
+      withheld by the agent's own rational decision to stop testing what burned it; to be cut to the
+      asymmetric-sampling-seals-the-error vector
+- [ ] [P2] The Triffin Dilemma (Triffin, _Gold and the Dollar Crisis_, 1960): the issuer of the world's reserve currency
+      must run persistent deficits to supply the currency a growing world economy demands, and the very outflow that meets
+      that demand erodes confidence in the currency's backing, so the reserve issuer cannot both supply the world's liquidity
+      and preserve the value of what it supplies, a bind with no defector and no exit, distinct from Dutch Disease's
+      exchange-rate hollowing of a resource-rich economy in that the mechanism is the reserve role's conflict between
+      short-run supply and long-run confidence, and from Debt-Deflation's rising real weight of nominal debt in that nothing
+      deflates, what erodes is trust in a currency the world needs ever more of; to be cut to the supply-versus-confidence
+      bind of the reserve issuer
+
+Triage of this pass, against the descriptions, carrying forward the four still held from before. Held pending a distinct cut,
+each with a real spine but a fit still to find: the Dunning-Kruger effect (Kruger & Dunning, 1999), held until it is cut
+clear both of The Bounce, since a large part of the measured effect is regression to the mean, and of I Know How It Works;
+the Lucas Critique (Lucas, 1976), held until a structural cut clear of Metric Fixation is found; the Pygmalion and Golem
+effects (Rosenthal & Jacobson, 1968), held until the interpersonal expectation channel is cut clear of The Proxy and of After
+You; and the Liquidity Trap (Keynes, 1936; Krugman, 1998), held until the monetary-impotence sliver is cut clear of The
+Paradox of Thrift. New to the held list from this pass: present bias and hyperbolic discounting (Laibson, 1997; O'Donoghue &
+Rabin, 1999), held as too adjacent to Time Inconsistency until the within-person preference reversal is cut clear of the
+commitment-device frame; the soft budget constraint (Kornai, 1980), held as too adjacent to Moral Hazard and Someone Will
+Catch Me until the repeated-bailout erosion of discipline is cut clear of both; and the political resource curse or paradox
+of plenty (Karl, 1997; Ross, 2001), held until its rentier-state account can be cut to a no-villain structural trap clear of
+Dutch Disease's exchange-rate channel. The three slated above are the pass's refill, worked from the top, and past them a
+further research-input pass will be wanted, run against the descriptions and not the titles alone.
