@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.152.0",
+  "version": "0.153.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -32,6 +32,12 @@
       "id": "all_at_once",
       "title": "All at Once",
       "description": "A cached value spares the backend until it expires, when every request misses at once and floods the thing it spared."
+    },
+    {
+      "kind": "misfit",
+      "id": "back_to_even",
+      "title": "Back to Even",
+      "description": "Sell winners too early and ride losers too long, judging each by the price paid, so gains are cut and losses bleed on."
     },
     {
       "kind": "misfit",
