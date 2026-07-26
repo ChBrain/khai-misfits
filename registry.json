@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.158.0",
+  "version": "0.159.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -422,6 +422,12 @@
       "id": "someone_will_catch_me",
       "title": "Someone Will Catch Me",
       "description": "The rescue is certain, so no one builds a footing, and the kindness that will always catch you keeps you falling."
+    },
+    {
+      "kind": "misfit",
+      "id": "stranger_than_true",
+      "title": "Stranger Than True",
+      "description": "People share what surprises them, and a lie can be stranger than the truth, so the false travels farther and faster."
     },
     {
       "kind": "misfit",
