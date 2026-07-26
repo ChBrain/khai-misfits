@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 153 misfits, 755 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 154 misfits, 756 scholars.
 
 ## By science
 
@@ -85,6 +85,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | **Bazerman** | `the_winning_bid` | "I Won the Auction but Don't Want the Prize", Journal of Conflict Resolution (1983) <br><sub>Bazerman & Samuelson</sub> | The experiment: the jar-of-coins auction, where bids average below the true value yet the winning bid overpays, isolating the selection effect. The Selection. |
 | **Beavin** | `the_double_bind` | Pragmatics of Human Communication (1967); levels of message, metacommunication, the paradoxical injunction <br><sub>Watzlawick, Beavin, and Jackson</sub> | The extension: content and relationship levels of a message, and the "be spontaneous" paradox that cannot be met on demand. The Double Message, the Gag. |
 | **Becker** | `bootleggers_and_baptists` | "A Theory of Competition Among Pressure Groups for Political Influence" (Quarterly Journal of Economics, 1983) <br><sub>Gary Becker</sub> | The durability: political outcomes settle where the pressure of competing groups balances, so a rule pushed by both principle and profit outweighs the diffuse opposition and holds, the equilibrium that makes the bad law immovable. The Coalition. |
+| ↳ | `only_as_good_as_the_worst` | "A Theory of Marriage" (Journal of Political Economy, 1973); the theory of positive assortative matching <br><sub>Gary Becker</sub> | The antecedent: where inputs are complements, the total is maximised by matching high with high and low with low, so likes pair with likes; the sorting logic the O-ring theory carries into production, credited as the matching spine it extends. The Match. |
 | ↳ | `the_proxy` | The Economics of Discrimination (1957); taste-based discrimination <br><sub>Gary Becker</sub> | The contrast, set against: discrimination driven by a distaste for a group, for which the discriminator forgoes profit, the animus-based engine that statistical discrimination is distinguished from and needs none of. The No-Taste. |
 | **Beer** | `the_simpler_lever` | Brain of the Firm (1972); Designing Freedom (1974) <br><sub>Stafford Beer</sub> | Variety engineering: variety is costly, and it is matched by amplifying the regulator or attenuating the disturbance. The Legibility, The Loss of Control, The Matching. |
 | **Bell** | `the_identified_patient` | "The Emotionally Disturbed Child as the Family Scapegoat" (in A Modern Introduction to the Family, 1960) <br><sub>Vogel and Bell</sub> | The spine: the child selected to absorb the family's tensions, stabilising the whole at the member's expense. The scapegoat and the strain it carries. |
@@ -502,6 +503,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | **Kowalski** | `the_front` | "Impression Management: A Literature Review and Two-Component Model" (Psychological Bulletin, 1990) <br><sub>Leary & Kowalski</sub> | The motivation: impression management as impression motivation plus construction; what is shown is driven by how it will read. The Premium. |
 | **Krakovna** | `the_letter_of_the_law` | "Specification gaming: the flip side of AI ingenuity" (DeepMind, 2020); the specification-gaming list <br><sub>Krakovna and colleagues</sub> | The catalogue: dozens of documented cases of optimisers satisfying the letter of an objective and missing its intent. The Loophole. |
 | **Krebs** | `the_arms_race` | "Arms Races between and within Species" (Proc. R. Soc. B, 1979) <br><sub>Dawkins and Krebs</sub> | The ratchet: escalation with no winner, each side forced to keep pace by the other, the race sustained with the balance unchanged. The Ratchet. |
+| **Kremer** | `only_as_good_as_the_worst` | "The O-Ring Theory of Economic Development" (Quarterly Journal of Economics, 1993) <br><sub>Michael Kremer</sub> | The spine: production as a chain of tasks whose qualities multiply, so one weak link cuts the value of the whole, which forces positive assortative matching of high skill with high skill, amplifies small skill differences into large wage and value gaps, and strands the low-skill out of high-value production. The Chain, The Product, The Weak Link, The Match, The Stranded. |
 | **Krueger** | `rent_seeking` | "The Political Economy of the Rent-Seeking Society", American Economic Review (1974) | The name and the measure: import licences whose value drew real resources into the competition for them, quantifying the waste. The Rent, the Scramble. |
 | **Kuran** | `the_availability_cascade` | "Availability Cascades and Risk Regulation" (Stanford Law Review, 1999) <br><sub>Kuran and Sunstein</sub> | The spine: the availability cascade itself, the informational and reputational chain that inflates a risk perception and drives regulation by salience. The governing law. |
 | ↳ | `the_trip_to_abilene` | "Private Truths, Public Lies: The Social Consequences of Preference Falsification" (1995) | Preference falsification: people misrepresent their wants under perceived social pressure, so public consensus can diverge completely from private conviction. The gap the play stands on. |
@@ -1102,6 +1104,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `not_invented_here` | Katz & Allen; Allen; Tajfel & Turner; Antons & Piller; Chesbrough; Practitioner |
 | `not_worth_my_while` | Geoffrey Rose; Geoffrey Rose; Geoffrey Rose; The individual calculus; Boundary of the effect |
 | `nothing_to_lose` | Steven Shavell; Shavell; Summers; LoPucki; Ringleb & Wiggins; Boundary of the effect |
+| `only_as_good_as_the_worst` | Michael Kremer; Gary Becker; Practitioner |
 | `only_the_close_ones` | George Priest and Benjamin Klein; William Landes; Samuel Gross and Kent Syverud; Daniel Kessler, Thomas Meites and Geoffrey Miller; James Heckman |
 | `onto_the_survivors` | H. E. Daniels; Pradhan, Hansen, and Chakrabarti; Practitioner |
 | `outranked_from_below` | Lui Sha, Ragunathan Rajkumar, John Lehoczky; Mars Pathfinder / Glenn Reeves (JPL); Practitioner |
