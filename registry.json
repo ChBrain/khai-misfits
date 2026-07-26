@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.154.0",
+  "version": "0.155.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -716,6 +716,12 @@
       "id": "the_long_calm",
       "title": "The Long Calm",
       "description": "Years of calm make more debt look safe, so leverage builds, and the calm quietly breeds the crash it looks least like."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_loud_few",
+      "title": "The Loud Few",
+      "description": "A benefit thin for each of many and rich for a few, so the many free-ride and stay latent while the few win."
     },
     {
       "kind": "misfit",
