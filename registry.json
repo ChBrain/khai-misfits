@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.155.0",
+  "version": "0.156.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -272,6 +272,12 @@
       "id": "nothing_to_lose",
       "title": "Nothing to Lose",
       "description": "An actor whose harm tops its assets treats the excess as free, so it under-guards and the largest harms go undeterred."
+    },
+    {
+      "kind": "misfit",
+      "id": "once_bitten",
+      "title": "Once Bitten",
+      "description": "A bad first draw ends the trying, so the error never corrects and a good option lost to chance is never tried again."
     },
     {
       "kind": "misfit",
