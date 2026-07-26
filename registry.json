@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.156.0",
+  "version": "0.157.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -218,6 +218,12 @@
       "id": "moral_licensing",
       "title": "Moral Licensing",
       "description": "A good deed is banked as moral credit, and the credit buys a later lapse, so the virtue funds the vice and washes out."
+    },
+    {
+      "kind": "misfit",
+      "id": "more_than_it_can_back",
+      "title": "More Than It Can Back",
+      "description": "To supply the world's reserves the issuer must send out more of its money than it can back, so confidence erodes."
     },
     {
       "kind": "misfit",
