@@ -1261,14 +1261,23 @@ below survive the check and are slated, worked from the top.
       the policy reading, held to a tendency conditioned on group size, non-excludability, and the absence of selective
       incentives and breaking where an entrepreneur, a movement, or cheap coordination rouses the many, with personas The Few,
       The Many, The Organiser, and The Office
-- [ ] [P2] The Hot-Stove Effect (Denrell, "Why Most People Disapprove of Me: Experience Sampling in Impression Formation",
+- [x] [P2] The Hot-Stove Effect (Denrell, "Why Most People Disapprove of Me: Experience Sampling in Impression Formation",
       _Psychological Review_, 2005; Denrell & March, 2001): an agent that stops sampling an option after a bad early outcome
       never gathers the evidence that would correct the error, so a false negative seals itself while a false positive is
       caught by continued use, and choices settle on a biased picture built from an asymmetrically censored sample, distinct
       from The Open Cage's learned helplessness in that trying does not cease across the board but only for the one option a
       bad draw condemned, and from The Survivors' survivorship bias in that the missing evidence is not lost to attrition but
       withheld by the agent's own rational decision to stop testing what burned it; to be cut to the
-      asymmetric-sampling-seals-the-error vector
+      asymmetric-sampling-seals-the-error vector; staged as **Once Bitten**, cut to the asymmetric-sampling-seals-the-error
+      vector no staged misfit holds, an agent that learns by sampling and avoids what burned it never gathering the evidence
+      that would correct a bad early draw while a good early draw is kept in use and corrected, so negative errors self-seal
+      and positive errors self-correct, beliefs from experience running low and variable options shunned though some are
+      better than they first seemed, named clear of The Survivors, The Bounce, and The Open Cage, with the hot-stove effect,
+      the sampling asymmetry, the impression bias, and the manufactured risk aversion homed to Denrell and Denrell and March
+      for the information-restriction form, Twain's cat and the stove as the image and Thorndike's law of effect as the
+      antecedent, held to a bias conditioned on variable outcomes and the agent's own choice to sample and softening where a
+      bad draw truly means bad, where sampling is forced, or where others' experience can be borrowed, with personas The
+      Learner, The Burned, The Favoured, and The Explorer
 - [ ] [P2] The Triffin Dilemma (Triffin, _Gold and the Dollar Crisis_, 1960): the issuer of the world's reserve currency
       must run persistent deficits to supply the currency a growing world economy demands, and the very outflow that meets
       that demand erodes confidence in the currency's backing, so the reserve issuer cannot both supply the world's liquidity
@@ -1327,3 +1336,35 @@ benefits, diffuse-costs typology to Wilson as the policy reading, with the conce
 interest that free-rides, the entrepreneur who moves the many only with a private reason, and the office that hears whoever
 shows up cast as the personas The Few, The Many, The Organiser, and The Office. That takes the house to one hundred and
 fifty-five, and returns the slate to The Hot-Stove Effect at the top of the unstruck P2 line.
+
+The house strikes The Hot-Stove Effect, staged as **Once Bitten**. The trap is that a good thing can be written off
+forever on one bad day, by a learner doing everything right. Mark Twain put it in a cat: one that sits on a hot stove-lid
+will never sit on a stove-lid again, hot or cold, and so never learns the cold one is safe. Jerker Denrell turned that cat
+into an account of how anyone who learns from experience comes to misjudge the world. We form impressions by sampling, going
+on trying the options that go well and stopping the ones that go badly, and that sound rule has one built-in flaw. When a
+first try goes well the option is kept in use, so a lucky high draw is exposed to correction and regresses to its true worth;
+when a first try goes badly the option is dropped, and because it is dropped the evidence that would show the bad result was
+only luck is never gathered, so the negative error seals itself (Denrell; Denrell and March). The record the learner reads
+from is truncated on the low side, many looks at what pleased it and one bad look at what did not, and the honest average of
+that record runs low. The options most likely to hand a bad first draw are the variable ones, whose outcomes swing high and
+low, so variability is what gets an option written off, and an agent with no fear of risk at all comes to shun variance,
+having been burned by it and never gone back to see it pay, the risk aversion manufactured by the sampling and not brought to
+it (Denrell). It is authored by no one: the learner is not prejudiced or lazy but rational to avoid what burned it and right
+to judge by what it has seen, and the option is at no fault, perhaps genuinely good and merely unlucky once, so there is no
+bad judge and no unfair hearing, only a fair rule applied to a sample the rule itself truncates. It is cut to the
+asymmetric-sampling-seals-the-error vector no staged misfit holds, and it is named clear of The Survivors (where attrition
+destroys the failed data exogenously, the planes that went down never returning, whereas here the censoring is endogenous,
+the learner's own choice to stop sampling what burned it), The Bounce (where a seen reversal is misread as caused by a reward
+or punishment, whereas here the whole point is that only the high side's regression is witnessed and the low side's never is,
+because sampling stopped), and The Open Cage (where uncontrollable failure teaches a global helplessness and effort ceases
+across the board, whereas here trying ceases only for the one option a bad draw condemned and the learner keeps sampling
+everything else). And the whole is held against its own limit: the bias is as strong as outcomes are variable and sampling is
+the agent's own choice, and it softens where a bad draw truly means the option is bad, where sampling is forced, or where
+another's experience can be borrowed, and most options avoided after a bad draw really are bad, so the effect misjudges only
+the variable and unluckily-sampled, not everything shunned (Denrell). The hot-stove effect, the sampling asymmetry, the
+impression bias, and the manufactured risk aversion are homed to Denrell, with Denrell and March for the
+information-restriction form, the cat and the stove to Twain as the image, and the law of effect to Thorndike as the
+reinforcement antecedent, with the sampler who avoids what burned it, the option written off after one draw, the option kept
+in play and corrected, and the costly re-sampler who tries again anyway cast as the personas The Learner, The Burned, The
+Favoured, and The Explorer. That takes the house to one hundred and fifty-six, and returns the slate to The Triffin Dilemma
+at the top of the unstruck P2 line.
