@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.159.0",
+  "version": "0.160.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -32,6 +32,12 @@
       "id": "all_at_once",
       "title": "All at Once",
       "description": "A cached value spares the backend until it expires, when every request misses at once and floods the thing it spared."
+    },
+    {
+      "kind": "misfit",
+      "id": "ask_the_one_who_sells",
+      "title": "Ask the One Who Sells",
+      "description": "The expert who tells you what you need is the one paid to provide it, so you get more than an informed buyer would."
     },
     {
       "kind": "misfit",
