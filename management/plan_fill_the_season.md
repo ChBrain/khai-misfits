@@ -1278,14 +1278,22 @@ below survive the check and are slated, worked from the top.
       antecedent, held to a bias conditioned on variable outcomes and the agent's own choice to sample and softening where a
       bad draw truly means bad, where sampling is forced, or where others' experience can be borrowed, with personas The
       Learner, The Burned, The Favoured, and The Explorer
-- [ ] [P2] The Triffin Dilemma (Triffin, _Gold and the Dollar Crisis_, 1960): the issuer of the world's reserve currency
+- [x] [P2] The Triffin Dilemma (Triffin, _Gold and the Dollar Crisis_, 1960): the issuer of the world's reserve currency
       must run persistent deficits to supply the currency a growing world economy demands, and the very outflow that meets
       that demand erodes confidence in the currency's backing, so the reserve issuer cannot both supply the world's liquidity
       and preserve the value of what it supplies, a bind with no defector and no exit, distinct from Dutch Disease's
       exchange-rate hollowing of a resource-rich economy in that the mechanism is the reserve role's conflict between
       short-run supply and long-run confidence, and from Debt-Deflation's rising real weight of nominal debt in that nothing
       deflates, what erodes is trust in a currency the world needs ever more of; to be cut to the supply-versus-confidence
-      bind of the reserve issuer
+      bind of the reserve issuer; staged as **More Than It Can Back**, cut to the supply-versus-confidence bind no staged
+      misfit holds, a single national currency doing double duty as the world's reserve so the issuer must run deficits to
+      furnish the reserves the world thirsts for and every unit furnished is a claim the backing cannot keep pace with, the
+      more supplied the less credible until confidence fails, named clear of Dutch Disease, Debt-Deflation, and The Bank Run,
+      with the reserve-currency bind, the deficit-driven supply, and the erosion of convertibility homed to Triffin, Bretton
+      Woods and its 1971 collapse as the prediction borne out, Keynes's bancor and the IMF SDR as the remedy anticipated, and
+      the new Triffin dilemma and exorbitant privilege to Farhi, Gourinchas, Rey, and Obstfeld, held to a bind sharpest under
+      a fixed convertibility promise and softening under fiat money into a slower question of sustainability, with personas
+      The Issuer, The World, The Doubter, and The Reformer
 
 Triage of this pass, against the descriptions, carrying forward the four still held from before. Held pending a distinct cut,
 each with a real spine but a fit still to find: the Dunning-Kruger effect (Kruger & Dunning, 1999), held until it is cut
@@ -1368,3 +1376,82 @@ reinforcement antecedent, with the sampler who avoids what burned it, the option
 in play and corrected, and the costly re-sampler who tries again anyway cast as the personas The Learner, The Burned, The
 Favoured, and The Explorer. That takes the house to one hundred and fifty-six, and returns the slate to The Triffin Dilemma
 at the top of the unstruck P2 line.
+
+The house strikes The Triffin Dilemma, staged as **More Than It Can Back**. The trap is that a currency can be undone not by
+weakness but by success, by being wanted so much the world holds more of it than it can ever back. In 1960 Robert Triffin
+warned the United States Congress that the dollar's role as the world's reserve contained a contradiction that would break
+it: a growing world needs a growing stock of reserves, and the only way the world can accumulate dollars is for the United
+States to send them out by running deficits, but every dollar abroad is a claim on a finite gold stock, so the claims must
+one day outrun the gold and the promise to convert become incredible (Triffin). The bind is that to furnish the world enough
+the issuer must send out more of its currency than its backing covers, and to keep the currency credible it must stop and
+starve the world of reserves, and it cannot do both: supply enough and confidence erodes, hold confidence and supply too
+little. It is authored by no one: the issuer runs the deficits because the world asks for its money and is repaid in the
+privilege of borrowing cheaply in what it prints, the world holds the currency because it needs reserves and has none better,
+and the holder who converts before the others as the claims outrun the backing is reading a real deterioration and not
+panicking. Through the 1960s foreign dollar holdings grew past the American gold stock exactly as Triffin said, and in 1971
+the United States closed the gold window and the Bretton Woods system ended, the contradiction run to its close. It is cut to
+the supply-versus-confidence bind no staged misfit holds, and it is named clear of Dutch Disease (a resource windfall lifting
+the exchange rate and hollowing manufacturing, whereas here nothing is mined and the bind is the reserve role's own),
+Debt-Deflation (a rising real burden of debt under falling prices, whereas here nothing deflates and the currency is wanted
+more), and The Bank Run (a groundless coordination panic on a solvent bank, whereas here the backing genuinely thins and the
+loss of confidence is a sound reading of a real erosion). And the whole is held against its own limit: the bind is sharpest
+under a fixed convertibility promise, where the backing is a finite gold stock the claims can outrun, and softens under fiat,
+floating money into a slower question of whether the issuer can keep supplying the world's safe assets without its position
+becoming unsustainable, real and debated and not a law of imminent collapse, the issuer's exorbitant privilege exactly why it
+does not wish the role away (Farhi, Gourinchas, and Rey). The reserve-currency bind, the deficit-driven supply, and the
+erosion of convertibility are homed to Triffin, Bretton Woods and its 1971 collapse the prediction borne out, the
+supranational reserve asset Keynes's bancor and the IMF's SDR, and the modern restatement and the privilege to Farhi,
+Gourinchas, Rey, and Obstfeld, with the reserve issuer, the world that holds its currency, the holder who converts first, and
+the reformer who would lift the role off any one nation cast as the personas The Issuer, The World, The Doubter, and The
+Reformer. That takes the house to one hundred and fifty-seven.
+
+With More Than It Can Back staged, the fresh refill is spent: The Logic of Collective Action, The Hot-Stove Effect, and The
+Triffin Dilemma are all struck, and the P2 well is dry again. This refill was drawn from a different quarter, a directed pass
+over mass media and its systemic observations, prompted by the question whether the domain the house had marked a boundary
+hides misfits after all. It does, and the pass drew a line the house should keep. Media-effects theory, how attention and
+meaning and influence propagate from broadcast to audience, is transmission and not a trap: agenda-setting, cultivation,
+two-step flow, and uses-and-gratifications describe an effect or a motive and not a structure in which each rational act sums
+to a bad whole, so they are held off not for their altitude but for their shape, the mismatch a failure of the trap test and
+not of the warrant. The one media-effects theory that is trap-shaped, the spiral of silence, is already carried by The Trip
+to Abilene and the held preference falsification. But the political economy of media and the attention economy, media as a
+market rather than a message, is full of trap-shaped structures the house does not hold, and the pass was run through
+registry.json by canonical name and against every misfit's description, the descriptions scan finding no attention,
+advertising, audience, or novelty vector staged. The two below survive the check and are slated; the triage that follows
+records the rest.
+
+- [ ] [P1] The Audience Commodity (Smythe, "Communications: Blindspot of Western Marxism", 1977; Wu, _The Attention
+      Merchants_, 2016; the advertising filter of Herman & Chomsky, _Manufacturing Consent_, 1988): an advertising-funded
+      outlet's paying customer is the advertiser and its product is the audience's attention sold on, so each outlet
+      rationally optimises attention-capture and advertiser value while the reader's informational interest is not what is
+      served or paid for, and the sum is an information environment optimised against its own audience, distinct from Metric
+      Fixation's gamed proxy in that nothing is gamed, the served party is simply the payer from the start, from Regulatory
+      Capture's watchdog turned over time in that no capture occurs, who-pays-is-who-is-served by design, and from The Filter
+      Bubble's personalised narrowing in that the funding model tilts the whole product regardless of any feed; to be cut to
+      the misaligned-customer, audience-as-product vector, the costly remedy subscription or public funding each with its own
+      tilt
+- [ ] [P2] False News by Novelty (Vosoughi, Roy & Aral, "The spread of true and false news online", _Science_ 2018): false
+      news diffuses farther, faster, and deeper than true because novelty drives sharing and false stories are more novel, so
+      each rational share of the surprising amplifies falsehood over truth with no one intending to deceive, and automated
+      accounts spread both alike so the tilt is the human preference for the novel, distinct from The Availability Cascade's
+      repetition that makes a belief feel true in that here it is the novelty of the first telling that drives reach, from
+      Information Cascade's herding on others' observed choices in that no private signal is discarded, and from Sick Enough
+      to Spread's biological virulence in that the selection is on informational novelty; to be cut to the
+      novelty-selection-amplifies-falsehood vector
+
+Triage of the media pass, against the descriptions, and carrying forward the held from before. Held off as transmission and
+not a trap, the boundary the pass confirmed: agenda-setting (McCombs & Shaw), cultivation (Gerbner), two-step flow (Katz &
+Lazarsfeld), and uses-and-gratifications (Zillmann), each an effect or a motive without a locally-rational-sums-to-globally-
+bad structure; McLuhan's medium-is-the-message, a civilisational aphorism with no cited mechanism, a warrant failure and not
+a candidate; encoding-decoding (Hall), a khai-engine primitive, the reading as construal and not a misfit; and the spiral of
+silence (Noelle-Neumann), already carried by The Trip to Abilene and the held preference falsification. Held on a duplication
+yet to be cleared: the attention economy or attention scarcity (Simon, 1971), whose competition for a finite pool of
+attention reads as The Arms Race crossed with The Commons until a cut clears both; and engagement or outrage optimisation,
+whose recommender maximising a proxy reads as The Letter of the Law and Metric Fixation in the feed until a distinct sliver
+appears. Carried forward from the prior passes, still held pending a distinct cut: the Dunning-Kruger effect, the Lucas
+Critique, the Pygmalion and Golem effects, the Liquidity Trap, present bias and hyperbolic discounting, the soft budget
+constraint, and the political resource curse. The pass also settled a standing marker, recorded here so future refills do not
+re-litigate it: the house's boundary is not altitude but shape, since the registry stages macroeconomics, network science,
+epidemiology, and the macro-sociology of institutions freely, so a candidate is judged by whether it is a
+locally-rational-sums-to-globally-bad trap that casts to agents and no staged misfit holds, and never by the scale at which
+its phenomenon lives. The two slated above are the pass's refill, worked from the top, and the slate returns to The Audience
+Commodity at the top of the fresh P1 line.
