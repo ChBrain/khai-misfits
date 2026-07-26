@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.157.0",
+  "version": "0.158.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -944,6 +944,12 @@
       "id": "whoever_asks_last",
       "title": "Whoever Asks Last",
       "description": "Every voter is rational and sincere, yet the majority cycles, so whoever sets the order of the votes decides."
+    },
+    {
+      "kind": "misfit",
+      "id": "you_are_the_product",
+      "title": "You Are the Product",
+      "description": "An ad-funded outlet's customer is the advertiser and its product is you, so it serves who pays, not who reads."
     }
   ]
 }
