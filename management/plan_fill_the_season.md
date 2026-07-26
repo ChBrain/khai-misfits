@@ -1241,7 +1241,7 @@ the Jevons paradox is already staged under its own name, rational voter ignoranc
 Bad Coin, and the majority-cycling of Condorcet is Whoever Asks Last, so all are struck, not stacked beside them. The three
 below survive the check and are slated, worked from the top.
 
-- [ ] [P1] The Logic of Collective Action (Olson, _The Logic of Collective Action_, 1965): a benefit spread thin over a
+- [x] [P1] The Logic of Collective Action (Olson, _The Logic of Collective Action_, 1965): a benefit spread thin over a
       large group and a cost concentrated on a small one leave the many with too little at stake each to organise and the few
       with enough, so the small group with concentrated per-capita stakes acts while the diffuse majority rationally
       free-rides on a collective effort no member's share can justify, and policy tilts to the organised few though the
@@ -1251,7 +1251,16 @@ below survive the check and are slated, worked from the top.
       resources to capture a transfer, The Iron Triangle's closed triad, and Bootleggers and Baptists's two-coalition
       alliance in that nothing is spent, no ring is formed, and no second coalition is needed, only the free-riding of the
       many against the few; to be cut to the concentrated-benefit-diffuse-cost asymmetry and the collective-action failure it
-      makes
+      makes; staged as **The Loud Few**, cut to the concentrated-few-beat-diffuse-many asymmetry no staged misfit holds, a
+      collective good non-excludable and each member's share of it thin, so in a large group each rationally free-rides and
+      the group stays latent while a small group whose members each hold a concentrated stake finds it worth acting, the
+      organised few prevailing and outcomes tilting to concentrated interests, named clear of The Commons, Everybody's
+      Business, Not Worth My While, Borrowed Immunity, Rent-Seeking, The Iron Triangle, and Bootleggers and Baptists, with
+      the theory of groups, the group-size logic, the selective incentive, and the tilt homed to Olson and the non-excludable
+      public-good free-rider to Samuelson as the antecedent and the concentrated-benefits, diffuse-costs typology to Wilson as
+      the policy reading, held to a tendency conditioned on group size, non-excludability, and the absence of selective
+      incentives and breaking where an entrepreneur, a movement, or cheap coordination rouses the many, with personas The Few,
+      The Many, The Organiser, and The Office
 - [ ] [P2] The Hot-Stove Effect (Denrell, "Why Most People Disapprove of Me: Experience Sampling in Impression Formation",
       _Psychological Review_, 2005; Denrell & March, 2001): an agent that stops sampling an option after a bad early outcome
       never gathers the evidence that would correct the error, so a false negative seals itself while a false positive is
@@ -1282,3 +1291,39 @@ Catch Me until the repeated-bailout erosion of discipline is cut clear of both; 
 of plenty (Karl, 1997; Ross, 2001), held until its rentier-state account can be cut to a no-villain structural trap clear of
 Dutch Disease's exchange-rate channel. The three slated above are the pass's refill, worked from the top, and past them a
 further research-input pass will be wanted, run against the descriptions and not the titles alone.
+
+The house strikes The Logic of Collective Action, staged as **The Loud Few**. The trap is that a diffuse majority loses to
+a concentrated few not because it is weak but because it is diffuse. A sugar tariff raises the price of sugar for everyone
+and hands the gain to a handful of growers: each grower stands to make millions and so organises, while each shopper loses a
+few dollars a year, too little to be worth a day off work to fight, so the shoppers do nothing and the tariff passes. Olson
+gave the general account. Against the comfortable assumption that people who share an interest will band together to advance
+it, he showed that rational members of a large group will not act to secure their common interest, because the good they
+would win is a collective good: once provided, no member can be shut out of it, so each would rather let the others bear the
+cost and enjoy it for free (Olson; Samuelson). Whether that free-riding sinks the group turns on its size. In a large group
+each member's share of the good is thin and their single contribution too slight to decide whether it is won at all, so
+acting costs more than the sliver it buys and each rationally sits out, and the group stays latent, its interest real and
+unadvanced. In a small group at least one member's stake is large enough to be worth the whole cost of acting alone, so the
+small group is privileged and acts (Olson). The consequence is an asymmetry: where a policy concentrates its benefit on a
+few and spreads its cost over the many, the few organise and prevail while each of the many finds resisting not worth the
+trouble, so outcomes tilt to concentrated interests though the diffuse majority would gain more in sum (Wilson). It is
+authored by no one: the few who organise are not conspirators but each hold a stake worth acting on, the many who sit out are
+not apathetic but each hold a share too thin to justify the cost, and the office that grants the few their way is not bought
+but acts on the only organised voice that reaches it, hearing one where the many sent none. It is cut to the
+concentrated-few-beat-diffuse-many asymmetry no staged misfit holds, and it is named clear of The Commons (where a rival
+stock is depleted by over-use, whereas here a non-rival good is under-provided and the load is the size asymmetry),
+Everybody's Business (the bystander's psychological diffusion over one discrete act, whereas here it is the economic calculus
+of stakes across group size), Not Worth My While (Rose's prevention paradox, where the benefit is symmetrically negligible to
+all, whereas here the sum is large and only each share thin, the asymmetry the whole point), Borrowed Immunity (the
+symmetric vaccination free-rider's rising payoff to abstain, whereas here the load is the few-versus-many asymmetry and the
+selective incentive), Rent-Seeking (the resources spent capturing a transfer once mobilised, whereas this is the upstream
+sorting of who mobilises at all), and The Iron Triangle and Bootleggers and Baptists (a closed triad and a two-coalition
+alliance, whereas here no ring is closed and no second coalition is needed, only the free-riding of the many). And the whole
+is held against its own limit: the failure is a tendency conditioned on group size, non-excludability, and the absence of
+selective incentives, and it breaks where a large group is roused by a moral entrepreneur, a mass movement, or a fall in the
+cost of coordination, so the trap is real, common, and bounded (Olson). The theory of groups, the group-size logic, the
+latent and privileged groups, the selective incentive, and the tilt to concentrated interests are homed to Olson, the
+non-excludable public good and the free-rider to Samuelson as the antecedent the theory extends, and the concentrated-
+benefits, diffuse-costs typology to Wilson as the policy reading, with the concentrated interest that organises, the diffuse
+interest that free-rides, the entrepreneur who moves the many only with a private reason, and the office that hears whoever
+shows up cast as the personas The Few, The Many, The Organiser, and The Office. That takes the house to one hundred and
+fifty-five, and returns the slate to The Hot-Stove Effect at the top of the unstruck P2 line.
