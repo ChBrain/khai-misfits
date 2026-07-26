@@ -1100,7 +1100,7 @@ Mirror, so all are struck, not stacked beside them. The three below survive the 
       reference-dependence and loss aversion to Tversky and Kahneman, the effect held bounded by the List finding that
       seasoning and holding-for-exchange dissolve it and part of the gap contested, with personas The Owner, The Buyer, The
       Allocator, and The Trader
-- [ ] [P2] The Disposition Effect (Shefrin & Statman, "The Disposition to Sell Winners Too Early and Ride Losers Too
+- [x] [P2] The Disposition Effect (Shefrin & Statman, "The Disposition to Sell Winners Too Early and Ride Losers Too
       Long", _Journal of Finance_, 1985; Odean, "Are Investors Reluctant to Realize Their Losses?", _Journal of Finance_,
       1998): an investor sells the holdings that have risen and keeps the ones that have fallen, because selling a winner
       books a gain and selling a loser books a loss, and realising the loss is what is avoided, so the paper loss is nursed
@@ -1108,7 +1108,15 @@ Mirror, so all are struck, not stacked beside them. The three below survive the 
       Bad's escalation of fresh funds into a failing project in that no new money is committed, only the refusal to close a
       losing position, and from The High-Water Mark's ratchet of spending in that the lever is the aversion to realising a
       loss on what is already held; the remedy rules that close positions on the merits and not the entry price, to be cut
-      to the realising-a-loss-is-avoided vector
+      to the realising-a-loss-is-avoided vector; staged as **Back to Even**, cut to the
+      reference-point-splits-the-sell-decision vector no staged misfit holds, the price paid taken as the line so a holding
+      above it is cashed to lock the sure gain and one below it is held to gamble on a rebound, gains cut short and losses
+      ridden because realising a loss must be admitted, and the account bleeding return and tax as the sold winners climb on
+      and the held losers sink, named clear of Good Money After Bad, Loath to Part, and The High-Water Mark, with the
+      disposition effect homed to Shefrin and Statman, the account evidence that the sold winners beat the held losers to
+      Odean, and the reflected value function to Tversky and Kahneman, the effect held bounded by tax-loss selling,
+      sophistication, and rules and not a law of all ownership of a fallen asset, with personas The Investor, The Winner, The
+      Loser, and The Adviser
 - [ ] [P2] The O-Ring (Kremer, "The O-Ring Theory of Economic Development", _Quarterly Journal of Economics_, 1993): where
       production is a chain of tasks and one weak link spoils the value of all the rest, as a single faulty seal destroyed
       the whole shuttle, a small drop in the quality of any part cuts the worth of the whole output, so high-skill workers
@@ -1159,3 +1167,31 @@ and the Coase-theorem failure to Kahneman, Knetsch, and Thaler, the reference-de
 Kahneman, and the bound to List, with the attached holder, the honest buyer, the trusting assigner, and the seasoned
 exchanger cast as the personas The Owner, The Buyer, The Allocator, and The Trader. That takes the house to one hundred and
 fifty-two, and returns the slate to The Disposition Effect at the top of the unstruck P2 line.
+
+The house strikes The Disposition Effect, staged as **Back to Even**. The trap is a portfolio sold on its past rather than
+its future, by a figure that should not weigh: the price paid. An investor sorts the holdings by what was paid for each,
+calls the ones now worth more winners and the ones worth less losers, and sells the winners while keeping the losers, the
+reverse of what returns and taxes counsel. Odean, going through tens of thousands of brokerage accounts, found investors
+sold winners at a far higher rate than losers, and the winners they sold went on to outperform the losers they kept, so
+the disposition lowered returns and, by realising gains not losses, raised the tax besides (Odean). The reason is the
+reflected value function: above the line of the price paid, in the domain of gains, people are risk-averse and prefer the
+sure gain, so the winner is cashed; below it, in the domain of losses, people are risk-seeking and prefer the gamble of a
+recovery to a sure loss, so the loser is held, one asymmetry seen on its two sides producing both halves (Tversky and
+Kahneman; Shefrin and Statman). And the loser is hard to close because selling it realises the loss and admits it, painful
+in a way a paper loss is not, so the investor resolves to sell only once it is back to even and waits on a level the market
+has no reason to honour. It is authored by no one: each move looked reasonable alone, taking a gain and holding through a
+dip, and the cost is the pattern, not any one trade, so the account bleeds and the loss is blamed on the market. It is cut
+to the reference-point-splits-the-sell-decision vector no staged misfit holds, and it is named clear of Good Money After
+Bad (where fresh money is poured into a failing course because of what is sunk, whereas here no new money is committed,
+only a losing position left unclosed and a winning one closed too soon), Loath to Part (where owning a good inflates its
+price so it will not be sold at all, whereas here a holding is readily sold when it is a winner and only stubbornly kept
+when a loser), and The High-Water Mark (where a floor of spending only climbs, whereas here nothing ratchets, the winner is
+sold and gone, and the lever is the purchase price and the reversed risk appetite around it). And the whole is held against
+its limit, that the effect is robust but not a law of the ledger: a rule that closes on prospects overrides it, year-end
+tax-loss selling reverses it, sophistication lessens it, and holding a fallen asset is not always wrong, since a price
+sometimes truly recovers, so only the systematic asymmetry is the error (Odean; Shefrin and Statman). The disposition
+effect and its roots in prospect theory, mental accounting, and regret are homed to Shefrin and Statman, the account
+evidence that the sold winners beat the held losers to Odean, and the reference-dependent, reflected value function to
+Tversky and Kahneman, with the investor, the risen holding cashed too soon, the fallen holding ridden too long, and the
+disciplined remedy cast as the personas The Investor, The Winner, The Loser, and The Adviser. That takes the house to one
+hundred and fifty-three, and returns the slate to The O-Ring at the top of the unstruck P2 line.
