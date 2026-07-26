@@ -1082,7 +1082,7 @@ caught several before slating: the winner's curse is The Winning Bid, the risk-c
 Matthew effect The Head Start, survivorship bias The Survivors, Simpson's paradox The Bigger Picture, and Conway's law The
 Mirror, so all are struck, not stacked beside them. The three below survive the check and are slated, worked from the top.
 
-- [ ] [P1] The Endowment Effect (Thaler, "Toward a Positive Theory of Consumer Choice", _Journal of Economic Behavior and
+- [x] [P1] The Endowment Effect (Thaler, "Toward a Positive Theory of Consumer Choice", _Journal of Economic Behavior and
       Organization_, 1980; Kahneman, Knetsch & Thaler, "Experimental Tests of the Endowment Effect and the Coase Theorem",
       _Journal of Political Economy_, 1990): merely owning a thing raises the price one demands to give it up above the price
       one would pay to get it, a gap between willingness-to-accept and willingness-to-pay driven by loss aversion, so
@@ -1091,7 +1091,15 @@ Mirror, so all are struck, not stacked beside them. The three below survive the 
       that leave a resource idle in that here a single owner will trade, only at a price inflated by ownership itself, and
       from Over a Barrel's hold-up over a sunk specific investment in that nothing is specific or sunk, the inflation is the
       bare fact of possession; the remedy framing, experience, and liquid markets that shrink the gap, to be cut to the
-      ownership-inflates-value vector, credited to the loss-aversion spine
+      ownership-inflates-value vector, credited to the loss-aversion spine; staged as **Loath to Part**, cut to the
+      ownership-inflates-value vector no staged misfit holds, an ordinary good worth more to its holder the moment it is
+      theirs because parting is coded as a loss and a loss weighs more than the equal gain, so the price to accept sits above
+      the price to pay and the trade both would gain from goes unmade, the good sticking with whoever was handed it first and
+      the Coase theorem failing, named clear of The Anticommons, Over a Barrel, and The Market for Lemons, with the endowment
+      effect homed to Thaler, the mug experiments and the Coase-theorem failure to Kahneman, Knetsch, and Thaler, and the
+      reference-dependence and loss aversion to Tversky and Kahneman, the effect held bounded by the List finding that
+      seasoning and holding-for-exchange dissolve it and part of the gap contested, with personas The Owner, The Buyer, The
+      Allocator, and The Trader
 - [ ] [P2] The Disposition Effect (Shefrin & Statman, "The Disposition to Sell Winners Too Early and Ride Losers Too
       Long", _Journal of Finance_, 1985; Odean, "Are Investors Reluctant to Realize Their Losses?", _Journal of Finance_,
       1998): an investor sells the holdings that have risen and keeps the ones that have fallen, because selling a winner
@@ -1124,3 +1132,30 @@ expectation channel staged in After You, held until the interpersonal channel is
 until the monetary-impotence sliver is cut clear of the fallacy of composition. The three slated above are the pass's
 refill, worked from the top, and past them a further research-input pass will be wanted, run against the descriptions and
 not the titles alone.
+
+The house strikes The Endowment Effect, staged as **Loath to Part**. The trap is that owning a thing makes its holder value
+it above what anyone else will pay, so it does not move. Hand a person a mug chosen for them at random, and their price to
+give it back is about twice what a matched buyer will pay for the same mug, though nothing about it has changed but that it
+is now theirs (Kahneman, Knetsch, and Thaler). The reason is loss aversion: once owned, the good becomes the reference
+point, so keeping it is the baseline and parting is a loss, and a loss weighs more than the equal gain of acquiring, so the
+owner demands more to surrender the good than a non-owner will offer for it (Thaler; Tversky and Kahneman). Between the
+price to accept and the price to pay lies a gap, and where a buyer values the good more than the owner but by less than that
+gap, the sale that should happen does not, the good staying where it sits rather than moving to who wants it most. And this
+breaks the Coase theorem, that free trade makes the final allocation independent of who first holds the good: if ownership
+itself changes what the good is worth, then who is handed it first is who keeps it, and the arbitrary start becomes the
+final rest (Kahneman, Knetsch, and Thaler). It is authored by no one: the owner names an honest price and the buyer names an
+honest price, and the prices simply do not meet, so the loss is the mutually beneficial trade left undone, a surplus both
+would have shared that never appears because the sale never happened. It is cut to the ownership-inflates-value vector no
+staged misfit holds, and it is named clear of The Anticommons (where many owners each hold a veto so a resource sits idle,
+whereas here a single owner will trade and deliver the whole, only at a price ownership inflated), Over a Barrel (where a
+counterparty appropriates the quasi-rent on a sunk relationship-specific asset, whereas here nothing is sunk or specific and
+the owner's own valuation is what rises), and The Market for Lemons (where hidden quality drives the good out, whereas here
+quality is known and the block is bare possession). And the whole is held against its own limit: the effect is not a law of
+all ownership but a grip that seasoning and holding-for-exchange loosen, so a seasoned trader who handles goods as stock
+shows little of it and trades clear (List), and part of the measured gap is contested as an artifact of the elicitation
+(Plott and Zeiler), but the detachment that dissolves it is exactly what the ordinary owner of a home, an heirloom, a thing
+held to keep, never has. The endowment effect and its grounding in loss aversion are homed to Thaler, the mug experiments
+and the Coase-theorem failure to Kahneman, Knetsch, and Thaler, the reference-dependence and loss aversion to Tversky and
+Kahneman, and the bound to List, with the attached holder, the honest buyer, the trusting assigner, and the seasoned
+exchanger cast as the personas The Owner, The Buyer, The Allocator, and The Trader. That takes the house to one hundred and
+fifty-two, and returns the slate to The Disposition Effect at the top of the unstruck P2 line.
