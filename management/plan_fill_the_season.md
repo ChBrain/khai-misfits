@@ -1556,14 +1556,23 @@ information-avoidance vector staged. The three below survive the check and are s
       hazard the same paper named, no villain since the provider is no cheat and usually believes the extra warranted, held
       to a real but debated-magnitude effect with the salary remedy trading too-much care for too-little, with personas The
       Provider, The Patient, The Payer, and The Reformer
-- [ ] [P2] The Streisand Effect (the 2003 coinage; Jansen & Martin, "The Streisand Effect and Censorship Backfire",
+- [x] [P2] The Streisand Effect (the 2003 coinage; Jansen & Martin, "The Streisand Effect and Censorship Backfire",
       _International Journal of Communication_, 2015): an attempt to suppress or remove a piece of information draws far more
       attention to it than leaving it alone would, because the act of suppression is itself newsworthy, signals that the
       information matters, and provokes defiance and copying, so each rational move to hide a thing spreads it wider, distinct
       from The Balloon Effect's displacement of an activity from one place to another in that nothing is relocated, the same
       information is amplified in place, and from The Availability Cascade's repetition breeding felt-truth in that the driver
       is the suppression attempt itself, not a belief retold; to be cut to the suppression-amplifies-attention vector, hedged
-      to visible suppression before a networked audience and not a law that all suppression backfires
+      to visible suppression before a networked audience and not a law that all suppression backfires; staged as **Loudest
+      When Hushed**, cut to the suppression-advertises vector no staged misfit holds, the move to remove a thing itself
+      visible and signalling here is a thing worth hiding and so worth seeing, provoking reactance in those told they cannot
+      have it and inviting cheap copying that puts it beyond recall, so the suppression draws more attention than silence
+      would, the opposite of the intent, named clear of The Balloon Effect's displacement, The Cobra Effect's incentive
+      gamed, and Fixes that Fail's delayed rebound, with the coinage homed to Masnick's naming of the 2003 Streisand case,
+      the censorship-backfire analysis to Jansen and Martin, the general backfire model to Brian Martin, and the reactance to
+      Brehm, no villain since the suppressor protects a real interest and the crowd reacts to overreach and does not conspire,
+      held to a backfire conditioned on visible suppression seen as heavy-handed before a networked audience able to copy and
+      resist so quiet removal need not backfire, with personas The Suppressor, The Onlooker, The Copier, and The Adviser
 - [ ] [P2] The Ostrich Effect (Galai & Sade, 2006; Karlsson, Loewenstein & Seppi, "The Ostrich Effect: Selective Attention
       to Information", _Journal of Risk and Uncertainty_, 2009): an agent avoids information whose news is likely to be bad,
       to spare itself the pain of learning it, as investors check their portfolios far less when markets fall, so a problem
@@ -1610,3 +1619,29 @@ named and the house stages separately, with the expert who both advises and sell
 foots the bill, and the reformer who would change how care is paid cast as the personas The Provider, The Patient, The
 Payer, and The Reformer. That takes the house to one hundred and sixty, and returns the slate to The Streisand Effect at the
 top of the unstruck P2 line.
+
+The house strikes The Streisand Effect, staged as **Loudest When Hushed**. The trap is that the very act meant to hide a
+thing is the surest sign it is worth seeing. Someone with a real interest to protect, a privacy, a reputation, a secret,
+moves to take a thing down, by a takedown or a suit or a ban, and the move is the sensible one, since removing a thing
+should leave fewer to see it. But the removal is itself an act, and a visible one: a suit is on the record, a takedown
+leaves a hole, a ban is announced, and each says plainly here is a thing someone did not want seen, which is the surest sign
+it is worth seeing (Jansen and Martin). Those told they cannot have a thing want it the more for being told, the freedom
+reasserted by the very looking (Brehm), and on a medium where copying costs nothing the wanting spawns mirrors and reposts
+that put the thing beyond any recall. So the suppression amplifies the one thing, in the place it already was, far past what
+silence would have done, the name Mike Masnick's for what befell Barbra Streisand's 2003 suit to remove an aerial photograph
+of her home, seen a handful of times before the suit and hundreds of thousands after (the coinage). It is authored by no
+one: the suppressor protects something real and does the locally sensible thing, the crowd is not a mob but people reacting
+to overreach or drawn to fresh news, and the amplified reach is the visibility of the suppression's doing and not a fraud or
+a comeuppance (Brian Martin). It is cut to the suppression-advertises vector no staged misfit holds, and it is named clear
+of The Balloon Effect (an activity displaced elsewhere with the total conserved, whereas here nothing moves and the same
+thing is amplified in place), The Cobra Effect (a reward farmed that breeds more of the thing, whereas here no incentive is
+gamed and what grows is attention to the one thing), and Fixes that Fail (a delayed rebound through symptom relief, whereas
+here the backfire is immediate and direct, the act of hiding itself the advertisement). And the whole is held against its
+own limit: the backfire is real and documented but not automatic, needing the suppression to be visible, to read as
+heavy-handed or unjust, and to meet a networked audience able and willing to copy and resist, so quiet, lawful, unremarked,
+or widely-accepted removal need not backfire at all, and much is taken down every day and stays down (Jansen and Martin).
+The coinage is homed to Masnick and the 2003 Streisand case, the censorship-backfire analysis to Jansen and Martin, the
+general backfire model to Brian Martin, and the reactance beneath the defiance to Brehm, with the one who moves to hide, the
+onlooker the ban makes curious, the many hands that copy at no cost, and the adviser who counsels the costly silence cast as
+the personas The Suppressor, The Onlooker, The Copier, and The Adviser. That takes the house to one hundred and sixty-one,
+and returns the slate to The Ostrich Effect at the top of the unstruck P2 line.
