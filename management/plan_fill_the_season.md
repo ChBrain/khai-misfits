@@ -1892,14 +1892,26 @@ the check and are slated, worked from the top.
       inconsistency to Strotz, no villain since the reversal is the shape of the discount curve and not a failure of will,
       held to a contested tendency of debated functional form where not all impatience is a bias (Andreoni and Sprenger),
       the successive selves cast as the personas The Planner, The Present Self, The Later Self, and The Steward
-- [ ] [P2] The Liquidity Trap (Keynes, _General Theory_, 1936; Krugman, "It's Baaack: Japan's Slump and the Return of the
+- [x] [P2] The Liquidity Trap (Keynes, _General Theory_, 1936; Krugman, "It's Baaack: Japan's Slump and the Return of the
       Liquidity Trap", _Brookings_, 1998): when the interest rate is at or near zero, money and bonds become near-perfect
       substitutes, so new money the central bank injects is held rather than spent and the usual lever of rate cuts loses
       its grip exactly when the slump most needs it, the demand for liquidity absorbing whatever is supplied, distinct from
       The Paradox of Thrift's fallacy of composition in saving in that the engine is the failure of monetary policy at the
       zero bound and not the self-defeating thrift of many savers, and from Debt-Deflation's rising real debt burden in that
       no falling price level is required; to be cut to the lever-fails-at-the-zero-bound vector, hedged to a contested
-      regime whose remedies (expectations, fiscal action, unconventional policy) are debated and not a permanent state
+      regime whose remedies (expectations, fiscal action, unconventional policy) are debated and not a permanent state;
+      staged as **Pushing on a String**, cut to the lever-fails-at-the-zero-bound vector no staged misfit holds, the rate
+      fallen to its floor near zero where money and bonds are near-perfect substitutes so the injected money is willingly
+      held not spent and the usual lever of rate cuts loses its grip exactly when the slump most needs it, the tool that can
+      pull an overheating economy back unable to push a frozen one forward, named clear of The Paradox of Thrift (a fallacy
+      of composition in saving, whereas here the failure of the monetary lever at the zero bound) and Debt-Deflation (rising
+      real debt from a falling price level, whereas here only a rate at its floor and money held) and a mere failure of
+      nerve (the impotence a property of the tool and the bound, not the banker's will), with the concept and absolute
+      liquidity preference homed to Keynes, the flat-segment formalisation to Hicks, the modern expectations revival to
+      Krugman, and the counter that a determined bank always has other means to Bernanke and the monetarists, no villain
+      since the bank wields the tool correctly and the holders of cash are only sensible, held to a contested regime whose
+      remedies of credible future inflation, fiscal action, and unconventional policy are debated and a determined bank
+      arguably never out of ammunition, with personas The Banker, The Saver, The Ground, and The Reformer
 
 Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct cut:
 the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, close to The Proxy's
@@ -1965,3 +1977,78 @@ dynamic inconsistency to Strotz, with the far-sighted self that makes the plan, 
 later self who pays the bill and re-plans, and the sophisticated self who ties the mast cast as the personas The Planner,
 The Present Self, The Later Self, and The Steward. That takes the house to one hundred and sixty-seven, and returns the
 slate to The Liquidity Trap at the top of the unstruck P2 line.
+
+The house strikes The Liquidity Trap, staged as **Pushing on a String**. The trap is that the one lever the central bank
+always pulls in a slump, the rate cut, has a floor it cannot cross, and at that floor it loses its grip exactly where
+the slump is deepest. An economy falls into a deep downturn, and the bank does the sober and correct thing: it cuts the
+interest rate and injects money to lower the cost of borrowing and draw out spending. But the rate has a floor near
+zero, because no one will hold a bond that pays less than the cash they could hold instead, so once it reaches that
+floor it falls no further (Keynes; the flat segment of Hicks). And there, at the floor, a bond paying nothing and cash
+paying nothing are the same thing, near-perfect substitutes, so the money the bank injects is not passed on into loans
+and spending but willingly held, absorbed into idle balances, all the more so in a slump where hoarding feels safe and
+prices may even be falling, liquidity preference become absolute and the demand for money infinitely elastic (Keynes).
+So the lever goes slack exactly when it is most needed, the tool that can always pull an overheating economy back by
+raising the rate unable to push a frozen one forward by lowering it, pushing on a string. It is authored by no villain:
+the bank is not timid or failing but wielding a tool that has no purchase at the floor, and the people who hold the
+injected cash rather than lend or spend it are only doing the sensible thing when a bond pays no more than cash and the
+future looks cold, so no one's error makes the lever slip. It is cut to the lever-fails-at-the-zero-bound vector no
+staged misfit holds, and it is named clear of The Paradox of Thrift (a fallacy of composition in saving, many prudent
+savers making a shortfall of demand, whereas here the failure is of the monetary lever meant to cure such a shortfall),
+Debt-Deflation (a falling price level lifting the real burden of fixed debt in a self-feeding spiral, whereas here no
+falling price level is required, only a rate at its floor and money held), and a mere failure of nerve (the impotence a
+property of the tool and the bound, the rate that has reached its floor falling no further however boldly the bank
+acts). And the whole is held against its own limit: the trap is a contested regime and not a hard wall or a permanent
+state, its remedies of credible future inflation, fiscal action, and unconventional policy debated in their power, the
+effective floor slightly below zero and not exactly at it, and some holding that a determined central bank is never
+truly out of ammunition since it can create inflation by other means, so the trap is a failure of credibility rather
+than an absolute limit (Bernanke; the monetarists). The concept and absolute liquidity preference are homed to Keynes,
+the flat-segment formalisation to Hicks, the modern revival and the expectations reframing to Krugman, and the counter
+that a determined bank always has tools to Bernanke and the monetarists, with the central bank that wields the lever and
+finds it slack, the holder of cash who hoards it sensibly, the frozen economy that calls for the cure it disarms, and
+the one who reaches by another hand at a real cost cast as the personas The Banker, The Saver, The Ground, and The
+Reformer. That takes the house to one hundred and sixty-eight, and empties the current refill, its last target struck,
+so the slate is refilled below.
+
+- [ ] [P1] The Collingridge Dilemma (Collingridge, _The Social Control of Technology_, 1980): early in a technology's
+      life its course can still be changed but its harms are not yet known, and by the time the harms are known the
+      technology is so entrenched that changing it is very costly, so the power to steer and the knowledge of where to
+      steer are never available at the same time, distinct from Path Dependence and Lock-In's compounding switching
+      costs around an arbitrary early standard in that the engine is the inverse timing of knowledge and power and not
+      the accretion of switching costs, from Chesterton's Fence's removal of a safeguard whose purpose is merely
+      forgotten in that here the harms are genuinely unknowable early and not lost to memory, and from The Horizon
+      Problem's plan blind past its instrument's edge in that here the knowledge does arrive but too late to act on
+      cheaply; to be cut to the control-and-knowledge-never-coincide vector, hedged to a tendency and not a law, since
+      some harms are foreseeable and some entrenchments still reversible
+- [ ] [P2] Duverger's Law (Duverger, _Political Parties_, 1951; Riker, "The Two-Party System and Duverger's Law",
+      _APSR_, 1982): under a plurality, winner-take-all electoral rule a vote for a third party is likely wasted, so
+      each voter strategically deserts it for one of the two viable contenders, and this individually rational desertion
+      sums to a self-reinforcing two-party lock that narrows the choices everyone then faces, distinct from The Crowded
+      Middle's two candidates each edging to the centre in that the engine here is the voter's strategic desertion under
+      an electoral rule and not the candidates' spatial convergence, and from The Beauty Contest's pricing of opinion
+      about opinion in that here the coordination is on viability under a counting rule and not on others' valuations;
+      to be cut to the wasted-vote-locks-the-field vector, hedged to a tendency strong under single-member plurality and
+      weak under proportional rules, and contested at the district-versus-national level (Duverger's own caveats; Riker)
+- [ ] [P2] The Paradox of Unanimity (Gunn, Chapeau-Blondeau, McDonnell, Davis, Allison & Abbott, "Too good to be true:
+      when overwhelming evidence fails to convince", _Proc. Royal Society A_, 2016; the ancient rule that a unanimous
+      capital verdict acquits, Talmudic Sanhedrin): when independent honest judgments should scatter, their perfect
+      agreement is more likely a sign of a shared systematic error, a biased line-up, a broken instrument, an unseen
+      common cause, than of the truth, so the very consensus that should reassure should instead alarm, distinct from
+      Information Cascade's rational copying that discards a private signal in that here the judgments are independent
+      and each honestly its own, from Closing Ranks' loyal or self-silencing convergence in that here there is no
+      coordination at all, only a shared unseen bias, and from The File Drawer's suppressed nulls in that here the
+      agreement itself is the tell; to be cut to the agreement-too-perfect-to-be-honest vector, hedged so the alarm is a
+      Bayesian weight on hidden correlation and not a rule that unanimity is ever proof of error, since genuine strong
+      evidence can be near-unanimous
+
+Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct
+cut: the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, close to The Proxy's
+self-confirming discount) and the Spiral of Silence (fear of isolation silencing a perceived minority, whose durable
+society-scale sibling preference falsification is now staged as Safe to Say, its own distinct sliver, a silence that
+never hardens into an active professed lie, still too thin to stage until cut to that alone). Still held on a
+duplication: the soft budget constraint (Someone Will Catch Me crossed with Moral Hazard), the attention economy (The
+Arms Race crossed with The Commons), and engagement or outrage optimisation (The Letter of the Law and Metric Fixation
+in the feed). Carried forward, still held pending a distinct cut: the Lucas Critique (a policy-exploited correlation
+that breaks when acted on, close to Metric Fixation's measure that stops measuring). Dropped from consideration as
+already staged: the Ratchet Effect (Sandbag), Simpson's Paradox (The Bigger Picture), and the Curse of Knowledge (Second
+Nature), each caught by the concordance in REFERENCES.md. The three slated above are the pass's refill, worked from the
+top, and the slate opens at The Collingridge Dilemma.
