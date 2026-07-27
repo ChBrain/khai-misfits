@@ -1438,14 +1438,23 @@ records the rest.
       throughout, held to a tilt that bites where the funding is advertising and interests diverge and softens where they
       coincide or the reader or public becomes the payer, with personas The Outlet, The Advertiser, The Audience, and The
       Patron
-- [ ] [P2] False News by Novelty (Vosoughi, Roy & Aral, "The spread of true and false news online", _Science_ 2018): false
+- [x] [P2] False News by Novelty (Vosoughi, Roy & Aral, "The spread of true and false news online", _Science_ 2018): false
       news diffuses farther, faster, and deeper than true because novelty drives sharing and false stories are more novel, so
       each rational share of the surprising amplifies falsehood over truth with no one intending to deceive, and automated
       accounts spread both alike so the tilt is the human preference for the novel, distinct from The Availability Cascade's
       repetition that makes a belief feel true in that here it is the novelty of the first telling that drives reach, from
       Information Cascade's herding on others' observed choices in that no private signal is discarded, and from Sick Enough
       to Spread's biological virulence in that the selection is on informational novelty; to be cut to the
-      novelty-selection-amplifies-falsehood vector
+      novelty-selection-amplifies-falsehood vector; staged as **Stranger Than True**, cut to the
+      novelty-selection-amplifies-falsehood vector no staged misfit holds, people sharing what they find novel and surprising
+      and false stories, unbound by what is true, being on average more novel than true ones, so each rational share of the
+      surprising carries the false farther, faster, and deeper than the true, named clear of The Availability Cascade,
+      Information Cascade, Sick Enough to Spread, and The Filter Bubble, with the differential spread, the novelty measure,
+      the emotion profile, and the bot control homed to Vosoughi, Roy, and Aral, the sharing motive to Berger and Milkman,
+      and the lie-outruns-truth image and the bullshit asymmetry to the folk saying and Brandolini, no villain since the
+      sharer is no liar and bots spread both alike, held to a tendency strongest in political news and driven by novelty as
+      the authors' best-supported explanation, false more likely to spread and not all falsehood spreading, with personas The
+      Sharer, The Tale, The Plodder, and The Checker
 
 Triage of the media pass, against the descriptions, and carrying forward the held from before. Held off as transmission and
 not a trap, the boundary the pass confirmed: agenda-setting (McCombs & Shaw), cultivation (Gerbner), two-step flow (Katz &
@@ -1496,3 +1505,70 @@ Chomsky, credited narrowly to its structural claim and never the press-conspirac
 advertising-funded medium, the paying advertiser, the reader who is sold, and the reader or public funder who would realign
 the customer cast as the personas The Outlet, The Advertiser, The Audience, and The Patron. That takes the house to one
 hundred and fifty-eight, and returns the slate to False News by Novelty at the top of the unstruck P2 line.
+
+The house strikes False News by Novelty, staged as **Stranger Than True**. The trap is that the truth loses the race for
+being true. Following some one hundred and twenty-six thousand news stories across a social network over eleven years, each
+rated true or false by independent fact-checkers, Vosoughi, Roy, and Aral found that falsehood diffused significantly
+farther, faster, deeper, and more broadly than the truth, most sharply in political news, and that the cause was not bots,
+which spread true and false alike, but novelty: people share what is novel and surprising, and a false story, unbound by
+what actually happened, can be made or happen to be more surprising than any true one, so it wins the share the truth
+cannot (Vosoughi, Roy, and Aral). It is authored by no deceiver: the sharer passes on what struck them, as anyone does and
+often believing it, the crowd is no fool since the false wins for being novel and not because people cannot tell true from
+false, and the false story need be no schemer's weapon, an honest rumour or an innocent error being novel too, so the loss
+is the false reaching farther than the true for being stranger, and the correction, when it comes, comes late, because
+refuting a surprising falsehood costs far more than telling it (Berger and Milkman; Brandolini). It is cut to the
+novelty-selection-amplifies-falsehood vector no staged misfit holds, and it is named clear of The Availability Cascade (a
+belief made to feel true by repetition, whereas here it is the novelty of the first telling that drives reach), Information
+Cascade (herding on others' observed choices with one's own signal discarded, whereas here each shares what is novel to them
+and no signal is discarded), Sick Enough to Spread (a transmissible agent's harm level tuned by selection for transmission,
+whereas here there is no evolving agent and falsehood wins the novelty filter incidentally for being unbound by truth), and
+The Filter Bubble (a recommender narrowing one reader's feed, whereas here the tilt is in what spreads across the network by
+its novelty). And the whole is held against its own limit: the tilt is a tendency and not a law, strongest in political news
+and weaker elsewhere, novelty the authors' best-supported explanation of a robustly measured differential rather than a
+settled causal certainty, the false more likely to spread and not all of it spreading, and people shown to prefer the novel
+and not the false. The differential spread, the novelty measure, the emotion profile, and the bot control are homed to
+Vosoughi, Roy, and Aral, the account of why the surprising is shared to Berger and Milkman, and the lie-outruns-truth image
+and the bullshit asymmetry to the folk saying and Brandolini, with the sharer who passes on the surprising, the false tale
+that wins for being stranger than true, the true story still lacing its boots, and the fact-checker whose correction arrives
+late cast as the personas The Sharer, The Tale, The Plodder, and The Checker. That takes the house to one hundred and
+fifty-nine.
+
+With Stranger Than True staged, the media pass is spent: The Audience Commodity and False News by Novelty, its two slated
+survivors, are both struck, and the P2 well is dry again. It is refilled below by a fresh research-input pass across health
+economics, the information ecosystem, and behavioural finance, each candidate run through registry.json by canonical name
+and against every misfit's description, the descriptions scan finding no supplier-induced-demand, suppression-backfire, or
+information-avoidance vector staged. The three below survive the check and are slated, worked from the top.
+
+- [ ] [P1] Supplier-Induced Demand (Evans, "Supplier-induced demand: some empirical evidence and implications", 1974;
+      Roemer's law, "a built bed is a filled bed"; McGuire's survey): a provider paid per service and knowing far more than
+      the patient recommends more care than an informed patient would choose, so demand is set by the supplier who profits
+      from meeting it rather than by the patient who bears it, and care is over-supplied at rising cost, distinct from Moral
+      Hazard's insured party taking less care because it no longer bears the loss in that here the provider, not the insured,
+      drives the quantity, through an information advantage and a fee-for-service incentive, and from Rent-Seeking's spending
+      to capture a transfer in that real services are rendered, only more of them than needed; to be cut to the
+      provider-induces-the-demand-it-profits-from vector, the costly remedy capitation or salary each risking under-treatment
+- [ ] [P2] The Streisand Effect (the 2003 coinage; Jansen & Martin, "The Streisand Effect and Censorship Backfire",
+      _International Journal of Communication_, 2015): an attempt to suppress or remove a piece of information draws far more
+      attention to it than leaving it alone would, because the act of suppression is itself newsworthy, signals that the
+      information matters, and provokes defiance and copying, so each rational move to hide a thing spreads it wider, distinct
+      from The Balloon Effect's displacement of an activity from one place to another in that nothing is relocated, the same
+      information is amplified in place, and from The Availability Cascade's repetition breeding felt-truth in that the driver
+      is the suppression attempt itself, not a belief retold; to be cut to the suppression-amplifies-attention vector, hedged
+      to visible suppression before a networked audience and not a law that all suppression backfires
+- [ ] [P2] The Ostrich Effect (Galai & Sade, 2006; Karlsson, Loewenstein & Seppi, "The Ostrich Effect: Selective Attention
+      to Information", _Journal of Risk and Uncertainty_, 2009): an agent avoids information whose news is likely to be bad,
+      to spare itself the pain of learning it, as investors check their portfolios far less when markets fall, so a problem
+      it could act on goes unmonitored and unaddressed while avoidable, distinct from Cheaper Not to Know's rational
+      ignorance where acquiring the information would not pay in that here the information is free and to hand and is avoided
+      for the pain it brings, and from Once Bitten's avoidance of an option that burned it in that what is avoided is
+      information about one's own state, not a shunned choice; to be cut to the avoiding-bad-news-about-oneself vector, hedged
+      to a documented tendency of varying scope
+
+Triage of this pass, against the descriptions, and carrying forward the held from before. Held on a duplication yet to be
+cleared: the attention economy or attention scarcity (Simon, 1971), whose competition for a finite pool of attention reads
+as The Arms Race crossed with The Commons until a congestion-of-a-shared-channel cut clears both; and engagement or outrage
+optimisation, whose recommender maximising a proxy reads as The Letter of the Law and Metric Fixation in the feed until a
+distinct sliver appears. Carried forward from the prior passes, still held pending a distinct cut: the Dunning-Kruger
+effect, the Lucas Critique, the Pygmalion and Golem effects, the Liquidity Trap, present bias and hyperbolic discounting,
+the soft budget constraint, and the political resource curse. The three slated above are the pass's refill, worked from the
+top, and the slate returns to Supplier-Induced Demand at the top of the fresh P1 line.
