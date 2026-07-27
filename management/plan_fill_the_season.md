@@ -1573,14 +1573,24 @@ information-avoidance vector staged. The three below survive the check and are s
       Brehm, no villain since the suppressor protects a real interest and the crowd reacts to overreach and does not conspire,
       held to a backfire conditioned on visible suppression seen as heavy-handed before a networked audience able to copy and
       resist so quiet removal need not backfire, with personas The Suppressor, The Onlooker, The Copier, and The Adviser
-- [ ] [P2] The Ostrich Effect (Galai & Sade, 2006; Karlsson, Loewenstein & Seppi, "The Ostrich Effect: Selective Attention
+- [x] [P2] The Ostrich Effect (Galai & Sade, 2006; Karlsson, Loewenstein & Seppi, "The Ostrich Effect: Selective Attention
       to Information", _Journal of Risk and Uncertainty_, 2009): an agent avoids information whose news is likely to be bad,
       to spare itself the pain of learning it, as investors check their portfolios far less when markets fall, so a problem
       it could act on goes unmonitored and unaddressed while avoidable, distinct from Cheaper Not to Know's rational
       ignorance where acquiring the information would not pay in that here the information is free and to hand and is avoided
       for the pain it brings, and from Once Bitten's avoidance of an option that burned it in that what is avoided is
       information about one's own state, not a shunned choice; to be cut to the avoiding-bad-news-about-oneself vector, hedged
-      to a documented tendency of varying scope
+      to a documented tendency of varying scope; staged as **Don't Look**, cut to the avoiding-bad-news-about-oneself vector
+      no staged misfit holds, the information free and to hand but the news likely bad, so the agent looks away to spare the
+      pain of knowing and watches least exactly when the news matters most, a still-addressable problem left to grow
+      unwatched and the news arriving in the end larger for the delay, named clear of Cheaper Not to Know (the pain of the
+      news, not the cost of acquiring it), Plausible Deniability (ignorance facing inward to spare oneself, not outward at a
+      judge), and Once Bitten (avoided information about one's own state, not a shunned option), with the coinage homed to
+      Galai and Sade, the selective-attention evidence to Karlsson, Loewenstein and Seppi, the information-avoidance frame to
+      Golman, Hagmann and Loewenstein, and the psychology of when the eye turns away to Sweeny and colleagues, no villain
+      since the avoider is neither lazy nor a coward but human in flinching from a coming pain, held to a real but debated and
+      not universal tendency, some watching more under stress (the meerkat to the ostrich) and not all not-looking a flinch,
+      with personas The Ostrich, The Bearer, The Trouble, and The Steward
 
 Triage of this pass, against the descriptions, and carrying forward the held from before. Held on a duplication yet to be
 cleared: the attention economy or attention scarcity (Simon, 1971), whose competition for a finite pool of attention reads
@@ -1645,3 +1655,31 @@ general backfire model to Brian Martin, and the reactance beneath the defiance t
 onlooker the ban makes curious, the many hands that copy at no cost, and the adviser who counsels the costly silence cast as
 the personas The Suppressor, The Onlooker, The Copier, and The Adviser. That takes the house to one hundred and sixty-one,
 and returns the slate to The Ostrich Effect at the top of the unstruck P2 line.
+
+The house strikes The Ostrich Effect, staged as **Don't Look**. The trap is that you can learn your own situation for
+nothing, and precisely because the news is likely bad, you do not. The statement is in the inbox, the login a tap away, the
+result ready at the desk, and looking would cost almost nothing; but you have a fair idea the news is bad, and learning bad
+news hurts, so you leave the envelope sealed. Dan Galai and Orly Sade named it the ostrich effect, first in investors who
+would rather not receive word of their losses; Niklas Karlsson, George Loewenstein and Duane Seppi showed it plainly, that
+people check their portfolios far less often when markets fall than when they rise, so the looking tracks not how much the
+news matters but how much it is expected to hurt (Karlsson, Loewenstein and Seppi). The flinch is rational in its own coin:
+it buys a real and present comfort, the pain deferred, at no cost felt now, since free information is not free to receive
+when what it carries is a bad feeling, a pressure to act, a thing that once known cannot be unknown (Golman, Hagmann and
+Loewenstein; Sweeny and colleagues). But what is deferred is only the knowing, not the news, and the thing the news is about
+does not wait: while the eye is averted the problem goes unwatched and grows, still small enough to fix the whole time, and
+the attention is lowest exactly when it would matter most, so the news comes due in the end regardless and larger for the
+delay. It is authored by no one: the avoider is neither lazy nor a coward, only human in turning from a coming blow, and the
+loss is the unwatched problem's growth and not anyone's fault. It is cut to the avoiding-bad-news-about-oneself vector no
+staged misfit holds, and it is named clear of Cheaper Not to Know (the information there dear to acquire and not worth its
+cost, whereas here it is free and to hand and avoided only for the pain of the news), Plausible Deniability (the ignorance
+there strategic and facing outward, a shield against a judge, whereas here it faces inward, no audience and no blame,
+sparing only the avoider's own feelings), and Once Bitten (a shunned option or action that once burned, whereas here what is
+avoided is information about one's own state). And the whole is held against its own limit: the tendency is real and
+documented but of varying and debated magnitude and not universal, since some watch their own situation more closely under
+stress and not less, the meerkat to the ostrich, and not all not-looking is a flinch, some being the sound rational
+ignorance the house stages separately. The coinage is homed to Galai and Sade, the selective-attention evidence to Karlsson,
+Loewenstein and Seppi, the information-avoidance frame to Golman, Hagmann and Loewenstein, and the psychology of when the
+eye turns away to Sweeny and colleagues, with the one who looks away, the news that waits and comes due, the problem that
+grows in the dark, and the one who arranges the forced look cast as the personas The Ostrich, The Bearer, The Trouble, and
+The Steward. That takes the house to one hundred and sixty-two, and empties the current refill, both P2 targets struck, so
+the slate stands dry and the next pass calls for a fresh refill worked against the descriptions before any warrant is drawn.
