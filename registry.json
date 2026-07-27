@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.167.0",
+  "version": "0.168.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -380,6 +380,12 @@
       "id": "priced_in",
       "title": "Priced In",
       "description": "Everyone reads the answer off the price, so no one pays to find it out, and the price stops holding the answer."
+    },
+    {
+      "kind": "misfit",
+      "id": "pushing_on_a_string",
+      "title": "Pushing on a String",
+      "description": "In a deep slump the rate hits its floor, and the money the bank injects is hoarded, so its usual lever has no grip."
     },
     {
       "kind": "misfit",
