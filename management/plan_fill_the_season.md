@@ -1872,7 +1872,7 @@ the check and are slated, worked from the top.
       and Allport, and the false enforcement to Willer, Kuwabara and Macy, no villain since each spares itself a real cost
       and no one means to prop up the order, held to a tendency whose tipping is genuinely unpredictable and where not every
       conformity is a lie, with personas The Concealer, The Enforcer, The First Voice, and The Reformer
-- [ ] [P2] Present Bias and Hyperbolic Discounting (Ainslie, 1975; Laibson, "Golden Eggs and Hyperbolic Discounting",
+- [x] [P2] Present Bias and Hyperbolic Discounting (Ainslie, 1975; Laibson, "Golden Eggs and Hyperbolic Discounting",
       _QJE_, 1997; O'Donoghue & Rabin, "Doing It Now or Later", _AER_, 1999): a person discounts the near future far more
       steeply than the far, so the ranking of a smaller-sooner against a larger-later reward reverses as the sooner one
       draws near, and they plan in the calm to save or study or quit and then, when the moment comes, choose the immediate
@@ -1880,7 +1880,18 @@ the check and are slated, worked from the top.
       strategic promise to others whose credibility fails in that here the reversal is intrapersonal, a self overriding its
       own past resolve and not a pledge to a counterparty; to be cut to the preferences-reverse-as-it-nears vector, hedged
       to a documented tendency of debated functional form, sophisticated and naive discounters differing and commitment
-      devices only partly working
+      devices only partly working; staged as **Starting Tomorrow**, cut to the preferences-reverse-as-it-nears vector no
+      staged misfit holds, the near future discounted far more steeply than the far so a reward's value spikes as it nears
+      and the ranking of a smaller-sooner against a larger-later reward reverses, the plan made in the calm broken in the
+      moment and the resolution renewed for tomorrow, again and again, a present self overriding its own earlier plan, named
+      clear of Time Inconsistency (both from Strotz's dynamic inconsistency, but there a strategic promise to others whose
+      credibility fails, whereas here an intrapersonal reversal of one's own plan), Seed Corn (deliberate metric-driven
+      short-termism, whereas here the plan broken not on purpose but by the curve), and mere impatience (the misfit the
+      reversal, not preferring the sooner), with the behavioural theory homed to Ainslie, the quasi-hyperbolic model and the
+      golden-egg commitment to Laibson, the sophisticated-and-naive distinction to O'Donoghue and Rabin, and the dynamic
+      inconsistency to Strotz, no villain since the reversal is the shape of the discount curve and not a failure of will,
+      held to a contested tendency of debated functional form where not all impatience is a bias (Andreoni and Sprenger),
+      the successive selves cast as the personas The Planner, The Present Self, The Later Self, and The Steward
 - [ ] [P2] The Liquidity Trap (Keynes, _General Theory_, 1936; Krugman, "It's Baaack: Japan's Slump and the Return of the
       Liquidity Trap", _Brookings_, 1998): when the interest rate is at or near zero, money and bonds become near-perfect
       substitutes, so new money the central bank injects is held rather than spent and the usual lever of rate cuts loses
@@ -1928,3 +1939,29 @@ the lie, the enforcer who is often a doubter in disguise, the first voice whose 
 reformer who lowers the cost of honesty cast as the personas The Concealer, The Enforcer, The First Voice, and The Reformer.
 That takes the house to one hundred and sixty-six, and returns the slate to Present Bias and Hyperbolic Discounting at the
 top of the unstruck P2 line.
+
+The house strikes Present Bias and Hyperbolic Discounting, staged as **Starting Tomorrow**. The trap is that you plan in the
+calm and the nearer the reward comes the larger it looms, so your own ranking reverses and the plan breaks. A person faces,
+again and again, a smaller reward now against a larger reward later, and from a distance, both far off, the larger-later
+plainly wins, so they resolve to save or study or quit and they mean it. But people discount the near future far more
+steeply than the far, so a reward's value does not fall smoothly with its distance but spikes as it comes within reach, and
+George Ainslie set down what follows: as the smaller-sooner reward nears, its recovered value overtakes the larger-later,
+and the person's own ranking reverses (Ainslie). So the plan made in the calm is broken in the moment, not by a reasoned
+change of mind but by the mere approach of the near reward, and the person takes the sooner and resolves again to start
+tomorrow, a present self forever overriding the plan its earlier self made and handing the later self the bill (Laibson;
+O'Donoghue and Rabin). It is authored by no villain: the reversal is a feature of how humans discount and not a failure of
+character, so a person of ordinary resolve breaks the plan not from weakness but from the shape of the curve. It is cut to
+the preferences-reverse-as-it-nears vector no staged misfit holds, and it is named clear of Time Inconsistency (both descend
+from the dynamic inconsistency Strotz first formalised, but there a strategic promise to others or a policy whose
+credibility fails, whereas here an intrapersonal reversal of one's own plan, no counterparty), Seed Corn (the present
+favoured over the future deliberately under a metric, whereas here the person means to favour the future and is reversed
+against their own intent by the curve), and a mere preference for the present (not all impatience a bias, the misfit the
+reversal and not the preferring of the sooner). And the whole is held against its own limit: the functional form is debated,
+whether truly hyperbolic or quasi-hyperbolic or something else, careful elicitation has raised doubts about the size and
+even the presence of present bias, and how much of measured impatience is a discounting anomaly rather than uncertainty or
+the value of a reward in hand is contested (Andreoni and Sprenger). The behavioural theory is homed to Ainslie, the economic
+model and the golden-egg commitment to Laibson, the sophisticated-and-naive distinction to O'Donoghue and Rabin, and the
+dynamic inconsistency to Strotz, with the far-sighted self that makes the plan, the present self reversed on the clock, the
+later self who pays the bill and re-plans, and the sophisticated self who ties the mast cast as the personas The Planner,
+The Present Self, The Later Self, and The Steward. That takes the house to one hundred and sixty-seven, and returns the
+slate to The Liquidity Trap at the top of the unstruck P2 line.
