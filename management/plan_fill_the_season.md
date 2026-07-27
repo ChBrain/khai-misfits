@@ -1715,14 +1715,24 @@ are slated, worked from the top.
       contested and institution-conditional tendency escaped by strong prior institutions (Mehlum, Moene and Torvik) and
       disputed in the cross-national record (Haber and Menaldo), with personas The Sovereign, The Citizen, The Well, and The
       Steward
-- [ ] [P2] The Dunning-Kruger Effect (Kruger & Dunning, "Unskilled and Unaware of It", _Journal of Personality and Social
+- [x] [P2] The Dunning-Kruger Effect (Kruger & Dunning, "Unskilled and Unaware of It", _Journal of Personality and Social
       Psychology_, 1999): the skills that let one do a thing well are the same that let one judge one is doing it badly, so
       the least competent lack the very metacognition that would reveal their incompetence and overrate themselves the most,
       the error self-masking because the deficit hides itself, distinct from I Know How It Works's illusion of explanatory
       depth (a shallow grasp of a mechanism, not a misjudged skill) and Second Nature's curse of knowledge (an expert who
       cannot un-know) in that here the deficit is in the self-assessment of one's own competence; to be cut to the
       incompetence-hides-itself vector, hedged to a real effect whose size and reading are debated, part regression and
-      better-than-average artefact and not all a metacognitive deficit
+      better-than-average artefact and not all a metacognitive deficit; staged as **The Skill to See It**, cut to the
+      incompetence-hides-itself vector no staged misfit holds, the skill to judge a task the same as the skill to do it so
+      the least able rate themselves near the top (surest exactly where weakest) and the most able underrate themselves by a
+      false consensus that the task is easy for all, the overconfidence blindness and not conceit, and only gaining the
+      skill lifts the self-insight with it since no telling lands where the faculty is missing, named clear of I Know How It
+      Works (the illusion of grasping a mechanism, punctured on tracing and afflicting everyone) and Second Nature (the
+      expert's curse of knowledge about others' minds) and any vanity reading, with the coinage homed to Kruger and Dunning,
+      the replication to Ehrlinger and colleagues, the mature double-curse account to Dunning, and the artefact counter-
+      reading to Krueger and Mueller and to Gignac and Zajenkowski, no villain since the confident novice judges honestly
+      with a broken ruler, held to a heavily contested effect much of whose pattern is regression to the mean and the
+      better-than-average tendency, with personas The Novice, The Expert, The Task, and The Teacher
 - [ ] [P2] Adaptive Preferences (Elster, _Sour Grapes_, 1983; the capability critique of Sen and Nussbaum): people
       unconsciously trim their wants to what they can attain, coming not to want the out-of-reach, so their contentment
       masks a narrowed life and revealed preference misreads the constrained as satisfied, each adjustment a rational way to
@@ -1773,3 +1783,29 @@ the evidence and its channels to Ross, with the rent-funded state, the untaxed a
 flow severs the link, and the steward who would build the checks before the windfall cast as the personas The Sovereign,
 The Citizen, The Well, and The Steward. That takes the house to one hundred and sixty-three, and returns the slate to The
 Dunning-Kruger Effect at the top of the unstruck P2 line.
+
+The house strikes The Dunning-Kruger Effect, staged as **The Skill to See It**. The trap is that you judge your skill with
+your skill, so you are surest exactly where you are weakest. A person does a thing and then rates how well they did it, and
+the rating hides a snare, because to tell a good answer from a bad one draws on the very knowledge that makes a good answer,
+so the skill to do and the skill to judge the doing are one skill. A person short of it is short of both halves: they do the
+thing poorly and cannot tell that they did, since the faculty that would tell them is the one they lack, and the deficit
+hides itself. So the least able rate themselves near the top, the confidence highest exactly where the skill is lowest,
+while the most able, finding the task easy, mark themselves down by a false consensus that it is easy for all (Kruger and
+Dunning; Ehrlinger and colleagues; Dunning). It is authored by no vanity: the confident novice is blind and not conceited,
+judging in good faith with a broken ruler, and would have to grow more skilled merely to grow more doubtful, so no telling
+lands where the faculty is missing and only gaining the skill lifts the self-insight with it. It is cut to the
+incompetence-hides-itself vector no staged misfit holds, and it is named clear of I Know How It Works (the illusion of
+grasping a mechanism, punctured the moment one traces it and afflicting expert and novice alike, whereas here the deficit is
+in the self-assessment of one's own skill, self-masking, and worst for the least skilled), Second Nature (the expert's curse
+of knowledge, a misjudging of other minds and a failure to communicate, whereas here the novice misjudges their own
+competence), and any reading as vanity or arrogance (the overconfidence is blindness and not conceit). And the whole is held
+against its own limit: the effect is famous and heavily contested, much of its classic pattern reproducible by regression to
+the mean together with the ordinary better-than-average tendency, even from data with no skill difference behind it, so its
+size and even its standing as a distinct metacognitive deficit are genuinely disputed (Krueger and Mueller; Gignac and
+Zajenkowski), the regression the critics invoke the same the house stages as The Bounce. The coinage is homed to Kruger and
+Dunning, the replication of the incompetent's absent self-insight to Ehrlinger and colleagues, the mature double-curse
+account to Dunning, and the artefact counter-reading to Krueger and Mueller and to Gignac and Zajenkowski, with the
+confident novice, the doubting expert, the task whose one skill does double duty, and the teacher who mends the ruler only
+by building the skill cast as the personas The Novice, The Expert, The Task, and The Teacher. That takes the house to one
+hundred and sixty-four, and empties the current refill, its last P2 struck, so the slate stands dry and the next pass calls
+for a fresh refill worked against the descriptions before any warrant is drawn.
