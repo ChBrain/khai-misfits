@@ -1733,13 +1733,23 @@ are slated, worked from the top.
       reading to Krueger and Mueller and to Gignac and Zajenkowski, no villain since the confident novice judges honestly
       with a broken ruler, held to a heavily contested effect much of whose pattern is regression to the mean and the
       better-than-average tendency, with personas The Novice, The Expert, The Task, and The Teacher
-- [ ] [P2] Adaptive Preferences (Elster, _Sour Grapes_, 1983; the capability critique of Sen and Nussbaum): people
+- [x] [P2] Adaptive Preferences (Elster, _Sour Grapes_, 1983; the capability critique of Sen and Nussbaum): people
       unconsciously trim their wants to what they can attain, coming not to want the out-of-reach, so their contentment
       masks a narrowed life and revealed preference misreads the constrained as satisfied, each adjustment a rational way to
       make peace with the possible, distinct from The Open Cage's learned helplessness in that there the agent stops trying
       while still wanting, whereas here the wanting itself is quietly revised away; to be cut to the wanting-shrinks-to-fit
       vector, hedged to a real but hard-to-measure adjustment, since adaptation is also a healthy making of peace and not
-      every lowered want is a hidden deprivation
+      every lowered want is a hidden deprivation; staged as **Not Worth Wanting**, cut to the wanting-shrinks-to-fit vector
+      no staged misfit holds, a good walled off and the mind revising the wanting to fit the reaching behind the person's
+      own back so the unattainable comes to seem not worth wanting, the contentment honest and any measure that trusts
+      stated preference reading the narrowed life as chosen, the deprivation certified as wellbeing and left unseen, named
+      clear of The Open Cage (learned helplessness, stops trying while still wanting, whereas here the wanting itself is
+      revised away) and of mere autonomous letting-go (the trap the behind-the-back adaptation onto a valued good, not the
+      clear-eyed relinquishing of a whim), with the coinage homed to Elster, the welfare critique and capability turn to
+      Sen, the capabilities account to Nussbaum, and the bound to Khader, the sour-grapes image Aesop's and public domain,
+      no villain since no one plants the smaller want and the content person is neither lying nor weak, held to a real but
+      hard-to-measure adjustment where not every lowered want is a hidden loss, with personas The Wanter, The Ease, The
+      Surveyor, and The Advocate
 
 Triage of this pass, against the descriptions, and carrying forward the held from before. Newly held on a duplication yet to
 be cleared: the soft budget constraint (Kornai), whose bailout-expectation softening of discipline reads as Someone Will
@@ -1808,3 +1818,73 @@ account to Dunning, and the artefact counter-reading to Krueger and Mueller and 
 confident novice, the doubting expert, the task whose one skill does double duty, and the teacher who mends the ruler only
 by building the skill cast as the personas The Novice, The Expert, The Task, and The Teacher. That takes the house to one
 hundred and sixty-four, and returns the slate to Adaptive Preferences at the top of the unstruck P2 line.
+
+The house strikes Adaptive Preferences, staged as **Not Worth Wanting**. The trap is that a good is walled off and the
+wanting for it quietly shrinks to fit, so a deprivation is felt, and reported, as contentment. A person wants a thing, a
+work, a freedom, a life, and finds it out of reach, and the mind does a merciful thing: it revises the wanting to fit the
+reaching, so the unattainable comes to seem not worth wanting after all, the fox that cannot reach the grapes deciding they
+are sour. Jon Elster named it adaptive preference formation and marked what makes it a trap and not a choice: the adjustment
+runs behind the person's own back, a causal easing of the tension between what they want and what they can have, not a
+considered letting-go (Elster). What changed was the wanting and not the wall, so the person reports, in perfect honesty,
+that they are content and did not want the thing anyway, and any measure of a life that trusts what people say they want or
+how satisfied they report reads the narrowed life as chosen and the deprivation as wellbeing, the constraint invisible to
+the very instruments meant to find it (Sen; Nussbaum). It is authored by no villain: no one plants the smaller want, the
+mind eases its own tension unbidden, and the content person is neither lying nor weak but has genuinely come to want less.
+It is cut to the wanting-shrinks-to-fit vector no staged misfit holds, and it is named clear of The Open Cage (learned
+helplessness, where the agent stops trying while still wanting the outcome, whereas here the wanting itself is revised away,
+so the person is content rather than defeated) and of any reading as mere sensible acceptance (the trap the behind-the-back
+adaptation onto a good the person had reason to value, not the clear-eyed and free relinquishing of a whim). And the whole
+is held against its own limit: the adjustment is real but hard to measure and easy to misread, and not every lowered want is
+a hidden deprivation, since much adaptation is a healthy and autonomous making of peace with the possible that a good life
+needs, and to look past a person's own sincere contentment risks a paternalism of its own (Khader). The coinage is homed to
+Elster, the welfare critique and the capability turn to Sen, the capabilities account to Nussbaum, and the careful line
+between deprivation-driven and appropriate adaptation to Khader, the sour-grapes image Aesop's and in the public domain,
+with the one whose wanting shrinks, the mind's own tension-easing, the surveyor who trusts the stated want, and the advocate
+who measures capabilities cast as the personas The Wanter, The Ease, The Surveyor, and The Advocate. That takes the house to
+one hundred and sixty-five, and empties the current refill, its last target struck, so the slate is refilled below.
+
+A fresh research-input pass refills the dry slate, across the political economy of belief, behavioural economics, and
+macroeconomics, each candidate run through registry.json by canonical name and against every misfit's description. The
+descriptions scan finds no preference-falsification, present-bias, or liquidity-trap vector staged: Information Cascade holds
+the herd swallowing its own hint to follow others' visible choices, not the concealment of a true preference under social
+pressure; Time Inconsistency holds the strategic promise best broken tomorrow and the hand tied in advance, not the
+intrapersonal reversal by which a present self overrides its own earlier plan; and The Paradox of Thrift holds the saving
+that shrinks the income it is saved from, not the failure of the monetary lever at the zero bound. The three below survive
+the check and are slated, worked from the top.
+
+- [ ] [P1] Preference Falsification (Kuran, _Private Truths, Public Lies: The Social Consequences of Preference
+      Falsification_, 1995): under social pressure each person misrepresents their private preference in public, so the
+      public record diverges from the hidden truth and each concealer, seeing only the falsified consensus, believes their
+      view more isolated than it is and conceals the harder, so an unpopular order is sustained by the very people who
+      privately reject it, and a small shock can tip the concealment into a sudden cascade no one foresaw, distinct from
+      Information Cascade's herding on others' visible choices in that here the true preference is actively hidden and the
+      public signal is a lie and not an inference, and from The Availability Cascade's salience-driven belief in that the
+      driver is social fear and not vividness; to be cut to the hidden-true-preference vector, hedged to a tendency whose
+      tipping is genuinely unpredictable and not every public conformity a falsification
+- [ ] [P2] Present Bias and Hyperbolic Discounting (Ainslie, 1975; Laibson, "Golden Eggs and Hyperbolic Discounting",
+      _QJE_, 1997; O'Donoghue & Rabin, "Doing It Now or Later", _AER_, 1999): a person discounts the near future far more
+      steeply than the far, so the ranking of a smaller-sooner against a larger-later reward reverses as the sooner one
+      draws near, and they plan in the calm to save or study or quit and then, when the moment comes, choose the immediate
+      reward again, a standing conflict between the present self and its own earlier plan, distinct from Time Inconsistency's
+      strategic promise to others whose credibility fails in that here the reversal is intrapersonal, a self overriding its
+      own past resolve and not a pledge to a counterparty; to be cut to the preferences-reverse-as-it-nears vector, hedged
+      to a documented tendency of debated functional form, sophisticated and naive discounters differing and commitment
+      devices only partly working
+- [ ] [P2] The Liquidity Trap (Keynes, _General Theory_, 1936; Krugman, "It's Baaack: Japan's Slump and the Return of the
+      Liquidity Trap", _Brookings_, 1998): when the interest rate is at or near zero, money and bonds become near-perfect
+      substitutes, so new money the central bank injects is held rather than spent and the usual lever of rate cuts loses
+      its grip exactly when the slump most needs it, the demand for liquidity absorbing whatever is supplied, distinct from
+      The Paradox of Thrift's fallacy of composition in saving in that the engine is the failure of monetary policy at the
+      zero bound and not the self-defeating thrift of many savers, and from Debt-Deflation's rising real debt burden in that
+      no falling price level is required; to be cut to the lever-fails-at-the-zero-bound vector, hedged to a contested
+      regime whose remedies (expectations, fiscal action, unconventional policy) are debated and not a permanent state
+
+Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct cut:
+the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, close to The Proxy's
+self-confirming discount) and the Spiral of Silence (fear of isolation silencing a perceived minority, a near-cousin of the
+preference falsification slated above until a cut separates the silence from the active lie). Still held on a duplication:
+the soft budget constraint (reading as Someone Will Catch Me crossed with Moral Hazard), the attention economy (The Arms
+Race crossed with The Commons), and engagement or outrage optimisation (The Letter of the Law and Metric Fixation in the
+feed). Carried forward, still held pending a distinct cut: the Lucas Critique (a policy-exploited correlation that breaks
+when acted on, close to Metric Fixation's measure that stops measuring). The three slated above are the pass's refill,
+worked from the top, and the slate opens at Preference Falsification.
