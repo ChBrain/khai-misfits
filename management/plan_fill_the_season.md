@@ -1852,7 +1852,7 @@ intrapersonal reversal by which a present self overrides its own earlier plan; a
 that shrinks the income it is saved from, not the failure of the monetary lever at the zero bound. The three below survive
 the check and are slated, worked from the top.
 
-- [ ] [P1] Preference Falsification (Kuran, _Private Truths, Public Lies: The Social Consequences of Preference
+- [x] [P1] Preference Falsification (Kuran, _Private Truths, Public Lies: The Social Consequences of Preference
       Falsification_, 1995): under social pressure each person misrepresents their private preference in public, so the
       public record diverges from the hidden truth and each concealer, seeing only the falsified consensus, believes their
       view more isolated than it is and conceals the harder, so an unpopular order is sustained by the very people who
@@ -1860,7 +1860,18 @@ the check and are slated, worked from the top.
       Information Cascade's herding on others' visible choices in that here the true preference is actively hidden and the
       public signal is a lie and not an inference, and from The Availability Cascade's salience-driven belief in that the
       driver is social fear and not vividness; to be cut to the hidden-true-preference vector, hedged to a tendency whose
-      tipping is genuinely unpredictable and not every public conformity a falsification
+      tipping is genuinely unpredictable and not every public conformity a falsification; staged as **Safe to Say**, cut to
+      the hidden-true-preference vector no staged misfit holds, each professing the safe thing and keeping the true one so
+      the public record diverges from the private truth, every concealer believing itself more isolated than it is and
+      concealing the harder while some enforce the line to prove their sincerity, an order most privately reject upheld by
+      the very people who reject it, and a small shock tipping the hidden distribution into a sudden cascade no one foresaw,
+      named clear of Information Cascade (honest inference from others' visible choices, whereas here the public stance is a
+      deliberate lie driven by social fear), Not Worth Wanting (the private wanting unconsciously revised, whereas here the
+      preference is intact and only its expression falsified), and Closing Ranks (genuine private convergence, whereas here
+      concealed dissent), with the coinage and model and the 1989 surprise homed to Kuran, the pluralistic ignorance to Katz
+      and Allport, and the false enforcement to Willer, Kuwabara and Macy, no villain since each spares itself a real cost
+      and no one means to prop up the order, held to a tendency whose tipping is genuinely unpredictable and where not every
+      conformity is a lie, with personas The Concealer, The Enforcer, The First Voice, and The Reformer
 - [ ] [P2] Present Bias and Hyperbolic Discounting (Ainslie, 1975; Laibson, "Golden Eggs and Hyperbolic Discounting",
       _QJE_, 1997; O'Donoghue & Rabin, "Doing It Now or Later", _AER_, 1999): a person discounts the near future far more
       steeply than the far, so the ranking of a smaller-sooner against a larger-later reward reverses as the sooner one
@@ -1888,3 +1899,32 @@ Race crossed with The Commons), and engagement or outrage optimisation (The Lett
 feed). Carried forward, still held pending a distinct cut: the Lucas Critique (a policy-exploited correlation that breaks
 when acted on, close to Metric Fixation's measure that stops measuring). The three slated above are the pass's refill,
 worked from the top, and the slate opens at Preference Falsification.
+
+The house strikes Preference Falsification, staged as **Safe to Say**. The trap is that where the truth is unsafe to say,
+each says the safe thing, so a lie all share can uphold an order all reject. A person holds a genuine preference and, in
+public, must decide what to profess; and where professing the true thing draws a sanction, a frown, a shunning, a lost job,
+a cell, they profess the accepted thing instead, weighing the reputational payoff of the safe answer against the inner cost
+of the lie and choosing safety, so the private truth is kept and a public lie is told (Kuran). It is locally rational, since
+one voice would change nothing but its owner's fate. But each concealer, seeing only the safe professions of everyone else,
+cannot tell how many privately agree, believes its own view more isolated than it is, and conceals the harder, while some
+enforce the accepted line on others to prove their own sincerity, so the pressure is made in part by the very people it
+binds (Katz and Allport; Willer, Kuwabara and Macy). So an order that most privately reject is upheld, sincerely to all
+appearances, by the very people who reject it, and because the true distribution stays hidden behind the wall of safe
+professions the order is brittle in a way no one can measure: a small shock makes speaking a little safer, which draws out
+the next voice and the next, until concealment tips into revelation and the whole flips at once, as the revolutions of 1989
+surprised a world that had read the public record and believed it (Kuran). It is authored by no villain: each spares itself
+a real cost that honesty would carry, and no one means to prop up the order they privately reject. It is cut to the
+hidden-true-preference vector no staged misfit holds, and it is named clear of Information Cascade (an honest inference from
+others' visible choices, whereas here the public stance is a deliberate lie driven by social fear and not a mistaken
+updating), Not Worth Wanting (the private wanting unconsciously revised so there is no gap, whereas here the preference is
+intact and only its public expression is falsified), and Closing Ranks (a team genuinely converging in private, whereas
+here the inner belief dissents and only the outer profession conforms). And the whole is held against its own limit: not
+every public conformity is a falsification, since much agreement is genuine or genuinely persuaded, so one cannot read every
+conformist as a secret dissident; the cascade's timing is genuinely unpredictable, the theory explaining the surprise after
+the fact more than foreseeing it; and private preferences are by their nature hidden, so the account rests partly on
+inference. The coinage and model and the 1989 surprise are homed to Kuran, the pluralistic ignorance beneath it to Katz and
+Allport, and the false enforcement that deepens it to Willer, Kuwabara and Macy, with the one who keeps the truth and tells
+the lie, the enforcer who is often a doubter in disguise, the first voice whose fate turns on uncontrolled timing, and the
+reformer who lowers the cost of honesty cast as the personas The Concealer, The Enforcer, The First Voice, and The Reformer.
+That takes the house to one hundred and sixty-six, and returns the slate to Present Bias and Hyperbolic Discounting at the
+top of the unstruck P2 line.
