@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.166.0",
+  "version": "0.167.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -458,6 +458,12 @@
       "id": "someone_will_catch_me",
       "title": "Someone Will Catch Me",
       "description": "The rescue is certain, so no one builds a footing, and the kindness that will always catch you keeps you falling."
+    },
+    {
+      "kind": "misfit",
+      "id": "starting_tomorrow",
+      "title": "Starting Tomorrow",
+      "description": "You plan in the calm to save or quit, but as the reward nears its value spikes and your own ranking reverses."
     },
     {
       "kind": "misfit",
