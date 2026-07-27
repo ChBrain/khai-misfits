@@ -1693,7 +1693,7 @@ illusion of explanatory depth and the curse of knowledge, not the unskilled's bl
 Open Cage holds learned helplessness, the ceasing to try, not the ceasing to want. The three below survive the check and
 are slated, worked from the top.
 
-- [ ] [P1] The Political Resource Curse (Mahdavy, "The Patterns and Problems of Economic Development in Rentier States",
+- [x] [P1] The Political Resource Curse (Mahdavy, "The Patterns and Problems of Economic Development in Rentier States",
       1970; Karl, _The Paradox of Plenty_, 1997; Ross, "Does Oil Hinder Democracy?", _World Politics_, 2001): a state
       funded by resource rents need not tax its citizens, so it need not answer to them, and the fiscal link that turns
       taxation into representation is severed, each actor rational, the ruler spending rents on patronage and subsidy rather
@@ -1702,7 +1702,19 @@ are slated, worked from the top.
       distinct from Dutch Disease's economic channel in that the harm here runs through the fisc and accountability and not
       the exchange rate and the tradables; to be cut to the rents-sever-the-tax-link vector, hedged to a contested and
       institution-conditional tendency and not a determinism, since strong prior institutions can escape it (Norway) and the
-      econometrics are debated (Haber & Menaldo)
+      econometrics are debated (Haber & Menaldo); staged as **No Need to Ask**, cut to the rents-sever-the-tax-link vector no
+      staged misfit holds, the treasury filled from the ground without passing through the citizens' pockets so the state
+      need not tax them and a state that need not ask need not answer, the ruler distributing the handout that buys quiet in
+      place of the slow institutions and the untaxed citizen holding no lever of withheld revenue to compel an account, so
+      the checks wither and governance is left weaker than no windfall would have, named clear of Dutch Disease (the economic
+      channel, exchange rate and tradables, not the fiscal and accountability channel here), Rent-Seeking (a component
+      channel, not the load-bearing severed-link vector), and any kleptocracy reading (the funding not the character severs
+      the link, biting a government of good will), with the rentier-state coinage homed to Mahdavy, the rentier-state theory
+      to Beblawi and Luciani, the petro-state fiscal sociology to Karl, and the evidence and channels to Ross, no villain
+      since the mechanism bites a government of ordinary good will and the untaxed citizen answers the incentives, held to a
+      contested and institution-conditional tendency escaped by strong prior institutions (Mehlum, Moene and Torvik) and
+      disputed in the cross-national record (Haber and Menaldo), with personas The Sovereign, The Citizen, The Well, and The
+      Steward
 - [ ] [P2] The Dunning-Kruger Effect (Kruger & Dunning, "Unskilled and Unaware of It", _Journal of Personality and Social
       Psychology_, 1999): the skills that let one do a thing well are the same that let one judge one is doing it badly, so
       the least competent lack the very metacognition that would reveal their incompetence and overrate themselves the most,
@@ -1729,3 +1741,35 @@ measure that stops measuring), present bias and hyperbolic discounting (the intr
 Inconsistency's commitment problem), the Liquidity Trap, and the Pygmalion and Golem effects (a self-fulfilling expectation,
 close to The Proxy's self-confirming discount). The three slated above are the pass's refill, worked from the top, and the
 slate opens at The Political Resource Curse.
+
+The house strikes The Political Resource Curse, staged as **No Need to Ask**. The trap is that a state funded from the
+ground need not ask its people, and so need not answer them. A country strikes it rich, oil or gas or ore, and sells it
+abroad, and a river of money runs into the treasury without passing through its citizens' pockets. This is the strange
+load-bearing fact: the ordinary state must tax to live, and to tax it must bargain with those it taxes and submit to being
+checked, so that historically the power to tax and the power to hold power to account grew up together, no taxation without
+representation. The rentier state is loosed from that, named by Hossein Mahdavy for the state that lives on the rent it
+receives rather than the revenue it extracts (Mahdavy). So it does the sensible thing: it distributes rather than extracts,
+spending on the handout that buys quiet, the subsidy and the public post and the patronage, rather than on the slow
+institutions a taxing state is forced to build because it must answer to the taxed (Beblawi and Luciani; Karl). And the
+citizen, untaxed and given the handout, presses no hard claim to account, since the lever ordinary publics hold, the
+withholding of the revenue the state depends on, is not theirs to pull, the state depending on the ground and not on them.
+Each move is rational, and the sum is a state grown unanswerable, its checks withered for want of the pressure that builds
+them and its repression affordable because it need not tax (Ross). It is authored by no villain: the mechanism bites a
+government of ordinary good will as surely as a greedy one, because it is the funding and not the character that severs the
+link, and the citizen who takes the subsidy and asks nothing is answering the incentives before them. It is cut to the
+rents-sever-the-tax-link vector no staged misfit holds, and it is named clear of Dutch Disease (the economic channel of the
+same windfall, the exchange rate lifted and the tradables hollowed, whereas here the harm runs through the fisc and the
+citizen-state bargain, and a state can suffer either without the other), Rent-Seeking (a component channel through which the
+curse can work, the elites contending for a share, but not the load-bearing vector, which is the severed link and the
+citizen's silence and not the wasteful scramble), and any reading as mere kleptocracy (the funding and not the character
+severs the link, so the curse is not the tale of a thief in the palace but of a treasury that never had to answer to
+anyone). And the whole is held against its own limit: the curse is contested and conditional on the institutions the
+windfall meets, a blessing where they are producer-friendly and a curse where grabber-friendly, so a state already
+accountable before the boom escapes it, Norway and Botswana the standing counterexamples (Mehlum, Moene and Torvik), and
+the very cross-national link between resource wealth and unaccountable rule has been challenged on long within-country data
+(Haber and Menaldo), so it is not a determinism. The rentier-state coinage is homed to Mahdavy, the rentier-state theory
+and the no-taxation-no-representation corollary to Beblawi and Luciani, the fiscal sociology of the petro-state to Karl, and
+the evidence and its channels to Ross, with the rent-funded state, the untaxed and quiescent citizen, the resource whose
+flow severs the link, and the steward who would build the checks before the windfall cast as the personas The Sovereign,
+The Citizen, The Well, and The Steward. That takes the house to one hundred and sixty-three, and returns the slate to The
+Dunning-Kruger Effect at the top of the unstruck P2 line.
