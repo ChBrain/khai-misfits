@@ -1539,14 +1539,23 @@ economics, the information ecosystem, and behavioural finance, each candidate ru
 and against every misfit's description, the descriptions scan finding no supplier-induced-demand, suppression-backfire, or
 information-avoidance vector staged. The three below survive the check and are slated, worked from the top.
 
-- [ ] [P1] Supplier-Induced Demand (Evans, "Supplier-induced demand: some empirical evidence and implications", 1974;
+- [x] [P1] Supplier-Induced Demand (Evans, "Supplier-induced demand: some empirical evidence and implications", 1974;
       Roemer's law, "a built bed is a filled bed"; McGuire's survey): a provider paid per service and knowing far more than
       the patient recommends more care than an informed patient would choose, so demand is set by the supplier who profits
       from meeting it rather than by the patient who bears it, and care is over-supplied at rising cost, distinct from Moral
       Hazard's insured party taking less care because it no longer bears the loss in that here the provider, not the insured,
       drives the quantity, through an information advantage and a fee-for-service incentive, and from Rent-Seeking's spending
       to capture a transfer in that real services are rendered, only more of them than needed; to be cut to the
-      provider-induces-the-demand-it-profits-from vector, the costly remedy capitation or salary each risking under-treatment
+      provider-induces-the-demand-it-profits-from vector, the costly remedy capitation or salary each risking under-treatment;
+      staged as **Ask the One Who Sells**, cut to the the-seller-sets-the-demand vector no staged misfit holds, the provider
+      at once the buyer's trusted advisor and the supplier paid per service, and the buyer unable to judge, so the provider
+      recommends more than an informed buyer would choose and profits by it while usually believing it, demand set by the
+      supplier and care over-supplied, named clear of Moral Hazard, Rent-Seeking, and the principal-agent parent, with
+      supplier-induced demand homed to Evans, the built-bed law to Roemer, the physician-agency and target-income to McGuire
+      and the small-area variation to Wennberg, and the information asymmetry to Arrow credited narrowly and not the moral
+      hazard the same paper named, no villain since the provider is no cheat and usually believes the extra warranted, held
+      to a real but debated-magnitude effect with the salary remedy trading too-much care for too-little, with personas The
+      Provider, The Patient, The Payer, and The Reformer
 - [ ] [P2] The Streisand Effect (the 2003 coinage; Jansen & Martin, "The Streisand Effect and Censorship Backfire",
       _International Journal of Communication_, 2015): an attempt to suppress or remove a piece of information draws far more
       attention to it than leaving it alone would, because the act of suppression is itself newsworthy, signals that the
@@ -1572,3 +1581,32 @@ distinct sliver appears. Carried forward from the prior passes, still held pendi
 effect, the Lucas Critique, the Pygmalion and Golem effects, the Liquidity Trap, present bias and hyperbolic discounting,
 the soft budget constraint, and the political resource curse. The three slated above are the pass's refill, worked from the
 top, and the slate returns to Supplier-Induced Demand at the top of the fresh P1 line.
+
+The house strikes Supplier-Induced Demand, staged as **Ask the One Who Sells**. The trap is that you must ask the one who
+sells whether you need the thing. You go to a doctor because you cannot judge your own need, and the doctor can; but under
+fee-for-service the doctor is also the supplier, paid for each test and procedure, so the one you trust to say what care you
+need is the same one paid to provide it, and you cannot check the advice, because judging it is the very expertise you came
+to borrow. Robert Evans named what follows: because the provider both advises and sells and the buyer cannot referee, the
+provider can recommend more care than an informed buyer would have chosen, and demand is set in part by the supplier who
+meets it (Evans). Milton Roemer put the sign of it in a law, a built bed is a filled bed: where more capacity is built more
+is used, not because more fall ill but because the capacity, once there, is filled, and regions with more surgeons do more
+surgery without matching gains in health (Roemer; McGuire, with Wennberg's small-area variation). It is authored by no one:
+the provider is not a fraud but leans, at the margin and usually sincerely, toward the safer and more thorough course, so
+the induced care feels like diligence and not selling; the patient rightly defers to an expert it cannot second-guess; and
+the payer honours real invoices for real work. It is cut to the the-seller-sets-the-demand vector no staged misfit holds,
+and it is named clear of Moral Hazard (the insured taking less care or consuming more because the price to them has fallen,
+a demand-side effect, whereas here the supply side, the provider, drives the quantity through information and a fee),
+Rent-Seeking (real resources burned capturing a transfer that makes nothing, whereas here real services are rendered, only
+more than needed), and the principal-agent problem the house holds off as too broad, cut here to the one instance no staged
+misfit carries, the agent who is also the seller, distinct from Moral Hazard's hidden action and Watermelon Reporting's
+filtered report. And the whole is held against its own limit: supplier-induced demand is real and documented, in Roemer's
+beds and the target-income response and the wide small-area variation, but its magnitude is genuinely debated, not all care
+is induced and much is truly needed, the induced and the needed look alike because the provider believes in both, and the
+salary or capitation that removes the pull to do too much plants the pull to do too little, so no way of paying wants
+exactly the right amount (McGuire). Supplier-induced demand is homed to Evans, the built-bed law to Roemer, the
+physician-agency formalisation and the target-income response to McGuire and the small-area variation to Wennberg, and the
+foundational information asymmetry to Arrow, credited narrowly to that asymmetry and not the moral hazard the same paper also
+named and the house stages separately, with the expert who both advises and sells, the buyer who cannot judge, the payer who
+foots the bill, and the reformer who would change how care is paid cast as the personas The Provider, The Patient, The
+Payer, and The Reformer. That takes the house to one hundred and sixty, and returns the slate to The Streisand Effect at the
+top of the unstruck P2 line.
