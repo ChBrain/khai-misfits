@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.163.0",
+  "version": "0.164.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -866,6 +866,12 @@
       "id": "the_simpler_lever",
       "title": "The Simpler Lever",
       "description": "Each simplification of the regulator reads as better governed, until it commands too few responses to hold the outcome."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_skill_to_see_it",
+      "title": "The Skill to See It",
+      "description": "The skill to judge a task is the same skill it takes to do it, so those who lack it cannot see that they lack it."
     },
     {
       "kind": "misfit",
