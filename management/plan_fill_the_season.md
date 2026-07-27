@@ -1807,5 +1807,4 @@ Dunning, the replication of the incompetent's absent self-insight to Ehrlinger a
 account to Dunning, and the artefact counter-reading to Krueger and Mueller and to Gignac and Zajenkowski, with the
 confident novice, the doubting expert, the task whose one skill does double duty, and the teacher who mends the ruler only
 by building the skill cast as the personas The Novice, The Expert, The Task, and The Teacher. That takes the house to one
-hundred and sixty-four, and empties the current refill, its last P2 struck, so the slate stands dry and the next pass calls
-for a fresh refill worked against the descriptions before any warrant is drawn.
+hundred and sixty-four, and returns the slate to Adaptive Preferences at the top of the unstruck P2 line.
