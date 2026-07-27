@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.160.0",
+  "version": "0.161.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -200,6 +200,12 @@
       "id": "loath_to_part",
       "title": "Loath to Part",
       "description": "Owning a thing lifts its value above what any buyer will pay, so the trade both would gain from is never made."
+    },
+    {
+      "kind": "misfit",
+      "id": "loudest_when_hushed",
+      "title": "Loudest When Hushed",
+      "description": "The attempt to suppress a thing is itself the surest sign it matters, so hiding it spreads it wider than leaving it."
     },
     {
       "kind": "misfit",
