@@ -1683,3 +1683,49 @@ eye turns away to Sweeny and colleagues, with the one who looks away, the news t
 grows in the dark, and the one who arranges the forced look cast as the personas The Ostrich, The Bearer, The Trouble, and
 The Steward. That takes the house to one hundred and sixty-two, and empties the current refill, both P2 targets struck, so
 the slate stands dry and the next pass calls for a fresh refill worked against the descriptions before any warrant is drawn.
+
+A fresh research-input pass refills the dry slate, across the political economy of development, the psychology of
+self-assessment, and welfare economics, each candidate run through registry.json by canonical name and against every
+misfit's description. The descriptions scan finds no political-resource-curse, self-assessment-of-competence, or
+adaptive-preference vector staged: Dutch Disease holds only the economic channel of the resource curse, the currency lifted
+and the tradables hollowed, not the fiscal and accountability channel; I Know How It Works and Second Nature hold the
+illusion of explanatory depth and the curse of knowledge, not the unskilled's blindness to their own lack of skill; and The
+Open Cage holds learned helplessness, the ceasing to try, not the ceasing to want. The three below survive the check and
+are slated, worked from the top.
+
+- [ ] [P1] The Political Resource Curse (Mahdavy, "The Patterns and Problems of Economic Development in Rentier States",
+      1970; Karl, _The Paradox of Plenty_, 1997; Ross, "Does Oil Hinder Democracy?", _World Politics_, 2001): a state
+      funded by resource rents need not tax its citizens, so it need not answer to them, and the fiscal link that turns
+      taxation into representation is severed, each actor rational, the ruler spending rents on patronage and subsidy rather
+      than the institutions that would check him, the citizen taking the subsidy and asking nothing, so accountability and
+      the institutions that hold power atrophy and the resource wealth leaves governance weaker than no windfall would have,
+      distinct from Dutch Disease's economic channel in that the harm here runs through the fisc and accountability and not
+      the exchange rate and the tradables; to be cut to the rents-sever-the-tax-link vector, hedged to a contested and
+      institution-conditional tendency and not a determinism, since strong prior institutions can escape it (Norway) and the
+      econometrics are debated (Haber & Menaldo)
+- [ ] [P2] The Dunning-Kruger Effect (Kruger & Dunning, "Unskilled and Unaware of It", _Journal of Personality and Social
+      Psychology_, 1999): the skills that let one do a thing well are the same that let one judge one is doing it badly, so
+      the least competent lack the very metacognition that would reveal their incompetence and overrate themselves the most,
+      the error self-masking because the deficit hides itself, distinct from I Know How It Works's illusion of explanatory
+      depth (a shallow grasp of a mechanism, not a misjudged skill) and Second Nature's curse of knowledge (an expert who
+      cannot un-know) in that here the deficit is in the self-assessment of one's own competence; to be cut to the
+      incompetence-hides-itself vector, hedged to a real effect whose size and reading are debated, part regression and
+      better-than-average artefact and not all a metacognitive deficit
+- [ ] [P2] Adaptive Preferences (Elster, _Sour Grapes_, 1983; the capability critique of Sen and Nussbaum): people
+      unconsciously trim their wants to what they can attain, coming not to want the out-of-reach, so their contentment
+      masks a narrowed life and revealed preference misreads the constrained as satisfied, each adjustment a rational way to
+      make peace with the possible, distinct from The Open Cage's learned helplessness in that there the agent stops trying
+      while still wanting, whereas here the wanting itself is quietly revised away; to be cut to the wanting-shrinks-to-fit
+      vector, hedged to a real but hard-to-measure adjustment, since adaptation is also a healthy making of peace and not
+      every lowered want is a hidden deprivation
+
+Triage of this pass, against the descriptions, and carrying forward the held from before. Newly held on a duplication yet to
+be cleared: the soft budget constraint (Kornai), whose bailout-expectation softening of discipline reads as Someone Will
+Catch Me crossed with Moral Hazard until a distinct institutional sliver appears. Still held on a duplication: the attention
+economy or attention scarcity (Simon, 1971), reading as The Arms Race crossed with The Commons; and engagement or outrage
+optimisation, reading as The Letter of the Law and Metric Fixation in the feed. Carried forward, still held pending a
+distinct cut: the Lucas Critique (a policy-exploited correlation that breaks when acted on, close to Metric Fixation's
+measure that stops measuring), present bias and hyperbolic discounting (the intrapersonal preference reversal, close to Time
+Inconsistency's commitment problem), the Liquidity Trap, and the Pygmalion and Golem effects (a self-fulfilling expectation,
+close to The Proxy's self-confirming discount). The three slated above are the pass's refill, worked from the top, and the
+slate opens at The Political Resource Curse.
