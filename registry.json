@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.177.0",
+  "version": "0.178.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -1004,6 +1004,12 @@
       "id": "the_wasted_vote",
       "title": "The Wasted Vote",
       "description": "A vote for a third who cannot win is judged wasted, so each deserts to the viable two, and the field locks to two."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_widening_want",
+      "title": "The Widening Want",
+      "description": "As conditions improve, expectations rise faster, so the gap widens and discontent grows even as things get better."
     },
     {
       "kind": "misfit",
