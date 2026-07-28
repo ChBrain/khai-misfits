@@ -2229,7 +2229,7 @@ hundred and seventy-one, and empties the current refill, its last target struck,
       means only to encourage and the self reads its own reasons as anyone would, held to a real but bounded effect,
       strongest for expected tangible controlling rewards on already-loved tasks and once sharply contested (Cameron and
       Pierce), with personas The Lover, The Patron, The Onlooker, and The Steward
-- [ ] [P2] The Paradox of Choice (Iyengar & Lepper, "When Choice is Demotivating", _JPSP_, 2000; Schwartz, _The Paradox
+- [x] [P2] The Paradox of Choice (Iyengar & Lepper, "When Choice is Demotivating", _JPSP_, 2000; Schwartz, _The Paradox
       of Choice_, 2004): past a point more options do not free the chooser but overwhelm, so a larger assortment lowers
       the odds of choosing at all and the satisfaction of the choice made, each option added in good faith to serve a
       varied taste summing to paralysis and regret, distinct from The Anticommons's underuse by too many vetoes in that
@@ -2237,7 +2237,18 @@ hundred and seventy-one, and empties the current refill, its last target struck,
       from Not Worth Wanting's adaptive preferences in that here the wanting is intact and only the choosing is
       overwhelmed; to be cut to the too-many-options-paralyse vector, hedged hard to a contested effect, a large
       meta-analysis finding no reliable average and later work locating it only under specific conditions of choice
-      difficulty and preference uncertainty (Scheibehenne, Greifeneder & Todd, 2010; Chernev, Bockenholt & Goodman, 2015)
+      difficulty and preference uncertainty (Scheibehenne, Greifeneder & Todd, 2010; Chernev, Bockenholt & Goodman, 2015);
+      staged as **Spoiled for Choice**, cut to the too-many-options-paralyse vector no staged misfit holds, the abundance
+      offered in good faith to serve a varied taste turning on the chooser as the burden of comparison rises with the
+      count and the range lifts expectations, so the chooser freezes and declines or chooses and is shadowed by the
+      forgone, named clear of The Anticommons (too many owners with vetoes gridlocking a resource, whereas here options
+      before a chooser and the chooser's own paralysis), Not Worth Wanting (the wanting revised, whereas here intact and
+      only the choosing overwhelmed), and The Tyranny of Small Decisions (a drift across many decisions over time, whereas
+      here one decision among too many options at once), with the jam-study demonstration homed to Iyengar and Lepper and
+      the popular synthesis to Schwartz, no villain since each option is a courtesy and the chooser meets a real burden,
+      held hard to a contested and conditional effect, absent on average and real only under specific conditions
+      (Scheibehenne, Greifeneder and Todd; Chernev, Bockenholt and Goodman), with personas The Crowd, The Stocker, The
+      Chooser, and The Curator
 
 Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct
 cut: the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, close to The Proxy's
@@ -2314,3 +2325,80 @@ it less once paid, the one who rewards in good faith by a rule that fails only f
 the reward as the reason, and the one who would reward by informing rather than controlling cast as the personas The
 Lover, The Patron, The Onlooker, and The Steward. That takes the house to one hundred and seventy-three, and returns the
 slate to The Paradox of Choice at the top of the unstruck P2 line.
+
+The house strikes The Paradox of Choice, staged as **Spoiled for Choice**. The trap is that past a point more options do
+not free the chooser but overwhelm it, so a wider range lowers both the odds of choosing at all and the satisfaction of
+the choice that is made, each option added in good faith to serve a varied taste summing to paralysis and regret. A
+crowd has a real spread of tastes, no two of its many wanting quite the same, so a wider range is offered in good faith
+by the sound and ordinary logic that more choice can only help, since a larger assortment gives each a nearer fit and
+the unwanted option can simply be ignored. But past a point the number turns on the chooser: the work of comparing grows
+with the count until it cannot be borne, the range lifts the expectation that with so much on offer a perfect fit must
+be there to be found, and so the chooser defers and declines and chooses none, or chooses one and finds it shadowed by
+all the forgone, any shortfall read as its own fault (Iyengar and Lepper). It is authored by no villain: each option is
+a genuine courtesy stocked to fit some real taste, the logic that more can only help is sound for almost everything, and
+the chooser is not too feeble for freedom but meets a real burden of comparison and a real ache of the forgone. It is
+cut to the too-many-options-paralyse vector no staged misfit holds, and it is named clear of The Anticommons (too many
+owners each with a veto gridlocking a resource into underuse, whereas here options before a single chooser and the
+chooser's own paralysis), Not Worth Wanting (a wanting quietly revised down to what is available, whereas here the
+wanting is intact and only the choosing is overwhelmed), and The Tyranny of Small Decisions (a drift summed across many
+separate decisions over time, whereas here one decision among too many options at once). And the whole is held against
+its own limit, hedged harder than most, because the effect is genuinely contested: a large meta-analysis found no
+reliable average effect of assortment size, and later work located it only under specific conditions of high choice
+difficulty and preference uncertainty and weak or absent otherwise, so the house stages the robust conditional core,
+that a large assortment can overwhelm the chooser where the choosing is hard and the preferences unformed, and not the
+once-popular claim that more choice always paralyses (Scheibehenne, Greifeneder and Todd; Chernev, Bockenholt and
+Goodman). The jam-study demonstration is homed to Iyengar and Lepper and the popular synthesis to Schwartz, with the
+varied crowd whose honest diversity makes the wide range reasonable, the stocker who lays out the abundance in good
+faith by the logic that more can only help, the chooser overwhelmed by the range meant to serve it, and the curator who
+eases the burden only by spending the freedom the abundance offered cast as the personas The Crowd, The Stocker, The
+Chooser, and The Curator. That takes the house to one hundred and seventy-four, and empties the current refill, its last
+target struck, so the slate is refilled below.
+
+- [ ] [P1] The Peak-End Rule (Kahneman, Fredrickson, Schreiber & Redelmeier, "When More Pain Is Preferred to Less",
+      _Psychological Science_, 1993; Redelmeier & Kahneman, "Patients' memories of painful medical treatments", _Pain_,
+      1996): an extended experience is remembered not by the sum or average of its moments but by its most intense
+      moment and its ending, so the remembering self that chooses for next time misvalues its own past, rating a longer
+      discomfort with a mild tail above a shorter one that stopped at its worst and all but ignoring how long it lasted,
+      so the self that lives an experience and the self that recalls it can rank it oppositely, distinct from More to
+      Stand Still's opponent-process adaptation that erodes the felt level of a sustained state in that here a bounded
+      episode is compressed in memory to two salient moments rather than a level drifting back toward neutral, and from
+      Once Bitten's asymmetric sampling across separate trials in that here the distortion lies within a single
+      remembered experience and is not a refusal to resample; to be cut to the peak-and-end-outweigh-the-duration
+      vector, hedged to the robust core (the peak and the end dominate and duration is largely neglected) over the
+      strict claim that the memory is exactly their average, with documented boundary conditions (Redelmeier, Katz &
+      Kahneman, _Pain_, 2003).
+- [ ] [P2] The Woozle Effect (Greenberg, "How citation distortions create unfounded authority: analysis of a citation
+      network", _BMJ_, 2009; the term after the imaginary Woozle of Milne's _Winnie-the-Pooh_, hunted by trackers
+      following their own footprints): a claim gains the look of established evidence not from data but from being cited
+      and re-cited, each author citing a prior source in good faith, so a weak or unsupported assertion accretes a dense
+      network of references until it reads as settled fact and belief in it is manufactured by the repetition of the
+      citation rather than any accumulation of evidence, distinct from The File Drawer's publication bias in that here
+      the published record itself is distorted by how existing claims are cited and amplified and not by which studies
+      reach print, and from Information Cascade's live copying of a visible choice with a private signal discarded in
+      that here each scholar cites honestly with nothing withheld and the accretion builds in a written record over
+      time; to be cut to the citation-manufactures-authority vector, hedged to a mechanism attested in case analyses of
+      specific literatures (Greenberg's citation-network dissection of a single biomedical claim) rather than a measured
+      rate at which literatures distort.
+- [ ] [P2] The Cantillon Effect (Cantillon, _Essai sur la Nature du Commerce en Général_, c. 1730, pub. 1755; the
+      non-neutrality-of-money literature): new money does not raise all prices at once and evenly but enters through
+      particular hands first, and those nearest the injection spend it at the old prices before it has bid prices up,
+      while those it reaches last, on wages and fixed incomes that adjust slowest, meet the higher prices before the new
+      money reaches them, so the sequence in which money diffuses redistributes real purchasing power from the late
+      receivers to the early with no transfer anyone intends, distinct from More Than It Can Back's international
+      reserve-issuer bind in that here the tilt is a domestic distributional effect of the diffusion order and not a
+      systemic obligation to supply the world's liquidity, and from Pushing on a String's loss of monetary traction at
+      the zero bound in that here the money does circulate and the harm is in the path it takes and not in its failure
+      to move; to be cut to the injection-order-redistributes vector, hedged on the magnitude and on which groups net
+      gain in a given episode (the modern asset-price channel of large-scale asset purchases much debated) while the
+      non-neutral transmission itself is standard.
+
+Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct
+cut: the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, still close to The
+Proxy's self-confirming discount) and the sliver of the Spiral of Silence not taken by Safe to Say (a silence that never
+hardens into an active lie, still too thin to stage until cut to that alone). Still held on a duplication: the soft
+budget constraint (Someone Will Catch Me crossed with Moral Hazard), the attention economy (The Arms Race crossed with
+The Commons), and engagement or outrage optimisation (The Letter of the Law and Metric Fixation in the feed). Carried
+forward, still held pending a distinct cut: the Lucas Critique (a policy-exploited correlation that breaks when acted
+on, close to Metric Fixation's measure that stops measuring once made a target). Dropped from consideration as already
+staged: evolutionary suicide and runaway selection, caught by Fit to Fail, and the ecological trap, caught by The Lie of
+the Land. The three slated above are the pass's refill, worked from the top, and the slate opens at The Peak-End Rule.
