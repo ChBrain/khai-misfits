@@ -2381,7 +2381,7 @@ target struck, so the slate is refilled below.
       experiencing self and the remembering self are facets of one person neither simply wrong, held to a robust core
       hedged against the strict two-moment average, duration neglect a strong tendency and not an absolute law, with
       personas The Living, The Keeper, The Kind Hand, and The Weigher
-- [ ] [P2] The Woozle Effect (Greenberg, "How citation distortions create unfounded authority: analysis of a citation
+- [x] [P2] The Woozle Effect (Greenberg, "How citation distortions create unfounded authority: analysis of a citation
       network", _BMJ_, 2009; the term after the imaginary Woozle of Milne's _Winnie-the-Pooh_, hunted by trackers
       following their own footprints): a claim gains the look of established evidence not from data but from being cited
       and re-cited, each author citing a prior source in good faith, so a weak or unsupported assertion accretes a dense
@@ -2392,7 +2392,20 @@ target struck, so the slate is refilled below.
       that here each scholar cites honestly with nothing withheld and the accretion builds in a written record over
       time; to be cut to the citation-manufactures-authority vector, hedged to a mechanism attested in case analyses of
       specific literatures (Greenberg's citation-network dissection of a single biomedical claim) rather than a measured
-      rate at which literatures distort.
+      rate at which literatures distort; staged as **On Good Authority**, cut to the citation-manufactures-authority
+      vector no staged misfit holds, a claim cited and re-cited in good faith accreting an authority the evidence never
+      gave it, belief tracking the count of citations and not the weight of data so a weak assertion is repeated into
+      fact, named clear of The File Drawer (a distortion in which studies reach print, whereas here the published record
+      distorted by how existing claims are cited and amplified), Information Cascade (a live sequential choice with a
+      private signal withheld, whereas here open honest citation accreting in a written record, many echoes of one
+      source read as many confirmations), and Too Sure to Be True (genuinely independent judgments whose over-agreement
+      is the tell, whereas here non-independent re-citations that were never confirmations to begin with), with the
+      citation-network dissection and the account of citation bias, amplification, and invention homed to Greenberg, the
+      Woozle image to Milne, the naming in research method to Houghton and Gelles and Straus, and the
+      academic-urban-legend cases and the citation-copying estimate to Rekdal and Simkin and Roychowdhury, no villain
+      since no one fabricates and to cite a source is the ordinary practice that makes the work possible, hedged to a
+      mechanism attested in cases and documented instances and not a measured rate, a dense citation record more often
+      earned than manufactured, with personas The Source, The Citer, The Reader, and The Tracer
 - [ ] [P2] The Cantillon Effect (Cantillon, _Essai sur la Nature du Commerce en Général_, c. 1730, pub. 1755; the
       non-neutrality-of-money literature): new money does not raise all prices at once and evenly but enters through
       particular hands first, and those nearest the injection spend it at the old prices before it has bid prices up,
@@ -2457,3 +2470,40 @@ self that compresses as any memory must and chooses by two moments, the kind han
 on the same lever a flatterer would pull, and the one who would weigh the whole lived sum against the summary cast as
 the personas The Living, The Keeper, The Kind Hand, and The Weigher. That takes the house to one hundred and
 seventy-five, and returns the slate to The Woozle Effect at the top of the unstruck P2 line.
+
+The house strikes The Woozle Effect, staged as **On Good Authority**. The trap is that a claim gains the look of
+established evidence not from the data beneath it but from being cited and re-cited in good faith, so a weak or
+unsupported assertion accretes a dense network of references until it reads as settled fact, belief tracking the count
+of citations and not the weight of the evidence. A claim is made once, on thin or absent evidence, a small study or a
+speculation or a figure with a decimal set wrong, and by itself it would sink for want of support or be checked at its
+root. But someone cites it, in good faith, because a working scholar cannot re-derive every upstream claim and must
+trust the record as the ordinary practice of the field allows, and then a second cites the first, a review calls the
+tentative established, and a model builds on the review, each act reasonable and none of them placed to walk the whole
+chain back to the root (Greenberg). And as the references accrete, the claim takes on a standing the data never gave it,
+the sheer count read as many confirmations when it is only many echoes of the one source, and the network does not
+merely repeat but distorts, the supportive cited over the critical and now and then a paper cited for a claim it never
+made, so the record hardens around an assertion no single study established (Greenberg). The name is honest about the
+shape of it, the Woozle that Pooh and Piglet track round a spinney by following their own deepening footprints, growing
+surer a whole pack walks ahead as the ring of tracks widens, a circle of one's own making mistaken for a crowd (Milne).
+It is authored by no villain: no one fabricates, and each citation is an ordinary and defensible act, an author trusting
+a source as the practice of citing allows and as re-verifying every upstream claim would make the work impossible, the
+reviewer compressing honestly, and the reader taking a much-cited claim as sound because that is how the record is meant
+to be read (Simkin and Roychowdhury). It is cut to the citation-manufactures-authority vector no staged misfit holds,
+and it is named clear of The File Drawer (a distortion in which studies reach print, a claim false because its
+disconfirmations were never seen, whereas here every study may be published and honest and the distortion is in how the
+existing claims are cited and amplified), Information Cascade (a live sequential choice in which a private signal is
+rationally withheld, whereas here each scholar cites openly and the accretion builds in a written record over time, so
+what looks like many independent confirmations is many honest re-citations of one source), and Too Sure to Be True
+(genuinely independent judgments whose improbable agreement indicts a shared hidden bias, whereas here the references
+are not independent at all but echoes of a single upstream claim, never confirmations to begin with). And the whole is
+held against its own limit, hedged, because this is a mechanism attested in case analyses of particular literatures and
+in documented instances and not a measured rate at which literatures distort, so the house stages the structure and
+holds that not every much-cited claim is a woozle and that a dense citation record is more often earned than
+manufactured (Greenberg; Rekdal). The citation-network dissection and the account of citation bias, amplification, and
+invention are homed to Greenberg, the image and the creature to Milne, the naming in research method to Houghton and
+Gelles and Straus, and the academic-urban-legend cases and the citation-copying estimate to Rekdal and Simkin and
+Roychowdhury, with the honest thin original claim whose hedges are dropped in the citing, the good-faith citation whose
+aggregate accretes the authority, the reader who trusts the count as the record's own mark of soundness, and the one who
+walks the chain back to the empty root cast as the personas The Source, The Citer, The Reader, and The Tracer. That
+takes the house to one hundred and seventy-six, and returns the slate to The Cantillon Effect at the top of the unstruck
+P2 line.
