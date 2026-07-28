@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.169.0",
+  "version": "0.170.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -968,6 +968,12 @@
       "id": "the_unmarked_edge",
       "title": "The Unmarked Edge",
       "description": "Cost and effort push the working point toward a safety edge no one can see, so the system drifts across it step by step."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_wasted_vote",
+      "title": "The Wasted Vote",
+      "description": "A vote for a third who cannot win is judged wasted, so each deserts to the viable two, and the field locks to two."
     },
     {
       "kind": "misfit",
