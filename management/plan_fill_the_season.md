@@ -2406,7 +2406,7 @@ target struck, so the slate is refilled below.
       since no one fabricates and to cite a source is the ordinary practice that makes the work possible, hedged to a
       mechanism attested in cases and documented instances and not a measured rate, a dense citation record more often
       earned than manufactured, with personas The Source, The Citer, The Reader, and The Tracer
-- [ ] [P2] The Cantillon Effect (Cantillon, _Essai sur la Nature du Commerce en Général_, c. 1730, pub. 1755; the
+- [x] [P2] The Cantillon Effect (Cantillon, _Essai sur la Nature du Commerce en Général_, c. 1730, pub. 1755; the
       non-neutrality-of-money literature): new money does not raise all prices at once and evenly but enters through
       particular hands first, and those nearest the injection spend it at the old prices before it has bid prices up,
       while those it reaches last, on wages and fixed incomes that adjust slowest, meet the higher prices before the new
@@ -2417,7 +2417,18 @@ target struck, so the slate is refilled below.
       the zero bound in that here the money does circulate and the harm is in the path it takes and not in its failure
       to move; to be cut to the injection-order-redistributes vector, hedged on the magnitude and on which groups net
       gain in a given episode (the modern asset-price channel of large-scale asset purchases much debated) while the
-      non-neutral transmission itself is standard.
+      non-neutral transmission itself is standard; staged as **Nearest the Spring**, cut to the
+      injection-order-redistributes vector no staged misfit holds, new money entering not everywhere at once but through
+      particular hands first, so those nearest the injection spend at the old prices and gain while those it reaches
+      last meet the risen prices and lose, a redistribution by the order of the money's arrival that no transfer intends
+      and no single hand can see, named clear of More Than It Can Back (a systemic reserve-issuer obligation to supply
+      world liquidity, whereas here a domestic distributional effect of the diffusion order) and Pushing on a String
+      (money that will not move at the zero bound, whereas here money that does move and redistributes by the path it
+      takes), with the mechanism and the name homed to Cantillon, the non-neutral interval to Hume, the step-by-step
+      diffusion to Mises, and the modern distributional argument to the monetary-policy literature, no villain since the
+      money is injected for needful reasons and every hand spends at a fair price at the going rate, hedged, the
+      non-neutral direction standard while the magnitude and net winners in any episode are contested, with personas The
+      Spring, The First Hand, The Last Hand, and The Reckoner
 
 Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct
 cut: the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, still close to The
@@ -2507,3 +2518,82 @@ aggregate accretes the authority, the reader who trusts the count as the record'
 walks the chain back to the empty root cast as the personas The Source, The Citer, The Reader, and The Tracer. That
 takes the house to one hundred and seventy-six, and returns the slate to The Cantillon Effect at the top of the unstruck
 P2 line.
+
+The house strikes The Cantillon Effect, staged as **Nearest the Spring**. The trap is that new money enters an economy
+not everywhere at once but through particular hands first, so those nearest the injection spend it at the old prices
+before it has bid prices up and gain, while those it reaches last meet the risen prices with money that has not grown
+and lose, a redistribution by the order of the money's arrival that no one intends. New money must enter somewhere, and
+it cannot enter everywhere at once: it comes in through a mine, a loan, a bond bought by the central bank, a government
+that spends before it taxes, and wherever it enters it enters at a point and must spread from there. The hand nearest
+the source spends it first, at the prices that still hold, and takes real goods before the money has circulated and bid
+those prices up, richer by the difference to come (Cantillon). Then the money moves hand to hand, and as it spreads it
+lifts the prices it touches, not all at once but along the path it travels, activity and prices rising in the interval
+as the new money works through the economy (Hume). By the time it reaches the last hands, the wage earner whose pay was
+set for the year, the pensioner on a fixed income, the saver holding cash, the prices those hands must pay have already
+risen, so they meet the higher prices with money that has not grown and lose the purchasing power the first hand gained
+(Mises). And the whole of the difference is the order in which the money arrived, a redistribution from the late to the
+early that no tax levied and no transfer designed. It is authored by no villain: the one who injects the money does so
+for ordinary and often needful reasons, a war to fund, an economy to steady, credit to extend, ore to bring up, and each
+hand that receives the money spends it exactly as anyone would, at the prices it finds, in a fair exchange at the going
+rate, so no one moves purchasing power from the late to the early on purpose and no single spender is placed to see the
+tilt. It is cut to the injection-order-redistributes vector no staged misfit holds, and it is named clear of More Than
+It Can Back (a systemic obligation of the reserve-currency issuer to run the deficits that supply world liquidity, a
+provider forced to undermine its own confidence, whereas here a domestic distributional effect of the diffusion order
+with no obligation and no confidence at stake) and Pushing on a String (money that will not move or stimulate at the
+zero bound, a lever gone slack, whereas here money that does move and does its work, the harm precisely in the path it
+takes). And the whole is held against its own limit, hedged, because that money is non-neutral along the path of its
+injection is standard across the classical, Austrian, and modern accounts, but the magnitude of the redistribution and
+even the net winners in any given episode are contested, since the same expansion that reaches asset holders first may
+also lower unemployment and lift the wages of the last, so the house stages the transmission and its direction and not a
+settled amount (Mises; the distributional-policy debate). The mechanism and the name are homed to Cantillon, the
+non-neutral interval and the gradual rise of prices to Hume, the step-by-step diffusion and the formal non-neutrality to
+Mises, and the modern distributional argument to the monetary-policy literature, with the one who injects the money for
+a needful end and grants an unmeant advantage, the hand that spends first at the old prices, the hand that meets the
+risen prices last with money that has not grown, and the one who reads the net tilt from above and holds its size
+contested cast as the personas The Spring, The First Hand, The Last Hand, and The Reckoner. That takes the house to one
+hundred and seventy-seven, and empties the current refill, its last target struck, so the slate is refilled below.
+
+- [ ] [P1] The Tocqueville Paradox (Tocqueville, _The Old Regime and the Revolution_, 1856; Davies, "Toward a Theory of
+      Revolution", the J-curve, _American Sociological Review_, 1962): as a society's conditions improve, expectations
+      and aspirations rise faster than the conditions themselves, so the gap between what people have and what they now
+      feel entitled to widens and discontent grows even as things get better, reform and progress breeding the very
+      unrest they might be thought to quiet, distinct from More to Stand Still's hedonic adaptation in that here the
+      rising is of forward-looking social expectations and not a felt pleasure resetting to a neutral baseline, the harm
+      a widening gap and its discontent and not a treadmill of dimming satisfaction; to be cut to the
+      improvement-raises-expectations-faster vector, hedged to a documented pattern of rising-then-checked expectations
+      (Davies's J-curve) rather than a law that every improvement breeds revolt.
+- [ ] [P2] The Hydra Effect (Abrams, "When does greater mortality increase population size? The long history and diverse
+      mechanisms of the hydra effect", _Ecology Letters_, 2009): killing or harvesting a fraction of a population can
+      raise its total abundance, since the deaths relax the competition, food shortage, or cannibalism that held the
+      survivors back, so a cull meant to reduce a pest or a predator increases its numbers, control backfiring through
+      the population's own density-dependence, distinct from The Cobra Effect's gamed incentive in that here no reward
+      is offered and nothing is gamed, the rise an ecological response to relaxed density-dependence and not a human
+      workaround of a bounty, and from The Balloon Effect's displacement in that here the increase is in the very
+      population that was culled and not a problem squeezed from one place to another; to be cut to the
+      mortality-raises-abundance vector, scoped to the conditions where over-compensating density-dependence dominates
+      (Abrams) rather than a claim that culling always backfires.
+- [ ] [P2] The Focusing Illusion (Schkade & Kahneman, "Does Living in California Make People Happy? A Focusing Illusion
+      in Judgments of Life Satisfaction", _Psychological Science_, 1998; Kahneman, Krueger, Schkade, Schwarz & Stone,
+      _Science_, 2006): when people judge how much a single factor bears on their well-being, the very act of attending
+      to it magnifies its apparent importance, so they overweight it and mispredict how much it will matter, since in
+      the living it will be one of many things and rarely in focus, nothing in life as important as it seems while it is
+      being thought about, distinct from The Worst and the Last's peak-end and duration neglect in that here the
+      distortion is a forward-looking judgment inflated by attention and not the retrospective summary of a lived
+      episode by its peak and its end; to be cut to the attention-inflates-the-weighed vector, hedged to a bias in
+      judgments made while the factor is salient (Schkade and Kahneman) and not a claim that the factor never matters.
+
+Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct
+cut: the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, still close to The
+Proxy's self-confirming discount) and the sliver of the Spiral of Silence not taken by Safe to Say. Still held on a
+duplication: the soft budget constraint (Someone Will Catch Me crossed with Moral Hazard), the attention economy (The
+Arms Race crossed with The Commons), and engagement or outrage optimisation (The Letter of the Law and Metric Fixation
+in the feed). Carried forward, still held pending a distinct cut: the Lucas Critique (a policy-exploited correlation
+that breaks when acted on, close to Metric Fixation's measure that stops measuring once made a target). Dropped from
+consideration this pass as already staged, the well run deep: the winner's curse (The Winning Bid), risk compensation
+(The Spent Margin), the Matthew effect (The Head Start), Braess's paradox (The Extra Road), Baumol's cost disease (its
+own name), Gresham's law (Bad Coin), the Jevons paradox (its own name), the ironies of automation (The Irony of
+Automation), the Abilene paradox (The Trip to Abilene), the Peter principle (Rising to Unfit), the competency trap (The
+Success Trap), the normalization of deviance (The New Normal), the streetlight effect (its own name), sunk cost (Good
+Money After Bad), the paradox of thrift (its own name), the planning fallacy (its own name), and social loafing (its own
+name). The three slated above are the pass's refill, worked from the top, and the slate opens at The Tocqueville
+Paradox.
