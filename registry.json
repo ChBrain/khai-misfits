@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.170.0",
+  "version": "0.171.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -998,6 +998,12 @@
       "id": "too_much_to_ask",
       "title": "Too Much to Ask",
       "description": "Each step is added for a good reason, but the cost of claiming deters the very people the programme was built to serve."
+    },
+    {
+      "kind": "misfit",
+      "id": "too_sure_to_be_true",
+      "title": "Too Sure to Be True",
+      "description": "When independent judgments agree too perfectly, the agreement more likely marks a shared hidden error than the truth."
     },
     {
       "kind": "misfit",
