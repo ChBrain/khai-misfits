@@ -2354,7 +2354,7 @@ eases the burden only by spending the freedom the abundance offered cast as the 
 Chooser, and The Curator. That takes the house to one hundred and seventy-four, and empties the current refill, its last
 target struck, so the slate is refilled below.
 
-- [ ] [P1] The Peak-End Rule (Kahneman, Fredrickson, Schreiber & Redelmeier, "When More Pain Is Preferred to Less",
+- [x] [P1] The Peak-End Rule (Kahneman, Fredrickson, Schreiber & Redelmeier, "When More Pain Is Preferred to Less",
       _Psychological Science_, 1993; Redelmeier & Kahneman, "Patients' memories of painful medical treatments", _Pain_,
       1996): an extended experience is remembered not by the sum or average of its moments but by its most intense
       moment and its ending, so the remembering self that chooses for next time misvalues its own past, rating a longer
@@ -2366,7 +2366,21 @@ target struck, so the slate is refilled below.
       remembered experience and is not a refusal to resample; to be cut to the peak-and-end-outweigh-the-duration
       vector, hedged to the robust core (the peak and the end dominate and duration is largely neglected) over the
       strict claim that the memory is exactly their average, with documented boundary conditions (Redelmeier, Katz &
-      Kahneman, _Pain_, 2003).
+      Kahneman, _Pain_, 2003); staged as **The Worst and the Last**, cut to the peak-and-end-outweigh-the-duration
+      vector no staged misfit holds, an extended episode remembered by its most intense moment and its ending and not by
+      its duration or its sum, so the self that recalls it and chooses whether to repeat it values it oppositely to the
+      self that lived it, preferring a longer suffering that tapers to a shorter one that stopped at its worst, named
+      clear of More to Stand Still (a real-time adaptation dimming the felt level of a sustained state as it lasts,
+      whereas here the lived feeling is whatever it is and only the memory is skewed), Once Bitten (an asymmetric
+      sampling across separate trials, whereas here the distortion sits within a single remembered episode), and
+      Starting Tomorrow (a discounting of the future by delay, whereas here the past is mis-summarized and the length
+      ignored outright), with the duration neglect and the peak-end average homed to Fredrickson and Kahneman, the
+      more-pain-preferred-to-less reversal to Kahneman, Fredrickson, Schreiber and Redelmeier, the clinic demonstration
+      to Redelmeier and Kahneman, the randomized colonoscopy confirmation and its benevolent gentler end to Redelmeier,
+      Katz and Kahneman, and the two selves to Kahneman, no villain since memory compresses as any memory must and the
+      experiencing self and the remembering self are facets of one person neither simply wrong, held to a robust core
+      hedged against the strict two-moment average, duration neglect a strong tendency and not an absolute law, with
+      personas The Living, The Keeper, The Kind Hand, and The Weigher
 - [ ] [P2] The Woozle Effect (Greenberg, "How citation distortions create unfounded authority: analysis of a citation
       network", _BMJ_, 2009; the term after the imaginary Woozle of Milne's _Winnie-the-Pooh_, hunted by trackers
       following their own footprints): a claim gains the look of established evidence not from data but from being cited
@@ -2402,3 +2416,44 @@ forward, still held pending a distinct cut: the Lucas Critique (a policy-exploit
 on, close to Metric Fixation's measure that stops measuring once made a target). Dropped from consideration as already
 staged: evolutionary suicide and runaway selection, caught by Fit to Fail, and the ecological trap, caught by The Lie of
 the Land. The three slated above are the pass's refill, worked from the top, and the slate opens at The Peak-End Rule.
+
+The house strikes The Peak-End Rule, staged as **The Worst and the Last**. The trap is that an extended episode is
+remembered not by the sum or the average of its moments but by its most intense moment and its ending, and the duration
+is let go, so the self that recalls the episode and chooses whether to repeat it can value it oppositely to the self
+that lived it. A person lives through an extended experience, a painful procedure, a hand held in cold water, a long
+hard stretch, felt moment to moment, every second of it counting while it lasts, and the plain sum of that is the honest
+measure of how bad it was to live. But the episode ends and only a memory remains, and a memory cannot hold an hour
+second by second, so it compresses the whole to a few salient features, keeping the most intense moment and the final
+ones and letting the long middle and the sheer length go, a duration neglect so near complete that a long episode and a
+short one with the same peak and end are recalled as equals (Fredrickson and Kahneman). And both anchors are sensible to
+keep, the peak the mark of how far it went and the end the mark of how it resolved, yet the summary they build can
+invert the episode it summarizes: a longer painful trial that ends in milder pain is remembered as better than a shorter
+one that stopped at its worst, and chosen again though it held more total pain minute for minute, more suffering bought
+for a gentler close (Kahneman, Fredrickson, Schreiber and Redelmeier). And the trap closes because the self that keeps
+the score is the self that chooses: the experiencing self lives the episode and is gone, and the remembering self keeps
+the peak-and-end summary, tells the story, and decides whether to return, so the choosing runs on remembered utility and
+not the utility that was lived, the two coming apart in the clinic as plainly as the lab, patients' memories of a
+colonoscopy predicted by the peak and the final minutes and not by the duration or the sum they had reported as it
+happened (Redelmeier and Kahneman). It is authored by no villain: there is no manipulator in the loop, only one person
+whose memory compresses an experience as any memory must, keeping the most intense and the most recent moment because
+those are the sensible things to keep, and whose chooser trusts that summary because it is the only record of the
+episode it holds, the self that lived the hour and the self that recalls it facets of one person, each doing something
+adaptive and neither simply wrong. It is cut to the peak-and-end-outweigh-the-duration vector no staged misfit holds,
+and it is named clear of More to Stand Still (a real-time adaptation dimming the felt level of a sustained state as it
+lasts, whereas here the lived feeling is whatever it is second by second and only the memory of it is skewed), Once
+Bitten (an asymmetric sampling across separate trials that never resamples a variable option, whereas here the
+distortion sits within a single remembered episode), and Starting Tomorrow (a discounting of the future by the delay
+before it arrives, whereas here the past is mis-summarized regardless of when it happened and the length is not
+discounted but ignored outright). And the whole is held against its own limit, hedged, because the strict claim that a
+memory equals the plain average of its peak and its end is an idealization and duration neglect a strong and repeated
+tendency rather than an absolute law, softening where a duration is made salient or meaningful and varying with the
+trend of the episode toward its close, so the house stages the robust core, that retrospective evaluation is dominated
+by the peak and the end and largely neglects duration, enough to invert preferences between episodes, and not the strict
+two-moment formula. The duration neglect and the peak-end average are homed to Fredrickson and Kahneman, the
+more-pain-preferred-to-less reversal to Kahneman, Fredrickson, Schreiber and Redelmeier, the clinic demonstration to
+Redelmeier and Kahneman, the randomized colonoscopy confirmation and its benevolent gentler end to Redelmeier, Katz and
+Kahneman, and the two selves to Kahneman, with the experiencing self whose true ledger is overruled, the remembering
+self that compresses as any memory must and chooses by two moments, the kind hand whose gentler close is a real service
+on the same lever a flatterer would pull, and the one who would weigh the whole lived sum against the summary cast as
+the personas The Living, The Keeper, The Kind Hand, and The Weigher. That takes the house to one hundred and
+seventy-five, and returns the slate to The Woozle Effect at the top of the unstruck P2 line.
