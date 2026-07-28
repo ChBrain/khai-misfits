@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.168.0",
+  "version": "0.169.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -194,6 +194,12 @@
       "id": "jevons_paradox",
       "title": "Jevons Paradox",
       "description": "Make a resource go further per unit and total use rises, as cheaper service draws more demand than the saving spared."
+    },
+    {
+      "kind": "misfit",
+      "id": "known_too_late",
+      "title": "Known Too Late",
+      "description": "A technology can be steered while its harms are unknown, and by the time they show it has set too hard to steer."
     },
     {
       "kind": "misfit",
