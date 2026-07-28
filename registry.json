@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.171.0",
+  "version": "0.172.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -674,6 +674,12 @@
       "id": "the_filter_bubble",
       "title": "The Filter Bubble",
       "description": "Each click for the agreeable teaches the feed to show more of it, so exposure narrows and the common ground fragments."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_fire_that_feeds_you",
+      "title": "The Fire That Feeds You",
+      "description": "The metabolism that keeps a body alive is the fire that ages it, and its economy funds the living over the repair."
     },
     {
       "kind": "misfit",
