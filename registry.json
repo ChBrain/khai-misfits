@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.172.0",
+  "version": "0.173.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -356,6 +356,12 @@
       "id": "overfitting",
       "title": "Overfitting",
       "description": "A model tuned to fit the sample perfectly learns its noise as signal, so it explains the past and predicts nothing."
+    },
+    {
+      "kind": "misfit",
+      "id": "paid_to_stop_caring",
+      "title": "Paid to Stop Caring",
+      "description": "A reward for what was done for love makes it feel done for the reward, so when the reward stops the doing falls off."
     },
     {
       "kind": "misfit",
