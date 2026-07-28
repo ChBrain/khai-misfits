@@ -2052,7 +2052,7 @@ so the slate is refilled below.
       only compete to win, held to a tendency and not a determinism, overridden by regionally concentrated third parties
       and shaped by social cleavages as much as by the rule, with personas The Challenger, The Elector, The Front-Runner,
       and The Reformer
-- [ ] [P2] The Paradox of Unanimity (Gunn, Chapeau-Blondeau, McDonnell, Davis, Allison & Abbott, "Too good to be true:
+- [x] [P2] The Paradox of Unanimity (Gunn, Chapeau-Blondeau, McDonnell, Davis, Allison & Abbott, "Too good to be true:
       when overwhelming evidence fails to convince", _Proc. Royal Society A_, 2016; the ancient rule that a unanimous
       capital verdict acquits, Talmudic Sanhedrin): when independent honest judgments should scatter, their perfect
       agreement is more likely a sign of a shared systematic error, a biased line-up, a broken instrument, an unseen
@@ -2062,7 +2062,18 @@ so the slate is refilled below.
       coordination at all, only a shared unseen bias, and from The File Drawer's suppressed nulls in that here the
       agreement itself is the tell; to be cut to the agreement-too-perfect-to-be-honest vector, hedged so the alarm is a
       Bayesian weight on hidden correlation and not a rule that unanimity is ever proof of error, since genuine strong
-      evidence can be near-unanimous
+      evidence can be near-unanimous; staged as **Too Sure to Be True**, cut to the agreement-too-perfect-to-be-honest
+      vector no staged misfit holds, the honest independent judgments that should scatter fallen into line under a shared
+      systematic error, so the perfect agreement is better explained by the hidden cause than the truth and past a point
+      each further agreeing voice should lower confidence not raise it, named clear of Information Cascade (herding by
+      copying, the judgments not independent, whereas here independent judgments aligned by a common cause), Closing Ranks
+      (unanimity from suppressed dissent, whereas here no dissent to hide, only honest alignment), and The File Drawer (the
+      tell the missing nulls, whereas here the tell the concordance of what is present), with the Bayesian model and the
+      identification line-up homed to Gunn and colleagues, the ancient rule that a unanimous conviction acquits to the
+      Talmud, the jury theorem whose independence assumption is the hinge to Condorcet, and the systematic-versus-random
+      error principle to metrology, no villain since each observer judges honestly and independently and the shared error
+      is unseen and unintended, held to a Bayesian weight on hidden correlation and not a rule that unanimity is ever proof
+      of error, with personas The Witness, The Skew, The Believer, and The Skeptic
 
 Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct
 cut: the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, close to The Proxy's
@@ -2141,3 +2152,79 @@ the third candidate stranded by the rule, the voter who deserts to be heard, the
 and the one who would count it by another ballot cast as the personas The Challenger, The Elector, The Front-Runner, and
 The Reformer. That takes the house to one hundred and seventy, and returns the slate to The Paradox of Unanimity at the
 top of the unstruck P2 line.
+
+The house strikes The Paradox of Unanimity, staged as **Too Sure to Be True**. The trap is that when honest independent
+judgments should scatter and instead agree perfectly, the very perfection of the agreement is the mark against it. Many
+observers judge the same question independently, each in good faith and each carrying its own small error, so if they
+are truly independent their answers should scatter, a spread of near misses around the truth. But suppose a shared
+systematic error lies unseen beneath them, a line-up built so one face stands out, an instrument miscalibrated the same
+for all, an assumption held in common. Then the judgments do not scatter but fall into line, and the agreement becomes
+near perfect, because the same tilt lies under every one. And here is the paradox: past a point each new voice added to
+a unanimous chorus should lower confidence in the conclusion, not raise it, because a perfect agreement is better
+explained by the systematic error than by truth plus honest noise, which would have left some dissent (Gunn and
+colleagues). The naive reading runs the other way, each observer taking the agreement as corroboration and growing more
+certain the more unanimous the verdict, so the confidence rises exactly as the ground for it falls and the collective
+grows too sure to be true. It is authored by no villain: each observer judges honestly and independently, no one
+colludes, the shared error that aligns them is unseen and unintended, and reading agreement as corroboration is the
+right rule when the errors are independent, the case the reader cannot tell apart from within. It is cut to the
+agreement-too-perfect-to-be-honest vector no staged misfit holds, and it is named clear of Information Cascade (each
+copying the visible choices of those ahead and discarding a private signal, so the agreement is herding and the
+judgments not independent, whereas here the judgments are genuinely independent and it is their improbable agreement
+that indicts the shared bias), Closing Ranks (unanimity manufactured by loyalty and self-silenced dissent, whereas here
+there is no dissent to hide, only honest judgments aligned by a common cause), and The File Drawer (null results
+suppressed so the record over-represents the positive, the tell the missing studies, whereas here every judgment is
+present and honest and the tell is the concordance of what is there). And the whole is held against its own limit: the
+alarm is a Bayesian weight on the prior probability of hidden correlation and not a rule that unanimity is ever proof of
+error, since genuine strong evidence can command wide agreement, so the paradox is a caution to check for a common cause
+and not a licence to distrust every consensus. The Bayesian model and the identification line-up are homed to Gunn and
+colleagues, the ancient rule that a unanimous conviction acquits to the Talmud, the jury theorem whose independence
+assumption is the hinge to Condorcet, and the principle that systematic errors correlate while independent errors
+scatter to metrology, with the honest witness whose agreement proves the tilt, the unseen shared error that tilts all
+the same way, the reader who grows surest where the ground is weakest, and the skeptic who tests the independence the
+count cannot show cast as the personas The Witness, The Skew, The Believer, and The Skeptic. That takes the house to one
+hundred and seventy-one, and empties the current refill, its last target struck, so the slate is refilled below.
+
+- [ ] [P1] The Fire That Feeds You (Pearl, _The Rate of Living_, 1928; Harman, "Aging: A Theory Based on Free Radical
+      and Radiation Chemistry", _J. Gerontology_, 1956; Kirkwood, "Evolution of Ageing", _Nature_, 1977): the very
+      metabolism that keeps a body alive, burning fuel to hold off the cold default of death, is the same process that
+      damages and ages it, since the energy it makes throws off reactive byproducts that wear the cell and the
+      disposable-soma economy spends on living and reproducing what it might have spent on repair, so to live is to be
+      aged by the living, distinct from Early and Uncounted's antagonistic pleiotropy in that the engine is the
+      metabolic cost of life itself and not a single gene's early benefit and unbilled late cost, from The Load It
+      Always Carried's mechanical fatigue in that the damage is the byproduct of the life process and not the summing of
+      load cycles, and from In Its Own Defence's immunopathology in that the harm is the ordinary running of the body
+      and not a defence overshooting; to be cut to the living-is-what-ages-you vector, hedged heavily to a contested
+      family of theories, the crude free-radical account much challenged since antioxidant supplements do not extend
+      life and some long-lived species run hot, the disposable-soma trade-off the more robust reading, no villain and no
+      external cause, the fire that fights death the fire that consumes
+- [ ] [P2] The Overjustification Effect (Deci, "Effects of Externally Mediated Rewards on Intrinsic Motivation", _JPSP_,
+      1971; Lepper, Greene & Nisbett, "Undermining Children's Intrinsic Interest with Extrinsic Reward", _JPSP_, 1973;
+      Deci, Koestner & Ryan meta-analysis, 1999): a reward offered to encourage what people already did for its own sake
+      reframes the act as done for the reward, so when the reward stops the intrinsic motivation that sustained it is
+      gone, and paying for the freely given can kill the giving, distinct from The Cobra Effect's perverse incentive
+      that breeds a workaround in that here the incentive breeds no gaming but crowds out the inner motive, and from
+      Metric Fixation's measure that becomes a target in that here the reward corrupts the motivation and not the
+      measure; to be cut to the reward-crowds-out-the-motive vector, hedged to a documented effect strongest for
+      tangible expected rewards on already-interesting tasks and weak or absent for dull tasks or unexpected or
+      informational rewards (Deci, Koestner & Ryan; Cameron & Pierce's dissent)
+- [ ] [P2] The Paradox of Choice (Iyengar & Lepper, "When Choice is Demotivating", _JPSP_, 2000; Schwartz, _The Paradox
+      of Choice_, 2004): past a point more options do not free the chooser but overwhelm, so a larger assortment lowers
+      the odds of choosing at all and the satisfaction of the choice made, each option added in good faith to serve a
+      varied taste summing to paralysis and regret, distinct from The Anticommons's underuse by too many vetoes in that
+      the many here are options and not owners and the loss is the chooser's paralysis and not a blocked resource, and
+      from Not Worth Wanting's adaptive preferences in that here the wanting is intact and only the choosing is
+      overwhelmed; to be cut to the too-many-options-paralyse vector, hedged hard to a contested effect, a large
+      meta-analysis finding no reliable average and later work locating it only under specific conditions of choice
+      difficulty and preference uncertainty (Scheibehenne, Greifeneder & Todd, 2010; Chernev, Bockenholt & Goodman, 2015)
+
+Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct
+cut: the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, close to The Proxy's
+self-confirming discount) and the Spiral of Silence (its durable society-scale sibling preference falsification now
+staged as Safe to Say, its own distinct sliver, a silence that never hardens into an active lie, still too thin to stage
+until cut to that alone). Still held on a duplication: the soft budget constraint (Someone Will Catch Me crossed with
+Moral Hazard), the attention economy (The Arms Race crossed with The Commons), and engagement or outrage optimisation
+(The Letter of the Law and Metric Fixation in the feed). Carried forward, still held pending a distinct cut: the Lucas
+Critique (a policy-exploited correlation that breaks when acted on, close to Metric Fixation's measure that stops
+measuring). Dropped from consideration as already staged: the hedonic treadmill and hedonic adaptation, caught by the
+concordance in REFERENCES.md under Opponent-Process Theory as More to Stand Still. The three slated above are the pass's
+refill, worked from the top, and the slate opens at The Fire That Feeds You.
