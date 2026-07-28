@@ -2030,7 +2030,7 @@ so the slate is refilled below.
       villain since the early hands act reasonably on a harm not yet knowable and the late hands meet the real weight of
       entrenchment, held to a tendency and not an iron law, its horns softened by real foresight and by technologies built
       to stay corrigible, with personas The Maker, The Builder, The Watch, and The Steward
-- [ ] [P2] Duverger's Law (Duverger, _Political Parties_, 1951; Riker, "The Two-Party System and Duverger's Law",
+- [x] [P2] Duverger's Law (Duverger, _Political Parties_, 1951; Riker, "The Two-Party System and Duverger's Law",
       _APSR_, 1982): under a plurality, winner-take-all electoral rule a vote for a third party is likely wasted, so
       each voter strategically deserts it for one of the two viable contenders, and this individually rational desertion
       sums to a self-reinforcing two-party lock that narrows the choices everyone then faces, distinct from The Crowded
@@ -2038,7 +2038,20 @@ so the slate is refilled below.
       an electoral rule and not the candidates' spatial convergence, and from The Beauty Contest's pricing of opinion
       about opinion in that here the coordination is on viability under a counting rule and not on others' valuations;
       to be cut to the wasted-vote-locks-the-field vector, hedged to a tendency strong under single-member plurality and
-      weak under proportional rules, and contested at the district-versus-national level (Duverger's own caveats; Riker)
+      weak under proportional rules, and contested at the district-versus-national level (Duverger's own caveats; Riker);
+      staged as **The Wasted Vote**, cut to the wasted-vote-locks-the-field vector no staged misfit holds, the plurality
+      rule seating the first alone so a vote for a third who cannot win wins nothing, and the voter deserting it for the
+      viable lesser evil to be heard, the third deserted because judged unable to win and unable to win because deserted,
+      the desertions summing to a self-reinforcing two-party lock, named clear of The Crowded Middle (candidate spatial
+      convergence, whereas here voter desertion under a counting rule, the field reduced in number not converged in
+      position), The Beauty Contest (opinion about opinion in a market, whereas here viability under an electoral rule),
+      and Information Cascade (belief-updating herd, whereas here the private preference is kept and only its expression
+      deserts), with the law and its mechanical and psychological effects and the corollary homed to Duverger, the
+      district-versus-national refinement to Riker, the strategic-coordination generalisation and the M+1 rule to Cox, and
+      the cleavage critique to Lipset and Rokkan, no villain since each voter deserts to be heard and the two front runners
+      only compete to win, held to a tendency and not a determinism, overridden by regionally concentrated third parties
+      and shaped by social cleavages as much as by the rule, with personas The Challenger, The Elector, The Front-Runner,
+      and The Reformer
 - [ ] [P2] The Paradox of Unanimity (Gunn, Chapeau-Blondeau, McDonnell, Davis, Allison & Abbott, "Too good to be true:
       when overwhelming evidence fails to convince", _Proc. Royal Society A_, 2016; the ancient rule that a unanimous
       capital verdict acquits, Talmudic Sanhedrin): when independent honest judgments should scatter, their perfect
@@ -2096,3 +2109,35 @@ shapes the soft thing blind, the world that builds on it and hardens it, the lat
 wheel locked, and the one who builds it to bend and keeps the later decision open cast as the personas The Maker, The
 Builder, The Watch, and The Steward. That takes the house to one hundred and sixty-nine, and returns the slate to
 Duverger's Law at the top of the unstruck P2 line.
+
+The house strikes Duverger's Law, staged as **The Wasted Vote**. The trap is that under a rule which seats the first
+alone, a vote for a third who cannot win is thrown away, so each voter deserts the third to be heard, and the desertions
+lock the field to two. An election runs under a plurality, winner-take-all rule: the single seat goes to whoever
+finishes first and nothing to anyone else. A third candidate stands, drawing real support and genuinely preferred by
+some, but not the most, so a vote for it wins nothing, the mechanical effect that under-rewards a third party in seats
+(Duverger). And a voter who prefers that third, seeing it cannot finish first, faces a choice: cast a sincere vote
+likely to be thrown away, or desert the true preference for whichever of the two front runners is the lesser evil, so as
+to have a say in the contest that will actually be decided. Choosing to be heard, the voter deserts, the anticipation of
+the wasted vote driving the sincere preference out, the psychological effect (Duverger; Cox). And here is the turn that
+makes it a trap: the third is deserted because it is judged unable to win, and being deserted is exactly what makes it
+unable to win, so the judgement fulfils itself and each desertion confirms that only two are viable, and the field locks
+to two, a self-reinforcing equilibrium in which the choices everyone then faces are narrowed to a pair, the third view
+unrepresented and the voter voting against rather than for. It is authored by no villain: each voter deserting the third
+is doing the rational thing, since a sincere vote for a candidate who cannot win forfeits any say in the real contest,
+and the two front runners who gather the deserters are only competing to win, and no one casts a vote meaning to narrow
+the nation's choices. It is cut to the wasted-vote-locks-the-field vector no staged misfit holds, and it is named clear
+of The Crowded Middle (two candidates edging to the centre spatially so both cluster alike, whereas here the voters'
+strategic desertion of a third under a counting rule, the field reduced in number to two and not converged in position),
+The Beauty Contest (players pricing opinion about opinion in a market with no counting rule, whereas here the
+coordination is on which candidates are viable under an electoral rule), and Information Cascade (each copying others'
+visible choices and discarding a private signal, whereas here the voter keeps its private preference intact and abandons
+only its expression, strategic voting and not belief-updating herd behaviour). And the whole is held against its own
+limit: the law is a tendency and not a determinism, holding most strongly at the single-member district but overridden
+nationally by a regionally concentrated third party, as in Canada and India, needing voters to share information about
+who is viable to bite, and shaped by enduring social cleavages as much as by the rule (Riker; Cox; Lipset and Rokkan).
+The law and its two effects and the corollary are homed to Duverger, the district-versus-national refinement to Riker,
+the strategic-coordination generalisation and the M+1 rule to Cox, and the cleavage critique to Lipset and Rokkan, with
+the third candidate stranded by the rule, the voter who deserts to be heard, the front runner who gathers the deserters,
+and the one who would count it by another ballot cast as the personas The Challenger, The Elector, The Front-Runner, and
+The Reformer. That takes the house to one hundred and seventy, and returns the slate to The Paradox of Unanimity at the
+top of the unstruck P2 line.
