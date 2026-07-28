@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.174.0",
+  "version": "0.175.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -998,6 +998,12 @@
       "id": "the_winning_bid",
       "title": "The Winning Bid",
       "description": "In a common-value auction the bidder who most overestimates wins, so to win is to have overpaid."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_worst_and_the_last",
+      "title": "The Worst and the Last",
+      "description": "An episode is remembered by its peak and its end, not its length, so the self recalling it can prefer the longer hurt."
     },
     {
       "kind": "misfit",
