@@ -2208,7 +2208,7 @@ hundred and seventy-one, and empties the current refill, its last target struck,
       the metabolism giving the life, held harder than most to a contested mechanism, the crude damage account much
       challenged (antioxidant nulls, mitohormesis, the hyperfunction alternative) and the disposable-soma trade-off the
       robust core, ageing not simply rust, with personas The Cold, The Body, The Housekeeper, and The Keeper
-- [ ] [P2] The Overjustification Effect (Deci, "Effects of Externally Mediated Rewards on Intrinsic Motivation", _JPSP_,
+- [x] [P2] The Overjustification Effect (Deci, "Effects of Externally Mediated Rewards on Intrinsic Motivation", _JPSP_,
       1971; Lepper, Greene & Nisbett, "Undermining Children's Intrinsic Interest with Extrinsic Reward", _JPSP_, 1973;
       Deci, Koestner & Ryan meta-analysis, 1999): a reward offered to encourage what people already did for its own sake
       reframes the act as done for the reward, so when the reward stops the intrinsic motivation that sustained it is
@@ -2217,7 +2217,18 @@ hundred and seventy-one, and empties the current refill, its last target struck,
       Metric Fixation's measure that becomes a target in that here the reward corrupts the motivation and not the
       measure; to be cut to the reward-crowds-out-the-motive vector, hedged to a documented effect strongest for
       tangible expected rewards on already-interesting tasks and weak or absent for dull tasks or unexpected or
-      informational rewards (Deci, Koestner & Ryan; Cameron & Pierce's dissent)
+      informational rewards (Deci, Koestner & Ryan; Cameron & Pierce's dissent); staged as **Paid to Stop Caring**, cut
+      to the reward-crowds-out-the-motive vector no staged misfit holds, a reward offered in good faith to encourage a
+      thing already done for love reframing the act as done for the reward so the inner motive is crowded out and the
+      doing falls below its unrewarded baseline when the reward stops, named clear of The Cobra Effect (a gamed incentive
+      breeding more of the bad thing, whereas here the motive crowded out and the behaviour collapsing), Metric Fixation
+      (the measure corrupted, whereas here the motivation, no measure involved), and Moral Licensing (a moral ledger
+      across acts, whereas here a single act's inner motive displaced by an outer one), with the first demonstration
+      homed to Deci, the over-justification naming and child-drawing test to Lepper, Greene and Nisbett, and the
+      meta-analytic synthesis and Cognitive Evaluation Theory to Deci, Koestner and Ryan, no villain since the rewarder
+      means only to encourage and the self reads its own reasons as anyone would, held to a real but bounded effect,
+      strongest for expected tangible controlling rewards on already-loved tasks and once sharply contested (Cameron and
+      Pierce), with personas The Lover, The Patron, The Onlooker, and The Steward
 - [ ] [P2] The Paradox of Choice (Iyengar & Lepper, "When Choice is Demotivating", _JPSP_, 2000; Schwartz, _The Paradox
       of Choice_, 2004): past a point more options do not free the chooser but overwhelm, so a larger assortment lowers
       the odds of choosing at all and the satisfaction of the choice made, each option added in good faith to serve a
@@ -2272,3 +2283,34 @@ disposable-soma economics to Kirkwood, with the cold default that only waits, th
 economy that funds the living over the mending, and the one who buys a little time by a slower fire at the cost of
 growth cast as the personas The Cold, The Body, The Housekeeper, and The Keeper. That takes the house to one hundred and
 seventy-two, and returns the slate to The Overjustification Effect at the top of the unstruck P2 line.
+
+The house strikes The Overjustification Effect, staged as **Paid to Stop Caring**. The trap is that a reward offered to
+encourage what someone already did for love reframes the act as done for the reward, so the love is crowded out and,
+when the reward stops, the doing falls below where it began. A person does a thing for its own sake, a child drawing for
+the delight of it, a solver working a puzzle for the fun of it, a volunteer giving blood because giving feels right, the
+motive inside the act and the act its own reward. And then, in good faith, someone offers a reward to encourage the
+valued thing, a gold star or a payment or a fee, by the ordinary rule that a reward strengthens a behaviour. But for a
+thing already loved the reward supplies a rival reason where none was needed: the person, seeing itself paid to do what
+it once did freely, reads a motive from the reward, that it must do the thing for the reward and not for love, an
+over-justification that crowds the inner motive out (Lepper, Greene and Nisbett; Deci). And when the reward stops or
+comes to feel too small, the doing does not return to where it began but falls below its unrewarded baseline, because
+the inner motive that once carried it has been displaced and does not spring back, so the child rewarded for drawing
+later draws less than the child never rewarded at all (Deci, Koestner and Ryan). It is authored by no villain: the one
+who offers the reward means only to encourage the valued thing and follows a sound rule true of almost everything a
+person does not already love, and the person whose motive shifts is not lazy or greedy but reading its own reasons as
+anyone reads them, from what it sees itself paid to do. It is cut to the reward-crowds-out-the-motive vector no staged
+misfit holds, and it is named clear of The Cobra Effect (a reward for a good outcome gamed into a workaround that breeds
+more of the very thing it meant to reduce, whereas here the incentive is not gamed but crowds out the inner motive and
+the behaviour collapses when the reward is gone), Metric Fixation (a measure made into a target that ceases to measure,
+the proxy corrupted, whereas here the motivation corrupted and no measure involved), and Moral Licensing (a good deed
+banked as moral credit a later lapse draws down, a virtue funding a vice across acts, whereas here a single act's inner
+motive displaced by an outer one). And the whole is held against its own limit: the effect is real but bounded,
+strongest for an expected tangible controlling reward given merely for doing an already-loved task and weak or absent
+for a dull task, an unexpected reward, or verbal praise, its magnitude once sharply contested and the debate resolving
+toward a real but conditional effect (Cameron and Pierce; Deci, Koestner and Ryan). The first demonstration is homed to
+Deci, the over-justification naming and the child-drawing test to Lepper, Greene and Nisbett, and the meta-analytic
+synthesis and Cognitive Evaluation Theory to Deci, Koestner and Ryan, with the one who did the thing for love and does
+it less once paid, the one who rewards in good faith by a rule that fails only for the loved thing, the self that reads
+the reward as the reason, and the one who would reward by informing rather than controlling cast as the personas The
+Lover, The Patron, The Onlooker, and The Steward. That takes the house to one hundred and seventy-three, and returns the
+slate to The Paradox of Choice at the top of the unstruck P2 line.
