@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.175.0",
+  "version": "0.176.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -314,6 +314,12 @@
       "id": "nothing_to_lose",
       "title": "Nothing to Lose",
       "description": "An actor whose harm tops its assets treats the excess as free, so it under-guards and the largest harms go undeterred."
+    },
+    {
+      "kind": "misfit",
+      "id": "on_good_authority",
+      "title": "On Good Authority",
+      "description": "A claim cited and re-cited in good faith gains an authority the evidence never gave it, so repetition reads as fact."
     },
     {
       "kind": "misfit",
