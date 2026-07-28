@@ -2009,7 +2009,7 @@ the one who reaches by another hand at a real cost cast as the personas The Bank
 Reformer. That takes the house to one hundred and sixty-eight, and empties the current refill, its last target struck,
 so the slate is refilled below.
 
-- [ ] [P1] The Collingridge Dilemma (Collingridge, _The Social Control of Technology_, 1980): early in a technology's
+- [x] [P1] The Collingridge Dilemma (Collingridge, _The Social Control of Technology_, 1980): early in a technology's
       life its course can still be changed but its harms are not yet known, and by the time the harms are known the
       technology is so entrenched that changing it is very costly, so the power to steer and the knowledge of where to
       steer are never available at the same time, distinct from Path Dependence and Lock-In's compounding switching
@@ -2018,7 +2018,18 @@ so the slate is refilled below.
       forgotten in that here the harms are genuinely unknowable early and not lost to memory, and from The Horizon
       Problem's plan blind past its instrument's edge in that here the knowledge does arrive but too late to act on
       cheaply; to be cut to the control-and-knowledge-never-coincide vector, hedged to a tendency and not a law, since
-      some harms are foreseeable and some entrenchments still reversible
+      some harms are foreseeable and some entrenchments still reversible; staged as **Known Too Late**, cut to the
+      power-and-knowledge-never-coincide vector no staged misfit holds, the young technology plastic and cheap to steer
+      while its harms cannot yet be known and set too hard to steer by the time they show, the power to change it and the
+      knowledge of how never in hand at once, named clear of Path Dependence and Lock-In (compounding switching costs and
+      a suboptimal standard, whereas here the inverse timing of knowledge and power and an unsteered harm), Chesterton's
+      Fence (a forgotten purpose, whereas here a genuinely unknowable early harm), and The Horizon Problem (the future
+      outside the frame, whereas here knowledge arriving too late to act cheaply), with the dilemma and its two horns and
+      the corrigibility answer homed to Collingridge, the responsible-innovation reassessment to Genus and Stirling, the
+      real-time and anticipatory assessment to Guston and Sarewitz, and the pacing problem to Marchant and colleagues, no
+      villain since the early hands act reasonably on a harm not yet knowable and the late hands meet the real weight of
+      entrenchment, held to a tendency and not an iron law, its horns softened by real foresight and by technologies built
+      to stay corrigible, with personas The Maker, The Builder, The Watch, and The Steward
 - [ ] [P2] Duverger's Law (Duverger, _Political Parties_, 1951; Riker, "The Two-Party System and Duverger's Law",
       _APSR_, 1982): under a plurality, winner-take-all electoral rule a vote for a third party is likely wasted, so
       each voter strategically deserts it for one of the two viable contenders, and this individually rational desertion
@@ -2052,3 +2063,36 @@ that breaks when acted on, close to Metric Fixation's measure that stops measuri
 already staged: the Ratchet Effect (Sandbag), Simpson's Paradox (The Bigger Picture), and the Curse of Knowledge (Second
 Nature), each caught by the concordance in REFERENCES.md. The three slated above are the pass's refill, worked from the
 top, and the slate opens at The Collingridge Dilemma.
+
+The house strikes The Collingridge Dilemma, staged as **Known Too Late**. The trap is that a technology is soft to shape
+when its form cannot yet be seen, and set hard by the time it can. A new technology enters the world plastic, its course
+open to being shaped or redirected or stopped at little cost, and at that early stage almost nothing can be known about
+what it will do at scale or to the society that takes it up, because those consequences do not yet exist to be measured;
+they emerge only as it is widely used. This is the first horn, the information problem: when the technology can be
+controlled, not enough is known to warrant controlling it, so it is let grow reasonably, no harm yet knowable to
+restrain it (Collingridge). And it grows: investment sinks in, systems come to depend on it, standards and habits settle
+around it, and it hardens. By the time its harms are finally plain and no longer deniable, the technology is so
+entrenched that changing it is slow and costly and resisted by everyone built around it. This is the second horn, the
+power problem: when enough is known to warrant control, control has become expensive and difficult (Collingridge). And
+the shape of the trap is not either horn but their coupling: the power to steer and the knowledge of where to steer are
+inversely available across the technology's life, high power and low knowledge early, high knowledge and low power late,
+and they never meet in the middle, so the same growth that reveals the harm is the growth that sets the thing beyond
+cheap reach. It is authored by no villain: the early decision to let the technology grow is reasonable, since no harm is
+yet knowable to act on, and the later inability to change it is not a failure of will but the real weight of sunk
+investment and dependency, and no one at either stage is negligent, since the knowledge and the power were never in the
+same hands at the same time. It is cut to the power-and-knowledge-never-coincide vector no staged misfit holds, and it
+is named clear of Path Dependence and Lock-In (compounding switching costs around an arbitrary early standard, the harm
+a suboptimal standard, whereas here the inverse timing of knowledge and power, the harm a governance failure over
+consequences that could not be known when they could have been acted on), Chesterton's Fence (a safeguard whose purpose
+was known once and forgotten, whereas here a harm genuinely unknowable early and never available to forget), and The
+Horizon Problem (the future simply outside the plan's frame, whereas here the knowledge does arrive, in frame, but too
+late to act on cheaply). And the whole is held against its own limit: the dilemma is a tendency and not an iron law, its
+horns softened since some harms are foreseeable through real-time and anticipatory assessment and some entrenchments are
+reversible, though foresight is itself imperfect and never closes the gap fully (Genus and Stirling; Guston and
+Sarewitz). The dilemma of control and its two horns and the corrigibility answer are homed to Collingridge, the
+responsible-innovation reassessment to Genus and Stirling, the real-time and anticipatory-governance softening to Guston
+and Sarewitz, and the pacing problem that evidences the second horn to Marchant and colleagues, with the early hand that
+shapes the soft thing blind, the world that builds on it and hardens it, the late hand that sees the harm and finds the
+wheel locked, and the one who builds it to bend and keeps the later decision open cast as the personas The Maker, The
+Builder, The Watch, and The Steward. That takes the house to one hundred and sixty-nine, and returns the slate to
+Duverger's Law at the top of the unstruck P2 line.
