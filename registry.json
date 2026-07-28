@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.173.0",
+  "version": "0.174.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -476,6 +476,12 @@
       "id": "someone_will_catch_me",
       "title": "Someone Will Catch Me",
       "description": "The rescue is certain, so no one builds a footing, and the kindness that will always catch you keeps you falling."
+    },
+    {
+      "kind": "misfit",
+      "id": "spoiled_for_choice",
+      "title": "Spoiled for Choice",
+      "description": "More options, offered in good faith, overwhelm the chooser, so a wider range lowers both choosing and its joy."
     },
     {
       "kind": "misfit",
