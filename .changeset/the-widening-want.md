@@ -1,0 +1,5 @@
+---
+"@chbrain/khai-misfits": minor
+---
+
+Add the misfit The Widening Want, a staging of the Tocqueville paradox (the revolution of rising expectations): as a society's conditions improve, expectations and aspirations rise faster than the conditions themselves, so the gap between what people have and what they now feel entitled to widens and discontent grows even as things get better, reform and progress breeding the very unrest they might be thought to quiet, no villain required since the reformer improves in good faith and the people whose expectations rise read their prospects rightly, the gap the arithmetic of a standard that climbs with the gain and then outruns it. Held against its bound and hedged: the felt gap is a real and documented pressure toward discontent but not a deterministic trigger of revolt, since grievance is widespread and revolution rare, and organization, resources, and political opportunity mediate whether a felt gap becomes collective action, so the house stages the structure and the pressure, not a guarantee of unrest.
