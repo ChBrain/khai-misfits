@@ -2184,7 +2184,7 @@ the same way, the reader who grows surest where the ground is weakest, and the s
 count cannot show cast as the personas The Witness, The Skew, The Believer, and The Skeptic. That takes the house to one
 hundred and seventy-one, and empties the current refill, its last target struck, so the slate is refilled below.
 
-- [ ] [P1] The Fire That Feeds You (Pearl, _The Rate of Living_, 1928; Harman, "Aging: A Theory Based on Free Radical
+- [x] [P1] The Fire That Feeds You (Pearl, _The Rate of Living_, 1928; Harman, "Aging: A Theory Based on Free Radical
       and Radiation Chemistry", _J. Gerontology_, 1956; Kirkwood, "Evolution of Ageing", _Nature_, 1977): the very
       metabolism that keeps a body alive, burning fuel to hold off the cold default of death, is the same process that
       damages and ages it, since the energy it makes throws off reactive byproducts that wear the cell and the
@@ -2196,7 +2196,18 @@ hundred and seventy-one, and empties the current refill, its last target struck,
       and not a defence overshooting; to be cut to the living-is-what-ages-you vector, hedged heavily to a contested
       family of theories, the crude free-radical account much challenged since antioxidant supplements do not extend
       life and some long-lived species run hot, the disposable-soma trade-off the more robust reading, no villain and no
-      external cause, the fire that fights death the fire that consumes
+      external cause, the fire that fights death the fire that consumes; staged as **The Fire That Feeds You**, cut to
+      the living-is-what-ages-you vector no staged misfit holds, the metabolism that holds a body off the cold default of
+      death the same fire that wears it and the disposable-soma economy that funds living over repair, so the body ages
+      not despite its living but because of it, named clear of Early and Uncounted (a single gene's antagonistic
+      pleiotropy, whereas here the metabolic cost of life itself and the whole-body budget, a complementary account),
+      The Load It Always Carried (mechanical fatigue summing load cycles, whereas here a chemical byproduct and starved
+      repair), and In Its Own Defence (a defence overshooting a threat, whereas here the ordinary running of the body
+      with no threat), with the rate-of-living link homed to Pearl, the free radical mechanism to Harman, and the
+      disposable-soma economics to Kirkwood, no villain and no external cause since the metabolism doing the damage is
+      the metabolism giving the life, held harder than most to a contested mechanism, the crude damage account much
+      challenged (antioxidant nulls, mitohormesis, the hyperfunction alternative) and the disposable-soma trade-off the
+      robust core, ageing not simply rust, with personas The Cold, The Body, The Housekeeper, and The Keeper
 - [ ] [P2] The Overjustification Effect (Deci, "Effects of Externally Mediated Rewards on Intrinsic Motivation", _JPSP_,
       1971; Lepper, Greene & Nisbett, "Undermining Children's Intrinsic Interest with Extrinsic Reward", _JPSP_, 1973;
       Deci, Koestner & Ryan meta-analysis, 1999): a reward offered to encourage what people already did for its own sake
@@ -2228,3 +2239,36 @@ Critique (a policy-exploited correlation that breaks when acted on, close to Met
 measuring). Dropped from consideration as already staged: the hedonic treadmill and hedonic adaptation, caught by the
 concordance in REFERENCES.md under Opponent-Process Theory as More to Stand Still. The three slated above are the pass's
 refill, worked from the top, and the slate opens at The Fire That Feeds You.
+
+The house strikes The Fire That Feeds You, staged under the same name. The trap is that the very fire a body burns to
+hold off the cold default of death is the fire that wears it, so it ages not despite its living but because of it. A
+body is not the default state of its matter: the default is the cold, still, low-energy equilibrium all matter drifts
+toward, and a living body holds itself away from that only by burning fuel without pause, the fire of metabolism that
+powers every beat and repair and thought. But the fire is not clean, throwing off the reactive byproducts of oxidative
+metabolism that damage the very cell that made them, so the warmth that holds off the cold also scorches, an idea
+running from Pearl's rate of living to Harman's free radical theory (Pearl; Harman). And beneath the chemistry an
+economy: a finite budget split between living and reproducing now and repairing the soma for later, evolved to fund the
+first and starve the second, because the world ends bodies by predation and accident regardless of their upkeep, so a
+body built to last forever would waste its budget on a soma that will not survive to use it, and natural selection funds
+only enough repair to carry the body through its span of reproduction and then lets the soma go, Kirkwood's disposable
+soma (Kirkwood). So the wearing is the living: the fire that fights death is the fire that consumes, and the economy
+that funds the living is the economy that starves the repair. It is authored by no villain and by no external cause: the
+metabolism doing the damage is the same metabolism keeping the body alive, the cold is no attacker but only the waiting
+rest, and the under-investment in repair is not a fault but an evolved and reasonable allocation, so nothing wears the
+body down but its own necessary living. It is cut to the living-is-what-ages-you vector no staged misfit holds, and it
+is named clear of Early and Uncounted (a single gene's antagonistic pleiotropy sheltered by the declining force of
+selection, whereas here the metabolic cost of life itself and the disposable-soma allocation of the whole body's budget,
+a complementary evolutionary account cut to a different vector), The Load It Always Carried (increments of mechanical
+fatigue summing until a part fractures under its load, whereas here a chemical byproduct of the life process and the
+starving of repair, a metabolic and economic wearing), and In Its Own Defence (a defence escalating correctly against an
+invader but wrecking the host, whereas here the ordinary running of the body with no threat and no response, the plain
+cost of being alive). And the whole is held against its own limit, hedged harder than most, because the mechanism is
+genuinely contested: the crude free radical and rate-of-living accounts are much challenged, since antioxidant
+supplements do not extend life, some reactive species act as beneficial signals, and a serious rival holds ageing to be
+the runaway continuation of growth programmes rather than accumulated damage, so the house stages the robust core the
+accounts share, that ageing is a cost intrinsic to the living process, and not the contested claim that oxidative damage
+is the one true cause. The rate-of-living link is homed to Pearl, the free radical mechanism to Harman, and the
+disposable-soma economics to Kirkwood, with the cold default that only waits, the body worn by its own fire, the evolved
+economy that funds the living over the mending, and the one who buys a little time by a slower fire at the cost of
+growth cast as the personas The Cold, The Body, The Housekeeper, and The Keeper. That takes the house to one hundred and
+seventy-two, and returns the slate to The Overjustification Effect at the top of the unstruck P2 line.
