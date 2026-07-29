@@ -2738,7 +2738,7 @@ whose inattention is no ingratitude but the shape of a life, and the one who cut
 the personas The Asker, The Judge, The Dweller, and The Assessor. That takes the house to one hundred and eighty, and
 empties the current refill, its last target struck, so the slate is refilled below.
 
-- [ ] [P1] The Base Rate Fallacy (Kahneman & Tversky on representativeness, 1972; Bar-Hillel, "The base-rate fallacy in
+- [x] [P1] The Base Rate Fallacy (Kahneman & Tversky on representativeness, 1972; Bar-Hillel, "The base-rate fallacy in
       probability judgments", _Acta Psychologica_, 1980; Casscells, Schoenberger & Grayboys, _NEJM_, 1978): in judging
       the probability of a hypothesis given specific evidence, people fix on how well the evidence fits the hypothesis
       and neglect the prior probability, the base rate, so a positive test for a rare condition is read as near-certain
@@ -2748,7 +2748,20 @@ empties the current refill, its last target struck, so the slate is refilled bel
       in that here the specific evidence is overweighted against a neglected base rate in a probability judgment; to be
       cut to the neglected-prior vector, hedged to the conditions where the base rate is pallid and statistical, since
       people use priors better when the information is framed as natural frequencies or the base rate is made causal
-      (Gigerenzer and Hoffrage; Tversky and Kahneman) and not a claim that people never use priors.
+      (Gigerenzer and Hoffrage; Tversky and Kahneman) and not a claim that people never use priors; staged as **The Rare
+      Disease Test**, cut to the neglected-prior vector no staged misfit holds, specific evidence about a hypothesis
+      crowding out the prior probability of that hypothesis so a positive result for a rare condition is read as far
+      more conclusive than the arithmetic supports, named clear of The False Trade-Off (a spurious correlation
+      manufactured by a selection rule applied across a population, whereas here one reasoner with all the numbers
+      available simply weighs specific evidence over a prior) and Larger in the Looking (attention magnifying a factor's
+      felt importance in a forward-looking judgment about well-being, whereas here specific evidence crowding out an
+      abstract prior in a backward-looking probability judgment), with the mechanism of representativeness and its
+      naming homed to Kahneman and Tversky, the clinical demonstration to Casscells, Schoenberger and Grayboys, the
+      systematic account of when base rates are neglected to Bar-Hillel, and the natural-frequency remedy to Gigerenzer
+      and Hoffrage, no villain since the test performs exactly as advertised and the reader weighs the vivid result
+      exactly as representativeness makes natural, hedged, the neglect strongest under pallid framing and weakened
+      sharply by natural frequencies or a causal story, with personas The Population, The Instrument, The Reader, and
+      The Statistician
 - [ ] [P2] The Decoy Effect (Huber, Payne & Puto, "Adding Asymmetrically Dominated Alternatives: Violations of
       Regularity and the Similarity Hypothesis", _Journal of Consumer Research_, 1982; the attraction effect
       literature): adding a third option clearly worse than one existing option but not the other shifts choice toward
@@ -2785,3 +2798,39 @@ for rank). Dropped from consideration this pass as already staged: Berkson's par
 Condorcet paradox of cycling majorities (Whoever Asks Last), bikeshedding and the law of triviality (The Colour of the
 Bike Shed), and the hot-hand and gambler's fallacies over regression to the mean (The Bounce). The three slated above
 are the pass's refill, worked from the top, and the slate opens at The Base Rate Fallacy.
+
+The house strikes The Base Rate Fallacy, staged as **The Rare Disease Test**. The trap is that in judging the
+probability of a hypothesis given specific evidence, people fix on how well the evidence fits the hypothesis and neglect
+the prior probability, so a positive test for a rare condition is read as near certain when it is in fact more likely a
+false positive, a sound test and an ordinary act of reasoning together yielding a confident wrong conclusion. A rare
+condition exists in a population at a low real rate, and a test for it is good, wrong only rarely, a fine instrument by
+any ordinary standard. A person takes the test in good faith and it returns positive, and the mind asks how likely a
+result like this is if the person has the condition, and the test answers that clearly, so the positive is read as near
+proof (Kahneman and Tversky). But that is the wrong question answered instead of the right one, since the right
+question, how likely the hypothesis given the evidence, depends on how rare the hypothesis was to begin with, and
+because the condition is rare, even a small false positive rate applied to the vast healthy majority produces more false
+positives than true positives, so among all the positive results most are false, physicians and students given the
+numbers mostly failing to compute the true probability, some reading near certainty where it sits under one in ten
+(Casscells, Schoenberger and Grayboys). The mechanism is representativeness, judging probability by how well a case fits
+a category and setting aside how common the category was, so the base rate is not refused but crowded out by the more
+vivid evidence in hand (Kahneman and Tversky; Bar-Hillel). It is authored by no villain: the test was built and used in
+good faith and performs exactly at its advertised rate, and the one who reads the positive result and weighs it heavily
+is doing what representativeness makes natural, attending to the evidence most directly in front of them over an
+abstract number that sits further from the case at hand. It is cut to the neglected-prior vector no staged misfit holds,
+and it is named clear of The False Trade-Off (a spurious correlation manufactured by a selection rule applied across a
+population, a collider bias with no single judgment being made, whereas here no selection filters a population at all,
+one reasoner with all the relevant numbers weighing specific evidence over a prior, an error of inference and not of
+sampling) and Larger in the Looking (attention magnifying a factor's felt importance in a forward-looking judgment about
+well-being, whereas here a specific, vivid piece of evidence crowds out an abstract, pallid prior in a backward-looking
+probability judgment about a hypothesis given data, attention playing no defining role in either the mechanism or the
+name). And the whole is held against its own limit, hedged, because the neglect is strongest when the base rate is
+presented as a pallid, non-causal statistic and weakens sharply under natural-frequency framing or a causal story for
+the base rate, so the house stages the neglect as a real and well-documented tendency under ordinary framing and not a
+claim that people are incapable of using base rates at all (Bar-Hillel; Gigerenzer and Hoffrage). The mechanism and the
+name are homed to Kahneman and Tversky, the clinical demonstration to Casscells, Schoenberger and Grayboys, the
+systematic account of the neglect to Bar-Hillel, and the natural-frequency remedy and its bound to Gigerenzer and
+Hoffrage, with the many whose true rate is the missing prior rarely consulted, the instrument true to its own advertised
+accuracy and misread as more, the reader whose sound question yields an unsound confidence, and the one whose true sum
+must work harder to be believed than the false certainty it corrects cast as the personas The Population, The
+Instrument, The Reader, and The Statistician. That takes the house to one hundred and eighty-one, and returns the slate
+to The Decoy Effect at the top of the unstruck P2 line.
