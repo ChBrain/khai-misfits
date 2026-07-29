@@ -2553,7 +2553,7 @@ risen prices last with money that has not grown, and the one who reads the net t
 contested cast as the personas The Spring, The First Hand, The Last Hand, and The Reckoner. That takes the house to one
 hundred and seventy-seven, and empties the current refill, its last target struck, so the slate is refilled below.
 
-- [ ] [P1] The Tocqueville Paradox (Tocqueville, _The Old Regime and the Revolution_, 1856; Davies, "Toward a Theory of
+- [x] [P1] The Tocqueville Paradox (Tocqueville, _The Old Regime and the Revolution_, 1856; Davies, "Toward a Theory of
       Revolution", the J-curve, _American Sociological Review_, 1962): as a society's conditions improve, expectations
       and aspirations rise faster than the conditions themselves, so the gap between what people have and what they now
       feel entitled to widens and discontent grows even as things get better, reform and progress breeding the very
@@ -2561,7 +2561,18 @@ hundred and seventy-seven, and empties the current refill, its last target struc
       rising is of forward-looking social expectations and not a felt pleasure resetting to a neutral baseline, the harm
       a widening gap and its discontent and not a treadmill of dimming satisfaction; to be cut to the
       improvement-raises-expectations-faster vector, hedged to a documented pattern of rising-then-checked expectations
-      (Davies's J-curve) rather than a law that every improvement breeds revolt.
+      (Davies's J-curve) rather than a law that every improvement breeds revolt; staged as **The Widening Want**, cut to
+      the improvement-raises-expectations-faster vector no staged misfit holds, an improvement offered in good faith
+      raising the expectations against which the remaining shortfall is judged, so as conditions get better the gap
+      between what is had and what is expected widens and discontent grows, named clear of More to Stand Still (a
+      backward-looking individual hedonic reset toward a neutral baseline, whereas here a forward-looking rise of social
+      expectation opening a gap felt as grievance) and The Arms Race (a rivalrous outspending for rank against others,
+      whereas here a gap against one's own rising expectations over time, no rival and no rank), with the observation
+      that revolution follows improvement homed to Tocqueville, the J-curve of rising expectations and sharp reversal to
+      Davies, relative deprivation to Stouffer and Runciman and Gurr, and the mediating role of mobilization to the
+      resource-mobilization literature, no villain since the reformer relieves in good faith and the people read their
+      prospects rightly, hedged, the felt gap a real pressure and not a deterministic trigger, grievance widespread and
+      revolt rare, with personas The Reformer, The Riser, The Aggrieved, and The Historian
 - [ ] [P2] The Hydra Effect (Abrams, "When does greater mortality increase population size? The long history and diverse
       mechanisms of the hydra effect", _Ecology Letters_, 2009): killing or harvesting a fraction of a population can
       raise its total abundance, since the deaths relax the competition, food shortage, or cannibalism that held the
@@ -2597,3 +2608,43 @@ Success Trap), the normalization of deviance (The New Normal), the streetlight e
 Money After Bad), the paradox of thrift (its own name), the planning fallacy (its own name), and social loafing (its own
 name). The three slated above are the pass's refill, worked from the top, and the slate opens at The Tocqueville
 Paradox.
+
+The house strikes The Tocqueville Paradox, staged as **The Widening Want**. The trap is that as a society's conditions
+improve, expectations and aspirations rise faster than the conditions, so the gap between what people have and what they
+now feel entitled to widens and discontent grows even as things get better, reform and progress breeding the very unrest
+they might be thought to quiet. A reform relieves an oppression long borne, a right is extended, a standard of living
+rises, and the improvement is real and offered in good faith to close a gap between how people live and how they might.
+But the gain does not only add to what people have: it raises what they expect, because a gain once shown is a gain now
+expected and a burden once seen to be liftable is a burden no longer borne as inevitable, so expectations rise with the
+conditions and past a point rise faster, and the gap widens rather than closes (Tocqueville). Tocqueville read it in the
+French Revolution, which broke out not where oppression was heaviest but where it had most been eased, an evil patiently
+endured while it seemed inescapable turning intolerable the moment escape is conceived, so the very parts of the old
+regime that reform had improved were the parts whose remaining faults were felt as least bearable (Tocqueville). And
+Davies gave the shape a curve: a prolonged rise in expectations and their gratification followed by a short sharp
+reversal opens an intolerable gap, expectation still climbing on the memory of the long improvement while gratification
+drops, and it is the distance between the expected and the actual, not the absolute level of either, that turns to
+unrest (Davies). Beneath both lies relative deprivation, discontent measured not against zero but against a standard, so
+when the standard rises faster than attainment the felt shortfall grows even as attainment grows, and people are
+angriest not where they have least but where they have gained much and looked for more (Stouffer; Runciman; Gurr). It is
+authored by no villain: the reformer improves conditions for their own sake and means only to relieve, following the
+plain and good rule that to lift a burden is to do good, and the people whose expectations rise are not ingrates but
+reading their prospects rightly, since an improvement demonstrated is reasonably expected to continue and extend, so no
+one raises the expectations on purpose or against the conditions and the gap is the arithmetic of a standard that climbs
+with the gain and then outruns it. It is cut to the improvement-raises-expectations-faster vector no staged misfit
+holds, and it is named clear of More to Stand Still (a backward-looking and individual reset of perception toward a
+neutral hedonic baseline, the felt pleasure dimming as a good persists, whereas here a forward-looking rise of social
+expectation and aspiration and a widening gap felt as grievance, not a treadmill of dimming satisfaction) and The Arms
+Race (a rivalrous outspending for rank where the comparison is to others and the spending cancels, whereas here the
+comparison is to one's own rising expectations over time, no rival and no rank, the gap between what one has and what
+one has come to expect). And the whole is held against its own limit, hedged, because the felt gap between rising
+expectations and slower or reversing conditions is a real and documented pressure toward discontent but not a
+deterministic trigger of revolt, since grievance is widespread and revolution rare and organization, resources, and
+political opportunity mediate whether a felt gap becomes collective action, so the house stages the structure and the
+pressure and not a guarantee of unrest (Davies; Gurr; the mobilization critique). The observation that revolution
+follows improvement and that reform inflames is homed to Tocqueville, the J-curve of rising expectations and sharp
+reversal to Davies, relative deprivation as the felt gap to Stouffer and Runciman and Gurr, and the mediating role of
+mobilization to the resource-mobilization literature, with the reformer whose honest gain raises the bar it is then
+judged by, the one whose reasonable hope outruns the gain, the one whose real grievance is sharpest where the gain was
+greatest, and the one who reads the pattern and holds it to a bound cast as the personas The Reformer, The Riser, The
+Aggrieved, and The Historian. That takes the house to one hundred and seventy-eight, and returns the slate to The Hydra
+Effect at the top of the unstruck P2 line.
