@@ -2923,7 +2923,7 @@ historian who records a true vindication without overreaching it cast as the per
 Skeptic, and The Historian. That takes the house to one hundred and eighty-three, and empties the current refill, its
 last target struck, so the slate is refilled below.
 
-- [ ] [P1] The Hot-Cold Empathy Gap (Loewenstein, "Out of Control: Visceral Influences on Behavior", _Organizational
+- [x] [P1] The Hot-Cold Empathy Gap (Loewenstein, "Out of Control: Visceral Influences on Behavior", _Organizational
       Behavior and Human Decision Processes_, 1996; Loewenstein, "Hot-Cold Empathy Gaps and Medical Decision Making",
       _Health Psychology_, 2005): people in a cool, calm state cannot accurately predict how a visceral state, hunger,
       pain, fear, desire, will change their own preferences and behavior, so plans made in the cold state are abandoned
@@ -2933,7 +2933,17 @@ last target struck, so the slate is refilled below.
       reward nears, a change in what is wanted and not only in how soon it is wanted; to be cut to the
       state-blind-to-its-opposite vector, hedged to gaps that vary by domain and by the intensity and salience of the
       visceral state, strongest for acute drive states and weaker for milder or more familiar ones, not a claim that all
-      self-prediction fails.
+      self-prediction fails; staged as **Ask Me When It Hurts**, cut to the state-blind-to-its-opposite vector no staged
+      misfit holds, a calm plan honestly wrong about a visceral state because the state changes what is wanted and not
+      only how urgently, named clear of Starting Tomorrow (the same reward discounted more steeply as it nears in time,
+      the want unchanged and only its weighting shifting, whereas here the want itself changes in kind because of the
+      visceral state's presence, not its timing), with the framework and the mechanism homed to Loewenstein's 1996
+      paper, the applied medical decision-making case and its stakes to Loewenstein's 2005 paper, and the boundary and
+      domain-variation findings to the wider visceral-influence and empathy-gap literature that followed, no villain
+      since the cold self reasons soundly from what it can access and the hot self is not weak-willed but is, in that
+      moment, honestly a different self, hedged, a gap that varies by domain and by the intensity and familiarity of the
+      visceral state and not a claim that all self-prediction fails, with personas The Cold Self, The Hot Self, The
+      Steward, and The Record
 - [ ] [P2] The IKEA Effect (Norton, Mochon & Ariely, "The IKEA Effect: When Labor Leads to Love", _Journal of Consumer
       Psychology_, 2012): people assign disproportionately higher value to things they partially built or assembled
       themselves, even when the finished result is objectively no better than a comparable pre-made version, so labor
@@ -2966,3 +2976,40 @@ Law and Metric Fixation in the feed). Carried forward, still held pending a dist
 policy-exploited correlation that breaks when acted on, close to Metric Fixation's measure that stops measuring once
 made a target). The three slated above are the pass's refill, worked from the top, and the slate opens at The Hot-Cold
 Empathy Gap.
+
+The house strikes The Hot-Cold Empathy Gap, staged as **Ask Me When It Hurts**. The trap is that people in a cool, calm
+state cannot accurately predict how a visceral state, hunger, pain, fear, desire, will change their own preferences and
+behavior, so plans made in the cold state are abandoned or reversed once the hot state arrives, and the planning self
+and the acting self disagree though both are the same person judging honestly from where it stands. A person free of
+hunger, pain, fear, or desire makes a plan or a decision that depends on how they will feel or want later, and the plan
+is sincere, reasoned from everything the calm state can access. But a visceral state is not fully imaginable from
+outside itself: hunger cannot be recalled with its true pull once sated, pain cannot be simulated with its true urgency
+once it has passed, and desire cannot be weighed at its true strength before it is felt, so the calm state's forecast of
+the gripped state is honestly made and reliably wrong (Loewenstein, "Out of Control: Visceral Influences on Behavior",
+1996). When the visceral state arrives, real and involuntary, it does not merely make the calm plan harder to keep, it
+changes what is wanted, narrowing attention onto the drive and its relief and crowding out the considerations the calm
+plan weighed, so the plan is abandoned or reversed by a self that is not weak-willed but is, in that moment, honestly a
+different self, wanting something the earlier self could not have wanted on its behalf (Loewenstein, 1996). The gap
+carries real stakes outside the laboratory: a patient in a calm consultation room honestly underpredicts how much a
+future pain state will drive their own choices, and so may decline in the calm state an intervention the gripped state
+will urgently want, or accept in the gripped state what the calm state would have refused, a mispredicted preference
+with consequences a clinic has to plan around, for consent, for treatment, for the directives a person leaves for a
+future self they cannot yet fully imagine (Loewenstein, "Hot-Cold Empathy Gaps and Medical Decision Making", 2005). It
+is authored by no villain: the calm self reasons soundly from what it can access, and the gripped self is not overridden
+by a worse impulse but is genuinely pursuing what it, honestly and in that moment, wants, neither self lying and neither
+weak, and no one designed the gap between them. It is cut to the state-blind-to-its-opposite vector no staged misfit
+holds, and it is named clear of Starting Tomorrow (a reward's value spiking as it nears in time, the ranking of a
+smaller-sooner against a larger-later reward reversing purely as a function of proximity, the same want discounted more
+steeply and not altered in kind, whereas here the preference itself changes in kind because of a visceral state's
+presence, not its timing, a person freezing hungry not merely discounting food's value less steeply as mealtime nears
+but coming to want food in a way the sated self could not feel on their behalf). And the whole is held against its own
+limit, hedged, because the gap is documented and varies by domain and by the intensity and familiarity of the visceral
+state, strongest for acute and unfamiliar drive states and weaker for mild or well-rehearsed ones, not a claim that all
+self-prediction fails or that a calm plan is never worth making (the visceral-influence and empathy-gap literature that
+followed Loewenstein). The framework and the mechanism are homed to Loewenstein's 1996 paper, the applied case and its
+stakes to Loewenstein's 2005 paper, and the boundary and domain-variation findings to the wider visceral-influence and
+empathy-gap literature that followed, with the calm self whose honest forecast is built without the one thing that will
+decide it, the gripped self whose honest want overrules an honest plan neither self made false, the steward who narrows
+the gap by asking nearer the threshold without ever closing it for good, and the record that keeps the pattern honest by
+keeping its edges cast as the personas The Cold Self, The Hot Self, The Steward, and The Record. That takes the house to
+one hundred and eighty-four, and returns the slate to The IKEA Effect at the top of the unstruck P2 line.
