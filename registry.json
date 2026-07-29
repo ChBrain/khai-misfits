@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.181.0",
+  "version": "0.182.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -992,6 +992,12 @@
       "id": "the_survivors",
       "title": "The Survivors",
       "description": "You study the survivors and armor the bullet holes, because the planes hit elsewhere never came back to be counted."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_third_option",
+      "title": "The Third Option",
+      "description": "A dominated third option, chosen by no one, shifts the choice between two fair alternatives toward the one it flatters."
     },
     {
       "kind": "misfit",
