@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 182 misfits, 880 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 183 misfits, 881 scholars.
 
 ## By science
 
@@ -596,6 +596,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | ↳ | `the_skill_to_see_it` | "Unskilled, Unaware, or Both?" (JPSP, 2002); "The Dunning-Kruger Effect Is (Mostly) a Statistical Artefact" (Intelligence, 2020) <br><sub>Krueger & Mueller; Gignac & Zajenkowski</sub> | The counter-reading and the bound: much of the classic pattern is reproduced by regression to the mean plus the better-than-average tendency, even from random data, so the size and the metacognitive interpretation of the effect are genuinely disputed. The Lesson, the bound. |
 | **Kruger** | `the_skill_to_see_it` | "Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments" (JPSP, 1999) <br><sub>Kruger & Dunning</sub> | The coinage: the skill needed to produce a right answer is the skill needed to recognise one, so the incompetent lack the metacognition to see their incompetence and overrate themselves, and training that lifts skill lifts self-insight with it. The Double Duty, the Broken Ruler, the Lesson. |
 | **Krugman** | `pushing_on_a_string` | "It's Baaack: Japan's Slump and the Return of the Liquidity Trap" (Brookings Papers, 1998) | The modern revival: Japan's slump reframes the trap as a problem of expectations, the central bank unable to stimulate because it cannot credibly promise future inflation, so the escape is to commit believably to being loose in the future, which a conservative bank finds hard. The String, the Other Hand. |
+| **Kuhn** | `no_place_in_the_theory` | The Structure of Scientific Revolutions (1962) | The framework: normal science operates within a paradigm that determines what counts as a legitimate finding, and an anomaly the paradigm cannot accommodate is typically set aside or explained away rather than immediately overturning the paradigm, until anomalies accumulate past a threshold. The Sound Default, the scope of paradigm resistance. |
 | **Kuran** | `safe_to_say` | "Now Out of Never: The Element of Surprise in the East European Revolution of 1989" (World Politics, 1991) | The cascade: why the 1989 revolutions caught everyone unprepared, since the hidden true preferences meant a small shift in the safety of speaking could tip mass concealment into mass revelation, an outcome no reading of the public record could have forecast. The Cascade. |
 | ↳ | `safe_to_say` | Private Truths, Public Lies: The Social Consequences of Preference Falsification (1995) | The coinage and model: names preference falsification, the public stance chosen by weighing reputational payoff against the inner cost of betraying one's conviction, and works out its consequences, unpopular orders upheld by their own opponents, distorted public knowledge, and unforeseeable upheaval. The Private Truth, the Public Lie. |
 | ↳ | `the_availability_cascade` | "Availability Cascades and Risk Regulation" (Stanford Law Review, 1999) <br><sub>Kuran and Sunstein</sub> | The spine: the availability cascade itself, the informational and reputational chain that inflates a risk perception and drives regulation by salience. The governing law. |
@@ -1290,6 +1291,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `no_need_to_ask` | Mahdavy; Beblawi & Luciani; Karl; Ross |
 | `no_one_gains_by_telling_you` | Xavier Gabaix and David Laibson; Stefano DellaVigna and Ulrike Malmendier; Practitioner |
 | `no_one_in_charge` | Jo Freeman; George C. Homans; Robert Michels; Jane Mansbridge; Francesca Polletta |
+| `no_place_in_the_theory` | The historical record of Semmelweis's finding; Kuhn; The philosophy and sociology of science literature |
 | `no_way_back_up` | Hermann J. Muller; John Haigh; Joseph Felsenstein; John Maynard Smith; Michael Lynch, Reinhard Bürger, David Butcher and Wilfried Gabriel |
 | `nobody_reads_it` | Alan Schwartz and Louis Wilde; George Stigler; Steven Salop and Joseph Stiglitz; Friedrich Kessler; Yannis Bakos, Florencia Marotta-Wurgler and David Trossen |
 | `not_invented_here` | Katz & Allen; Allen; Tajfel & Turner; Antons & Piller; Chesbrough; Practitioner |

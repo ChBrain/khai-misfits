@@ -1,0 +1,5 @@
+---
+"@chbrain/khai-misfits": minor
+---
+
+Add the misfit No Place in the Theory, a staging of the Semmelweis reflex: a valid finding that contradicts an established paradigm is reflexively rejected, because each expert reasonably weighs the anomalous claim against the great accumulated weight of accepted theory and finds it likelier an error in the finding than a truth the theory cannot explain, so a field can dismiss a correct discovery for want of a mechanism or a place in its paradigm, no villain required since the theory was built honestly and each expert applies the same sound epistemic practice that ordinarily serves the field well. Held against its bound and hedged: this is a documented tendency traced in cases of genuine anomaly and not a claim that consensus is generally wrong to resist novelty, since the same default that occasionally buries a true finding rightly rejects the far more common false ones, so the house stages the pattern and its documented cases and not a general indictment of scientific caution.

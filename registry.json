@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.182.0",
+  "version": "0.183.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -290,6 +290,12 @@
       "id": "no_one_in_charge",
       "title": "No One in Charge",
       "description": "A group that refuses leaders does not abolish power but hides it in an informal elite no one can hold to account."
+    },
+    {
+      "kind": "misfit",
+      "id": "no_place_in_the_theory",
+      "title": "No Place in the Theory",
+      "description": "A theory's earned authority outweighs a true but mechanism-less anomaly, so sound reasoning rejects a valid discovery."
     },
     {
       "kind": "misfit",
