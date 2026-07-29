@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.180.0",
+  "version": "0.181.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -926,6 +926,12 @@
       "id": "the_proxy",
       "title": "The Proxy",
       "description": "Unable to see you, the market prices you by your group's average, and the discount it sets makes that average come true."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_rare_disease_test",
+      "title": "The Rare Disease Test",
+      "description": "A test is accurate, but the condition is rare, so a positive result is read as certain when it is likely false."
     },
     {
       "kind": "misfit",
