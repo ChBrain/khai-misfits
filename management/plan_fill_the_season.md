@@ -2944,7 +2944,7 @@ last target struck, so the slate is refilled below.
       moment, honestly a different self, hedged, a gap that varies by domain and by the intensity and familiarity of the
       visceral state and not a claim that all self-prediction fails, with personas The Cold Self, The Hot Self, The
       Steward, and The Record
-- [ ] [P2] The IKEA Effect (Norton, Mochon & Ariely, "The IKEA Effect: When Labor Leads to Love", _Journal of Consumer
+- [x] [P2] The IKEA Effect (Norton, Mochon & Ariely, "The IKEA Effect: When Labor Leads to Love", _Journal of Consumer
       Psychology_, 2012): people assign disproportionately higher value to things they partially built or assembled
       themselves, even when the finished result is objectively no better than a comparable pre-made version, so labor
       invested becomes value perceived independent of the labor's contribution to quality, distinct from Loath to Part's
@@ -2952,7 +2952,19 @@ last target struck, so the slate is refilled below.
       possession, a builder who abandons the task partway showing none of the effect, ownership alone insufficient; to
       be cut to the labor-inflates-value vector, hedged to completed or successfully assembled builds and to a effect
       that varies with task difficulty and is roughly proportional to the labor felt as meaningfully one's own, not a
-      claim that effort always breeds attachment regardless of outcome.
+      claim that effort always breeds attachment regardless of outcome; staged as **A Little Crooked, and Mine**, cut to
+      the labor-inflates-value vector no staged misfit holds, real effort spent building or assembling something
+      generating a felt ownership that inflates the builder's own valuation of the finished result independent of its
+      objective quality, so a trade both sides would gain from can go unmade since only one side felt the labor that set
+      the price, named clear of Loath to Part (mere possession alone, no labor required, lifting a value above what any
+      buyer will pay, whereas here the inflation is specifically the labor of construction, an abandoned build possessed
+      exactly as long as a finished one showing none of the extra inflation), with the case, the mechanism, and the
+      documented bound homed to Norton, Mochon and Ariely's 2012 paper, and the deeper theoretical grounding for why
+      labor and not mere time carries the inflation to the wider psychological-ownership and effort-justification
+      literature that followed, no villain since the builder's valuation is sincerely felt and the appraiser's plain
+      judgment is not coldness but an honest read of an object it did not build, hedged, an effect that requires a
+      completed build and tracks task difficulty and not a claim that all effort breeds attachment regardless of
+      outcome, with personas The Builder, The Appraiser, The Abandoner, and The Witness
 - [ ] [P2] The Spotlight Effect (Gilovich, Medvec & Savitsky, "The Spotlight Effect in Social Judgment: An Egocentric
       Bias in Estimates of the Salience of One's Own Actions and Appearance", _Journal of Personality and Social
       Psychology_, 2000): people overestimate how much others notice and judge their appearance and behavior, since
@@ -3013,3 +3025,38 @@ decide it, the gripped self whose honest want overrules an honest plan neither s
 the gap by asking nearer the threshold without ever closing it for good, and the record that keeps the pattern honest by
 keeping its edges cast as the personas The Cold Self, The Hot Self, The Steward, and The Record. That takes the house to
 one hundred and eighty-four, and returns the slate to The IKEA Effect at the top of the unstruck P2 line.
+
+The house strikes The IKEA Effect, staged as **A Little Crooked, and Mine**. The trap is that people assign
+disproportionately higher value to things they partially built or assembled themselves, even when the finished result is
+objectively no better than a comparable pre-made version, so labor invested becomes value perceived independent of the
+labor's contribution to quality. A person undertakes to build or assemble something themselves, a piece of furniture, a
+folded paper crane, a set of building blocks, and invests real effort in the task, honestly engaged and not performing
+the labor for show. The building itself is the mechanism: the labor generates a felt sense that the finished object is
+meaningfully one's own, produced by one's own hands and not merely acquired, and this felt ownership inflates the
+object's value in the builder's own eyes independent of the object's objective quality, so a non-expert's imperfect,
+even crooked, creation is regarded by its maker as comparable in worth to an expert's polished one (Norton, Mochon and
+Ariely, "The IKEA Effect: When Labor Leads to Love", 2012). When the object meets an outside eye, a buyer, a stranger,
+an appraiser with no stake in the labor that made it, the plain judgment lands far below the builder's own, and the
+trade both sides would gain from, the builder wanting to sell and a buyer willing to pay a fair market price, does not
+happen, since the builder's honestly felt price sits above what any buyer, feeling none of the labor, will pay (Norton,
+Mochon and Ariely, 2012). The mechanism is bounded in a way that sharpens what it is: an abandoned build, begun but
+never finished, shows none of the inflation, so the effect is not the mere passage of time spent on a task or simple
+exposure to it, but requires a completed, successfully assembled object the builder can call finished and their own, and
+the effect is not uniform, varying with task difficulty and roughly proportional to the labor felt as meaningfully one's
+own (Norton, Mochon and Ariely, 2012). It is authored by no villain: the builder's valuation is sincerely felt,
+generated by real labor and not manufactured for advantage, and the appraiser's plain judgment is not coldness but an
+honest read of an object it did not build. It is cut to the labor-inflates-value vector no staged misfit holds, and it
+is named clear of Loath to Part (mere possession alone, no labor required, lifting a value above what any buyer will pay
+the instant a thing changes hands, whereas here the inflation comes specifically from the effort of construction, a
+builder who abandons the task partway possessing the unfinished object exactly as long and exactly as fully as a builder
+who finishes it yet showing none of the extra inflation the finisher shows). And the whole is held against its own
+limit, hedged, because the effect requires a completed build and varies with task difficulty and is roughly proportional
+to the labor felt as meaningfully one's own, not a claim that all effort breeds attachment regardless of outcome
+(Norton, Mochon and Ariely, 2012; the psychological-ownership and effort-justification literature that followed). The
+case, the mechanism, and the documented bound are homed to Norton, Mochon and Ariely's 2012 paper, and the deeper
+theoretical grounding for why labor and not mere time carries the inflation to the wider psychological-ownership and
+effort-justification literature that followed, with the builder whose honest labor becomes a value only it can feel, the
+appraiser whose honest verdict cannot meet a maker's honest pride, the abandoner whose unfinished labor proves what
+finished labor alone can earn, and the witness who keeps the pattern honest by keeping its edges cast as the personas
+The Builder, The Appraiser, The Abandoner, and The Witness. That takes the house to one hundred and eighty-five, and
+returns the slate to The Spotlight Effect at the top of the unstruck P2 line.
