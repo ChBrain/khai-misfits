@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.179.0",
+  "version": "0.180.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -200,6 +200,12 @@
       "id": "known_too_late",
       "title": "Known Too Late",
       "description": "A technology can be steered while its harms are unknown, and by the time they show it has set too hard to steer."
+    },
+    {
+      "kind": "misfit",
+      "id": "larger_in_the_looking",
+      "title": "Larger in the Looking",
+      "description": "The very act of weighing a factor's importance inflates it, so it is judged to matter more than it will in a life."
     },
     {
       "kind": "misfit",
