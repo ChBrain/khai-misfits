@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.185.0",
+  "version": "0.186.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -320,6 +320,12 @@
       "id": "nobody_reads_it",
       "title": "Nobody Reads It",
       "description": "Reading the terms costs more than it saves, so too few read them to police them, and they drift to the drafter."
+    },
+    {
+      "kind": "misfit",
+      "id": "nobody_was_looking_at_your_shirt",
+      "title": "Nobody Was Looking at Your Shirt",
+      "description": "One's own salience is anchored on and projected outward, so a person feels far more watched than they are."
     },
     {
       "kind": "misfit",
