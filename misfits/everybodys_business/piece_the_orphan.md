@@ -36,5 +36,5 @@ From every seat the item is fine: raised, discussed, socialised, with the whole 
 
 ## Yearbook
 
-The room built it in good faith: [the open item](piece_the_open_item.md) raised, [the someone-else](piece_the_someone_else.md) assumed, [the blank box](piece_the_blank_box.md) left open, [the many hands](piece_the_many_hands.md) all over it.
+The room built it in good faith: [the open item](piece_the_open_item.md) raised, [the someone-else](piece_the_someone_else.md) assumed, [the blank box](piece_the_blank_box.md) left open, [the unraised hand](piece_the_unraised_hand.md) kept down, [the many hands](piece_the_many_hands.md) all over it.
 [The holder](persona_the_holder.md) was the first to stop passing and put a single name against it, too late to prevent and just in time to prove the point: one owner would always have been enough. Nobody had a name for the item, because a thing that is everybody's never needed one, until it did.

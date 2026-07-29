@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The corridor](place_the_corridor.md), between the meeting and the next, where the item is passed along informally.
-It travels the circle of plausible owners, and each hand that touches it opens rather than closes.
+[The hot potato](piece_the_hot_potato.md) travels the circle of plausible owners, and each hand that touches it opens rather than closes.
 
 ## Action
 
