@@ -1,0 +1,5 @@
+---
+"@chbrain/khai-misfits": minor
+---
+
+Add the misfit Room to Grow, a staging of the hydra effect: killing or harvesting a fraction of a population can raise its total abundance, because the deaths relax the competition, food shortage, or cannibalism that had been holding the survivors back, so a cull meant to reduce a pest or a predator increases its numbers, control backfiring through the population's own density-dependence, no villain required since the culler acts in good faith by the plain logic that killing some leaves fewer and the survivors do only what any creature does when the pressure eases. Held against its bound and hedged: the effect requires overcompensating density-dependence and mortality that falls on the crowded, self-limiting stage, so it appears under specific conditions and is a documented mechanism there rather than a law that culling always backfires, since most culls reduce the population as intended, so the house stages the structure and its conditions and not a universal.
