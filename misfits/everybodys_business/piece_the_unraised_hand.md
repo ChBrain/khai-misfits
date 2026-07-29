@@ -36,5 +36,5 @@ It looks like a room without urgency on this one, no one fussed, easy to defer. 
 
 ## Yearbook
 
-Held by every seat, and moved past by the chair before it becomes awkward.
+Held by every seat on [Assume Someone's Got It](plan_assume_someones_got_it.md), and moved past by the chair before it becomes awkward.
 It is the pivot of the play: the one instant when a name could still be spoken and is not, so the item leaves the meeting exactly as it arrived, agreed to matter and assigned to no one, on its way to [the parking lot](place_the_parking_lot.md).
