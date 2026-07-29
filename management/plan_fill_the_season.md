@@ -2573,7 +2573,7 @@ hundred and seventy-seven, and empties the current refill, its last target struc
       resource-mobilization literature, no villain since the reformer relieves in good faith and the people read their
       prospects rightly, hedged, the felt gap a real pressure and not a deterministic trigger, grievance widespread and
       revolt rare, with personas The Reformer, The Riser, The Aggrieved, and The Historian
-- [ ] [P2] The Hydra Effect (Abrams, "When does greater mortality increase population size? The long history and diverse
+- [x] [P2] The Hydra Effect (Abrams, "When does greater mortality increase population size? The long history and diverse
       mechanisms of the hydra effect", _Ecology Letters_, 2009): killing or harvesting a fraction of a population can
       raise its total abundance, since the deaths relax the competition, food shortage, or cannibalism that held the
       survivors back, so a cull meant to reduce a pest or a predator increases its numbers, control backfiring through
@@ -2582,7 +2582,17 @@ hundred and seventy-seven, and empties the current refill, its last target struc
       workaround of a bounty, and from The Balloon Effect's displacement in that here the increase is in the very
       population that was culled and not a problem squeezed from one place to another; to be cut to the
       mortality-raises-abundance vector, scoped to the conditions where over-compensating density-dependence dominates
-      (Abrams) rather than a claim that culling always backfires.
+      (Abrams) rather than a claim that culling always backfires; staged as **Room to Grow**, cut to the
+      mortality-raises-abundance vector no staged misfit holds, a cull relaxing the density-dependence that held a
+      population down so the survivors overcompensate and the number rebounds past where it began, named clear of The
+      Cobra Effect (a human incentive gamed, pests bred for a bounty, whereas here an ecological response no one breeds
+      or intends) and The Balloon Effect (a problem displaced elsewhere with the total unchanged, whereas here a real
+      rise in the same population in the same place), with the synthesis and the name homed to Abrams, the foundation of
+      overcompensating density-dependence to Ricker and Nicholson, and the field case of control backfiring to Zipkin,
+      Kraft, Cooch and Sullivan, no villain since the culler follows a logic true of nearly every population and the
+      survivors do only what any creature does when the pressure eases, hedged, the effect requiring overcompensating
+      density-dependence and mortality on the crowded stage and not a law that culling always backfires, with personas
+      The Culler, The Warden, The Survivor, and The Ecologist
 - [ ] [P2] The Focusing Illusion (Schkade & Kahneman, "Does Living in California Make People Happy? A Focusing Illusion
       in Judgments of Life Satisfaction", _Psychological Science_, 1998; Kahneman, Krueger, Schkade, Schwarz & Stone,
       _Science_, 2006): when people judge how much a single factor bears on their well-being, the very act of attending
@@ -2648,3 +2658,36 @@ judged by, the one whose reasonable hope outruns the gain, the one whose real gr
 greatest, and the one who reads the pattern and holds it to a bound cast as the personas The Reformer, The Riser, The
 Aggrieved, and The Historian. That takes the house to one hundred and seventy-eight, and returns the slate to The Hydra
 Effect at the top of the unstruck P2 line.
+
+The house strikes The Hydra Effect, staged as **Room to Grow**. The trap is that killing or harvesting a fraction of a
+population can raise its total abundance, since the deaths relax the competition, food shortage, or cannibalism that had
+been holding the survivors back, so a cull meant to reduce a pest or a predator increases its numbers, control
+backfiring through the population's own density-dependence. A population is held below what its habitat could feed not
+by any outside hand but by itself, by the density-dependence that regulates it: too many mouths at a limited food, so
+the crowd goes hungry and breeds less; too dense a press, so disease moves easily; too many adults, so the young are
+eaten by their elders, forces that bite hardest when the numbers are high (Ricker; Nicholson). Then someone culls it, in
+good faith, to bring the number down, by the sound and ordinary logic that to kill some is to leave fewer. But the
+deaths do not only subtract, they relax the brake: with fewer mouths the survivors eat better and breed more, with fewer
+adults the young live, with the crowd thinned the disease spreads less, so the very regulation that had been holding the
+population down is eased by the mortality meant to reduce it, and if that release outweighs the removal the survivors
+overcompensate and the population rebounds not to where it was but past it, more numerous after the cull than before
+(Abrams). It is documented in the field, efforts to control nuisance and invasive species raising their abundance where
+the removal fell on a crowded, self-limiting stage (Zipkin, Kraft, Cooch and Sullivan). It is authored by no villain:
+the one who culls acts in good faith and follows the plain logic that killing some lowers the count, a logic true of
+almost every population that is not regulating itself so tightly, and the survivors that eat and breed and live are
+doing nothing but what any organism does when the pressure eases, so no one intends the rebound and no single removal is
+placed to see it, each death from the culler's vantage simply one fewer. It is cut to the mortality-raises-abundance
+vector no staged misfit holds, and it is named clear of The Cobra Effect (a bounty set to reduce a pest farmed for the
+reward, so people breed the very thing it pays to remove, a human incentive gamed, whereas here no reward and no gaming,
+an ecological response to relaxed density-dependence no one breeds or intends) and The Balloon Effect (a banned trade
+squeezed on one patch bulging to the next, the total unchanged and merely displaced, whereas here a real rise in the
+very population that was culled and in the same place). And the whole is held against its own limit, hedged, because the
+effect requires overcompensating density-dependence and mortality that falls on the crowded, self-limiting stage, so it
+appears under specific conditions and is a documented mechanism there and not a general law that culling raises
+abundance, most culls reducing the population as they intend (Abrams). The synthesis and the name are homed to Abrams,
+the foundation of overcompensating density-dependence to Ricker and Nicholson, and the field case of control backfiring
+on nuisance and invasive species to Zipkin, Kraft, Cooch and Sullivan, with the one who culls by a sound arithmetic that
+fails against a self-regulating population, the population's own regulation that is no malice and whose grip the cull
+loosens, the survivors whose blameless thriving rebounds the number, and the one who reads the rebound and holds it to
+its conditions cast as the personas The Culler, The Warden, The Survivor, and The Ecologist. That takes the house to one
+hundred and seventy-nine, and returns the slate to The Focusing Illusion at the top of the unstruck P2 line.
