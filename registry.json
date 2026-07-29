@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.183.0",
+  "version": "0.184.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -32,6 +32,12 @@
       "id": "all_at_once",
       "title": "All at Once",
       "description": "A cached value spares the backend until it expires, when every request misses at once and floods the thing it spared."
+    },
+    {
+      "kind": "misfit",
+      "id": "ask_me_when_it_hurts",
+      "title": "Ask Me When It Hurts",
+      "description": "A plan made calm is honestly wrong about a visceral state, since it changes what is wanted, not only how much."
     },
     {
       "kind": "misfit",

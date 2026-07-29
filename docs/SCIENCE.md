@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 183 misfits, 881 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 184 misfits, 881 scholars.
 
 ## By science
 
@@ -643,7 +643,9 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | **Little** | `no_idle_hands` | "A Proof for the Queuing Formula L = λW" (Operations Research, 1961) | The supporting identity: the average number in a queue equals the arrival rate times the average wait, so a diverging wait is a diverging backlog at fixed throughput. The Wait, The Jam. |
 | **Livant** | `you_are_the_product` | "Watching as Working: The Valorization of Audience Consciousness" (Journal of Communication, 1986) <br><sub>Jhally & Livant</sub> | The mechanism elaborated: the audience "works" by watching, its attention the value the medium harvests and sells, so more and more engaging content extracts more attention to deliver, the receptive audience the thing being manufactured. The Receptive Mood. |
 | **Lloyd** | `the_commons` | Two Lectures on the Checks to Population (1833) | The original overgrazing illustration: why cattle on a common are kept past what the ground can bear. The pasture Hardin borrowed. The Green and the Herd. |
-| **Loewenstein** | `dont_look` | "Information Avoidance" (Journal of Economic Literature, 2017) <br><sub>Golman, Hagmann & Loewenstein</sub> | The frame: people actively avoid freely available, useful information to escape the psychological cost it carries, the bad feelings, the pressure to act, the threat to cherished beliefs, so free information is not free to receive, credited as the general structure the misfit narrows to bad news. The Flinch. |
+| **Loewenstein** | `ask_me_when_it_hurts` | "Hot-Cold Empathy Gaps and Medical Decision Making" (Health Psychology, 2005) | The applied case and the stakes: patients and clinicians in a cold state systematically mispredict the preferences a patient will hold in a hot state (acute pain, craving, fear), with consequences for consent, treatment planning, and advance directives. The Return, the domain grounding. |
+| ↳ | `ask_me_when_it_hurts` | "Out of Control: Visceral Influences on Behavior" (Organizational Behavior and Human Decision Processes, 1996) | The framework and the mechanism: visceral factors, hunger, pain, fear, moods, drive states, and cravings, exert a disproportionate influence on behavior while present and are systematically underweighted in prediction and memory once absent, so plans made in a cold state are honestly wrong about a hot state. The Plan, the Gap, the Onset, the Reversal. |
+| ↳ | `dont_look` | "Information Avoidance" (Journal of Economic Literature, 2017) <br><sub>Golman, Hagmann & Loewenstein</sub> | The frame: people actively avoid freely available, useful information to escape the psychological cost it carries, the bad feelings, the pressure to act, the threat to cherished beliefs, so free information is not free to receive, credited as the general structure the misfit narrows to bad news. The Flinch. |
 | ↳ | `dont_look` | "The Ostrich Effect: Selective Attention to Information" (Journal of Risk and Uncertainty, 2009) <br><sub>Karlsson, Loewenstein & Seppi</sub> | The spine: investors check their portfolio values markedly less often when markets are falling than when they are rising, monitoring that tracks the expected valence of the news rather than its importance, attention withdrawn just as it would matter most. The Averted Eye, the Blind Spell. |
 | ↳ | `more_to_stand_still` | "Hedonic Adaptation" (in Well-Being: The Foundations of Hedonic Psychology, 1999) <br><sub>Shane Frederick and George Loewenstein</sub> | The synthesis and the asymmetry: the account of adaptation across domains, and that adaptation is uneven, so the withdrawal after a raised level can bite harder than the gain pleased, the trough that prices the reset. The Trough. |
 | ↳ | `second_nature` | "The Curse of Knowledge in Economic Settings: An Experimental Analysis" (JPE, 1989) <br><sub>Camerer, Loewenstein & Weber</sub> | The spine: better-informed agents cannot set aside their knowledge in judging the less-informed, and overestimate what others know. The governing law. |
@@ -1248,6 +1250,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `after_you` | Jean-Charles Rochet, Jean Tirole; Bernard Caillaud, Bruno Jullien; Michael Katz, Carl Shapiro; Practitioner |
 | `alarm_fatigue` | Aesop; Breznitz; Green and Swets; The Joint Commission; Cvach; Sendelbach; EEMUA; ISA / Three Mile Island; Practitioner |
 | `all_at_once` | Andrea Vattani, Flavio Chierichetti, Keegan Lowenstein; Rajesh Nishtala and colleagues (Facebook); Practitioner |
+| `ask_me_when_it_hurts` | Loewenstein; Loewenstein; The visceral-influence and empathy-gap literature that followed |
 | `ask_the_one_who_sells` | Robert Evans; Milton Roemer; Thomas McGuire; Kenneth Arrow |
 | `back_to_even` | Hersh Shefrin, Meir Statman; Terrance Odean; Amos Tversky, Daniel Kahneman; Practitioner |
 | `bad_coin` | Gresham / Macleod; Jevons; Rolnick & Weber; Akerlof; Practitioner |
