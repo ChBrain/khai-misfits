@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.186.0",
+  "version": "0.187.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -944,6 +944,12 @@
       "id": "the_planning_fallacy",
       "title": "The Planning Fallacy",
       "description": "A task estimated from its own smooth plan is promised too soon, then beaten by the small surprises no plan can name."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_price_neither_will_name",
+      "title": "The Price Neither Will Name",
+      "description": "A buyer and seller both stand to gain, but each hides its price, so the deal dies in the gap no rule can close."
     },
     {
       "kind": "misfit",
