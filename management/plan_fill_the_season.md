@@ -2762,7 +2762,7 @@ empties the current refill, its last target struck, so the slate is refilled bel
       exactly as representativeness makes natural, hedged, the neglect strongest under pallid framing and weakened
       sharply by natural frequencies or a causal story, with personas The Population, The Instrument, The Reader, and
       The Statistician
-- [ ] [P2] The Decoy Effect (Huber, Payne & Puto, "Adding Asymmetrically Dominated Alternatives: Violations of
+- [x] [P2] The Decoy Effect (Huber, Payne & Puto, "Adding Asymmetrically Dominated Alternatives: Violations of
       Regularity and the Similarity Hypothesis", _Journal of Consumer Research_, 1982; the attraction effect
       literature): adding a third option clearly worse than one existing option but not the other shifts choice toward
       the option that dominates the decoy, so an irrelevant alternative chosen by no one changes the choice between two
@@ -2771,7 +2771,16 @@ empties the current refill, its last target struck, so the slate is refilled bel
       Spoiled for Choice's paradox of choice in that here a single dominated option reshapes the choice among a few and
       the harm is a preference reversal and not the paralysis of too many; to be cut to the
       dominated-decoy-shifts-choice vector, hedged to a documented context effect whose strength varies with how the
-      options are represented and which has weaker replications in some settings, not a universal law.
+      options are represented and which has weaker replications in some settings, not a universal law; staged as **The
+      Third Option**, cut to the dominated-decoy-shifts-choice vector no staged misfit holds, a third option chosen by
+      no rational chooser shifting the choice between two fair alternatives toward the one it flatters by comparison,
+      named clear of Spoiled for Choice (a larger assortment overwhelming the chooser with sheer count, whereas here a
+      single dominated addition reshapes a small, unchanged pair, a preference reversal and not a paralysis), with the
+      demonstration and the name homed to Huber, Payne and Puto, the wider reach across choice domains to the
+      attraction-effect literature, and the elicitation-dependent bound to boundary and contested-replication work, no
+      villain since the decoy may be placed for any ordinary reason and the chooser reads a clear local win by a real
+      and ordinarily sound cue, hedged, the effect real and replicated and weaker or absent under some conditions of
+      elicitation, with personas The Alternative, The Contender, The Decoy, and The Chooser
 - [ ] [P2] The Semmelweis Reflex (the rejection of Ignaz Semmelweis's handwashing finding on childbed fever, 1847; the
       term for the pattern; Kuhn, _The Structure of Scientific Revolutions_, 1962, on paradigm resistance): a valid
       finding that contradicts an established paradigm is reflexively rejected, because each expert reasonably weighs
@@ -2834,3 +2843,34 @@ accuracy and misread as more, the reader whose sound question yields an unsound 
 must work harder to be believed than the false certainty it corrects cast as the personas The Population, The
 Instrument, The Reader, and The Statistician. That takes the house to one hundred and eighty-one, and returns the slate
 to The Decoy Effect at the top of the unstruck P2 line.
+
+The house strikes The Decoy Effect, staged as **The Third Option**. The trap is that adding a third option to a choice
+set, one clearly worse than one existing option but not clearly worse than the other, shifts choice toward the option
+that dominates the decoy, so an alternative chosen by no one changes the choice between two others it did not need to
+touch. A chooser faces two options that trade off fairly, one better on one dimension and the other better on a second,
+with no dominance and no obvious winner, and choosing between them is genuinely hard. Then a third, asymmetric decoy
+joins, worse than one original on every dimension that matters and not worse than the other, so no rational chooser
+would ever select it, and choosers rarely do (Huber, Payne and Puto). But its mere presence changes which of the other
+two is chosen: choice shifts markedly toward the option that dominates the decoy, the one the decoy makes look good by
+comparison, even though nothing about that option's own merits has changed and the decoy itself draws almost no share,
+violating regularity and independence from irrelevant alternatives (Huber, Payne and Puto). The mechanism is comparative
+rather than absolute: a decoy strictly dominated by one option hands that option an easy, decisive local win, and the
+credibility of that win spills into the harder, genuinely balanced comparison against the other original option (Huber,
+Payne and Puto; the attraction-effect literature). It is authored by no villain: the decoy may be placed on the menu for
+any ordinary reason, a discontinued model, an older plan, a weaker candidate who simply ran, and needs no intent to
+steer anyone's choice, and the chooser who shifts is using a real and ordinarily sound cue, that a clear local win is
+informative, in the one setting where that cue happens to mislead. It is cut to the dominated-decoy-shifts-choice vector
+no staged misfit holds, and it is named clear of Spoiled for Choice (past a point a larger assortment overwhelms the
+chooser, so a wider range lowers both the odds of choosing at all and the satisfaction of the choice made, the harm the
+sheer count of options raising the burden of comparison past what the chooser can bear, whereas here a single added
+option, dominated and chosen by no one, reshapes the choice between a small, unchanged pair, the harm not paralysis from
+too many options but a preference reversal caused by one specific addition, present even in a set of just three). And
+the whole is held against its own limit, hedged, because the effect is real and repeatedly demonstrated but its size,
+and even its presence, depends on how the choice is elicited, joint or separate evaluation, the number and structure of
+the attributes compared, so it is weaker or absent under some conditions and not a universal law (boundary and
+contested-replication work). The demonstration and the name are homed to Huber, Payne and Puto, and the wider reach
+across choice domains to the attraction-effect literature, with the option that keeps its honest trade-off and loses
+ground it never fought for, the option whose unsought local win lends unearned credit elsewhere, the decoy chosen by no
+one that governs the choice anyway, and the chooser whose sound cue misleads exactly here cast as the personas The
+Alternative, The Contender, The Decoy, and The Chooser. That takes the house to one hundred and eighty-two, and returns
+the slate to The Semmelweis Reflex at the top of the unstruck P2 line.
