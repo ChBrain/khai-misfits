@@ -1,8 +1,14 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.184.0",
+  "version": "0.185.0",
   "misfits": [
+    {
+      "kind": "misfit",
+      "id": "a_little_crooked_and_mine",
+      "title": "A Little Crooked, and Mine",
+      "description": "Labor spent building a thing inflates its value in the builder's own eyes, so a fair trade goes unmade."
+    },
     {
       "kind": "misfit",
       "id": "a_reason_too_many",
