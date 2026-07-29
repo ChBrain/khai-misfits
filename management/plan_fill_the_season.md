@@ -2781,7 +2781,7 @@ empties the current refill, its last target struck, so the slate is refilled bel
       villain since the decoy may be placed for any ordinary reason and the chooser reads a clear local win by a real
       and ordinarily sound cue, hedged, the effect real and replicated and weaker or absent under some conditions of
       elicitation, with personas The Alternative, The Contender, The Decoy, and The Chooser
-- [ ] [P2] The Semmelweis Reflex (the rejection of Ignaz Semmelweis's handwashing finding on childbed fever, 1847; the
+- [x] [P2] The Semmelweis Reflex (the rejection of Ignaz Semmelweis's handwashing finding on childbed fever, 1847; the
       term for the pattern; Kuhn, _The Structure of Scientific Revolutions_, 1962, on paradigm resistance): a valid
       finding that contradicts an established paradigm is reflexively rejected, because each expert reasonably weighs
       the anomalous claim against the great weight of accepted theory and finds it likelier an error than a truth, so a
@@ -2792,7 +2792,17 @@ empties the current refill, its last target struck, so the slate is refilled bel
       Too Sure to Be True's over-agreement that indicts a shared bias in that here a dissenting truth is rejected by the
       consensus; to be cut to the paradigm-rejects-the-anomaly vector, hedged to a tendency documented in cases and not
       a claim that consensus is generally wrong to resist novelty, since the same default rightly rejects most anomalies
-      as errors.
+      as errors; staged as **No Place in the Theory**, cut to the paradigm-rejects-the-anomaly vector no staged misfit
+      holds, a theory's honestly earned authority outweighing a true but mechanism-less anomaly so sound reasoning
+      rejects a valid discovery, named clear of On Good Authority (a weak claim over-accepted by citation repetition,
+      the mirror image) and Too Sure to Be True (an improbable over-agreement among many independent observers indicting
+      a shared bias, whereas here a single dissenting true finding rejected by an otherwise reasonable consensus), with
+      the case and its name homed to the historical record of Semmelweis's own hand-washing discovery and its rejected
+      reception, the paradigm and anomaly-resistance framework to Kuhn, and the epistemic defense of resisting isolated
+      anomalies to the philosophy and sociology of science literature, no villain since the theory was built honestly
+      and each expert applies the same sound rule that ordinarily serves the field well, hedged, a documented pattern
+      traced in genuine anomaly and not a claim consensus is generally wrong to resist novelty, with personas The
+      Theory, The Discoverer, The Skeptic, and The Historian
 
 Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct
 cut: the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, still close to The
@@ -2874,3 +2884,85 @@ ground it never fought for, the option whose unsought local win lends unearned c
 one that governs the choice anyway, and the chooser whose sound cue misleads exactly here cast as the personas The
 Alternative, The Contender, The Decoy, and The Chooser. That takes the house to one hundred and eighty-two, and returns
 the slate to The Semmelweis Reflex at the top of the unstruck P2 line.
+
+The house strikes The Semmelweis Reflex, staged as **No Place in the Theory**. The trap is that a valid finding that
+contradicts an established paradigm is reflexively rejected, because each expert reasonably weighs the anomalous claim
+against the great accumulated weight of accepted theory and finds it likelier an error in the finding than a truth the
+theory cannot explain, so a field can dismiss a correct discovery for want of a mechanism or a place in its paradigm. A
+field holds a working theory, built from a long accumulation of evidence and refined by successive tests, its authority
+earned honestly, explaining what its predecessors could not and predicting what experiment later confirmed. A researcher
+within the field observes something the theory does not predict and cannot explain, real and repeatable under test, but
+with no mechanism the theory recognizes as legitimate. Ignaz Semmelweis found that maternity ward mortality from
+childbed fever fell sharply when doctors washed their hands in a chlorinated solution before examining patients, a
+striking and repeatable effect, but he could offer no mechanism the medicine of 1847 could accept, since germ theory did
+not yet exist, and the practice, and Semmelweis himself, were largely rejected and ridiculed by his medical peers (the
+historical record). The mechanism of the rejection is not malice but ordinary and usually correct inference: an expert
+who encounters a claim that contradicts a well-supported theory reasonably treats the theory, backed by a great weight
+of confirmed prediction, as more likely correct than a single surprising result, and this is the right default in the
+overwhelming majority of cases, since most claims that contradict an established theory are themselves mistaken (Kuhn;
+the philosophy and sociology of science literature). The trap is that this correct general policy misfires on the rare
+occasion when the anomaly is genuine, since the field cannot tell, from inside the rejection, which kind of anomaly it
+is looking at, and a true finding with no accepted mechanism looks, by the field's own best evidence, exactly like a
+false one. It is authored by no villain: the theory the field defends was built honestly and has earned its authority by
+real predictive success, and each individual expert who doubts the anomalous claim is applying the same sound epistemic
+practice that ordinarily serves the field well. It is cut to the paradigm-rejects-the-anomaly vector no staged misfit
+holds, and it is named clear of On Good Authority (a weak or unsupported assertion over-accepted, repeated into the look
+of settled fact by the count of citations, whereas here a claim with genuine support is under-accepted for lacking a
+place in the reigning theory, the mirror image of the same trust in the record) and Too Sure to Be True (independent
+judgments that agree too perfectly, the very unanimity indicting a shared hidden bias, whereas here a single dissenting
+finding is rejected by an otherwise reasonable consensus, no improbable agreement to indict). And the whole is held
+against its own limit, hedged, because this is a documented pattern traced through specific historical cases of genuine
+anomaly and not a measured general rate at which theories wrongly reject true findings, the same sound default that
+occasionally buries a true discovery rightly rejecting the great majority of anomalies that really are error (Kuhn; the
+philosophy and sociology of science literature). The case and its name are homed to the historical record of
+Semmelweis's own discovery and its reception, the framework of paradigms and anomaly resistance to Kuhn, and the
+epistemic defense of resisting isolated anomalies to the philosophy and sociology of science literature, with the theory
+whose earned authority leaves no room for what it does not yet explain, the discoverer whose honest finding is
+indistinguishable from a false one, the skeptic whose sound rule is right nearly every time and wrong this once, and the
+historian who records a true vindication without overreaching it cast as the personas The Theory, The Discoverer, The
+Skeptic, and The Historian. That takes the house to one hundred and eighty-three, and empties the current refill, its
+last target struck, so the slate is refilled below.
+
+- [ ] [P1] The Hot-Cold Empathy Gap (Loewenstein, "Out of Control: Visceral Influences on Behavior", _Organizational
+      Behavior and Human Decision Processes_, 1996; Loewenstein, "Hot-Cold Empathy Gaps and Medical Decision Making",
+      _Health Psychology_, 2005): people in a cool, calm state cannot accurately predict how a visceral state, hunger,
+      pain, fear, desire, will change their own preferences and behavior, so plans made in the cold state are abandoned
+      or reversed once the hot state arrives, and the planning self and the acting self disagree though both are the
+      same person judging honestly from where it stands, distinct from Starting Tomorrow's hyperbolic discounting in
+      that here the preference itself is altered by the visceral state and not merely discounted more steeply as a
+      reward nears, a change in what is wanted and not only in how soon it is wanted; to be cut to the
+      state-blind-to-its-opposite vector, hedged to gaps that vary by domain and by the intensity and salience of the
+      visceral state, strongest for acute drive states and weaker for milder or more familiar ones, not a claim that all
+      self-prediction fails.
+- [ ] [P2] The IKEA Effect (Norton, Mochon & Ariely, "The IKEA Effect: When Labor Leads to Love", _Journal of Consumer
+      Psychology_, 2012): people assign disproportionately higher value to things they partially built or assembled
+      themselves, even when the finished result is objectively no better than a comparable pre-made version, so labor
+      invested becomes value perceived independent of the labor's contribution to quality, distinct from Loath to Part's
+      endowment effect in that here the inflation comes specifically from the effort of construction and not from mere
+      possession, a builder who abandons the task partway showing none of the effect, ownership alone insufficient; to
+      be cut to the labor-inflates-value vector, hedged to completed or successfully assembled builds and to a effect
+      that varies with task difficulty and is roughly proportional to the labor felt as meaningfully one's own, not a
+      claim that effort always breeds attachment regardless of outcome.
+- [ ] [P2] The Spotlight Effect (Gilovich, Medvec & Savitsky, "The Spotlight Effect in Social Judgment: An Egocentric
+      Bias in Estimates of the Salience of One's Own Actions and Appearance", _Journal of Personality and Social
+      Psychology_, 2000): people overestimate how much others notice and judge their appearance and behavior, since
+      one's own actions and appearance are so salient to oneself that this salience is projected onto the perspective of
+      observers who are in fact paying far less attention, an anchoring on one's own experience insufficiently adjusted
+      for another's, distinct from Larger in the Looking's focusing illusion in that here the inflated judgment concerns
+      how much a third party notices and evaluates the self, a social perception error, and not how much a factor bears
+      on one's own well-being, a self-directed importance judgment; to be cut to the self-salience-projected-outward
+      vector, hedged to the classroom and social-embarrassment paradigms it was demonstrated in and to a bias that
+      shrinks, though it does not vanish, with feedback and with familiarity between observer and observed, not a claim
+      that others never notice anything.
+
+Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct
+cut: the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, still close to The
+Proxy's self-confirming discount), the sliver of the Spiral of Silence not taken by Safe to Say, the Icarus paradox (the
+strengths that bring success overextended into the fall, close to The Success Trap's exploitation crowding out
+exploration), and the Red Queen (a coevolution that runs to stay in place, close to The Arms Race's cancelling spend for
+rank). Still held on a duplication: the soft budget constraint (Someone Will Catch Me crossed with Moral Hazard), the
+attention economy (The Arms Race crossed with The Commons), and engagement or outrage optimisation (The Letter of the
+Law and Metric Fixation in the feed). Carried forward, still held pending a distinct cut: the Lucas Critique (a
+policy-exploited correlation that breaks when acted on, close to Metric Fixation's measure that stops measuring once
+made a target). The three slated above are the pass's refill, worked from the top, and the slate opens at The Hot-Cold
+Empathy Gap.
