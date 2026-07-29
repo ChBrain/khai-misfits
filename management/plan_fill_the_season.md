@@ -2593,7 +2593,7 @@ hundred and seventy-seven, and empties the current refill, its last target struc
       survivors do only what any creature does when the pressure eases, hedged, the effect requiring overcompensating
       density-dependence and mortality on the crowded stage and not a law that culling always backfires, with personas
       The Culler, The Warden, The Survivor, and The Ecologist
-- [ ] [P2] The Focusing Illusion (Schkade & Kahneman, "Does Living in California Make People Happy? A Focusing Illusion
+- [x] [P2] The Focusing Illusion (Schkade & Kahneman, "Does Living in California Make People Happy? A Focusing Illusion
       in Judgments of Life Satisfaction", _Psychological Science_, 1998; Kahneman, Krueger, Schkade, Schwarz & Stone,
       _Science_, 2006): when people judge how much a single factor bears on their well-being, the very act of attending
       to it magnifies its apparent importance, so they overweight it and mispredict how much it will matter, since in
@@ -2601,7 +2601,18 @@ hundred and seventy-seven, and empties the current refill, its last target struc
       being thought about, distinct from The Worst and the Last's peak-end and duration neglect in that here the
       distortion is a forward-looking judgment inflated by attention and not the retrospective summary of a lived
       episode by its peak and its end; to be cut to the attention-inflates-the-weighed vector, hedged to a bias in
-      judgments made while the factor is salient (Schkade and Kahneman) and not a claim that the factor never matters.
+      judgments made while the factor is salient (Schkade and Kahneman) and not a claim that the factor never matters;
+      staged as **Larger in the Looking**, cut to the attention-inflates-the-weighed vector no staged misfit holds, the
+      very act of attending to a factor magnifying its apparent importance so it is overweighted whenever it is the
+      thing being thought about, larger in the looking than in a life where it is one of many things and rarely in
+      focus, named clear of The Worst and the Last (a retrospective memory summarizing a lived episode by its peak and
+      its end, whereas here a prospective judgment inflated by attention) and More to Stand Still (a good's felt value
+      genuinely fading through adaptation in the living, whereas here an effect overjudged from the start, the
+      adaptation one of the very things the focused judgment neglects), with the California demonstration and the name
+      homed to Schkade and Kahneman, the income case to Kahneman, Krueger, Schkade, Schwarz and Stone, the focalism
+      mechanism to Wilson and colleagues, and the aphorism to Kahneman, no villain since to weigh a factor a mind must
+      attend to it and a factor attended to looms, hedged, the factor not nothing but smaller in the living than in the
+      judging, with personas The Asker, The Judge, The Dweller, and The Assessor
 
 Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct
 cut: the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, still close to The
@@ -2691,3 +2702,86 @@ fails against a self-regulating population, the population's own regulation that
 loosens, the survivors whose blameless thriving rebounds the number, and the one who reads the rebound and holds it to
 its conditions cast as the personas The Culler, The Warden, The Survivor, and The Ecologist. That takes the house to one
 hundred and seventy-nine, and returns the slate to The Focusing Illusion at the top of the unstruck P2 line.
+
+The house strikes The Focusing Illusion, staged as **Larger in the Looking**. The trap is that when a person judges how
+much a single factor bears on how well its life goes, the very act of attending to that factor magnifies its apparent
+importance, so the factor is overweighted whenever it is the thing being thought about, larger in the looking than it
+will be in a life where it is one of many things and rarely in focus. A person is asked, or asks itself, whether a
+higher income or a warmer climate or a new house would make it happier, and to answer it does the only thing a mind can,
+it brings the factor to attention and weighs it. But a thing brought to attention looms large: what the mind returns is
+a measure of how much the factor fills the mind while the mind is fixed on it, not how much it will figure in a life,
+and the two are not the same (Kahneman). So the judge overweights the factor, predicting it will matter far more than it
+will, because in the judging the factor is the whole of the frame while in the living it is one of many things:
+Midwesterners and Californians report about the same satisfaction with their lives, yet both expect the Californians
+happier, fixing on the salient climate and neglecting the hundred other things that fill a life the same in either place
+(Schkade and Kahneman), and the belief that money greatly raises happiness is inflated the same way, income looming
+under attention and moving the moods of actual days far less than the fixed attention predicts (Kahneman, Krueger,
+Schkade, Schwarz and Stone). It is the same focalism by which a person overpredicts how long an event will color its
+feelings, fixing on the event and forgetting the rest of the life that goes on around it (Wilson, Wheatley, Meyers,
+Gilbert and Axsom). It is authored by no villain: no one deceives, and the one who asks the question directs attention
+to the factor innocently, since to weigh a factor one must bring it to mind, and the judge that overweights is doing the
+only thing a mind can to gauge importance, bringing the thing to attention where it looms, so the error is attention
+magnifying what it lands on and no one is at fault. It is cut to the attention-inflates-the-weighed vector no staged
+misfit holds, and it is named clear of The Worst and the Last (a retrospective memory that summarizes a lived episode by
+its peak and its end, whereas here a prospective judgment inflated by the attention a present forecast fixes on the
+factor, no episode lived and nothing yet remembered) and More to Stand Still (a good's felt value genuinely fading as
+one adapts to it in the living, whereas here the effect overjudged from the start by the attention, the adaptation the
+good will undergo one of the very things the focused judgment neglects). And the whole is held against its own limit,
+hedged, because the factor is not nothing, income raising reported satisfaction somewhat and a warm climate a real good,
+and the illusion is a documented bias in the judgments made while the factor is salient and not a proof that the factor
+never matters, so the house stages the overweighting under attention and holds that the factor has a real but smaller
+effect than the focused judgment gives it (Schkade and Kahneman; Kahneman and colleagues). The demonstration and the
+name are homed to Schkade and Kahneman, the income case to Kahneman, Krueger, Schkade, Schwarz and Stone, the focalism
+mechanism to Wilson, Wheatley, Meyers, Gilbert and Axsom, and the aphorism to Kahneman, with the one who puts the fair
+question that lights the factor up alone, the mind that overweights by the only method it has, the experiencing self
+whose inattention is no ingratitude but the shape of a life, and the one who cuts the factor to its true size cast as
+the personas The Asker, The Judge, The Dweller, and The Assessor. That takes the house to one hundred and eighty, and
+empties the current refill, its last target struck, so the slate is refilled below.
+
+- [ ] [P1] The Base Rate Fallacy (Kahneman & Tversky on representativeness, 1972; Bar-Hillel, "The base-rate fallacy in
+      probability judgments", _Acta Psychologica_, 1980; Casscells, Schoenberger & Grayboys, _NEJM_, 1978): in judging
+      the probability of a hypothesis given specific evidence, people fix on how well the evidence fits the hypothesis
+      and neglect the prior probability, the base rate, so a positive test for a rare condition is read as near-certain
+      when it is more likely a false positive, a sound test and natural reasoning yielding a confident wrong conclusion,
+      distinct from The False Trade-Off's collider selection in that here no selection is involved, only a diagnostic
+      judgment that drops the prior, and from Larger in the Looking's overweighting of an attended factor's importance
+      in that here the specific evidence is overweighted against a neglected base rate in a probability judgment; to be
+      cut to the neglected-prior vector, hedged to the conditions where the base rate is pallid and statistical, since
+      people use priors better when the information is framed as natural frequencies or the base rate is made causal
+      (Gigerenzer and Hoffrage; Tversky and Kahneman) and not a claim that people never use priors.
+- [ ] [P2] The Decoy Effect (Huber, Payne & Puto, "Adding Asymmetrically Dominated Alternatives: Violations of
+      Regularity and the Similarity Hypothesis", _Journal of Consumer Research_, 1982; the attraction effect
+      literature): adding a third option clearly worse than one existing option but not the other shifts choice toward
+      the option that dominates the decoy, so an irrelevant alternative chosen by no one changes the choice between two
+      others, violating the principle that adding an option should not reverse a preference among the rest, no villain
+      since the decoy may be added for any reason and the chooser rationally reads dominance as a cue, distinct from
+      Spoiled for Choice's paradox of choice in that here a single dominated option reshapes the choice among a few and
+      the harm is a preference reversal and not the paralysis of too many; to be cut to the
+      dominated-decoy-shifts-choice vector, hedged to a documented context effect whose strength varies with how the
+      options are represented and which has weaker replications in some settings, not a universal law.
+- [ ] [P2] The Semmelweis Reflex (the rejection of Ignaz Semmelweis's handwashing finding on childbed fever, 1847; the
+      term for the pattern; Kuhn, _The Structure of Scientific Revolutions_, 1962, on paradigm resistance): a valid
+      finding that contradicts an established paradigm is reflexively rejected, because each expert reasonably weighs
+      the anomalous claim against the great weight of accepted theory and finds it likelier an error than a truth, so a
+      field can dismiss a correct discovery for want of a mechanism or a place in the paradigm, no villain since
+      trusting a well-supported theory over a lone surprising result is a sound default that rightly rejects most
+      anomalies, distinct from On Good Authority's citation-manufactured authority in that here the mirror, a true claim
+      under-accepted for lacking the paradigm's backing rather than a weak claim over-accepted by repetition, and from
+      Too Sure to Be True's over-agreement that indicts a shared bias in that here a dissenting truth is rejected by the
+      consensus; to be cut to the paradigm-rejects-the-anomaly vector, hedged to a tendency documented in cases and not
+      a claim that consensus is generally wrong to resist novelty, since the same default rightly rejects most anomalies
+      as errors.
+
+Triage of this pass, against the descriptions, and carrying forward the held from before. Still held pending a distinct
+cut: the Pygmalion and Golem effects (a self-fulfilling expectation communicated through treatment, still close to The
+Proxy's self-confirming discount) and the sliver of the Spiral of Silence not taken by Safe to Say. Still held on a
+duplication: the soft budget constraint (Someone Will Catch Me crossed with Moral Hazard), the attention economy (The
+Arms Race crossed with The Commons), and engagement or outrage optimisation (The Letter of the Law and Metric Fixation
+in the feed). Carried forward, still held pending a distinct cut: the Lucas Critique (a policy-exploited correlation
+that breaks when acted on, close to Metric Fixation's measure that stops measuring once made a target), the Icarus
+paradox (the strengths that bring success overextended into the fall, close to The Success Trap's exploitation crowding
+out exploration), and the Red Queen (a coevolution that runs to stay in place, close to The Arms Race's cancelling spend
+for rank). Dropped from consideration this pass as already staged: Berkson's paradox (The False Trade-Off), the
+Condorcet paradox of cycling majorities (Whoever Asks Last), bikeshedding and the law of triviality (The Colour of the
+Bike Shed), and the hot-hand and gambler's fallacies over regression to the mean (The Bounce). The three slated above
+are the pass's refill, worked from the top, and the slate opens at The Base Rate Fallacy.
