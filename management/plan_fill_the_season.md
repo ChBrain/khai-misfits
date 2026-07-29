@@ -2965,7 +2965,7 @@ last target struck, so the slate is refilled below.
       judgment is not coldness but an honest read of an object it did not build, hedged, an effect that requires a
       completed build and tracks task difficulty and not a claim that all effort breeds attachment regardless of
       outcome, with personas The Builder, The Appraiser, The Abandoner, and The Witness
-- [ ] [P2] The Spotlight Effect (Gilovich, Medvec & Savitsky, "The Spotlight Effect in Social Judgment: An Egocentric
+- [x] [P2] The Spotlight Effect (Gilovich, Medvec & Savitsky, "The Spotlight Effect in Social Judgment: An Egocentric
       Bias in Estimates of the Salience of One's Own Actions and Appearance", _Journal of Personality and Social
       Psychology_, 2000): people overestimate how much others notice and judge their appearance and behavior, since
       one's own actions and appearance are so salient to oneself that this salience is projected onto the perspective of
@@ -3060,3 +3060,92 @@ appraiser whose honest verdict cannot meet a maker's honest pride, the abandoner
 finished labor alone can earn, and the witness who keeps the pattern honest by keeping its edges cast as the personas
 The Builder, The Appraiser, The Abandoner, and The Witness. That takes the house to one hundred and eighty-five, and
 returns the slate to The Spotlight Effect at the top of the unstruck P2 line.
+
+The warrant-mine that filled the season worked the house's own REFERENCES, the concepts each misfit is cut against;
+this pass looked outside them. Five scouts swept five bodies of work the staged set had barely entered, economics and
+mechanism design, distributed systems and control theory, evolutionary and population biology, cognitive and social
+psychology, and the theory of organizations, each deduping its finds by engine against the one hundred and eighty-six
+staged misfits, the house-wide concordance, and this slate's held-off list before proposing. The pass surfaced roughly
+twenty distinct gaps, concentrated where the house is thinnest: genetic-conflict biology, distributed-systems failure,
+and public-administration theory. The ten cleanest are slated below. First a strike and two reaffirmed held-offs.
+
+The house strikes The Spotlight Effect, the slate's last open target, staged since as Nobody Was Looking at Your Shirt,
+one's own salience anchored on and projected outward so a person feels far more watched than they are; the held checkbox
+is closed and the target retired. Reaffirmed held, the pass re-surfacing candidates the slate already parks and the
+reasons standing: the Lucas Critique, a policy-exploited correlation that breaks the moment it is acted on, held against
+Metric Fixation's measure that stops measuring once it is made a target; and the iron law of oligarchy, held against
+Pournelle's Iron Law, though the pass offered a fresh cut worth recording, that Michels' drift to oligarchy runs inside
+formally democratic bodies with elections and bylaws, distinct from the leaderless informal elite No One in Charge
+already carries, held for the Playwright to weigh when the P-lines next thin.
+
+- [ ] [P1] Myerson and Satterthwaite's Impossibility (Myerson and Satterthwaite, "Efficient Mechanisms for Bilateral
+      Trading", Journal of Economic Theory 1983): a buyer and a seller each hold a private value and each shades their
+      figure honestly toward their own side, so no trading rule can be at once efficient, incentive-compatible,
+      individually rational, and budget-balanced, and trades both would gain from go unmade with neither bargaining in
+      bad faith, distinct from Over a Barrel in that the loss needs no sunk relationship-specific investment and holds in
+      a single arm's-length one-shot trade, and from Loath to Part and A Little Crooked, and Mine in that the barrier is
+      strategic private information, not a valuation bias; to be cut to the private-information-blocks-the-gain vector,
+      hedged to two-sided uncertainty, since a known value or a neutral party posting the price restores the trade.
+- [ ] [P1] Costly Signaling and the Handicap Principle (Spence, "Job Market Signaling", Quarterly Journal of Economics
+      1973, Nobel 2001; Zahavi, "Mate Selection: A Selection for a Handicap", 1975): a signal is believed only because
+      it is too expensive to fake, so each sender burns real resource purely to be credible and the waste is not a side
+      effect but the very thing that makes the signal honest, and a field of senders over-invests in proofs that certify
+      nothing they teach, distinct from The Arms Race in that the spend does not cancel for relative rank but buys honest
+      separation and persists with a single sender and a single receiver; to be cut to the waste-as-guarantor-of-honesty
+      vector, hedged to separating equilibria where the signal's cost differs by type, since a cheap signal collapses to
+      talk.
+- [ ] [P1] Naive Realism (Ross and Ward, "Naive Realism in Everyday Life", 1996): each party takes its own reading of a
+      shared situation as plain objective fact, so a sincere disagreement is read not as a different vantage but as the
+      other side's bias or bad faith, and two honest parties escalate exactly because each is certain only the other is
+      distorted, distinct from Closing Ranks and The Trip to Abilene, both intra-group conformity, in that the engine
+      here is inter-party and no shared assent is ever attempted; to be cut to the own-view-taken-as-reality vector,
+      hedged to disputes where both sides argue in good faith, not to a conflict where a real adversary exists.
+- [ ] [P1] The Garbage Can Model (Cohen, March and Olsen, "A Garbage Can Model of Organizational Choice",
+      Administrative Science Quarterly 1972): in an organized anarchy of ambiguous goals and fluid attention, problems,
+      solutions, participants, and choice occasions each flow on their own and meet only by timing, so a decision is made
+      when a solution happens to be in the room at a choice moment and not because it answers the problem named, distinct
+      from The Law of the Instrument, one tool reshaping every problem, in that here four independent streams collide by
+      accident rather than one tool driving the fit; to be cut to the streams-couple-by-timing vector, hedged to loosely
+      coupled settings with unclear technology, not to a tightly run operation with a clear objective.
+- [ ] [P1] Leaky-Vaccine Hypervirulence (Read, Baigent, Powers and colleagues, "Imperfect Vaccination Can Enhance the
+      Transmission of Highly Virulent Pathogens", PLOS Biology 2015): a vaccine that blunts disease without blocking
+      transmission is individually rational and saves the vaccinated, but it lets a host survive and shed a strain so
+      virulent it would have killed an unvaccinated host before spreading, relaxing the virulence-transmission brake and
+      selecting the pathogen deadlier, distinct from Sick Enough to Spread, the baseline trade-off itself, and Borrowed
+      Immunity, the free-rider skipping the shot, in that the engine is a second-order shift in the trade-off caused by
+      non-sterilizing protection; to be cut to the leaky-protection-selects-virulence vector, hedged to imperfect
+      non-transmission-blocking vaccines, not a charge against sterilizing ones.
+- [ ] [P1] Split-Brain (Gilbert and Lynch, "Brewer's Conjecture and the Feasibility of Consistent, Available,
+      Partition-Tolerant Web Services", 2002; from Brewer's CAP, 2000): when a network partitions, each half applies the
+      same correct rule, that a leader out of reach is replaced, so both halves come to believe they are the sole
+      primary and each accepts conflicting writes, and no side is wrong given what it can see, distinct from The Bank
+      Run, a self-fulfilling belief cascade, in that the split turns on network topology and protocol correctness, not on
+      the fear of others' choices; to be cut to the partition-elects-two-primaries vector, hedged to systems that favour
+      availability under partition, since a quorum or a fencing token buys consistency back at availability's cost.
+- [ ] [P2] The Diamond Paradox (Diamond, "A Model of Price Adjustment", Journal of Economic Theory 1971): with even a
+      vanishing cost to search on, a shopper who has found any acceptable price gains nothing by looking further, so no
+      single seller loses by nudging its price up, and the only equilibrium among many competing sellers is the full
+      monopoly price, distinct from Priced In, where the price stops carrying information because no one pays to learn
+      it, in that here it is the price level and not its information that collapses, and no asymmetry is needed; to be cut
+      to the tiny-search-cost-lifts-price-to-monopoly vector, hedged to homogeneous goods with a positive search cost,
+      since zero cost or a price-comparison tool restores competition.
+- [ ] [P2] Niskanen's Budget-Maximizing Bureau (Niskanen, Bureaucracy and Representative Government, 1971): a bureau is
+      the sole supplier of its service and bargains with a sponsor that cannot see its true cost, so each chief
+      rationally maximizes budget and staff for the slack and standing it brings, and the sponsor's information
+      disadvantage cannot trim the oversupply, distinct from Rent-Seeking, a wasteful competition to capture a transfer,
+      in that Niskanen needs no rival, only one monopolist and one under-informed funder, and from The High Water Mark, a
+      crisis ratchet, in that the pressure is a standing bilateral-monopoly gap; to be cut to the
+      monopoly-bureau-oversupplies vector, hedged to services a sponsor cannot cost-audit.
+- [ ] [P2] Parent-Offspring and Imprinting Conflict (Trivers, "Parent-Offspring Conflict", 1974; Haig, "Genetic
+      Conflicts in Human Pregnancy", 1993): an offspring's genes are favoured to draw more maternal resource than the
+      mother's own genes are favoured to give, so a tug set by the asymmetry of relatedness plays out in the very
+      signalling of pregnancy, and its by-product is real pathology, preeclampsia and gestational diabetes, with neither
+      side defecting, distinct from the staged evolutionary traps in that the engine is Hamiltonian relatedness asymmetry
+      between kin, not competition or escalation for rank; to be cut to the relatedness-asymmetry-tugs-the-transfer
+      vector, hedged to viviparous kin-conflict systems where genomic imprinting operates.
+- [ ] [P2] Reactive Devaluation (Ross and Stillinger, arms-control negotiation studies, 1988 and 1991): an offer is
+      discounted in worth for no reason but that the other side proposed it, so both parties come to undervalue exactly
+      the concessions most likely to close the deal, and agreements each would accept from a neutral hand go unmade,
+      distinct from Over a Barrel, holdup after a specific investment, in that nothing is sunk and the devaluation
+      attaches to an offer's face value by its source, and from The Third Option in that no decoy is involved; to be cut
+      to the source-devalues-the-offer vector, hedged to adversarial negotiation, not to trusted-party exchange.
