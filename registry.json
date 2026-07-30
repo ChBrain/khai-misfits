@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.188.0",
+  "version": "0.189.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -38,6 +38,12 @@
       "id": "all_at_once",
       "title": "All at Once",
       "description": "A cached value spares the backend until it expires, when every request misses at once and floods the thing it spared."
+    },
+    {
+      "kind": "misfit",
+      "id": "anyone_can_see_it",
+      "title": "Anyone Can See It",
+      "description": "Two reasonable people read the same scene oppositely, each sure it sees plainly and the other is biased."
     },
     {
       "kind": "misfit",
