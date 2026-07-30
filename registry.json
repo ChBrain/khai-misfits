@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.190.0",
+  "version": "0.191.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -488,6 +488,12 @@
       "id": "sandbag",
       "title": "Sandbag",
       "description": "Beat the target and next year's is higher, so everyone hits the number and hides the rest, and no one shows their best."
+    },
+    {
+      "kind": "misfit",
+      "id": "saved_to_spread",
+      "title": "Saved to Spread",
+      "description": "A vaccine that blunts disease but not spread keeps hosts alive to shed deadlier strains, evolving the pathogen worse."
     },
     {
       "kind": "misfit",
