@@ -3323,9 +3323,11 @@ already held the ground.
       substantial analytical skill selectively once identity is at stake; to be cut to the
       skill-serves-the-identity-not-the-answer vector, hedged to data framed as identity-relevant, since
       identity-neutral framing and blinded analysis both lift it, at real cost to build.
-- [ ] [P2] The Trouble with Averages (Kravitz, Duan and Braslow, "Evidence-Based Medicine,
+- [x] [P2] The Trouble with Averages (Kravitz, Duan and Braslow, "Evidence-Based Medicine,
       Heterogeneity of Treatment Effects, and the Trouble with Averages", Milbank Quarterly 2004; Kent,
-      Hayward and colleagues, International Journal of Epidemiology 2016): a trial reports one average
+      Hayward and colleagues, International Journal of Epidemiology 2016): staged as **True of No One**,
+      cut to the valid-average-wrong-shape vector, a sound trial's one honest estimate carried into a
+      guideline and applied to patients who vary around it. The entry as slated: a trial reports one average
       treatment effect because that is the only evidence the trial can validly produce, and every
       guideline, clinician and patient then acts on that single number in good faith, though real
       patients vary enough in baseline risk that the same average can mean net benefit for a few and net
