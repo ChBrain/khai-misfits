@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.193.0",
+  "version": "0.194.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -1004,6 +1004,12 @@
       "id": "the_skill_to_see_it",
       "title": "The Skill to See It",
       "description": "The skill to judge a task is the same skill it takes to do it, so those who lack it cannot see that they lack it."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_sole_supplier",
+      "title": "The Sole Supplier",
+      "description": "A bureau is the only provider of a service its funder cannot cost, so it maximizes its budget and over-supplies."
     },
     {
       "kind": "misfit",
