@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.192.0",
+  "version": "0.193.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -332,6 +332,12 @@
       "id": "nobody_reads_it",
       "title": "Nobody Reads It",
       "description": "Reading the terms costs more than it saves, so too few read them to police them, and they drift to the drafter."
+    },
+    {
+      "kind": "misfit",
+      "id": "nobody_shops_around",
+      "title": "Nobody Shops Around",
+      "description": "A tiny cost to compare keeps anyone from looking, so many sellers of the same good all charge the monopoly price."
     },
     {
       "kind": "misfit",
