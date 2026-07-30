@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.199.0",
+  "version": "0.200.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -1190,6 +1190,12 @@
       "id": "whoever_asks_last",
       "title": "Whoever Asks Last",
       "description": "Every voter is rational and sincere, yet the majority cycles, so whoever sets the order of the votes decides."
+    },
+    {
+      "kind": "misfit",
+      "id": "worth_more_nearly_gone",
+      "title": "Worth More Nearly Gone",
+      "description": "As a species grows rarer its price rises, so the value it gains from scarcity is what finishes it."
     },
     {
       "kind": "misfit",
