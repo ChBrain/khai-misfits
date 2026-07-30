@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.196.0",
+  "version": "0.197.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -80,6 +80,12 @@
       "id": "belt_and_braces",
       "title": "Belt and Braces",
       "description": "Each backup added for safety adds coupling, a shared cause, and shirking, so more redundancy can lower reliability."
+    },
+    {
+      "kind": "misfit",
+      "id": "better_in_both",
+      "title": "Better in Both",
+      "description": "Better scans move the sickest patients up a stage, so both stages report better survival and no one is better off."
     },
     {
       "kind": "misfit",
