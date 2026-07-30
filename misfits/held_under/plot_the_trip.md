@@ -29,7 +29,7 @@ At [The Dashboard](place_the_dashboard.md), the collapse has been read and under
 
 ## Stage
 
-There is no version of this move that keeps every request. Failing fast rejects calls that would have succeeded; backing off makes [the Caller](persona_the_caller.md) abandon work it legitimately wanted done; shedding load drops real users on purpose to save the ones left. Each setting of the Breaker is a decision about which correct behaviour to interrupt, because the load holding the Service under is nothing but correct behaviour, and there is no way to stop it without stopping some of that.
+There is no version of this move that keeps every request, and [the Gap](piece_the_gap.md) sets how much it will cost: the shedding must reach below the lower threshold, far under the load the Service carried comfortably last week, so a proportionate cut leaves the loop fully fed and reads, wrongly, as the Breaker having failed. Failing fast rejects calls that would have succeeded; backing off makes [the Caller](persona_the_caller.md) abandon work it legitimately wanted done; shedding load drops real users on purpose to save the ones left. Each setting of the Breaker is a decision about which correct behaviour to interrupt, because the load holding the Service under is nothing but correct behaviour, and there is no way to stop it without stopping some of that.
 
 ## Tension
 

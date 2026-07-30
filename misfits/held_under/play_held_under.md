@@ -83,6 +83,7 @@ Break the loop early, trip the breaker before the queue saturates, cap and jitte
 - [The Retry](piece_the_retry.md)
 - [The Sustaining Load](piece_the_sustaining_load.md)
 - [The Metastable State](piece_the_metastable_state.md)
+- [The Gap](piece_the_gap.md)
 - [The Collapse](piece_the_collapse.md)
 - [The Breaker](piece_the_breaker.md)
 
@@ -95,13 +96,13 @@ The onset. A healthy system running with headroom, and a brief transient, a traf
 Cue: requests are failing and the clients retry. The Caller resends each failed request exactly as a good client should, and the retries sum onto the fresh load until the total sits above capacity. Closes when the retry load alone holds the service above what it can serve, the loop now feeding on its own output, no outside push required.
 
 **[The Hold](plot_the_hold.md)**
-Cue: the trigger is long gone and the system is still failing. The service sits in the bad equilibrium, held under by nothing but correct retries, unable to climb back to health on its own correct behaviour because that behaviour is the load. Closes when the failing state has proved it will sustain itself indefinitely, stable, self-feeding, and clearing for no one.
+Cue: the trigger is long gone and the system is still failing. The service sits in the bad equilibrium, held under by nothing but correct retries, unable to climb back to health on its own correct behaviour because that behaviour is the load. And the reason waiting will not end it is the Gap: the load at which the system could climb out sits far below the load that tipped it in, so a return to ordinary traffic is nowhere near low enough. Closes when the failing state has proved it will sustain itself indefinitely, stable, self-feeding, and clearing for no one.
 
 **[The Brownout](plot_the_brownout.md)**
 Cue: the throughput is read against the offered load. The goodput has fallen toward zero while the request count climbs, the system buried under retries of work it already failed, looking slammed while completing almost nothing. Closes when the collapse is plain on the board, useful work at the floor and load at the ceiling, the shape of a system doing less the busier it looks.
 
 **[The Trip](plot_the_trip.md)**
-Cue: someone reaches in to break the loop. The Operator trips the breaker so failing calls fail fast, backs the retries off with jitter, and sheds load until the sum drops below capacity and the queue can drain. Closes when the loop is broken and the system lifts back toward health at the price of the real work shed ... or the breaker is not thrown, and the hold continues, the system waiting under for a load it cannot itself refuse.
+Cue: someone reaches in to break the loop. The Operator trips the breaker so failing calls fail fast, backs the retries off with jitter, and sheds load until the sum drops below capacity and the queue can drain, which the Gap requires be further and longer than the situation appears to warrant. Closes when the loop is broken and the system lifts back toward health at the price of the real work shed ... or the breaker is not thrown, and the hold continues, the system waiting under for a load it cannot itself refuse.
 
 ## Stakes
 
