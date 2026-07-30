@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.198.0",
+  "version": "0.199.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -1160,6 +1160,12 @@
       "id": "too_sure_to_be_true",
       "title": "Too Sure to Be True",
       "description": "When independent judgments agree too perfectly, the agreement more likely marks a shared hidden error than the truth."
+    },
+    {
+      "kind": "misfit",
+      "id": "true_of_no_one",
+      "title": "True of No One",
+      "description": "A trial reports one valid average, so the many are treated for a benefit that only the few were ever going to get."
     },
     {
       "kind": "misfit",
