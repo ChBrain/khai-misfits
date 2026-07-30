@@ -3336,8 +3336,11 @@ already held the ground.
       average to an individual it was never about; to be cut to the average-effect-hides-the-responder
       vector, hedged to genuinely heterogeneous patient populations, since individualized risk modelling
       lifts it at the cost of data and validation few trials can supply.
-- [ ] [P2] The Anthropogenic Allee Effect (Courchamp, Angulo, Rivalan and colleagues, "Rarity Value and
-      Species Extinction: The Anthropogenic Allee Effect", PLoS Biology 2006): as a species grows rarer
+- [x] [P2] The Anthropogenic Allee Effect (Courchamp, Angulo, Rivalan and colleagues, "Rarity Value and
+      Species Extinction: The Anthropogenic Allee Effect", PLoS Biology 2006): staged as **Worth More
+      Nearly Gone**, cut to the scarcity-prices-its-own-extinction vector, rarity as the source of value
+      so each loss raises the price of the remainder and funds the next taking, both remedies turning in
+      the hand. The entry as slated: as a species grows rarer
       its price to collectors and trophy markets rises, and that rising price draws exploitation pressure
       exactly as the population is least able to bear it, no single buyer or hunter acting irrationally,
       only a market answering scarcity with demand, distinct from Safety in Numbers, which stages the
@@ -3349,9 +3352,12 @@ already held the ground.
       scarcity-raises-the-price-that-kills-it vector, hedged to species with a collector or luxury
       market, since flooding the market via captive breeding or demand-reduction both lift it,
       imperfectly.
-- [ ] [P2] Hindsight Bias (Fischhoff, "Hindsight Is Not Equal to Foresight: The Effect of Outcome
+- [x] [P2] Hindsight Bias (Fischhoff, "Hindsight Is Not Equal to Foresight: The Effect of Outcome
       Knowledge on Judgment Under Uncertainty", Journal of Experimental Psychology 1975; Fischhoff and
-      Beyth, "I Knew It Would Happen", Organizational Behavior and Human Performance 1975): once an
+      Beyth, "I Knew It Would Happen", Organizational Behavior and Human Performance 1975): staged as
+      **Clear from Here**, cut to the vantage-does-the-work vector, a record straightened by the outcome
+      so a sound call under real uncertainty reads as a warning ignored, the review producing a culprit
+      in place of the lesson. The entry as slated: once an
       outcome is known, the evaluator reconstructs it as having been obvious all along, so a sound
       decision that had bad luck is scored as negligence and a reckless one that had good luck is scored
       as foresight, the evaluator no less honest for it, distinct from The Planning Fallacy,
@@ -3360,3 +3366,18 @@ already held the ground.
       outcome-known-rewrites-the-odds vector, hedged to judgments made after the fact by someone who did
       not bear the original uncertainty, since disciplined ex-ante decision logs lift it at the cost of
       upkeep and the risk of after-the-fact curation.
+
+The second scout batch is closed. Of its ten targets, **five are staged** and five were retired as
+already carried: metastable failure (Held Under), the litigation selection effect (Only the Close
+Ones), the ecological trap (The Lie of the Land), the bystander effect (Everybody's Business), and the
+judgment-proof problem (Nothing to Lose). The five staged are **Better in Both** (the Will Rogers
+phenomenon), **Sharper and Further Apart** (motivated numeracy), **True of No One** (heterogeneity of
+treatment effects), **Worth More Nearly Gone** (the anthropogenic Allee effect), and **Clear from
+Here** (hindsight bias), taking the house from one hundred and ninety-six to two hundred and one.
+
+The batch's lesson is recorded above and is worth restating where the next scout will read it: the
+five duplicates were not caught by the reading but by the concordance, once the concordance was
+repaired, and four of them matched on an identical leading source. A candidate's source is the
+cheapest dedup available and the one this batch skipped. The slate now holds no unstruck target, and
+the next batch should begin by checking sources against REFERENCES.md before a single warrant is
+drafted.
