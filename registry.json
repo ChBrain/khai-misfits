@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.195.0",
+  "version": "0.196.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -284,6 +284,12 @@
       "id": "more_to_stand_still",
       "title": "More to Stand Still",
       "description": "The dose stops working, so you raise it, and the raise becomes the level you need just to stand where you started."
+    },
+    {
+      "kind": "misfit",
+      "id": "must_be_a_catch",
+      "title": "Must Be a Catch",
+      "description": "An offer's worth is discounted for no reason but who proposed it, so good deals from rivals go unmade."
     },
     {
       "kind": "misfit",
