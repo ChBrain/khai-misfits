@@ -3078,7 +3078,7 @@ Pournelle's Iron Law, though the pass offered a fresh cut worth recording, that 
 formally democratic bodies with elections and bylaws, distinct from the leaderless informal elite No One in Charge
 already carries, held for the Playwright to weigh when the P-lines next thin.
 
-- [ ] [P1] Myerson and Satterthwaite's Impossibility (Myerson and Satterthwaite, "Efficient Mechanisms for Bilateral
+- [x] [P1] Myerson and Satterthwaite's Impossibility (Myerson and Satterthwaite, "Efficient Mechanisms for Bilateral
       Trading", Journal of Economic Theory 1983): a buyer and a seller each hold a private value and each shades their
       figure honestly toward their own side, so no trading rule can be at once efficient, incentive-compatible,
       individually rational, and budget-balanced, and trades both would gain from go unmade with neither bargaining in
@@ -3086,7 +3086,7 @@ already carries, held for the Playwright to weigh when the P-lines next thin.
       a single arm's-length one-shot trade, and from Loath to Part and A Little Crooked, and Mine in that the barrier is
       strategic private information, not a valuation bias; to be cut to the private-information-blocks-the-gain vector,
       hedged to two-sided uncertainty, since a known value or a neutral party posting the price restores the trade.
-- [ ] [P1] Costly Signaling and the Handicap Principle (Spence, "Job Market Signaling", Quarterly Journal of Economics
+- [x] [P1] Costly Signaling and the Handicap Principle (Spence, "Job Market Signaling", Quarterly Journal of Economics
       1973, Nobel 2001; Zahavi, "Mate Selection: A Selection for a Handicap", 1975): a signal is believed only because
       it is too expensive to fake, so each sender burns real resource purely to be credible and the waste is not a side
       effect but the very thing that makes the signal honest, and a field of senders over-invests in proofs that certify
@@ -3094,7 +3094,7 @@ already carries, held for the Playwright to weigh when the P-lines next thin.
       separation and persists with a single sender and a single receiver; to be cut to the waste-as-guarantor-of-honesty
       vector, hedged to separating equilibria where the signal's cost differs by type, since a cheap signal collapses to
       talk.
-- [ ] [P1] Naive Realism (Ross and Ward, "Naive Realism in Everyday Life", 1996): each party takes its own reading of a
+- [x] [P1] Naive Realism (Ross and Ward, "Naive Realism in Everyday Life", 1996): each party takes its own reading of a
       shared situation as plain objective fact, so a sincere disagreement is read not as a different vantage but as the
       other side's bias or bad faith, and two honest parties escalate exactly because each is certain only the other is
       distorted, distinct from Closing Ranks and The Trip to Abilene, both intra-group conformity, in that the engine
@@ -3149,3 +3149,13 @@ already carries, held for the Playwright to weigh when the P-lines next thin.
       distinct from Over a Barrel, holdup after a specific investment, in that nothing is sunk and the devaluation
       attaches to an offer's face value by its source, and from The Third Option in that no decoy is involved; to be cut
       to the source-devalues-the-offer vector, hedged to adversarial negotiation, not to trusted-party exchange.
+
+The house strikes the first three P1 targets of the scout batch, each authored and staged from the top of the slate.
+Myerson and Satterthwaite's impossibility is staged as **The Price Neither Will Name**, cut to the
+private-information-forecloses-the-gain vector, a buyer and a seller each shading a private value so the deal both would
+gain from dies in the gap no budget-balanced rule can close. Costly signaling and the handicap principle are staged as
+**Too Dear to Fake**, cut to the waste-guarantees-honesty vector, a hidden worth proved only by a signal too dear to
+fake so each holder burns real resource to be believed. Naive realism is staged as **Anyone Can See It**, cut to the
+construal-mistaken-for-reality vector, two reasonable people reading one scene oppositely and each taking the other for
+biased, so more contact widens the gap. Their held checkboxes are closed; the slate opens at the fourth P1 target, The
+Garbage Can Model.
