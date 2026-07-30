@@ -3311,8 +3311,11 @@ already held the ground.
       is involved; to be cut to the exposure-ceiling-caps-precaution vector, hedged to limited-liability
       structures with a real gap between harm and assets, since mandatory insurance or asset-tracing both
       narrow it at a cost.
-- [ ] [P2] Motivated Numeracy (Kahan, Peters, Dawson and Slovic, "Motivated Numeracy and Enlightened
-      Self-Government", Behavioural Public Policy 2017): the same statistical skill that reads a neutral
+- [x] [P2] Motivated Numeracy (Kahan, Peters, Dawson and Slovic, "Motivated Numeracy and Enlightened
+      Self-Government", Behavioural Public Policy 2017): staged as **Sharper and Further Apart**, cut to
+      the skill-serves-the-side vector, an identical contingency table read correctly under a neutral
+      label and read to the reasoner's politics under a charged one, the gap widest among the most
+      numerate. The entry as slated: the same statistical skill that reads a neutral
       dataset accurately is used, on a politically charged version of the identical data, to find
       whichever pattern matches the reasoner's prior identity, so the most numerate reasoners polarize
       the hardest rather than converge, distinct from Anyone Can See It, naive realism about a shared
