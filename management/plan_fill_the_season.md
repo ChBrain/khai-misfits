@@ -3206,7 +3206,32 @@ scout touched but did not exhaust. Each deduped its finds by engine against the 
 ninety-six staged misfits and this slate's held-off list before proposing. The pass surfaced roughly
 thirty distinct candidates; the ten cleanest are slated below, worked from the top as every batch is.
 
-One of the ten did not survive contact. The first target, metastable failure, was already staged as
+Five of the ten did not survive contact, and the failure was systematic rather than unlucky. The
+first target, metastable failure, was authored as Long After the Cause before it was found to be
+already staged as Held Under. That prompted a check of the whole batch against the house-wide
+REFERENCES.md concordance, which resolves a candidate by its canonical name rather than the house's
+title, and four more fell at once, each on an exact source match: the litigation selection effect is
+Only the Close Ones, the ecological trap is The Lie of the Land, the bystander effect is Everybody's
+Business, and the judgment-proof problem is Nothing to Lose. The ecological trap had even been
+struck on this slate once before, further up.
+
+The root cause was not carelessness in the reading but a broken instrument. The concordance is the
+house's designated dedup tool, and it indexed only one hundred and twenty-five of the one hundred
+and ninety-six staged misfits, none of them staged in this campaign, so a candidate looked up
+against it read clear because its neighbour had never been written down. Held Under had no row at
+all. The concordance has since been backfilled to the full count, and the rule it turns on is
+restated here because it binds every future batch: **dedup by engine against the concordance, never
+by title, keep the concordance in step with the roster in the same change that stages a misfit, and
+grep this slate before appending to it.** A title that hides its phenomenon is the house's deliberate
+style, so a title scan is not a dedup and never was.
+
+The five that survive are The Will Rogers Phenomenon, Motivated Numeracy, The Trouble with Averages,
+The Anthropogenic Allee Effect, and Hindsight Bias; the Allee entry keeps its place but has had its
+distinctness cut rewritten, since the neighbour to clear is Safety in Numbers, the classical Allee
+effect, and not The Commons. The retired entries are marked below and kept for the record rather
+than deleted, so the batch's error is legible to whoever reads the slate next.
+
+Superseded note, kept as written: one of the ten did not survive contact. The first target, metastable failure, was already staged as
 Held Under, and the slate's own struck entry said so: the scout deduped by title, and a title that
 does not name its phenomenon defeats a dedup run that way, which is precisely the failure the
 house-wide REFERENCES.md concordance exists to catch and which was not run. The lesson is recorded
@@ -3236,8 +3261,10 @@ already held the ground.
       regrouping across cohorts; to be cut to the reclassification-flatters-both-groups vector, hedged to
       comparisons across eras of diagnostic technology, since stage-blind cohort survival or re-staged
       historical data both correct it.
-- [ ] [P1] The Litigation Selection Effect (Priest and Klein, "The Selection of Disputes for
-      Litigation", Journal of Legal Studies 1984): rational parties settle whenever an outcome is
+- [x] [P1] The Litigation Selection Effect (Priest and Klein, "The Selection of Disputes for
+      Litigation", Journal of Legal Studies 1984): retired, not staged. Already carried as **Only the
+      Close Ones**, on the identical source, which the concordance names outright. The slate entry below
+      is kept for the record: rational parties settle whenever an outcome is
       predictable and litigate only what is genuinely uncertain, so the population of cases that reach
       trial converges toward an even win rate regardless of how lenient or strict the underlying legal
       standard actually is, distinct from The Market for Lemons, an information asymmetry between buyer
@@ -3245,9 +3272,12 @@ already held the ground.
       self-selection into the sample; to be cut to the selection-erases-the-signal vector, hedged to
       disputes where settlement is a real option, since mandatory arbitration or one-sided cost rules
       both change the sample.
-- [ ] [P1] The Ecological Trap (Schlaepfer, Runge and Sherman, "Ecological and Evolutionary Traps",
+- [x] [P1] The Ecological Trap (Schlaepfer, Runge and Sherman, "Ecological and Evolutionary Traps",
       Trends in Ecology and Evolution 2002; Robertson and Hutto, Ecology 2006; Battin, "When Good Animals
-      Love Bad Habitats", Conservation Biology 2004): an animal reads a cue that once reliably signalled
+      Love Bad Habitats", Conservation Biology 2004): retired, not staged. Already carried as **The Lie
+      of the Land**, on the identical source, and already struck once on this very slate further up. The
+      scout read the title as a terrain metaphor and cleared it. The entry is kept for the record: an
+      animal reads a cue that once reliably signalled
       good habitat, and when the environment changes fast enough that the cue outlives the quality it
       used to track, the animal keeps choosing the cue and the choice turns lethal, sometimes preferring
       the trap to genuinely good habitat, distinct from Not All Hers to Give, a relatedness asymmetry
@@ -3255,8 +3285,10 @@ already held the ground.
       between two related parties' interests; to be cut to the cue-outlives-its-quality vector, hedged to
       environments changed faster than the cue can evolve to track, since dimming the cue or restoring
       true-quality habitat both lift it, at a real cost.
-- [ ] [P1] The Bystander Effect (Latané and Darley, "Bystander Intervention in Emergencies: Diffusion
-      of Responsibility", Journal of Personality and Social Psychology 1968): each witness to an
+- [x] [P1] The Bystander Effect (Latané and Darley, "Bystander Intervention in Emergencies: Diffusion
+      of Responsibility", Journal of Personality and Social Psychology 1968): retired, not staged.
+      Already carried as **Everybody's Business**, on the identical source. The entry is kept for the
+      record: each witness to an
       emergency reads the others' calm inaction as evidence nothing is really wrong, and reads the
       presence of anyone more qualified as reason enough to wait, so the more witnesses there are, the
       less likely any one of them acts, distinct from Social Loafing, effort withheld on a shared task
@@ -3264,8 +3296,10 @@ already held the ground.
       correctly, and the diffusion is of responsibility to intervene, not of exertion; to be cut to the
       diffusion-of-responsibility-to-act vector, hedged to genuinely ambiguous emergencies among
       strangers, since a direct, named address to one witness breaks it.
-- [ ] [P1] The Judgment-Proof Problem (Shavell, "The Judgment Proof Problem", International Review of
-      Law and Economics 1986; LoPucki, "The Death of Liability", Yale Law Journal 1996): a firm whose
+- [x] [P1] The Judgment-Proof Problem (Shavell, "The Judgment Proof Problem", International Review of
+      Law and Economics 1986; LoPucki, "The Death of Liability", Yale Law Journal 1996): retired, not
+      staged. Already carried as **Nothing to Lose**, on the identical source. The entry is kept for the
+      record: a firm whose
       assets sit below the harm it might cause only ever pays up to that ceiling, so it rationally
       invests in precaution only up to what its own exposure requires and not what the full harm would
       justify, every actor sound, the law applied correctly, and the shortfall landing on an
@@ -3298,9 +3332,12 @@ already held the ground.
       Species Extinction: The Anthropogenic Allee Effect", PLoS Biology 2006): as a species grows rarer
       its price to collectors and trophy markets rises, and that rising price draws exploitation pressure
       exactly as the population is least able to bear it, no single buyer or hunter acting irrationally,
-      only a market answering scarcity with demand, distinct from The Commons, a shared resource drawn
-      down by ordinary use, in that here the driver is a price signal that rises as the stock falls, not
-      a flat per-user draw on a resource whose price never adjusts; to be cut to the
+      only a market answering scarcity with demand, distinct from Safety in Numbers, which stages the
+      classical Allee effect, in that there the feedback is intrinsic and demographic, mate-finding and
+      cooperative defence failing as density drops, whereas here the feedback is an external market price
+      that rises as the population falls, so the spiral is driven by human demand and not by the biology
+      of scarcity, and distinct from The Commons in that the driver is a price signal responding to the
+      stock rather than a flat per-user draw; to be cut to the
       scarcity-raises-the-price-that-kills-it vector, hedged to species with a collector or luxury
       market, since flooding the market via captive breeding or demand-reduction both lift it,
       imperfectly.
