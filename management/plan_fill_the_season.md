@@ -3251,9 +3251,12 @@ already held the ground.
       Gap**, the hysteresis between the load that tips the system in and the far lower load at which it
       could climb back out, which is why waiting reaches nothing at any duration and why the breaker
       must be thrown further than the situation appears to warrant.
-- [ ] [P1] The Will Rogers Phenomenon (Feinstein, Sosin and Wells, "The Will Rogers Phenomenon: Stage
+- [x] [P1] The Will Rogers Phenomenon (Feinstein, Sosin and Wells, "The Will Rogers Phenomenon: Stage
       Migration and New Diagnostic Techniques as a Source of Misleading Statistics for Survival in
-      Cancer", New England Journal of Medicine 1985): better diagnostic technology reclassifies patients
+      Cancer", New England Journal of Medicine 1985): staged as **Better in Both**, cut to the
+      reclassification-lifts-every-group vector, better scans moving the sickest of one stage to the top
+      of the next so both stages report better survival and nobody is better off. The entry as slated:
+      better diagnostic technology reclassifies patients
       into a more advanced stage the moment their disease becomes visible, so both the earlier and the
       later stage improve their survival statistics though no single patient's actual outcome changed,
       distinct from The Rare Disease Test, a base-rate problem in one test's predictive value, in that
