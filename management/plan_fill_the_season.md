@@ -3206,15 +3206,26 @@ scout touched but did not exhaust. Each deduped its finds by engine against the 
 ninety-six staged misfits and this slate's held-off list before proposing. The pass surfaced roughly
 thirty distinct candidates; the ten cleanest are slated below, worked from the top as every batch is.
 
-- [ ] [P1] Metastable Failures (Bronson, Aghayev, Charapko and Zhu, "Metastable Failures in
+One of the ten did not survive contact. The first target, metastable failure, was already staged as
+Held Under, and the slate's own struck entry said so: the scout deduped by title, and a title that
+does not name its phenomenon defeats a dedup run that way, which is precisely the failure the
+house-wide REFERENCES.md concordance exists to catch and which was not run. The lesson is recorded
+here rather than in the order, since it binds every future batch: **dedup by engine against the
+concordance, never by title, and grep this slate before appending to it.** The nine that remain
+stand; the retired entry is marked below and its one additive vector folded into the misfit that
+already held the ground.
+
+- [x] [P1] Metastable Failures (Bronson, Aghayev, Charapko and Zhu, "Metastable Failures in
       Distributed Systems", HotOS 2021; Huang, Magnusson and colleagues, "Metastable Failures in the
-      Wild", OSDI 2022): a distributed system holds a stable working point and a stable bad one, and a
-      transient trigger, a pause, a deploy, a spike, tips it over, but a sustaining feedback loop of
-      retries and cache misses keeps it pinned at the bad point long after the trigger is gone, distinct
-      from Both Take the Crown, a partition electing two correct primaries, in that no partition or split
-      vote is needed here, only load and a loop that outlives its cause; to be cut to the
-      sustaining-loop-outlives-the-trigger vector, hedged to systems with retry amplification and thin
-      headroom, since load-shedding and standing slack both lift it.
+      Wild", OSDI 2022): retired, not staged. The house already carries this phenomenon as **Held
+      Under**, on the same spine, and the slate's own struck entry above records the staging. The
+      target should never have been slated: the second scout deduped by title, and Held Under's title
+      does not name its phenomenon, so the collision went unseen. It was authored as Long After the
+      Cause before the duplication was caught, and that misfit is retired and removed, the count
+      returning to one hundred and ninety-six. Its one additive vector is kept: Held Under gains **The
+      Gap**, the hysteresis between the load that tips the system in and the far lower load at which it
+      could climb back out, which is why waiting reaches nothing at any duration and why the breaker
+      must be thrown further than the situation appears to warrant.
 - [ ] [P1] The Will Rogers Phenomenon (Feinstein, Sosin and Wells, "The Will Rogers Phenomenon: Stage
       Migration and New Diagnostic Techniques as a Source of Misleading Statistics for Survival in
       Cancer", New England Journal of Medicine 1985): better diagnostic technology reclassifies patients
