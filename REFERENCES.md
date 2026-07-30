@@ -242,6 +242,7 @@ sources are carried in the named misfit's `REFERENCE.md`.
 | The Decoy Effect (asymmetric dominance; the attraction effect)                                           | Huber, Payne & Puto (J. Consumer Research, 1982)                                                                  | The Third Option (`the_third_option`)                                   |
 | The Peak-End Rule (duration neglect)                                                                     | Fredrickson & Kahneman (JPSP, 1993); Redelmeier & Kahneman                                                        | The Worst and the Last (`the_worst_and_the_last`)                       |
 | The Overwhelming-Evidence Paradox (too good to be true)                                                  | Gunn et al. (Proc. Royal Society A, 2016)                                                                         | Too Sure to Be True (`too_sure_to_be_true`)                             |
+| Motivated Numeracy (identity-protective cognition; skill spent on defence)                               | Kahan, Peters, Dawson & Slovic (Behavioural Public Policy, 2017); Lord, Ross & Lepper (1979)                      | Sharper and Further Apart (`sharper_and_further_apart`)                 |
 
 ### Ecology, evolution, and public health
 
