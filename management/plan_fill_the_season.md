@@ -3100,14 +3100,14 @@ already carries, held for the Playwright to weigh when the P-lines next thin.
       distorted, distinct from Closing Ranks and The Trip to Abilene, both intra-group conformity, in that the engine
       here is inter-party and no shared assent is ever attempted; to be cut to the own-view-taken-as-reality vector,
       hedged to disputes where both sides argue in good faith, not to a conflict where a real adversary exists.
-- [ ] [P1] The Garbage Can Model (Cohen, March and Olsen, "A Garbage Can Model of Organizational Choice",
+- [x] [P1] The Garbage Can Model (Cohen, March and Olsen, "A Garbage Can Model of Organizational Choice",
       Administrative Science Quarterly 1972): in an organized anarchy of ambiguous goals and fluid attention, problems,
       solutions, participants, and choice occasions each flow on their own and meet only by timing, so a decision is made
       when a solution happens to be in the room at a choice moment and not because it answers the problem named, distinct
       from The Law of the Instrument, one tool reshaping every problem, in that here four independent streams collide by
       accident rather than one tool driving the fit; to be cut to the streams-couple-by-timing vector, hedged to loosely
       coupled settings with unclear technology, not to a tightly run operation with a clear objective.
-- [ ] [P1] Leaky-Vaccine Hypervirulence (Read, Baigent, Powers and colleagues, "Imperfect Vaccination Can Enhance the
+- [x] [P1] Leaky-Vaccine Hypervirulence (Read, Baigent, Powers and colleagues, "Imperfect Vaccination Can Enhance the
       Transmission of Highly Virulent Pathogens", PLOS Biology 2015): a vaccine that blunts disease without blocking
       transmission is individually rational and saves the vaccinated, but it lets a host survive and shed a strain so
       virulent it would have killed an unvaccinated host before spreading, relaxing the virulence-transmission brake and
@@ -3115,14 +3115,14 @@ already carries, held for the Playwright to weigh when the P-lines next thin.
       Immunity, the free-rider skipping the shot, in that the engine is a second-order shift in the trade-off caused by
       non-sterilizing protection; to be cut to the leaky-protection-selects-virulence vector, hedged to imperfect
       non-transmission-blocking vaccines, not a charge against sterilizing ones.
-- [ ] [P1] Split-Brain (Gilbert and Lynch, "Brewer's Conjecture and the Feasibility of Consistent, Available,
+- [x] [P1] Split-Brain (Gilbert and Lynch, "Brewer's Conjecture and the Feasibility of Consistent, Available,
       Partition-Tolerant Web Services", 2002; from Brewer's CAP, 2000): when a network partitions, each half applies the
       same correct rule, that a leader out of reach is replaced, so both halves come to believe they are the sole
       primary and each accepts conflicting writes, and no side is wrong given what it can see, distinct from The Bank
       Run, a self-fulfilling belief cascade, in that the split turns on network topology and protocol correctness, not on
       the fear of others' choices; to be cut to the partition-elects-two-primaries vector, hedged to systems that favour
       availability under partition, since a quorum or a fencing token buys consistency back at availability's cost.
-- [ ] [P2] The Diamond Paradox (Diamond, "A Model of Price Adjustment", Journal of Economic Theory 1971): with even a
+- [x] [P2] The Diamond Paradox (Diamond, "A Model of Price Adjustment", Journal of Economic Theory 1971): with even a
       vanishing cost to search on, a shopper who has found any acceptable price gains nothing by looking further, so no
       single seller loses by nudging its price up, and the only equilibrium among many competing sellers is the full
       monopoly price, distinct from Priced In, where the price stops carrying information because no one pays to learn
@@ -3159,3 +3159,16 @@ fake so each holder burns real resource to be believed. Naive realism is staged 
 construal-mistaken-for-reality vector, two reasonable people reading one scene oppositely and each taking the other for
 biased, so more contact widens the gap. Their held checkboxes are closed; the slate opens at the fourth P1 target, The
 Garbage Can Model.
+
+The house strikes the remaining three P1 targets and the first P2, each authored and staged from the top
+of the scout batch. The Garbage Can Model is staged as **Whatever's in the Can**, cut to the
+decisions-couple-by-timing vector, an organized anarchy where problems, solutions, participants, and
+choices flow independently and a decision attaches whatever coincided. Leaky-Vaccine Hypervirulence is
+staged as **Saved to Spread**, cut to the protection-lifts-the-cap-on-virulence vector, a leaky vaccine
+keeping hosts alive to shed strains the cost of virulence would have capped. Split-Brain is staged as
+**Both Take the Crown**, cut to the both-sides-correctly-crown-themselves vector, a partition leaving
+each half to promote itself so the state forks under the CAP trade. The Diamond Paradox is staged as
+**Nobody Shops Around**, cut to the tiny-search-cost-collapses-competition vector, a small cost of
+comparing carrying many sellers' prices to the monopoly level. Their held checkboxes are closed; the
+scout batch is now six of ten staged, and the slate opens at the second P2, Niskanen's
+Budget-Maximizing Bureau.
