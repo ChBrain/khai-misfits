@@ -1,11 +1,10 @@
 ---
-updated: "2026-07-23"
+updated: "2026-07-30"
 ---
 
 # Held Under: Reference
 
-The research warrant for **Held Under** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
+The research warrant for [Held Under](play_held_under.md).
 The dynamic is the metastable-failure account of overload: Bronson and colleagues' metastable-failure
 framework and Huang and colleagues' field study, with Nagle's and Jacobson's congestion collapse as the
 older spine and Nygard's circuit breaker as the escape, all cited below.
@@ -82,8 +81,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Trigger**: carries the transient cause (Bronson and colleagues), the brief blip or spike that
   tips the system into the failing state and then passes, leaving the failure behind it.
@@ -95,6 +93,12 @@ proposed load-bearing pieces the warrant commits the staging to carry, one per v
 - **The Metastable State**: carries the bad equilibrium (Bronson and colleagues), the self-sustaining
   failing state the system sticks in after the trigger is gone, stable enough to persist and needing
   force to leave.
+- **The Gap**: carries the hysteresis (Bronson and colleagues; Huang, Magnusson, and colleagues), the
+  distance between the load that tips the system in and the far lower load at which it could climb back
+  out, since it must now clear the fresh load and the retries together, so that between the two
+  thresholds both states exist and which one holds is set by where the system has been rather than by
+  the load arriving now: the reason waiting reaches nothing at any duration, and the reason the escape
+  must be thrown further and held longer than the situation appears to warrant.
 - **The Collapse**: carries the visible failure (Nagle; Jacobson), goodput falling toward zero while the
   offered load stays high, the throughput that drops as the retries climb.
 - **The Breaker**: carries the escape and its price (Nygard; Jacobson), the circuit breaker and
