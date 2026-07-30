@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.194.0",
+  "version": "0.195.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -344,6 +344,12 @@
       "id": "nobody_was_looking_at_your_shirt",
       "title": "Nobody Was Looking at Your Shirt",
       "description": "One's own salience is anchored on and projected outward, so a person feels far more watched than they are."
+    },
+    {
+      "kind": "misfit",
+      "id": "not_all_hers_to_give",
+      "title": "Not All Hers to Give",
+      "description": "A fetus's genes are selected to draw more from a mother's body than her own genes are selected to give."
     },
     {
       "kind": "misfit",
