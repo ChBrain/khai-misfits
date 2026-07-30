@@ -3136,7 +3136,7 @@ already carries, held for the Playwright to weigh when the P-lines next thin.
       in that Niskanen needs no rival, only one monopolist and one under-informed funder, and from The High Water Mark, a
       crisis ratchet, in that the pressure is a standing bilateral-monopoly gap; to be cut to the
       monopoly-bureau-oversupplies vector, hedged to services a sponsor cannot cost-audit.
-- [ ] [P2] Parent-Offspring and Imprinting Conflict (Trivers, "Parent-Offspring Conflict", 1974; Haig, "Genetic
+- [x] [P2] Parent-Offspring and Imprinting Conflict (Trivers, "Parent-Offspring Conflict", 1974; Haig, "Genetic
       Conflicts in Human Pregnancy", 1993): an offspring's genes are favoured to draw more maternal resource than the
       mother's own genes are favoured to give, so a tug set by the asymmetry of relatedness plays out in the very
       signalling of pregnancy, and its by-product is real pathology, preeclampsia and gestational diabetes, with neither
@@ -3180,3 +3180,11 @@ knower of its cost, bundling output and funding take-it-or-leave-it so the spons
 oversupply it cannot trim. Its held checkbox is closed; the scout batch is seven of ten staged,
 and the slate opens at the last two P2 targets, Parent-Offspring and Imprinting Conflict and
 Reactive Devaluation.
+
+The house strikes the ninth of the ten scout targets, authored and staged from the top of the
+batch. Parent-Offspring and Imprinting Conflict is staged as **Not All Hers to Give**, cut to the
+relatedness-asymmetry-tugs-the-transfer vector, a fetus related to itself completely pressing a
+mother related by half to it and by half to every offspring she will ever have, the press carried
+in placental hormones and real pathology its byproduct when it outruns her cover. Its held
+checkbox is closed; the scout batch is eight of ten staged, and the slate opens at the last P2
+target, Reactive Devaluation.
