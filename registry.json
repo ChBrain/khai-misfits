@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.189.0",
+  "version": "0.190.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -1124,6 +1124,12 @@
       "id": "watermelon_reporting",
       "title": "Watermelon Reporting",
       "description": "Green on the skin, red in the flesh: the red never reaches a seat that can act, because every rung is paid to move on."
+    },
+    {
+      "kind": "misfit",
+      "id": "whatevers_in_the_can",
+      "title": "Whatever's in the Can",
+      "description": "A choice attaches whatever solution and people happened to be present, so the answer fits the timing, not the problem."
     },
     {
       "kind": "misfit",
