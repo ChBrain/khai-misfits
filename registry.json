@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.197.0",
+  "version": "0.198.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -542,6 +542,12 @@
       "id": "seed_corn",
       "title": "Seed Corn",
       "description": "The quarter's number is hit by eating the seed corn: the present looks strong, and the future pays the bill."
+    },
+    {
+      "kind": "misfit",
+      "id": "sharper_and_further_apart",
+      "title": "Sharper and Further Apart",
+      "description": "The better someone reasons, the further apart identity pulls them, since skill serves the side and not the answer."
     },
     {
       "kind": "misfit",
