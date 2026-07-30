@@ -3143,7 +3143,7 @@ already carries, held for the Playwright to weigh when the P-lines next thin.
       side defecting, distinct from the staged evolutionary traps in that the engine is Hamiltonian relatedness asymmetry
       between kin, not competition or escalation for rank; to be cut to the relatedness-asymmetry-tugs-the-transfer
       vector, hedged to viviparous kin-conflict systems where genomic imprinting operates.
-- [ ] [P2] Reactive Devaluation (Ross and Stillinger, arms-control negotiation studies, 1988 and 1991): an offer is
+- [x] [P2] Reactive Devaluation (Ross and Stillinger, arms-control negotiation studies, 1988 and 1991): an offer is
       discounted in worth for no reason but that the other side proposed it, so both parties come to undervalue exactly
       the concessions most likely to close the deal, and agreements each would accept from a neutral hand go unmade,
       distinct from Over a Barrel, holdup after a specific investment, in that nothing is sunk and the devaluation
@@ -3188,3 +3188,11 @@ mother related by half to it and by half to every offspring she will ever have, 
 in placental hormones and real pathology its byproduct when it outruns her cover. Its held
 checkbox is closed; the scout batch is eight of ten staged, and the slate opens at the last P2
 target, Reactive Devaluation.
+
+The house strikes the tenth and last of the scout batch, authored and staged from the top of the
+slate. Reactive Devaluation is staged as **Must Be a Catch**, cut to the source-devalues-the-offer
+vector, an offer read backward from who proposed it so the concessions most likely to close a deal
+are the ones most heavily discounted, the discount reinforced by the political cost of looking
+duped and running both ways with no side at fault. Its held checkbox is closed; the scout batch
+opened by [order_scout_the_neighbouring_fields.md](orders/order_scout_the_neighbouring_fields.md)
+is now ten of ten staged, and the slate holds no unstruck target.
