@@ -263,6 +263,7 @@ sources are carried in the named misfit's `REFERENCE.md`.
 | The Virulence-Transmission Trade-Off (the evolution of virulence)                      | Anderson & May (Parasitology, 1982); Ewald                                                                  | Sick Enough to Spread (`sick_enough_to_spread`)     |
 | The Rate-of-Living Hypothesis (metabolic and disposable-soma ageing)                   | Pearl, _The Rate of Living_ (1928); Rubner; Kirkwood                                                        | The Fire That Feeds You (`the_fire_that_feeds_you`) |
 | Somatic Clonal Evolution (the tumour as a Darwinian population; clonal haematopoiesis) | Nowell (Science, 1976)                                                                                      | The Peace It Keeps (`the_peace_it_keeps`)           |
+| The Will Rogers Phenomenon (stage migration; reclassification lifting every group)     | Feinstein, Sosin & Wells (NEJM, 1985); Welch, Schwartz & Woloshin (JAMA, 2000)                              | Better in Both (`better_in_both`)                   |
 
 ## Restrictions
 
@@ -275,8 +276,12 @@ What this index is, and is not.
   and the practitioner record are carried in the named misfit's `REFERENCE.md`, so the absence of a name here is
   not its absence from the warrant.
 - **Kept in step with the count**: the index tracks the misfits staged in `misfits/` and counted in
-  `registry.json`. Adding a misfit adds its concept row here, in the same governance change; the roster is
-  complete as of the staged count recorded in `registry.json`.
+  `registry.json`, and the roster is complete as of the staged count recorded there. Adding a misfit adds
+  its concept row here, in a **paired governance change opened alongside the misfit change**, never in the
+  same one: this file is governance and `misfits/**` is the misfit lane, so `khai-guard` refuses the
+  combined branch and requires the split, governance merging first. The rule formerly read "in the same
+  governance change", which the guard makes impossible to satisfy, so the row was the step that got
+  dropped and the index fell seventy-one misfits behind. Two paired pull requests, every time.
 - **Dedup first**: before slating or authoring a candidate, look it up here by its canonical name and its
   author, not by the house's title. If the concept is present, it is already staged or is a distinctness
   neighbour to name, not a new misfit to stack beside the old. This is the check that fails silently when the
