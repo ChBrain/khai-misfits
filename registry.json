@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.200.0",
+  "version": "0.201.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -122,6 +122,12 @@
       "id": "chestertons_fence",
       "title": "Chesterton's Fence",
       "description": "A safeguard whose purpose everyone has forgotten is cleared away as useless, and the quiet harm it prevented returns."
+    },
+    {
+      "kind": "misfit",
+      "id": "clear_from_here",
+      "title": "Clear from Here",
+      "description": "Once the outcome is known it looks inevitable, so a sound decision with bad luck is judged as negligence."
     },
     {
       "kind": "misfit",
