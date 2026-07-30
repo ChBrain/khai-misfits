@@ -3129,7 +3129,7 @@ already carries, held for the Playwright to weigh when the P-lines next thin.
       it, in that here it is the price level and not its information that collapses, and no asymmetry is needed; to be cut
       to the tiny-search-cost-lifts-price-to-monopoly vector, hedged to homogeneous goods with a positive search cost,
       since zero cost or a price-comparison tool restores competition.
-- [ ] [P2] Niskanen's Budget-Maximizing Bureau (Niskanen, Bureaucracy and Representative Government, 1971): a bureau is
+- [x] [P2] Niskanen's Budget-Maximizing Bureau (Niskanen, Bureaucracy and Representative Government, 1971): a bureau is
       the sole supplier of its service and bargains with a sponsor that cannot see its true cost, so each chief
       rationally maximizes budget and staff for the slack and standing it brings, and the sponsor's information
       disadvantage cannot trim the oversupply, distinct from Rent-Seeking, a wasteful competition to capture a transfer,
@@ -3172,3 +3172,11 @@ each half to promote itself so the state forks under the CAP trade. The Diamond 
 comparing carrying many sellers' prices to the monopoly level. Their held checkboxes are closed; the
 scout batch is now six of ten staged, and the slate opens at the second P2, Niskanen's
 Budget-Maximizing Bureau.
+
+The house strikes the second P2, authored and staged from the top of the scout batch.
+Niskanen's Budget-Maximizing Bureau is staged as **The Sole Supplier**, cut to the
+monopoly-bureau-oversupplies vector, a bureau the sole supplier of its service and the sole
+knower of its cost, bundling output and funding take-it-or-leave-it so the sponsor funds an
+oversupply it cannot trim. Its held checkbox is closed; the scout batch is seven of ten staged,
+and the slate opens at the last two P2 targets, Parent-Offspring and Imprinting Conflict and
+Reactive Devaluation.
