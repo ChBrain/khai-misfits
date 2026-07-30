@@ -3196,3 +3196,111 @@ are the ones most heavily discounted, the discount reinforced by the political c
 duped and running both ways with no side at fault. Its held checkbox is closed; the scout batch
 opened by [order_scout_the_neighbouring_fields.md](orders/order_scout_the_neighbouring_fields.md)
 is now ten of ten staged, and the slate holds no unstruck target.
+
+The first scout's ten are fully authored and the slate stands empty, so a second scout, recorded in
+[order_scout_further_afield.md](orders/order_scout_further_afield.md), swept five fields chosen for
+where the house is thinnest after that batch landed: law and institutional design, distributed
+systems and networks and security, medicine and clinical decision science, cognitive and social
+psychology, and evolutionary and population biology, the last three returning to fields the first
+scout touched but did not exhaust. Each deduped its finds by engine against the full one hundred and
+ninety-six staged misfits and this slate's held-off list before proposing. The pass surfaced roughly
+thirty distinct candidates; the ten cleanest are slated below, worked from the top as every batch is.
+
+- [ ] [P1] Metastable Failures (Bronson, Aghayev, Charapko and Zhu, "Metastable Failures in
+      Distributed Systems", HotOS 2021; Huang, Magnusson and colleagues, "Metastable Failures in the
+      Wild", OSDI 2022): a distributed system holds a stable working point and a stable bad one, and a
+      transient trigger, a pause, a deploy, a spike, tips it over, but a sustaining feedback loop of
+      retries and cache misses keeps it pinned at the bad point long after the trigger is gone, distinct
+      from Both Take the Crown, a partition electing two correct primaries, in that no partition or split
+      vote is needed here, only load and a loop that outlives its cause; to be cut to the
+      sustaining-loop-outlives-the-trigger vector, hedged to systems with retry amplification and thin
+      headroom, since load-shedding and standing slack both lift it.
+- [ ] [P1] The Will Rogers Phenomenon (Feinstein, Sosin and Wells, "The Will Rogers Phenomenon: Stage
+      Migration and New Diagnostic Techniques as a Source of Misleading Statistics for Survival in
+      Cancer", New England Journal of Medicine 1985): better diagnostic technology reclassifies patients
+      into a more advanced stage the moment their disease becomes visible, so both the earlier and the
+      later stage improve their survival statistics though no single patient's actual outcome changed,
+      distinct from The Rare Disease Test, a base-rate problem in one test's predictive value, in that
+      here every reclassification is individually correct and the distortion is a pure artifact of
+      regrouping across cohorts; to be cut to the reclassification-flatters-both-groups vector, hedged to
+      comparisons across eras of diagnostic technology, since stage-blind cohort survival or re-staged
+      historical data both correct it.
+- [ ] [P1] The Litigation Selection Effect (Priest and Klein, "The Selection of Disputes for
+      Litigation", Journal of Legal Studies 1984): rational parties settle whenever an outcome is
+      predictable and litigate only what is genuinely uncertain, so the population of cases that reach
+      trial converges toward an even win rate regardless of how lenient or strict the underlying legal
+      standard actually is, distinct from The Market for Lemons, an information asymmetry between buyer
+      and seller, in that here both sides share the same information and the distortion is pure
+      self-selection into the sample; to be cut to the selection-erases-the-signal vector, hedged to
+      disputes where settlement is a real option, since mandatory arbitration or one-sided cost rules
+      both change the sample.
+- [ ] [P1] The Ecological Trap (Schlaepfer, Runge and Sherman, "Ecological and Evolutionary Traps",
+      Trends in Ecology and Evolution 2002; Robertson and Hutto, Ecology 2006; Battin, "When Good Animals
+      Love Bad Habitats", Conservation Biology 2004): an animal reads a cue that once reliably signalled
+      good habitat, and when the environment changes fast enough that the cue outlives the quality it
+      used to track, the animal keeps choosing the cue and the choice turns lethal, sometimes preferring
+      the trap to genuinely good habitat, distinct from Not All Hers to Give, a relatedness asymmetry
+      between kin, in that here the mismatch is between a cue and the world it once predicted, not
+      between two related parties' interests; to be cut to the cue-outlives-its-quality vector, hedged to
+      environments changed faster than the cue can evolve to track, since dimming the cue or restoring
+      true-quality habitat both lift it, at a real cost.
+- [ ] [P1] The Bystander Effect (Latané and Darley, "Bystander Intervention in Emergencies: Diffusion
+      of Responsibility", Journal of Personality and Social Psychology 1968): each witness to an
+      emergency reads the others' calm inaction as evidence nothing is really wrong, and reads the
+      presence of anyone more qualified as reason enough to wait, so the more witnesses there are, the
+      less likely any one of them acts, distinct from Social Loafing, effort withheld on a shared task
+      with a known goal, in that here the goal is not shared work but reading an ambiguous emergency
+      correctly, and the diffusion is of responsibility to intervene, not of exertion; to be cut to the
+      diffusion-of-responsibility-to-act vector, hedged to genuinely ambiguous emergencies among
+      strangers, since a direct, named address to one witness breaks it.
+- [ ] [P1] The Judgment-Proof Problem (Shavell, "The Judgment Proof Problem", International Review of
+      Law and Economics 1986; LoPucki, "The Death of Liability", Yale Law Journal 1996): a firm whose
+      assets sit below the harm it might cause only ever pays up to that ceiling, so it rationally
+      invests in precaution only up to what its own exposure requires and not what the full harm would
+      justify, every actor sound, the law applied correctly, and the shortfall landing on an
+      uncompensated victim, distinct from Moral Hazard, a shifted incentive after risk is insured away,
+      in that here liability is structurally uncollectable by asset design whether or not any insurance
+      is involved; to be cut to the exposure-ceiling-caps-precaution vector, hedged to limited-liability
+      structures with a real gap between harm and assets, since mandatory insurance or asset-tracing both
+      narrow it at a cost.
+- [ ] [P2] Motivated Numeracy (Kahan, Peters, Dawson and Slovic, "Motivated Numeracy and Enlightened
+      Self-Government", Behavioural Public Policy 2017): the same statistical skill that reads a neutral
+      dataset accurately is used, on a politically charged version of the identical data, to find
+      whichever pattern matches the reasoner's prior identity, so the most numerate reasoners polarize
+      the hardest rather than converge, distinct from Anyone Can See It, naive realism about a shared
+      situation, in that here the distortion is not in reading the situation but in applying real,
+      substantial analytical skill selectively once identity is at stake; to be cut to the
+      skill-serves-the-identity-not-the-answer vector, hedged to data framed as identity-relevant, since
+      identity-neutral framing and blinded analysis both lift it, at real cost to build.
+- [ ] [P2] The Trouble with Averages (Kravitz, Duan and Braslow, "Evidence-Based Medicine,
+      Heterogeneity of Treatment Effects, and the Trouble with Averages", Milbank Quarterly 2004; Kent,
+      Hayward and colleagues, International Journal of Epidemiology 2016): a trial reports one average
+      treatment effect because that is the only evidence the trial can validly produce, and every
+      guideline, clinician and patient then acts on that single number in good faith, though real
+      patients vary enough in baseline risk that the same average can mean net benefit for a few and net
+      harm for the many who are still treated, distinct from The Rare Disease Test, a base-rate problem
+      in test accuracy, in that here the treatment truly works on average and the trap is in applying an
+      average to an individual it was never about; to be cut to the average-effect-hides-the-responder
+      vector, hedged to genuinely heterogeneous patient populations, since individualized risk modelling
+      lifts it at the cost of data and validation few trials can supply.
+- [ ] [P2] The Anthropogenic Allee Effect (Courchamp, Angulo, Rivalan and colleagues, "Rarity Value and
+      Species Extinction: The Anthropogenic Allee Effect", PLoS Biology 2006): as a species grows rarer
+      its price to collectors and trophy markets rises, and that rising price draws exploitation pressure
+      exactly as the population is least able to bear it, no single buyer or hunter acting irrationally,
+      only a market answering scarcity with demand, distinct from The Commons, a shared resource drawn
+      down by ordinary use, in that here the driver is a price signal that rises as the stock falls, not
+      a flat per-user draw on a resource whose price never adjusts; to be cut to the
+      scarcity-raises-the-price-that-kills-it vector, hedged to species with a collector or luxury
+      market, since flooding the market via captive breeding or demand-reduction both lift it,
+      imperfectly.
+- [ ] [P2] Hindsight Bias (Fischhoff, "Hindsight Is Not Equal to Foresight: The Effect of Outcome
+      Knowledge on Judgment Under Uncertainty", Journal of Experimental Psychology 1975; Fischhoff and
+      Beyth, "I Knew It Would Happen", Organizational Behavior and Human Performance 1975): once an
+      outcome is known, the evaluator reconstructs it as having been obvious all along, so a sound
+      decision that had bad luck is scored as negligence and a reckless one that had good luck is scored
+      as foresight, the evaluator no less honest for it, distinct from The Planning Fallacy,
+      underestimating one's own future task, in that here the distortion belongs to a third party judging
+      a past decision after the fact, not to the original planner; to be cut to the
+      outcome-known-rewrites-the-odds vector, hedged to judgments made after the fact by someone who did
+      not bear the original uncertainty, since disciplined ex-ante decision logs lift it at the cost of
+      upkeep and the risk of after-the-fact curation.
