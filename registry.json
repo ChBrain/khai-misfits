@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.187.0",
+  "version": "0.188.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -1082,6 +1082,12 @@
       "id": "time_inconsistency",
       "title": "Time Inconsistency",
       "description": "A promise best made today is best broken tomorrow, so no one acts on it, and good outcomes need a hand tied in advance."
+    },
+    {
+      "kind": "misfit",
+      "id": "too_dear_to_fake",
+      "title": "Too Dear to Fake",
+      "description": "A hidden worth is proved only by a signal too dear to fake, so each holder burns real resource to be believed."
     },
     {
       "kind": "misfit",
