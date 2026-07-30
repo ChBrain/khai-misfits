@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.196.0",
+  "version": "0.197.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -242,6 +242,12 @@
       "id": "loath_to_part",
       "title": "Loath to Part",
       "description": "Owning a thing lifts its value above what any buyer will pay, so the trade both would gain from is never made."
+    },
+    {
+      "kind": "misfit",
+      "id": "long_after_the_cause",
+      "title": "Long After the Cause",
+      "description": "A brief spike trips a system into a second stable state, where correct retries hold it long after the cause is gone."
     },
     {
       "kind": "misfit",
