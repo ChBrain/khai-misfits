@@ -4,13 +4,11 @@ updated: "2026-07-24"
 
 # All at Once: Reference
 
-The research warrant for **All at Once** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The title is provisional, a reading of the phenomenon the literature calls the **cache stampede**,
-the dogpile, a caching instance of the classic thundering herd: when a popular cached value expires,
-every concurrent request misses at the same instant and recomputes it at once, a synchronized spike
-that overwhelms the backend the cache was there to spare, and the fix is to de-synchronize or collapse
-the recomputations, all cited below.
+The research warrant for **All at Once**. The title is a reading of the phenomenon the literature
+calls the **cache stampede**, the dogpile, a caching instance of the classic thundering herd: when a
+popular cached value expires, every concurrent request misses at the same instant and recomputes it
+at once, a synchronized spike that overwhelms the backend the cache was there to spare, and the fix
+is to de-synchronize or collapse the recomputations, all cited below.
 
 ## Line of Work
 
@@ -95,8 +93,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Cache**: carries the stored copy that spares the backend while it is warm (Vattani, Chierichetti,
   and Lowenstein), serving a popular value cheaply and hiding the cost of computing it, right up until it

@@ -4,14 +4,14 @@ updated: "2026-07-29"
 
 # No Place in the Theory: Reference
 
-The research warrant for **No Place in the Theory** (play and company not yet staged; this warrant is drafted first, to
-prove the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**Semmelweis reflex**: a valid finding that contradicts an established paradigm is reflexively rejected, because each
-expert reasonably weighs the anomalous claim against the great accumulated weight of accepted theory and finds it likelier
-an error in the finding than a truth the theory cannot explain, so a field can dismiss a correct discovery for want of a
-mechanism or a place in its paradigm, all cited below, held with the finding that this is a documented tendency traced in
-cases of genuine anomaly and not a claim that consensus is generally wrong to resist novelty, since the same default that
-rejects a true anomaly rightly rejects most false ones.
+The research warrant for **No Place in the Theory**. The title is a reading of the phenomenon named
+the **Semmelweis reflex**: a valid finding that contradicts an established paradigm is reflexively
+rejected, because each expert reasonably weighs the anomalous claim against the great accumulated
+weight of accepted theory and finds it likelier an error in the finding than a truth the theory
+cannot explain, so a field can dismiss a correct discovery for want of a mechanism or a place in its
+paradigm, all cited below, held with the finding that this is a documented tendency traced in cases
+of genuine anomaly and not a claim that consensus is generally wrong to resist novelty, since the
+same default that rejects a true anomaly rightly rejects most false ones.
 
 ## Line of Work
 
@@ -102,8 +102,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Theory**: carries the setting (Kuhn), the working paradigm built honestly from a long accumulation of confirmed
   prediction, holding real and earned authority before any anomaly appears.

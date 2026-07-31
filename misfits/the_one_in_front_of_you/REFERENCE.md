@@ -4,11 +4,9 @@ updated: "2026-07-23"
 
 # The One in Front of You: Reference
 
-The research warrant for **The One in Front of You** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The dynamic is the identifiable-victim account of allocation: Schelling's identified and statistical
-lives, Small, Loewenstein, and Slovic's sympathy and callousness, and Slovic's psychic numbing, all
-cited below.
+The research warrant for **The One in Front of You**. The dynamic is the identifiable-victim account
+of allocation: Schelling's identified and statistical lives, Small, Loewenstein, and Slovic's
+sympathy and callousness, and Slovic's psychic numbing, all cited below.
 
 ## Line of Work
 
@@ -78,8 +76,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Face**: carries the identified victim (Schelling; Small, Loewenstein, and Slovic), the named,
   pictured, present person whose need the giver can see and feel.

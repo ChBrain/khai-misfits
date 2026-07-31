@@ -4,13 +4,13 @@ updated: "2026-07-29"
 
 # The Rare Disease Test: Reference
 
-The research warrant for **The Rare Disease Test** (play and company not yet staged; this warrant is drafted first, to
-prove the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**base rate fallacy**: in judging the probability of a hypothesis given specific evidence, people fix on how well the
-evidence fits the hypothesis and neglect the prior probability, the base rate, so a positive test for a rare condition is
-read as near-certain when it is in fact more likely a false positive, a sound test and an ordinary act of reasoning
-together yielding a confident wrong conclusion, all cited below, held with the finding that the neglect is strongest when
-the base rate is presented as a pallid statistic and weakens sharply when the same information is given as natural
+The research warrant for **The Rare Disease Test**. The title is a reading of the phenomenon named
+the **base rate fallacy**: in judging the probability of a hypothesis given specific evidence,
+people fix on how well the evidence fits the hypothesis and neglect the prior probability, the base
+rate, so a positive test for a rare condition is read as near-certain when it is in fact more likely
+a false positive, a sound test and an ordinary act of reasoning together yielding a confident wrong
+conclusion, all cited below, held with the finding that the neglect is strongest when the base rate
+is presented as a pallid statistic and weakens sharply when the same information is given as natural
 frequencies or made causally vivid.
 
 ## Line of Work
@@ -97,8 +97,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Rare Condition**: carries the setting (Casscells, Schoenberger and Grayboys), the low prior, the condition present
   in only a small fraction of the population the test is applied to.

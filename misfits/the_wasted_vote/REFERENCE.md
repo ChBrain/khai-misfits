@@ -4,13 +4,13 @@ updated: "2026-07-28"
 
 # The Wasted Vote: Reference
 
-The research warrant for **The Wasted Vote** (play and company not yet staged; this warrant is drafted first, to prove the
-science and the distinction before authoring). The title is provisional, a reading of the phenomenon named **Duverger's
-Law**: under a plurality, winner-take-all electoral rule a vote for a third party is likely wasted, so each voter
-strategically deserts it for one of the two viable contenders, and this individually rational desertion sums to a
-self-reinforcing two-party lock that narrows the choices everyone then faces, all cited below, held with the finding that
-the law is a tendency and not a determinism, strong under single-member plurality and softened by regionally concentrated
-third parties and by the social cleavages that share the cause.
+The research warrant for **The Wasted Vote**. The title is a reading of the phenomenon named
+**Duverger's Law**: under a plurality, winner-take-all electoral rule a vote for a third party is
+likely wasted, so each voter strategically deserts it for one of the two viable contenders, and this
+individually rational desertion sums to a self-reinforcing two-party lock that narrows the choices
+everyone then faces, all cited below, held with the finding that the law is a tendency and not a
+determinism, strong under single-member plurality and softened by regionally concentrated third
+parties and by the social cleavages that share the cause.
 
 ## Line of Work
 
@@ -96,8 +96,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Third**: carries the setting, the third candidate with real but insufficient support, genuinely preferred by some
   and unable to finish first, the option the rule will strand.

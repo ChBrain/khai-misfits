@@ -4,13 +4,11 @@ updated: "2026-07-24"
 
 # Priced In: Reference
 
-The research warrant for **Priced In** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The title is provisional, a market-native reading of the phenomenon Grossman and Stiglitz proved,
-**the impossibility of informationally efficient markets**: a price that reveals the informed
-traders' costly research to everyone for free destroys the incentive to do the research, so the
-price can never fully reflect the information it was supposed to aggregate, and a degree of
-disequilibrium must persist for gathering to pay at all, all cited below.
+The research warrant for **Priced In**. The title is a market-native reading of the phenomenon
+Grossman and Stiglitz proved, **the impossibility of informationally efficient markets**: a price
+that reveals the informed traders' costly research to everyone for free destroys the incentive to do
+the research, so the price can never fully reflect the information it was supposed to aggregate, and
+a degree of disequilibrium must persist for gathering to pay at all, all cited below.
 
 ## Line of Work
 
@@ -94,8 +92,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Price**: carries the market price as the public conveyor of information (Grossman and Stiglitz),
   which reveals the informed traders' costly research to the uninformed the moment the informed act, for

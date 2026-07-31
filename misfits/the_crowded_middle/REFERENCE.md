@@ -4,13 +4,12 @@ updated: "2026-07-24"
 
 # The Crowded Middle: Reference
 
-The research warrant for **The Crowded Middle** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The title is provisional, a reading of the phenomenon the literature calls the **principle of
-minimum differentiation**: Hotelling's account of two sellers on a line converging on the center,
-Black's median voter as the point majority rule selects, and Downs's two vote-maximizing parties
-drawn toward the median voter, all cited below, held with the correction that the convergence result
-is not general but conditional on the model's assumptions (d'Aspremont, Gabszewicz, and Thisse).
+The research warrant for **The Crowded Middle**. The title is a reading of the phenomenon the
+literature calls the **principle of minimum differentiation**: Hotelling's account of two sellers on
+a line converging on the center, Black's median voter as the point majority rule selects, and
+Downs's two vote-maximizing parties drawn toward the median voter, all cited below, held with the
+correction that the convergence result is not general but conditional on the model's assumptions
+(d'Aspremont, Gabszewicz, and Thisse).
 
 ## Line of Work
 
@@ -105,8 +104,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Line**: carries the dimension of preference the market is spread across (Hotelling), the
   street, the flavor, the policy axis, the span along which customers are distributed and each buys

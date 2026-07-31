@@ -4,13 +4,13 @@ updated: "2026-07-28"
 
 # The Fire That Feeds You: Reference
 
-The research warrant for **The Fire That Feeds You** (play and company not yet staged; this warrant is drafted first, to
-prove the science and the distinction before authoring). The title is provisional, a reading of a family of theories of
-biological ageing, the **metabolic and disposable-soma account of senescence**: the very metabolism that keeps a body alive,
-burning fuel to hold off the cold default of death, is the same process that damages and ages it, and the body's economy is
-evolved to spend on living and reproducing what it might have spent on repair, so to live is to be worn by the living, all
-cited below, held with the strong finding that the mechanism is genuinely contested, the crude damage account much
-challenged and the evolutionary trade-off the more robust reading.
+The research warrant for **The Fire That Feeds You**. The title is a reading of a family of theories
+of biological ageing, the **metabolic and disposable-soma account of senescence**: the very
+metabolism that keeps a body alive, burning fuel to hold off the cold default of death, is the same
+process that damages and ages it, and the body's economy is evolved to spend on living and
+reproducing what it might have spent on repair, so to live is to be worn by the living, all cited
+below, held with the strong finding that the mechanism is genuinely contested, the crude damage
+account much challenged and the evolutionary trade-off the more robust reading.
 
 ## Line of Work
 
@@ -97,8 +97,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Cold Default**: carries the setting, the still, low-energy equilibrium of death that all matter drifts toward, the
   natural state a living body spends without pause to hold itself away from.

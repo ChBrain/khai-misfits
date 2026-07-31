@@ -4,12 +4,12 @@ updated: "2026-07-24"
 
 # Starting Tomorrow: Reference
 
-The research warrant for **Starting Tomorrow** (play and company not yet staged; this warrant is drafted first, to prove the
-science and the distinction before authoring). The title is provisional, a reading of the phenomenon named **present bias**,
-or hyperbolic discounting: a person discounts the near future far more steeply than the far, so their own ranking of a
-smaller-sooner against a larger-later reward reverses as the sooner draws near, and they plan in the calm to save or study
-or quit and then, when the moment comes, take the immediate reward and break the plan, again and again, all cited below,
-held with the finding that the functional form is debated and not all impatience is a bias.
+The research warrant for **Starting Tomorrow**. The title is a reading of the phenomenon named
+**present bias**, or hyperbolic discounting: a person discounts the near future far more steeply
+than the far, so their own ranking of a smaller-sooner against a larger-later reward reverses as the
+sooner draws near, and they plan in the calm to save or study or quit and then, when the moment
+comes, take the immediate reward and break the plan, again and again, all cited below, held with the
+finding that the functional form is debated and not all impatience is a bias.
 
 ## Line of Work
 
@@ -94,8 +94,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Plan**: carries the setup (Laibson), the resolution made in the calm when both rewards are distant, to save or study
   or quit or rise early, the larger-later sincerely chosen.

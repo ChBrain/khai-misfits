@@ -4,13 +4,12 @@ updated: "2026-07-28"
 
 # Spoiled for Choice: Reference
 
-The research warrant for **Spoiled for Choice** (play and company not yet staged; this warrant is drafted first, to prove
-the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**paradox of choice**, or choice overload: past a point more options do not free the chooser but overwhelm, so a larger
-assortment lowers the odds of choosing at all and the satisfaction of the choice made, each option added in good faith to
-serve a varied taste summing to paralysis and regret, all cited below, held with the strong finding that the effect is
-sharply contested, a large meta-analysis finding no reliable average and later work locating it only under specific
-conditions.
+The research warrant for **Spoiled for Choice**. The title is a reading of the phenomenon named the
+**paradox of choice**, or choice overload: past a point more options do not free the chooser but
+overwhelm, so a larger assortment lowers the odds of choosing at all and the satisfaction of the
+choice made, each option added in good faith to serve a varied taste summing to paralysis and
+regret, all cited below, held with the strong finding that the effect is sharply contested, a large
+meta-analysis finding no reliable average and later work locating it only under specific conditions.
 
 ## Line of Work
 
@@ -93,8 +92,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Varied Taste**: carries the setting, the real diversity of preferences that makes offering many options reasonable,
   the good reason a wider range is added, since somewhere in it may lie each person's perfect fit.

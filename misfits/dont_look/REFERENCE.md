@@ -4,12 +4,12 @@ updated: "2026-07-24"
 
 # Don't Look: Reference
 
-The research warrant for **Don't Look** (play and company not yet staged; this warrant is drafted first, to prove the
-science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the **ostrich
-effect**: where an agent can look at its own situation for little or nothing but the news is likely to be bad, it avoids
-looking, to spare itself the pain of learning it, so it watches least exactly when the news matters most, all cited below,
-held with the finding that the tendency is real but of varying and debated magnitude, not universal, since some watch more
-under stress and not less, and not all not-looking is an ostrich flinch.
+The research warrant for **Don't Look**. The title is a reading of the phenomenon named the
+**ostrich effect**: where an agent can look at its own situation for little or nothing but the news
+is likely to be bad, it avoids looking, to spare itself the pain of learning it, so it watches least
+exactly when the news matters most, all cited below, held with the finding that the tendency is real
+but of varying and debated magnitude, not universal, since some watch more under stress and not
+less, and not all not-looking is an ostrich flinch.
 
 ## Line of Work
 
@@ -88,8 +88,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Ledger**: carries the setup (Galai and Sade), the information free and to hand whose news is likely bad, the account
   you could open, the result you could read, no cost to look but a blow expected.

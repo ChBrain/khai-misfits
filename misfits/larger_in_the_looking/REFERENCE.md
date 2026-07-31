@@ -4,13 +4,13 @@ updated: "2026-07-28"
 
 # Larger in the Looking: Reference
 
-The research warrant for **Larger in the Looking** (play and company not yet staged; this warrant is drafted first, to
-prove the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**focusing illusion**: when people judge how much a single factor bears on their well-being, the very act of attending to
-it magnifies its apparent importance, so they overweight it and mispredict how much it will matter, since in the living
-it will be one of many things and rarely in focus, nothing in life as important as it seems while it is being thought
-about, all cited below, held with the finding that the factor is not nothing but smaller in the living than in the
-judging, a documented bias in the judgments made while it is salient.
+The research warrant for **Larger in the Looking**. The title is a reading of the phenomenon named
+the **focusing illusion**: when people judge how much a single factor bears on their well-being, the
+very act of attending to it magnifies its apparent importance, so they overweight it and mispredict
+how much it will matter, since in the living it will be one of many things and rarely in focus,
+nothing in life as important as it seems while it is being thought about, all cited below, held with
+the finding that the factor is not nothing but smaller in the living than in the judging, a
+documented bias in the judgments made while it is salient.
 
 ## Line of Work
 
@@ -93,8 +93,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Factor**: carries the object of judgment (Schkade and Kahneman), the single thing whose weight on well-being is
   being estimated, the income or the climate or the house or the diagnosis brought into focus.

@@ -4,13 +4,13 @@ updated: "2026-07-28"
 
 # Paid to Stop Caring: Reference
 
-The research warrant for **Paid to Stop Caring** (play and company not yet staged; this warrant is drafted first, to prove
-the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**overjustification effect**, the crowding-out of intrinsic motivation by extrinsic reward: a reward offered to encourage
-what someone already did for its own sake reframes the act as done for the reward, so when the reward stops the inner motive
-that sustained it is gone, and paying for the freely given can kill the giving, all cited below, held with the finding that
-the effect is real but bounded, strongest for expected tangible controlling rewards on already-interesting tasks and weak or
-absent otherwise, its magnitude once sharply contested.
+The research warrant for **Paid to Stop Caring**. The title is a reading of the phenomenon named the
+**overjustification effect**, the crowding-out of intrinsic motivation by extrinsic reward: a reward
+offered to encourage what someone already did for its own sake reframes the act as done for the
+reward, so when the reward stops the inner motive that sustained it is gone, and paying for the
+freely given can kill the giving, all cited below, held with the finding that the effect is real but
+bounded, strongest for expected tangible controlling rewards on already-interesting tasks and weak
+or absent otherwise, its magnitude once sharply contested.
 
 ## Line of Work
 
@@ -92,8 +92,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Love of It**: carries the setting, the intrinsic motive, the thing done for its own sake and needing no reward
   because the act is its own reward, the drawing delighted in and the puzzle enjoyed.

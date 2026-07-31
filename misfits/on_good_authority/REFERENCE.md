@@ -4,13 +4,13 @@ updated: "2026-07-28"
 
 # On Good Authority: Reference
 
-The research warrant for **On Good Authority** (play and company not yet staged; this warrant is drafted first, to prove
-the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**Woozle effect**, or evidence by citation: a claim gains the look of established evidence not from data but from being
-cited and re-cited, each author trusting a prior source in good faith, so a weak or unsupported assertion accretes a dense
-network of references until it reads as settled fact, and belief in it is manufactured by the repetition of the citation
-rather than by any accumulation of evidence, all cited below, held with the finding that this is a mechanism attested in
-case analyses of specific literatures rather than a measured rate at which literatures distort.
+The research warrant for **On Good Authority**. The title is a reading of the phenomenon named the
+**Woozle effect**, or evidence by citation: a claim gains the look of established evidence not from
+data but from being cited and re-cited, each author trusting a prior source in good faith, so a weak
+or unsupported assertion accretes a dense network of references until it reads as settled fact, and
+belief in it is manufactured by the repetition of the citation rather than by any accumulation of
+evidence, all cited below, held with the finding that this is a mechanism attested in case analyses
+of specific literatures rather than a measured rate at which literatures distort.
 
 ## Line of Work
 
@@ -95,8 +95,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Claim**: carries the origin, the single thin or unsupported assertion, the small study or speculation or
   misplaced decimal that will be cited into fact, the root of the chain (Greenberg; Rekdal).

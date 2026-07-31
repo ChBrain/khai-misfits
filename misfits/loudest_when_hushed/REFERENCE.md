@@ -4,13 +4,13 @@ updated: "2026-07-24"
 
 # Loudest When Hushed: Reference
 
-The research warrant for **Loudest When Hushed** (play and company not yet staged; this warrant is drafted first,
-to prove the science and the distinction before authoring). The title is provisional, a reading of the phenomenon
-named the **Streisand effect**: an attempt to suppress or remove a piece of information draws far more attention to
-it than leaving it alone would, because the act of suppression is itself visible, signals that the information
-matters, and provokes defiance and copying on a medium where copies are cheap, all cited below, held with the
-finding that the backfire depends on the suppression being visible, seeming unjust or heavy-handed, and meeting a
-networked audience, and that quiet, unremarked, or widely-accepted removal need not backfire at all.
+The research warrant for **Loudest When Hushed**. The title is a reading of the phenomenon named the
+**Streisand effect**: an attempt to suppress or remove a piece of information draws far more
+attention to it than leaving it alone would, because the act of suppression is itself visible,
+signals that the information matters, and provokes defiance and copying on a medium where copies are
+cheap, all cited below, held with the finding that the backfire depends on the suppression being
+visible, seeming unjust or heavy-handed, and meeting a networked audience, and that quiet,
+unremarked, or widely-accepted removal need not backfire at all.
 
 ## Line of Work
 
@@ -91,8 +91,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed
-load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Suppression**: carries the trigger (the coinage; Jansen & Martin), the move to remove or hide the
   information, the takedown or lawsuit or ban, locally rational since removing a thing should leave fewer to see it.

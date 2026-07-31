@@ -4,13 +4,12 @@ updated: "2026-07-24"
 
 # Only as Good as the Worst: Reference
 
-The research warrant for **Only as Good as the Worst** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The title is provisional, a reading of the phenomenon the literature calls the **O-ring theory**:
-Kremer's account of production as a chain of tasks whose qualities multiply, so one weak link
-sharply cuts the value of the whole, with Becker's positive assortative matching beneath the sorting
-it forces, all cited below, held with the finding that the result is as strong as the production is
-multiplicative and softens where tasks are substitutable or redundant.
+The research warrant for **Only as Good as the Worst**. The title is a reading of the phenomenon the
+literature calls the **O-ring theory**: Kremer's account of production as a chain of tasks whose
+qualities multiply, so one weak link sharply cuts the value of the whole, with Becker's positive
+assortative matching beneath the sorting it forces, all cited below, held with the finding that the
+result is as strong as the production is multiplicative and softens where tasks are substitutable or
+redundant.
 
 ## Line of Work
 
@@ -96,8 +95,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Chain**: carries the sequence of complementary tasks that together make the product (Kremer),
   each of which must be done well, the more of them the more ways for one to fail and the more fragile

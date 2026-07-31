@@ -4,11 +4,10 @@ updated: "2026-07-24"
 
 # I Know How It Works: Reference
 
-The research warrant for **I Know How It Works** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The dynamic is the illusion of explanatory depth: Rozenblit and Keil's finding that felt understanding
-far outruns the mechanism actually held, with Fernbach and colleagues' political case in which the
-illusion supports extreme positions a demand for mechanism, not reasons, undoes, all cited below.
+The research warrant for **I Know How It Works**. The dynamic is the illusion of explanatory depth:
+Rozenblit and Keil's finding that felt understanding far outruns the mechanism actually held, with
+Fernbach and colleagues' political case in which the illusion supports extreme positions a demand
+for mechanism, not reasons, undoes, all cited below.
 
 ## Line of Work
 
@@ -91,8 +90,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Felt Grasp**: carries the subjective sense of understanding the mechanism (Rozenblit and Keil),
   confident and detailed-seeming, felt far deeper than the mechanism the person can actually produce.

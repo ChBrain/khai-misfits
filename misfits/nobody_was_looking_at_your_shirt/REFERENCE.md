@@ -4,12 +4,12 @@ updated: "2026-07-29"
 
 # Nobody Was Looking at Your Shirt: Reference
 
-The research warrant for **Nobody Was Looking at Your Shirt** (play and company not yet staged; this warrant is drafted
-first, to prove the science and the distinction before authoring). The title is provisional, a reading of the
-phenomenon named the **spotlight effect**: people overestimate how much others notice and judge their appearance and
-behavior, since one's own actions and appearance are so salient to oneself that this salience is projected onto the
-perspective of observers who are in fact paying far less attention, all cited below, held with the finding that the
-bias shrinks, though it does not vanish, with feedback and with familiarity between observer and observed.
+The research warrant for **Nobody Was Looking at Your Shirt**. The title is a reading of the
+phenomenon named the **spotlight effect**: people overestimate how much others notice and judge
+their appearance and behavior, since one's own actions and appearance are so salient to oneself that
+this salience is projected onto the perspective of observers who are in fact paying far less
+attention, all cited below, held with the finding that the bias shrinks, though it does not vanish,
+with feedback and with familiarity between observer and observed.
 
 ## Line of Work
 
@@ -87,8 +87,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Blemish**: carries the setup (Gilovich, Medvec and Savitsky, 2000), the conspicuous moment, real and vivid to
   the one living it, the whole of their attention for a stretch of time.

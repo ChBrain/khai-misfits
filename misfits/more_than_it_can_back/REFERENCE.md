@@ -4,14 +4,14 @@ updated: "2026-07-24"
 
 # More Than It Can Back: Reference
 
-The research warrant for **More Than It Can Back** (play and company not yet staged; this warrant is drafted
-first, to prove the science and the distinction before authoring). The title is provisional, a reading of the
-phenomenon the literature calls **the Triffin dilemma**: Triffin's account of why a single national currency
-serving as the world's reserve asset faces an irreconcilable conflict between supplying the world's liquidity and
-preserving confidence in what it supplies, because meeting a growing world's demand for reserves requires the
-issuer to send out claims faster than the backing behind them can grow, all cited below, held with the finding
-that the conflict is sharpest under a fixed convertibility promise and softens, without vanishing, into a
-sustainability-and-confidence tension under a fiat, floating regime.
+The research warrant for **More Than It Can Back**. The title is a reading of the phenomenon the
+literature calls **the Triffin dilemma**: Triffin's account of why a single national currency
+serving as the world's reserve asset faces an irreconcilable conflict between supplying the world's
+liquidity and preserving confidence in what it supplies, because meeting a growing world's demand
+for reserves requires the issuer to send out claims faster than the backing behind them can grow,
+all cited below, held with the finding that the conflict is sharpest under a fixed convertibility
+promise and softens, without vanishing, into a sustainability-and-confidence tension under a fiat,
+floating regime.
 
 ## Line of Work
 
@@ -98,8 +98,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed
-load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Reserve Asset**: carries the double duty (Triffin), a single national currency that is also the world's
   store of reserves, asked at once to be the issuer's money and everyone's safe holding, the object in which the

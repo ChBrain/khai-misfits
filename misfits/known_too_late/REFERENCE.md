@@ -4,12 +4,12 @@ updated: "2026-07-27"
 
 # Known Too Late: Reference
 
-The research warrant for **Known Too Late** (play and company not yet staged; this warrant is drafted first, to prove the
-science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**Collingridge Dilemma**: when a technology is young it can still be steered but its harms cannot yet be known, and by the
-time its harms are plain it has grown so entrenched that steering it is slow and costly, so the power to change a technology
-and the knowledge of how it should be changed are never in hand at the same time, all cited below, held with the finding
-that the dilemma is a tendency and not an iron law, its horns softened by real foresight and by technologies built to stay
+The research warrant for **Known Too Late**. The title is a reading of the phenomenon named the
+**Collingridge Dilemma**: when a technology is young it can still be steered but its harms cannot
+yet be known, and by the time its harms are plain it has grown so entrenched that steering it is
+slow and costly, so the power to change a technology and the knowledge of how it should be changed
+are never in hand at the same time, all cited below, held with the finding that the dilemma is a
+tendency and not an iron law, its horns softened by real foresight and by technologies built to stay
 corrigible.
 
 ## Line of Work
@@ -100,8 +100,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Clay**: carries the young technology while it is still plastic, its course open to being shaped or redirected or
   stopped at little cost, the soft form before it sets.

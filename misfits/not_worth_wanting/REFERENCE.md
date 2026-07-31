@@ -4,13 +4,13 @@ updated: "2026-07-24"
 
 # Not Worth Wanting: Reference
 
-The research warrant for **Not Worth Wanting** (play and company not yet staged; this warrant is drafted first, to prove the
-science and the distinction before authoring). The title is provisional, a reading of the phenomenon named **adaptive
-preference formation**, the sour grapes of the fable: where a good is put out of reach, a person unconsciously revises their
-wants to fit what they can attain, coming not to want the unattainable, so they report themselves content and are, and any
-measure that trusts what people say they want reads the constrained life as a chosen and happy one, all cited below, held
-with the finding that the adjustment is real but hard to measure and not every lowered want is a hidden deprivation, since
-some adaptation is a healthy and autonomous making of peace with the possible.
+The research warrant for **Not Worth Wanting**. The title is a reading of the phenomenon named
+**adaptive preference formation**, the sour grapes of the fable: where a good is put out of reach, a
+person unconsciously revises their wants to fit what they can attain, coming not to want the
+unattainable, so they report themselves content and are, and any measure that trusts what people say
+they want reads the constrained life as a chosen and happy one, all cited below, held with the
+finding that the adjustment is real but hard to measure and not every lowered want is a hidden
+deprivation, since some adaptation is a healthy and autonomous making of peace with the possible.
 
 ## Line of Work
 
@@ -87,8 +87,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Grapes**: carries the setup (Elster; the fable), the good the person wants and finds out of reach, the work or
   freedom or life walled off by poverty or custom or circumstance.

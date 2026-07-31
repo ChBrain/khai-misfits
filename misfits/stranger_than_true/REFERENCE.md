@@ -4,14 +4,14 @@ updated: "2026-07-24"
 
 # Stranger Than True: Reference
 
-The research warrant for **Stranger Than True** (play and company not yet staged; this warrant is drafted first,
-to prove the science and the distinction before authoring). The title is provisional, a reading of the phenomenon
-Vosoughi, Roy, and Aral documented as the differential spread of true and false news: people share what they find
-novel and surprising, and false stories, unconstrained by what is true, are on average more novel than true ones,
-so falsehood diffuses farther, faster, and deeper than truth, driven not by bots and not by any taste for
-falsehood but by the ordinary human preference for the novel, all cited below, held with the finding that the tilt
-is a tendency strongest in political news and driven by novelty as the authors' best-supported explanation, and
-not a claim that all falsehood spreads or that people prefer to be lied to.
+The research warrant for **Stranger Than True**. The title is a reading of the phenomenon Vosoughi,
+Roy, and Aral documented as the differential spread of true and false news: people share what they
+find novel and surprising, and false stories, unconstrained by what is true, are on average more
+novel than true ones, so falsehood diffuses farther, faster, and deeper than truth, driven not by
+bots and not by any taste for falsehood but by the ordinary human preference for the novel, all
+cited below, held with the finding that the tilt is a tendency strongest in political news and
+driven by novelty as the authors' best-supported explanation, and not a claim that all falsehood
+spreads or that people prefer to be lied to.
 
 ## Line of Work
 
@@ -97,8 +97,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed
-load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Surprise**: carries the selection criterion (Vosoughi, Roy & Aral), the novelty of a story that decides
   whether it is worth passing on, the filter the sharing network applies to everything that moves through it.

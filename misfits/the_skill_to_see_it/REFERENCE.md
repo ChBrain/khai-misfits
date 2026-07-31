@@ -4,13 +4,13 @@ updated: "2026-07-24"
 
 # The Skill to See It: Reference
 
-The research warrant for **The Skill to See It** (play and company not yet staged; this warrant is drafted first, to prove
-the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**Dunning-Kruger effect**: because judging how well a task is done draws on the very skill the task itself requires, those
-who lack the skill also lack the means to see that they lack it, so the least able rate themselves near the best while the
-most able, finding it easy, rate themselves too low, all cited below, held with the finding that the effect is heavily
-contested, its size and even its reality as a distinct metacognitive deficit disputed, since much of the classic pattern can
-be produced by regression to the mean and the better-than-average tendency alone.
+The research warrant for **The Skill to See It**. The title is a reading of the phenomenon named the
+**Dunning-Kruger effect**: because judging how well a task is done draws on the very skill the task
+itself requires, those who lack the skill also lack the means to see that they lack it, so the least
+able rate themselves near the best while the most able, finding it easy, rate themselves too low,
+all cited below, held with the finding that the effect is heavily contested, its size and even its
+reality as a distinct metacognitive deficit disputed, since much of the classic pattern can be
+produced by regression to the mean and the better-than-average tendency alone.
 
 ## Line of Work
 
@@ -89,8 +89,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Double Duty**: carries the engine (Kruger and Dunning), the fact that the skill which produces a good answer in a
   domain is the same skill that recognises one, so to perform and to judge the performing are at bottom one skill.

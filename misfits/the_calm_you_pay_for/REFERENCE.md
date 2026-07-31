@@ -4,11 +4,9 @@ updated: "2026-07-23"
 
 # The Calm You Pay For: Reference
 
-The research warrant for **The Calm You Pay For** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The dynamic is the feedback-limitation account of control: Bode's sensitivity integral and the waterbed
-effect, extended by Freudenberg and Looze's constraints from unstable poles, non-minimum-phase zeros, and
-delays, all cited below.
+The research warrant for **The Calm You Pay For**. The dynamic is the feedback-limitation account of
+control: Bode's sensitivity integral and the waterbed effect, extended by Freudenberg and Looze's
+constraints from unstable poles, non-minimum-phase zeros, and delays, all cited below.
 
 ## Line of Work
 
@@ -50,7 +48,7 @@ The phenomenon in practice, and the research spine beneath it.
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Hendrik W. Bode**       | _Network Analysis and Feedback Amplifier Design_ (1945); the sensitivity integral                                       | **The spine**: the sensitivity function measures the gain from disturbance to error, and for a stable loop with at least two more poles than zeros the integral of its log over all frequencies is zero, so attenuation in one band forces amplification in another. The governing law. |
 | **The waterbed effect**   | the standard reading of Bode's constraint in feedback design                                                            | **The image**: push the sensitivity down at one frequency and it rises at another, as a waterbed pressed here bulges there, the conserved total making the trade unavoidable. The Bought Calm, The Paid Rise.                                                                           |
-| **Freudenberg and Looze** | "Right Half Plane Poles and Zeros and Design Tradeoffs in Feedback Systems" (_IEEE TAC_, 1985); the 1987–88 constraints | **The surcharge and the wall**: right-half-plane (unstable) open-loop poles make the integral positive, so more is paid than bought, and non-minimum-phase zeros and delays cap the bandwidth over which the rise can be spread. The Unstable Surcharge, The Far Wall.                  |
+| **Freudenberg and Looze** | "Right Half Plane Poles and Zeros and Design Tradeoffs in Feedback Systems" (_IEEE TAC_, 1985); the 1987-88 constraints | **The surcharge and the wall**: right-half-plane (unstable) open-loop poles make the integral positive, so more is paid than bought, and non-minimum-phase zeros and delays cap the bandwidth over which the rise can be spread. The Unstable Surcharge, The Far Wall.                  |
 | **Practitioner**          | the autopilot, amplifier, or loop tuned for rejection in band that grows peaky, noisy, or fragile out of band           | The trap in the field, and its cost: a loop tuned to reject disturbance where it matters, sound and well-designed, that amplifies noise and nears instability at frequencies no one was watching, the rise the price of the calm and not a fault.                                       |
 
 ## Restrictions
@@ -80,8 +78,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Sensitivity**: carries the gain from disturbance to error across frequency (Bode), below one
   where the loop rejects and above one where it amplifies, the quantity the design shapes.

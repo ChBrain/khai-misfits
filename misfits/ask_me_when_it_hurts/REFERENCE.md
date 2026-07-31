@@ -4,13 +4,13 @@ updated: "2026-07-29"
 
 # Ask Me When It Hurts: Reference
 
-The research warrant for **Ask Me When It Hurts** (play and company not yet staged; this warrant is drafted first, to
-prove the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**hot-cold empathy gap**: people in a cool, calm state cannot accurately predict how a visceral state, hunger, pain, fear,
-desire, will change their own preferences and behavior, so plans made in the cold state are abandoned or reversed once
-the hot state arrives, all cited below, held with the finding that the size of the gap varies by domain and by the
-intensity and salience of the visceral state, strongest for acute drive states and weaker for milder or more familiar
-ones, not a claim that all self-prediction fails.
+The research warrant for **Ask Me When It Hurts**. The title is a reading of the phenomenon named
+the **hot-cold empathy gap**: people in a cool, calm state cannot accurately predict how a visceral
+state, hunger, pain, fear, desire, will change their own preferences and behavior, so plans made in
+the cold state are abandoned or reversed once the hot state arrives, all cited below, held with the
+finding that the size of the gap varies by domain and by the intensity and salience of the visceral
+state, strongest for acute drive states and weaker for milder or more familiar ones, not a claim
+that all self-prediction fails.
 
 ## Line of Work
 
@@ -87,8 +87,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Plan**: carries the setup (Loewenstein, 1996), the decision honestly made in the cold state, reasoned from
   everything a state free of hunger, pain, fear, or desire can access.

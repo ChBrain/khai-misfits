@@ -4,11 +4,9 @@ updated: "2026-07-23"
 
 # Too Much to Ask: Reference
 
-The research warrant for **Too Much to Ask** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The dynamic is the administrative-burden account of access: Moynihan, Herd, and Harbage's learning,
-compliance, and psychological costs, Herd and Moynihan's burden framework, and Sunstein's sludge, all
-cited below.
+The research warrant for **Too Much to Ask**. The dynamic is the administrative-burden account of
+access: Moynihan, Herd, and Harbage's learning, compliance, and psychological costs, Herd and
+Moynihan's burden framework, and Sunstein's sludge, all cited below.
 
 ## Line of Work
 
@@ -81,8 +79,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Step**: carries the single requirement (Herd and Moynihan), the verification, form, or waiting
   period added for a defensible reason and, on its own, entirely reasonable.
