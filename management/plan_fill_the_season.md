@@ -3502,7 +3502,7 @@ the reserve below shares the word and nothing else, and must be titled away from
       a landmark analysis discards every event before an arbitrary date, which is precisely the early
       high-hazard period, and a landmark chosen after seeing the curves reintroduces the selection by
       the back door.
-- [ ] [P1] Endogenous Risk (Daníelsson and Shin, "Endogenous Risk", Modern Risk Management: A History,
+- [x] [P1] Endogenous Risk (Daníelsson and Shin, "Endogenous Risk", Modern Risk Management: A History,
       Risk Books 2003; Daníelsson, "The emperor has no clothes: Limits to risk modelling", Journal of
       Banking and Finance 2002): when every institution measures risk with the same model estimated on
       historical prices and faces the same capital constraint keyed to that measure, a shock makes all
@@ -3518,7 +3518,18 @@ the reserve below shares the word and nothing else, and must be titled away from
       counterpart in Minsky; to be cut to the everyone-holding-the-same-model vector, since every
       remedy, deliberate model diversity, countercyclical buffers, or a risk-insensitive leverage cap,
       trades measured accuracy for aggregate stability and one of them means requiring some institutions
-      to run measurably worse models.
+      to run measurably worse models. Staged as **The Weather We Make**, cut to the
+      identical-measurement-as-contagion vector, with the two conditions cast as two separate pieces,
+      The Same Model and The Limit, because neither is sufficient alone: a shared model without the
+      wire to a capital rule produces shared opinions and no shared trade, and a binding limit without
+      the shared model produces a scatter of readings and staggered selling. The exogeneity premise is
+      cast as its own piece, The Weather, and given the play its title, since it is exactly true for one
+      institution and false for all of them at once, and cannot be falsified from any single firm's
+      history, that history containing no episode in which the firm's own selling moved the market for
+      the reason everyone was selling. Goodhart is credited by name in the Key Work column for the
+      Academic Response to Basel II and deliberately kept out of the Source cell, so the science index
+      does not key a second Goodhart entry against this misfit and conflate it with Goodhart's Law,
+      which the house stages elsewhere; the warrant says so explicitly.
 - [ ] [P1] The Green Paradox (Sinn, "Public policies against global warming: a supply side approach",
       International Tax and Public Finance 2008; The Green Paradox, MIT Press 2012): a credibly
       announced future tightening of demand for fossil carbon lowers the expected future net price of
