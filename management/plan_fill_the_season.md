@@ -3381,3 +3381,281 @@ repaired, and four of them matched on an identical leading source. A candidate's
 cheapest dedup available and the one this batch skipped. The slate now holds no unstruck target, and
 the next batch should begin by checking sources against REFERENCES.md before a single warrant is
 drafted.
+
+**The third scout, at the two-hundred-and-one reconcile.** The batch above closed with an instruction
+to the next scout: check sources first. This pass was built
+to that instruction and to one more the second batch taught by failing. The second batch re-swept three
+of the first batch's five fields and came back five of ten invalid, so the domain, and not only the
+candidate, is what has to be new. Five scouts swept five bodies of work chosen against evidence rather
+than by taste: the roster was probed first, and the ground already mined was ruled out before a scout
+was briefed, Jevons and the rebound effect, the bullwhip, Minsky, Kingman's utilisation trap, and
+screening's lead-time and length bias all returning hits, while audit, ratings, deterrence, resistance,
+and immortal time returned none. The five fields are **epidemiology and causal-inference methodology**,
+**audit, accounting, ratings and compliance**, **international relations, conflict and security
+studies**, **microbiology, immunology and antimicrobial resistance**, and **climate, energy and
+environmental governance**, each orthogonal to the seven already swept.
+
+Each scout was armed rather than trusted. The two hundred and one canonical concepts and the nine
+hundred and forty-one scholar surnames were extracted to a list, and the check was made mandatory and
+ordered: the candidate's **leading author surname first**, which is the check four of the last batch's
+five duplicates would have failed, then the canonical name, then the mechanism in one sentence with the
+cut against its two or three nearest staged neighbours written out. Anything that could not clear all
+three was to be dropped rather than slated. Citation honesty was made an explicit requirement, every
+candidate marked confirmed or uncertain, with the instruction never to tidy an uncertain one up, since
+a warrant credits other people's work and a confidently wrong citation is worse than no candidate.
+Every scout's surname claim was then re-run against the files independently, and all five reports
+checked out with no false clean claims.
+
+The pass surfaced roughly forty-seven distinct candidates against a far lower duplicate rate than the
+last, and the reason is the domain choice: where the second batch re-entered swept fields and collided
+on leading sources, these five returned zero-hit surnames for almost every spine. The ten cleanest are
+slated below, two from each field so the house does not tilt. First the corrections and the held.
+
+**A correction to the brief, not to a scout.** The held-off list handed to the five was built by
+grepping this plan and the grep missed a line, so **Original Antigenic Sin** (Francis, 1960) and the
+**Hygiene Hypothesis** (Strachan, 1989) went out as fair game though this plan already parks both,
+held on contested or reframed evidence and on Ecological-Trap adjacency. The microbiology scout went
+past the files it was handed, read this plan itself, and refused both on the house's own record. The
+lesson is the same one the last batch taught in a different costume: an extract of the dedup instrument
+is not the instrument, and a scout that reads the source of truth beats a scout that reads a summary of
+it. Both remain held and neither is slated.
+
+**Reaffirmed held, and one killed by a staged warrant.** The audit scout's strongest first-pass
+candidate was **ratings shopping** (Skreta and Veldkamp, Journal of Monetary Economics 2009), and it
+killed the candidate itself by reading the staged warrant in full: **The Best on Paper** claims the
+optimiser's-curse structure in general, selecting the maximum of noisy but individually unbiased
+estimates yields a chosen estimate biased high, not a domain, so the issuer soliciting several ratings
+and publishing the best is that structure exactly, plus the selective disclosure **The File Drawer**
+already holds. Recorded because it is the pass's cleanest demonstration of the method working: the
+collision was invisible by name, by source, and by field, and visible only in the mechanism.
+
+Also retired on mechanism, each against a named staged play: the **waterbed effect** in a capped
+trading scheme, against **The Calm You Pay For**, whose conservation structure is the same total
+defeating local effort with the frequency axis swapped for a jurisdictional one; **carbon leakage**,
+against **The Balloon Effect** and **The Lowest Bar**; the **tragedy of the horizon**, against **The
+Horizon Problem**, whose bounded planning instrument is the same engine on a different illustration;
+the **energy-efficiency gap**, decomposing into **Moral Hazard** and **Must Be a Catch** with no
+residue; **index event bias**, **the obesity paradox**, **informative censoring** and **Neyman bias**,
+all against **The False Trade-Off**, three of them on its own leading sources; **cosmetic compliance**
+against **The Paper Trail**; **earnings management** against **Seed Corn** on an exact four-surname
+match; **colonisation resistance loss** against **Chesterton's Fence**, **First Do Harm** and
+**Shifting the Burden** at once; and **antimicrobial resistance as a commons**, which this plan had
+already struck. Dropped on the house standard rather than on dedup: **spoilers** and **indiscriminate
+violence**, which need an actor whose purpose is to wreck the thing, and **maladaptation**, a taxonomy
+of five failure types and so unable to supply one governing law.
+
+**A title collision to note before authoring.** The house already carries two ratchets, Muller's
+Ratchet and The Ratchet Effect (systematic soldiering), so the Ludwig, Hilborn and Walters ratchet in
+the reserve below shares the word and nothing else, and must be titled away from it.
+
+- [ ] [P1] The Coup-Proofing Trap (Quinlivan, "Coup-proofing: Its Practice and Consequences in the
+      Middle East", International Security 1999; Talmadge, The Dictator's Army, Cornell 2015): a ruler
+      who fears his own army makes it coup-proof, parallel counterweight forces, commanders rotated
+      before they build followings, officers chosen for loyalty over ability, large-formation training
+      curtailed and lateral communication blocked, and every one of those measures is exactly a measure
+      that destroys battlefield effectiveness, so the state that cannot be overthrown cannot fight. The
+      coup threat is near, personal and well attested and the war may never come, so each measure is a
+      proportionate answer to a real danger and none is taken out of contempt for the army. Distinct
+      from Rising to Unfit, where competence is the criterion and merely fails to transfer, and from The
+      Dead Sea Effect, where talent leaves by its own choice, in that here ability is the disqualifying
+      trait and the capable are removed for being capable; to be cut to the remedy-is-the-threat vector,
+      since the list of measures that would restore competence, merit promotion, realistic exercises,
+      decentralised initiative and free lateral communication, is identically the list of capabilities
+      required to mount a coup, and Talmadge's finding is the no-free-hero in evidence, regimes under
+      severe external threat do professionalise, do fight better, and do pay for it in coup exposure.
+- [ ] [P1] Immortal Time Bias (Suissa, "Immortal Time Bias in Pharmacoepidemiology", American Journal
+      of Epidemiology 2008; Lévesque, Hanley, Kezouh and Suissa, BMJ 2010; the Oscar-winners reanalysis,
+      Sylvestre, Huszti and Hanley, Annals of Internal Medicine 2006): where exposure is defined by an
+      event that takes time to occur, the transplant arriving, the prescription filled, the award won,
+      the span between entry and that event is time in which the subject could not have died, because
+      dying would have removed them from the exposed group, and assigning that span to the treated arm
+      manufactures a survival advantage out of arithmetic. The clinician transplants when an organ
+      arrives, the registrar records who was ever treated, and the analyst classifies by treatment
+      status because that is the only classification the data offers. Distinct from The Survivors, where
+      the units never seen are the whole problem, in that here every unit is observed and counted and
+      the error is in how each observed subject's time is apportioned, and from Better in Both, which
+      moves patients between categories where this moves person-time with every patient staying put; to
+      be cut to the bookkeeping-not-selection vector, hedged by a remedy that costs real evidence, since
+      a landmark analysis discards every event before an arbitrary date, which is precisely the early
+      high-hazard period, and a landmark chosen after seeing the curves reintroduces the selection by
+      the back door.
+- [ ] [P1] Endogenous Risk (Daníelsson and Shin, "Endogenous Risk", Modern Risk Management: A History,
+      Risk Books 2003; Daníelsson, "The emperor has no clothes: Limits to risk modelling", Journal of
+      Banking and Finance 2002): when every institution measures risk with the same model estimated on
+      historical prices and faces the same capital constraint keyed to that measure, a shock makes all
+      their models say reduce exposure at once, and the synchronised selling produces exactly the tail
+      move the models had assigned near-zero probability. Each bank is doing the prudent and mandated
+      thing and the regulator is right to want an auditable quantitative measure rather than discretion,
+      so the failure is a property of compliance and not of evasion. Distinct from Metric Fixation,
+      where effort flows toward the measured dimension and the number becomes a true account of the
+      wrong thing, in that here nobody redirects any effort, everyone acts honestly on a correct number,
+      and the number is falsified after the fact by the aggregate of honest responses to it; distinct
+      from The Long Calm, whose driver is endogenous belief through a validated quiet, in that the
+      driver here is a mandated mechanical rule and the load-bearing vector, harmonisation, has no
+      counterpart in Minsky; to be cut to the everyone-holding-the-same-model vector, since every
+      remedy, deliberate model diversity, countercyclical buffers, or a risk-insensitive leverage cap,
+      trades measured accuracy for aggregate stability and one of them means requiring some institutions
+      to run measurably worse models.
+- [ ] [P1] The Green Paradox (Sinn, "Public policies against global warming: a supply side approach",
+      International Tax and Public Finance 2008; The Green Paradox, MIT Press 2012): a credibly
+      announced future tightening of demand for fossil carbon lowers the expected future net price of
+      the resource, so owners of an exhaustible stock re-optimise extraction forward and pump more now,
+      and the announcement of the cure accelerates the disease before it arrives. The legislator
+      announces years ahead precisely to be fair and give industry time to adapt, the orthodox and
+      humane design, and the resource owner is doing nothing but standard intertemporal arbitrage on a
+      depleting asset. Distinct from Time Inconsistency, where the announcement is not credible and
+      agents discount it, in that this is its exact inverse, the announcement is fully credible and that
+      is the harm; distinct from Sandbag, where agents restrain current output because tomorrow's
+      standard is indexed to today's, in that here they accelerate it because tomorrow's asset is being
+      legislated worthless, the opposite sign on a different indexing; to be cut to the
+      credible-warning-brings-the-harm-forward vector, since the supply-side remedies, buying and
+      retiring reserves or taxing the stock, mean compensating owners for wealth you are extinguishing,
+      and the cheap remedy, announce sooner and louder, is the thing that causes the harm.
+- [ ] [P1] The Conservation-Reward Paradox in antibiotics (Outterson, Powers, Daniel and McClellan,
+      "Repairing The Broken Market For Antibiotic Innovation", Health Affairs 2015; Projan, "Why is big
+      Pharma getting out of antibacterial drug discovery?", Current Opinion in Microbiology 2003): a
+      last-resort antibiotic's social value is proportional to how carefully it is withheld and its
+      revenue is proportional to how much it is sold, so correct stewardship drives the revenue of the
+      most valuable drugs toward zero and the pipeline empties where the need is greatest. The
+      pharmacist reserving the new agent is following the guidance that saves lives, the regulator
+      restricting it is protecting its useful life, and the firm leaving antibacterials for oncology is
+      meeting a fiduciary duty on a short-course acute drug with a flat market. Distinct from The
+      Commons, which is over-consumption of a shared stock, in that this is under-production of a new
+      one, the mirror image, and it persists under perfect stewardship; distinct from Not Worth My
+      While, Rose's prevention paradox, whose benefit is thin and spread across many recipients, in that
+      here the benefit is concentrated and simply cannot be billed, because billing requires use; to be
+      cut to the value-rises-as-revenue-falls vector, since delinkage, pull incentives and subscription
+      payment for access rather than volume, costs public money up front for drugs nobody will use,
+      requires a payer to guess a drug's worth decades early, and can be gamed by compounds that qualify
+      without adding a mechanism.
+- [ ] [P1] Competing Risks (Fine and Gray, "A Proportional Hazards Model for the Subdistribution of a
+      Competing Risk", Journal of the American Statistical Association 1999; Andersen, Geskus, de Witte
+      and Putter, "Competing risks in epidemiology: possibilities and pitfalls", International Journal
+      of Epidemiology 2012): standard survival analysis treats a subject who dies of something else as
+      censored, that is, as someone who would have gone on being at risk, so the curve overstates the
+      studied event and any therapy that removes one cause of death mechanically inflates the observed
+      rate of every remaining cause, making the successful therapy look like the origin of the next
+      disease. Censoring is the correct and taught handling of stopping observation, the oncologist
+      reporting rising cardiac events in long-term survivors is reporting a true count, and the
+      regulator asking whether the drug caused them is asking the right question. Distinct from The
+      Survivors, whose lesson is to count the absent, in that here the absent are counted and counted as
+      though still present, the opposite error; distinct from Better in Both, which reclassifies
+      patients across categories, in that this reclassifies nothing and instead mis-specifies who
+      remains eligible to have the event; to be cut to the cure-one-cause-and-appear-to-cause-the-rest
+      vector, since the remedy's cost is unusually severe and unresolvable, the subdistribution risk set
+      retains subjects who have already died of the competing cause, so a correct cumulative incidence
+      is bought by giving up any individual-level reading of the hazard, and cause-specific and
+      subdistribution analyses routinely point in opposite directions on the same data with no empirical
+      way to choose.
+- [ ] [P2] The Market-Value Decline of Variable Renewables (Hirth, "The market value of variable
+      renewables: The effect of solar wind power variability on their relative price", Energy Economics
+      2013): every unit of a zero-marginal-cost weather-driven technology produces in the same hours as
+      every other unit of it, so as the fleet grows it collapses the price precisely in the hours it
+      earns, and revenue per unit falls with its own deployment, independent of any fall in its cost.
+      Each developer builds where the resource is best and bids zero, which is the correct bid for a
+      plant with no fuel, the operator dispatches merit-order correctly, and the policymaker measures
+      installed capacity and levelised cost, both of which look excellent. Distinct from Chasing the
+      Price, whose cobweb needs a lag between signal and supply response, in that here there is no lag
+      at all but simultaneity, output perfectly correlated within a technology class; distinct from The
+      Commons, in that nothing is depleted, the price is destroyed, and each generator harms itself as
+      much as the others; to be cut to the success-destroys-its-own-revenue vector, since the remedies
+      that break the correlation, storage, transmission across weather regimes, demand shifting, are
+      paid for by the system while the benefit accrues to every generator so no developer will fund
+      them, and the remedy that does pay the developer, a fixed contract, works by hiding the price
+      signal and so suppresses the incentive to build the correlation-breaking assets.
+- [ ] [P2] Bystander Selection for antibiotic resistance (Tedijanto, Olesen, Grad and Lipsitch,
+      "Estimating the proportion of bystander selection for antibiotic resistance among potentially
+      pathogenic bacterial flora", PNAS 2018): most of the antibiotic exposure that selects resistance
+      in a species falls on it while it sits harmlessly in the flora of someone being treated for
+      something else, so the pressure is generated overwhelmingly by prescriptions never aimed at that
+      organism. Every prescription in the bystander mass may be perfectly indicated: the drug is right,
+      the dose is right, and no clinical decision anywhere in the chain is about the organism that pays.
+      Distinct from The Commons, where every taker draws from the stock they benefit from and knows it,
+      in that here the damage falls on an organism the prescriber has no interest in and no view of, so
+      restrain-your-take does not address the taking that matters; distinct from First Do Harm, whose
+      iatrogenic harm lands on the treated patient, in that this lands on a population years later by
+      way of that patient's commensals; to be cut to the harm-outside-the-decision vector, since
+      narrow-spectrum prescribing needs rapid identification that does not exist at the point of care
+      and empirically narrowing before the culture returns kills patients, while appropriateness-based
+      stewardship trims the inappropriate tail and therefore barely touches the mass, which is the
+      finding.
+- [ ] [P2] The Regulatory Licence (Partnoy, "The Siskel and Ebert of Financial Markets?: Two Thumbs
+      Down for the Credit Rating Agencies", Washington University Law Quarterly 1999): once regulation
+      is written to reference a private rating, so that investment grade becomes a legal threshold, the
+      rating's value to the issuer stops being its information content and becomes the regulatory
+      permission it unlocks, so demand for ratings rises as their informational value falls and the
+      product is a licence rather than a forecast. The regulator delegates for good reasons, lacking the
+      expertise and facing a rater with a genuine reputational record when the rule was written; the
+      issuer buys what it needs to be legally holdable; the investor relies on the threshold because the
+      rule says to. Distinct from Regulatory Capture, which requires the regulator to be serving the
+      industry, in that here the regulator acts in good faith and against it and the distortion arises
+      from the act of referencing a private standard; distinct from Priced In, where the return to
+      gathering information collapses because prices reveal it, in that here it collapses because a rule
+      creates demand independent of accuracy; to be cut to the certificate-becomes-a-permit vector,
+      since stripping ratings out of regulation obliges the regulator to build the assessment in house
+      at large expense, or to write a substitute standard that becomes the next licence, and the
+      delegation exists because the alternative is expensive.
+- [ ] [P2] The Alliance Security Dilemma (Glenn Snyder, "The Security Dilemma in Alliance Politics",
+      World Politics 1984): inside an alliance the strength of your commitment is one dial with a bad
+      end at each stop, tighten it to reassure the ally against abandonment and you inherit its quarrels
+      and lose control of when you fight, loosen it to avoid that and you signal unreliability, which
+      emboldens the adversary and pushes the ally to arm, provoke or realign. Both fears are
+      well-founded and both parties act on evidence: the ally's demand for firmer guarantees is the
+      reasonable request of a state whose survival depends on you, and your hedging is the reasonable
+      caution of a state that does not want to die for a border it has never seen. Distinct from Over a
+      Barrel, which needs a sunk relation-specific investment and a quasi-rent and is cured by
+      integration, in that nothing is sunk here and tighter integration makes the entrapment horn worse,
+      the exact inverse of the hold-up remedy; distinct from Someone Will Catch Me, the Samaritan's
+      dilemma, which has one risk and one remedy, precommit to withhold, in that precommitting to
+      withhold is here the very move that triggers the abandonment horn; to be cut to the
+      each-horn's-cure-is-the-other-horn vector, since precision in the commitment is read by the
+      adversary as a published map of what is not covered and by the ally as a measure of how little you
+      will do, while ambiguity restores your choice and destroys the deterrence.
+
+**The reserve, and why it is recorded rather than slated.** This pass returned far more than ten
+clearing candidates, so the surplus is kept here in full and the next reconcile begins from a stocked
+slate rather than a fresh sweep. From epidemiology: protopathic bias (Horwitz and Feinstein, American
+Journal of Medicine 1980), treatment of a prodrome read as the cause of the disease, whose lag remedy
+is unidentifiable from the data and would suppress a true short-latency harm; the Table 2 fallacy
+(Westreich and Greenland, American Journal of Epidemiology 2013); and the healthy-adherer effect
+(Coronary Drug Project, New England Journal of Medicine 1980), where placebo adherers had roughly half
+the mortality of placebo non-adherers. From audit: label confusion and the Groucho effect (Harbaugh,
+Maxwell and Roussillon, Management Science 2011), whose distinct vector is the good product rationally
+declining to label at all; feedback effects of credit ratings (Manso, Journal of Financial Economics
+2013), where a policy optimised purely for accuracy raises the default rate and more competition makes
+it worse; and the third-party auditor conflict (Duflo, Greenstone, Pande and Ryan, Quarterly Journal of
+Economics 2013). From international relations: the reciprocal fear of surprise attack (Schelling, The
+Strategy of Conflict 1960, chapter nine), which fires because both sides read each other correctly, and
+so cuts cleanly from Accidental Adversaries, whose engine is misattribution; the commitment problem
+under shifting power (Fearon 1995; Powell 2006; Levy 1987); and the stability-instability paradox
+(Snyder 1965). From microbiology: compensatory evolution and the closing window on reversal (Andersson
+and Hughes, Nature Reviews Microbiology 2010; Björkman and colleagues, Science 2000), where the fitness
+cost of resistance is itself under selection so the plan to wait it out is invalidated by its own
+delay; antibiotic tolerance as the stepping-stone to resistance (Levin-Reisman and colleagues, Science
+2017), invisible to the standard assay; and the mutant selection window (Drlica, Journal of
+Antimicrobial Chemotherapy 2003). From climate and energy: the pathology of natural resource
+management (Holling and Meffe, Conservation Biology 1996), whose engine removes the release rather than
+the absorber and so cuts from The Brittle Optimum; the levee effect (Gilbert F. White 1945; Burby
+2006), which overlaps Holling by design so only one of the two should be staged; the missing money
+problem (Joskow, Utilities Policy 2008); the Averch and Johnson effect (American Economic Review 1962);
+and the exploitation ratchet (Ludwig, Hilborn and Walters, Science 1993), which must be titled away
+from the two ratchets the house already carries.
+
+Three composition notes the scouts raised and the Playwright should weigh before drawing from the
+reserve. The epidemiology siblings, depletion of susceptibles, the healthy-adherer effect and the
+healthy-worker survivor effect, are three tellings of the vulnerable leaving and their leaving
+flattering the exposure, so at most two should ever be staged. The microbiology batch offers three
+vaccine plays and the house already carries three, so a fourth, fifth and sixth would tilt the roster,
+and the antimicrobial candidates are the ones with no existing neighbours at all. And the coup-proofing
+trap slated above is adjacent to the coup-to-civil-war trade (Roessler, World Politics 2011), which
+trades one category of risk for a costlier one across the state's ethnic geography, so the second
+should be staged only if it is cut hard against the first, or not at all.
+
+The pass also recorded what it could not clear honestly, and that record is kept rather than tidied.
+Four citations are marked uncertain and are to be verified before they enter a warrant: Moride and
+Abenhaim (1994) on volume and pages, Openshaw and Taylor (1979) on the chapter's bibliographic details,
+Gail (1972) on venue, and McMichael (1976) on issue and pages. Two candidates were dropped for want of
+a spine rather than for want of a mechanism: audit concentration too few to fail, which has a live
+policy literature and no named academic finding, and the arms-control verification dilemma, real and
+unstaged but pinnable only to a source the scout would have had to mark uncertain. Neither is slated,
+and both are better recorded as unfound than dressed up.
