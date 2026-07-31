@@ -86,10 +86,10 @@
       "Adams": ["Scott", "Gordon", "John"],
       "Black": ["Duncan", "William C"],
       "Christensen": ["Clayton", "Thomas J"],
-      "Freeman": ["J Leiper", "Jo"],
       "Fine": ["Jason", "Paul"],
-      "Hart": ["'t", "Julian Tudor", "Oliver"],
+      "Freeman": ["J Leiper", "Jo"],
       "Gray": ["J A Muir", "Robert"],
+      "Hart": ["'t", "Julian Tudor", "Oliver"],
       "Kessler": ["Daniel", "Friedrich"],
       "Luchins": ["Abraham S", "Edith H"],
       "Lynch": ["Michael", "Nancy"],
@@ -98,6 +98,7 @@
       "Schwartz": ["Alan", "Lisa"],
       "Snyder": ["Glenn", "Jack"],
       "Wagner": ["Adolph", "Richard"],
+      "White": ["Lawrence J", "Leslie A"],
       "Wilde": ["Gerald J S", "Louis"]
     }
   }
