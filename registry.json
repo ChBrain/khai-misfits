@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.202.0",
+  "version": "0.203.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -260,6 +260,12 @@
       "id": "loath_to_part",
       "title": "Loath to Part",
       "description": "Owning a thing lifts its value above what any buyer will pay, so the trade both would gain from is never made."
+    },
+    {
+      "kind": "misfit",
+      "id": "long_enough_to_qualify",
+      "title": "Long Enough to Qualify",
+      "description": "You had to survive to be counted as treated, and the surviving gets credited to the treatment."
     },
     {
       "kind": "misfit",
