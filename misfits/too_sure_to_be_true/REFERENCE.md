@@ -4,12 +4,12 @@ updated: "2026-07-28"
 
 # Too Sure to Be True: Reference
 
-The research warrant for **Too Sure to Be True** (play and company not yet staged; this warrant is drafted first, to prove
-the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**Paradox of Unanimity**: when independent honest judgments should scatter, their perfect agreement is more likely a sign of
-a shared systematic error, a biased line-up, a broken instrument, an unseen common cause, than of the truth, so the very
-consensus that should reassure should instead alarm, all cited below, held with the finding that the alarm is a Bayesian
-weight on hidden correlation and not a rule that unanimity is ever proof of error, since genuine strong evidence can be
+The research warrant for **Too Sure to Be True**. The title is a reading of the phenomenon named the
+**Paradox of Unanimity**: when independent honest judgments should scatter, their perfect agreement
+is more likely a sign of a shared systematic error, a biased line-up, a broken instrument, an unseen
+common cause, than of the truth, so the very consensus that should reassure should instead alarm,
+all cited below, held with the finding that the alarm is a Bayesian weight on hidden correlation and
+not a rule that unanimity is ever proof of error, since genuine strong evidence can be
 near-unanimous.
 
 ## Line of Work
@@ -91,8 +91,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Scatter**: carries the setting, the honest spread that truly independent judgments should show, each near miss its
   own error around the truth, the noise that independence looks like (Condorcet's assumption).

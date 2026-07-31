@@ -4,10 +4,9 @@ updated: "2026-07-23"
 
 # The Only Basket: Reference
 
-The research warrant for **The Only Basket** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The dynamic is the homevoter account of land use: Fischel's homevoter hypothesis and zoning as home-value
-insurance, with Glaeser and Gyourko on the supply and price effects, all cited below.
+The research warrant for **The Only Basket**. The dynamic is the homevoter account of land use:
+Fischel's homevoter hypothesis and zoning as home-value insurance, with Glaeser and Gyourko on the
+supply and price effects, all cited below.
 
 ## Line of Work
 
@@ -81,8 +80,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Only Basket**: carries the undiversifiable home (Fischel), the owner's largest asset and dominant
   share of their wealth, which makes defending its value rational where a diversified investor's would not

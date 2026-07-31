@@ -4,14 +4,12 @@ updated: "2026-07-24"
 
 # Loath to Part: Reference
 
-The research warrant for **Loath to Part** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The title is provisional, a reading of the phenomenon the literature calls the **endowment
-effect**: Thaler's finding that merely owning a thing raises what one demands to give it up,
-Kahneman, Knetsch, and Thaler's mug experiments measuring the gap between what owners will accept
-and buyers will pay, and Tversky and Kahneman's loss aversion beneath it, all cited below, held
-with the finding that the effect is robust for ordinary goods but attenuates with market experience
-and for goods held for exchange, and that part of the measured gap is debated.
+The research warrant for **Loath to Part**. The title is a reading of the phenomenon the literature
+calls the **endowment effect**: Thaler's finding that merely owning a thing raises what one demands
+to give it up, Kahneman, Knetsch, and Thaler's mug experiments measuring the gap between what owners
+will accept and buyers will pay, and Tversky and Kahneman's loss aversion beneath it, all cited
+below, held with the finding that the effect is robust for ordinary goods but attenuates with market
+experience and for goods held for exchange, and that part of the measured gap is debated.
 
 ## Line of Work
 
@@ -101,8 +99,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Holding**: carries the good once it is owned (Thaler), an ordinary thing, a mug, a ticket, a
   house, whose worth to its holder rises the moment it is theirs, not for anything changed in it but

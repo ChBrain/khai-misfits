@@ -4,12 +4,11 @@ updated: "2026-07-24"
 
 # The Long Calm: Reference
 
-The research warrant for **The Long Calm** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The title is provisional, a reading of the phenomenon Minsky named the **financial instability
-hypothesis**: his account of how a stretch of stability endogenously shifts the financing structure
-from hedge toward speculative and Ponzi and so breeds the fragility that ends it, stability itself
-destabilizing, with the tipping point later named the Minsky moment by McCulley, all cited below.
+The research warrant for **The Long Calm**. The title is a reading of the phenomenon Minsky named
+the **financial instability hypothesis**: his account of how a stretch of stability endogenously
+shifts the financing structure from hedge toward speculative and Ponzi and so breeds the fragility
+that ends it, stability itself destabilizing, with the tipping point later named the Minsky moment
+by McCulley, all cited below.
 
 ## Line of Work
 
@@ -98,8 +97,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Calm**: carries the stretch of stability itself (Minsky), the record of low defaults, repaid
   loans, and rising prices that lowers risk premia and rationally invites more leverage, the tranquil

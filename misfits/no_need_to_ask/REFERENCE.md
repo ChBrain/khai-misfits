@@ -4,13 +4,14 @@ updated: "2026-07-24"
 
 # No Need to Ask: Reference
 
-The research warrant for **No Need to Ask** (play and company not yet staged; this warrant is drafted first, to prove the
-science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the **political
-resource curse**, or the rentier state: where a state is funded by the rents of a resource rather than by taxing its
-citizens, it need not seek their consent to raise its revenue, so the old bargain that ties taxation to representation is
-severed and the accountability that bargain forced quietly atrophies, all cited below, held with the finding that the effect
-is contested and conditional on prior institutions, not a determinism, since states that entered the windfall with strong
-accountable institutions have escaped it and the cross-national evidence is genuinely disputed.
+The research warrant for **No Need to Ask**. The title is a reading of the phenomenon named the
+**political resource curse**, or the rentier state: where a state is funded by the rents of a
+resource rather than by taxing its citizens, it need not seek their consent to raise its revenue, so
+the old bargain that ties taxation to representation is severed and the accountability that bargain
+forced quietly atrophies, all cited below, held with the finding that the effect is contested and
+conditional on prior institutions, not a determinism, since states that entered the windfall with
+strong accountable institutions have escaped it and the cross-national evidence is genuinely
+disputed.
 
 ## Line of Work
 
@@ -100,8 +101,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Rents**: carries the setup (Mahdavy), the great flow of money the state receives from selling the resource abroad,
   arriving at the treasury without passing through its citizens' pockets, revenue it need ask no one for.

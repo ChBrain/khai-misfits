@@ -4,14 +4,13 @@ updated: "2026-07-24"
 
 # A Reason Too Many: Reference
 
-The research warrant for **A Reason Too Many** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The title is provisional, a reading of the phenomenon the literature calls **motivation
-crowding-out** (and, in the psychology, the **overjustification effect**): Deci and Ryan's finding
-that an extrinsic reward can undermine intrinsic motivation, Gneezy and Rustichini's day-care fine
-that a price on a duty raised the very thing it penalised, and Frey and Jegen's crowding theory,
-all cited below, held with the finding that crowding-out is a conditional effect and not a law,
-since incentives usually work and displace a motive only under specific conditions.
+The research warrant for **A Reason Too Many**. The title is a reading of the phenomenon the
+literature calls **motivation crowding-out** (and, in the psychology, the **overjustification
+effect**): Deci and Ryan's finding that an extrinsic reward can undermine intrinsic motivation,
+Gneezy and Rustichini's day-care fine that a price on a duty raised the very thing it penalised, and
+Frey and Jegen's crowding theory, all cited below, held with the finding that crowding-out is a
+conditional effect and not a law, since incentives usually work and displace a motive only under
+specific conditions.
 
 ## Line of Work
 
@@ -102,8 +101,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Intrinsic Motive**: carries the pre-existing internal or moral reason the behaviour ran on
   (Deci and Ryan; Titmuss), an interest taken for its own sake, a duty felt, an act of care, the thing

@@ -4,14 +4,12 @@ updated: "2026-07-24"
 
 # After You: Reference
 
-The research warrant for **After You** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The title is provisional, a reading of the phenomenon the literature calls the **two-sided
-market's chicken-and-egg problem**: Rochet and Tirole's account of a platform that must bring
-two distinct sides together, each valuable to the other, and Caillaud and Jullien's chicken-and-egg,
-where each side rationally waits for the other and the platform fails to form, all cited below,
-held with the finding that the failure is one of two equilibria and not an impossibility, the good
-one reachable by coordinating the two sides' expectations at a cost.
+The research warrant for **After You**. The title is a reading of the phenomenon the literature
+calls the **two-sided market's chicken-and-egg problem**: Rochet and Tirole's account of a platform
+that must bring two distinct sides together, each valuable to the other, and Caillaud and Jullien's
+chicken-and-egg, where each side rationally waits for the other and the platform fails to form, all
+cited below, held with the finding that the failure is one of two equilibria and not an
+impossibility, the good one reachable by coordinating the two sides' expectations at a cost.
 
 ## Line of Work
 
@@ -100,8 +98,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Two Sides**: carries the two distinct groups the platform must join (Rochet and Tirole), each
   useless to the platform without the other, buyers and sellers, riders and drivers, the two

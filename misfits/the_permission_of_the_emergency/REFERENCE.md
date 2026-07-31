@@ -4,12 +4,11 @@ updated: "2026-07-23"
 
 # The Permission of the Emergency: Reference
 
-The research warrant for **The Permission of the Emergency** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The dynamic is the justification account of idleness: Hsee, Yang, and Wang's idleness aversion and
-the need for justifiable busyness, extended by Bellezza, Paharia, and Keinan's status of busyness,
-Tonietto, Malkoc, Reczek, and Norton's finding that leisure seen as wasteful is spoiled, and Kaplan's
-attention restoration as the good that is starved, all cited below.
+The research warrant for **The Permission of the Emergency**. The dynamic is the justification
+account of idleness: Hsee, Yang, and Wang's idleness aversion and the need for justifiable busyness,
+extended by Bellezza, Paharia, and Keinan's status of busyness, Tonietto, Malkoc, Reczek, and
+Norton's finding that leisure seen as wasteful is spoiled, and Kaplan's attention restoration as the
+good that is starved, all cited below.
 
 ## Line of Work
 
@@ -86,8 +85,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Permit**: carries the crisis's complete, unarguable leave to drop everything (Hsee, Yang, and
   Wang), the justification that alone licenses idleness.

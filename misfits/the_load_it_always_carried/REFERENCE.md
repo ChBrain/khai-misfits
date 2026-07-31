@@ -4,10 +4,9 @@ updated: "2026-07-23"
 
 # The Load It Always Carried: Reference
 
-The research warrant for **The Load It Always Carried** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The dynamic is the metal-fatigue account of failure: Wöhler's below-yield fatigue and the S-N curve,
-Palmgren and Miner's linear cumulative damage, and Paris and Erdogan's crack-growth law, all cited below.
+The research warrant for **The Load It Always Carried**. The dynamic is the metal-fatigue account of
+failure: Wöhler's below-yield fatigue and the S-N curve, Palmgren and Miner's linear cumulative
+damage, and Paris and Erdogan's crack-growth law, all cited below.
 
 ## Line of Work
 
@@ -79,8 +78,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Cycle**: carries the single load application (Wöhler), each one below the yield strength and
   passing every instantaneous strength check.

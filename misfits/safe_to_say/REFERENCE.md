@@ -4,13 +4,13 @@ updated: "2026-07-24"
 
 # Safe to Say: Reference
 
-The research warrant for **Safe to Say** (play and company not yet staged; this warrant is drafted first, to prove the
-science and the distinction before authoring). The title is provisional, a reading of the phenomenon named **preference
-falsification**: where speaking one's true preference carries a social cost, each person publicly professes not what they
-believe but what is safe to say, so the public record diverges from the private truth, every concealer believes their view
-more isolated than it is, an order most privately reject is upheld by the very people who reject it, and a small shock can
-tip the concealment into a sudden cascade, all cited below, held with the finding that not every public conformity is a
-falsification and the tipping is genuinely unpredictable.
+The research warrant for **Safe to Say**. The title is a reading of the phenomenon named
+**preference falsification**: where speaking one's true preference carries a social cost, each
+person publicly professes not what they believe but what is safe to say, so the public record
+diverges from the private truth, every concealer believes their view more isolated than it is, an
+order most privately reject is upheld by the very people who reject it, and a small shock can tip
+the concealment into a sudden cascade, all cited below, held with the finding that not every public
+conformity is a falsification and the tipping is genuinely unpredictable.
 
 ## Line of Work
 
@@ -98,8 +98,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Private Truth**: carries the setup (Kuran), the genuine preference the person actually holds, a view or a wish or a
   judgement, kept unspoken because saying it would cost.

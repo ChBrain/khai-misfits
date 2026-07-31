@@ -4,13 +4,13 @@ updated: "2026-07-28"
 
 # The Widening Want: Reference
 
-The research warrant for **The Widening Want** (play and company not yet staged; this warrant is drafted first, to prove
-the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**Tocqueville paradox**, or the revolution of rising expectations: as a society's conditions improve, expectations and
-aspirations rise faster than the conditions themselves, so the gap between what people have and what they now feel
-entitled to widens and discontent grows even as things get better, reform and progress breeding the very unrest they
-might be thought to quiet, all cited below, held with the finding that the felt gap is a real and documented pressure but
-not a deterministic trigger, since mobilization and opportunity mediate whether discontent becomes revolt.
+The research warrant for **The Widening Want**. The title is a reading of the phenomenon named the
+**Tocqueville paradox**, or the revolution of rising expectations: as a society's conditions
+improve, expectations and aspirations rise faster than the conditions themselves, so the gap between
+what people have and what they now feel entitled to widens and discontent grows even as things get
+better, reform and progress breeding the very unrest they might be thought to quiet, all cited
+below, held with the finding that the felt gap is a real and documented pressure but not a
+deterministic trigger, since mobilization and opportunity mediate whether discontent becomes revolt.
 
 ## Line of Work
 
@@ -94,8 +94,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Improvement**: carries the setting (Tocqueville), the real gain offered in good faith, the reform or the right
   extended or the standard of living raised, that relieves an oppression once borne as inevitable.

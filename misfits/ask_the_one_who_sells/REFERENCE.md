@@ -4,15 +4,14 @@ updated: "2026-07-24"
 
 # Ask the One Who Sells: Reference
 
-The research warrant for **Ask the One Who Sells** (play and company not yet staged; this warrant is drafted
-first, to prove the science and the distinction before authoring). The title is provisional, a reading of the
-phenomenon health economics calls **supplier-induced demand**: where the provider of a service is also the trusted
-advisor who tells the buyer what they need, and is paid for each service rendered, and the buyer cannot judge for
-themselves, the provider can recommend more than an informed buyer would choose and profits by doing so, often
-sincerely believing more is better, so demand is set in part by the supplier who meets it, all cited below, held
-with the finding that the effect is real and documented in the small-area variation of medical use but its
-magnitude is debated, and the remedy of paying by salary or head trades the risk of too much care for the risk of
-too little.
+The research warrant for **Ask the One Who Sells**. The title is a reading of the phenomenon health
+economics calls **supplier-induced demand**: where the provider of a service is also the trusted
+advisor who tells the buyer what they need, and is paid for each service rendered, and the buyer
+cannot judge for themselves, the provider can recommend more than an informed buyer would choose and
+profits by doing so, often sincerely believing more is better, so demand is set in part by the
+supplier who meets it, all cited below, held with the finding that the effect is real and documented
+in the small-area variation of medical use but its magnitude is debated, and the remedy of paying by
+salary or head trades the risk of too much care for the risk of too little.
 
 ## Line of Work
 
@@ -93,8 +92,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed
-load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Dual Role**: carries the conflict (Evans; McGuire), the provider who is at once the buyer's trusted advisor,
   meant to recommend what the buyer needs, and the supplier paid for each service, who profits from recommending

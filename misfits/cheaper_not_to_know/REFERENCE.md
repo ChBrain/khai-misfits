@@ -4,11 +4,9 @@ updated: "2026-07-24"
 
 # Cheaper Not to Know: Reference
 
-The research warrant for **Cheaper Not to Know** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The dynamic is the rational-ignorance account of the electorate: Downs's economic theory of the
-near-zero return to becoming informed, with Somin's field evidence of its depth and its cost to
-democratic competence, all cited below.
+The research warrant for **Cheaper Not to Know**. The dynamic is the rational-ignorance account of
+the electorate: Downs's economic theory of the near-zero return to becoming informed, with Somin's
+field evidence of its depth and its cost to democratic competence, all cited below.
 
 ## Line of Work
 
@@ -87,8 +85,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Vote**: carries the single ballot (Downs), one among millions, the unit whose weight in deciding
   the outcome is the whole of the calculus.

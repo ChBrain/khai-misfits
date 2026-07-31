@@ -4,12 +4,12 @@ updated: "2026-07-24"
 
 # Pushing on a String: Reference
 
-The research warrant for **Pushing on a String** (play and company not yet staged; this warrant is drafted first, to prove
-the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**liquidity trap**: when the interest rate has fallen to its floor near zero, money and bonds become near-perfect
-substitutes, so the money a central bank injects to lift a slump is willingly held rather than spent or lent, and the usual
-lever of rate cuts loses its grip exactly when the slump most needs it, all cited below, held with the finding that the trap
-is a contested regime whose remedies are debated and not a permanent state or a hard wall.
+The research warrant for **Pushing on a String**. The title is a reading of the phenomenon named the
+**liquidity trap**: when the interest rate has fallen to its floor near zero, money and bonds become
+near-perfect substitutes, so the money a central bank injects to lift a slump is willingly held
+rather than spent or lent, and the usual lever of rate cuts loses its grip exactly when the slump
+most needs it, all cited below, held with the finding that the trap is a contested regime whose
+remedies are debated and not a permanent state or a hard wall.
 
 ## Line of Work
 
@@ -94,8 +94,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Slump**: carries the setting, the deep downturn that calls for stimulus and that drives the rate to its floor, the
   cold economy in which the lever is most needed and least able.

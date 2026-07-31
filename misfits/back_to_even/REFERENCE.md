@@ -4,14 +4,12 @@ updated: "2026-07-24"
 
 # Back to Even: Reference
 
-The research warrant for **Back to Even** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The title is provisional, a reading of the phenomenon the literature calls the **disposition
-effect**: Shefrin and Statman's finding that investors sell winners too early and ride losers too
-long, Odean's evidence from tens of thousands of accounts that the winners sold go on to beat the
-losers kept, and Tversky and Kahneman's value function beneath it, all cited below, held with the
-finding that the effect is robust but bounded, reversing where tax or sophistication or a rule cuts
-across it.
+The research warrant for **Back to Even**. The title is a reading of the phenomenon the literature
+calls the **disposition effect**: Shefrin and Statman's finding that investors sell winners too
+early and ride losers too long, Odean's evidence from tens of thousands of accounts that the winners
+sold go on to beat the losers kept, and Tversky and Kahneman's value function beneath it, all cited
+below, held with the finding that the effect is robust but bounded, reversing where tax or
+sophistication or a rule cuts across it.
 
 ## Line of Work
 
@@ -100,8 +98,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Purchase Price**: carries the reference point (Shefrin and Statman), the price paid that the
   mind keeps as the baseline, dividing each holding into a winner above it or a loser below, a figure

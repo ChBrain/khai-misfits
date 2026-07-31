@@ -4,14 +4,14 @@ updated: "2026-07-24"
 
 # You Are the Product: Reference
 
-The research warrant for **You Are the Product** (play and company not yet staged; this warrant is drafted first,
-to prove the science and the distinction before authoring). The title is provisional, a reading of the phenomenon
-the media political economy calls **the audience commodity**: Smythe's account of why an advertising-funded medium
-sells not its content but its audience, so its paying customer is the advertiser and its product is the reader's
-attention, and its content is rationally shaped to gather and hold the audience advertisers will pay for rather
-than to serve the audience's own interest, all cited below, held with the finding that the tilt bites where the
-funding is advertising and the two parties' interests diverge, and softens where they coincide or where the reader
-or the public becomes the payer.
+The research warrant for **You Are the Product**. The title is a reading of the phenomenon the media
+political economy calls **the audience commodity**: Smythe's account of why an advertising-funded
+medium sells not its content but its audience, so its paying customer is the advertiser and its
+product is the reader's attention, and its content is rationally shaped to gather and hold the
+audience advertisers will pay for rather than to serve the audience's own interest, all cited below,
+held with the finding that the tilt bites where the funding is advertising and the two parties'
+interests diverge, and softens where they coincide or where the reader or the public becomes the
+payer.
 
 ## Line of Work
 
@@ -98,8 +98,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed
-load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Free Lunch**: carries the bait (Smythe), the content given away to gather an audience, worth making only
   because it draws the crowd whose attention is the real product, so the show or the story is a cost of production

@@ -4,15 +4,14 @@ updated: "2026-07-24"
 
 # The Loud Few: Reference
 
-The research warrant for **The Loud Few** (play and company not yet staged; this warrant is drafted first, to
-prove the science and the distinction before authoring). The title is provisional, a reading of the phenomenon
-the literature calls **the logic of collective action**, and in its policy form **concentrated benefits and
-diffuse costs**: Olson's account of why a small group whose few members each hold a concentrated stake organises
-and prevails while a large group whose many members each hold a diffuse stake stays latent and unrepresented,
-with the free-rider logic of non-excludable goods beneath it (Samuelson) and the selective incentive as the one
-lever that moves a large group, all cited below, held with the finding that the failure is a tendency conditioned
-on group size, non-excludability, and the absence of selective incentives, and not a law that no large group ever
-acts.
+The research warrant for **The Loud Few**. The title is a reading of the phenomenon the literature
+calls **the logic of collective action**, and in its policy form **concentrated benefits and diffuse
+costs**: Olson's account of why a small group whose few members each hold a concentrated stake
+organises and prevails while a large group whose many members each hold a diffuse stake stays latent
+and unrepresented, with the free-rider logic of non-excludable goods beneath it (Samuelson) and the
+selective incentive as the one lever that moves a large group, all cited below, held with the
+finding that the failure is a tendency conditioned on group size, non-excludability, and the absence
+of selective incentives, and not a law that no large group ever acts.
 
 ## Line of Work
 
@@ -109,8 +108,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed
-load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Thin Share**: carries the group-size logic (Olson), that a member of a large group receives too small a
   share of the collective good and their own contribution is too imperceptible to change the outcome, so acting

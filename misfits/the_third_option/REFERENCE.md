@@ -4,13 +4,13 @@ updated: "2026-07-29"
 
 # The Third Option: Reference
 
-The research warrant for **The Third Option** (play and company not yet staged; this warrant is drafted first, to prove
-the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**decoy effect**, or asymmetric dominance: adding a third option to a choice set, one that is clearly worse than one
-existing option but not clearly worse than the other, shifts choice toward the option that dominates the decoy, so an
-alternative chosen by no one changes the choice between two others it did not need to touch, all cited below, held with
-the finding that the effect is real and replicated but its strength varies with how the options are represented and is
-weaker or absent under some conditions and elicitation methods.
+The research warrant for **The Third Option**. The title is a reading of the phenomenon named the
+**decoy effect**, or asymmetric dominance: adding a third option to a choice set, one that is
+clearly worse than one existing option but not clearly worse than the other, shifts choice toward
+the option that dominates the decoy, so an alternative chosen by no one changes the choice between
+two others it did not need to touch, all cited below, held with the finding that the effect is real
+and replicated but its strength varies with how the options are represented and is weaker or absent
+under some conditions and elicitation methods.
 
 ## Line of Work
 
@@ -90,8 +90,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Trade-Off Pair**: carries the setting (Huber, Payne and Puto), the two options that trade off against each other
   with no easy winner, one better on one dimension and the other better on a second.

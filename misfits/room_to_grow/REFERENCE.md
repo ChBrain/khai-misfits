@@ -4,12 +4,12 @@ updated: "2026-07-28"
 
 # Room to Grow: Reference
 
-The research warrant for **Room to Grow** (play and company not yet staged; this warrant is drafted first, to prove the
-science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the **hydra
-effect**: killing or harvesting a fraction of a population can raise its total abundance, because the deaths relax the
-competition, food shortage, or cannibalism that had been holding the survivors back, so a cull meant to reduce a pest or
-a predator increases its numbers, control backfiring through the population's own density-dependence, all cited below,
-held with the finding that this turns on specific and overcompensating forms of density-dependence and is a documented
+The research warrant for **Room to Grow**. The title is a reading of the phenomenon named the
+**hydra effect**: killing or harvesting a fraction of a population can raise its total abundance,
+because the deaths relax the competition, food shortage, or cannibalism that had been holding the
+survivors back, so a cull meant to reduce a pest or a predator increases its numbers, control
+backfiring through the population's own density-dependence, all cited below, held with the finding
+that this turns on specific and overcompensating forms of density-dependence and is a documented
 mechanism under those conditions rather than a law that culling always backfires.
 
 ## Line of Work
@@ -88,8 +88,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Crowding**: carries the regulation (Ricker; Nicholson), the density-dependence that holds the population down, the
   competition for food, the crowding that spreads disease, the adults that cannibalize the young, the brake mortality

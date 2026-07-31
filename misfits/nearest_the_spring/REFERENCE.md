@@ -4,14 +4,14 @@ updated: "2026-07-28"
 
 # Nearest the Spring: Reference
 
-The research warrant for **Nearest the Spring** (play and company not yet staged; this warrant is drafted first, to prove
-the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**Cantillon effect**, the non-neutral path of new money: money does not enter an economy everywhere at once but through
-particular hands first, and those nearest the injection spend it at the old prices before it has bid prices up while
-those it reaches last, on wages and fixed incomes that adjust slowest, meet the higher prices before the new money
-reaches them, so the sequence in which money diffuses redistributes real purchasing power from the late receivers to the
-early with no transfer anyone intends, all cited below, held with the finding that the transmission and its direction are
-standard while the magnitude and the net winners in any given episode are contested.
+The research warrant for **Nearest the Spring**. The title is a reading of the phenomenon named the
+**Cantillon effect**, the non-neutral path of new money: money does not enter an economy everywhere
+at once but through particular hands first, and those nearest the injection spend it at the old
+prices before it has bid prices up while those it reaches last, on wages and fixed incomes that
+adjust slowest, meet the higher prices before the new money reaches them, so the sequence in which
+money diffuses redistributes real purchasing power from the late receivers to the early with no
+transfer anyone intends, all cited below, held with the finding that the transmission and its
+direction are standard while the magnitude and the net winners in any given episode are contested.
 
 ## Line of Work
 
@@ -94,8 +94,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Injection**: carries the origin (Cantillon), the point where new money enters the economy, the mine or the loan or
   the bond purchase or the government spend, since money must enter somewhere and cannot enter everywhere at once.

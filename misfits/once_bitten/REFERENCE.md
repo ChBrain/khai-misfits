@@ -4,14 +4,14 @@ updated: "2026-07-24"
 
 # Once Bitten: Reference
 
-The research warrant for **Once Bitten** (play and company not yet staged; this warrant is drafted first, to
-prove the science and the distinction before authoring). The title is provisional, a reading of the phenomenon
-the literature calls **the hot-stove effect**: Denrell's account of why an agent that learns from experience and
-chooses whether to sample an option by its past outcomes forms a systematically negative picture of the world,
-because a bad early outcome ends the sampling that would have corrected it, while a good early outcome keeps the
-option in use where continued sampling corrects it, all cited below, held with the finding that the bias bites
-where outcomes are variable and sampling is the agent's own choice, and softens where outcomes are reliable,
-sampling is forced, or others' experience can be observed.
+The research warrant for **Once Bitten**. The title is a reading of the phenomenon the literature
+calls **the hot-stove effect**: Denrell's account of why an agent that learns from experience and
+chooses whether to sample an option by its past outcomes forms a systematically negative picture of
+the world, because a bad early outcome ends the sampling that would have corrected it, while a good
+early outcome keeps the option in use where continued sampling corrects it, all cited below, held
+with the finding that the bias bites where outcomes are variable and sampling is the agent's own
+choice, and softens where outcomes are reliable, sampling is forced, or others' experience can be
+observed.
 
 ## Line of Work
 
@@ -99,8 +99,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed
-load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Bad Draw**: carries the trigger (Denrell), the early negative outcome, real or merely unlucky, that turns
   the agent away from an option before its true worth is known.

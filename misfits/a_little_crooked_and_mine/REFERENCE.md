@@ -4,12 +4,12 @@ updated: "2026-07-29"
 
 # A Little Crooked, and Mine: Reference
 
-The research warrant for **A Little Crooked, and Mine** (play and company not yet staged; this warrant is drafted first,
-to prove the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named
-the **IKEA effect**: people assign disproportionately higher value to things they partially built or assembled
-themselves, even when the finished result is objectively no better than a comparable pre-made version, all cited below,
-held with the finding that the effect requires a completed or successfully assembled build and varies with task
-difficulty, not a claim that effort always breeds attachment regardless of outcome.
+The research warrant for **A Little Crooked, and Mine**. The title is a reading of the phenomenon
+named the **IKEA effect**: people assign disproportionately higher value to things they partially
+built or assembled themselves, even when the finished result is objectively no better than a
+comparable pre-made version, all cited below, held with the finding that the effect requires a
+completed or successfully assembled build and varies with task difficulty, not a claim that effort
+always breeds attachment regardless of outcome.
 
 ## Line of Work
 
@@ -84,8 +84,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Labor**: carries the setup (Norton, Mochon and Ariely, 2012), the effort honestly invested in building or
   assembling something, engaged for its own sake and not performed for show.

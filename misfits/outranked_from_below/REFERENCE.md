@@ -4,13 +4,11 @@ updated: "2026-07-24"
 
 # Outranked from Below: Reference
 
-The research warrant for **Outranked from Below** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The title is provisional, a human-scale reading of the phenomenon the literature calls
-**priority inversion**: Sha, Rajkumar, and Lehoczky's account of how a high-priority task can be
-starved by a low-priority one through a shared lock, made unbounded by an unrelated task of middle
-rank, and the priority-inheritance protocols that bound it, with the Mars Pathfinder resets as the
-flight case, all cited below.
+The research warrant for **Outranked from Below**. The title is a human-scale reading of the
+phenomenon the literature calls **priority inversion**: Sha, Rajkumar, and Lehoczky's account of how
+a high-priority task can be starved by a low-priority one through a shared lock, made unbounded by
+an unrelated task of middle rank, and the priority-inheritance protocols that bound it, with the
+Mars Pathfinder resets as the flight case, all cited below.
 
 ## Line of Work
 
@@ -101,8 +99,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Lock**: carries the shared resource that only one may hold at a time and that the top-ranked
   work needs (Sha, Rajkumar, and Lehoczky), held atomically so it cannot be taken mid-use, the one thing

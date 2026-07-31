@@ -4,14 +4,14 @@ updated: "2026-07-28"
 
 # The Worst and the Last: Reference
 
-The research warrant for **The Worst and the Last** (play and company not yet staged; this warrant is drafted first, to
-prove the science and the distinction before authoring). The title is provisional, a reading of the phenomenon named the
-**peak-end rule** with its companion **duration neglect**: an extended experience is remembered not by the sum or the
-average of its moments but by its most intense moment and its ending, so the self that recalls an episode and chooses
-whether to repeat it can value it oppositely to the self that lived it, preferring a longer suffering that tapers to a
-shorter one that stopped at its worst, all cited below, held with the finding that the strict average-of-peak-and-end
-formula is an idealization and the neglect of duration is a strong tendency rather than an absolute law, with documented
-moderators.
+The research warrant for **The Worst and the Last**. The title is a reading of the phenomenon named
+the **peak-end rule** with its companion **duration neglect**: an extended experience is remembered
+not by the sum or the average of its moments but by its most intense moment and its ending, so the
+self that recalls an episode and chooses whether to repeat it can value it oppositely to the self
+that lived it, preferring a longer suffering that tapers to a shorter one that stopped at its worst,
+all cited below, held with the finding that the strict average-of-peak-and-end formula is an
+idealization and the neglect of duration is a strong tendency rather than an absolute law, with
+documented moderators.
 
 ## Line of Work
 
@@ -99,8 +99,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the proposed load-bearing
-pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Living**: carries the experiencing self and the episode as lived, moment by moment across its whole length, every
   second counting while it lasts, the discomfort felt in real time before any memory of it is kept (Redelmeier and

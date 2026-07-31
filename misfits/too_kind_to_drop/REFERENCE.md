@@ -4,13 +4,11 @@ updated: "2026-07-24"
 
 # Too Kind to Drop: Reference
 
-The research warrant for **Too Kind to Drop** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The title is provisional, a reading of the phenomenon the literature calls **bufferbloat**:
-Gettys and Nichols's account of how oversized network buffers conceal the loss-and-delay signal
-that congestion control depends on, so the buffer fills into a persistent standing queue and latency
-balloons, and Nichols and Jacobson's active-queue-management remedy that drops early to restore the
-signal, all cited below.
+The research warrant for **Too Kind to Drop**. The title is a reading of the phenomenon the
+literature calls **bufferbloat**: Gettys and Nichols's account of how oversized network buffers
+conceal the loss-and-delay signal that congestion control depends on, so the buffer fills into a
+persistent standing queue and latency balloons, and Nichols and Jacobson's active-queue-management
+remedy that drops early to restore the signal, all cited below.
 
 ## Line of Work
 
@@ -102,8 +100,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Buffer**: carries the memory placed before the bottleneck to absorb bursts and avoid drops
   (Gettys and Nichols), locally sensible because memory is cheap and a drop looks like waste, and made

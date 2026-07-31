@@ -4,13 +4,11 @@ updated: "2026-07-24"
 
 # Over a Barrel: Reference
 
-The research warrant for **Over a Barrel** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The title is provisional, a reading of the phenomenon the literature calls the **hold-up problem**:
-Klein, Crawford, and Alchian's account of how a relationship-specific investment, once sunk, exposes a
-quasi-rent the counterparty can appropriate, Williamson's fundamental transformation from competition to
-bilateral monopoly, and Grossman and Hart's result that the anticipation of hold-up drives rational
-underinvestment, all cited below.
+The research warrant for **Over a Barrel**. The title is a reading of the phenomenon the literature
+calls the **hold-up problem**: Klein, Crawford, and Alchian's account of how a relationship-specific
+investment, once sunk, exposes a quasi-rent the counterparty can appropriate, Williamson's
+fundamental transformation from competition to bilateral monopoly, and Grossman and Hart's result
+that the anticipation of hold-up drives rational underinvestment, all cited below.
 
 ## Line of Work
 
@@ -98,8 +96,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Investment**: carries the relationship-specific asset (Klein, Crawford, and Alchian; Williamson),
   worth far more inside this relationship than in any other use, the sinking of which is what creates the

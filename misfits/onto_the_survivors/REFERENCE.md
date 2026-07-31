@@ -4,10 +4,9 @@ updated: "2026-07-24"
 
 # Onto the Survivors: Reference
 
-The research warrant for **Onto the Survivors** (play and company not yet staged;
-this warrant is drafted first, to prove the science and the distinction before authoring).
-The dynamic is the fiber-bundle account of cascading failure: Daniels's probabilistic bundle model and
-the load-redistribution avalanche reviewed by Pradhan, Hansen, and Chakrabarti, all cited below.
+The research warrant for **Onto the Survivors**. The dynamic is the fiber-bundle account of
+cascading failure: Daniels's probabilistic bundle model and the load-redistribution avalanche
+reviewed by Pradhan, Hansen, and Chakrabarti, all cited below.
 
 ## Line of Work
 
@@ -88,8 +87,7 @@ What the house refuses to model, and how it credits what it stages.
 
 ## Encoding
 
-Source to constraint, per element. The play and its company are not yet authored; these are the
-proposed load-bearing pieces the warrant commits the staging to carry, one per vector, no filler.
+Source to constraint, per element, one per load-bearing vector, no filler.
 
 - **The Bundle**: carries the parallel, independent, load-sharing set (Daniels), the genuine redundancy,
   many members holding one load together, no common cause among them.
