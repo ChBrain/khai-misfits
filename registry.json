@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.205.0",
+  "version": "0.206.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -242,6 +242,12 @@
       "id": "jevons_paradox",
       "title": "Jevons Paradox",
       "description": "Make a resource go further per unit and total use rises, as cheaper service draws more demand than the saving spared."
+    },
+    {
+      "kind": "misfit",
+      "id": "kept_for_the_worst",
+      "title": "Kept for the Worst",
+      "description": "The better the antibiotic, the more carefully it is withheld, and the less anyone is paid to have made it."
     },
     {
       "kind": "misfit",
