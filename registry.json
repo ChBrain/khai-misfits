@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.208.0",
+  "version": "0.209.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -206,6 +206,12 @@
       "id": "fixes_that_fail",
       "title": "Fixes that Fail",
       "description": "A fix relieves the symptom now, and its delayed side effect worsens the problem, so more of the same fix is applied."
+    },
+    {
+      "kind": "misfit",
+      "id": "good_enough_to_hold",
+      "title": "Good Enough to Hold",
+      "description": "Write investment grade into a rule and a private opinion becomes a permit, so nobody reads it."
     },
     {
       "kind": "misfit",
