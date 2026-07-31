@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.206.0",
+  "version": "0.207.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -548,6 +548,12 @@
       "id": "sandbag",
       "title": "Sandbag",
       "description": "Beat the target and next year's is higher, so everyone hits the number and hides the rest, and no one shows their best."
+    },
+    {
+      "kind": "misfit",
+      "id": "saved_for_something_else",
+      "title": "Saved for Something Else",
+      "description": "Treat a patient who died of something else as still at risk, and every cause the cure did not prevent seems to rise."
     },
     {
       "kind": "misfit",
