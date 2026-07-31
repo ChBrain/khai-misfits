@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.210.0",
+  "version": "0.211.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -350,6 +350,12 @@
       "id": "nearest_the_spring",
       "title": "Nearest the Spring",
       "description": "New money reaches some hands first: the first spend at old prices and gain, the last meet risen prices and lose."
+    },
+    {
+      "kind": "misfit",
+      "id": "never_aimed_at_you",
+      "title": "Never Aimed at You",
+      "description": "Most of the pressure selecting a resistant organism comes from prescriptions written for something else."
     },
     {
       "kind": "misfit",
