@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.207.0",
+  "version": "0.208.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -170,6 +170,12 @@
       "id": "everybodys_business",
       "title": "Everybody's Business",
       "description": "A decision everyone can see and anyone could own is dropped, because each assumes it is somebody else's to hold."
+    },
+    {
+      "kind": "misfit",
+      "id": "exactly_how_far",
+      "title": "Exactly How Far",
+      "description": "A promise firm enough to reassure your ally is a map of everything you did not promise."
     },
     {
       "kind": "misfit",
