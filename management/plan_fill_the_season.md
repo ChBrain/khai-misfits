@@ -3530,7 +3530,7 @@ the reserve below shares the word and nothing else, and must be titled away from
       Academic Response to Basel II and deliberately kept out of the Source cell, so the science index
       does not key a second Goodhart entry against this misfit and conflate it with Goodhart's Law,
       which the house stages elsewhere; the warrant says so explicitly.
-- [ ] [P1] The Green Paradox (Sinn, "Public policies against global warming: a supply side approach",
+- [x] [P1] The Green Paradox (Sinn, "Public policies against global warming: a supply side approach",
       International Tax and Public Finance 2008; The Green Paradox, MIT Press 2012): a credibly
       announced future tightening of demand for fossil carbon lowers the expected future net price of
       the resource, so owners of an exhaustible stock re-optimise extraction forward and pump more now,
@@ -3544,7 +3544,18 @@ the reserve below shares the word and nothing else, and must be titled away from
       legislated worthless, the opposite sign on a different indexing; to be cut to the
       credible-warning-brings-the-harm-forward vector, since the supply-side remedies, buying and
       retiring reserves or taxing the stock, mean compensating owners for wealth you are extinguishing,
-      and the cheap remedy, announce sooner and louder, is the thing that causes the harm.
+      and the cheap remedy, announce sooner and louder, is the thing that causes the harm. Staged as
+      **Fair Warning**, cut to the credible-warning-brings-the-harm-forward vector, with the campaigner
+      cast as a persona in its own right so the accelerant is visible: pressing for a firmer date and an
+      earlier one is exactly the right thing to press for, there is one announcement and one
+      credibility, and so no version exists in which the public believes the deadline and the owner does
+      not, which puts success and harm on one dial. Hotelling is carried in the Origin for the
+      extraction rule, which adds a **second** Hotelling entry to the science index beside the
+      minimum-differentiation result already staged as The Crowded Middle: same author, two distinct
+      findings two years apart, and the index now shows both rather than letting a future scout assume
+      the surname is spoken for. The magnitude is stated as contested in the warrant rather than
+      asserted, since overstating it is the easiest way for the play to be read as an argument against
+      climate policy, which the source does not make and the house will not stage.
 - [ ] [P1] The Conservation-Reward Paradox in antibiotics (Outterson, Powers, Daniel and McClellan,
       "Repairing The Broken Market For Antibiotic Innovation", Health Affairs 2015; Projan, "Why is big
       Pharma getting out of antibacterial drug discovery?", Current Opinion in Microbiology 2003): a
