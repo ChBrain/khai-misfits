@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.204.0",
+  "version": "0.205.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -170,6 +170,12 @@
       "id": "everybodys_business",
       "title": "Everybody's Business",
       "description": "A decision everyone can see and anyone could own is dropped, because each assumes it is somebody else's to hold."
+    },
+    {
+      "kind": "misfit",
+      "id": "fair_warning",
+      "title": "Fair Warning",
+      "description": "A phase-out announced early enough to be fair, and credibly enough to work, is the reason the coal comes up sooner."
     },
     {
       "kind": "misfit",
