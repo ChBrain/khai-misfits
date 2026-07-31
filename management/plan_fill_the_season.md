@@ -3556,7 +3556,7 @@ the reserve below shares the word and nothing else, and must be titled away from
       the surname is spoken for. The magnitude is stated as contested in the warrant rather than
       asserted, since overstating it is the easiest way for the play to be read as an argument against
       climate policy, which the source does not make and the house will not stage.
-- [ ] [P1] The Conservation-Reward Paradox in antibiotics (Outterson, Powers, Daniel and McClellan,
+- [x] [P1] The Conservation-Reward Paradox in antibiotics (Outterson, Powers, Daniel and McClellan,
       "Repairing The Broken Market For Antibiotic Innovation", Health Affairs 2015; Projan, "Why is big
       Pharma getting out of antibacterial drug discovery?", Current Opinion in Microbiology 2003): a
       last-resort antibiotic's social value is proportional to how carefully it is withheld and its
@@ -3572,7 +3572,18 @@ the reserve below shares the word and nothing else, and must be titled away from
       cut to the value-rises-as-revenue-falls vector, since delinkage, pull incentives and subscription
       payment for access rather than volume, costs public money up front for drugs nobody will use,
       requires a payer to guess a drug's worth decades early, and can be gamed by compounds that qualify
-      without adding a mechanism.
+      without adding a mechanism. Staged as **Kept for the Worst**, cut to the under-production vector,
+      the commons read in a mirror: stewardship is the cure there and the cause here, which is the line
+      the warrant leads its distinctness on. The cast is **three** personas rather than four, since the
+      concept has exactly three levers, the seat that withholds, the seat that pays by volume, and the
+      seat that allocates the research budget, and the regulator the scout listed separately performs
+      the same function as the steward and was folded in rather than seated twice. The Origin cell leads
+      with **Outterson alone** and names Powers, Daniel and McClellan in the key-work column: the house
+      already cites a different Powers, Claire Powers on Marek's disease in Saved to Spread, and the
+      science index keys a source cell on surname, so keying this row on Powers would have merged two
+      unrelated people under one entry. All four authors are credited by name and only the index key is
+      held back, and the warrant states the reason. Verified after the build: Powers still resolves to
+      Saved to Spread alone.
 - [ ] [P1] Competing Risks (Fine and Gray, "A Proportional Hazards Model for the Subdistribution of a
       Competing Risk", Journal of the American Statistical Association 1999; Andersen, Geskus, de Witte
       and Putter, "Competing risks in epidemiology: possibilities and pitfalls", International Journal
