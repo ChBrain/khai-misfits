@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.209.0",
+  "version": "0.210.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -86,6 +86,12 @@
       "id": "belt_and_braces",
       "title": "Belt and Braces",
       "description": "Each backup added for safety adds coupling, a shared cause, and shirking, so more redundancy can lower reliability."
+    },
+    {
+      "kind": "misfit",
+      "id": "best_day_for_it",
+      "title": "Best Day for It",
+      "description": "A fleet with no fuel and one weather bids the price to nothing in exactly the hours it earns."
     },
     {
       "kind": "misfit",
