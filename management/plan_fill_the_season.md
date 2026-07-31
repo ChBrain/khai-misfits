@@ -3448,8 +3448,20 @@ of five failure types and so unable to supply one governing law.
 Ratchet and The Ratchet Effect (systematic soldiering), so the Ludwig, Hilborn and Walters ratchet in
 the reserve below shares the word and nothing else, and must be titled away from it.
 
-- [ ] [P1] The Coup-Proofing Trap (Quinlivan, "Coup-proofing: Its Practice and Consequences in the
-      Middle East", International Security 1999; Talmadge, The Dictator's Army, Cornell 2015): a ruler
+- [x] [P1] The Coup-Proofing Trap (Quinlivan, "Coup-proofing: Its Practice and Consequences in the
+      Middle East", International Security 1999; Talmadge, The Dictator's Army, Cornell 2015): staged as
+      **An Army That Cannot Turn**, cut to the remedy-is-the-threat vector, with the title carrying the
+      double sense the trap turns on, an army built so it can never turn on you being an army that
+      cannot turn at all. Cast to three levers rather than one named three times, since each removes a
+      different capability: the structural counterweight, which halves the field army and cannot be
+      folded back in during the emergency because a guard that can be folded in can be commanded by the
+      man who folds it; the personnel shuffle, which takes the years in which a commander learns his
+      ground and a unit becomes a unit; and the informational silence, the exercise above battalion
+      scale never scheduled because a division moving at scale cannot be told from a division moving on
+      the capital, leaving an army that cannot combine arms or manoeuvre, manoeuvre being lateral
+      communication under fire. Roessler is carried in the Origin as the held-near distinction the slate
+      asked for, so the coup-to-civil-war trade is marked as a different trade and not restaged. The
+      entry as slated: a ruler
       who fears his own army makes it coup-proof, parallel counterweight forces, commanders rotated
       before they build followings, officers chosen for loyalty over ability, large-formation training
       curtailed and lateral communication blocked, and every one of those measures is exactly a measure
