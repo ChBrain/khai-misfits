@@ -3651,7 +3651,7 @@ the reserve below shares the word and nothing else, and must be titled away from
       and empirically narrowing before the culture returns kills patients, while appropriateness-based
       stewardship trims the inappropriate tail and therefore barely touches the mass, which is the
       finding.
-- [ ] [P2] The Regulatory Licence (Partnoy, "The Siskel and Ebert of Financial Markets?: Two Thumbs
+- [x] [P2] The Regulatory Licence (Partnoy, "The Siskel and Ebert of Financial Markets?: Two Thumbs
       Down for the Credit Rating Agencies", Washington University Law Quarterly 1999): once regulation
       is written to reference a private rating, so that investment grade becomes a legal threshold, the
       rating's value to the issuer stops being its information content and becomes the regulatory
@@ -3666,7 +3666,28 @@ the reserve below shares the word and nothing else, and must be titled away from
       creates demand independent of accuracy; to be cut to the certificate-becomes-a-permit vector,
       since stripping ratings out of regulation obliges the regulator to build the assessment in house
       at large expense, or to write a substitute standard that becomes the next licence, and the
-      delegation exists because the alternative is expensive.
+      delegation exists because the alternative is expensive. Staged as **Good Enough to Hold**, cut to the
+      certificate-becomes-a-permit vector, the title being what the rule says and what nobody then needs
+      to check. The cast is **four** personas, **five** places, **six** processes, **six** pieces and
+      **seven** plots, which is the same count as Exactly How Far and was derived rather than borrowed:
+      the market has four parties with opposite pressures (the seat that writes the reference, the seat
+      that buys the permission, the seat that sells it, and the seat that must act on it), and the beats
+      do not compress, since referencing a grade and designating who may issue one are two acts with two
+      consequences, as are the issuer's purchase and the rater's sale of the same document. Two elements
+      were tested against removal before being kept. **The Second Gate** answers the first objection any
+      reader raises, that a more accurate rater should undercut the incumbents, and without it the play
+      has a hole; the answer is that the same rule which made the product compulsory closed the market
+      for it. **The Cliff** is where the trap reaches the world, a one-notch opinion becoming a
+      synchronised forced sale because every schedule was keyed to the same line. The Origin carries two
+      institution-shaped sources, the SEC's 1975 designation with the 2010 statutory removal, and the
+      Financial Stability Board's principles on mechanistic reliance. Both cells are phrased to end on a
+      lowercase noun (`references`, `ratings`) so the index's surname filter drops them, which is the
+      technique Alarm Fatigue's repaired cell established and is now the house's standing handling for a
+      source that is a body rather than a person. Verified after the build: exactly one new key,
+      Partnoy, and no `Board`, `SEC` or `Stability` pseudo-scholar. One surname collision, handled the
+      declared way: **White** is Lawrence J. White here and Leslie A. White on the energetics of
+      complexity in The Last Layer, both cells already carry given names, and the surname is declared in
+      `scholarPolicy.homonyms`.
 - [x] [P2] The Alliance Security Dilemma (Glenn Snyder, "The Security Dilemma in Alliance Politics",
       World Politics 1984): inside an alliance the strength of your commitment is one dial with a bad
       end at each stop, tighten it to reassure the ally against abandonment and you inherit its quarrels
