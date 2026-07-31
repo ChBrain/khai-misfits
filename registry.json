@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.203.0",
+  "version": "0.204.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -1130,6 +1130,12 @@
       "id": "the_wasted_vote",
       "title": "The Wasted Vote",
       "description": "A vote for a third who cannot win is judged wasted, so each deserts to the viable two, and the field locks to two."
+    },
+    {
+      "kind": "misfit",
+      "id": "the_weather_we_make",
+      "title": "The Weather We Make",
+      "description": "Everyone measures risk the same way and must obey it, so the storm the models called impossible is the one they make."
     },
     {
       "kind": "misfit",
