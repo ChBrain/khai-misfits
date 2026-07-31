@@ -3667,7 +3667,7 @@ the reserve below shares the word and nothing else, and must be titled away from
       since stripping ratings out of regulation obliges the regulator to build the assessment in house
       at large expense, or to write a substitute standard that becomes the next licence, and the
       delegation exists because the alternative is expensive.
-- [ ] [P2] The Alliance Security Dilemma (Glenn Snyder, "The Security Dilemma in Alliance Politics",
+- [x] [P2] The Alliance Security Dilemma (Glenn Snyder, "The Security Dilemma in Alliance Politics",
       World Politics 1984): inside an alliance the strength of your commitment is one dial with a bad
       end at each stop, tighten it to reassure the ally against abandonment and you inherit its quarrels
       and lose control of when you fight, loosen it to avoid that and you signal unreliability, which
@@ -3682,7 +3682,29 @@ the reserve below shares the word and nothing else, and must be titled away from
       withhold is here the very move that triggers the abandonment horn; to be cut to the
       each-horn's-cure-is-the-other-horn vector, since precision in the commitment is read by the
       adversary as a published map of what is not covered and by the ally as a measure of how little you
-      will do, while ambiguity restores your choice and destroys the deterrence.
+      will do, while ambiguity restores your choice and destroys the deterrence. Staged as **Exactly How Far**, cut to the each-horn's-cure-is-the-other-horn
+      vector, the title being the ally's question and the one question that has no safe answer. The
+      cast is **four** personas and **seven** plots, larger than the house's recent average and read
+      from the concept rather than from a sibling: the dilemma turns on one signal being read by three
+      audiences who need opposite things from it, so the patron, the ally, the adversary and the
+      watching partner are four distinct levers, and the beats do not compress, since writing the
+      guarantee and reading it are different rooms with different actors, as are softening it and
+      hedging against the softening. Five places and six processes follow from the same count. The
+      warrant leads its distinctness on Over a Barrel, because the inversion is the sharpest line
+      available: the hold-up problem is cured by integration and this one is **worsened** by it, so
+      the standard remedy for a relationship whose parties fear each other's opportunism is here the
+      thing that deepens the entrapment horn. Someone Will Catch Me is held second, since precommitting
+      to withhold is the Samaritan's remedy and is here the abandonment signal in its purest form. The
+      concordance row is filed under collective action beside The Stag Hunt, the nearest staged
+      assurance problem, and the cut there is that the stag hunt has a jointly good equilibrium that
+      trust reaches whereas this dial has no setting good for both parties, so there is nothing to
+      coordinate on. Two surname collisions, both handled the declared way rather than the Powers way:
+      **Snyder** carries Glenn Snyder and Jack Snyder, two different people inside this one misfit's
+      own Origin table, and **Christensen** is Thomas J. Christensen here and Clayton Christensen in
+      The Success Trap. Both are declared in `scholarPolicy.homonyms`, every new cell carries the given
+      name, and The Success Trap's two bare Christensen cells were given theirs in the same change.
+      Verified after the build: four new keys, Beckley, Herz, Jervis and Snyder, all real people, and
+      nothing removed.
 
 **The reserve, and why it is recorded rather than slated.** This pass returned far more than ten
 clearing candidates, so the surplus is kept here in full and the next reconcile begins from a stocked
