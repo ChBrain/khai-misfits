@@ -26,9 +26,18 @@
       "registry.json",
       "docs/SCIENCE.md"
     ],
-    "riders": [{ "pattern": "management/orders/**", "fallback": "governance" }],
+    "riders": [
+      {
+        "pattern": "management/orders/**",
+        "fallback": "governance"
+      }
+    ],
     "lanes": [
-      { "pattern": "misfit/*", "layer": "solution", "allow": ["misfits/**"] },
+      {
+        "pattern": "misfit/*",
+        "layer": "solution",
+        "allow": ["misfits/**"]
+      },
       {
         "pattern": "governance/*",
         "layer": "governance",
@@ -45,15 +54,47 @@
           "management/**"
         ]
       },
-      { "pattern": "changeset-release/*", "layer": "general", "allow": [] },
+      {
+        "pattern": "changeset-release/*",
+        "layer": "general",
+        "allow": []
+      },
       {
         "pattern": "dependabot/*",
         "layer": "general",
         "allow": ["**/package.json", "**/package-lock.json", ".github/workflows/**"]
       },
-      { "pattern": "chore/*", "layer": "general", "allow": [] },
-      { "pattern": "fix/*", "layer": "general", "allow": [] },
-      { "pattern": "docs/*", "layer": "general", "allow": [] }
+      {
+        "pattern": "chore/*",
+        "layer": "general",
+        "allow": []
+      },
+      {
+        "pattern": "fix/*",
+        "layer": "general",
+        "allow": []
+      },
+      {
+        "pattern": "docs/*",
+        "layer": "general",
+        "allow": []
+      }
     ]
+  },
+  "scholarPolicy": {
+    "homonyms": {
+      "Adams": ["Scott", "Gordon", "John"],
+      "Black": ["Duncan", "William C"],
+      "Freeman": ["J Leiper", "Jo"],
+      "Hart": ["'t", "Julian Tudor", "Oliver"],
+      "Kessler": ["Daniel", "Friedrich"],
+      "Luchins": ["Abraham S", "Edith H"],
+      "Lynch": ["Michael", "Nancy"],
+      "Martin": ["Brian", "Thomas"],
+      "Rose": ["Geoffrey", "Michael R", "Todd"],
+      "Schwartz": ["Alan", "Lisa"],
+      "Wagner": ["Adolph", "Richard"],
+      "Wilde": ["Gerald J S", "Louis"]
+    }
   }
 }
