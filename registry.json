@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.201.0",
+  "version": "0.202.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -38,6 +38,12 @@
       "id": "all_at_once",
       "title": "All at Once",
       "description": "A cached value spares the backend until it expires, when every request misses at once and floods the thing it spared."
+    },
+    {
+      "kind": "misfit",
+      "id": "an_army_that_cannot_turn",
+      "title": "An Army That Cannot Turn",
+      "description": "A ruler who fears its own army makes it unable to depose him, and the same measures make it unable to fight."
     },
     {
       "kind": "misfit",
