@@ -3655,7 +3655,7 @@ the reserve below shares the word and nothing else, and must be titled away from
       since Sensfuss and colleagues already carry the merit-order vector and adding him would have
       collided with David Green on signal detection in Alarm Fatigue for no gain in warrant. Verified
       after the build: eight new keys, all real people, and nothing removed.
-- [ ] [P2] Bystander Selection for antibiotic resistance (Tedijanto, Olesen, Grad and Lipsitch,
+- [x] [P2] Bystander Selection for antibiotic resistance (Tedijanto, Olesen, Grad and Lipsitch,
       "Estimating the proportion of bystander selection for antibiotic resistance among potentially
       pathogenic bacterial flora", PNAS 2018): most of the antibiotic exposure that selects resistance
       in a species falls on it while it sits harmlessly in the flora of someone being treated for
@@ -3670,7 +3670,31 @@ the reserve below shares the word and nothing else, and must be titled away from
       narrow-spectrum prescribing needs rapid identification that does not exist at the point of care
       and empirically narrowing before the culture returns kills patients, while appropriateness-based
       stewardship trims the inappropriate tail and therefore barely touches the mass, which is the
-      finding.
+      finding. Staged as **Never Aimed at You**, cut to the harm-outside-the-decision vector,
+      the title being what the organism that pays could say about the prescription that selected it.
+      The cast is **four** personas, **five** places, **five** processes, **seven** pieces and **six**
+      plots. The seven pieces carry two pairs that do not compress: the decision is correct **and**
+      the remedy is blocked by a clinical fact, so The Indicated Prescription and The Blind Hour are
+      two vectors; and the harm is invisible at the moment it happens **and** surfaces untraceably
+      years later, so The Organism Nobody Is Treating and The Stranger's Isolate are two. This target
+      was held back through three earlier stagings on a dedup worry, since the house already carries
+      four antibiotic-adjacent misfits, and the worry was discharged before authoring rather than
+      after: the concordance holds exactly one antibiotic concept, The Broken Antibiotic Market, which
+      is under-production and not selection pressure, and the three structural near neighbours were
+      each read and cut. **The Commons**: each taker draws from a stock they benefit from and know
+      they draw on, whereas here the prescriber has no interest in the organism that pays and no view
+      of it, so restrain-your-take does not reach the taking that matters. **First Do Harm**: the
+      iatrogenic harm lands on the treated patient, whereas here that patient is helped exactly as
+      intended and the harm lands on a population years later by way of their commensals. **The
+      Tyranny of Small Decisions**: each chooser there is a party to the outcome and would have chosen
+      otherwise had it been put as one question, whereas here the prescriber would write the same
+      prescription with the whole mechanism in front of them. **The Horizon Problem** was also
+      checked and cut, since nothing here is bounded out and no redrawing helps: the organism is
+      invisible because it is the subject of no decision at all. The concordance row is filed beside
+      Rose's Prevention Paradox, the same population-versus-individual axis with the sign reversed.
+      All nine Origin surnames were checked against the roster before their cells were written and
+      none collided, so no homonym declaration was needed. Verified after the build: nine new keys,
+      all real people, and nothing removed.
 - [x] [P2] The Regulatory Licence (Partnoy, "The Siskel and Ebert of Financial Markets?: Two Thumbs
       Down for the Credit Rating Agencies", Washington University Law Quarterly 1999): once regulation
       is written to reference a private rating, so that investment grade becomes a legal threshold, the
