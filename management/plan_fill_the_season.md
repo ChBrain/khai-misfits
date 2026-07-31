@@ -3619,7 +3619,7 @@ the reserve below shares the word and nothing else, and must be titled away from
       the same change so both halves resolve. The declaration is inert until khai-tests ships the
       `scholarKey` reader; verified after the build that the six new keys are Andersen, Geskus,
       Kalbfleisch, Prentice, Putter and Witte, all real people, and that nothing was removed.
-- [ ] [P2] The Market-Value Decline of Variable Renewables (Hirth, "The market value of variable
+- [x] [P2] The Market-Value Decline of Variable Renewables (Hirth, "The market value of variable
       renewables: The effect of solar wind power variability on their relative price", Energy Economics
       2013): every unit of a zero-marginal-cost weather-driven technology produces in the same hours as
       every other unit of it, so as the fleet grows it collapses the price precisely in the hours it
@@ -3634,7 +3634,27 @@ the reserve below shares the word and nothing else, and must be titled away from
       that break the correlation, storage, transmission across weather regimes, demand shifting, are
       paid for by the system while the benefit accrues to every generator so no developer will fund
       them, and the remedy that does pay the developer, a fixed contract, works by hiding the price
-      signal and so suppresses the incentive to build the correlation-breaking assets.
+      signal and so suppresses the incentive to build the correlation-breaking assets. Staged as **Best Day for It**, cut to the
+      success-destroys-its-own-revenue vector, the title being what anybody says looking at a bright
+      windy morning and the day the revenue is nothing. The cast is **four** personas, **five** places,
+      **six** processes, **seven** pieces and **seven** plots, and the seven pieces are the point of
+      difference from the last two stagings: this concept has two conditions that are harmless apart
+      and are the trap together, so **The Correlated Fleet** and **The Zero Bid** are two vectors and
+      not one, and it has two remedies that fail in opposite directions, so **The Unfunded Fix** and
+      **The Contract That Hides It** are two and not one. The warrant leads its distinctness on Chasing
+      the Price, since the cobweb is the concept a scout will reach for first and the cut is exact: the
+      cobweb's whole mechanism is a **lag** between signal and supply response, whereas here there is
+      no lag at all but **simultaneity**, and the price is destroyed at the moment of production rather
+      than by a decision taken a season earlier. The Commons is held second, since nothing is depleted
+      and no stock exists, what is destroyed is a price, and each generator harms itself exactly as much
+      as it harms the others, so there is no free rider to name. Jevons and The Driest Wells are marked
+      as running on different variables. The Origin is eight scholars across four cells and needed **no
+      homonym declaration**, the first staging in this run that did not: Hirth, Sensfuss, Ragwitz,
+      Genoese, Joskow, Ueckerdt, Luderer and Edenhofer were each checked against the roster before the
+      cell was written, and Richard Green was deliberately left out of the Origin rather than declared,
+      since Sensfuss and colleagues already carry the merit-order vector and adding him would have
+      collided with David Green on signal detection in Alarm Fatigue for no gain in warrant. Verified
+      after the build: eight new keys, all real people, and nothing removed.
 - [ ] [P2] Bystander Selection for antibiotic resistance (Tedijanto, Olesen, Grad and Lipsitch,
       "Estimating the proportion of bystander selection for antibiotic resistance among potentially
       pathogenic bacterial flora", PNAS 2018): most of the antibiotic exposure that selects resistance
