@@ -3475,9 +3475,20 @@ the reserve below shares the word and nothing else, and must be titled away from
       decentralised initiative and free lateral communication, is identically the list of capabilities
       required to mount a coup, and Talmadge's finding is the no-free-hero in evidence, regimes under
       severe external threat do professionalise, do fight better, and do pay for it in coup exposure.
-- [ ] [P1] Immortal Time Bias (Suissa, "Immortal Time Bias in Pharmacoepidemiology", American Journal
+- [x] [P1] Immortal Time Bias (Suissa, "Immortal Time Bias in Pharmacoepidemiology", American Journal
       of Epidemiology 2008; Lévesque, Hanley, Kezouh and Suissa, BMJ 2010; the Oscar-winners reanalysis,
-      Sylvestre, Huszti and Hanley, Annals of Internal Medicine 2006): where exposure is defined by an
+      Sylvestre, Huszti and Hanley, Annals of Internal Medicine 2006): staged as **Long Enough to
+      Qualify**, cut to the bookkeeping-not-selection vector, the fault living in the step from a record
+      to a denominator, which nobody experiences as an inferential choice, so a hostile reanalyst
+      returns the same number and auditing the work is what certifies it. The record is cast as a piece
+      in its own right, The One Column, since a field holds a person and not a period and the shape of a
+      field is not a decision anybody took, which is what leaves the fault with no author and no moment
+      at which it was committed. The Physician is cast at both ends of the loop, supplying the interval
+      at the ward and acting on the finding at the round, with no vantage joining the two. The scout's
+      uncertain Gail citation is **not carried**: it could not be pinned to a venue, so the warrant is
+      built on the three confirmed sources and the transplant setting is described without a citation
+      rather than asserted, per this plan's own instruction that an uncertain citation is never tidied
+      up to look firm. The entry as slated: where exposure is defined by an
       event that takes time to occur, the transplant arriving, the prescription filled, the award won,
       the span between entry and that event is time in which the subject could not have died, because
       dying would have removed them from the exposed group, and assigning that span to the treated arm
