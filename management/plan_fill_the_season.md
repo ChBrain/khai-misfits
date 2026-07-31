@@ -3584,7 +3584,7 @@ the reserve below shares the word and nothing else, and must be titled away from
       unrelated people under one entry. All four authors are credited by name and only the index key is
       held back, and the warrant states the reason. Verified after the build: Powers still resolves to
       Saved to Spread alone.
-- [ ] [P1] Competing Risks (Fine and Gray, "A Proportional Hazards Model for the Subdistribution of a
+- [x] [P1] Competing Risks (Fine and Gray, "A Proportional Hazards Model for the Subdistribution of a
       Competing Risk", Journal of the American Statistical Association 1999; Andersen, Geskus, de Witte
       and Putter, "Competing risks in epidemiology: possibilities and pitfalls", International Journal
       of Epidemiology 2012): standard survival analysis treats a subject who dies of something else as
@@ -3602,7 +3602,23 @@ the reserve below shares the word and nothing else, and must be titled away from
       retains subjects who have already died of the competing cause, so a correct cumulative incidence
       is bought by giving up any individual-level reading of the hazard, and cause-specific and
       subdistribution analyses routinely point in opposite directions on the same data with no empirical
-      way to choose.
+      way to choose. Staged as **Saved for Something Else**, cut to the
+      cure-one-cause-and-appear-to-cause-the-rest vector, the title carrying the whole of it: a patient
+      saved from one thing is saved for another, and the analysis will hold the therapy responsible for
+      it. The cast is four personas, one per seat the concept actually turns on, the analyst applying
+      the taught rule, the oncologist reporting a true count, the regulator asking the right question,
+      and the methodologist who prices the fix, and six pieces, since the correction and the
+      undecidability under it are two vectors and not one: The Ghost is the individual reading given up
+      to buy the population answer, and The Two Answers is the deeper trouble that no experiment
+      chooses between the two hazards. Both leading authors collide with the roster: **Fine** is
+      already Paul Fine on herd immunity in Borrowed Immunity and **Gray** is already J. A. Muir Gray
+      on screening in It Saved My Life. Where Kept for the Worst dodged its Powers collision by leading
+      the Origin cell on another author, this one takes the other route now that the route exists: the
+      house's `scholarPolicy.homonyms` declares both surnames, the Origin cells carry given names on
+      every side of the collision, and Borrowed Immunity's two bare **Fine** cells were given theirs in
+      the same change so both halves resolve. The declaration is inert until khai-tests ships the
+      `scholarKey` reader; verified after the build that the six new keys are Andersen, Geskus,
+      Kalbfleisch, Prentice, Putter and Witte, all real people, and that nothing was removed.
 - [ ] [P2] The Market-Value Decline of Variable Renewables (Hirth, "The market value of variable
       renewables: The effect of solar wind power variability on their relative price", Energy Economics
       2013): every unit of a zero-marginal-cost weather-driven technology produces in the same hours as
