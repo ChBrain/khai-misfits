@@ -30,8 +30,8 @@ The one figure set beside the other: a great cost, and a gain of zero.
 
 ## Stage
 
-[The Standing](persona_the_standing.md), having tabled [Ration the Rank](plan_ration_the_rank.md), lays the standings before and after side by side and they are the same.
-[The Contender](persona_the_contender.md), still on [Get Ahead](plan_get_ahead.md), and [The Rival](persona_the_rival.md), on [Keep Pace](plan_keep_pace.md), read the cost totalled in full against a rank that never grew, the effort netted to nothing and the price netted to everything.
+[The Standing](persona_the_standing.md), having tabled [Ration the Rank](plan_ration_the_rank.md), lays the standings before and after side by side and they are the same, [the standstill](piece_the_standstill.md) plain at last.
+[The Contender](persona_the_contender.md), still on [Get Ahead](plan_get_ahead.md), and [The Rival](persona_the_rival.md), on [Keep Pace](plan_keep_pace.md), read [the tiptoe](piece_the_tiptoe.md), the cost totalled in full against a rank that never grew, the effort netted to nothing and the price netted to everything.
 
 ## Tension
 

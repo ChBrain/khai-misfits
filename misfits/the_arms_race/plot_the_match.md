@@ -31,7 +31,7 @@ The rivals facing the plain choice: match the spend, or drop a rung.
 ## Stage
 
 [The Rival](persona_the_rival.md), having tabled [Keep Pace](plan_keep_pace.md), answers spend with spend and reclaims the place the contender had taken.
-[The Contender](persona_the_contender.md), still on [Get Ahead](plan_get_ahead.md), watches its lead erased, and [The Standing](persona_the_standing.md), on [Ration the Rank](plan_ration_the_rank.md), shows the line restored exactly as it was, every contender higher in effort and none in standing.
+[The Contender](persona_the_contender.md), still on [Get Ahead](plan_get_ahead.md), watches its lead erased, and [The Standing](persona_the_standing.md), on [Ration the Rank](plan_ration_the_rank.md), shows [the cancellation](piece_the_cancellation.md), the line restored exactly as it was, every contender higher in effort and none in standing.
 
 ## Tension
 
