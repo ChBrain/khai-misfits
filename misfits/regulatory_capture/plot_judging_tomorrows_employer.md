@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The revolving door](place_the_revolving_door.md), turning both ways.
+[The Threshold](place_the_threshold.md), turning both ways.
 The experts the agency needs come from the industry and return to it, and the next job is always on the far side.
 
 ## Action

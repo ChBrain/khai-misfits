@@ -56,7 +56,7 @@ Mandate the group's hiring, and the prior might break: but whether it does turns
 - [The Gate](position_the_gate.md)
 - [The Queue](position_the_queue.md)
 - [The Overlooked](position_the_overlooked.md)
-- [The Reformer](position_the_reformer.md)
+- [Reformer](position_reformer.md)
 
 **Plans**
 

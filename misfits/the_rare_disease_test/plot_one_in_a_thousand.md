@@ -25,7 +25,7 @@ Before any test is given, the many stand together, and among them the condition 
 
 ## Action
 
-At [the Population](place_the_population.md), [the Population](persona_the_population.md) from [the population's seat](position_population.md) on [Stay Few](plan_stay_few.md) through [Distributing](process_distributing.md) takes up [the Rare Condition](piece_the_rare_condition.md), holding it at a real, fixed rate, one in a thousand or fewer, among the sick and well standing together, undivided by any result yet.
+At [The Field](place_the_field.md), [the Population](persona_the_population.md) from [the population's seat](position_population.md) on [Stay Few](plan_stay_few.md) through [Distributing](process_distributing.md) takes up [the Rare Condition](piece_the_rare_condition.md), holding it at a real, fixed rate, one in a thousand or fewer, among the sick and well standing together, undivided by any result yet.
 
 ## Stage
 

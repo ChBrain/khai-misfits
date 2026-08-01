@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Spent in [the currency](place_the_currency.md), the place named for it, where the word passes at face value.
+Spent in [the circulation](place_the_circulation.md), the place named for it, where the word passes at face value.
 Refused in [the anchorage](place_the_anchorage.md), where the coin is held until it buys something specific.
 
 ## Load Bearing

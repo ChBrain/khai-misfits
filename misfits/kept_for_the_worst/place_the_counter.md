@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "The Tariff"
+title: "The Counter"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-31"
 ---
 
-# Place: The Tariff
+# Place: The Counter
 
 ## Taxonomy
 

@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Currency](place_the_currency.md), a living word to hand and a field that uses it.
+[The Circulation](place_the_circulation.md), a living word to hand and a field that uses it.
 The Speaker reaching for the term as common coin, meaning about what they inherited.
 
 ## Action

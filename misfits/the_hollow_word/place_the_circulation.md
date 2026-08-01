@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "The Currency"
+title: "The Circulation"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-03"
 ---
 
-# Place: The Currency
+# Place: The Circulation
 
 ## Taxonomy
 

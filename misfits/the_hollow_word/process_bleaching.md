@@ -22,7 +22,7 @@ stamp:
 ## Initiated by
 
 A useful word in heavy circulation.
-In [the currency](place_the_currency.md), the term passing hand to hand, each speaker meaning about what they inherited and the referent slipping a little further with each passing.
+In [the circulation](place_the_circulation.md), the term passing hand to hand, each speaker meaning about what they inherited and the referent slipping a little further with each passing.
 
 ## Direction
 

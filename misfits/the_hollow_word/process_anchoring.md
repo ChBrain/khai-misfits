@@ -22,7 +22,7 @@ stamp:
 ## Initiated by
 
 Someone who would trust the word only if it cashes out.
-In [the anchorage](place_the_anchorage.md), the Restorer stopping the fluent use and bringing the term down from [the currency](place_the_currency.md) to [the ground](place_the_ground.md) to see what it now buys.
+In [the anchorage](place_the_anchorage.md), the Restorer stopping the fluent use and bringing the term down from [the circulation](place_the_circulation.md) to [the ground](place_the_ground.md) to see what it now buys.
 
 ## Direction
 

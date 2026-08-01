@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-[Living](position_living.md), inside [The Worst and the Last](play_the_worst_and_the_last.md). The archetype of the experiencing self, the one that is there for the whole of the episode and feels it moment to moment, whose plain lived sum is the ground truth the remembered summary overrules.
+[Experiencer](position_experiencer.md), inside [The Worst and the Last](play_the_worst_and_the_last.md). The archetype of the experiencing self, the one that is there for the whole of the episode and feels it moment to moment, whose plain lived sum is the ground truth the remembered summary overrules.
 
 ## Owner
 

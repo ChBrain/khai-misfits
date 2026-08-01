@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Operating at [The Tariff](place_the_tariff.md), stated with the correction rather than after it, so the instrument is priced rather than recommended.
+Operating at [The Counter](place_the_counter.md), stated with the correction rather than after it, so the instrument is priced rather than recommended.
 
 ## Load Bearing
 

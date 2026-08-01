@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Tariff](place_the_tariff.md), and someone asking what would actually work.
+[The Counter](place_the_counter.md), and someone asking what would actually work.
 
 ## Action
 

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Living"
+title: "Experiencer"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-28"
 ---
 
-# Position: Living
+# Position: Experiencer
 
 ## Taxonomy
 

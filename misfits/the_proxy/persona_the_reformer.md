@@ -14,7 +14,7 @@ type: archetype
 
 ## Taxonomy
 
-[The Reformer](position_the_reformer.md). Would break the self-confirming prior by mandating the group's hiring and lowering the bar it is held to, and meets a remedy that can dampen the very investment it needs.
+[Reformer](position_reformer.md). Would break the self-confirming prior by mandating the group's hiring and lowering the bar it is held to, and meets a remedy that can dampen the very investment it needs.
 
 ## Owner
 

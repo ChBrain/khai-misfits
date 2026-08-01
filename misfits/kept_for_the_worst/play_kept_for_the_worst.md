@@ -71,7 +71,7 @@ And the whole is held against its own limit. It needs a drug whose correct use i
 **Places**
 
 - [The Formulary](place_the_formulary.md)
-- [The Tariff](place_the_tariff.md)
+- [The Counter](place_the_counter.md)
 - [The Boardroom](place_the_boardroom.md)
 - [The Bedside](place_the_bedside.md)
 
@@ -99,7 +99,7 @@ And the whole is held against its own limit. It needs a drug whose correct use i
 The setup, a restraint that is right on every ground. At [the Formulary](place_the_formulary.md), through [Reserving](process_reserving.md), [the Steward](persona_the_steward.md) on [Keep It in Reserve](plan_keep_it_in_reserve.md) sets [the Reserve](piece_the_reserve.md): the newly licensed agent is restricted on the day it arrives, the old generic is tried first, and the new one is held for the cases nothing else will touch. Closes with useful life preserved and a hospital that used it freely shown to be doing real harm to people not yet in the room.
 
 **[Paid by the Dose](plot_paid_by_the_dose.md)**
-Cue: somebody has to buy the thing. At [the Tariff](place_the_tariff.md), through [Paying](process_paying.md), [the Payer](persona_the_payer.md) on [Get Value for the Budget](plan_get_value_for_the_budget.md) sets [the Tariff](piece_the_tariff.md): revenue follows units dispensed, as it does for every medicine, because paying for what is used is how a budget avoids paying for what is not. Closes with an arrangement nobody chose to punish anyone, which is simply what buying things looks like.
+Cue: somebody has to buy the thing. At [The Counter](place_the_counter.md), through [Paying](process_paying.md), [the Payer](persona_the_payer.md) on [Get Value for the Budget](plan_get_value_for_the_budget.md) sets [the Tariff](piece_the_tariff.md): revenue follows units dispensed, as it does for every medicine, because paying for what is used is how a budget avoids paying for what is not. Closes with an arrangement nobody chose to punish anyone, which is simply what buying things looks like.
 
 **[Worth Most Unsold](plot_worth_most_unsold.md)**
 Cue: the two facts are read on the same page. At [the Boardroom](place_the_boardroom.md), through [Reckoning](process_reckoning.md), [the Board](persona_the_board.md) on [Put the Money Where It Returns](plan_put_the_money_where_it_returns.md) meets [the Inverse](piece_the_inverse.md): the drug's worth is the years before resistance catches it and its revenue is doses sold, so the better it is the less of it will ever be used. Closes with worth and earnings pointing in opposite directions and no party having behaved badly to make them do so (Outterson and colleagues).
@@ -111,7 +111,7 @@ Cue: the comparison is not close. At [the Boardroom](place_the_boardroom.md), th
 Cue: years later, an isolate that answers to nothing on the list. At [the Bedside](place_the_bedside.md), through [Exiting](process_exiting.md), [the Steward](persona_the_steward.md) on [Keep It in Reserve](plan_keep_it_in_reserve.md) meets [the Empty Shelf](piece_the_empty_shelf.md): the missing drug did not fail in trials and was not withdrawn for harm, it was never made. Closes with the reason it was never made being that everybody agreed it had to be saved.
 
 **[Pay for the Shelf](plot_pay_for_the_shelf.md)**
-Cue: someone asks what would actually work. At [the Tariff](place_the_tariff.md), through [Delinking](process_delinking.md), [the Payer](persona_the_payer.md) on [Get Value for the Budget](plan_get_value_for_the_budget.md) holds [the Subscription](piece_the_subscription.md) and [the Boundary](piece_the_boundary.md): pay for access rather than volume, a market-entry reward or a subscription that pays whether or not a course is dispensed. Closes with the instrument shown to work and to cost, a standing public purchase of a medicine nobody hopes to need, hardest to defend in exactly the years when it is working (Outterson and colleagues).
+Cue: someone asks what would actually work. At [The Counter](place_the_counter.md), through [Delinking](process_delinking.md), [the Payer](persona_the_payer.md) on [Get Value for the Budget](plan_get_value_for_the_budget.md) holds [the Subscription](piece_the_subscription.md) and [the Boundary](piece_the_boundary.md): pay for access rather than volume, a market-entry reward or a subscription that pays whether or not a course is dispensed. Closes with the instrument shown to work and to cost, a standing public purchase of a medicine nobody hopes to need, hardest to defend in exactly the years when it is working (Outterson and colleagues).
 
 ## Stakes
 

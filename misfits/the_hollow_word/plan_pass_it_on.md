@@ -30,7 +30,7 @@ Keep the useful word in circulation. Pass the term down the line, mouth to mouth
 
 ## Implementation
 
-([The Currency](place_the_currency.md) as the word passes and [the ground](place_the_ground.md) as the referent departs; the [bleaching](process_bleaching.md) process; [the word](piece_the_word.md) is worn by traffic into [the bleach](piece_the_bleach.md), the content draining toward [the hollow](piece_the_hollow.md).)
+([The Circulation](place_the_circulation.md) as the word passes and [the ground](place_the_ground.md) as the referent departs; the [bleaching](process_bleaching.md) process; [the word](piece_the_word.md) is worn by traffic into [the bleach](piece_the_bleach.md), the content draining toward [the hollow](piece_the_hollow.md).)
 
 ## Targets
 

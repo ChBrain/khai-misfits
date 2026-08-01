@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Currency](place_the_currency.md), a token worn loose enough to cover anything.
+[The Circulation](place_the_circulation.md), a token worn loose enough to cover anything.
 The field saying the old word while [the ground](place_the_ground.md) shows the practice changed to its contrary.
 
 ## Action

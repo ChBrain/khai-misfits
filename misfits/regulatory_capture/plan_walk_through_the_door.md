@@ -30,7 +30,7 @@ Carry the trade's expertise into the agency and the agency's into the trade. Ser
 
 ## Implementation
 
-([The Revolving Door](place_the_revolving_door.md); the [revolving](process_revolving.md) process; [the revolving door](piece_the_revolving_door.md) aligns the regulator's future with the regulated, and deepens [the cultural capture](piece_the_cultural_capture.md).)
+([The Threshold](place_the_threshold.md); the [revolving](process_revolving.md) process; [the revolving door](piece_the_revolving_door.md) aligns the regulator's future with the regulated, and deepens [the cultural capture](piece_the_cultural_capture.md).)
 
 ## Targets
 

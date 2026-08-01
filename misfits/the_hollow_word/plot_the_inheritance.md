@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Currency](place_the_currency.md), a newcomer arriving after the practice has gone.
+[The Circulation](place_the_circulation.md), a newcomer arriving after the practice has gone.
 The Newcomer learning the word as coin, [the ground](place_the_ground.md) standing empty where the referent was.
 
 ## Action

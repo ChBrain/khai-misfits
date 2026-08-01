@@ -63,7 +63,7 @@ Re-anchor the word before trusting it: insist each use cash out in a concrete re
 
 **Places**
 
-- [The Currency](place_the_currency.md)
+- [The Circulation](place_the_circulation.md)
 - [The Ground](place_the_ground.md)
 - [The Anchorage](place_the_anchorage.md)
 

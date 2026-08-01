@@ -14,11 +14,11 @@ status: active
 
 ## Taxonomy
 
-A **standing plan**: the intent of [the Reformer](position_the_reformer.md), inside [The Proxy](play_the_proxy.md).
+A **standing plan**: the intent of [Reformer](position_reformer.md), inside [The Proxy](play_the_proxy.md).
 
 ## Owner
 
-- Owner: [The Reformer](position_the_reformer.md)
+- Owner: [Reformer](position_reformer.md)
 
 ## Direction
 

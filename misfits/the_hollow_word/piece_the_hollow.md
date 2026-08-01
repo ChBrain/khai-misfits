@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Assembled across [the currency](place_the_currency.md) and [the ground](place_the_ground.md), where the word passes full and the practice stands changed or gone.
+Assembled across [the circulation](place_the_circulation.md) and [the ground](place_the_ground.md), where the word passes full and the practice stands changed or gone.
 Undone only in [the anchorage](place_the_anchorage.md), where the term is re-tied to the referent and the two are brought back together.
 
 ## Load Bearing

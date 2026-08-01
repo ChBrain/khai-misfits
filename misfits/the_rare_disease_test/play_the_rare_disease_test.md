@@ -68,7 +68,7 @@ And the numbers are restored. The prior brought back by the arithmetic, easiest 
 
 **Places**
 
-- [The Population](place_the_population.md)
+- [The Field](place_the_field.md)
 - [The Clinic](place_the_clinic.md)
 - [The Numbers](place_the_numbers.md)
 
@@ -91,7 +91,7 @@ And the numbers are restored. The prior brought back by the arithmetic, easiest 
 ## Triggers
 
 **[One in a Thousand](plot_one_in_a_thousand.md)**
-The setup. At [the Population](place_the_population.md), [the Population](persona_the_population.md) on [Stay Few](plan_stay_few.md) through [Distributing](process_distributing.md) holds [the Rare Condition](piece_the_rare_condition.md), present in only a small fraction of the many, the low real rate that any test result must eventually be weighed against. Closes with the prior true and fixed before any test is given, waiting to be crowded out (Casscells, Schoenberger and Grayboys).
+The setup. At [The Field](place_the_field.md), [the Population](persona_the_population.md) on [Stay Few](plan_stay_few.md) through [Distributing](process_distributing.md) holds [the Rare Condition](piece_the_rare_condition.md), present in only a small fraction of the many, the low real rate that any test result must eventually be weighed against. Closes with the prior true and fixed before any test is given, waiting to be crowded out (Casscells, Schoenberger and Grayboys).
 
 **[The Test Is Given](plot_the_test_is_given.md)**
 Cue: a member of the population steps forward to be tested. At [the Clinic](place_the_clinic.md), [the Instrument](persona_the_instrument.md) on [Hold Your Rate](plan_hold_your_rate.md) through [Testing](process_testing.md) holds [the Accurate Test](piece_the_accurate_test.md), performing at its advertised low rate of error, wrong only rarely in either direction. Closes with the instrument sound and faithful to its own numbers, a fine test by any ordinary standard (Casscells, Schoenberger and Grayboys).

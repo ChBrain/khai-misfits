@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Spent in [the currency](place_the_currency.md), where the word passes as accepted coin.
+Spent in [the circulation](place_the_circulation.md), where the word passes as accepted coin.
 Assayed in [the anchorage](place_the_anchorage.md), where the word is checked against the referent and made to cash out.
 
 ## Load Bearing

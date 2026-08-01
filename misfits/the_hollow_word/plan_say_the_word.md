@@ -30,7 +30,7 @@ Take the living word and use it in the sense you inherited. Say the term the eas
 
 ## Implementation
 
-([The Currency](place_the_currency.md) is where the word is spent; the [saying](process_saying.md) process; [the word](piece_the_word.md) is used in the sense nearest to hand, taken for full and passed toward [the hollow](piece_the_hollow.md) while [the referent](piece_the_referent.md) departs unremarked.)
+([The Circulation](place_the_circulation.md) is where the word is spent; the [saying](process_saying.md) process; [the word](piece_the_word.md) is used in the sense nearest to hand, taken for full and passed toward [the hollow](piece_the_hollow.md) while [the referent](piece_the_referent.md) departs unremarked.)
 
 ## Targets
 

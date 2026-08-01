@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Operating at [The Tariff](place_the_tariff.md), where the payment rule lives and where the only correction would have to be written (Outterson and colleagues).
+Operating at [The Counter](place_the_counter.md), where the payment rule lives and where the only correction would have to be written (Outterson and colleagues).
 
 ## Load Bearing
 

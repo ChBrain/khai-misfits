@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Currency](place_the_currency.md), a word in heavy use across many mouths over time.
+[The Circulation](place_the_circulation.md), a word in heavy use across many mouths over time.
 The Field passing the term hand to hand, the referent slipping a little further with each passing.
 
 ## Action

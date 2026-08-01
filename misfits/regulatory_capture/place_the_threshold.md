@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "The Revolving Door"
+title: "The Threshold"
 language: english
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,7 +9,7 @@ stamp:
   date: "2026-07-02"
 ---
 
-# Place: The Revolving Door
+# Place: The Threshold
 
 ## Taxonomy
 

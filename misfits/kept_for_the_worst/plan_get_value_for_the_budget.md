@@ -26,11 +26,11 @@ Pay for what is used. Reimburse per course, check the invoice against the dispen
 
 ## Orders
 
-([The Payer](persona_the_payer.md) pays through [Paying](process_paying.md) at [the Tariff](place_the_tariff.md), setting [the Tariff](piece_the_tariff.md), and later delinks through [Delinking](process_delinking.md) at the same place, holding [the Subscription](piece_the_subscription.md) and [the Boundary](piece_the_boundary.md).)
+([The Payer](persona_the_payer.md) pays through [Paying](process_paying.md) at [The Counter](place_the_counter.md), setting [the Tariff](piece_the_tariff.md), and later delinks through [Delinking](process_delinking.md) at the same place, holding [the Subscription](piece_the_subscription.md) and [the Boundary](piece_the_boundary.md).)
 
 ## Implementation
 
-([The Tariff](place_the_tariff.md) is where the payment rule lives and where the only correction would have to be written; [Paying](process_paying.md) supplies the second half of the inversion and [Delinking](process_delinking.md) is the one process that could undo it, by requiring the seat to do the thing its discipline exists to prevent.)
+([The Counter](place_the_counter.md) is where the payment rule lives and where the only correction would have to be written; [Paying](process_paying.md) supplies the second half of the inversion and [Delinking](process_delinking.md) is the one process that could undo it, by requiring the seat to do the thing its discipline exists to prevent.)
 
 ## Targets
 

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[The Rare Disease Test](play_the_rare_disease_test.md). Borne at [the Population](place_the_population.md), precipitated by [the Population](persona_the_population.md), in [One in a Thousand](plot_one_in_a_thousand.md).
+[The Rare Disease Test](play_the_rare_disease_test.md). Borne at [The Field](place_the_field.md), precipitated by [the Population](persona_the_population.md), in [One in a Thousand](plot_one_in_a_thousand.md).
 
 ## Owner
 

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Kept for the Worst](play_kept_for_the_worst.md). Borne at [The Tariff](place_the_tariff.md), precipitated by [The Payer](persona_the_payer.md) reimbursing what was dispensed, in [Paid by the Dose](plot_paid_by_the_dose.md).
+[Kept for the Worst](play_kept_for_the_worst.md). Borne at [The Counter](place_the_counter.md), precipitated by [The Payer](persona_the_payer.md) reimbursing what was dispensed, in [Paid by the Dose](plot_paid_by_the_dose.md).
 
 ## Owner
 
