@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The floor](place_the_floor.md), the work going out, the two coins worth the same to spend and costing differently to make.
+[The floor](place_the_floor.md), the work going out, the two coins worth the same to spend and costing differently to make back at [the bench](place_the_bench.md).
 Passing is all that is asked, so the only live question for a maker is how cheaply they can pass, and the count of pieces cleared is going up on the board.
 
 ## Action
@@ -31,7 +31,7 @@ Passing is all that is asked, so the only live question for a maker is how cheap
 
 ## Stage
 
-[The Spender](persona_the_spender.md) tables [Ship the Quick](plan_ship_the_quick.md): make exactly enough to pass and no more, so [the bad coin](piece_the_bad_coin.md) circulates cheaply and the board reads a fast, productive shop.
+[The Spender](persona_the_spender.md) tables [Ship the Quick](plan_ship_the_quick.md): make exactly enough to pass and no more, so [the bad coin](piece_the_bad_coin.md) circulates cheaply and the board, run on [The Foreman](persona_the_foreman.md)'s [Hit the Throughput](plan_hit_the_throughput.md), reads a fast, productive shop.
 [The Craftsman](persona_the_craftsman.md) tables [Keep the Care](plan_keep_the_care.md): give the gate what it pays for and save the rest, so [the good coin](piece_the_good_coin.md) becomes [the hoard](piece_the_hoard.md), pulled from this circulation and kept for where it counts.
 
 ## Tension

@@ -26,7 +26,7 @@ The bypass is open, the fleet is on it, and the trip takes twenty-five minutes w
 
 ## Action
 
-[Measurement](process_measurement.md): [The Mayor](persona_the_mayor.md), holding [the steward's seat](position_steward.md), reads the network end to end and finds every driver worse off, though each drove well.
+[Measurement](process_measurement.md): [The Mayor](persona_the_mayor.md), holding [the steward's seat](position_steward.md), reads the network end to end and finds every driver worse off from [Congestion](process_congestion.md), though each drove well.
 
 ## Stage
 

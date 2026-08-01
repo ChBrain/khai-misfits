@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The High Street](place_the_high_street.md), the savers staying home and the tills coming up light.
-The coin the saver kept never arriving at the counter, and the earner who lived on it beginning to feel the gap.
+The coin the saver kept, held in [the Vault](place_the_vault.md), never arriving at the counter, and the earner who lived on it beginning to feel the gap.
 
 ## Action
 

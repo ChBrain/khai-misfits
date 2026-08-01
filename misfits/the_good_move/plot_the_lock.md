@@ -26,7 +26,7 @@ A new case matching the known kind, the familiar answer rising to meet it, and a
 
 ## Action
 
-[Firing](process_firing.md): the set fires, the familiar answer rises at once and works, and the mind locks onto it, correct and worse in the same stroke.
+[Firing](process_firing.md): the set fires, the familiar answer rises at once and works, and the mind, through [Settling](process_settling.md), locks onto it, correct and worse in the same stroke.
 
 ## Stage
 

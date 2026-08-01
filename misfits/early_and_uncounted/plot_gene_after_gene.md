@@ -30,7 +30,7 @@ A genome and a lineage, carrying gene after gene that has struck the identical e
 
 ## Stage
 
-No single persona stages this beat alone: [the Trait](persona_the_trait.md), from [the the early claim's seat](position_the_early_claim.md), repeated gene after gene, [the Cohort](persona_the_cohort.md), thinned the same way each time, and [the Count](persona_the_count.md), applying the one rule it has always applied, together build [the accrual](piece_the_accrual.md) that composes [the Toll](piece_the_toll.md) across [the Long Run](place_the_long_run.md).
+No single persona stages this beat alone: [the Trait](persona_the_trait.md), from [the the early claim's seat](position_the_early_claim.md), tabling [Claim It Early](plan_claim_it_early.md), repeated gene after gene, [the Cohort](persona_the_cohort.md), thinned the same way each time, and [the Count](persona_the_count.md), applying the one rule it has always applied, together build [the accrual](piece_the_accrual.md) that composes [the Toll](piece_the_toll.md) across [the Long Run](place_the_long_run.md).
 The toll stands revealed exactly as its parts were struck, correct at every step and total only in the sum.
 
 ## Tension

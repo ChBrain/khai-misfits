@@ -30,7 +30,7 @@ A market in which everyone expects everyone to keep buying, and the expectation 
 
 ## Stage
 
-[The Crowd](persona_the_crowd.md), moving as it expects itself to move, inflates [the bubble](piece_the_bubble.md): the rise confirms the expectation, the confirmed expectation draws the next buyer, and the price climbs free of any worth beneath it for as long as the belief holds.
+[The Crowd](persona_the_crowd.md), tabling [Move with the Room](plan_move_with_the_room.md), moves as it expects itself to move and inflates [the bubble](piece_the_bubble.md): the rise confirms the expectation, the confirmed expectation draws the next buyer, and the price climbs free of any worth beneath it for as long as the belief holds.
 Each buyer is right that the price is rising, and right that others expect it to rise, so each buys and each is confirmed.
 
 ## Tension

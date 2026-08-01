@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The two rooms](place_the_two_rooms.md), where the work must be handed to the teams that exist.
+[The two rooms](place_the_two_rooms.md), where the work must be handed to the teams that exist, each already close around its own [Standup](place_the_standup.md).
 The design is split into parts, and the parts are dealt out along the org chart, not the architecture: this team owns what is near it, that team owns the next.
 
 ## Action

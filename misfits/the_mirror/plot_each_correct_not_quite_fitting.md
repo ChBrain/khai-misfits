@@ -21,12 +21,12 @@ stamp:
 
 ## Cue
 
-[The integration](place_the_integration.md), where the two well-built halves are supposed to meet.
+[The integration](place_the_integration.md), where the two well-built halves, aligned already at [the Sync](place_the_sync.md), are supposed to meet.
 The merge, the staging failure, the end-to-end test that will not pass: the parts are each correct and do not quite fit.
 
 ## Action
 
-[Integrating](process_integrating.md): [The Splicer](persona_the_splicer.md), holding [the integrator's seat](position_integrator.md), forces the halves together, while [The Liaison](persona_the_liaison.md) at [the coordinator's seat](position_coordinator.md) syncs across the boundary to align the readings.
+[Integrating](process_integrating.md): [The Splicer](persona_the_splicer.md), holding [the integrator's seat](position_integrator.md), forces the halves together, while [The Liaison](persona_the_liaison.md) at [the coordinator's seat](position_coordinator.md), through [Coordinating](process_coordinating.md), syncs across the boundary to align the readings.
 
 ## Stage
 

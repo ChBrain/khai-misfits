@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The retuning](place_the_retuning.md), the gap read and the model pulled back to close it.
+[The retuning](place_the_retuning.md), the gap read from [the holdout](place_the_holdout.md) and the model pulled back to close it.
 Complexity is made to pay, the crank stopped short of the noise, and the training score is worsened on purpose against the hope of a lower error on the world.
 
 ## Action

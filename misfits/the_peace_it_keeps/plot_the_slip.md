@@ -30,7 +30,7 @@ A dividing cell carries a change that gives it an edge, and the layered checks t
 
 ## Stage
 
-[The Line](persona_the_line.md) takes hold from [the Upstart](position_the_upstart.md), [the gain](piece_the_gain.md) slipping [the truce](piece_the_truce.md) at a single point, no border crossed and no cell rebelling, only a hold that catches almost everything missing this.
+[The Line](persona_the_line.md), on [Take the Ground](plan_take_the_ground.md), takes hold from [the Upstart](position_the_upstart.md), [the gain](piece_the_gain.md) slipping [the truce](piece_the_truce.md) at a single point, no border crossed and no cell rebelling, only a hold that catches almost everything missing this.
 The peace stands everywhere but the one place it gave.
 
 ## Tension

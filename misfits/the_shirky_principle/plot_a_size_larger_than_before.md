@@ -26,7 +26,7 @@ A shrinking problem is a shrinking budget, so its ending is felt as a threat, no
 
 ## Action
 
-[Expanding](process_expanding.md): [The Expander](persona_the_expander.md), holding [the empire-builder's seat](position_empire_builder.md), widens the mandate, finds new instances, and redefines the threat a size larger than before.
+[Expanding](process_expanding.md), driven by [Displacing](process_displacing.md): [The Expander](persona_the_expander.md), holding [the empire-builder's seat](position_empire_builder.md), widens the mandate, finds new instances, and redefines the threat a size larger than before.
 
 ## Stage
 

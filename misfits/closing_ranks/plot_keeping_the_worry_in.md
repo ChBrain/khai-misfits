@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The whiteboard](place_the_whiteboard.md), one plan drawn on it and no counter-plan beside it.
-The room is converging, warmly and fast, and the seat with a worry is reading every face for a sign it is not alone.
+[The Huddle](place_the_huddle.md) is converging, warmly and fast, and the seat with a worry is reading every face for a sign it is not alone.
 
 ## Action
 

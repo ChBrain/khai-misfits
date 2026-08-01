@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Selecting](process_selecting.md), [The Rise](piece_the_rise.md) and [The Exposed](piece_the_exposed.md): variants deadlier than the unvaccinated world would have sustained now survive, spread, and come to dominate, so the pathogen evolves more virulent, and [The Unvaccinated](persona_the_unvaccinated.md), from [the unvaccinated's seat](position_unvaccinated.md), meets a strain more lethal than would ever have existed. The scene closes with the evolved hypervirulence borne by the unprotected, the vaccinated shielded, and no one at fault (Gandon and colleagues).
+Through [Selecting](process_selecting.md), [The Strain](persona_the_strain.md), from [the strain's seat](position_strain.md), on [Run It Hot](plan_run_it_hot.md), drives [The Rise](piece_the_rise.md) and [The Exposed](piece_the_exposed.md): variants deadlier than the unvaccinated world would have sustained now survive, spread, and come to dominate, so the pathogen evolves more virulent, and [The Unvaccinated](persona_the_unvaccinated.md), from [the unvaccinated's seat](position_unvaccinated.md), meets a strain more lethal than would ever have existed. The scene closes with the evolved hypervirulence borne by the unprotected, the vaccinated shielded, and no one at fault (Gandon and colleagues).
 
 ## Stage
 
