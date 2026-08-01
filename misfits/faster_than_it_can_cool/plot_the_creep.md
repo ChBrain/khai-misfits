@@ -25,7 +25,7 @@ On [The Rating](place_the_rating.md), the system is simply ageing: a datasheet s
 
 ## Action
 
-[Drifting](process_drifting.md) narrows the margin, owned by no persona because ageing is what happens to a system rather than what anyone does to it. A resistance rises with use, a cooling path fouls with dust, an ambient temperature climbs a few degrees across a season: each lifts [the Generation](piece_the_generation.md) curve a little or lowers [the Loss](piece_the_loss.md) line a little, and the gap that made [the Balance](piece_the_balance.md) safe closes by that much. What moves is [the Critical Point](piece_the_critical_point.md) itself, carried down toward the operating temperature the Vessel has held all along.
+[Drifting](process_drifting.md) is [the drift](piece_the_drift.md) that narrows the margin, owned by no persona because ageing is what happens to a system rather than what anyone does to it. A resistance rises with use, a cooling path fouls with dust, an ambient temperature climbs a few degrees across a season: each lifts [the Generation](piece_the_generation.md) curve a little or lowers [the Loss](piece_the_loss.md) line a little, and the gap that made [the Balance](piece_the_balance.md) safe closes by that much. What moves is [the Critical Point](piece_the_critical_point.md) itself, carried down toward the operating temperature the Vessel has held all along.
 
 ## Stage
 

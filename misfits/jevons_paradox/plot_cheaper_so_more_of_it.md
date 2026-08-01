@@ -26,7 +26,7 @@ A lower price meeting buyers free to do more and builders free to make more.
 
 ## Action
 
-[Rebounding](process_rebounding.md): [The User](persona_the_user.md), holding [the consumer's seat](position_consumer.md), travels the now-cheaper mile more often, while [The Pioneer](persona_the_pioneer.md) at [the new entrant's seat](position_new_entrant.md) finds uses that were never worth the resource before.
+[Rebounding](process_rebounding.md), fed by [cheapening](process_cheapening.md): [The User](persona_the_user.md), holding [the consumer's seat](position_consumer.md), travels the now-cheaper mile more often, while [The Pioneer](persona_the_pioneer.md) at [the new entrant's seat](position_new_entrant.md) finds uses that were never worth the resource before.
 
 ## Stage
 

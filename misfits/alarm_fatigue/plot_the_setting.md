@@ -30,7 +30,7 @@ The setter resolved that a missed danger is unforgivable, the threshold there to
 
 ## Stage
 
-[The Setter](persona_the_setter.md), having tabled [Set It Low](plan_set_it_low.md), draws the line low to catch the rare danger, weighing the cheap false cry against the dreadful miss and erring toward the warning.
+[The Setter](persona_the_setter.md), having tabled [Set It Low](plan_set_it_low.md), draws [the threshold](piece_the_threshold.md) low to catch the rare danger, weighing the cheap false cry against the dreadful miss and erring toward the warning.
 [The Alarm](persona_the_alarm.md), on [Cry Out](plan_cry_out.md), stands ready to sound the instant the low threshold trips, on the merest sign and the real emergency the same.
 
 ## Tension

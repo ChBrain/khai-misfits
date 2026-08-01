@@ -26,7 +26,7 @@ A well to be placed, one ground firm and rewarding and one grim and thirsty, and
 
 ## Action
 
-[Draining](process_draining.md) at its source: the Welldigger weighs viability and sinks where the ground gives way, the drylands failing every test that keeps a well alive.
+[Draining](process_draining.md) at its source, sharpened by [Baring](process_baring.md): the Welldigger weighs viability and sinks where the ground gives way, the drylands failing every test that keeps a well alive.
 
 ## Stage
 

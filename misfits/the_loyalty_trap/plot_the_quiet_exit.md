@@ -30,7 +30,7 @@ The body sailing on, and one worn-out member finally unable to hold.
 
 ## Stage
 
-[The Leaver](persona_the_leaver.md), on [Slip Away](plan_slip_away.md), holds on until loyalty can hold no longer, then goes gracefully, taking the reason out the door unspoken.
+[The Leaver](persona_the_leaver.md), on [Slip Away](plan_slip_away.md), holds on until loyalty can hold no longer, then makes [the exit](piece_the_exit.md) gracefully, taking the reason out the door unspoken.
 [The Cause](persona_the_cause.md), still on [Take the Quiet](plan_take_the_quiet.md), notes one more quiet resignation and, hearing no complaint even in the leaving, keeps sailing on.
 
 ## Tension

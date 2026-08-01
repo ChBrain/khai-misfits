@@ -36,4 +36,4 @@ An alarm, a disengagement, the system suddenly the operator's again, in an abnor
 ## Tension
 
 The worst case in the system meets the least ready hand, exactly as the structure arranged.
-There is no single culprit: the exception was genuinely rare, the operator genuinely trained once, the designer genuinely thorough. But the automation handed back precisely what it could not do to a human it had rusted and drifted, so the plot closes on the cold seat, the erosion of every quiet shift come due at once, and the failure poised to be called, wrongly, mere human error.
+There is no single culprit: the exception was genuinely rare, the operator genuinely trained once, the designer genuinely thorough. But the automation handed back precisely what it could not do to a human it had rusted and drifted, so the plot closes on [the cold seat](piece_the_cold_seat.md), [the unreadiness](piece_the_unreadiness.md), the erosion of every quiet shift come due at once, and the failure poised to be called, wrongly, mere human error.

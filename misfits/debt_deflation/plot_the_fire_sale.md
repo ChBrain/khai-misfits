@@ -30,7 +30,7 @@ Fields and stock and property brought to a market with few buyers and dear cash.
 
 ## Stage
 
-[The Debtor](persona_the_debtor.md), still on [Pay It Down](plan_pay_it_down.md), sells into the falling market to find the money, each sale fetching less than the last.
+[The Debtor](persona_the_debtor.md), still on [Pay It Down](plan_pay_it_down.md), makes [the distress sale](piece_the_distress_sale.md), selling into the falling market to find the money, each sale fetching less than the last.
 [The Deflation](persona_the_deflation.md), tabling [Drive Prices Down](plan_drive_prices_down.md), pushes prices lower across the board as all sell and the money contracts, making cash dear and goods cheap.
 
 ## Tension

@@ -30,7 +30,7 @@ Each enclave hardening and drifting to the edge, and every other enclave doing t
 
 ## Stage
 
-[The Chorus](persona_the_chorus.md), still on [Echo It Back](plan_echo_it_back.md), moves to the edge and calls the edge the centre, each voice echoed back louder and no dissent to check it.
+[The Chorus](persona_the_chorus.md), still on [Echo It Back](plan_echo_it_back.md), drifts into [the polarisation](piece_the_polarisation.md), moving to the edge and calling the edge the centre, each voice echoed back louder and no dissent to check it.
 [The Unheard](persona_the_unheard.md), still on [Offer the Other Side](plan_offer_the_other_side.md), is now so far from the enclave's terms that it cannot even be argued with, the common ground gone from under any disagreement.
 
 ## Tension

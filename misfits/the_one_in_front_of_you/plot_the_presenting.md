@@ -30,8 +30,8 @@ No case in view and no gift yet asked, only the frame waiting for whoever steps 
 
 ## Stage
 
-[The Named](persona_the_named.md), on [Draw the Eye](plan_draw_the_eye.md), presents a face and a story the compassion can hold, a need seeable and answerable.
-[The Giver](persona_the_giver.md), on [Answer the Named](plan_answer_the_named.md), feels for the person now in view, the compassion proportionate, real, exactly what a decent heart owes a real need.
+[The Named](persona_the_named.md), on [Draw the Eye](plan_draw_the_eye.md), presents [the face](piece_the_face.md) and a story the compassion can hold, a need seeable and answerable.
+[The Giver](persona_the_giver.md), on [Answer the Named](plan_answer_the_named.md), feels [the sympathy](piece_the_sympathy.md) for the person now in view, proportionate, real, exactly what a decent heart owes a real need.
 
 ## Tension
 

@@ -33,4 +33,4 @@ A rule that closes on prospects, tax-loss selling that reverses the effect at ye
 
 ## Tension
 
-The fix is to drop the purchase price from the decision, and dropping it means admitting the losses it was hiding.
+The fix is to drop the purchase price from the decision, and dropping it means making [the realization](piece_the_realization.md), admitting the losses it was hiding.

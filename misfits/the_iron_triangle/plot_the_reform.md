@@ -31,7 +31,7 @@ The closed domain in view, the three corners each defending it, each holding a r
 ## Stage
 
 [The Reformer](persona_the_reformer.md), on [Open the Ring](plan_open_the_ring.md), cuts across the whole circuit and drags the domain into daylight, forcing the corners to answer beyond each other.
-The three, each on its plan, close ranks: the committee, the agency, and the interest defend the ring together, each protesting, truthfully, that it is only doing its legitimate job.
+The three, each on its plan, close ranks: the committee, the agency, and the interest defend [the closed ring](piece_the_closed_ring.md) together, each protesting, truthfully, that it is only doing its legitimate job.
 
 ## Tension
 

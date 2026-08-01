@@ -30,7 +30,7 @@ The range narrowed to enclaves, and the levers of serendipity and the common squ
 
 ## Stage
 
-[The Curator](persona_the_curator.md), having tabled [Break the Bubble](plan_break_the_bubble.md), seeds the disagreeable and the unpicked into the feed and defends a square where strangers meet what they did not choose, spending comfort and attention to widen the range.
+[The Curator](persona_the_curator.md), having tabled [Break the Bubble](plan_break_the_bubble.md), seeds [the serendipity](piece_the_serendipity.md) of the disagreeable and the unpicked into the feed and defends a square where strangers meet what they did not choose, spending comfort and attention to widen the range.
 [The Reader](persona_the_reader.md), still on [Read What I Like](plan_read_what_i_like.md), clicks the friction away and drifts back toward the feed that fits, and pressed too hard only hardens against the other side.
 
 ## Tension

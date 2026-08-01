@@ -30,7 +30,7 @@ No single moment to point to, only appeal after appeal closing the same way, gif
 
 ## Stage
 
-[The Countless](persona_the_countless.md), on [Wait Unseen](plan_wait_unseen.md), stands unanswered in every appeal at once, the shortfall compounding where no single giver can see it.
+[The Countless](persona_the_countless.md), on [Wait Unseen](plan_wait_unseen.md), stands unanswered in every appeal at once, [the shortfall](piece_the_shortfall.md) compounding where no single giver can see it.
 [The Giver](persona_the_giver.md), on [Answer the Named](plan_answer_the_named.md), across a thousand separate appeals, each time answers the one face shown to them, each choice sound on its own, and the sum of the sound choices is the field left short.
 
 ## Tension

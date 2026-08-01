@@ -26,12 +26,12 @@ A hundred small choices a day about how careful to be, each now priced different
 
 ## Action
 
-[Slackening](process_slackening.md): [The Covered](persona_the_covered.md), holding [the policyholder's seat](position_policyholder.md), eases a notch of precaution, reasonably, while [The Watcher](persona_the_watcher.md) at [the monitor's seat](position_monitor.md) inspects and finds the file in order.
+[Slackening](process_slackening.md): [The Covered](persona_the_covered.md), holding [the policyholder's seat](position_policyholder.md), eases a notch of precaution, reasonably, while [The Watcher](persona_the_watcher.md) at [the monitor's seat](position_monitor.md), through [Monitoring](process_monitoring.md), inspects and finds the file in order.
 
 ## Stage
 
 [The Covered](persona_the_covered.md) tables [Ease the Care](plan_ease_the_care.md): spend on caution only what caution still returns, so [the free downside](piece_the_free_downside.md) makes the skipped guard cost nothing they hold, and [the slipped care](piece_the_slipped_care.md) settles a notch lower.
-[The hidden hand](piece_the_hidden_hand.md) keeps the ease out of the watcher's reach: the outcome is fine today, the record is clean, and the effort left no receipt.
+[The Watcher](persona_the_watcher.md) tables [Watch the Hands](plan_watch_the_hands.md): audit the record and close the gap the cover opened, but [the hidden hand](piece_the_hidden_hand.md) keeps the ease out of reach, the outcome fine today, the record clean, and the effort left no receipt.
 
 ## Tension
 

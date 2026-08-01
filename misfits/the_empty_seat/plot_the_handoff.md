@@ -30,8 +30,8 @@ The Aid doing the work well, right almost every time, the operator learning that
 
 ## Stage
 
-[The Aid](persona_the_aid.md), on [Give the Answer](plan_give_the_answer.md), does the work and delivers its recommendation plainly, right time after time.
-[The Operator](persona_the_operator.md), on [Follow the Aid](plan_follow_the_aid.md), finds that overriding is usually wrong and re-checking is wasted, and learns, correctly, to defer.
+[The Aid](persona_the_aid.md), on [Give the Answer](plan_give_the_answer.md), does the work and delivers [the prompt](piece_the_prompt.md) plainly, right time after time.
+[The Operator](persona_the_operator.md), on [Follow the Aid](plan_follow_the_aid.md), finds that overriding is usually wrong and re-checking is wasted, and learns, correctly, to defer to [the reliability](piece_the_reliability.md).
 
 ## Tension
 

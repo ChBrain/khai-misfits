@@ -30,7 +30,7 @@ The responder stretched too thin to chase every shriek and reading the base rate
 
 ## Stage
 
-[The Responder](persona_the_responder.md), having tabled [Tune It Out](plan_tune_it_out.md), silences and disables and works through the flood, treating each cry as near certainly nothing so it can stay any use at all.
+[The Responder](persona_the_responder.md), having tabled [Tune It Out](plan_tune_it_out.md), silences and disables and works through the flood, treating each cry as near certainly nothing, [the numbness](piece_the_numbness.md) setting in so it can stay any use at all.
 [The Alarm](persona_the_alarm.md), still on [Cry Out](plan_cry_out.md), sounds on faithfully, its every cry now landing on a responder taught by a hundred false ones to doubt them all.
 
 ## Tension

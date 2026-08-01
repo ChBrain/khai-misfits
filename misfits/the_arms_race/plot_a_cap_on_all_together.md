@@ -30,7 +30,7 @@ The waste plain to everyone, and one move on offer that could end it at no one's
 
 ## Stage
 
-[The Broker](persona_the_broker.md), having tabled [Call the Truce](plan_call_the_truce.md), binds every contender to the same limit, lifting the cost from all at once and leaving the standings untouched.
+[The Broker](persona_the_broker.md), having tabled [Call the Truce](plan_call_the_truce.md), binds every contender to [the truce](piece_the_truce.md), one limit laid on all, lifting the cost from all at once and leaving the standings untouched.
 [The Contender](persona_the_contender.md), still on [Get Ahead](plan_get_ahead.md), and [The Rival](persona_the_rival.md), on [Keep Pace](plan_keep_pace.md), each weigh the peace against the gain a quiet defection would buy, and the cap holds only as far as neither takes it.
 
 ## Tension

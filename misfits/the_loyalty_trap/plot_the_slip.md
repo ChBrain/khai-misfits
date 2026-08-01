@@ -30,7 +30,7 @@ The quality dropping, the direction wandering, something going wrong beneath a c
 
 ## Stage
 
-[The Cause](persona_the_cause.md), on [Take the Quiet](plan_take_the_quiet.md), slips without alarm, its surface stable and its rooms calm as the trouble sets in.
+[The Cause](persona_the_cause.md), on [Take the Quiet](plan_take_the_quiet.md), slips into [the decline](piece_the_decline.md) without alarm, its surface stable and its rooms calm as the trouble sets in.
 [The Faithful](persona_the_faithful.md), who would never abandon it, notice the decline and face the choice of how a loyal member answers a body they love going wrong.
 
 ## Tension

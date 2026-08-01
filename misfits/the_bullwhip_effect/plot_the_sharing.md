@@ -30,7 +30,7 @@ A push to let every stage see the shopper, not just the link below.
 
 ## Stage
 
-[The Sharer](persona_the_sharer.md), having tabled [Open the Books](plan_open_the_books.md), puts the shopper's real sales before every stage and shortens the lags, draining the distortion the chain fed on itself.
+[The Sharer](persona_the_sharer.md), having tabled [Open the Books](plan_open_the_books.md), puts [the open book](piece_the_open_book.md) of the shopper's real sales before every stage and shortens the lags, draining the distortion the chain fed on itself.
 [The Factory](persona_the_factory.md), leaving [Chase the Swing](plan_chase_the_swing.md) for the shared signal, steadies to the true demand, and [The Shopper](persona_the_shopper.md)'s calm wobble is at last the thing the whole line reads.
 
 ## Tension

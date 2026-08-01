@@ -35,5 +35,5 @@ A vantage a little outside the field, the two demands visible at once, the accus
 
 ## Tension
 
-Naming the bind is the one move that frees the bound one, and it breaks the very injunction the bind is sealed with.
+Naming [the bind](piece_the_bind.md) is the one move that frees the bound one, and it breaks the very injunction the bind is sealed with.
 There is nothing to fault: the contradiction is real and the namer only speaks it. But the rule forbids the speaking and the bond forbids the leaving, so the plot closes one of two ways: the bind is named and the trap comes apart, bought against the accusation and the risk to the bond ... or the naming is met with "how dare you," the peace is kept, and the bound one turns back to answer the next impossible message.

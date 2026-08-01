@@ -31,7 +31,7 @@ The common now part synthetic, and a fresh model to train on whatever is abundan
 ## Stage
 
 [The Trainer](persona_the_trainer.md), still on [Train on What's There](plan_train_on_whats_there.md), draws the abundant cheap data for the next build, sensibly, unable to tell how much is already model output.
-[The Pool](persona_the_pool.md), still on [Take It All In](plan_take_it_all_in.md), offers its water as one undifferentiated ocean, richer in echo and poorer in the tails than the last draught.
+[The Pool](persona_the_pool.md), still on [Take It All In](plan_take_it_all_in.md), offers its water as one undifferentiated ocean, richer in [the echo](piece_the_echo.md) and poorer in the tails than the last draught.
 
 ## Tension
 

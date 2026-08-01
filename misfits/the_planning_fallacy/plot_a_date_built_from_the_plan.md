@@ -30,8 +30,8 @@ The plan drawn clean along the run where the work goes well, and the sum of it b
 
 ## Stage
 
-[The Planner](persona_the_planner.md), having tabled [Plan the Work](plan_plan_the_work.md), sums the parts along the smooth run and reads the care taken as reason to trust the date.
-[The Sponsor](persona_the_sponsor.md) tables [Set the Date](plan_set_the_date.md), rewards the low estimate, and presses the promise toward the number that clears the gate.
+[The Planner](persona_the_planner.md), having tabled [Plan the Work](plan_plan_the_work.md), sums the parts of [the plan](piece_the_plan.md) along the smooth run and reads the care taken as reason to trust the date.
+[The Sponsor](persona_the_sponsor.md) tables [Set the Date](plan_set_the_date.md), rewards [the estimate](piece_the_estimate.md) for coming in low, and presses the promise toward the number that clears the gate.
 
 ## Tension
 

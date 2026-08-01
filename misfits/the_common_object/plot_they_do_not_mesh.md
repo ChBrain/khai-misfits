@@ -36,4 +36,4 @@ The several [readings](piece_the_reading.md) meet, [the semblance](piece_the_sem
 ## Tension
 
 The divergence was invisible until the work was joined, and the join is what reveals it, too late to be cheap.
-There is nothing to fault: the join was competent and the pieces were built faithfully. But the object looked shared and the work was done apart, so the plot closes with the misfit surfacing at the seam, the shared object's several meanings meeting in finished work, no one having misused it.
+There is nothing to fault: the join was competent and the pieces were built faithfully. But the object looked shared and the work was done apart, so the plot closes with [the divide](piece_the_divide.md) surfacing at the seam, the shared object's several meanings meeting in finished work, no one having misused it.

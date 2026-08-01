@@ -31,9 +31,9 @@ A new manager who would welcome the initiative, a lever that now works, an escap
 ## Stage
 
 [The Subject](persona_the_subject.md), on [Stop Trying](plan_stop_trying.md), meets a way out that is genuinely open and does not reach for it, because the expectation that nothing it does matters does not know the door has opened.
-The one act that would reveal the returned control is the act the expectation forbids, so the escape stands available and untaken, the lever live and treated as dead.
+The one act that would reveal the returned control is the act the expectation forbids, so the escape stands available and untaken, [the dead lever](piece_the_dead_lever.md), live and treated as dead.
 
 ## Tension
 
 Not testing a control you are certain is absent is the faithful memory of a time it was, and the faithfulness is what keeps the door shut.
-There is nothing to fault: the expectation was true when it formed. But it has outlived its cause, so the plot closes with the way out open and unwalked, the Subject confined by a lesson kept past its expiry, the cage no longer locked and the animal that will not step through it not stubborn but taught.
+There is nothing to fault: the expectation was true when it formed. But it has outlived its cause, so the plot closes with the way out open and unwalked, the Subject confined by [the old lesson](piece_the_old_lesson.md), kept past its expiry, the cage no longer locked and the animal that will not step through it not stubborn but taught.

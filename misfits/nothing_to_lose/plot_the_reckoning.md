@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The Scene](place_the_scene.md), the harm lands and runs past the assets.
-The Victim bearing the harm and bringing the whole of it against the actor.
+[The Victim](persona_the_victim.md) bearing the harm and bringing the whole of it against the actor.
 
 ## Action
 
@@ -30,7 +30,7 @@ The Victim bearing the harm and bringing the whole of it against the actor.
 
 ## Stage
 
-The harm at [the scene](place_the_scene.md) exceeds [the assets](piece_the_assets.md); the victim, on [Sue for the Harm](plan_sue_for_the_harm.md), wins [the judgment](piece_the_judgment.md) whole; the court, on [Award the Damages](plan_award_the_damages.md), imposes it in full; and enforcement runs to [the balance sheet](place_the_balance_sheet.md) and stops at the ceiling, [the excess](piece_the_excess.md) standing as a number no one will pay.
+The harm at [the scene](place_the_scene.md) exceeds [the assets](piece_the_assets.md); the victim, on [Sue for the Harm](plan_sue_for_the_harm.md), wins [the judgment](piece_the_judgment.md) whole; [the Court](persona_the_court.md), on [Award the Damages](plan_award_the_damages.md), imposes it in full; and enforcement runs to [the balance sheet](place_the_balance_sheet.md) and stops at the ceiling, [the excess](piece_the_excess.md) standing as a number no one will pay.
 The victim of the excess is uncompensated, the actor under-deterred, and no one has lied.
 
 ## Tension

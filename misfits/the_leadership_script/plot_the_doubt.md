@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The Close Read](place_the_close_read.md), and someone unwilling to fill the chair on the sound alone.
-The Reader setting out to judge the work the register let the panel skip, and to hear the plain hand the ear had filed as staff.
+The Reader setting out to judge the work done at [the Floor](place_the_floor.md) that the register let the panel skip, and to hear the plain hand the ear had filed as staff.
 
 ## Action
 

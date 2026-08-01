@@ -36,4 +36,4 @@ The cure spends the very closeness that made the agency expert, so oversight gro
 ## Tension
 
 The one fix that frees the agency is the one that hobbles it.
-Every wall against the industry is also a wall against the industry's data, cooperation, and competence, so the reformer buys the public's voice with the agency's ease, and the distance holds ... or one sharp flare proves the agency now too slow and too blind, the firewall is judged a hobble and torn down, and the room fills with the industry once more.
+Every wall against the industry is also a wall against the industry's data, cooperation, and competence, so the reformer buys the public's voice with the agency's ease, and the distance holds ... or one sharp flare proves the agency now too slow and too blind, the firewall is judged a hobble and torn down, and [the served industry](piece_the_served_industry.md) fills the room once more.

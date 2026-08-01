@@ -26,7 +26,7 @@ Quarters on, the true value comes in below the price paid, and the writedown has
 
 ## Action
 
-[Realizing](process_realizing.md): [The Board](persona_the_board.md), holding [the principal's seat](position_principal.md), books the loss, while [The Underbidder](persona_the_underbidder.md) at [the underbidder's seat](position_underbidder.md) turns out to have been spared.
+[Realizing](process_realizing.md): [The Board](persona_the_board.md), holding [the principal's seat](position_principal.md), books the loss and opens the [Reckoning](process_reckoning.md) of whether it is the first, while [The Underbidder](persona_the_underbidder.md) at [the underbidder's seat](position_underbidder.md) turns out to have been spared.
 
 ## Stage
 

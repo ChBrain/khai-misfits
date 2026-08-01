@@ -30,7 +30,7 @@ The mandate loud, the salient danger on everyone's lips, the dull great one unst
 
 ## Stage
 
-[The Regulator](persona_the_regulator.md), on [Answer the Alarm](plan_answer_the_alarm.md), meets the loud fear with a visible response and fences the salient small risk round, faithfully spending the guard where the alarm is.
+[The Regulator](persona_the_regulator.md), on [Answer the Alarm](plan_answer_the_alarm.md), makes [the overreach](piece_the_overreach.md), meeting the loud fear with a visible response and fences the salient small risk round, faithfully spending the guard where the alarm is.
 The great dull danger, drawing no headline and no fear, waits unattended, its true magnitude the cold number no one in the room can hear.
 
 ## Tension

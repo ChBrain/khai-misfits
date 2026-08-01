@@ -31,7 +31,7 @@ The Sender about to say the sentence, feeling their meaning too plain to need sp
 ## Stage
 
 [The Sender](persona_the_sender.md), on [Say It Once](plan_say_it_once.md), names their meaning in [the form of words](piece_the_form_of_words.md) and sends it, feeling it plain enough to arrive as sent.
-The words go out and the blank they leave opens, unseen by the sender, whose meaning is so vivid to them they cannot picture it landing as anything else.
+The words go out and [the blank](piece_the_blank.md) they leave opens, unseen by the sender, whose meaning is so vivid to them they cannot picture it landing as anything else.
 
 ## Tension
 

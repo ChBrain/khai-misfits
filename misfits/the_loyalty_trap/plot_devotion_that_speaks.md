@@ -30,7 +30,7 @@ The faults plain and the silence long, and a devotion ready to spend itself on t
 
 ## Stage
 
-[The Dissenter](persona_the_dissenter.md), having tabled [Speak Up](plan_speak_up.md), names the fault the faithful are keeping quiet and backs it with an exit-threat it would truly act on, making loyalty mean the loyal opposition.
+[The Dissenter](persona_the_dissenter.md), having tabled [Speak Up](plan_speak_up.md), names the fault the faithful are keeping quiet and backs it with an exit-threat it would truly act on, making loyalty mean [the loyal opposition](piece_the_loyal_opposition.md).
 [The Cause](persona_the_cause.md), still on [Take the Quiet](plan_take_the_quiet.md), hears the dissent as betrayal at first, its instinct reading the one raised voice as the one disloyal member.
 
 ## Tension

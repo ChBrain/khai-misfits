@@ -30,7 +30,7 @@ Each vanished true case replaced by a recategorised mild one, the count refusing
 
 ## Stage
 
-[The Seeker](persona_the_seeker.md), on [Root It Out](plan_root_it_out.md), takes the level tally as proof the danger stands and presses the work into ever milder ground, not letting up.
+[The Seeker](persona_the_seeker.md), on [Root It Out](plan_root_it_out.md), takes [the mirage](piece_the_mirage.md) as proof the danger stands and presses the work into ever milder ground, not letting up.
 [The Assessor](persona_the_assessor.md), still on [Judge by the Light](plan_judge_by_the_light.md), keeps flagging the thing at the drifted line, so the count the seeker trusts never falls.
 
 ## Tension

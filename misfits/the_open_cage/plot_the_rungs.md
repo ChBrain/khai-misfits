@@ -30,7 +30,7 @@ The passivity settled, the Judge's verdict standing, and a step there to be made
 
 ## Stage
 
-[The Coach](persona_the_coach.md), on [Show It Works](plan_show_it_works.md), sets a step small enough that the Subject sees their effort land, credits the passivity to its cause, and repeats the win rung by rung until the expectation begins to give.
+[The Coach](persona_the_coach.md), on [Show It Works](plan_show_it_works.md), sets a step small enough that the Subject sees their effort land, credits the passivity to its cause, and repeats the win rung by rung, building [the immunity](piece_the_immunity.md), until the expectation begins to give.
 [The Judge](persona_the_judge.md), on [Call It Character](plan_call_it_character.md), calls the demonstration coddling, so the freeing move must be carried against both the Subject's certainty and the verdict of laziness.
 
 ## Tension

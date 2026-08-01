@@ -31,7 +31,7 @@ The true reading rising, honest and unremarkable-looking, in a channel already s
 ## Stage
 
 [The Wolf](persona_the_wolf.md), on [Slip Through](plan_slip_through.md), arrives rarely and truly and sets off the alarm in the very voice worn out on nothing.
-[The Responder](persona_the_responder.md), still on [Tune It Out](plan_tune_it_out.md), meets the true cry with the trained doubt the flood taught, and silences the one that mattered with the rest.
+[The Responder](persona_the_responder.md), still on [Tune It Out](plan_tune_it_out.md), meets the true cry with the trained doubt the flood taught, [the deafening](piece_the_deafening.md) complete, and silences [the miss](piece_the_miss.md) with the rest.
 
 ## Tension
 

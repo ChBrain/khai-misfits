@@ -31,7 +31,7 @@ Homes and meals and services bid up, domestic costs and wages climbing, the curr
 ## Stage
 
 [The Mover](persona_the_mover.md), still on [Follow the Boom](plan_follow_the_boom.md), spends the windfall on goods that cannot be imported, so their prices and the wages behind them rise.
-[The Factory](persona_the_factory.md), on [Meet the World Price](plan_meet_the_world_price.md), sees the real exchange rate strengthen against it, its costs rising while the price it sells at abroad holds flat.
+[The Factory](persona_the_factory.md), on [Meet the World Price](plan_meet_the_world_price.md), meets [the strong rate](piece_the_strong_rate.md), the real exchange rate strengthened against it, its costs rising while the price it sells at abroad holds flat.
 
 ## Tension
 

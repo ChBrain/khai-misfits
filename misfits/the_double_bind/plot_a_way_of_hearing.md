@@ -31,7 +31,7 @@ The bind sprung and sealed many times, the bound one worn by the repetition, the
 ## Stage
 
 [The Bound](persona_the_bound.md), on [Please Them Both](plan_please_them_both.md), meets the double message so often that they cease to expect a message to mean one thing, and begin to read every warmth for the flinch inside it.
-The bind, repeated, sets into perception, so that a fragment of the message, or none, is now enough to spring it, and the trap no longer needs its full apparatus to run.
+The bind, repeated, sets into [the pattern](piece_the_pattern.md), so that a fragment of the message, or none, is now enough to spring it, and the trap no longer needs its full apparatus to run.
 
 ## Tension
 

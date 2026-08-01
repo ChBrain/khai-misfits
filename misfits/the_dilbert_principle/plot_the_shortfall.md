@@ -30,7 +30,7 @@ The Duffer trying in good faith and falling short, the damage plain, the manager
 
 ## Stage
 
-[The Duffer](persona_the_duffer.md), on [Muddle Through](plan_muddle_through.md), gives its best to a seat that asks more than it holds, and the output suffers for it, blamelessly.
+[The Duffer](persona_the_duffer.md), on [Muddle Through](plan_muddle_through.md), gives its best to a seat that asks more than it holds, and [the poor work](piece_the_poor_work.md) shows for it, blamelessly.
 [The Boss](persona_the_boss.md), weighing what to do, sees a worker who plainly cannot manage the seat and just as plainly means no harm, and faces the choice of how to move it.
 
 ## Tension

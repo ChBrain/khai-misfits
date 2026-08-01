@@ -30,7 +30,7 @@ The flood laid out in numbers, the thresholds up for reconsideration, and the na
 
 ## Stage
 
-[The Tuner](persona_the_tuner.md), having tabled [Tune the Alarms](plan_tune_the_alarms.md), raises the line and prioritises the deadly so the few real cries can stand out, owning the miss the higher threshold concedes.
+[The Tuner](persona_the_tuner.md), having tabled [Tune the Alarms](plan_tune_the_alarms.md), makes [the retune](piece_the_retune.md), raising the line and prioritising the deadly so the few real cries can stand out, owning the miss the higher threshold concedes.
 [The Setter](persona_the_setter.md), still on [Set It Low](plan_set_it_low.md), hears in every raised notch a danger let through, and the fear that set the alarm low reaches again for the dial.
 
 ## Tension

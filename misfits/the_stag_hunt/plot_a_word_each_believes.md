@@ -30,8 +30,8 @@ Someone moving to settle the doubt directly, since the stag was lost to it and n
 
 ## Stage
 
-[The Voucher](persona_the_voucher.md), having tabled [Give the Word](plan_give_the_word.md), builds the confidence the payoffs could not, a pledge shown by taking the line first and in sight of all.
-[The Hunter](persona_the_hunter.md), back on [Go for the Stag](plan_go_for_the_stag.md), holds its place because it believes the others will, and the stag comes within reach of a party assured enough to keep faith.
+[The Voucher](persona_the_voucher.md), having tabled [Give the Word](plan_give_the_word.md), builds [the assurance](piece_the_assurance.md) the payoffs could not, a pledge shown by taking the line first and in sight of all.
+[The Hunter](persona_the_hunter.md), back on [Go for the Stag](plan_go_for_the_stag.md), holds its place because it believes the others will, and [the undared stag](piece_the_undared_stag.md) comes within reach of a party assured enough to keep faith.
 
 ## Tension
 

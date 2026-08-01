@@ -30,7 +30,7 @@ A chaser weighing the forfeit against a raise, and a leader resting on the top b
 
 ## Stage
 
-[The Chaser](persona_the_chaser.md), from [the the chase's seat](position_the_chase.md), on [Bid to Escape](plan_bid_to_escape.md), raises [the bid](piece_the_bid.md) just past the leader to escape [the forfeit](piece_the_forfeit.md), and by raising becomes the leader, handing the other the same reason to bid.
+[The Chaser](persona_the_chaser.md), from [the the chase's seat](position_the_chase.md), on [Bid to Escape](plan_bid_to_escape.md), raises [the bid](piece_the_bid.md) just past the leader to escape [the forfeit](piece_the_forfeit.md), and by raising becomes [the Leader](persona_the_leader.md), taking [the lead's seat](position_the_lead.md) and tabling [Hold the Prize](plan_hold_the_prize.md) to rest there until the other quits, handing the other the same reason to bid.
 The choice is forward-looking and correct, the lesser loss taken over the greater, and it makes the other second with the identical sound move to make.
 
 ## Tension

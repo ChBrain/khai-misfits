@@ -31,7 +31,7 @@ The tails gone first, the variance thinning, the water flatter with every turn.
 ## Stage
 
 [The Model](persona_the_model.md), still on [Generate the Likely](plan_generate_the_likely.md), reproduces a world already narrowed and drops a little more, generation after generation.
-[The Pool](persona_the_pool.md), still on [Take It All In](plan_take_it_all_in.md), feeds each thinner corpus to the next model, so the loss compounds, the rare gone first, then the variance, then the shape.
+[The Pool](persona_the_pool.md), still on [Take It All In](plan_take_it_all_in.md), feeds each thinner corpus to the next model, so the loss compounds, [the tail](piece_the_tail.md) gone first, then the variance, then the shape.
 
 ## Tension
 

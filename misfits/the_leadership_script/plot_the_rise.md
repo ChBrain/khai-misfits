@@ -30,7 +30,7 @@ The Panel weighing a sound it can read against a substance it cannot, the hour r
 
 ## Stage
 
-[The Panel](persona_the_panel.md), on [Hear the Leader](plan_hear_the_leader.md), awards [the ladder](piece_the_ladder.md) to [the fluent](persona_the_fluent.md), and [the plain hand](persona_the_plain_hand.md), on [Do the Work](plan_do_the_work.md), is thanked and kept where the doing is needed.
+[The Panel](persona_the_panel.md), on [Hear the Leader](plan_hear_the_leader.md), spends [the currency](piece_the_currency.md) and awards [the ladder](piece_the_ladder.md) to [the fluent](persona_the_fluent.md), and [the plain hand](persona_the_plain_hand.md), on [Do the Work](plan_do_the_work.md), is thanked and kept where the doing is needed.
 The register reads in an hour and the work takes a month, so the panel selects the sound under real constraint, and by selecting it makes the fluent the risen and the register more the mark.
 
 ## Tension

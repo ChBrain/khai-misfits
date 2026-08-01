@@ -31,7 +31,7 @@ The new line falling exactly where the old ones did, the gap the same as last ti
 ## Stage
 
 [The Record](persona_the_record.md), having tabled [Show the Record](plan_show_the_record.md), delivers the verdict its base rate held all along: the shortfall is no fluke but the distribution, arriving on schedule.
-[The Planner](persona_the_planner.md), still on [Plan the Work](plan_plan_the_work.md), sees the estimate it thought special land precisely where the average said it would, and [The Sponsor](persona_the_sponsor.md) counts the cost of the number it chose.
+[The Planner](persona_the_planner.md), still on [Plan the Work](plan_plan_the_work.md), sees [the promise](piece_the_promise.md) it thought special land precisely where the average said it would, and [The Sponsor](persona_the_sponsor.md) counts the cost of the number it chose.
 
 ## Tension
 

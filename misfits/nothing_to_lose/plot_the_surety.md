@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The Escrow](place_the_escrow.md), someone would set the ceiling by hand before the harm.
-The Bonder moving to require a stake up front so the actor holds worth up to what it can destroy.
+[The Bonder](persona_the_bonder.md) moving to require a stake up front so the actor holds worth up to what it can destroy.
 
 ## Action
 

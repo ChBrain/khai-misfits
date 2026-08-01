@@ -29,7 +29,7 @@ Through [Construing](process_construing.md), [The Convinced](persona_the_convinc
 
 ## Stage
 
-The lens does its work unnoticed: each reads through interest, history, and expectation, and the reading arrives feeling like perception and not interpretation, so neither experiences its account as a construal at all, only as the facts.
+The lens does its work unnoticed: each reads through interest, history, and expectation, and the reading arrives feeling like perception and not interpretation, so neither experiences its account as [a construal](piece_the_construal.md) at all, only as the facts.
 
 ## Tension
 

@@ -31,7 +31,7 @@ The true cases common, the eye calibrated to them, each new case read in the lig
 ## Stage
 
 [The Assessor](persona_the_assessor.md), on [Judge by the Light](plan_judge_by_the_light.md), weighs each case against the recent run, flags the thing where it sees it and lets the fine case pass.
-The line of the concept sits where the common true cases put it, and the eye is sure that line is fixed.
+[The line](piece_the_line.md) of the concept sits where the common true cases put it, and the eye is sure that line is fixed.
 
 ## Tension
 

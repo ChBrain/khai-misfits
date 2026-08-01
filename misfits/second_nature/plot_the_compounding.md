@@ -30,7 +30,7 @@ The knower growing more expert, the steps once conscious now automatic, the gap 
 
 ## Stage
 
-[The Knower](persona_the_knower.md), on [Spell It Out](plan_spell_it_out.md), masters the subject further, and each thing that goes to reflex is a thing they no longer think to say and can no longer feel themselves assuming.
+[The Knower](persona_the_knower.md), on [Spell It Out](plan_spell_it_out.md), masters [the knowledge](piece_the_knowledge.md) further, and each thing that goes to reflex is a thing they no longer think to say and can no longer feel themselves assuming.
 So the more they know, the more the account compresses and the wider the gap it must cross, and the less of that gap they can perceive, until the ablest at the thing is the least able to hand it on.
 
 ## Tension

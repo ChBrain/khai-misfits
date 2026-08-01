@@ -31,7 +31,7 @@ The three corners astride the committee's gate, the agency's implementation, and
 ## Stage
 
 The three, coordinating quietly at [the back channel](place_the_back_channel.md), align tightly enough to move as one and to keep any fourth party from getting between them.
-Each defends the ring that feeds it, so the domain is governed from the inside and every entrance held, the closure braced by three separate interests all pointing at keeping the outside out.
+Each defends the ring that feeds it, so the domain is governed from the inside and every entrance held, [the seal](piece_the_seal.md) braced by three separate interests all pointing at keeping the outside out.
 
 ## Tension
 

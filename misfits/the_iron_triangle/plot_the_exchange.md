@@ -30,7 +30,7 @@ The lobby with its support, the committee with its law and budget, the agency wi
 
 ## Stage
 
-[The Lobbyist](persona_the_lobbyist.md), on [Work the Inside](plan_work_the_inside.md), supplies the committee with support and the agency with clientele; [The Chairman](persona_the_chairman.md), on [Deliver for the District](plan_deliver_for_the_district.md), supplies the agency with budget and the lobby with law; [The Administrator](persona_the_administrator.md), on [Guard the Program](plan_guard_the_program.md), supplies the lobby with favour and the committee with benefits.
+[The Lobbyist](persona_the_lobbyist.md), on [Work the Inside](plan_work_the_inside.md), supplies the committee with [the support](piece_the_support.md) and the agency with clientele; [The Chairman](persona_the_chairman.md), on [Deliver for the District](plan_deliver_for_the_district.md), supplies the agency with [the budget](piece_the_budget.md) and the lobby with law; [The Administrator](persona_the_administrator.md), on [Guard the Program](plan_guard_the_program.md), supplies the lobby with [the favour](piece_the_favour.md) and the committee with benefits.
 Each gives the two it needs to keep supplying it, so the three trades close into a ring in which every corner both gives and receives.
 
 ## Tension

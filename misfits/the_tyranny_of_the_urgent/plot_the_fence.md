@@ -36,4 +36,4 @@ The calendar allotted ahead, a block there to be held for the deadline-less work
 ## Tension
 
 Guarding the hour for the important is the one move that reaches it, and it means letting an urgent thing slip and pay its present cost.
-There is nothing to fault: the important will never be done unless its time is guarded, and the steward only guards it. But the fenced hour has no deadline to drive it and no closure to reward it, so the plot closes one of two ways: the block holds and the important is done, bought against the urgent let slip ... or the pressing tasks reclaim the hour, the loop closes today once more, and the important waits another day.
+There is nothing to fault: the important will never be done unless its time is guarded, and the steward only guards it. But the fenced hour has no deadline to drive it and no closure to reward it, so the plot closes one of two ways: the block holds and the important is done, bought against the urgent let slip ... or the pressing tasks reclaim the hour, the loop closes today once more, and [the deferred](piece_the_deferred.md) claims the important another day.

@@ -26,7 +26,7 @@ A market loudly rewarding whoever can grow, the signal to plant big as clear and
 
 ## Action
 
-[Reading](process_reading.md): the Grower takes the high price as the guide and commits a large crop to match it.
+[Reading](process_reading.md): the Grower takes the high price as the guide and [commits](process_committing.md) a large crop to match it.
 
 ## Stage
 

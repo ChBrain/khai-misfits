@@ -36,4 +36,4 @@ The stag's worth hanging on all holding, and no way to be sure the rest will.
 ## Tension
 
 Nothing has broken, and the prize is already unsafe.
-There is no bad faith here: both hunters still prefer the stag, and neither has moved. But the stag's value rests on a trust neither can confirm, and each sees in the other the same uncertainty it feels, so the doubt loads entirely onto the better prize and leaves the sure hare untouched, and the plot closes with the line still whole and the safe hare, to every hunter, beginning to look like the wise move.
+There is no bad faith here: both hunters still prefer the stag, and neither has moved. But the stag's value rests on a trust neither can confirm, and each sees in the other the same uncertainty it feels, so [the doubt](piece_the_doubt.md) loads entirely onto the better prize and leaves the sure hare untouched, and the plot closes with the line still whole and the safe hare, to every hunter, beginning to look like the wise move.

@@ -31,7 +31,7 @@ The spend sitting at its height, and one player deciding to hold there while the
 ## Stage
 
 [The Holdout](persona_the_holdout.md), having tabled [Sit It Out](plan_sit_it_out.md), declines the next round and waits for the field to see sense and level with it.
-[The Rival](persona_the_rival.md), still on [Keep Pace](plan_keep_pace.md), does not follow but passes, so the holdout does not bring the line level, it simply drops, and the others read the lesson.
+[The Rival](persona_the_rival.md), still on [Keep Pace](plan_keep_pace.md), does not follow but passes, so the holdout does not bring the line level, it simply drops against [the ratchet](piece_the_ratchet.md), and the others read the lesson.
 
 ## Tension
 

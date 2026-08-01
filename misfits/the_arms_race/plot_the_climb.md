@@ -30,8 +30,8 @@ The others holding steady for the moment, so the spend, made alone, truly lifts 
 
 ## Stage
 
-[The Contender](persona_the_contender.md), having tabled [Get Ahead](plan_get_ahead.md), puts in more and takes the place the spend buys, reading the gain as proof the move works.
-[The Standing](persona_the_standing.md), on [Ration the Rank](plan_ration_the_rank.md), grants the rung only by drawing it from someone else's standing, and readies to grant it back the moment the field answers.
+[The Contender](persona_the_contender.md), having tabled [Get Ahead](plan_get_ahead.md), makes [the escalation](piece_the_escalation.md), putting in more and taking the place the spend buys, reading the gain as proof the move works.
+[The Standing](persona_the_standing.md), on [Ration the Rank](plan_ration_the_rank.md), grants [the rank](piece_the_rank.md) only by drawing the rung from someone else's standing, and readies to grant it back the moment the field answers.
 
 ## Tension
 

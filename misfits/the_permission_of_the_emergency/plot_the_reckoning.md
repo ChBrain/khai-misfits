@@ -30,7 +30,7 @@ Every crisis is entered on arrival, and the ordinary hour never earns a line.
 
 ## Stage
 
-[The Held](persona_the_held.md), on [Wait for Leave](plan_wait_for_leave.md), waits out one more week, one more year, for a leave that ordinary rest was never built to carry.
+[The Held](persona_the_held.md), on [Wait for Leave](plan_wait_for_leave.md), waits out one more week, one more year, for [the licence](piece_the_licence.md) that ordinary rest was never built to carry.
 The rare bath taken arrives already as [the Spoiled Bath](piece_the_spoiled_bath.md), the sense of waste rising before the water cools, and [the Refill](piece_the_refill.md) that only a crisis reliably grants comes too seldom to count against [the Undrawn](piece_the_undrawn.md) hours stacking underneath.
 
 ## Tension

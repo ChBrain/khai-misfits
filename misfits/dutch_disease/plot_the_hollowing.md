@@ -36,4 +36,4 @@ Order books thinning, workers leaving for the fields, the margin gone.
 ## Tension
 
 A competitive sector is dismantled having done nothing wrong.
-There is no villain still: the world sets the price, the boom sets the wage, and the factory is simply caught between them. But it cannot pass the appreciation on, so the plot closes with the traded base hollowed out, its learning and export capacity gone where the resource cannot rebuild them, the future traded for a finite windfall.
+There is no villain still: the world sets the price, the boom sets the wage, and the factory is simply caught between them. But it cannot pass the appreciation on, so the plot closes with [the lost trade](piece_the_lost_trade.md), the traded base hollowed out, its learning and export capacity gone where the resource cannot rebuild them, the future traded for a finite windfall.

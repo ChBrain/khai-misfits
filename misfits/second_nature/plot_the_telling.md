@@ -31,7 +31,7 @@ The subject mastered, the steps gone to reflex, the shorthand gone transparent, 
 ## Stage
 
 [The Knower](persona_the_knower.md), on [Spell It Out](plan_spell_it_out.md), sets out the thing as they understand it, judging the account clear by how plain it feels, and it feels plain, because they know.
-The steps now reflex are skipped and the terms now transparent are spoken, honestly and in good faith, and the account is pitched to a mind that already half-knows.
+[The shorthand](piece_the_shorthand.md) does the telling: the steps now reflex are skipped and the terms now transparent are spoken, honestly and in good faith, and the account is pitched to a mind that already half-knows.
 
 ## Tension
 

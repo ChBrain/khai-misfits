@@ -30,7 +30,7 @@ The honest tools at hand, the hard conversation and the managed exit and the ris
 
 ## Stage
 
-[The Reckoner](persona_the_reckoner.md), having tabled [Have It Out](plan_have_it_out.md), coaches the misplaced toward a fit or manages them honestly out and rebuilds the rise to reward the work, paying the cost the promotion dodged.
+[The Reckoner](persona_the_reckoner.md), having tabled [Have It Out](plan_have_it_out.md), delivers [the hard word](piece_the_hard_word.md), coaching the misplaced toward a fit or managing them honestly out and rebuilding the rise to reward the work, paying the cost the promotion dodged.
 [The Boss](persona_the_boss.md), still on [Kick It Upstairs](plan_kick_it_upstairs.md), feels every reason the soft exit was kinder and cheaper, and the Brass above will not vote for the standard that would have stopped its own climb.
 
 ## Tension

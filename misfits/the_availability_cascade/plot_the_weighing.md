@@ -30,7 +30,7 @@ The cold number in hand, the vivid case on the table, the public certain that a 
 
 ## Stage
 
-[The Assessor](persona_the_assessor.md), on [Weigh the Risk](plan_weigh_the_risk.md), sets the cold number beside the story, names the salient risk small and the dull one vast, and asks that the guard follow the harm and not the fear.
+[The Assessor](persona_the_assessor.md), on [Weigh the Risk](plan_weigh_the_risk.md), sets [the cold number](piece_the_cold_number.md) beside the story, names the salient risk small and the dull one vast, and asks that the guard follow the harm and not the fear.
 [The Regulator](persona_the_regulator.md), on [Answer the Alarm](plan_answer_the_alarm.md), holds to the mandate the frightened public gave it, and the public hears the weighing as a shrug at a danger it can plainly picture.
 
 ## Tension

@@ -30,8 +30,8 @@ The total's one clean answer on the table, the subgroups there to be read apart,
 
 ## Stage
 
-[The Splitter](persona_the_splitter.md), on [Split It Out](plan_split_it_out.md), breaks the table into its groups and reads the trend within each, and every single subgroup points the other way from the total.
-Both readings stand, computed from the identical rows: the whole says one thing and each part says the opposite, and neither is a miscount.
+[The Splitter](persona_the_splitter.md), on [Split It Out](plan_split_it_out.md), breaks the table into [the strata](piece_the_strata.md) and reads the trend within each, and every single subgroup points the other way from the total.
+Both readings stand, computed from the identical rows: [the reversal](piece_the_reversal.md) stands, the whole saying one thing and each part the opposite, and neither is a miscount.
 
 ## Tension
 

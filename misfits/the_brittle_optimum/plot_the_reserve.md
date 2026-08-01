@@ -30,7 +30,7 @@ A push to keep the spare and the buffer and the margin as insurance, against eve
 
 ## Stage
 
-[The Reserver](persona_the_reserver.md), having tabled [Keep the Reserve](plan_keep_the_reserve.md), holds the slack so the system can flex, carrying the standing cost through the calm.
+[The Reserver](persona_the_reserver.md), having tabled [Keep the Reserve](plan_keep_the_reserve.md), holds [the insurance](piece_the_insurance.md) so the system can flex, carrying the standing cost through the calm.
 [The Optimizer](persona_the_optimizer.md), still on [Trim the Fat](plan_trim_the_fat.md), points to the leaner rival and the unmarked calm, and warns that a reserve too large is only bloat, so the give is kept under constant pressure to cut.
 
 ## Tension

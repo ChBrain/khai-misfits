@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[Multiplying](process_multiplying.md): [The Skilled](persona_the_skilled.md) does its task well, and every other task in the chain does its own well beside it, and together they combine into [The Product](piece_the_product.md). Its value is not the sum of the tasks' qualities but their product: excellence in nine tasks and mediocrity in one does not average out, it multiplies through. The scene closes on a high value, the kind a long chain of tasks all done well can reach and no lesser chain can.
+[Multiplying](process_multiplying.md): [The Skilled](persona_the_skilled.md) does its task well, and every other task in [the chain](piece_the_chain.md) does its own well beside it, and together they combine into [The Product](piece_the_product.md). Its value is not the sum of the tasks' qualities but their product: excellence in nine tasks and mediocrity in one does not average out, it multiplies through. The scene closes on a high value, the kind a long chain of tasks all done well can reach and no lesser chain can.
 
 ## Stage
 

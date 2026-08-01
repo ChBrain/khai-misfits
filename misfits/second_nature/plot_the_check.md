@@ -31,7 +31,7 @@ The account approved and felt clear, a real novice to hand it to, the stumble th
 ## Stage
 
 [The Tester](persona_the_tester.md), on [Ask the Novice](plan_ask_the_novice.md), gives the account to someone who does not yet know, watches where they fall, takes their confusion as the data, and rebuilds from there.
-[The Knower](persona_the_knower.md), on [Spell It Out](plan_spell_it_out.md), holds that the thing is obvious, and the peer's sign-off stands behind them, so the test must be won against the felt clarity of everyone who knows.
+[The Knower](persona_the_knower.md), on [Spell It Out](plan_spell_it_out.md), holds that the thing is obvious, [the blind spot](piece_the_blind_spot.md) intact, and the peer's sign-off stands behind them, so the test must be won against the felt clarity of everyone who knows.
 
 ## Tension
 

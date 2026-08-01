@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The junction](place_the_junction.md), where the old route and the new link part, and the new link is quicker.
+[The junction](place_the_junction.md), where the old route and the new link part, and [the new link](place_the_new_link.md) is quicker.
 A driver reads the roads ahead: the shortcut saves a minute, so of course they take it, and so does the next, and the next.
 
 ## Action

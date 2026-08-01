@@ -31,7 +31,7 @@ Each stage reading its neighbour's cover as the market and adding a cover of its
 ## Stage
 
 [The Signal](persona_the_signal.md), still on [Pass It Up](plan_pass_it_up.md), delivers each order upward stripped of its cause, so every stage takes the last stage's caution for demand.
-[The Retailer](persona_the_retailer.md), holding [Cover the Order](plan_cover_the_order.md) at every link alike, covers the swollen figure it receives and passes something larger still, so the swing grows at each hand-off.
+[The Retailer](persona_the_retailer.md), holding [Cover the Order](plan_cover_the_order.md) at every link alike, covers the swollen figure it receives and passes something larger still, so it grows into [the whip](piece_the_whip.md) at each hand-off.
 
 ## Tension
 

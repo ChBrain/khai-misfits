@@ -30,10 +30,10 @@ The symptom real and nameable, the family relieved to have something to point to
 
 ## Stage
 
-[The Kin](persona_the_kin.md), on [Hold It Together](plan_hold_it_together.md), brings the suffering member to be healed, framing the one as the trouble and the rest as well.
+[The Kin](persona_the_kin.md), on [Hold It Together](plan_hold_it_together.md), brings the suffering member to be healed, casting [the frame](piece_the_frame.md), the one as the trouble and the rest as well.
 [The Clinician](persona_the_clinician.md), on [Cure the One Who Presents](plan_cure_the_one_who_presents.md), meets the presented symptom in good faith and with skill, and in healing the one confirms that the one is the unit.
 
 ## Tension
 
 Treating a real symptom in a suffering member is right, and the treating ratifies that the member is the problem.
-There is nothing to fault: the symptom is genuine and relieving it is caring and correct. But the patient arrives already framed, so the cure confirms the frame, and the plot closes with the one diagnosed and treated and the fracture slipped from view behind the symptom, the whole that made them ill left off the table.
+There is nothing to fault: the symptom is genuine and relieving it is caring and correct. But the patient arrives already framed, so the cure confirms the frame, and the plot closes with [the settled strain](piece_the_settled_strain.md), the one diagnosed and treated and the fracture slipped from view behind the symptom, the whole that made them ill left off the table.

@@ -30,8 +30,8 @@ Someone moving to price it from the record of its kind rather than the plan of i
 
 ## Stage
 
-[The Forecaster](persona_the_forecaster.md), having tabled [Take the Outside View](plan_take_the_outside_view.md), finds the class, reads its distribution, and sets the date there, delivering a number no one wanted and the discomfort of it.
-[The Planner](persona_the_planner.md), still on [Plan the Work](plan_plan_the_work.md), objects that the average discards the case's real detail, and both watch the buffer, which priced too free would only teach the work to spread and fill it.
+[The Forecaster](persona_the_forecaster.md), having tabled [Take the Outside View](plan_take_the_outside_view.md), finds the class and reads [the base rate](piece_the_base_rate.md), and sets the date there, delivering a number no one wanted and the discomfort of it.
+[The Planner](persona_the_planner.md), still on [Plan the Work](plan_plan_the_work.md), objects that the average discards the case's real detail, and both watch [the padding](piece_the_padding.md), which priced too free would only teach the work to spread and fill it.
 
 ## Tension
 

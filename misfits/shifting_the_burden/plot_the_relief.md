@@ -30,7 +30,7 @@ Two answers exist, a fast relief and a slow cure, but only one can act inside th
 
 ## Stage
 
-[The Pressed](persona_the_pressed.md) tables [Reach for Relief](plan_reach_for_relief.md): stop the pain now, take the answer that fits the deadline, mean to start the cure later, so [the quick fix](piece_the_quick_fix.md) eases [the symptom](piece_the_symptom.md) and the cause is left exactly where it was.
+[The Reliever](persona_the_reliever.md), on [Supply the Fix](plan_supply_the_fix.md), meets [The Pressed](persona_the_pressed.md) tabling [Reach for Relief](plan_reach_for_relief.md): stop the pain now, take the answer that fits the deadline, mean to start the cure later, so [the quick fix](piece_the_quick_fix.md) eases [the symptom](piece_the_symptom.md) and the cause is left exactly where it was.
 [The delay](piece_the_delay.md) rules the slow cure out before it is even considered: it could not have acted in time, so it was never really on the table.
 
 ## Tension

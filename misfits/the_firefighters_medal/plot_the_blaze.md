@@ -30,7 +30,7 @@ The deadline pressing, the fire real, the effort meant for prevention there to b
 
 ## Stage
 
-[The Manager](persona_the_manager.md), on [Fight the Fire](plan_fight_the_fire.md), answers the crisis in front of it and pulls whatever hours the blaze demands, the urgent always louder than the distant.
+[The Manager](persona_the_manager.md), on [Fight the Fire](plan_fight_the_fire.md), answers [the fire](piece_the_fire.md) in front of it and pulls whatever hours the blaze demands, the urgent always louder than the distant.
 [The Firefighter](persona_the_firefighter.md), on [Fight the Blaze](plan_fight_the_blaze.md), runs toward the fire and begins the work of putting it out, in full view.
 
 ## Tension

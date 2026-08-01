@@ -31,7 +31,7 @@ Its priors returned on every side, and a company of the like-minded gathered whe
 ## Stage
 
 [The Reader](persona_the_reader.md), still on [Read What I Like](plan_read_what_i_like.md), meets nothing that disconfirms and grows certain among a world that seems to agree entire.
-[The Chorus](persona_the_chorus.md), on [Echo It Back](plan_echo_it_back.md), returns the reader's priors on every side, the warmth of agreement reading as the confirmation of truth.
+[The Chorus](persona_the_chorus.md), on [Echo It Back](plan_echo_it_back.md), returns [the echo](piece_the_echo.md) of the reader's priors on every side, the warmth of agreement reading as the confirmation of truth.
 
 ## Tension
 

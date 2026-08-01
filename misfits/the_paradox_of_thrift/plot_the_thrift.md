@@ -30,7 +30,7 @@ The saver paring its spending to build a store, and for one home the sum plainly
 
 ## Stage
 
-[The Saver](persona_the_saver.md), having tabled [Build the Buffer](plan_build_the_buffer.md), spends less and saves more, and watches its own store grow, prudent and alone.
+[The Saver](persona_the_saver.md), having tabled [Build the Buffer](plan_build_the_buffer.md), spends less and saves more, and watches [the buffer](piece_the_buffer.md) grow, prudent and alone.
 [The Flow](persona_the_flow.md), on [Carry the Coin](plan_carry_the_coin.md), carries onward only what is spent, so the withheld coin is already, unseen, a wage it will not pass to someone.
 
 ## Tension

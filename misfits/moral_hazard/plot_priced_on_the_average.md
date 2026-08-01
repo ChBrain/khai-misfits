@@ -36,4 +36,4 @@ The one thing the desk cannot price is the care to come, so the premium is set o
 ## Tension
 
 The cover is a good thing, and the good thing is the hinge.
-Spreading a risk too big for one hand is exactly what insurance is for, and no one at the desk is wrong to want it. But the same signature that carries the loss away carries away the reason to guard it, and the misfit is loaded in the moment the deal is squarest: a fair price, an honest service, and a downside now held by the one party who cannot watch the hand that decides it.
+Spreading a risk too big for one hand is exactly what insurance is for, and no one at the desk is wrong to want it. But the same signature that carries the loss away carries away the reason to guard it, and [the moral hazard](piece_the_moral_hazard.md) is loaded in the moment the deal is squarest: a fair price, an honest service, and a downside now held by the one party who cannot watch the hand that decides it.

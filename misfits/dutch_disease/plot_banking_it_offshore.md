@@ -30,7 +30,7 @@ The means to bank the windfall offshore and hold the currency down at hand.
 
 ## Stage
 
-[The Steward](persona_the_steward.md), having tabled [Bank It Abroad](plan_bank_it_abroad.md), banks the resource revenue offshore and sterilises the boom, keeping the currency from rising so the traded sector is spared.
+[The Steward](persona_the_steward.md), having tabled [Bank It Abroad](plan_bank_it_abroad.md), banks [the nest egg](piece_the_nest_egg.md) offshore and sterilises the boom, keeping the currency from rising so the traded sector is spared.
 [The Mover](persona_the_mover.md), still on [Follow the Boom](plan_follow_the_boom.md), and the ballot behind it, feels every reason to spend the fortune now, on the schools and roads and wages going wanting.
 
 ## Tension

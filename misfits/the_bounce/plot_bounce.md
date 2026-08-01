@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The baseline](place_the_baseline.md), the next result coming in, drifting back toward the middle.
-The luck that made the extreme has not repeated, so the trough rises and the peak falls, on their own, exactly as extremes do, and the intervention is standing right in front of the movement.
+The luck that made the extreme has not repeated, so the trough rises and [the peak](place_the_peak.md) falls, on their own, exactly as extremes do, and the intervention is standing right in front of the movement.
 
 ## Action
 

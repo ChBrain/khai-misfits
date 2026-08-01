@@ -30,8 +30,8 @@ The reader clicking the agreeable and skipping the rest, each choice small and r
 
 ## Stage
 
-[The Reader](persona_the_reader.md), having tabled [Read What I Like](plan_read_what_i_like.md), clicks the agreeable and scrolls past the rest, following its own taste as any reader with limited attention does.
-[The Feed](persona_the_feed.md), on [Give Them More](plan_give_them_more.md), reads the clicks and serves more of the lingered-on and less of the skipped, fitting the timeline closer with every session.
+[The Reader](persona_the_reader.md), having tabled [Read What I Like](plan_read_what_i_like.md), clicks [the agreeable](piece_the_agreeable.md) and scrolls past the rest, following its own taste as any reader with limited attention does.
+[The Feed](persona_the_feed.md), on [Give Them More](plan_give_them_more.md), runs [the filter](piece_the_filter.md), reading the clicks and serving more of the lingered-on and less of the skipped, fitting the timeline closer with every session.
 
 ## Tension
 

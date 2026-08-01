@@ -30,10 +30,10 @@ The preventer's hours thinning as they drain toward the firefighting that pays.
 
 ## Stage
 
-[The Preventer](persona_the_preventer.md), still on [Head It Off](plan_head_it_off.md), watches its unrewarded hours drain into firefighting, and prevention starves for want of the time and the reward.
+[The Preventer](persona_the_preventer.md), still on [Head It Off](plan_head_it_off.md), watches its unrewarded hours drain into firefighting, deepening [the spiral](piece_the_spiral.md) as prevention starves for want of the time and the reward.
 [The Manager](persona_the_manager.md), still on [Fight the Fire](plan_fight_the_fire.md), sees fires coming faster and pulls yet more effort to them, never suspecting its own reward system.
 
 ## Tension
 
 Each sensible move toward the fire deepens the fire.
-There is no villain still: people follow the glory and the pressed hour favours the present blaze, each drain of time a reasonable choice. But less prevention lights the fires faster and faster fires starve prevention more, so the plot closes with the loop tipped, the system crossed into a self-sustaining blaze, everyone heroic and busy and nothing improving.
+There is no villain still: people follow the glory and the pressed hour favours the present blaze, each drain of time a reasonable choice. But less prevention lights the fires faster and faster fires starve prevention more, so the plot closes with [the starved prevention](piece_the_starved_prevention.md), the loop tipped, the system crossed into a self-sustaining blaze, everyone heroic and busy and nothing improving.

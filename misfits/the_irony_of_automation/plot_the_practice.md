@@ -31,7 +31,7 @@ A push to drill the skills the automation idled and rehearse the crisis before i
 ## Stage
 
 [The Trainer](persona_the_trainer.md), having tabled [Keep in Practice](plan_keep_in_practice.md), puts the operator back through the manual work and the handover, and asks that control be handed back before the crisis, not in it.
-[The Operator](persona_the_operator.md), leaving [Watch and Wait](plan_watch_and_wait.md) for the drill, sharpens again, while the cost of the practice, and the pull to trim it, mounts on every day the machine does not fail.
+[The Operator](persona_the_operator.md), leaving [Watch and Wait](plan_watch_and_wait.md) for [the drill](piece_the_drill.md), sharpens again, while the cost of the practice, and the pull to trim it, mounts on every day the machine does not fail.
 
 ## Tension
 

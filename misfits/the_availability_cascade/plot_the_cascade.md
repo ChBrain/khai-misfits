@@ -31,7 +31,7 @@ The vivid fear already loose, the crowd reading the concern around it, the cost 
 ## Stage
 
 [The Public](persona_the_public.md), on [Carry It Further](plan_carry_it_further.md), reads the visible concern of everyone else as evidence and echoes it, and the ones who doubt hold their tongue rather than pay the cost of dismissing a public danger.
-The consensus swells with belief and with silence alike, its growing size taken by each new voice as proof it is right.
+[The consensus](piece_the_consensus.md) swells with belief and with silence alike, its growing size taken by each new voice as proof it is right.
 
 ## Tension
 

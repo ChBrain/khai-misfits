@@ -30,7 +30,7 @@ The dull, repetitive part handed over, the operator freed to oversee rather than
 
 ## Stage
 
-[The Automation](persona_the_automation.md), having tabled [Take the Routine](plan_take_the_routine.md), runs the frequent work faster and cleaner, and asks only to be overseen.
+[The Automation](persona_the_automation.md), having tabled [Take the Routine](plan_take_the_routine.md), runs [the routine](piece_the_routine.md) faster and cleaner, and asks only to be overseen.
 [The Designer](persona_the_designer.md), on [Leave the Rest](plan_leave_the_rest.md), mechanises the tractable cases and hands the operator the residue, reading the automated system as the job done well.
 
 ## Tension
