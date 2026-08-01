@@ -1,5 +1,0 @@
----
-"@chbrain/khai-misfits": minor
----
-
-Add the misfit Nearest the Spring, a staging of the Cantillon effect (the non-neutral path of new money): new money enters an economy not everywhere at once but through particular hands first, so those nearest the injection spend it at the old prices before it has bid prices up and gain, while those it reaches last, on wages and fixed incomes set before the rise, meet the risen prices with money that has not grown and lose, a redistribution from the late receivers to the early by the order of the money's arrival that no transfer intends and no single hand can see, no villain required since the money is injected for needful reasons and every hand spends at a fair price at the going rate. Held against its bound and hedged: the non-neutral path and its direction are standard across the classical, Austrian, and modern accounts, but the magnitude and even the net winners in any given episode are contested, since the same expansion that reaches asset holders first may also lower unemployment and lift the wages of the last, so the house stages the transmission and its direction, not a settled amount.

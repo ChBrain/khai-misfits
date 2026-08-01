@@ -1,5 +1,0 @@
----
-"@chbrain/khai-misfits": minor
----
-
-Add the misfit The Worst and the Last, a staging of the peak-end rule with duration neglect: an extended episode is remembered not by the sum or average of its moments but by its most intense moment and its ending, and the duration is largely ignored, so the self that recalls an episode and chooses whether to repeat it can value it oppositely to the self that lived it, preferring a longer suffering that tapers to a shorter one that stopped at its worst, no villain required since memory compresses as any memory must and the two selves are facets of one person. Held against its bound and hedged: the strict average of peak and end is an idealization and duration neglect a strong tendency and not an absolute law, softening where the length is made salient or meaningful, so the house stages the robust core, that retrospective evaluation is dominated by the peak and the end and largely neglects duration, enough to invert preferences between episodes, and not the strict two-moment formula.

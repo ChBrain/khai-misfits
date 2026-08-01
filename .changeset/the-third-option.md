@@ -1,5 +1,0 @@
----
-"@chbrain/khai-misfits": minor
----
-
-Add the misfit The Third Option, a staging of the decoy effect (asymmetric dominance): adding a third option to a choice set, one that is clearly worse than one existing option but not clearly worse than the other, shifts choice toward the option that dominates the decoy, so an alternative chosen by no one changes the choice between two others it did not need to touch, no villain required since the decoy may be placed for any ordinary reason and the chooser who shifts is using a real and ordinarily sound cue, that a clear local win is informative, in a setting where it happens to mislead. Held against its bound and hedged: the effect is real and repeatedly demonstrated but its size, and even its presence, depends on how the choice is elicited, joint or separate evaluation, the number and structure of the attributes compared, so it is weaker or absent under some conditions, and the house stages the shift as a documented and conditional effect and not a claim that any added option always moves a choice.
