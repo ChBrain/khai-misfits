@@ -30,8 +30,8 @@ The plan's smooth run meeting the week's real texture, and the days going faster
 
 ## Stage
 
-[The Swarm](persona_the_swarm.md), having tabled [Bring the Unforeseen](plan_bring_the_unforeseen.md), spends the days on the slip, the bounce, the sick day, the change, none of them nameable in advance and all of them taking their time.
-[The Planner](persona_the_planner.md), still on [Plan the Work](plan_plan_the_work.md), sees the estimate beaten not by any one blow it could have foreseen but by the sum of many it could not, and [The Sponsor](persona_the_sponsor.md) begins to carry the slip it priced.
+[The Swarm](persona_the_swarm.md), having tabled [Bring the Unforeseen](plan_bring_the_unforeseen.md), spends the days on [the unforeseen](piece_the_unforeseen.md), the slip, the bounce, the sick day, the change, none of them nameable in advance and all of them taking their time.
+[The Planner](persona_the_planner.md), still on [Plan the Work](plan_plan_the_work.md), sees the estimate beaten not by any one blow it could have foreseen but by [the overrun](piece_the_overrun.md), the sum of many it could not, and [The Sponsor](persona_the_sponsor.md) begins to carry the slip it priced.
 
 ## Tension
 

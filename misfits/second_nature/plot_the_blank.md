@@ -31,7 +31,7 @@ The plain-sounding words assuming what the learner does not have, the skipped st
 ## Stage
 
 [The Learner](persona_the_learner.md), on [Try to Follow](plan_try_to_follow.md), strains to make the plain-sounding words connect and loses the thread where a reflex step was skipped.
-Glancing round to find everyone senior apparently following, they conclude the fault is their own, resolve to look it up later, and stay quiet.
+Glancing round to find everyone senior apparently following, they take [the miss](piece_the_miss.md) as their own fault, resolve to look it up later, and stay quiet.
 
 ## Tension
 

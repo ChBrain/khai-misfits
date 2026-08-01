@@ -31,7 +31,7 @@ The explanation on the page, a qualified reviewer to check it, the same knowledg
 ## Stage
 
 [The Peer](persona_the_peer.md), on [Wave It Through](plan_wave_it_through.md), checks the explanation against their own understanding and finds it sound and plain, and approves it in good conscience.
-The account reads clearly to them for the very reason it was written unclear, so the review meant to catch the gap confirms it, a second knower certifying the opacity as clarity.
+The account reads clearly to them for the very reason it was written unclear, so the review meant to catch [the gap](piece_the_gap.md) confirms [the buried step](piece_the_buried_step.md) instead, a second knower certifying the opacity as clarity.
 
 ## Tension
 

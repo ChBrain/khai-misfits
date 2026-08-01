@@ -30,7 +30,7 @@ Firms failing below their fixed debts, banks shrinking, credit drying up.
 
 ## Stage
 
-[The Deflation](persona_the_deflation.md), on [Drive Prices Down](plan_drive_prices_down.md), lowers prices as the forced selling mounts, and [The Fixed Sum](persona_the_fixed_sum.md), on [Hold the Sum](plan_hold_the_sum.md), rises in real weight with every fall.
+[The Deflation](persona_the_deflation.md), on [Drive Prices Down](plan_drive_prices_down.md), drives [the spiral](piece_the_spiral.md) on, lowering prices as the forced selling mounts, and [The Fixed Sum](persona_the_fixed_sum.md), on [Hold the Sum](plan_hold_the_sum.md), rises in real weight with every fall.
 [The Creditor](persona_the_creditor.md), still on [Call the Loan](plan_call_the_loan.md), forces more sales to protect a book the falling prices are ruining anyway, so the loop tightens and the credit that might have broken it fails with the banks.
 
 ## Tension

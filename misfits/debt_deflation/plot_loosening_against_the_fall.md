@@ -30,7 +30,7 @@ The real burden climbing, and the levers of reflation and relief at hand.
 
 ## Stage
 
-[The Reflator](persona_the_reflator.md), having tabled [Lift the Level](plan_lift_the_level.md), raises the price level or cuts the nominal debt, halting the rise in the real burden.
+[The Reflator](persona_the_reflator.md), having tabled [Lift the Level](plan_lift_the_level.md), makes [the reflation](piece_the_reflation.md), raising the price level or cutting the nominal debt, halting the rise in the real burden.
 [The Creditor](persona_the_creditor.md), still on [Call the Loan](plan_call_the_loan.md), must swallow the loss reflation or forgiveness imposes, and every sound instinct of the bust argues to let the paying-down run instead.
 
 ## Tension

@@ -31,7 +31,7 @@ The reckoning begins: creditors eyeing shaky loans, debtors resolving to pay dow
 ## Stage
 
 [The Creditor](persona_the_creditor.md), having tabled [Call the Loan](plan_call_the_loan.md), demands repayment of the loans it fears, guarding its book as the risk rises.
-[The Debtor](persona_the_debtor.md), on [Pay It Down](plan_pay_it_down.md), resolves to sell what it can and clear its debt, and the whole economy turns at once to paying down.
+[The Debtor](persona_the_debtor.md), on [Pay It Down](plan_pay_it_down.md), resolves to sell what it can and clear its debt, and [the deepening](piece_the_deepening.md) begins as the whole economy turns at once to paying down.
 
 ## Tension
 

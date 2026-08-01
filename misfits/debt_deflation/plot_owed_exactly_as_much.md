@@ -30,8 +30,8 @@ The payments made, the assets sold, and the figure owed exactly as large as befo
 
 ## Stage
 
-[The Fixed Sum](persona_the_fixed_sum.md), having tabled [Hold the Sum](plan_hold_the_sum.md), stays owed in dollars though the dollars buy more, rising in real weight without a figure moving.
-[The Debtor](persona_the_debtor.md), still on [Pay It Down](plan_pay_it_down.md), has sold and paid and yet owes as much in truth as ever, the burden grown as the effort to clear it grew.
+[The Fixed Sum](persona_the_fixed_sum.md), having tabled [Hold the Sum](plan_hold_the_sum.md), holds [the debt](piece_the_debt.md) owed in dollars though the dollars buy more, rising in real weight without a figure moving.
+[The Debtor](persona_the_debtor.md), still on [Pay It Down](plan_pay_it_down.md), has sold and paid and yet carries [the weight](piece_the_weight.md), owing as much in truth as ever, the burden grown as the effort to clear it grew.
 
 ## Tension
 

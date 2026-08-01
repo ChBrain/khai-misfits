@@ -30,7 +30,7 @@ The alarm sounding on trip after trip, the harmless conditions common and each r
 
 ## Stage
 
-[The Alarm](persona_the_alarm.md), still on [Cry Out](plan_cry_out.md), sounds at the loose lead and the passing shadow, each cry faithful and the mass of them overwhelmingly false.
+[The Alarm](persona_the_alarm.md), still on [Cry Out](plan_cry_out.md), sounds at the loose lead and the passing shadow, each cry faithful and the mass of them [false alarms](piece_the_false_alarm.md).
 [The Setter](persona_the_setter.md), still on [Set It Low](plan_set_it_low.md), reads the constant crying as proof the danger cannot slip past, and holds the threshold where it is.
 
 ## Tension
