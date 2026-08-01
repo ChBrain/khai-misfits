@@ -86,7 +86,7 @@ Hold data back and test on what you did not fit, penalise complexity, prefer the
 - [The Score](piece_the_score.md)
 - [The Gap](piece_the_gap.md)
 - [The Underfit](piece_the_underfit.md)
-- [Overfitting](piece_overfitting.md)
+- [The Memorised Sample](piece_the_memorised_sample.md)
 
 ## Triggers
 

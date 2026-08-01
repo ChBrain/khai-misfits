@@ -92,5 +92,5 @@ Source to constraint, per element.
   response satisfies both injunctions.
 - **[The Pattern](piece_the_pattern.md)**: carries the internalisation (Bateson and colleagues), the bound one
   learning to perceive the world in double-bind terms so the trap persists.
-- **[The Double Bind](piece_the_double_bind.md)**: carries the phenomenon whole (Bateson, Jackson, Haley, &
+- **[The Bind](piece_the_bind.md)**: carries the phenomenon whole (Bateson, Jackson, Haley, &
   Weakland), the contradictory injunction in an inescapable field with its naming forbidden.

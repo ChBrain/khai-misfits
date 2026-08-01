@@ -75,5 +75,5 @@ Source to constraint, per element.
   cancelling, so being good frees the doer to be bad.
 - **[The Earned Rest](piece_the_earned_rest.md)**: carries the legitimate slack after real good, the true due indistinguishable
   from the licensed fall, and the hazard it poses to the cure.
-- **[Moral Licensing](piece_moral_licensing.md)**: carries the phenomenon whole (Monin & Miller), the good deed banked and
+- **[The Credit](piece_the_credit.md)**: carries the phenomenon whole (Monin & Miller), the good deed banked and
   spent as a licence, and its remedy in a held standard at a cost.

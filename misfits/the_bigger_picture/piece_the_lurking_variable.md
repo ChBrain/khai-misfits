@@ -37,4 +37,4 @@ Seen at the surface, the Lurking Variable does not appear: the eye is on the two
 ## Yearbook
 
 Spread unevenly by [sorting](process_sorting.md) and read only through [adjudicating](process_adjudicating.md), the confounder behind the reversal.
-It is the engine of the trap: the Lurking Variable loads [the strata](piece_the_strata.md) unevenly and lets [the total](piece_the_total.md) reverse them, the hidden cause of [the reversal](piece_the_reversal.md), the third thing the [bigger picture](piece_the_bigger_picture.md) must name to escape and the numbers never show.
+It is the engine of the trap: the Lurking Variable loads [the strata](piece_the_strata.md) unevenly and lets [the total](piece_the_total.md) reverse them, the hidden cause of [the reversal](piece_the_reversal.md), the third thing the [the pooled whole](piece_the_pooled_whole.md) must name to escape and the numbers never show.

@@ -37,4 +37,4 @@ It looks like slack, a shop between tenants, a patent not yet licensed, a lull t
 ## Yearbook
 
 Suffered by [the seller](persona_the_seller.md) and [the holder](persona_the_holder.md) through [idling](process_idling.md), left by [the stacked toll](piece_the_stacked_toll.md).
-It is the waste that stands: the Idle Resource is what [the anticommons](piece_the_anticommons.md) produces, a value wanted by all, owned by many, and reached by none.
+It is the waste that stands: the Idle Resource is what [the idle pool](piece_the_idle_pool.md) produces, a value wanted by all, owned by many, and reached by none.

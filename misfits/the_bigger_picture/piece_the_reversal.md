@@ -37,4 +37,4 @@ Seen at the surface, the Reversal looks like an error to be found and fixed, and
 ## Yearbook
 
 Laid bare when [the total](piece_the_total.md) meets [the strata](piece_the_strata.md), the flip driven by [the lurking variable](piece_the_lurking_variable.md).
-It is the paradox of the trap: the Reversal sets the true whole against the true parts, sprung by the confounder and settled only by [adjudicating](process_adjudicating.md), the contradiction the [bigger picture](piece_the_bigger_picture.md) is built on and the numbers cannot resolve.
+It is the paradox of the trap: the Reversal sets the true whole against the true parts, sprung by the confounder and settled only by [adjudicating](process_adjudicating.md), the contradiction the [the pooled whole](piece_the_pooled_whole.md) is built on and the numbers cannot resolve.

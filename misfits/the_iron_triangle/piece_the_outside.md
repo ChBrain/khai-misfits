@@ -37,4 +37,4 @@ Seen at the surface, the Outside does not appear: the corners are present and se
 ## Yearbook
 
 Excluded by [the seal](piece_the_seal.md) and seated only by [the reformer](persona_the_reformer.md) through [opening](process_opening.md), the general interest that pays.
-It is the cost of the trap: the Outside funds [the support](piece_the_support.md), [the budget](piece_the_budget.md), and [the favour](piece_the_favour.md) and holds no corner to claim any, the party the ring is closed against, seated again only if [opening](process_opening.md) beats all three corners and breaks the [iron triangle](piece_the_iron_triangle.md).
+It is the cost of the trap: the Outside funds [the support](piece_the_support.md), [the budget](piece_the_budget.md), and [the favour](piece_the_favour.md) and holds no corner to claim any, the party the ring is closed against, seated again only if [opening](process_opening.md) beats all three corners and breaks the [the closed ring](piece_the_closed_ring.md).

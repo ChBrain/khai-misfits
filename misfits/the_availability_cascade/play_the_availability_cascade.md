@@ -79,7 +79,7 @@ Weigh the magnitude against the salience, insulate the assessment from the vivid
 - [The Consensus](piece_the_consensus.md)
 - [The Cold Number](piece_the_cold_number.md)
 - [The Overreach](piece_the_overreach.md)
-- [The Availability Cascade](piece_the_availability_cascade.md)
+- [The Repetition](piece_the_repetition.md)
 
 ## Triggers
 

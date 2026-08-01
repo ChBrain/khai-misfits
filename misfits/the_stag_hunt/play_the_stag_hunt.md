@@ -82,7 +82,7 @@ Give the hunters assurance, a word each trusts, a hunt they have taken together 
 - [The Doubt](piece_the_doubt.md)
 - [The Empty Hand](piece_the_empty_hand.md)
 - [The Assurance](piece_the_assurance.md)
-- [The Stag Hunt](piece_the_stag_hunt.md)
+- [The Undared Stag](piece_the_undared_stag.md)
 
 ## Triggers
 

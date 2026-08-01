@@ -30,7 +30,7 @@ The question has changed: not how do we coordinate the teams we have, but what t
 
 ## Stage
 
-[The Reorganizer](persona_the_reorganizer.md) tables [Reshape the Org](plan_reshape_the_org.md): move the boundaries rather than the code, so [the reorg](piece_the_reorg.md) puts the dense communication inside each intended module and turns [the mirror](piece_the_mirror.md) to reflect the design.
+[The Reorganizer](persona_the_reorganizer.md) tables [Reshape the Org](plan_reshape_the_org.md): move the boundaries rather than the code, so [the reorg](piece_the_reorg.md) puts the dense communication inside each intended module and turns [the reflection](piece_the_reflection.md) to reflect the design.
 With the org aligned to the architecture, the seams have nowhere to fall, and the clean shape can finally ship.
 
 ## Tension

@@ -86,5 +86,5 @@ Source to constraint, per element.
   missed by a slackened watch.
 - **[The Backstop](piece_the_backstop.md)**: carries the hollowed safeguard (Parasuraman & Manzey), the
   human-in-the-loop guard that works only if vigilance is kept.
-- **[The Empty Seat](piece_the_empty_seat.md)**: carries the phenomenon whole (Parasuraman & Riley; Skitka,
+- **[The Hollow Backstop](piece_the_hollow_backstop.md)**: carries the phenomenon whole (Parasuraman & Riley; Skitka,
   Mosier & Burdick; Parasuraman & Manzey), a rational reliance hollowing the vigilance it depends on.

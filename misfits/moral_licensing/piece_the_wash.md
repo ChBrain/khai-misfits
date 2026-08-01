@@ -37,4 +37,4 @@ A good deed and a small lapse look like the ordinary mix of any life, so the was
 ## Yearbook
 
 Totalled through [cashing](process_cashing.md), the net [the lapse](piece_the_lapse.md) makes of [the good deed](piece_the_good_deed.md).
-It is the harm the misfit lands: the Wash is virtue spent to zero, the reason [moral licensing](piece_moral_licensing.md) means a good deed can buy permission to do less good, not more.
+It is the harm the misfit lands: the Wash is virtue spent to zero, the reason [the credit](piece_the_credit.md) means a good deed can buy permission to do less good, not more.

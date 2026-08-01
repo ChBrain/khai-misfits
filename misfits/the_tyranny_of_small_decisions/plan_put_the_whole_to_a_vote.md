@@ -30,7 +30,7 @@ Put the large question actually to a decision before it settles by default. Pric
 
 ## Implementation
 
-([The Assembly](place_the_assembly.md); the [convening](process_convening.md) process; answering [the tyranny of small decisions](piece_the_tyranny_of_small_decisions.md) means putting the whole to a vote, at the cost of overriding [the free choice](piece_the_free_choice.md) it is built from.)
+([The Assembly](place_the_assembly.md); the [convening](process_convening.md) process; answering [the unchosen sum](piece_the_unchosen_sum.md) means putting the whole to a vote, at the cost of overriding [the free choice](piece_the_free_choice.md) it is built from.)
 
 ## Targets
 

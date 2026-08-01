@@ -78,7 +78,7 @@ Bank the windfall abroad, save the resource revenue in a fund held offshore and 
 - [The Strong Rate](piece_the_strong_rate.md)
 - [The Lost Trade](piece_the_lost_trade.md)
 - [The Nest Egg](piece_the_nest_egg.md)
-- [Dutch Disease](piece_dutch_disease.md)
+- [The Bonanza](piece_the_bonanza.md)
 
 ## Triggers
 

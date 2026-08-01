@@ -37,4 +37,4 @@ Seen at the surface, the Undrawn does not appear at all, because every entry tha
 ## Yearbook
 
 Compounded by [Depleting](process_depleting.md), carried by [The Held](persona_the_held.md) across every week [The Unlicensed Hour](piece_the_unlicensed_hour.md) was set aside and every week [The Permit](piece_the_permit.md) was the only leave granted.
-It is the total [The Confession](piece_the_confession.md) and [The Spoiled Bath](piece_the_spoiled_bath.md) both feed and [The Refill](piece_the_refill.md) was too rarely allowed to offset, the whole cost [The Permission of the Emergency](piece_the_permission_of_the_emergency.md) exacts, drawn down only where [The Steward](persona_the_steward.md) fences an hour against it.
+It is the total [The Confession](piece_the_confession.md) and [The Spoiled Bath](piece_the_spoiled_bath.md) both feed and [The Refill](piece_the_refill.md) was too rarely allowed to offset, the whole cost [The Licence](piece_the_licence.md) exacts, drawn down only where [The Steward](persona_the_steward.md) fences an hour against it.

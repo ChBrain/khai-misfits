@@ -30,7 +30,7 @@ The proposal is to build the forum the small choices never pass through: put the
 
 ## Stage
 
-[The Convener](persona_the_convener.md) tables [Put the Whole to a Vote](plan_put_the_whole_to_a_vote.md) and answers [the tyranny of small decisions](piece_the_tyranny_of_small_decisions.md) by convening the whole before it settles.
+[The Convener](persona_the_convener.md) tables [Put the Whole to a Vote](plan_put_the_whole_to_a_vote.md) and answers [the unchosen sum](piece_the_unchosen_sum.md) by convening the whole before it settles.
 [The Free Hand](persona_the_free_hand.md) tables [Leave It Free](plan_leave_it_free.md), holding that overriding [the free choice](piece_the_free_choice.md) is a tyranny of its own.
 
 ## Tension

@@ -76,5 +76,5 @@ Source to constraint, per element.
   the wink, did the deed, and can be disowned.
 - **[The Denial](piece_the_denial.md)**: carries the true disavowal (Church Committee), the principal answering,
   honestly, that it gave no order and had no knowledge.
-- **[Plausible Deniability](piece_plausible_deniability.md)**: carries the phenomenon whole (Church Committee),
+- **[The Severance](piece_the_severance.md)**: carries the phenomenon whole (Church Committee),
   responsibility severed from power by design, and its remedy in command responsibility at a cost.

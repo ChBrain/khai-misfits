@@ -81,5 +81,5 @@ Source to constraint, per element.
   channels, functional in delaying exit and pathological in suppressing voice.
 - **[The Loyal Opposition](piece_the_loyal_opposition.md)**: carries the remedy (Hirschman), the voice and the
   credible exit-threat that restore the signal, at the cost of seeming disloyal.
-- **[The Loyalty Trap](piece_the_loyalty_trap.md)**: carries the phenomenon whole (Hirschman), a body kept from
+- **[The Unheard Decline](piece_the_unheard_decline.md)**: carries the phenomenon whole (Hirschman), a body kept from
   hearing its decline by the devotion of its members.

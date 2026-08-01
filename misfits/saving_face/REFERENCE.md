@@ -70,5 +70,5 @@ Source to constraint, per element.
   (Argyris), the topic that cannot be raised, whose unraisability also cannot be raised.
 - **[The Single Loop](piece_the_single_loop.md)**: carries single-loop learning (Argyris & Schön),
   the symptom corrected inside a governing frame that is never questioned.
-- **[Saving Face](piece_saving_face.md)**: carries the phenomenon whole, the courteous, capable team
+- **[The Defence](piece_the_defence.md)**: carries the phenomenon whole, the courteous, capable team
   that defends instead of learns, and cannot discuss that it does, held by nobody.

@@ -37,4 +37,4 @@ It looks like the more of it the better: more links mean more ways through, more
 ## Yearbook
 
 Shaped by [the planner](persona_the_planner.md) who adds to it and by [routing](process_routing.md) that fills it.
-It is the field every other piece plays on: [the jam](piece_the_jam.md) is a state of it, [the extra road](piece_the_extra_road.md) is an addition to it, and [the equilibrium](piece_the_equilibrium.md) is the load it settles into once every driver has chosen.
+It is the field every other piece plays on: [the jam](piece_the_jam.md) is a state of it, [the added lane](piece_the_added_lane.md) is an addition to it, and [the equilibrium](piece_the_equilibrium.md) is the load it settles into once every driver has chosen.

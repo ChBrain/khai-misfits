@@ -31,7 +31,7 @@ The scheme is exposed as a farm, the sensible correction is obvious, and the cor
 ## Stage
 
 [The Repealer](persona_the_repealer.md) tables [Pull the Bounty](plan_pull_the_bounty.md): end the reward at last, and [the dumped stock](piece_the_dumped_stock.md) is loosed, the whole manufactured supply set free the hour its price dies.
-[The Snakebit](persona_the_snakebit.md) at [the resident's seat](position_resident.md) tables [Live With the Surplus](plan_live_with_the_surplus.md): inherit a city with more cobras than before any of it began, and [the cobra effect](piece_the_cobra_effect.md) stands revealed, a reward that bred the problem it paid to remove.
+[The Snakebit](persona_the_snakebit.md) at [the resident's seat](position_resident.md) tables [Live With the Surplus](plan_live_with_the_surplus.md): inherit a city with more cobras than before any of it began, and [the cure that breeds](piece_the_cure_that_breeds.md) stands revealed, a reward that bred the problem it paid to remove.
 
 ## Tension
 

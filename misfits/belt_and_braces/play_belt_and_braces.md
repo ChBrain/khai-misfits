@@ -38,7 +38,7 @@ Count the true independence before adding: trace whether the backup shares power
 
 **Pitch**
 
-- [Belt and Braces](pitch_belt_and_braces.md)
+- [If One Fails, the Other Holds](pitch_if_one_fails_the_other_holds.md)
 
 **Personas**
 

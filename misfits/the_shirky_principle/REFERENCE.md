@@ -73,5 +73,5 @@ Source to constraint, per element.
   Parkinson), the problem kept alive by widening the mandate and finding new instances.
 - **[The Obsolescence](piece_the_obsolescence.md)**: carries the institution's own end (Michels), the outcome full
   success would bring and the thing every incentive is arranged to avoid.
-- **[The Shirky Principle](piece_the_shirky_principle.md)**: carries the phenomenon whole (Shirky / Kelly), a
+- **[The Preserved Problem](piece_the_preserved_problem.md)**: carries the phenomenon whole (Shirky / Kelly), a
   solver that preserves its problem, and its remedy in outcome funding and a sunset, held whole by nobody.

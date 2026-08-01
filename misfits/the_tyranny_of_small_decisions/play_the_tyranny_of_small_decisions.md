@@ -85,7 +85,7 @@ Put the whole to a real decision, price the option so its value counts, bundle t
 - [The Option Value](piece_the_option_value.md)
 - [The Irreversibility](piece_the_irreversibility.md)
 - [The Free Choice](piece_the_free_choice.md)
-- [The Tyranny of Small Decisions](piece_the_tyranny_of_small_decisions.md)
+- [The Unchosen Sum](piece_the_unchosen_sum.md)
 
 ## Triggers
 

@@ -85,7 +85,7 @@ Change what is punished, judge the honesty of the judgement and not the thicknes
 - [The Displacement](piece_the_displacement.md)
 - [The Diffusion](piece_the_diffusion.md)
 - [The Covered Failure](piece_the_covered_failure.md)
-- [The Paper Trail](piece_the_paper_trail.md)
+- [The Bent Work](piece_the_bent_work.md)
 
 ## Triggers
 

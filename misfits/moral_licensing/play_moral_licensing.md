@@ -85,7 +85,7 @@ Hold the standard regardless of the credit, refuse to let a good deed buy a pass
 - [The Lapse](piece_the_lapse.md)
 - [The Wash](piece_the_wash.md)
 - [The Earned Rest](piece_the_earned_rest.md)
-- [Moral Licensing](piece_moral_licensing.md)
+- [The Credit](piece_the_credit.md)
 
 ## Triggers
 

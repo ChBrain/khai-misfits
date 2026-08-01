@@ -30,7 +30,7 @@ Hold the line for the stag, the best prize on the field, while the party holds w
 
 ## Implementation
 
-([The Thicket](place_the_thicket.md); the [committing](process_committing.md) process; a party that holds at [the fork](piece_the_fork.md) takes the stag, the payoff-dominant arm of [the stag hunt](piece_the_stag_hunt.md).)
+([The Thicket](place_the_thicket.md); the [committing](process_committing.md) process; a party that holds at [the fork](piece_the_fork.md) takes the stag, the payoff-dominant arm of [the undared stag](piece_the_undared_stag.md).)
 
 ## Targets
 

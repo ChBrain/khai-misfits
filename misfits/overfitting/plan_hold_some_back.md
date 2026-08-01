@@ -30,7 +30,7 @@ Set data aside, unfitted, and test on it to catch the overfit the training score
 
 ## Implementation
 
-([The Holdout](place_the_holdout.md) and [the retuning](place_the_retuning.md); the [regularising](process_regularising.md) process; testing on held-back data reveals [the gap](piece_the_gap.md), and answering [overfitting](piece_overfitting.md) risks [the underfit](piece_the_underfit.md) when the pruning cuts real signal.)
+([The Holdout](place_the_holdout.md) and [the retuning](place_the_retuning.md); the [regularising](process_regularising.md) process; testing on held-back data reveals [the gap](piece_the_gap.md), and answering [the memorised sample](piece_the_memorised_sample.md) risks [the underfit](piece_the_underfit.md) when the pruning cuts real signal.)
 
 ## Targets
 

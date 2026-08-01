@@ -82,7 +82,7 @@ Keep the slack, hold the spare and the buffer and the margin as insurance agains
 - [The Coupling](piece_the_coupling.md)
 - [The Shatter](piece_the_shatter.md)
 - [The Insurance](piece_the_insurance.md)
-- [The Brittle Optimum](piece_the_brittle_optimum.md)
+- [The Trimmed Reserve](piece_the_trimmed_reserve.md)
 
 ## Triggers
 

@@ -30,7 +30,7 @@ Defend each check as a guard earned by a past abuse. Remember the haste that har
 
 ## Implementation
 
-([The Redesign](place_the_redesign.md); the [consolidating](process_consolidating.md) it resists; defending [the guard](piece_the_guard.md) holds back the cut that would answer [vetocracy](piece_vetocracy.md), preserving the restraints and the gridlock together.)
+([The Redesign](place_the_redesign.md); the [consolidating](process_consolidating.md) it resists; defending [the guard](piece_the_guard.md) holds back the cut that would answer [the standstill](piece_the_standstill.md), preserving the restraints and the gridlock together.)
 
 ## Targets
 

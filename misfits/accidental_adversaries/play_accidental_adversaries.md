@@ -86,7 +86,7 @@ See the whole loop, recognise that the harm you receive is a response to harm yo
 - [The Misattribution](piece_the_misattribution.md)
 - [The Spiral](piece_the_spiral.md)
 - [The True Adversary](piece_the_true_adversary.md)
-- [Accidental Adversaries](piece_accidental_adversaries.md)
+- [The Rivalry](piece_the_rivalry.md)
 
 ## Triggers
 

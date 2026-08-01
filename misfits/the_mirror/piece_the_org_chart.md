@@ -37,4 +37,4 @@ It looks like org design, an HR concern, a matter of managers and headcount with
 ## Yearbook
 
 Inhabited by [the lead](persona_the_lead.md) and [the neighbor](persona_the_neighbor.md), through [building](process_building.md) inside their teams.
-It is the shape the system copies: the Org Chart draws [the boundary](piece_the_boundary.md) the software will inherit, and its imprint on the delivered system is exactly what [the mirror](piece_the_mirror.md) reflects.
+It is the shape the system copies: the Org Chart draws [the boundary](piece_the_boundary.md) the software will inherit, and its imprint on the delivered system is exactly what [the reflection](piece_the_reflection.md) reflects.

@@ -30,7 +30,7 @@ Hold the cold number up against the vivid case and set the response to the magni
 
 ## Implementation
 
-([The Chamber](place_the_chamber.md); the [weighing](process_weighing.md) process; the cold number would size the danger against [the salience](piece_the_salience.md), turning [the availability cascade](piece_the_availability_cascade.md) back ... if the number could be heard over the story.)
+([The Chamber](place_the_chamber.md); the [weighing](process_weighing.md) process; the cold number would size the danger against [the salience](piece_the_salience.md), turning [the repetition](piece_the_repetition.md) back ... if the number could be heard over the story.)
 
 ## Targets
 

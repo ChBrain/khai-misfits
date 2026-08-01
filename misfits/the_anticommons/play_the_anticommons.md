@@ -86,7 +86,7 @@ Gather the pieces back into one hand, pool the rights, or override a veto by a t
 - [The Stacked Toll](piece_the_stacked_toll.md)
 - [The Assembly Cost](piece_the_assembly_cost.md)
 - [The Idle Resource](piece_the_idle_resource.md)
-- [The Anticommons](piece_the_anticommons.md)
+- [The Idle Pool](piece_the_idle_pool.md)
 
 ## Triggers
 

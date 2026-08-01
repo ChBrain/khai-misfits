@@ -37,4 +37,4 @@ It looks like ordinary friction, a defect to be triaged and owned by whoever is 
 ## Yearbook
 
 Forced together by [the splicer](persona_the_splicer.md) through [integrating](process_integrating.md), and held, after, by [the maintainer](persona_the_maintainer.md).
-It is where the play's cost lands: the Seam settles onto [the boundary](piece_the_boundary.md), proves [the mirror](piece_the_mirror.md) true, and stays until [the reorg](piece_the_reorg.md) moves the boundary out from under it.
+It is where the play's cost lands: the Seam settles onto [the boundary](piece_the_boundary.md), proves [the reflection](piece_the_reflection.md) true, and stays until [the reorg](piece_the_reorg.md) moves the boundary out from under it.

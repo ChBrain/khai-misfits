@@ -77,7 +77,7 @@ Keep the well: hold back a store of genuine human data, mark provenance so the r
 - [The Tail](piece_the_tail.md)
 - [The Made](piece_the_made.md)
 - [The Real Well](piece_the_real_well.md)
-- [Model Collapse](piece_model_collapse.md)
+- [The Echo](piece_the_echo.md)
 
 ## Triggers
 

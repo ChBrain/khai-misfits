@@ -78,7 +78,7 @@ Voice it, make loyalty mean the loyal opposition rather than the loyal silence, 
 - [The Voice](piece_the_voice.md)
 - [The Faith](piece_the_faith.md)
 - [The Loyal Opposition](piece_the_loyal_opposition.md)
-- [The Loyalty Trap](piece_the_loyalty_trap.md)
+- [The Unheard Decline](piece_the_unheard_decline.md)
 
 ## Triggers
 

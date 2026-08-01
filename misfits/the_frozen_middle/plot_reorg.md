@@ -31,7 +31,7 @@ The gap is finally visible from the top: a transformation declared embedded and 
 ## Stage
 
 [The Successor](persona_the_successor.md) tables [Reorganise](plan_reorganise.md): dissolve the frozen layer and draw a flatter chart.
-[The dampening](piece_the_dampening.md) is named at last, the one reflex that turned [the mandate](piece_the_mandate.md) into a husk and the floor's alarm into good news, and [the frozen middle](piece_the_frozen_middle.md) stands revealed: a layer of ice made of nobody's malice and everybody's delivery.
+[The dampening](piece_the_dampening.md) is named at last, the one reflex that turned [the mandate](piece_the_mandate.md) into a husk and the floor's alarm into good news, and [the softening](piece_the_softening.md) stands revealed: a layer of ice made of nobody's malice and everybody's delivery.
 
 ## Tension
 

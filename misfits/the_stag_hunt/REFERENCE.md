@@ -78,5 +78,5 @@ Source to constraint, per element.
   waits for whoever holds for the stag while another peels away, the risk that makes the hedge rational.
 - **[The Assurance](piece_the_assurance.md)**: carries the remedy (Sen; Skyrms), the believed commitment that
   makes the stag safe, built fresh each time and lost to one broken promise.
-- **[The Stag Hunt](piece_the_stag_hunt.md)**: carries the phenomenon whole (Rousseau; Skyrms), a better
+- **[The Undared Stag](piece_the_undared_stag.md)**: carries the phenomenon whole (Rousseau; Skyrms), a better
   outcome all prefer and none dares alone, and its remedy in a trust that is only ever kept, never owned.

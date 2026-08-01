@@ -86,7 +86,7 @@ Diagnose the problem before choosing the instrument, hold more than one tool, re
 - [The Amputation](piece_the_amputation.md)
 - [The Miss](piece_the_miss.md)
 - [The Mastery](piece_the_mastery.md)
-- [The Law of the Instrument](piece_the_law_of_the_instrument.md)
+- [The Hammer](piece_the_hammer.md)
 
 ## Triggers
 

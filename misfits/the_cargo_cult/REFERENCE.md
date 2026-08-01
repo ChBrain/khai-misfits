@@ -69,5 +69,5 @@ Source to constraint, per element.
   a real return paid on resemblance before any result.
 - **[The Empty Runway](piece_the_empty_runway.md)**: carries the faithful copy that produces nothing (Feynman),
   the failure that accuses no one because the ceremony passed.
-- **[The Cargo Cult](piece_the_cargo_cult.md)**: carries the phenomenon whole (Feynman; DiMaggio & Powell), and its
+- **[The Copied Form](piece_the_copied_form.md)**: carries the phenomenon whole (Feynman; DiMaggio & Powell), and its
   remedy in a costly return to cause (Meyer & Rowan), the ritual that had to be rebuilt to work.

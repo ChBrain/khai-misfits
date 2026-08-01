@@ -37,4 +37,4 @@ Seen at the surface, the Permit looks like nothing more than a person doing what
 ## Yearbook
 
 Handed down by [The Emergency](persona_the_emergency.md) through [Licensing](process_licensing.md), the claim that ends the dread of idleness the instant it is raised.
-It is the piece the whole misfit turns on: the Permit is what [The Unlicensed Hour](piece_the_unlicensed_hour.md) can never produce for itself, what makes the disaster in [The Permission of the Emergency](piece_the_permission_of_the_emergency.md) the one dependable stillness a life affords, and what [The Steward](persona_the_steward.md) must learn to grant without waiting for a floor to flood.
+It is the piece the whole misfit turns on: the Permit is what [The Unlicensed Hour](piece_the_unlicensed_hour.md) can never produce for itself, what makes the disaster in [The Licence](piece_the_licence.md) the one dependable stillness a life affords, and what [The Steward](persona_the_steward.md) must learn to grant without waiting for a floor to flood.

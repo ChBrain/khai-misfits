@@ -31,7 +31,7 @@ The routine reaches for the soft point and finds nothing soft enough, and for on
 
 ## Stage
 
-[The Namer](persona_the_namer.md) tables [Name It](plan_name_it.md): keep the account clear of the verdict, ask the question the sum was designed to skip, and spend [the face](piece_the_face.md) the whole room was saving, so the frame is examined and [saving face](piece_saving_face.md) itself, the whole courteous machine, is for once visible to the room that built it, and the lesson is, at last, available to take.
+[The Namer](persona_the_namer.md) tables [Name It](plan_name_it.md): keep the account clear of the verdict, ask the question the sum was designed to skip, and spend [the face](piece_the_face.md) the whole room was saving, so the frame is examined and [the defence](piece_the_defence.md) itself, the whole courteous machine, is for once visible to the room that built it, and the lesson is, at last, available to take.
 The room can hold the discomfort and learn ... or thank her, call her brave, and reseal.
 
 ## Tension

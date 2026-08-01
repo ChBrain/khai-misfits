@@ -77,5 +77,5 @@ Source to constraint, per element.
   larger share of a smaller whole, the sum put by no greater than before.
 - **[The Injection](piece_the_injection.md)**: carries the offset (Keynes), the spending against the tide that
   refills the flow at the cost of acting against every private instinct.
-- **[The Paradox of Thrift](piece_the_paradox_of_thrift.md)**: carries the phenomenon whole (Keynes; Samuelson),
+- **[The Common Prudence](piece_the_common_prudence.md)**: carries the phenomenon whole (Keynes; Samuelson),
   a nation impoverished by its own prudence, and its remedy in a demand no private saver will supply.

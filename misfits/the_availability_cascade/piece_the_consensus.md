@@ -37,4 +37,4 @@ Seen at the surface, the Consensus looks like collective judgement, a shared con
 ## Yearbook
 
 Built in [the forum](place_the_forum.md) through [cascading](process_cascading.md), the shared alarm each of [the public](persona_the_public.md) updates on and swells.
-It is the crowd's part of the trap: the Consensus turns the felt fear of [the salience](piece_the_salience.md) into a shared certainty, its size becoming the mandate that draws [the overreach](piece_the_overreach.md), the swelling twin of the silence it hides, climbing through [the availability cascade](piece_the_availability_cascade.md).
+It is the crowd's part of the trap: the Consensus turns the felt fear of [the salience](piece_the_salience.md) into a shared certainty, its size becoming the mandate that draws [the overreach](piece_the_overreach.md), the swelling twin of the silence it hides, climbing through [the repetition](piece_the_repetition.md).

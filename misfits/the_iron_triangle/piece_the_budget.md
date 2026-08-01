@@ -37,4 +37,4 @@ Seen at the surface, the Budget looks like democracy functioning, the power of t
 ## Yearbook
 
 Supplied by [the chairman](persona_the_chairman.md) through [supplying](process_supplying.md), the committee's currency in the ring.
-It is one leg of the trap: the Budget buys [the support](piece_the_support.md) from the interest and [the favour](piece_the_favour.md)'s benefits from the agency, closing the circuit that [the seal](piece_the_seal.md) holds shut, the second of the three exchanges that make the [iron triangle](piece_the_iron_triangle.md).
+It is one leg of the trap: the Budget buys [the support](piece_the_support.md) from the interest and [the favour](piece_the_favour.md)'s benefits from the agency, closing the circuit that [the seal](piece_the_seal.md) holds shut, the second of the three exchanges that make the [the closed ring](piece_the_closed_ring.md).

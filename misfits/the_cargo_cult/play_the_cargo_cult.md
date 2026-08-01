@@ -94,7 +94,7 @@ Strip the ceremony back to the mechanism and ask what actually makes cargo come,
 - [The Decoupling](piece_the_decoupling.md)
 - [The Legitimacy](piece_the_legitimacy.md)
 - [The Empty Runway](piece_the_empty_runway.md)
-- [The Cargo Cult](piece_the_cargo_cult.md)
+- [The Copied Form](piece_the_copied_form.md)
 
 ## Triggers
 

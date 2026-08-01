@@ -85,7 +85,7 @@ Cool the water, make it worth the able's while to stay, clear the blockers, and 
 - [The Residue](piece_the_residue.md)
 - [The Rising Salinity](piece_the_rising_salinity.md)
 - [The Repulsion](piece_the_repulsion.md)
-- [The Dead Sea Effect](piece_the_dead_sea_effect.md)
+- [The Hollowing](piece_the_hollowing.md)
 
 ## Triggers
 

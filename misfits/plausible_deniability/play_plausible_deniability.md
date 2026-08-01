@@ -82,7 +82,7 @@ Pierce the shield, hold a principal answerable for what it arranged not to know,
 - [The Blindfold](piece_the_blindfold.md)
 - [The Deniable Agent](piece_the_deniable_agent.md)
 - [The Denial](piece_the_denial.md)
-- [Plausible Deniability](piece_plausible_deniability.md)
+- [The Severance](piece_the_severance.md)
 
 ## Triggers
 

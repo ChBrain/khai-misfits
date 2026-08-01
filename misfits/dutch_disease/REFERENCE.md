@@ -80,5 +80,5 @@ Source to constraint, per element.
   Warner), the hollowed traded sector and its forfeited learning and export capacity.
 - **[The Nest Egg](piece_the_nest_egg.md)**: carries the remedy (sovereign-fund practice), the windfall saved
   offshore and spent only from its return, at the cost of the fortune forgone.
-- **[Dutch Disease](piece_dutch_disease.md)**: carries the phenomenon whole (Corden & Neary), a real bonanza
+- **[The Bonanza](piece_the_bonanza.md)**: carries the phenomenon whole (Corden & Neary), a real bonanza
   that hollows the economy that receives it.

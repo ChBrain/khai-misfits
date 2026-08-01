@@ -79,7 +79,7 @@ Drain the pressure that feeds the trade rather than squeezing where it shows, or
 - [The Bulge](piece_the_bulge.md)
 - [The Clearance](piece_the_clearance.md)
 - [The Conservation](piece_the_conservation.md)
-- [The Balloon Effect](piece_the_balloon_effect.md)
+- [The Displacement](piece_the_displacement.md)
 
 ## Triggers
 

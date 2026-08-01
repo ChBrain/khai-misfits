@@ -82,7 +82,7 @@ Let the links share the one thing they lack, the shopper's true demand, so every
 - [The Lag](piece_the_lag.md)
 - [The Whip](piece_the_whip.md)
 - [The Open Book](piece_the_open_book.md)
-- [The Bullwhip Effect](piece_the_bullwhip_effect.md)
+- [The Wave](piece_the_wave.md)
 
 ## Triggers
 

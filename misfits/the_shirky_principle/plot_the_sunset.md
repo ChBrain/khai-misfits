@@ -30,7 +30,7 @@ The money is to be tied to the problem shrinking, and an ending written into the
 
 ## Stage
 
-[The Sunsetter](persona_the_sunsetter.md) tables [Fund the Outcome](plan_fund_the_outcome.md): pay for the problem getting smaller and measure it from outside, so [the shirky principle](piece_the_shirky_principle.md) is answered by making [the obsolescence](piece_the_obsolescence.md) the thing that is funded and planned.
+[The Sunsetter](persona_the_sunsetter.md) tables [Fund the Outcome](plan_fund_the_outcome.md): pay for the problem getting smaller and measure it from outside, so [the preserved problem](piece_the_preserved_problem.md) is answered by making [the obsolescence](piece_the_obsolescence.md) the thing that is funded and planned.
 For once success pays and the interest in the problem's survival has no seat at the table, and for once the body could actually finish the thing it was founded to finish.
 
 ## Tension

@@ -38,7 +38,7 @@ Realign the cue and the quality, and the trap can be dampened: restore the groun
 
 **Pitch**
 
-- [The Lie of the Land](pitch_the_lie_of_the_land.md)
+- [It Still Looks Right](pitch_it_still_looks_right.md)
 
 **Personas**
 

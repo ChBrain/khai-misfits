@@ -37,4 +37,4 @@ Seen at the surface, the Discount looks like reasonable risk-adjustment, a lower
 ## Yearbook
 
 Set by [the Employer](persona_the_employer.md) and borne by [the Applicant](persona_the_applicant.md) and [the Standout](persona_the_standout.md), the cut return at the heart of the loop.
-It is the engine of the trap: the Discount is set by [the prior](piece_the_prior.md) onto [the signal](piece_the_signal.md), it drives the withholding that lowers the average, and it makes [the confirmation](piece_the_confirmation.md) that proves the rating, the wedge the whole [proxy](piece_the_proxy.md) turns on.
+It is the engine of the trap: the Discount is set by [the prior](piece_the_prior.md) onto [the signal](piece_the_signal.md), it drives the withholding that lowers the average, and it makes [the confirmation](piece_the_confirmation.md) that proves the rating, the wedge the whole [the price of the group](piece_the_price_of_the_group.md) turns on.

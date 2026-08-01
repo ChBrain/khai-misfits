@@ -30,7 +30,7 @@ Force independent judgement before the aid's output is accepted, and cross-check
 
 ## Implementation
 
-([The Cross-Check](place_the_cross_check.md); the [checking](process_checking.md) process; independent judgement is formed against [the prompt](piece_the_prompt.md) and cross-checked past [the reliability](piece_the_reliability.md), keeping [the backstop](piece_the_backstop.md) live and turning [the empty seat](piece_the_empty_seat.md) back ... if the wasted-seeming vigilance can be paid for daily.)
+([The Cross-Check](place_the_cross_check.md); the [checking](process_checking.md) process; independent judgement is formed against [the prompt](piece_the_prompt.md) and cross-checked past [the reliability](piece_the_reliability.md), keeping [the backstop](piece_the_backstop.md) live and turning [the hollow backstop](piece_the_hollow_backstop.md) back ... if the wasted-seeming vigilance can be paid for daily.)
 
 ## Targets
 

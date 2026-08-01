@@ -30,7 +30,7 @@ Attack the driver that feeds the trade, or hold every patch at once so it has no
 
 ## Implementation
 
-([The Map](place_the_map.md); the [draining](process_draining.md) process; the driver behind [the pressure](piece_the_pressure.md) is attacked so the trade cannot bulge, turning [the balloon effect](piece_the_balloon_effect.md) back ... if the invisible result can be borne without a clearance to show.)
+([The Map](place_the_map.md); the [draining](process_draining.md) process; the driver behind [the pressure](piece_the_pressure.md) is attacked so the trade cannot bulge, turning [the displacement](piece_the_displacement.md) back ... if the invisible result can be borne without a clearance to show.)
 
 ## Targets
 

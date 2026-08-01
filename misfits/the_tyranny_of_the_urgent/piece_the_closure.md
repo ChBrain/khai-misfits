@@ -37,4 +37,4 @@ Seen at the surface, the Closure looks like accomplishment, the honest satisfact
 ## Yearbook
 
 Paid by [answering](process_answering.md) and offered by [the deadline](piece_the_deadline.md), the relief that rewards the urgent.
-It is the pull of the trap: the Closure makes the urgent wanted as well as demanded, the click the small task pays and [the payoff](piece_the_payoff.md) of the important never does, drawing the hour toward what closes and away from what matters in the [tyranny of the urgent](piece_the_tyranny_of_the_urgent.md).
+It is the pull of the trap: the Closure makes the urgent wanted as well as demanded, the click the small task pays and [the payoff](piece_the_payoff.md) of the important never does, drawing the hour toward what closes and away from what matters in the [the deferred](piece_the_deferred.md).

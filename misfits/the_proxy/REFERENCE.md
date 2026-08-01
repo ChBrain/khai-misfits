@@ -92,5 +92,5 @@ Source to constraint, per element.
   the rated-low member gets on the same signal, the wedge that drives the under-investment.
 - **[The Confirmation](piece_the_confirmation.md)**: carries the self-fulfilment (Arrow; Coate & Loury), the
   under-investment lowering the group's real average until it meets the rating and makes the prior true.
-- **[The Proxy](piece_the_proxy.md)**: carries the phenomenon whole (Phelps; Arrow), the individual priced by the
+- **[The Price of the Group](piece_the_price_of_the_group.md)**: carries the phenomenon whole (Phelps; Arrow), the individual priced by the
   group and the pricing made to come true, a discriminating equilibrium sustained by no animus.

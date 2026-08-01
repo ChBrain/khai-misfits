@@ -79,5 +79,5 @@ Source to constraint, per element.
   alarm silenced with the false, the danger the low setting was meant to prevent.
 - **[The Retune](piece_the_retune.md)**: carries the remedy (Cvach; Sendelbach; EEMUA 191), the raised threshold
   and prioritisation that restore the alarm's meaning, at the cost of a danger sometimes unannounced.
-- **[Alarm Fatigue](piece_alarm_fatigue.md)**: carries the phenomenon whole (Breznitz; the clinical literature),
+- **[The Deafening](piece_the_deafening.md)**: carries the phenomenon whole (Breznitz; the clinical literature),
   an alarm set to miss no danger that trains the responder to miss the true one.

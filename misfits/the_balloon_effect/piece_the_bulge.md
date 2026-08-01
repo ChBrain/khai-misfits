@@ -37,4 +37,4 @@ Seen at the surface, the Bulge looks like a separate trouble, a trade that has s
 ## Yearbook
 
 Carried by [the operator](persona_the_operator.md) through [displacing](process_displacing.md), the trade swollen up on the soft spot.
-It is the displacement of the trap: the Bulge is [the pressure](piece_the_pressure.md) relocated by [the squeeze](piece_the_squeeze.md), the loud corner that [counting](process_counting.md) never sets against the quiet one, the visible face of [the conservation](piece_the_conservation.md) rolling around the [balloon effect](piece_the_balloon_effect.md).
+It is the displacement of the trap: the Bulge is [the pressure](piece_the_pressure.md) relocated by [the squeeze](piece_the_squeeze.md), the loud corner that [counting](process_counting.md) never sets against the quiet one, the visible face of [the conservation](piece_the_conservation.md) rolling around the [the displacement](piece_the_displacement.md).

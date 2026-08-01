@@ -30,7 +30,7 @@ The gridlock is priced and proven, the deal impossible owner by owner, and a mov
 
 ## Stage
 
-[The Consolidator](persona_the_consolidator.md) tables [Unify the Title](plan_unify_the_title.md): draw the many titles into one so the last owner cannot hold out for last, and [the anticommons](piece_the_anticommons.md) is answered by making the many owners one.
+[The Consolidator](persona_the_consolidator.md) tables [Unify the Title](plan_unify_the_title.md): draw the many titles into one so the last owner cannot hold out for last, and [the idle pool](piece_the_idle_pool.md) is answered by making the many owners one.
 The resource moves again under a single hand, and the veto that was perfectly good is overridden or bought out to do it.
 
 ## Tension

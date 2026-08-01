@@ -78,6 +78,6 @@ Source to constraint, per element.
   into the glut and shortage at the top.
 - **[The Open Book](piece_the_open_book.md)**: carries the remedy (Lee, Padmanabhan and Whang), the shared true
   demand and shortened lag that let each stage react to the wobble and not to the stage below.
-- **[The Bullwhip Effect](piece_the_bullwhip_effect.md)**: carries the phenomenon whole (Forrester; Lee,
+- **[The Wave](piece_the_wave.md)**: carries the phenomenon whole (Forrester; Lee,
   Padmanabhan and Whang), a chain of prudent orders amplifying a wobble into a wave, and its remedy in a shared
   signal at the cost of local cover.

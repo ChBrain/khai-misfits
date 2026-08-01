@@ -78,7 +78,7 @@ Fence the prevention time so a share of capacity is held for it even while fires
 - [The Averted Fire](piece_the_averted_fire.md)
 - [The Spiral](piece_the_spiral.md)
 - [The Firebreak](piece_the_firebreak.md)
-- [The Firefighter's Medal](piece_the_firefighters_medal.md)
+- [The Starved Prevention](piece_the_starved_prevention.md)
 
 ## Triggers
 

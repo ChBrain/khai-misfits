@@ -30,7 +30,7 @@ Set the causal structure. Draw the arrows between the variables, decide which is
 
 ## Implementation
 
-([The Diagram](place_the_diagram.md); the [adjudicating](process_adjudicating.md) process; the causal model reads [the lurking variable](piece_the_lurking_variable.md) as confounder or mediator to resolve [the reversal](piece_the_reversal.md), turning [the bigger picture](piece_the_bigger_picture.md) back ... if the arrows are guessed right.)
+([The Diagram](place_the_diagram.md); the [adjudicating](process_adjudicating.md) process; the causal model reads [the lurking variable](piece_the_lurking_variable.md) as confounder or mediator to resolve [the reversal](piece_the_reversal.md), turning [the pooled whole](piece_the_pooled_whole.md) back ... if the arrows are guessed right.)
 
 ## Targets
 

@@ -82,7 +82,7 @@ Price the link, or close it, and the network speeds up: what you add for each is
 
 - [The Network](piece_the_network.md)
 - [The Jam](piece_the_jam.md)
-- [The Extra Road](piece_the_extra_road.md)
+- [The Added Lane](piece_the_added_lane.md)
 - [The Selfish Route](piece_the_selfish_route.md)
 - [The Equilibrium](piece_the_equilibrium.md)
 - [The Slowdown](piece_the_slowdown.md)

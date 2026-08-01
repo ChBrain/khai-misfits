@@ -86,7 +86,7 @@ Open the boundary, read the outside in, reward adoption and not only invention, 
 - [The Home-Grown](piece_the_home_grown.md)
 - [The Staling](piece_the_staling.md)
 - [The Real Risk](piece_the_real_risk.md)
-- [Not-Invented-Here](piece_not_invented_here.md)
+- [The Refusal](piece_the_refusal.md)
 
 ## Triggers
 

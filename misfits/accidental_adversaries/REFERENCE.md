@@ -79,5 +79,5 @@ Source to constraint, per element.
   counter-move into adversarial escalation.
 - **[The True Adversary](piece_the_true_adversary.md)**: carries the genuine exploiter, indistinguishable from the accidental
   one, the reason the de-escalation cannot be safe.
-- **[Accidental Adversaries](piece_accidental_adversaries.md)**: carries the phenomenon whole (Kemeny; Senge), allies turned
+- **[The Rivalry](piece_the_rivalry.md)**: carries the phenomenon whole (Kemeny; Senge), allies turned
   adversaries by defensive moves, and its remedy in seeing the loop and stopping first at a cost.

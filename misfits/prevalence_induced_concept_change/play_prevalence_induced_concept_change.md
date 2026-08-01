@@ -78,7 +78,7 @@ Fix the mark, define the thing absolutely and in advance, count against a standa
 - [The Borderline](piece_the_borderline.md)
 - [The Mirage](piece_the_mirage.md)
 - [The Fixed Mark](piece_the_fixed_mark.md)
-- [Prevalence-Induced Concept Change](piece_prevalence_induced_concept_change.md)
+- [The Widening](piece_the_widening.md)
 
 ## Triggers
 

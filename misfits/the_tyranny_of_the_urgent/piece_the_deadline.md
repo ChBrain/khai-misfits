@@ -37,4 +37,4 @@ Seen at the surface, the Deadline looks like importance, a claim that the task b
 ## Yearbook
 
 Pressed by [the urgent](persona_the_urgent.md) through [pressing](process_pressing.md), the clock that claims the hour.
-It is the driver of the trap: the Deadline tilts the hour toward the urgent and pays it in [the closure](piece_the_closure.md), taking the time [the payoff](piece_the_payoff.md) needed and sliding the important toward [the someday](piece_the_someday.md), the salient claim that powers the whole [tyranny of the urgent](piece_the_tyranny_of_the_urgent.md).
+It is the driver of the trap: the Deadline tilts the hour toward the urgent and pays it in [the closure](piece_the_closure.md), taking the time [the payoff](piece_the_payoff.md) needed and sliding the important toward [the someday](piece_the_someday.md), the salient claim that powers the whole [the deferred](piece_the_deferred.md).

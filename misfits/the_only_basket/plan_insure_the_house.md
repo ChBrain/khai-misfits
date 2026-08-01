@@ -30,7 +30,7 @@ Go to the hearing, object to the value-threatening development, and vote to rest
 
 ## Implementation
 
-([The Hearing](place_the_hearing.md); the [insuring](process_insuring.md) process; [the only basket](piece_the_only_basket.md) is guarded through [the ballot](piece_the_ballot.md), each [restriction](piece_the_restriction.md) locally sound and summing toward [the shortage](piece_the_shortage.md).)
+([The Hearing](place_the_hearing.md); the [insuring](process_insuring.md) process; [the only home](piece_the_only_home.md) is guarded through [the ballot](piece_the_ballot.md), each [restriction](piece_the_restriction.md) locally sound and summing toward [the shortage](piece_the_shortage.md).)
 
 ## Targets
 

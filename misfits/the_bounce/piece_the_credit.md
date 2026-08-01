@@ -37,4 +37,4 @@ It looks like giving credit where it is due: someone acted, things improved, so 
 ## Yearbook
 
 Collected by [the rescuer](persona_the_rescuer.md) through [attribution](process_attribution.md), and disputed only by [the doubter](persona_the_doubter.md).
-It is the hinge between fact and fallacy: the Credit takes [the bounce](piece_the_bounce.md), which owed nothing to anyone, and signs it over to the intervention, and from that signature [the false lesson](piece_the_false_lesson.md) is drawn.
+It is the hinge between fact and fallacy: the Credit takes [the return](piece_the_return.md), which owed nothing to anyone, and signs it over to the intervention, and from that signature [the false lesson](piece_the_false_lesson.md) is drawn.

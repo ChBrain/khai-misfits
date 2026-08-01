@@ -30,7 +30,7 @@ Show that goods fell because of real progress and the service rose because it co
 
 ## Implementation
 
-([The Ledger](place_the_ledger.md); the [pricing](process_pricing.md) it explains; [the misdiagnosis](piece_the_misdiagnosis.md) is answered by naming [baumol's cost disease](piece_baumols_cost_disease.md) as the price of prosperity, not a fault.)
+([The Ledger](place_the_ledger.md); the [pricing](process_pricing.md) it explains; [the misdiagnosis](piece_the_misdiagnosis.md) is answered by naming [the dearer hour](piece_the_dearer_hour.md) as the price of prosperity, not a fault.)
 
 ## Targets
 

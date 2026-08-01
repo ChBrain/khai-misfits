@@ -72,5 +72,5 @@ Source to constraint, per element.
   expensive communication that stands in for a shared owner and never quite does.
 - **[The Reorg](piece_the_reorg.md)**: carries the inverse Conway maneuver (Skelton & Pais), reshaping the teams
   to the architecture so the communication structure produces the design.
-- **[The Mirror](piece_the_mirror.md)**: carries the phenomenon whole (Conway; MacCormack, Rusnak & Baldwin),
+- **[The Reflection](piece_the_reflection.md)**: carries the phenomenon whole (Conway; MacCormack, Rusnak & Baldwin),
   and its remedy in reorganisation (Skelton & Pais), the system wearing the shape of the org that built it.

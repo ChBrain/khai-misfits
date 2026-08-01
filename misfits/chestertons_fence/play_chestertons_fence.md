@@ -82,7 +82,7 @@ Learn why the fence was built before you tear it down, and the harm need not ret
 - [The Reformer's Case](piece_the_reformers_case.md)
 - [The Returning Harm](piece_the_returning_harm.md)
 - [The Recovered Reason](piece_the_recovered_reason.md)
-- [Chesterton's Fence](piece_chestertons_fence.md)
+- [The Removal](piece_the_removal.md)
 
 ## Triggers
 

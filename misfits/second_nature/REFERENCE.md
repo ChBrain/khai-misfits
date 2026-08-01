@@ -83,5 +83,5 @@ Source to constraint, per element.
   the knower's inability to perceive the gap.
 - **[The Miss](piece_the_miss.md)**: carries the failed transfer and misplaced blame (Newton; Pinker), the
   knowledge that did not cross and the learner faulted for it.
-- **[Second Nature](piece_second_nature.md)**: carries the phenomenon whole (Camerer, Loewenstein & Weber;
+- **[The Buried Step](piece_the_buried_step.md)**: carries the phenomenon whole (Camerer, Loewenstein & Weber;
   Nickerson; Pinker), the knowing that hides the ignorance it must reach.

@@ -82,7 +82,7 @@ Raise the price level back, or cut the nominal debt directly, reflate or forgive
 - [The Weight](piece_the_weight.md)
 - [The Spiral](piece_the_spiral.md)
 - [The Reflation](piece_the_reflation.md)
-- [Debt-Deflation](piece_debt_deflation.md)
+- [The Deepening](piece_the_deepening.md)
 
 ## Triggers
 

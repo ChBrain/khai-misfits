@@ -74,6 +74,6 @@ Source to constraint, per element.
   disaster that walks back through the gap the fence had held.
 - **[The Recovered Reason](piece_the_recovered_reason.md)**: carries the remedy and its limit (Chesterton), the
   reason reconstructed before removal, or too late, or not at all.
-- **[Chesterton's Fence](piece_chestertons_fence.md)**: carries the phenomenon whole (Chesterton), the
+- **[The Removal](piece_the_removal.md)**: carries the phenomenon whole (Chesterton), the
   safeguard removed for want of its reason, and the rule that answers it at the cost of delay and of
   fences kept too long.

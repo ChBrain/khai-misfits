@@ -30,7 +30,7 @@ See the whole loop, and your own half in it. Recognise that the harm you receive
 
 ## Implementation
 
-([The Table](place_the_table.md); the [mending](process_mending.md) process; [accidental adversaries](piece_accidental_adversaries.md) is answered by seeing the whole loop and stepping down first, at the risk that the other is [the true adversary](piece_the_true_adversary.md).)
+([The Table](place_the_table.md); the [mending](process_mending.md) process; [the rivalry](piece_the_rivalry.md) is answered by seeing the whole loop and stepping down first, at the risk that the other is [the true adversary](piece_the_true_adversary.md).)
 
 ## Targets
 

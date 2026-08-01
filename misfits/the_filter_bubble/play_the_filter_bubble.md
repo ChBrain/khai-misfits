@@ -82,7 +82,7 @@ Break the bubble, seed the feed with the unchosen and the disagreeable, keep pub
 - [The Echo](piece_the_echo.md)
 - [The Polarisation](piece_the_polarisation.md)
 - [The Serendipity](piece_the_serendipity.md)
-- [The Filter Bubble](piece_the_filter_bubble.md)
+- [The Fragmenting](piece_the_fragmenting.md)
 
 ## Triggers
 

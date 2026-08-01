@@ -69,5 +69,5 @@ Source to constraint, per element.
   loosed when the reward ends, leaving the harm larger than the start.
 - **[The Backfire](piece_the_backfire.md)**: carries the perverse consequence in motion (Merton), the reward
   driving the problem up as it climbs.
-- **[The Cobra Effect](piece_the_cobra_effect.md)**: carries the phenomenon whole (Siebert), a cure that
+- **[The Cure That Breeds](piece_the_cure_that_breeds.md)**: carries the phenomenon whole (Siebert), a cure that
   becomes the engine of the disease, held whole by nobody.

@@ -38,7 +38,7 @@ Hold the coverage above the threshold, and the disease stays gone: keep it there
 
 **Pitch**
 
-- [Borrowed Immunity](pitch_borrowed_immunity.md)
+- [Everyone Else Is Covered](pitch_everyone_else_is_covered.md)
 
 **Personas**
 

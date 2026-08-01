@@ -94,7 +94,7 @@ Reward the outcome you want, not the token you can count, and the farm has nothi
 - [The Manufactured Supply](piece_the_manufactured_supply.md)
 - [The Dumped Stock](piece_the_dumped_stock.md)
 - [The Backfire](piece_the_backfire.md)
-- [The Cobra Effect](piece_the_cobra_effect.md)
+- [The Cure That Breeds](piece_the_cure_that_breeds.md)
 
 ## Triggers
 

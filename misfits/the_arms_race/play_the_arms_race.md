@@ -83,7 +83,7 @@ Bind every contender to the same limit at once, an arms-control treaty, a cap, a
 - [The Tiptoe](piece_the_tiptoe.md)
 - [The Ratchet](piece_the_ratchet.md)
 - [The Truce](piece_the_truce.md)
-- [The Arms Race](piece_the_arms_race.md)
+- [The Standstill](piece_the_standstill.md)
 
 ## Triggers
 

@@ -85,7 +85,7 @@ Make the error discussable and the team learns before the world teaches it: but 
 - [The Undiscussable](piece_the_undiscussable.md)
 - [The Single Loop](piece_the_single_loop.md)
 - [Skilled Incompetence](piece_skilled_incompetence.md)
-- [Saving Face](piece_saving_face.md)
+- [The Defence](piece_the_defence.md)
 
 ## Triggers
 

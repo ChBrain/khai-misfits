@@ -30,7 +30,7 @@ The proposal is to carry light out past the lamp, instrument the unmeasured, and
 
 ## Stage
 
-[The Illuminator](persona_the_illuminator.md) tables [Light the Dark](plan_light_the_dark.md) and answers [the streetlight effect](piece_the_streetlight_effect.md) by paying to look where [the lost](piece_the_lost.md) lies.
+[The Illuminator](persona_the_illuminator.md) tables [Light the Dark](plan_light_the_dark.md) and answers [the lit ground](piece_the_lit_ground.md) by paying to look where [the lost](piece_the_lost.md) lies.
 [The Pragmatist](persona_the_pragmatist.md) tables [Take the Tractable Search](plan_take_the_tractable_search.md), unable to tell the fruitful dark from the empty one, and so blessing the lamp when the keys are past it.
 
 ## Tension

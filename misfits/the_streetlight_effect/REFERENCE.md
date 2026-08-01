@@ -78,5 +78,5 @@ Source to constraint, per element.
   yield or its emptiness reported as the truth.
 - **[The Thoroughness](piece_the_thoroughness.md)**: carries the diligence mistaken for nearness, the careful combing of
   the wrong ground read as progress toward the answer.
-- **[The Streetlight Effect](piece_the_streetlight_effect.md)**: carries the phenomenon whole (Kaplan; Freedman), the search
+- **[The Lit Ground](piece_the_lit_ground.md)**: carries the phenomenon whole (Kaplan; Freedman), the search
   steered to the easy ground by the cost of looking, and its remedy in lighting the dark at a cost.

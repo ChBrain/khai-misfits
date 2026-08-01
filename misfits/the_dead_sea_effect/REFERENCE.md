@@ -76,5 +76,5 @@ Source to constraint, per element.
   departure worsening the team and driving out the next of the able.
 - **[The Repulsion](piece_the_repulsion.md)**: carries the entrenched residue freezing out fresh talent (Webster),
   the new blood rejected or driven off before it can dilute the salt.
-- **[The Dead Sea Effect](piece_the_dead_sea_effect.md)**: carries the phenomenon whole (Webster), the team
+- **[The Hollowing](piece_the_hollowing.md)**: carries the phenomenon whole (Webster), the team
   hollowed while its calm holds, and its remedy in a costly freshening that must not cut the steady with the settled.

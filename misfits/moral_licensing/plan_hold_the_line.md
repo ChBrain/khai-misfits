@@ -30,7 +30,7 @@ Hold the same standard whether the good deed was just done or not. Grant no slac
 
 ## Implementation
 
-([The Reckoning](place_the_reckoning.md); the [holding](process_holding.md) process; holding the line answers [moral licensing](piece_moral_licensing.md) by refusing [the license](piece_the_license.md), at the risk of denying [the earned rest](piece_the_earned_rest.md) it cannot cleanly tell apart.)
+([The Reckoning](place_the_reckoning.md); the [holding](process_holding.md) process; holding the line answers [the credit](piece_the_credit.md) by refusing [the license](piece_the_license.md), at the risk of denying [the earned rest](piece_the_earned_rest.md) it cannot cleanly tell apart.)
 
 ## Targets
 

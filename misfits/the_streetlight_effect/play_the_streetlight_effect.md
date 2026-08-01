@@ -86,7 +86,7 @@ Search the dark where the thing actually is, or build a lamp there, instrument t
 - [The Easy Search](piece_the_easy_search.md)
 - [The False Find](piece_the_false_find.md)
 - [The Thoroughness](piece_the_thoroughness.md)
-- [The Streetlight Effect](piece_the_streetlight_effect.md)
+- [The Lit Ground](piece_the_lit_ground.md)
 
 ## Triggers
 

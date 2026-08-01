@@ -78,7 +78,7 @@ Face it instead, have the hard conversation, coach the misplaced into a fit or m
 - [The Kick Upstairs](piece_the_kick_upstairs.md)
 - [The Inversion](piece_the_inversion.md)
 - [The Hard Word](piece_the_hard_word.md)
-- [The Dilbert Principle](piece_the_dilbert_principle.md)
+- [The Kind Exit](piece_the_kind_exit.md)
 
 ## Triggers
 

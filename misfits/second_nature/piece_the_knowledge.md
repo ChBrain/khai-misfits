@@ -37,4 +37,4 @@ Seen at the surface, the Knowledge looks like pure advantage, the command of a s
 ## Yearbook
 
 Held by [the knower](persona_the_knower.md) and spoken through [explaining](process_explaining.md), the mastery that cannot be unlearned.
-It is the source of the trap: the Knowledge sets what feels obvious and speaks itself as [the shorthand](piece_the_shorthand.md), opening [the gap](piece_the_gap.md) it also hides behind [the blind spot](piece_the_blind_spot.md), the asset that becomes the curse of [second nature](piece_second_nature.md).
+It is the source of the trap: the Knowledge sets what feels obvious and speaks itself as [the shorthand](piece_the_shorthand.md), opening [the gap](piece_the_gap.md) it also hides behind [the blind spot](piece_the_blind_spot.md), the asset that becomes the curse of [the buried step](piece_the_buried_step.md).

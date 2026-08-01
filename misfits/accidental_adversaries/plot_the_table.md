@@ -30,7 +30,7 @@ The move is to own one's own half, stop the undermining, and de-escalate first, 
 
 ## Stage
 
-[The Mender](persona_the_mender.md) tables [See the Whole](plan_see_the_whole.md) and answers [accidental adversaries](piece_accidental_adversaries.md) by stepping down undefended.
+[The Mender](persona_the_mender.md) tables [See the Whole](plan_see_the_whole.md) and answers [the rivalry](piece_the_rivalry.md) by stepping down undefended.
 [The Predator](persona_the_predator.md) tables [Take the Opening](plan_take_the_opening.md), and whether the step meets a partner or [the true adversary](piece_the_true_adversary.md) cannot be known until it is taken.
 
 ## Tension

@@ -81,7 +81,7 @@ Grant your own leave, fence the restorative hour without waiting for a disaster 
 - [The Spoiled Bath](piece_the_spoiled_bath.md)
 - [The Refill](piece_the_refill.md)
 - [The Undrawn](piece_the_undrawn.md)
-- [The Permission of the Emergency](piece_the_permission_of_the_emergency.md)
+- [The Licence](piece_the_licence.md)
 
 ## Triggers
 

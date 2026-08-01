@@ -37,4 +37,4 @@ Not wanting the operational details looks like exactly what a senior figure shou
 ## Yearbook
 
 Drawn by [the principal](persona_the_principal.md) through [blinding](process_blinding.md), the ignorance the denial rests on.
-It is not-knowing on purpose: the Blindfold makes [the denial](piece_the_denial.md) true, and is the very thing [plausible deniability](piece_plausible_deniability.md) can be pierced only by counting as knowledge.
+It is not-knowing on purpose: the Blindfold makes [the denial](piece_the_denial.md) true, and is the very thing [the severance](piece_the_severance.md) can be pierced only by counting as knowledge.

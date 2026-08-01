@@ -30,7 +30,7 @@ Stop hunting for the missing order and make its absence stop being a defence. Na
 
 ## Implementation
 
-([The Reform](place_the_reform.md); the [piercing](process_piercing.md) process; [plausible deniability](piece_plausible_deniability.md) is answered by treating [the blindfold](piece_the_blindfold.md) as knowledge, at the cost of a doctrine that cannot tell the two ignorances apart.)
+([The Reform](place_the_reform.md); the [piercing](process_piercing.md) process; [the severance](piece_the_severance.md) is answered by treating [the blindfold](piece_the_blindfold.md) as knowledge, at the cost of a doctrine that cannot tell the two ignorances apart.)
 
 ## Targets
 

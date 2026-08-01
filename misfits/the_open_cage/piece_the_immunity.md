@@ -37,4 +37,4 @@ Seen at the surface, the Immunity looks like a disposition some people simply ha
 ## Yearbook
 
 Lacked by [the subject](persona_the_subject.md) and built by [the coach](persona_the_coach.md) through [restoring](process_restoring.md), the learnable expectation of control.
-It is the remedy of the trap: the Immunity is what would have kept [the expectation](piece_the_expectation.md) from forming and what, supplied late, revives [the dead lever](piece_the_dead_lever.md), the felt history of mattering that alone opens the [open cage](piece_the_open_cage.md).
+It is the remedy of the trap: the Immunity is what would have kept [the expectation](piece_the_expectation.md) from forming and what, supplied late, revives [the dead lever](piece_the_dead_lever.md), the felt history of mattering that alone opens the [the old lesson](piece_the_old_lesson.md).

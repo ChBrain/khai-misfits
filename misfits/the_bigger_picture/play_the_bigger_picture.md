@@ -80,7 +80,7 @@ Draw the causal structure, decide which variable is a confounder to adjust away 
 - [The Lurking Variable](piece_the_lurking_variable.md)
 - [The Reversal](piece_the_reversal.md)
 - [The Verdict](piece_the_verdict.md)
-- [The Bigger Picture](piece_the_bigger_picture.md)
+- [The Pooled Whole](piece_the_pooled_whole.md)
 
 ## Triggers
 

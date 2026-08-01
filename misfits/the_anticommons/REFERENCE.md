@@ -71,6 +71,6 @@ Source to constraint, per element.
   Heller & Eisenberg), rising with the number of owners until it exceeds the value.
 - **[The Idle Resource](piece_the_idle_resource.md)**: carries the underused resource (Heller), the empty
   storefront and the shelved drug, and the cruel term that the fair seller is left worst off.
-- **[The Anticommons](piece_the_anticommons.md)**: carries the phenomenon whole (Heller; Buchanan & Yoon), the
+- **[The Idle Pool](piece_the_idle_pool.md)**: carries the phenomenon whole (Heller; Buchanan & Yoon), the
   overowned resource sitting idle, and its remedy in consolidation at a cost, the veto that must be
   overridden to free what too many owned.

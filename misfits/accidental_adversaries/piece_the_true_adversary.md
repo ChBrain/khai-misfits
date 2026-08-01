@@ -37,4 +37,4 @@ To the mender it can look like a fantasy that justifies never stopping; to the w
 ## Yearbook
 
 Played by [the predator](persona_the_predator.md), tabled as [Take the Opening](plan_take_the_opening.md), the peril [See the Whole](plan_see_the_whole.md) must risk.
-It is the rare real exploiter tangled in the accident: the True Adversary is why de-escalation cannot be safe, the reason answering [accidental adversaries](piece_accidental_adversaries.md) is a step taken undefended.
+It is the rare real exploiter tangled in the accident: the True Adversary is why de-escalation cannot be safe, the reason answering [the rivalry](piece_the_rivalry.md) is a step taken undefended.

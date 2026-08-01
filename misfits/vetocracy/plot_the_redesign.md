@@ -30,7 +30,7 @@ The proposal is to cut veto points and gather the scattered power to decide into
 
 ## Stage
 
-[The Consolidator](persona_the_consolidator.md) tables [Cut the Thicket](plan_cut_the_thicket.md) and answers [vetocracy](piece_vetocracy.md) by removing veto points, unable to spare only the obstructions.
+[The Consolidator](persona_the_consolidator.md) tables [Cut the Thicket](plan_cut_the_thicket.md) and answers [the standstill](piece_the_standstill.md) by removing veto points, unable to spare only the obstructions.
 [The Sentinel](persona_the_sentinel.md) tables [Guard the Checks](plan_guard_the_checks.md), holding that the power freed to act is the power [the guard](piece_the_guard.md) restrained.
 
 ## Tension

@@ -37,4 +37,4 @@ It looks like exactly what a driver should do: minimise your own time, take the 
 ## Yearbook
 
 Driven by [the commuter](persona_the_commuter.md) through [routing](process_routing.md), and refused, for a while, by whatever traffic still holds to [the old route](place_the_old_route.md).
-It is the engine under every reroute: the Selfish Route is what carries traffic onto [the extra road](piece_the_extra_road.md), and its sum over every driver is [the equilibrium](piece_the_equilibrium.md) the network cannot escape by itself.
+It is the engine under every reroute: the Selfish Route is what carries traffic onto [the added lane](piece_the_added_lane.md), and its sum over every driver is [the equilibrium](piece_the_equilibrium.md) the network cannot escape by itself.

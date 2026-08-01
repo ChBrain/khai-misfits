@@ -37,4 +37,4 @@ Seen at the surface, the Verdict looks like good decision-making, a choice made 
 ## Yearbook
 
 Handed down by [the decider](persona_the_decider.md) carrying [the reversal](piece_the_reversal.md), the call made on the total.
-It is where the trap costs: the Verdict acts on [the total](piece_the_total.md) against [the strata](piece_the_strata.md), the decision that only [adjudicating](process_adjudicating.md) could have grounded, the action in the world the [bigger picture](piece_the_bigger_picture.md) takes on a level it cannot justify.
+It is where the trap costs: the Verdict acts on [the total](piece_the_total.md) against [the strata](piece_the_strata.md), the decision that only [adjudicating](process_adjudicating.md) could have grounded, the action in the world the [the pooled whole](piece_the_pooled_whole.md) takes on a level it cannot justify.

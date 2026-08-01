@@ -80,7 +80,7 @@ Open the ring to the outside, subject the domain to the president and the budget
 - [The Favour](piece_the_favour.md)
 - [The Seal](piece_the_seal.md)
 - [The Outside](piece_the_outside.md)
-- [The Iron Triangle](piece_the_iron_triangle.md)
+- [The Closed Ring](piece_the_closed_ring.md)
 
 ## Triggers
 

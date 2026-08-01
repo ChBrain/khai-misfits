@@ -37,4 +37,4 @@ Seen at the surface, the Support looks like citizenship in action, a group lawfu
 ## Yearbook
 
 Supplied by [the lobbyist](persona_the_lobbyist.md) through [supplying](process_supplying.md), the interest's currency in the ring.
-It is one leg of the trap: the Support buys [the budget](piece_the_budget.md) from the committee and [the favour](piece_the_favour.md) from the agency, closing the circuit that [the seal](piece_the_seal.md) holds shut, the first of the three exchanges that make the [iron triangle](piece_the_iron_triangle.md).
+It is one leg of the trap: the Support buys [the budget](piece_the_budget.md) from the committee and [the favour](piece_the_favour.md) from the agency, closing the circuit that [the seal](piece_the_seal.md) holds shut, the first of the three exchanges that make the [the closed ring](piece_the_closed_ring.md).

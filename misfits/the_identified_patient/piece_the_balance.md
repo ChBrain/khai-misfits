@@ -37,4 +37,4 @@ Seen at the surface, the Balance looks like health, a whole at rest, and the tru
 ## Yearbook
 
 Bought by [the symptom](piece_the_symptom.md) through [stabilising](process_stabilising.md), the steadiness of the whole held up by the one.
-It is the motive of the trap: the Balance is what [the kin](persona_the_kin.md) keeps and the patient's recovery threatens, the calm defended by pulling the one back or recruiting another, the homeostasis [surfacing](process_surfacing.md) must unsettle to meet [the fracture](piece_the_fracture.md), steadying the whole [identified patient](piece_the_identified_patient.md).
+It is the motive of the trap: the Balance is what [the kin](persona_the_kin.md) keeps and the patient's recovery threatens, the calm defended by pulling the one back or recruiting another, the homeostasis [surfacing](process_surfacing.md) must unsettle to meet [the fracture](piece_the_fracture.md), steadying the whole [the settled strain](piece_the_settled_strain.md).

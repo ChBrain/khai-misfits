@@ -30,7 +30,7 @@ Accept that the service costs more every year and that this is right, not a fail
 
 ## Implementation
 
-([The Budget](place_the_budget.md); the [pricing](process_pricing.md) it accepts; [baumol's cost disease](piece_baumols_cost_disease.md) is answered by paying [the rising cost](piece_the_rising_cost.md) out of the prosperity that raised it.)
+([The Budget](place_the_budget.md); the [pricing](process_pricing.md) it accepts; [the dearer hour](piece_the_dearer_hour.md) is answered by paying [the rising cost](piece_the_rising_cost.md) out of the prosperity that raised it.)
 
 ## Targets
 

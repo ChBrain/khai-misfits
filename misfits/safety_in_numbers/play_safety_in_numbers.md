@@ -39,7 +39,7 @@ Hold the numbers above the line: keep the density over the critical threshold by
 
 **Pitch**
 
-- [Safety in Numbers](pitch_safety_in_numbers.md)
+- [The More of Us, the Safer](pitch_the_more_of_us_the_safer.md)
 
 **Personas**
 

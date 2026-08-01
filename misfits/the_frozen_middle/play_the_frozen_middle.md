@@ -94,7 +94,7 @@ Measure the middle on the change instead of the quarter and the layer thaws: the
 - [The Smoothing](piece_the_smoothing.md)
 - [The On-Track Report](piece_the_on_track_report.md)
 - [The Dampening](piece_the_dampening.md)
-- [The Frozen Middle](piece_the_frozen_middle.md)
+- [The Softening](piece_the_softening.md)
 
 ## Triggers
 

@@ -88,5 +88,5 @@ Source to constraint, per element.
   base rate that sizes the risk and the great dull danger no story is told about.
 - **[The Overreach](piece_the_overreach.md)**: carries the salience-driven response (Kuran & Sunstein; Sunstein),
   the regulation allocated to the vivid risk while the statistical one goes unmet.
-- **[The Availability Cascade](piece_the_availability_cascade.md)**: carries the phenomenon whole (Kuran &
+- **[The Repetition](piece_the_repetition.md)**: carries the phenomenon whole (Kuran &
   Sunstein), the self-reinforcing chain that makes a perception ever more available and drives risk regulation.

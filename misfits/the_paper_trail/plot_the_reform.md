@@ -30,7 +30,7 @@ The proposal is to judge the honesty of the judgement and not the thickness of t
 
 ## Stage
 
-[The Reformer](persona_the_reformer.md) tables [Change the Incentive](plan_change_the_incentive.md) and answers [the paper trail](piece_the_paper_trail.md) by turning [the blame](piece_the_blame.md) from the process to the honesty of the judgement.
+[The Reformer](persona_the_reformer.md) tables [Change the Incentive](plan_change_the_incentive.md) and answers [the bent work](piece_the_bent_work.md) by turning [the blame](piece_the_blame.md) from the process to the honesty of the judgement.
 [The Diligent](persona_the_diligent.md) tables [Use My Judgement](plan_use_my_judgement.md) and finds it might, at last, no longer read as a corner cut.
 
 ## Tension

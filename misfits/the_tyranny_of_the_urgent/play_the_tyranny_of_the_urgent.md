@@ -80,7 +80,7 @@ Fence an hour for the important against the urgent, act on the deadline-less thi
 - [The Payoff](piece_the_payoff.md)
 - [The Someday](piece_the_someday.md)
 - [The Undone](piece_the_undone.md)
-- [The Tyranny of the Urgent](piece_the_tyranny_of_the_urgent.md)
+- [The Deferred](piece_the_deferred.md)
 
 ## Triggers
 

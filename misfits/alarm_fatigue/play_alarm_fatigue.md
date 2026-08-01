@@ -82,7 +82,7 @@ Retune it, raise the threshold, prioritise and cluster and quiet the nuisance so
 - [The Numbness](piece_the_numbness.md)
 - [The Miss](piece_the_miss.md)
 - [The Retune](piece_the_retune.md)
-- [Alarm Fatigue](piece_alarm_fatigue.md)
+- [The Deafening](piece_the_deafening.md)
 
 ## Triggers
 

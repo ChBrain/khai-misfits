@@ -37,4 +37,4 @@ Seen at the surface, the Prior looks like actuarial good sense, the same an insu
 ## Yearbook
 
 Held by [the Employer](persona_the_employer.md) through [screening](process_screening.md), the belief the individual is priced by.
-It is the root of the trap: the Prior sets [the discount](piece_the_discount.md) on [the signal](piece_the_signal.md), the discount that drives the withholding, and it is what [the confirmation](piece_the_confirmation.md) proves true, the rating the whole [proxy](piece_the_proxy.md) rests on.
+It is the root of the trap: the Prior sets [the discount](piece_the_discount.md) on [the signal](piece_the_signal.md), the discount that drives the withholding, and it is what [the confirmation](piece_the_confirmation.md) proves true, the rating the whole [the price of the group](piece_the_price_of_the_group.md) rests on.

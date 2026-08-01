@@ -79,7 +79,7 @@ Treat the system rather than the member, name the fracture the symptom hides, ho
 - [The Frame](piece_the_frame.md)
 - [The Role](piece_the_role.md)
 - [The Balance](piece_the_balance.md)
-- [The Identified Patient](piece_the_identified_patient.md)
+- [The Settled Strain](piece_the_settled_strain.md)
 
 ## Triggers
 

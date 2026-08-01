@@ -37,4 +37,4 @@ A principal who answers every question truthfully and is contradicted by no evid
 ## Yearbook
 
 Made by [the principal](persona_the_principal.md) through [denying](process_denying.md), founded on [the blindfold](piece_the_blindfold.md) and [the cut-out](piece_the_cut_out.md).
-It is the honest disavowal that acquits: the Denial leaves [the deniable agent](piece_the_deniable_agent.md) alone, and is the true answer [plausible deniability](piece_plausible_deniability.md) is built to earn.
+It is the honest disavowal that acquits: the Denial leaves [the deniable agent](piece_the_deniable_agent.md) alone, and is the true answer [the severance](piece_the_severance.md) is built to earn.

@@ -37,4 +37,4 @@ Seen at the surface, the Fracture does not appear at all: the eye goes to the sy
 ## Yearbook
 
 Hidden by [scapegoating](process_scapegoating.md) and stood in for by [the symptom](piece_the_symptom.md), the strain the whole cannot face.
-It is the source of the trap: the Fracture is what [the frame](piece_the_frame.md) points away from and [the balance](piece_the_balance.md) keeps shut, the trouble that [surfacing](process_surfacing.md) alone would meet, the unfaced twin of the visible symptom, the thing the whole [identified patient](piece_the_identified_patient.md) is built to keep from view.
+It is the source of the trap: the Fracture is what [the frame](piece_the_frame.md) points away from and [the balance](piece_the_balance.md) keeps shut, the trouble that [surfacing](process_surfacing.md) alone would meet, the unfaced twin of the visible symptom, the thing the whole [the settled strain](piece_the_settled_strain.md) is built to keep from view.

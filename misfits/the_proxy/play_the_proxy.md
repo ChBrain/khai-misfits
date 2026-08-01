@@ -84,7 +84,7 @@ Mandate the group's hiring, and the prior might break: but whether it does turns
 - [The Signal](piece_the_signal.md)
 - [The Discount](piece_the_discount.md)
 - [The Confirmation](piece_the_confirmation.md)
-- [The Proxy](piece_the_proxy.md)
+- [The Price of the Group](piece_the_price_of_the_group.md)
 
 ## Triggers
 

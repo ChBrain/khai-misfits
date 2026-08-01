@@ -80,7 +80,7 @@ Arrange from outside a graded demonstration that control has returned, small eno
 - [The Dead Lever](piece_the_dead_lever.md)
 - [The Verdict](piece_the_verdict.md)
 - [The Immunity](piece_the_immunity.md)
-- [The Open Cage](piece_the_open_cage.md)
+- [The Old Lesson](piece_the_old_lesson.md)
 
 ## Triggers
 

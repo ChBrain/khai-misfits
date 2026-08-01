@@ -37,4 +37,4 @@ A bad outcome after which every hand is shown to have followed the process looks
 ## Yearbook
 
 Made through [blaming](process_blaming.md) come full circle, the end [Cover Yourself](plan_cover_yourself.md) reaches and [Seek the Outcome](plan_seek_the_outcome.md) bears.
-It is where the trail arrives: the Covered Failure is [the displacement](piece_the_displacement.md) paid out, dissolved by [the diffusion](piece_the_diffusion.md), the missed aim at the heart of [the paper trail](piece_the_paper_trail.md).
+It is where the trail arrives: the Covered Failure is [the displacement](piece_the_displacement.md) paid out, dissolved by [the diffusion](piece_the_diffusion.md), the missed aim at the heart of [the bent work](piece_the_bent_work.md).

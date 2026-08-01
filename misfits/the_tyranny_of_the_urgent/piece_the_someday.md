@@ -37,4 +37,4 @@ Seen at the surface, the Someday looks like intention kept, the worthy work held
 ## Yearbook
 
 Kept in [the backlog](place_the_backlog.md) through [deferring](process_deferring.md), the later the important is always pushed to.
-It is the mechanism of the trap: the Someday lets [the payoff](piece_the_payoff.md) be postponed without ever being dropped, the receding later that turns each reasonable deferral into [the undone](piece_the_undone.md), the hiding place the [tyranny of the urgent](piece_the_tyranny_of_the_urgent.md) keeps the worthy work in.
+It is the mechanism of the trap: the Someday lets [the payoff](piece_the_payoff.md) be postponed without ever being dropped, the receding later that turns each reasonable deferral into [the undone](piece_the_undone.md), the hiding place the [the deferred](piece_the_deferred.md) keeps the worthy work in.

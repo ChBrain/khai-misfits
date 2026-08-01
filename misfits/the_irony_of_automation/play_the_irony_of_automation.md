@@ -82,7 +82,7 @@ Keep the operator in the loop, drill the skills the automation no longer exercis
 - [The Drift](piece_the_drift.md)
 - [The Cold Seat](piece_the_cold_seat.md)
 - [The Drill](piece_the_drill.md)
-- [The Irony of Automation](piece_the_irony_of_automation.md)
+- [The Unreadiness](piece_the_unreadiness.md)
 
 ## Triggers
 

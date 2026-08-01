@@ -37,4 +37,4 @@ Seen at the surface, the Squeeze looks like the trade defeated, a cost raised so
 ## Yearbook
 
 Made by [the enforcer](persona_the_enforcer.md) through [squeezing](process_squeezing.md), the local press that clears the patch.
-It is the act of the trap: the Squeeze presses [the pressure](piece_the_pressure.md) without draining it and so drives [the bulge](piece_the_bulge.md) next door, the real win counted as [the clearance](piece_the_clearance.md), the shove that keeps [the conservation](piece_the_conservation.md) whole across the [balloon effect](piece_the_balloon_effect.md).
+It is the act of the trap: the Squeeze presses [the pressure](piece_the_pressure.md) without draining it and so drives [the bulge](piece_the_bulge.md) next door, the real win counted as [the clearance](piece_the_clearance.md), the shove that keeps [the conservation](piece_the_conservation.md) whole across the [the displacement](piece_the_displacement.md).

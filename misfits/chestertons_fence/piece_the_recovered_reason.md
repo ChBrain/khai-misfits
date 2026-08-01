@@ -37,4 +37,4 @@ Recovered in time it looks like needless caution rewarded; recovered too late it
 ## Yearbook
 
 Sought by [the inquirer](persona_the_inquirer.md) and reconstructed by [the investigator](persona_the_investigator.md) through [recovering](process_recovering.md), dug back out of [the forgotten reason](piece_the_forgotten_reason.md).
-It is the knowledge the fence needed to speak: the Recovered Reason is what answers [chesterton's fence](piece_chestertons_fence.md), when it comes at all, and whether it comes in time.
+It is the knowledge the fence needed to speak: the Recovered Reason is what answers [the removal](piece_the_removal.md), when it comes at all, and whether it comes in time.

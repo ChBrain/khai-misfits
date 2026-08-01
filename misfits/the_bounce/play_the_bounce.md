@@ -90,7 +90,7 @@ Judge the trend, not the extreme, and the bounce loses its witness: the mean is 
 - [The Mean](piece_the_mean.md)
 - [The Noise](piece_the_noise.md)
 - [The Extreme](piece_the_extreme.md)
-- [The Bounce](piece_the_bounce.md)
+- [The Return](piece_the_return.md)
 - [The Credit](piece_the_credit.md)
 - [The False Lesson](piece_the_false_lesson.md)
 - [The Missing Counterfactual](piece_the_missing_counterfactual.md)

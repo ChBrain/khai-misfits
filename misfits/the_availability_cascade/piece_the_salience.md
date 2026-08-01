@@ -37,4 +37,4 @@ Seen at the surface, the Salience looks like ordinary prudence, taking familiari
 ## Yearbook
 
 Raised by [amplifying](process_amplifying.md) and fed by [the story](piece_the_story.md), the felt probability that vividness lends a risk.
-It is the engine of the trap: the Salience turns the availability of [the story](piece_the_story.md) into the fear the crowd updates on in [the consensus](piece_the_consensus.md), the reason [the cold number](piece_the_cold_number.md) cannot compete, driving [the availability cascade](piece_the_availability_cascade.md) upward.
+It is the engine of the trap: the Salience turns the availability of [the story](piece_the_story.md) into the fear the crowd updates on in [the consensus](piece_the_consensus.md), the reason [the cold number](piece_the_cold_number.md) cannot compete, driving [the repetition](piece_the_repetition.md) upward.

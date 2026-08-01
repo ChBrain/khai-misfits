@@ -80,5 +80,5 @@ Source to constraint, per element.
   apart where a slacker one would have flexed.
 - **[The Insurance](piece_the_insurance.md)**: carries the remedy (Taleb), the slack held deliberately against
   the unforeseeable shock, at a standing cost that cannot prove its worth.
-- **[The Brittle Optimum](piece_the_brittle_optimum.md)**: carries the phenomenon whole (Perrow; Taleb), a
+- **[The Trimmed Reserve](piece_the_trimmed_reserve.md)**: carries the phenomenon whole (Perrow; Taleb), a
   system optimised to the point that it shatters, and its remedy in a reserve that always looks like waste.

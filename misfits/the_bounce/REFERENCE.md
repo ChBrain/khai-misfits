@@ -63,7 +63,7 @@ Source to constraint, per element.
   and mistaken for signal.
 - **[The Extreme](piece_the_extreme.md)**: carries the outlier (Galton; Tversky & Kahneman), the result made mostly of
   noise that triggers the reaction and guarantees the retreat.
-- **[The Bounce](piece_the_bounce.md)**: carries regression to the mean in motion (Galton), the free reversion no
+- **[The Return](piece_the_return.md)**: carries regression to the mean in motion (Galton), the free reversion no
   action caused.
 - **[The Credit](piece_the_credit.md)**: carries the misattribution (Kahneman & Tversky), a real reversion booked to
   the intervention that preceded it.

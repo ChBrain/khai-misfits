@@ -30,7 +30,7 @@ The proposal is to hold the standard flat, grant no slack for virtue, and treat 
 
 ## Stage
 
-[The Consistent](persona_the_consistent.md) tables [Hold the Line](plan_hold_the_line.md) and answers [moral licensing](piece_moral_licensing.md) by refusing [the license](piece_the_license.md), so the good can add.
+[The Consistent](persona_the_consistent.md) tables [Hold the Line](plan_hold_the_line.md) and answers [the credit](piece_the_credit.md) by refusing [the license](piece_the_license.md), so the good can add.
 [The Motivator](persona_the_motivator.md) tables [Keep It Worth Doing](plan_keep_it_worth_doing.md), defending [the earned rest](piece_the_earned_rest.md) and, with it, the door the licence needs.
 
 ## Tension

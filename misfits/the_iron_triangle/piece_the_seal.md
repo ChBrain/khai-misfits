@@ -37,4 +37,4 @@ Seen at the surface, the Seal looks like good order, a mature domain run by thos
 ## Yearbook
 
 Kept by all three corners through [sealing](process_sealing.md), the closure that holds the ring.
-It is the iron of the trap: the Seal braces the three exchanges of [the support](piece_the_support.md), [the budget](piece_the_budget.md), and [the favour](piece_the_favour.md) into a fortress shut to [the outside](piece_the_outside.md), the stability only [opening](process_opening.md) can break, the three-cornered strength that makes the [iron triangle](piece_the_iron_triangle.md) iron.
+It is the iron of the trap: the Seal braces the three exchanges of [the support](piece_the_support.md), [the budget](piece_the_budget.md), and [the favour](piece_the_favour.md) into a fortress shut to [the outside](piece_the_outside.md), the stability only [opening](process_opening.md) can break, the three-cornered strength that makes the [the closed ring](piece_the_closed_ring.md) iron.

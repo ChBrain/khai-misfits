@@ -37,4 +37,4 @@ Seen at the surface, the No-Win looks like the bound one's failure, a person who
 ## Yearbook
 
 Sprung on [the bound](persona_the_bound.md) through [straining](process_straining.md), the state where no answer is right.
-It is the trap sprung: the No-Win is what [the double message](piece_the_double_message.md) does to whoever answers it, held shut by [the bond](piece_the_bond.md) and [the gag](piece_the_gag.md), the impossibility that hardens into [the pattern](piece_the_pattern.md), the checkmate at the centre of the [double bind](piece_the_double_bind.md).
+It is the trap sprung: the No-Win is what [the double message](piece_the_double_message.md) does to whoever answers it, held shut by [the bond](piece_the_bond.md) and [the gag](piece_the_gag.md), the impossibility that hardens into [the pattern](piece_the_pattern.md), the checkmate at the centre of the [the bind](piece_the_bind.md).

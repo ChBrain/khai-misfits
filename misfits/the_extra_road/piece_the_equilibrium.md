@@ -37,4 +37,4 @@ It looks like a system at rest, sorted, efficient, each driver settled on their 
 ## Yearbook
 
 Formed by every [selfish route](piece_the_selfish_route.md) at once, and hardened by [the dispatcher](persona_the_dispatcher.md) routing the fleet the same way.
-It is the state the production drives toward: the Equilibrium is where [the extra road](piece_the_extra_road.md) leads, [the slowdown](piece_the_slowdown.md) is what it measures, and only [pricing](process_pricing.md) can move the whole network off it at once.
+It is the state the production drives toward: the Equilibrium is where [the added lane](piece_the_added_lane.md) leads, [the slowdown](piece_the_slowdown.md) is what it measures, and only [pricing](process_pricing.md) can move the whole network off it at once.

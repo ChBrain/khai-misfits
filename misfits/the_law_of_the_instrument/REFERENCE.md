@@ -77,5 +77,5 @@ Source to constraint, per element.
   the instrument could not reach, returning behind a clean strike.
 - **[The Mastery](piece_the_mastery.md)**: carries the specialised investment that fixes the reach, the house's Path
   Dependence worn as skill: depth so worth having it stops the hand from choosing the fitting tool.
-- **[The Law of the Instrument](piece_the_law_of_the_instrument.md)**: carries the phenomenon whole (Kaplan; Maslow), the
+- **[The Hammer](piece_the_hammer.md)**: carries the phenomenon whole (Kaplan; Maslow), the
   mastered tool deciding what the problem is, and its remedy in diagnosis before choice at a cost.

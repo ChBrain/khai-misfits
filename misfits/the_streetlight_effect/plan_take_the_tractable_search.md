@@ -30,7 +30,7 @@ Comb the light, and do not pour cost into an unsearchable dark. Weigh the certai
 
 ## Implementation
 
-([The Lamplighting](place_the_lamplighting.md); the [lighting](process_lighting.md) it resists; against [the streetlight effect](piece_the_streetlight_effect.md) it weighs the cost of lighting [the dark](piece_the_dark.md), right often enough to be trusted exactly when it is wrong.)
+([The Lamplighting](place_the_lamplighting.md); the [lighting](process_lighting.md) it resists; against [the lit ground](piece_the_lit_ground.md) it weighs the cost of lighting [the dark](piece_the_dark.md), right often enough to be trusted exactly when it is wrong.)
 
 ## Targets
 

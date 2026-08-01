@@ -37,4 +37,4 @@ Seen at the surface, the Favour looks like competent public service, an agency c
 ## Yearbook
 
 Supplied by [the administrator](persona_the_administrator.md) through [supplying](process_supplying.md), the agency's currency in the ring.
-It is one leg of the trap: the Favour buys [the support](piece_the_support.md) from the interest and [the budget](piece_the_budget.md) from the committee, closing the circuit that [the seal](piece_the_seal.md) holds shut, the third of the three exchanges that make the [iron triangle](piece_the_iron_triangle.md).
+It is one leg of the trap: the Favour buys [the support](piece_the_support.md) from the interest and [the budget](piece_the_budget.md) from the committee, closing the circuit that [the seal](piece_the_seal.md) holds shut, the third of the three exchanges that make the [the closed ring](piece_the_closed_ring.md).

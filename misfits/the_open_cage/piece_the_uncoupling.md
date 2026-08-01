@@ -37,4 +37,4 @@ Seen at the surface, the Uncoupling looks like a rough patch to be waited out, a
 ## Yearbook
 
 Made by [the overrider](persona_the_overrider.md) through [overriding](process_overriding.md), the severance of action from outcome.
-It is the cause of the trap: the Uncoupling teaches [the expectation](piece_the_expectation.md) that carries forward, so [the dead lever](piece_the_dead_lever.md) goes untested and [the verdict](piece_the_verdict.md) misreads the result, the true powerlessness that founds the whole [open cage](piece_the_open_cage.md).
+It is the cause of the trap: the Uncoupling teaches [the expectation](piece_the_expectation.md) that carries forward, so [the dead lever](piece_the_dead_lever.md) goes untested and [the verdict](piece_the_verdict.md) misreads the result, the true powerlessness that founds the whole [the old lesson](piece_the_old_lesson.md).

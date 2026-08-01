@@ -37,4 +37,4 @@ Seen at the surface, the Cold Number looks like indifference, a figure that wave
 ## Yearbook
 
 Held up by [the assessor](persona_the_assessor.md) through [weighing](process_weighing.md), the base rate that would size the danger by its harm.
-It is the wronged measure of the trap: the Cold Number is the truth [the salience](piece_the_salience.md) drowns and [the consensus](piece_the_consensus.md) outvotes, the vast dull risk that [the overreach](piece_the_overreach.md) leaves unmet, the unvivid twin of [the story](piece_the_story.md) that alone could turn [the availability cascade](piece_the_availability_cascade.md) back.
+It is the wronged measure of the trap: the Cold Number is the truth [the salience](piece_the_salience.md) drowns and [the consensus](piece_the_consensus.md) outvotes, the vast dull risk that [the overreach](piece_the_overreach.md) leaves unmet, the unvivid twin of [the story](piece_the_story.md) that alone could turn [the repetition](piece_the_repetition.md) back.

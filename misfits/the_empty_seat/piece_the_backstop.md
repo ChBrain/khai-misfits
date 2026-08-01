@@ -37,4 +37,4 @@ Seen at the surface, the Backstop looks like safety assured, a person in the loo
 ## Yearbook
 
 Meant to be kept by [the operator](persona_the_operator.md) and hollowed through [deferring](process_deferring.md) and [coasting](process_coasting.md), the safeguard the seat was for.
-It is the cost of the trap: the Backstop is emptied by [the override](piece_the_override.md) and [the lapse](piece_the_lapse.md), priced out by [rewarding](process_rewarding.md), and kept live only by [checking](process_checking.md), the hollow guard at the centre of the [empty seat](piece_the_empty_seat.md).
+It is the cost of the trap: the Backstop is emptied by [the override](piece_the_override.md) and [the lapse](piece_the_lapse.md), priced out by [rewarding](process_rewarding.md), and kept live only by [checking](process_checking.md), the hollow guard at the centre of the [the hollow backstop](piece_the_hollow_backstop.md).

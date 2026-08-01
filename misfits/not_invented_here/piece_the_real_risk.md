@@ -37,4 +37,4 @@ To the gatekeeper it can look like all reflex dressed as reason; to the guardian
 ## Yearbook
 
 Named by [the guardian](persona_the_guardian.md), weighed within [bridging](process_bridging.md), the peril [Guard the Boundary](plan_guard_the_boundary.md) presses and [Bridge the Boundary](plan_bridge_the_boundary.md) must admit.
-It is the true danger tangled in the reflex: the Real Risk is why refusing every import is wrong and opening to all of them is dangerous, the reason answering [not-invented-here](piece_not_invented_here.md) cannot be done with a clean knife.
+It is the true danger tangled in the reflex: the Real Risk is why refusing every import is wrong and opening to all of them is dangerous, the reason answering [the refusal](piece_the_refusal.md) cannot be done with a clean knife.

@@ -80,7 +80,7 @@ Keep the human genuinely in the loop by forcing independent judgement before the
 - [The Override](piece_the_override.md)
 - [The Lapse](piece_the_lapse.md)
 - [The Backstop](piece_the_backstop.md)
-- [The Empty Seat](piece_the_empty_seat.md)
+- [The Hollow Backstop](piece_the_hollow_backstop.md)
 
 ## Triggers
 

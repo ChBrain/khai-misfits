@@ -35,5 +35,5 @@ Seen at the surface, the Higher Table looks like tidying, an efficiency of scale
 
 ## Yearbook
 
-Raised by [the state](persona_the_state.md) through [preempting](process_preempting.md), against [the homeowner](persona_the_homeowner.md) who insured [the only basket](piece_the_only_basket.md) at [the hearing](place_the_hearing.md).
+Raised by [the state](persona_the_state.md) through [preempting](process_preempting.md), against [the homeowner](persona_the_homeowner.md) who insured [the only home](piece_the_only_home.md) at [the hearing](place_the_hearing.md).
 It is the last move of the misfit: the Higher Table answers [the shortage](piece_the_shortage.md) by taking from the owner the same [ballot](piece_the_ballot.md) that once defended them, so that [the newcomer](persona_the_newcomer.md) counts at last, at the cost of the control the whole trap was built to protect.

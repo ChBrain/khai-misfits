@@ -85,7 +85,7 @@ Cut the thicket, remove veto points, concentrate the authority to act, and the s
 - [The Extraction](piece_the_extraction.md)
 - [The Foregone](piece_the_foregone.md)
 - [The Guard](piece_the_guard.md)
-- [Vetocracy](piece_vetocracy.md)
+- [The Standstill](piece_the_standstill.md)
 
 ## Triggers
 

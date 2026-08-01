@@ -30,7 +30,7 @@ Outage after outage, each on a boundary between two teams. Someone lays the inci
 
 ## Stage
 
-[The Maintainer](persona_the_maintainer.md) works [Hold the Seam](plan_hold_the_seam.md): patch it, restart it, trace each failure to the two teams it lives between, and name that [the mirror](piece_the_mirror.md) is real.
+[The Maintainer](persona_the_maintainer.md) works [Hold the Seam](plan_hold_the_seam.md): patch it, restart it, trace each failure to the two teams it lives between, and name that [the reflection](piece_the_reflection.md) is real.
 The architecture never had a chance the org was not shaped for: the system is a copy of the communication structure that built it.
 
 ## Tension

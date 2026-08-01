@@ -37,4 +37,4 @@ Seen at the surface, the Blind Spot looks like justified certainty, an expert su
 ## Yearbook
 
 Shared by [the knower](persona_the_knower.md) and [the peer](persona_the_peer.md) across [ratifying](process_ratifying.md), the missing sight of the gap.
-It is the seal of the trap: the Blind Spot hides [the gap](piece_the_gap.md) from everyone who knows, so [the miss](piece_the_miss.md) passes uncaught and only [testing](process_testing.md) from outside can reveal it, the sightlessness that makes [second nature](piece_second_nature.md) invisible to the very minds it traps.
+It is the seal of the trap: the Blind Spot hides [the gap](piece_the_gap.md) from everyone who knows, so [the miss](piece_the_miss.md) passes uncaught and only [testing](process_testing.md) from outside can reveal it, the sightlessness that makes [the buried step](piece_the_buried_step.md) invisible to the very minds it traps.

@@ -30,7 +30,7 @@ The proposal is to read the outside, translate it into the group's own terms, an
 
 ## Stage
 
-[The Gatekeeper](persona_the_gatekeeper.md) tables [Bridge the Boundary](plan_bridge_the_boundary.md) and answers [not-invented-here](piece_not_invented_here.md) by translating the world across [the boundary](piece_the_boundary.md).
+[The Gatekeeper](persona_the_gatekeeper.md) tables [Bridge the Boundary](plan_bridge_the_boundary.md) and answers [the refusal](piece_the_refusal.md) by translating the world across [the boundary](piece_the_boundary.md).
 [The Guardian](persona_the_guardian.md) tables [Guard the Boundary](plan_guard_the_boundary.md), warning that the same gate admits [the real risk](piece_the_real_risk.md) and thins the cohesion the walls gave.
 
 ## Tension

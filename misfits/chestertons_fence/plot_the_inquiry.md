@@ -30,7 +30,7 @@ The demand is not to keep the fence but to find its reason first, and the search
 
 ## Stage
 
-[The Inquirer](persona_the_inquirer.md) tables [Learn Before Tearing Down](plan_learn_before_tearing_down.md): hunt the reason before a plank comes down, so [chesterton's fence](piece_chestertons_fence.md) is answered by [the recovered reason](piece_the_recovered_reason.md) found in time, the live fence kept and the dead one cleared knowingly.
+[The Inquirer](persona_the_inquirer.md) tables [Learn Before Tearing Down](plan_learn_before_tearing_down.md): hunt the reason before a plank comes down, so [the removal](piece_the_removal.md) is answered by [the recovered reason](piece_the_recovered_reason.md) found in time, the live fence kept and the dead one cleared knowingly.
 [The Reformer](persona_the_reformer.md) tables [Clear It Away](plan_clear_it_away.md) still, and the inquiry holds only if its slowness is borne.
 
 ## Tension

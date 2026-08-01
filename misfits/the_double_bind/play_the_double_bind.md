@@ -80,7 +80,7 @@ Name the bind from outside the rule that forbids naming it, or make the field on
 - [The Gag](piece_the_gag.md)
 - [The No-Win](piece_the_no_win.md)
 - [The Pattern](piece_the_pattern.md)
-- [The Double Bind](piece_the_double_bind.md)
+- [The Bind](piece_the_bind.md)
 
 ## Triggers
 

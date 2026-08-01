@@ -37,4 +37,4 @@ It looks like a pedant's demand: things were bad, we acted, they got better, and
 ## Yearbook
 
 Demanded by [the doubter](persona_the_doubter.md), and supplied only when [the designer](persona_the_designer.md) holds a group back through [control](process_control.md).
-It is the play's decisive absence: without the Missing Counterfactual, [the bounce](piece_the_bounce.md) cannot be told from an effect, and only building it back, by control or base rate or trend, ever exposes [the regression](piece_the_regression.md) beneath the lesson.
+It is the play's decisive absence: without the Missing Counterfactual, [the return](piece_the_return.md) cannot be told from an effect, and only building it back, by control or base rate or trend, ever exposes [the regression](piece_the_regression.md) beneath the lesson.

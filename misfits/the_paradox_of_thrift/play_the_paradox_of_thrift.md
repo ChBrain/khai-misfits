@@ -82,7 +82,7 @@ Let someone spend against the tide, an investor with nerve or a government with 
 - [The Contraction](piece_the_contraction.md)
 - [The Shortfall](piece_the_shortfall.md)
 - [The Injection](piece_the_injection.md)
-- [The Paradox of Thrift](piece_the_paradox_of_thrift.md)
+- [The Common Prudence](piece_the_common_prudence.md)
 
 ## Triggers
 

@@ -85,7 +85,7 @@ Re-aim the levers so that internal advancement rewards the mission served and no
 - [The Drain](piece_the_drain.md)
 - [The Turn Inward](piece_the_turn_inward.md)
 - [The Maintenance](piece_the_maintenance.md)
-- [Pournelle's Iron Law](piece_pournelles_iron_law.md)
+- [The Turned Aim](piece_the_turned_aim.md)
 
 ## Triggers
 

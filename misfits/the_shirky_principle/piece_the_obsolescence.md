@@ -37,4 +37,4 @@ It goes unmentioned, unplanned, unnamed: the one future the body will not model,
 ## Yearbook
 
 Faced only by [the sunsetter](persona_the_sunsetter.md), and avoided by everyone else.
-It is the gravity of the misfit: the Obsolescence is what [the perpetuation](piece_the_perpetuation.md) flees and what [the shirky principle](piece_the_shirky_principle.md) can be cured only by planning for on purpose.
+It is the gravity of the misfit: the Obsolescence is what [the perpetuation](piece_the_perpetuation.md) flees and what [the preserved problem](piece_the_preserved_problem.md) can be cured only by planning for on purpose.

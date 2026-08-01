@@ -82,7 +82,7 @@ Fund the outcome instead of the activity, and sunset the mandate on success, and
 - [The Displacement](piece_the_displacement.md)
 - [The Perpetuation](piece_the_perpetuation.md)
 - [The Obsolescence](piece_the_obsolescence.md)
-- [The Shirky Principle](piece_the_shirky_principle.md)
+- [The Preserved Problem](piece_the_preserved_problem.md)
 
 ## Triggers
 

@@ -30,7 +30,7 @@ Preempt the local restriction, upzone by right, and move the land-use decision t
 
 ## Implementation
 
-([The Statehouse](place_the_statehouse.md); the [preempting](process_preempting.md) process; the decision raised to [the higher table](piece_the_higher_table.md) to lift [the restriction](piece_the_restriction.md) and ease [the shortage](piece_the_shortage.md) ... at the price of the local hedge that guarded [the only basket](piece_the_only_basket.md).)
+([The Statehouse](place_the_statehouse.md); the [preempting](process_preempting.md) process; the decision raised to [the higher table](piece_the_higher_table.md) to lift [the restriction](piece_the_restriction.md) and ease [the shortage](piece_the_shortage.md) ... at the price of the local hedge that guarded [the only home](piece_the_only_home.md).)
 
 ## Targets
 

@@ -92,7 +92,7 @@ Coordinate harder and the seams do not move: they are set by who reports to whom
 - [The Seam](piece_the_seam.md)
 - [The Handoff](piece_the_handoff.md)
 - [The Reorg](piece_the_reorg.md)
-- [The Mirror](piece_the_mirror.md)
+- [The Reflection](piece_the_reflection.md)
 
 ## Triggers
 

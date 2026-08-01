@@ -30,7 +30,7 @@ Grant the reformer his cost and still stay his hand. Hold that not seeing a use 
 
 ## Implementation
 
-([The Archive](place_the_archive.md); the [recovering](process_recovering.md) process; [chesterton's fence](piece_chestertons_fence.md) is answered by finding [the recovered reason](piece_the_recovered_reason.md) in time, at the cost of delay and of fences kept too long.)
+([The Archive](place_the_archive.md); the [recovering](process_recovering.md) process; [the removal](piece_the_removal.md) is answered by finding [the recovered reason](piece_the_recovered_reason.md) in time, at the cost of delay and of fences kept too long.)
 
 ## Targets
 
