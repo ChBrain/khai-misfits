@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The Balance Sheet](place_the_balance_sheet.md), the ceiling capping what the Actor will pay.
-The Actor computing its precaution against the cost it will actually bear and finding the harm above the ceiling costs it nothing.
+[The Actor](persona_the_actor.md) computing its precaution against the cost it will actually bear and finding the harm above the ceiling costs it nothing.
 
 ## Action
 
