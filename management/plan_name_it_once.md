@@ -50,11 +50,21 @@ answer is the house's.
 
 And the cost of the article is not only that it is a fill word. It is filed under
 T. Of 211 staged titles, **97 sort under a single letter**, so nearly half the
-registry browses as one undifferentiated block and the next-largest letter holds 16. Of 7331 element files, **4828 carry `_the_`**, four dead characters between
-the kind and the word that distinguishes it, so every listing, every completion
-and every glob is read around the article rather than by the name. Libraries
-solved this long ago by ignoring a leading article or inverting it. The house
-does not need the workaround if it does not create the problem.
+registry browses as one undifferentiated block while the next-largest letter
+holds 16. Of 7331 element files, **4828 carry `_the_`**, four dead characters
+between the kind and the word that distinguishes it, so every listing, every
+completion and every glob is read around the article rather than by the name.
+
+Libraries settled this long ago, and settled exactly this much: it is the
+**leading** article that drops out of the filing, never one inside the title, and
+the path to a book runs genre, then author, then title without its article. That
+is the same path the house browses: kind, then misfit, then title. But a library
+can afford a split the house cannot. Its card files under C and its spine still
+reads _The Colour of the Bike Shed_, so the sort form and the display form are
+two different objects and the article survives in one of them. The house has no
+spine. The filename is the sort key and the name at once, one string doing both
+jobs, so it carries the article in both places or in neither. Dropping it is not
+the workaround; it is the workaround made unnecessary.
 
 ## Orders
 
