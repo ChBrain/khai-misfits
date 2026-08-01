@@ -36,5 +36,5 @@ A patch where the ground can be seen and combed looks like exactly where a searc
 
 ## Yearbook
 
-Offered by [the light](persona_the_light.md) through [searching](process_searching.md), tabled as [Offer the Easy Ground](plan_offer_the_easy_ground.md).
+Offered by [the lit patch](persona_the_lit_patch.md) through [searching](process_searching.md), tabled as [Offer the Easy Ground](plan_offer_the_easy_ground.md).
 It is the easy ground the search flows to: the Light draws [the easy search](piece_the_easy_search.md) by its cheapness, stands opposite [the dark](piece_the_dark.md) that holds the thing, and offers an ease taken, wrongly, for nearness.

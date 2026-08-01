@@ -28,7 +28,7 @@ Is not hostile to the industry and has funded plenty of expensive drugs that wer
 
 ## Action
 
-Runs [Get Value for the Budget](plan_get_value_for_the_budget.md): through [Paying](process_paying.md) at [the Tariff](place_the_tariff.md), setting [the Tariff](piece_the_tariff.md), and later through [Delinking](process_delinking.md) at the same place, holding [the Subscription](piece_the_subscription.md) and [the Boundary](piece_the_boundary.md).
+Runs [Get Value for the Budget](plan_get_value_for_the_budget.md): through [Paying](process_paying.md) at [The Counter](place_the_counter.md), setting [the Tariff](piece_the_tariff.md), and later through [Delinking](process_delinking.md) at the same place, holding [the Subscription](piece_the_subscription.md) and [the Boundary](piece_the_boundary.md).
 Reimburses per course, checks the invoice against the dispensing record, and refuses to pay for stock nobody took.
 Considers, later, a subscription that pays for access whether or not a single course is dispensed.
 

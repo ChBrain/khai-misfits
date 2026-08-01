@@ -96,7 +96,7 @@ Shade the bid below the estimate, bid as if winning already tells you that you w
 
 ## Triggers
 
-**[The Estimate](plot_the_estimate.md)**
+**[An Honest Number](plot_an_honest_number.md)**
 A prize of one unknown value goes up for sale, and every bidder appraises it honestly, landing somewhere around the truth. The Geologist works up a number. Closes when the field holds a spread of estimates scattered about a value none of them can see.
 
 **[The Auction](plot_the_auction.md)**
@@ -108,7 +108,7 @@ Cue: the prize is taken and the room celebrates. The Winner claims it and the Bo
 **[The Reckoning](plot_the_reckoning.md)**
 Cue: the true value comes in, below the price paid. The Board writes it down and the Underbidders, who lost, turn out to have been spared. Closes when the loss is named as the winner's curse ... or blamed on bad luck and poor execution, and the next auction is entered the same way.
 
-**[The Shade](plot_the_shade.md)**
+**[Bidding the Win, Not the Worth](plot_bidding_the_win_not_the_worth.md)**
 Cue: someone bids as if winning already carries bad news. The Strategist shades the bid below the estimate to correct for the selection. Closes when bids are set for the curse, winning less often and profiting when they do ... or shading is judged too timid, and the firm bids to win again.
 
 ## Stakes

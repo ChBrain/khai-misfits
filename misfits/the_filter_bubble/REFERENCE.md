@@ -78,5 +78,5 @@ Source to constraint, per element.
   like-minded enclave hardening as it hears only itself.
 - **[The Serendipity](piece_the_serendipity.md)**: carries the remedy (Sunstein), the exposure to the unchosen
   that holds the range open, and the friction that makes it costly.
-- **[The Filter Bubble](piece_the_filter_bubble.md)**: carries the phenomenon whole (Pariser; Sunstein), a feed
+- **[The Fragmenting](piece_the_fragmenting.md)**: carries the phenomenon whole (Pariser; Sunstein), a feed
   that pleases each reader and fragments the common world, held open only against the pull of both.

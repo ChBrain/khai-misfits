@@ -26,7 +26,7 @@ An irrelevance to the case at hand, as though the wider count of the healthy and
 
 ## Action
 
-Stay few. At [the Population](place_the_population.md), the Population on [Stay Few](plan_stay_few.md) through [Distributing](process_distributing.md) holds [the Rare Condition](piece_the_rare_condition.md), present in only a small fraction of its many, one in a thousand or fewer, the low real rate fixed before any test is given (Casscells, Schoenberger and Grayboys).
+Stay few. At [The Field](place_the_field.md), the Population on [Stay Few](plan_stay_few.md) through [Distributing](process_distributing.md) holds [the Rare Condition](piece_the_rare_condition.md), present in only a small fraction of its many, one in a thousand or fewer, the low real rate fixed before any test is given (Casscells, Schoenberger and Grayboys).
 
 ## Shadow
 

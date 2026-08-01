@@ -26,7 +26,7 @@ Take the pass and do the lesser thing. Feel it as owed, a treat rather than a fa
 
 ## Orders
 
-([The Lapse](persona_the_lapse.md) takes the granted pass and does the lesser thing, bringing the balance to level and hiding its cost in the warmth of desert.)
+([The Permitted Act](persona_the_permitted_act.md) takes the granted pass and does the lesser thing, bringing the balance to level and hiding its cost in the warmth of desert.)
 
 ## Implementation
 

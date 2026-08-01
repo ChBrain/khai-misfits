@@ -37,4 +37,4 @@ It looks like there is no such thing, only the results themselves, each taken as
 ## Yearbook
 
 Named by [the doubter](persona_the_doubter.md), and shown at last by [the designer](persona_the_designer.md) who plots the trend.
-It is the truth the play turns on: the Mean is what [the bounce](piece_the_bounce.md) returns to, so every reversion credited to an action was only a result coming home to the level it never really left.
+It is the truth the play turns on: the Mean is what [the return](piece_the_return.md) returns to, so every reversion credited to an action was only a result coming home to the level it never really left.

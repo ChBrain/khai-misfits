@@ -37,4 +37,4 @@ Seen at the surface, the Shorthand looks like fluency, an economical account tha
 ## Yearbook
 
 Spoken by [the knower](persona_the_knower.md) through [explaining](process_explaining.md), the compression that reads plain and lands blank.
-It is the medium of the trap: the Shorthand carries [the knowledge](piece_the_knowledge.md) in a form transparent to the knower and opaque across [the gap](piece_the_gap.md), the surface [ratifying](process_ratifying.md) reads as clear and [the miss](piece_the_miss.md) slips through, the plain-sounding face of [second nature](piece_second_nature.md).
+It is the medium of the trap: the Shorthand carries [the knowledge](piece_the_knowledge.md) in a form transparent to the knower and opaque across [the gap](piece_the_gap.md), the surface [ratifying](process_ratifying.md) reads as clear and [the miss](piece_the_miss.md) slips through, the plain-sounding face of [the buried step](piece_the_buried_step.md).

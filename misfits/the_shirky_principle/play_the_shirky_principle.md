@@ -82,17 +82,17 @@ Fund the outcome instead of the activity, and sunset the mandate on success, and
 - [The Displacement](piece_the_displacement.md)
 - [The Perpetuation](piece_the_perpetuation.md)
 - [The Obsolescence](piece_the_obsolescence.md)
-- [The Shirky Principle](piece_the_shirky_principle.md)
+- [The Preserved Problem](piece_the_preserved_problem.md)
 
 ## Triggers
 
-**[The Mandate](plot_the_mandate.md)**
+**[Posts the Problem Funds](plot_posts_the_problem_funds.md)**
 A body is founded to solve a real problem, and its budget, jobs, and standing are all pinned to that problem. The Steward takes up the mission, and the Salaried draw the posts it funds. Closes when everything the institution is depends on the problem it was made to end.
 
-**[The Half-Cure](plot_the_half_cure.md)**
+**[Filed as Ongoing](plot_filed_as_ongoing.md)**
 Cue: fully solving the problem would remove the reason to fund the solver. The Maintainer solves it just enough to relieve the pressure and keep the franchise, and files the rest as ongoing work. Closes when the problem is managed to a steady simmer, eased but never ended.
 
-**[The Perpetuation](plot_the_perpetuation.md)**
+**[A Size Larger Than Before](plot_a_size_larger_than_before.md)**
 Cue: the original problem starts, despite everything, to fade. The Expander widens the mandate, finds new instances, and redefines the threat so the work never runs out, and the mission quietly becomes the survival wearing its clothes. Closes when the problem is kept alive by the body built to remove it.
 
 **[The Sunset](plot_the_sunset.md)**

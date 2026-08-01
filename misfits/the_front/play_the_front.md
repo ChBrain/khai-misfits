@@ -94,7 +94,7 @@ Cue: The Burning holds something still unresolved, a tangle, a doubt, a thing st
 **[The Tact](plot_the_tact.md)**
 Cue: a slip, a flicker of the raw showing through a front, a half-said doubt, a crack in someone's composure. The Room, considerate, does its half: it smooths the slip, grants the face, does not look behind the front, upholding jointly what the performer is presenting. Closes when the room's tact has sealed the back stage as surely as the performer did, the front held up by everyone's collaboration in not calling it, the raw signal met with courtesy and returned, unread, to behind the curtain.
 
-**[The Starvation](plot_the_starvation.md)**
+**[Only the Finished Accounts](plot_only_the_finished_accounts.md)**
 Cue: the group needs to move on something, and the thing it needs is the doubt no one resolved enough to say, the burning signal that never processed into anything presentable. It reaches for that signal and finds only the finished accounts, the settled matter, the safe and resolved. Closes when the group discovers it has been sharing only what was already resolved and starving for what was still burning, the one piece of information it most needed never in the room, no one having lied and the front, honestly kept by each, the reason it is not there.
 
 **[The Price](plot_the_price.md)**

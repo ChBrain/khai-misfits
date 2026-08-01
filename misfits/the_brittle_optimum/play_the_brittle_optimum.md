@@ -40,7 +40,7 @@ Keep the slack, hold the spare and the buffer and the margin as insurance agains
 **Personas**
 
 - [The Optimizer](persona_the_optimizer.md)
-- [The Slack](persona_the_slack.md)
+- [The Spare](persona_the_spare.md)
 - [The Shock](persona_the_shock.md)
 - [The Cascade](persona_the_cascade.md)
 - [The Reserver](persona_the_reserver.md)
@@ -82,7 +82,7 @@ Keep the slack, hold the spare and the buffer and the margin as insurance agains
 - [The Coupling](piece_the_coupling.md)
 - [The Shatter](piece_the_shatter.md)
 - [The Insurance](piece_the_insurance.md)
-- [The Brittle Optimum](piece_the_brittle_optimum.md)
+- [The Trimmed Reserve](piece_the_trimmed_reserve.md)
 
 ## Triggers
 
@@ -92,10 +92,10 @@ A slice of slack sits idle, costing and earning nothing, so it is cut. The Optim
 **[The Tightening](plot_the_tightening.md)**
 Cue: the lean system outperforms the slack-heavy one through the calm. The Optimizer is praised and trims again, while the Reserver who kept its margins looks wasteful beside it, so the cutting is rewarded and the system couples ever tighter. Closes when the slack is gone, the optimum reached, and every part now leans on every other.
 
-**[The Shock](plot_the_shock.md)**
+**[The Give Long Since Cut](plot_the_give_long_since_cut.md)**
 Cue: a disturbance arrives, as one eventually does. The Shock lands on the taut system, the sort of jolt a looser one would have absorbed without a mark. Closes when the shock meets a system with no give left to take it.
 
-**[The Shatter](plot_the_shatter.md)**
+**[Part to Part, Nothing to Stop It](plot_part_to_part_nothing_to_stop_it.md)**
 Cue: there is no slack to stop it. The Cascade runs failure from one tight-coupled part to the next with nothing between them, and the lean optimum shatters where a slacker system would have flexed. Closes when the whole comes apart, and the fragility that was invisible is suddenly the only thing to see.
 
 **[The Reserve](plot_the_reserve.md)**

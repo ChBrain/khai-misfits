@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Starting Tomorrow](play_starting_tomorrow.md). Where the sooner reward has drawn near and spiked, the ranking reverses, and the immediate reward is taken. Hosts [The Nearer It Comes](plot_the_nearer_it_comes.md), [Just This Once](plot_just_this_once.md).
+[Starting Tomorrow](play_starting_tomorrow.md). Where the sooner reward has drawn near and spiked, the ranking reverses, and the immediate reward is taken. Hosts [The Ranking Flips](plot_the_ranking_flips.md), [Just This Once](plot_just_this_once.md).
 
 ## Owner
 

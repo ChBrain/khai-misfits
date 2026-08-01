@@ -89,5 +89,5 @@ Source to constraint, per element.
   between the aggregate and the strata, both readings true.
 - **[The Verdict](piece_the_verdict.md)**: carries the decision (Bickel; Charig), the call taken on a level the
   data cannot license, the reversal turned into an action.
-- **[The Bigger Picture](piece_the_bigger_picture.md)**: carries the phenomenon whole (Simpson; Blyth; Pearl),
+- **[The Pooled Whole](piece_the_pooled_whole.md)**: carries the phenomenon whole (Simpson; Blyth; Pearl),
   the aggregation reversal and its irresolvability by data alone.

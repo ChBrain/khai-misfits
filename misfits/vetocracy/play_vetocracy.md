@@ -41,7 +41,7 @@ Cut the thicket, remove veto points, concentrate the authority to act, and the s
 - [The Vetoer](persona_the_vetoer.md)
 - [The Holdout](persona_the_holdout.md)
 - [The Mover](persona_the_mover.md)
-- [The Foregone](persona_the_foregone.md)
+- [The Never Made](persona_the_never_made.md)
 - [The Consolidator](persona_the_consolidator.md)
 - [The Sentinel](persona_the_sentinel.md)
 
@@ -85,23 +85,23 @@ Cut the thicket, remove veto points, concentrate the authority to act, and the s
 - [The Extraction](piece_the_extraction.md)
 - [The Foregone](piece_the_foregone.md)
 - [The Guard](piece_the_guard.md)
-- [Vetocracy](piece_vetocracy.md)
+- [The Standstill](piece_the_standstill.md)
 
 ## Triggers
 
-**[The Gauntlet](plot_the_gauntlet.md)**
+**[Gate to Gate](plot_gate_to_gate.md)**
 A decision must be made, and it has to pass every check in turn. The Mover tries to move it through, and the Vetoer, guarding a real stake, blocks it, one legitimate no among many. Closes when the proposal is caught in a gauntlet where any single hand can stop it and no single hand can move it.
 
 **[The Toll](plot_the_toll.md)**
 Cue: a veto can be traded as well as cast. The Holdout withholds its assent until a price is paid, and the Mover, needing every yes, pays it, so the proposal survives only by being bought concession by concession. Closes when the veto has been spent as leverage and the thing that passes is bent to the tolls it paid.
 
-**[The Limbo](plot_the_limbo.md)**
+**[One Gate Short](plot_one_gate_short.md)**
 Cue: most proposals never assemble every yes. The decision the Mover carried dies unmade, and the Foregone, the road unbuilt and the reform unpassed, joins a pile no one counts. Closes when the cost has been paid in a thing that simply never happened, and no one is blamed for it.
 
 **[The Standoff](plot_the_standoff.md)**
 Cue: the paralysis is questioned. The Sentinel defends each veto as a legitimate check, against haste and unaccountable power, and the Vetoer holds, so the block and the guard prove to be the same act. Closes when the paralysis is shown to be built entirely of legitimate checks, indistinguishable from obstruction.
 
-**[The Redesign](plot_the_redesign.md)**
+**[Cutting the Thicket](plot_cutting_the_thicket.md)**
 Cue: someone moves to restore the capacity to act. The Consolidator would cut veto points and concentrate authority, against the Sentinel's warning that every check removed is a guard removed and the power to act is the power the checks restrained. Closes when the system can decide again ... or the checks hold and it stays frozen, or a vital guard is cut and the power it held is loosed.
 
 ## Stakes

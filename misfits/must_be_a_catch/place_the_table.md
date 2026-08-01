@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Must Be a Catch](play_must_be_a_catch.md). Where offers are made directly between the two sides, source and terms arriving together. Hosts [Good Enough From a Stranger](plot_good_enough_from_a_stranger.md), [Must Be a Catch](plot_must_be_a_catch.md), and [Same Offer, Other Foot](plot_same_offer_other_foot.md).
+[Must Be a Catch](play_must_be_a_catch.md). Where offers are made directly between the two sides, source and terms arriving together. Hosts [Good Enough From a Stranger](plot_good_enough_from_a_stranger.md), [Fair Terms, Read Wrong](plot_fair_terms_read_wrong.md), and [Same Offer, Other Foot](plot_same_offer_other_foot.md).
 
 ## Owner
 

@@ -80,7 +80,7 @@ Arrange from outside a graded demonstration that control has returned, small eno
 - [The Dead Lever](piece_the_dead_lever.md)
 - [The Verdict](piece_the_verdict.md)
 - [The Immunity](piece_the_immunity.md)
-- [The Open Cage](piece_the_open_cage.md)
+- [The Old Lesson](piece_the_old_lesson.md)
 
 ## Triggers
 
@@ -93,7 +93,7 @@ Cue: the lesson is true. The Subject, having learned correctly that effort does 
 **[The Untried Door](plot_the_untried_door.md)**
 Cue: the situation changes and control returns. A door opens, a lever now works, escape is a step away, and the Subject, expecting no control, does not test for it. Closes when the way out stands open and unwalked, the expectation outliving the conditions that taught it.
 
-**[The Verdict](plot_the_verdict.md)**
+**[Blamed for Not Trying](plot_blamed_for_not_trying.md)**
 Cue: from outside, passivity looks like character. The Judge reads the Subject's giving-up as laziness or want of grit, a flaw in the person rather than a thing that was taught, and blames them for it. Closes when the passivity has been credited to character, the blame becoming one more outcome the Subject cannot change.
 
 **[The Rungs](plot_the_rungs.md)**

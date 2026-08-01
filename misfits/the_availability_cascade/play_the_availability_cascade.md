@@ -54,7 +54,7 @@ Weigh the magnitude against the salience, insulate the assessment from the vivid
 
 **Plans**
 
-- [Take It Up](plan_take_it_up.md)
+- [Carry It Further](plan_carry_it_further.md)
 - [Sound It Louder](plan_sound_it_louder.md)
 - [Answer the Alarm](plan_answer_the_alarm.md)
 - [Weigh the Risk](plan_weigh_the_risk.md)
@@ -79,7 +79,7 @@ Weigh the magnitude against the salience, insulate the assessment from the vivid
 - [The Consensus](piece_the_consensus.md)
 - [The Cold Number](piece_the_cold_number.md)
 - [The Overreach](piece_the_overreach.md)
-- [The Availability Cascade](piece_the_availability_cascade.md)
+- [The Repetition](piece_the_repetition.md)
 
 ## Triggers
 
@@ -92,7 +92,7 @@ Cue: everyone can see that everyone is alarmed. Each of the Public updates on th
 **[The Alarm](plot_the_alarm.md)**
 Cue: a fear this loud reaches the ones who must answer it. The consensus arrives at the Chamber, and the Regulator, in a system that responds to its public, moves to meet the fear the Forum has raised. Closes when the alarm is on the table as a thing the Regulator is bound to answer.
 
-**[The Overreach](plot_the_overreach.md)**
+**[Answering the Feared One](plot_answering_the_feared_one.md)**
 Cue: the response is set by how vivid the risk is, not how large. The Regulator allocates the recall, the ban, the budget to the salient small danger, and the dull great one, unstoried and unfeared, goes unattended, so protection is spent where the alarm is and not where the harm is. Closes when the answer has tracked the salience and the cold large risk has been passed over.
 
 **[The Weighing](plot_the_weighing.md)**

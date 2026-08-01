@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[No Place in the Theory](play_no_place_in_the_theory.md). Borne at [the Discipline](place_the_discipline.md), precipitated by [the Theory](persona_the_theory.md), in [A Theory Earned](plot_a_theory_earned.md).
+[No Place in the Theory](play_no_place_in_the_theory.md). Borne at [the Discipline](place_the_discipline.md), precipitated by [The Paradigm](persona_the_paradigm.md), in [A Theory Earned](plot_a_theory_earned.md).
 
 ## Owner
 

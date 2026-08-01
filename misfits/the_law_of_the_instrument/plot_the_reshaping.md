@@ -26,11 +26,11 @@ The case has arrived whole, with many faces, and only one of them is the kind of
 
 ## Action
 
-[Reshaping](process_reshaping.md): [The Wielder](persona_the_wielder.md), holding [the wielder's seat](position_wielder.md), promotes the strikeable face to the whole of the problem, while [The Nail](persona_the_nail.md), holding [the casework seat](position_casework.md), takes the tool's shape and presents as exactly its job.
+[Reshaping](process_reshaping.md): [The Wielder](persona_the_wielder.md), holding [the wielder's seat](position_wielder.md), promotes the strikeable face to the whole of the problem, while [The Casework](persona_the_casework.md), holding [the casework seat](position_casework.md), takes the tool's shape and presents as exactly its job.
 
 ## Stage
 
-[The Wielder](persona_the_wielder.md) tables [Reach for the Tool](plan_reach_for_the_tool.md) and reads the case in the instrument's terms, and [The Nail](persona_the_nail.md) tables [Take the Tool's Shape](plan_take_the_tools_shape.md), becoming [the nail](piece_the_nail.md) fitted for the strike.
+[The Wielder](persona_the_wielder.md) tables [Reach for the Tool](plan_reach_for_the_tool.md) and reads the case in the instrument's terms, and [The Casework](persona_the_casework.md) tables [Take the Tool's Shape](plan_take_the_tools_shape.md), becoming [the nail](piece_the_nail.md) fitted for the strike.
 The problem's other faces slip out of view as the tidy target takes their place.
 
 ## Tension

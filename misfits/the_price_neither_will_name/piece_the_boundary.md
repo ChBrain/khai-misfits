@@ -34,5 +34,5 @@ A footnote of exceptions: the cases where the deal does go through, easy to read
 
 ## Yearbook
 
-Held by [The Sponsor](persona_the_sponsor.md) on [Cover the Gap](plan_cover_the_gap.md), through [Underwriting](process_underwriting.md), in [Cover the Gap](plot_cover_the_gap.md).
+Held by [The Sponsor](persona_the_sponsor.md) on [Cover the Gap](plan_cover_the_gap.md), through [Underwriting](process_underwriting.md), in [An Outside Dollar](plot_an_outside_dollar.md).
 It marks the edges of [The Unmade Trade](piece_the_unmade_trade.md), the conditions under which the rent stops exceeding the gain and the price both would name is found after all.

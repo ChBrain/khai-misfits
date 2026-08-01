@@ -38,12 +38,12 @@ Count the true independence before adding: trace whether the backup shares power
 
 **Pitch**
 
-- [Belt and Braces](pitch_belt_and_braces.md)
+- [If One Fails, the Other Holds](pitch_if_one_fails_the_other_holds.md)
 
 **Personas**
 
 - [The Designer](persona_the_designer.md)
-- [The Backup](persona_the_backup.md)
+- [The Standby](persona_the_standby.md)
 - [The Operator](persona_the_operator.md)
 - [The Auditor](persona_the_auditor.md)
 

@@ -26,11 +26,11 @@ Carry the condition among your many at the rate you actually carry it, neither h
 
 ## Orders
 
-([The Population](persona_the_population.md) holds [the Rare Condition](piece_the_rare_condition.md) through [Distributing](process_distributing.md) at [the Population](place_the_population.md), carrying the condition among its many at its true, low rate.)
+([The Population](persona_the_population.md) holds [the Rare Condition](piece_the_rare_condition.md) through [Distributing](process_distributing.md) at [The Field](place_the_field.md), carrying the condition among its many at its true, low rate.)
 
 ## Implementation
 
-([Distributing](process_distributing.md) at [the Population](place_the_population.md) holds [the Rare Condition](piece_the_rare_condition.md), because the condition sits among the many at a real and fixed rate, so the prior exists before any test is given, waiting to be asked for or crowded out.)
+([Distributing](process_distributing.md) at [The Field](place_the_field.md) holds [the Rare Condition](piece_the_rare_condition.md), because the condition sits among the many at a real and fixed rate, so the prior exists before any test is given, waiting to be asked for or crowded out.)
 
 ## Targets
 

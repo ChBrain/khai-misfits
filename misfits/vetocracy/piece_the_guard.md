@@ -37,4 +37,4 @@ To the consolidator it can look like all obstruction to cut; to the sentinel, al
 ## Yearbook
 
 Defended by [the sentinel](persona_the_sentinel.md) within [consolidating](process_consolidating.md), the peril [Cut the Thicket](plan_cut_the_thicket.md) must cut around.
-It is the protection tangled in the gridlock: the Guard is why removing [the veto](piece_the_veto.md) is never safe, the reason answering [vetocracy](piece_vetocracy.md) cannot be done with a clean blade.
+It is the protection tangled in the gridlock: the Guard is why removing [the veto](piece_the_veto.md) is never safe, the reason answering [the standstill](piece_the_standstill.md) cannot be done with a clean blade.

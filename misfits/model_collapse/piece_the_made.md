@@ -37,4 +37,4 @@ Seen in the pool, the made looks like any other text or image, fluent and servic
 ## Yearbook
 
 Produced by [the model](persona_the_model.md) and absorbed by [the pool](persona_the_pool.md) through [recursing](process_recursing.md), the output poured back unmarked.
-It is the carrier of the trap: the Made is [the distribution](piece_the_distribution.md) minus its [tail](piece_the_tail.md), fed back as training data to compound the [collapse](piece_model_collapse.md), and told from the genuine only where [the real well](piece_the_real_well.md) keeps a mark of provenance.
+It is the carrier of the trap: the Made is [the distribution](piece_the_distribution.md) minus its [tail](piece_the_tail.md), fed back as training data to compound the [the echo](piece_the_echo.md), and told from the genuine only where [the real well](piece_the_real_well.md) keeps a mark of provenance.

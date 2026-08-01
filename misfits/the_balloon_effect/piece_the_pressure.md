@@ -37,4 +37,4 @@ Seen at the surface, the Pressure does not appear: the eye goes to the crop, the
 ## Yearbook
 
 Untouched by [squeezing](process_squeezing.md) and carried by [displacing](process_displacing.md), the driver that fills the trade.
-It is the engine of the trap: the Pressure is what [the squeeze](piece_the_squeeze.md) presses without lowering and what [the bulge](piece_the_bulge.md) is filled by, the conserved force behind [the conservation](piece_the_conservation.md), the cause that [draining](process_draining.md) alone would cut, powering the whole [balloon effect](piece_the_balloon_effect.md).
+It is the engine of the trap: the Pressure is what [the squeeze](piece_the_squeeze.md) presses without lowering and what [the bulge](piece_the_bulge.md) is filled by, the conserved force behind [the conservation](piece_the_conservation.md), the cause that [draining](process_draining.md) alone would cut, powering the whole [the displacement](piece_the_displacement.md).

@@ -26,7 +26,7 @@ Add the small choices up. Settle the large question by default, as their residue
 
 ## Orders
 
-([The Sum](persona_the_sum.md) adds the small choices into an outcome no chooser intended or was asked, settling the whole by default because no forum decided it.)
+([The Aggregate](persona_the_aggregate.md) adds the small choices into an outcome no chooser intended or was asked, settling the whole by default because no forum decided it.)
 
 ## Implementation
 

@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Haunts [the currency](place_the_currency.md), where each speaker assumes the coin carries a content the field no longer holds.
+Haunts [the circulation](place_the_circulation.md), where each speaker assumes the coin carries a content the field no longer holds.
 Dispelled in [the anchorage](place_the_anchorage.md), where the word is asked to cash out and the residual sense finds nothing to buy.
 
 ## Load Bearing

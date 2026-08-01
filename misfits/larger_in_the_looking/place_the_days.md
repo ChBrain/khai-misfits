@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Larger in the Looking](play_larger_in_the_looking.md). The actual lived life, where the factor is one of many diffuse things and the real difference it makes is small. Hosts [The Rest of It](plot_the_rest_of_it.md), [The Small Difference](plot_the_small_difference.md).
+[Larger in the Looking](play_larger_in_the_looking.md). The actual lived life, where the factor is one of many diffuse things and the real difference it makes is small. Hosts [The Rest of It](plot_the_rest_of_it.md), [Checked Against the Days](plot_checked_against_the_days.md).
 
 ## Owner
 

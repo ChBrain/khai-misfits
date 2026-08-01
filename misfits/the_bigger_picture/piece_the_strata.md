@@ -37,4 +37,4 @@ Seen at the surface, the Strata look like the finer and truer reading, the detai
 ## Yearbook
 
 Read by [the splitter](persona_the_splitter.md) through [splitting](process_splitting.md), the within-group trends that hold in every part.
-They are the true parts of the trap: the Strata point against [the total](piece_the_total.md) and lay [the reversal](piece_the_reversal.md) bare, the honest slices [the lurking variable](piece_the_lurking_variable.md) loaded unevenly, one of the two readings the [bigger picture](piece_the_bigger_picture.md) cannot choose between.
+They are the true parts of the trap: the Strata point against [the total](piece_the_total.md) and lay [the reversal](piece_the_reversal.md) bare, the honest slices [the lurking variable](piece_the_lurking_variable.md) loaded unevenly, one of the two readings the [the pooled whole](piece_the_pooled_whole.md) cannot choose between.

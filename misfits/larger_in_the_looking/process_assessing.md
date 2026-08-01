@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Larger in the Looking](play_larger_in_the_looking.md). Borne at [The Days](place_the_days.md), precipitated by [The Assessor](persona_the_assessor.md), in [The Small Difference](plot_the_small_difference.md).
+[Larger in the Looking](play_larger_in_the_looking.md). Borne at [The Days](place_the_days.md), precipitated by [The Assessor](persona_the_assessor.md), in [Checked Against the Days](plot_checked_against_the_days.md).
 
 ## Owner
 

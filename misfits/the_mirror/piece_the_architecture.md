@@ -37,4 +37,4 @@ It looks like exactly what should be built: low coupling, high cohesion, boundar
 ## Yearbook
 
 Drawn by [the drafter](persona_the_drafter.md) through [designing](process_designing.md), and split, in a moment, along lines it did not choose.
-It is the promise the play opens on: the Architecture sets [the interface](piece_the_interface.md) where the design wants it, and [the org chart](piece_the_org_chart.md) sets it somewhere else, and only [the mirror](piece_the_mirror.md) names why the second wins.
+It is the promise the play opens on: the Architecture sets [the interface](piece_the_interface.md) where the design wants it, and [the org chart](piece_the_org_chart.md) sets it somewhere else, and only [the reflection](piece_the_reflection.md) names why the second wins.

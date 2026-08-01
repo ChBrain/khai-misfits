@@ -14,11 +14,11 @@ status: active
 
 ## Taxonomy
 
-A **standing plan**: the intent of [the Reformer](position_the_reformer.md), inside [The Proxy](play_the_proxy.md).
+A **standing plan**: the intent of [Reformer](position_reformer.md), inside [The Proxy](play_the_proxy.md).
 
 ## Owner
 
-- Owner: [The Reformer](position_the_reformer.md)
+- Owner: [Reformer](position_reformer.md)
 
 ## Direction
 
@@ -30,7 +30,7 @@ Push the self-confirming prior from outside. Mandate the group's hiring so the d
 
 ## Implementation
 
-([The Programme](place_the_programme.md); the [mandating](process_mandating.md) process; the Reformer lowers the bar the group is held to from outside, and short of biting hard the lowered bar re-drives [the discount](piece_the_discount.md) on [the signal](piece_the_signal.md), the group taken without it, holding [the prior](piece_the_prior.md) that [the proxy](piece_the_proxy.md) rests on.)
+([The Programme](place_the_programme.md); the [mandating](process_mandating.md) process; the Reformer lowers the bar the group is held to from outside, and short of biting hard the lowered bar re-drives [the discount](piece_the_discount.md) on [the signal](piece_the_signal.md), the group taken without it, holding [the prior](piece_the_prior.md) that [the price of the group](piece_the_price_of_the_group.md) rests on.)
 
 ## Targets
 

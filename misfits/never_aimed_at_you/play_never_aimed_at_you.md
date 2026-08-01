@@ -98,19 +98,19 @@ And the whole is held against its own limit. The estimates are model-based and v
 
 ## Triggers
 
-**[Cover It Now](plot_cover_it_now.md)**
+**[Written Before the Culture](plot_written_before_the_culture.md)**
 The setup, a decision correct on every term available. At [the Consulting Room](place_the_consulting_room.md), through [Covering](process_covering.md), [the Prescriber](persona_the_prescriber.md) on [Cover It Now](plan_cover_it_now.md) sets [the Indicated Prescription](piece_the_indicated_prescription.md) and [the Blind Hour](piece_the_blind_hour.md): the drug is right for the organism causing the illness, the dose is right, and the identification that would allow something narrower takes days the patient does not have. Closes with the broad choice established as the correct decision under the information available, since narrowing empirically before the culture returns kills people.
 
 **[Everything In There Gets the Dose](plot_everything_in_there_gets_the_dose.md)**
 Cue: the drug enters a body that contains a great deal more than the infection. At [the Flora](place_the_flora.md), through [Exposing](process_exposing.md), [the Patient](persona_the_patient.md) on [Finish the Course](plan_finish_the_course.md) sets [the Organism Nobody Is Treating](piece_the_organism_nobody_is_treating.md): the pneumococcus in the throat, the staphylococcus on the skin, the enterobacteria in the gut, none of them causing anything and all of them selected on. Closes with the community not returning to what it was when the course ends, and the patient having followed the instruction exactly (Dethlefsen and Relman).
 
-**[Count Where the Exposure Falls](plot_count_where_the_exposure_falls.md)**
+**[Counting Exposure, Not Scripts](plot_counting_exposure_not_scripts.md)**
 Cue: somebody apportions the exposure across a whole population rather than a single course. At [the Model](place_the_model.md), through [Apportioning](process_apportioning.md), [the Epidemiologist](persona_the_epidemiologist.md) on [Count Where the Exposure Falls](plan_count_where_the_exposure_falls.md) sets [the Bystander Mass](piece_the_bystander_mass.md): for most species and most drugs, the large majority of the pressure on a species comes from prescriptions written for something else. Closes with the ordinary account inverted, since the pressure that matters is produced by correct use and not by misuse (Tedijanto, Olesen, Grad and Lipsitch).
 
 **[An Isolate That Answers to Nothing](plot_an_isolate_that_answers_to_nothing.md)**
 Cue: years later, somewhere else, a susceptibility report with nothing on it. At [the Resistance Report](place_the_resistance_report.md), through [Surfacing](process_surfacing.md), [the Prescriber](persona_the_prescriber.md) on [Cover It Now](plan_cover_it_now.md) meets [the Stranger's Isolate](piece_the_strangers_isolate.md): the patient carrying it never took the drug that selected it, and the clinician who did write that drug was treating something else in a different decade. Closes with the decision and the damage sharing no patient, no clinician and no year, and nothing travelling back to the seat that generated the pressure (Lipsitch and Samore).
 
-**[Cut the Ones That Should Not Have Been Written](plot_cut_the_ones_that_should_not_have_been_written.md)**
+**[Trimming the Tail](plot_trimming_the_tail.md)**
 Cue: the correction that was actually built, funded and staffed. At [the Stewardship Round](place_the_stewardship_round.md), through [Auditing](process_auditing.md), [the Steward](persona_the_steward.md) on [Cut the Ones That Should Not Have Been Written](plan_cut_the_ones_that_should_not_have_been_written.md) meets [the Trimmed Tail](piece_the_trimmed_tail.md): prescriptions are audited against the guidelines, the ones that should not have been written are removed, and the audit finds most prescribing appropriate. Closes with real and necessary work aimed at the fraction, while the mass generating the pressure was appropriate and is untouched by doing this job better.
 
 **[What the Estimate Carries](plot_what_the_estimate_carries.md)**

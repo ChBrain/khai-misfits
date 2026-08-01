@@ -30,7 +30,7 @@ Aim at the incentive, not the paper. Judge the honesty of the judgement rather t
 
 ## Implementation
 
-([The Reform](place_the_reform.md); the [reforming](process_reforming.md) process; [the paper trail](piece_the_paper_trail.md) is answered by turning [the blame](piece_the_blame.md) from the process to the honesty of the judgement, at the peril of a Chesterton's fence.)
+([The Reform](place_the_reform.md); the [reforming](process_reforming.md) process; [the bent work](piece_the_bent_work.md) is answered by turning [the blame](piece_the_blame.md) from the process to the honesty of the judgement, at the peril of a Chesterton's fence.)
 
 ## Targets
 

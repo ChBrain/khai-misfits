@@ -103,7 +103,7 @@ Cue: a broker tries to design the deal into being. At [the Clearing](place_the_c
 **[The Deal Dies](plot_the_deal_dies.md)**
 Cue: the gap holds and the trade does not clear. At [the Clearing](place_the_clearing.md), through [Wedging](process_wedging.md), the rent drives a wedge between the shaded figures so they do not cross, and [the Unmade Trade](piece_the_unmade_trade.md) is the surplus lost, the deal both would gain from left unmade. Closes with the gain gone to no one's pocket, the miss authored by no one and easily misread as mere stubbornness.
 
-**[Cover the Gap](plot_cover_the_gap.md)**
+**[An Outside Dollar](plot_an_outside_dollar.md)**
 Cue: a careful hand weighs what efficiency would cost. At [the Ledger](place_the_ledger.md), [the Sponsor](persona_the_sponsor.md) on [Cover the Gap](plan_cover_the_gap.md) through [Underwriting](process_underwriting.md) holds [the Boundary](piece_the_boundary.md): an outside dollar can pay each side its rent and clear the trade, but the books no longer balance, and where information is one-sided or a value is known or the gain is guaranteed the trap lifts on its own. Closes with efficiency bought only at a subsidy, and the reminder that the impossibility is real but bounded (Vickrey; Cramton, Gibbons, and Klemperer).
 
 ## Stakes

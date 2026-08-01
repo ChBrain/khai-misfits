@@ -30,7 +30,7 @@ The missing order will never be found, so the search turns from the record to th
 
 ## Stage
 
-[The Reformer](persona_the_reformer.md) tables [Pierce the Shield](plan_pierce_the_shield.md): treat [the blindfold](piece_the_blindfold.md) as a kind of knowledge, so [plausible deniability](piece_plausible_deniability.md) can be answered without the memo it was built to omit.
+[The Reformer](persona_the_reformer.md) tables [Pierce the Shield](plan_pierce_the_shield.md): treat [the blindfold](piece_the_blindfold.md) as a kind of knowledge, so [the severance](piece_the_severance.md) can be answered without the memo it was built to omit.
 And it must reckon that the same standard, reaching a not-knowing, reaches the honest one too.
 
 ## Tension

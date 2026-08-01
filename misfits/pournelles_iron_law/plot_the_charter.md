@@ -30,7 +30,7 @@ The proposal is that outcomes in the field, not standing in the house, decide wh
 
 ## Stage
 
-[The Reformer](persona_the_reformer.md) tables [Re-aim the Levers](plan_re_aim_the_levers.md) and answers [Pournelle's Iron Law](piece_pournelles_iron_law.md) by making advancement reward the mission served.
+[The Reformer](persona_the_reformer.md) tables [Re-aim the Levers](plan_re_aim_the_levers.md) and answers [The Turned Aim](piece_the_turned_aim.md) by making advancement reward the mission served.
 [The Custodian](persona_the_custodian.md) tables [Protect the Institution](plan_protect_the_institution.md), and its sincere defence of [the maintenance](piece_the_maintenance.md) is also the defence of the capture the maintenance hides.
 
 ## Tension

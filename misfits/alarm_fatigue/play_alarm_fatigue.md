@@ -82,7 +82,7 @@ Retune it, raise the threshold, prioritise and cluster and quiet the nuisance so
 - [The Numbness](piece_the_numbness.md)
 - [The Miss](piece_the_miss.md)
 - [The Retune](piece_the_retune.md)
-- [Alarm Fatigue](piece_alarm_fatigue.md)
+- [The Deafening](piece_the_deafening.md)
 
 ## Triggers
 
@@ -95,10 +95,10 @@ Cue: the world is mostly benign and the threshold is low. The Alarm cries at the
 **[The Deadening](plot_the_deadening.md)**
 Cue: an alarm wrong ninety-nine times in a hundred. The Responder, unable to chase every shriek and stay any use, reads the base rate and discounts the alarm, silencing and disabling and tuning it out, each act reasonable against a signal that is near certainly nothing. Closes when the response the alarm was meant to compel has been trained out of the room.
 
-**[The Miss](plot_the_miss.md)**
+**[Silenced Like the Rest](plot_silenced_like_the_rest.md)**
 Cue: the real one comes, in the flood of false. The Wolf, the true reading at last, sounds exactly like the hundred false alarms before it, and the Responder, deadened, silences it exactly like the rest. Closes when the one alarm that mattered has been ignored, the low setting having trained the miss it was set to prevent.
 
-**[The Retune](plot_the_retune.md)**
+**[Raising the Line](plot_raising_the_line.md)**
 Cue: someone moves to give the channel its meaning back. The Tuner would raise the threshold and prioritise and quiet the nuisance, against the Setter's instinct that no danger may be missed and the cold fact that every notch up is a real event now let to pass. Closes when the alarms are retuned and the true cries stand out again ... or the fear of the miss sets the threshold low once more, and the channel floods again.
 
 ## Stakes

@@ -36,5 +36,5 @@ Seen at the surface, the Backup looks like added reliability, a component in par
 
 ## Yearbook
 
-Placed by [the designer](persona_the_designer.md) through [adding](process_adding.md), stood ready by [the backup](persona_the_backup.md) through [coupling](process_coupling.md), the spare added to close the gap.
+Placed by [the designer](persona_the_designer.md) through [adding](process_adding.md), stood ready by [the standby](persona_the_standby.md) through [coupling](process_coupling.md), the spare added to close the gap.
 It is the object of the trap: the Backup lifts [the reliability](piece_the_reliability.md) figure while opening [the complexity](piece_the_complexity.md), resting on [the common mode](piece_the_common_mode.md) and inviting [the reliance](piece_the_reliance.md), and runs to [the overrun](piece_the_overrun.md) past the peak.

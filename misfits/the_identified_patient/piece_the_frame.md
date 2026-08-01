@@ -37,4 +37,4 @@ Seen at the surface, the Frame looks like clarity, a family and a clinician corr
 ## Yearbook
 
 Set by [the kin](persona_the_kin.md) and ratified through [treating](process_treating.md), the reading that the one is the trouble.
-It is the misdiagnosis of the trap: the Frame points away from [the fracture](piece_the_fracture.md) and fixes every eye on [the symptom](piece_the_symptom.md), the account [the clinician](persona_the_clinician.md) confirms and [surfacing](process_surfacing.md) alone unsettles, holding the whole [identified patient](piece_the_identified_patient.md) in place.
+It is the misdiagnosis of the trap: the Frame points away from [the fracture](piece_the_fracture.md) and fixes every eye on [the symptom](piece_the_symptom.md), the account [the clinician](persona_the_clinician.md) confirms and [surfacing](process_surfacing.md) alone unsettles, holding the whole [the settled strain](piece_the_settled_strain.md) in place.

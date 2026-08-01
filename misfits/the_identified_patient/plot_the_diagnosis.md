@@ -31,7 +31,7 @@ The symptom real and nameable, the family relieved to have something to point to
 ## Stage
 
 [The Kin](persona_the_kin.md), on [Hold It Together](plan_hold_it_together.md), brings the suffering member to be healed, framing the one as the trouble and the rest as well.
-[The Clinician](persona_the_clinician.md), on [Treat the Patient](plan_treat_the_patient.md), meets the presented symptom in good faith and with skill, and in healing the one confirms that the one is the unit.
+[The Clinician](persona_the_clinician.md), on [Cure the One Who Presents](plan_cure_the_one_who_presents.md), meets the presented symptom in good faith and with skill, and in healing the one confirms that the one is the unit.
 
 ## Tension
 

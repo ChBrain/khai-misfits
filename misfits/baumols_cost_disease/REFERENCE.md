@@ -75,5 +75,5 @@ Source to constraint, per element.
   honest cost mistaken for bloat and a culprit sought.
 - **[The False Cure](piece_the_false_cure.md)**: carries the degrading efficiency drive (Baumol), output per hour
   raised by cutting the labour that was the service.
-- **[Baumol's Cost Disease](piece_baumols_cost_disease.md)**: carries the phenomenon whole (Baumol), the
+- **[The Dearer Hour](piece_the_dearer_hour.md)**: carries the phenomenon whole (Baumol), the
   unfaster things dearer forever, and its remedy in paying the price out of the prosperity that causes it.

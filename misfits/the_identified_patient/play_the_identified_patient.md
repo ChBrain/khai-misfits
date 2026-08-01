@@ -56,7 +56,7 @@ Treat the system rather than the member, name the fracture the symptom hides, ho
 
 - [Hold It Together](plan_hold_it_together.md)
 - [Bear the Trouble](plan_bear_the_trouble.md)
-- [Treat the Patient](plan_treat_the_patient.md)
+- [Cure the One Who Presents](plan_cure_the_one_who_presents.md)
 - [Treat the System](plan_treat_the_system.md)
 
 **Places**
@@ -79,7 +79,7 @@ Treat the system rather than the member, name the fracture the symptom hides, ho
 - [The Frame](piece_the_frame.md)
 - [The Role](piece_the_role.md)
 - [The Balance](piece_the_balance.md)
-- [The Identified Patient](piece_the_identified_patient.md)
+- [The Settled Strain](piece_the_settled_strain.md)
 
 ## Triggers
 
@@ -92,7 +92,7 @@ Cue: the anxiety must land somewhere. It settles on the member most available to
 **[The Diagnosis](plot_the_diagnosis.md)**
 Cue: here at last is a trouble everyone can see. The Kin names the Patient as the problem and brings the symptom to the Clinician, who treats it in good faith and with skill, and the frame is set: the one is unwell, the rest are well. Closes when the patient is diagnosed and treated, and the fracture has slipped from view behind the symptom.
 
-**[The Balance](plot_the_balance.md)**
+**[A Calm Held Up by the Symptom](plot_a_calm_held_up_by_the_symptom.md)**
 Cue: the symptom is doing the family's work. The trouble in the one steadies the whole, detouring the conflict and uniting the Kin around a shared concern, and when the Patient begins to improve the system grows anxious and pulls them back, or finds another to carry it. Closes when the family has settled into a stability held up by a member kept unwell.
 
 **[The Naming](plot_the_naming.md)**

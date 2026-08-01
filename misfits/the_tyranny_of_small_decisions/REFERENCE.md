@@ -79,5 +79,5 @@ Source to constraint, per element.
   unnoticed and not cheaply undone.
 - **[The Free Choice](piece_the_free_choice.md)**: carries the genuine good of leaving small decisions small, the liberty the
   remedy must override.
-- **[The Tyranny of Small Decisions](piece_the_tyranny_of_small_decisions.md)**: carries the phenomenon whole (Kahn), a large
+- **[The Unchosen Sum](piece_the_unchosen_sum.md)**: carries the phenomenon whole (Kahn), a large
   outcome no one chose settled by right small choices, and its remedy in a convened decision at a cost.

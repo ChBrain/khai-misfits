@@ -30,7 +30,7 @@ Guard a block of time for the deadline-less work and triage the day by worth rat
 
 ## Implementation
 
-([The Diary](place_the_diary.md); the [fencing](process_fencing.md) process; the hour is held for [the payoff](piece_the_payoff.md) against [the deadline](piece_the_deadline.md), turning [the tyranny of the urgent](piece_the_tyranny_of_the_urgent.md) back ... if the cost of the urgent let slip can be borne without the closure to justify it.)
+([The Diary](place_the_diary.md); the [fencing](process_fencing.md) process; the hour is held for [the payoff](piece_the_payoff.md) against [the deadline](piece_the_deadline.md), turning [the deferred](piece_the_deferred.md) back ... if the cost of the urgent let slip can be borne without the closure to justify it.)
 
 ## Targets
 

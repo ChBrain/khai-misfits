@@ -30,7 +30,7 @@ Carry a whole kit rather than one loved instrument, and pick by fit, not by fami
 
 ## Implementation
 
-([The Toolroom](place_the_toolroom.md); the [diagnosing](process_diagnosing.md) it serves; holding many tools eases [the law of the instrument](piece_the_law_of_the_instrument.md) by loosening [the mastery](piece_the_mastery.md), at the price of a clean strike traded for a right target.)
+([The Toolroom](place_the_toolroom.md); the [diagnosing](process_diagnosing.md) it serves; holding many tools eases [the hammer](piece_the_hammer.md) by loosening [the mastery](piece_the_mastery.md), at the price of a clean strike traded for a right target.)
 
 ## Targets
 

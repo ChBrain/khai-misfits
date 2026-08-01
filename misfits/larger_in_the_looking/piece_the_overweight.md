@@ -33,4 +33,4 @@ Reads as a sound prediction, the considered answer to a fair question, given in 
 
 ## Yearbook
 
-Carried by [Focusing](process_focusing.md), staged at [the Focus](place_the_focus.md), voiced by [the Judge](persona_the_judge.md), dramatized in [The Overweight](plot_the_overweight.md). It is what [The Rest of Life](piece_the_rest_of_life.md) is neglected for.
+Carried by [Focusing](process_focusing.md), staged at [the Focus](place_the_focus.md), voiced by [the Judge](persona_the_judge.md), dramatized in [Rating It Far Too High](plot_rating_it_far_too_high.md). It is what [The Rest of Life](piece_the_rest_of_life.md) is neglected for.

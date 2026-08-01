@@ -37,4 +37,4 @@ Seen at the surface, the Inflation looks like the reward of meta-analysis, an ef
 ## Yearbook
 
 Inherited by [the Synthesist](persona_the_synthesist.md) and trusted by the field, the overstatement the record's absence produces.
-It is the output of the trap: the Inflation is what [inflating](process_inflating.md) makes of [the record](piece_the_record.md), it is [the null](piece_the_null.md) felt as a missing weight, and it is the confidence [hardening](process_hardening.md) sets around [the significant](piece_the_significant.md), the summed bias the whole [file drawer](piece_the_file_drawer.md) delivers as knowledge.
+It is the output of the trap: the Inflation is what [inflating](process_inflating.md) makes of [the record](piece_the_record.md), it is [the null](piece_the_null.md) felt as a missing weight, and it is the confidence [hardening](process_hardening.md) sets around [the significant](piece_the_significant.md), the summed bias the whole [the unfiled](piece_the_unfiled.md) delivers as knowledge.

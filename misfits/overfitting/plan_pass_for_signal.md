@@ -26,7 +26,7 @@ Pass for signal inside the sample. Offer yourself to be learned like anything el
 
 ## Orders
 
-([The Noise](persona_the_noise.md) is learned as though it were law, indistinguishable from signal within the sample, and waits, unseen, to fail the model on data it has not met.)
+([The Particulars](persona_the_particulars.md) is learned as though it were law, indistinguishable from signal within the sample, and waits, unseen, to fail the model on data it has not met.)
 
 ## Implementation
 

@@ -22,7 +22,7 @@ stamp:
 ## Initiated by
 
 A newcomer arriving after the practice has gone.
-In [the currency](place_the_currency.md), the arriving speaker learning the word as coin, [the ground](place_the_ground.md) standing empty where the referent was.
+In [the circulation](place_the_circulation.md), the arriving speaker learning the word as coin, [the ground](place_the_ground.md) standing empty where the referent was.
 
 ## Direction
 

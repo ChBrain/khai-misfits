@@ -26,7 +26,7 @@ Take your place on the menu for whatever ordinary reason placed you there, and l
 
 ## Orders
 
-([The Decoy](persona_the_decoy.md) holds [the Decoy](piece_the_decoy.md) through [Joining](process_joining.md) at [Beside It](place_beside_it.md), joining the set for an ordinary reason, worse than the Contender and no worse than the Alternative.)
+([The Dominated One](persona_the_dominated_one.md) holds [the Decoy](piece_the_decoy.md) through [Joining](process_joining.md) at [Beside It](place_beside_it.md), joining the set for an ordinary reason, worse than the Contender and no worse than the Alternative.)
 
 ## Implementation
 

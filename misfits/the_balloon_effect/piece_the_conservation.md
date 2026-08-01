@@ -37,4 +37,4 @@ Seen at the surface, the Conservation does not appear as a total at all: each bu
 ## Yearbook
 
 Held by [the pressure](piece_the_pressure.md) across [displacing](process_displacing.md), the total the patch-count cannot see.
-It is the cost of the trap: the Conservation is the sum of every [clearance](piece_the_clearance.md) undone by every [bulge](piece_the_bulge.md), the steady total that [counting](process_counting.md) never takes, the whole that only [draining](process_draining.md) would move, the trade the [balloon effect](piece_the_balloon_effect.md) conserves.
+It is the cost of the trap: the Conservation is the sum of every [clearance](piece_the_clearance.md) undone by every [bulge](piece_the_bulge.md), the steady total that [counting](process_counting.md) never takes, the whole that only [draining](process_draining.md) would move, the trade the [the displacement](piece_the_displacement.md) conserves.

@@ -36,5 +36,5 @@ Seen in calm, the debt looks like a neutral figure, owed and to be settled, and 
 
 ## Yearbook
 
-Held by [the debt](persona_the_debt.md) through [deflating](process_deflating.md), the fixed sum that will not fall with prices.
+Held by [the fixed sum](persona_the_fixed_sum.md) through [deflating](process_deflating.md), the fixed sum that will not fall with prices.
 It is the fulcrum of the ruin: the Debt is what [the distress sale](piece_the_distress_sale.md) is meant to reduce and cannot, what deflation turns into [the weight](piece_the_weight.md), and the fixed claim that only [the reflation](piece_the_reflation.md), lifting prices or cutting the sum, can lighten.

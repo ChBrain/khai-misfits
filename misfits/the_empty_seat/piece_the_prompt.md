@@ -37,4 +37,4 @@ Seen at the surface, the Prompt looks like help, a clear recommendation to act o
 ## Yearbook
 
 Delivered by [the aid](persona_the_aid.md) through [deferring](process_deferring.md), the confident output the operator accepts.
-It is the occasion of the trap: the Prompt is what [the reliability](piece_the_reliability.md) makes trusted and what [the override](piece_the_override.md) follows against the operator's own signal, the answer weighed only at the [cross-check](place_the_cross_check.md) and otherwise waved through into the [empty seat](piece_the_empty_seat.md).
+It is the occasion of the trap: the Prompt is what [the reliability](piece_the_reliability.md) makes trusted and what [the override](piece_the_override.md) follows against the operator's own signal, the answer weighed only at the [cross-check](place_the_cross_check.md) and otherwise waved through into the [the hollow backstop](piece_the_hollow_backstop.md).

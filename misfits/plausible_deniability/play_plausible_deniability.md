@@ -82,20 +82,20 @@ Pierce the shield, hold a principal answerable for what it arranged not to know,
 - [The Blindfold](piece_the_blindfold.md)
 - [The Deniable Agent](piece_the_deniable_agent.md)
 - [The Denial](piece_the_denial.md)
-- [Plausible Deniability](piece_plausible_deniability.md)
+- [The Severance](piece_the_severance.md)
 
 ## Triggers
 
-**[The Wish](plot_the_wish.md)**
+**[What Cannot Be Asked Aloud](plot_what_cannot_be_asked_aloud.md)**
 A principal wants a result that cannot be asked for aloud: a corner cut, a rule bent, a thing done that no memo could survive. The Principal holds the wish and knows it must never become an order. Closes when the wanting is clear and the asking is impossible.
 
-**[The Wink](plot_the_wink.md)**
+**[A Look Instead of an Order](plot_a_look_instead_of_an_order.md)**
 Cue: intent must travel without an order travelling with it. The Principal lets the wish fall as a look or a phrase, and the Broker carries it down the chain as a hint, adding a layer of arm's length, so a wish moves and no instruction is written. Closes when everyone who needs to understand does, and nothing is on the record.
 
-**[The Blindfold](plot_the_blindfold.md)**
+**[Declining to Be Told](plot_declining_to_be_told.md)**
 Cue: knowledge is a liability the principal must not hold. The Principal declines to be told, does not ask, and structures the reporting so the doing never reaches it, and the Broker filters the chain to keep it clean. Closes when the ignorance is real, built on purpose, so the future denial will be true.
 
-**[The Denial](plot_the_denial.md)**
+**[No Order, No Knowledge](plot_no_order_no_knowledge.md)**
 Cue: the deed surfaces and someone comes asking. The Agent, who read the wink and did it, is found holding it alone, and the Principal says, truthfully, that it gave no order and had no knowledge, while the Investigator finds no thread to pull. Closes when accountability fails to attach and the agent is cut loose.
 
 **[The Piercing](plot_the_piercing.md)**

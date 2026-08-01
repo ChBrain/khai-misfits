@@ -37,4 +37,4 @@ Seen at the surface, the Lapse does not appear: no alarm sounds and no output is
 ## Yearbook
 
 Falls to [the operator](persona_the_operator.md) through [coasting](process_coasting.md), the unflagged failure missed.
-It is the quiet face of the trap: the Lapse is what the slackened watch lets pass, the omission twin of [the override](piece_the_override.md)'s commission, the failure [the reliability](piece_the_reliability.md) taught the operator not to look for, the seat empty by inattention in the [empty seat](piece_the_empty_seat.md).
+It is the quiet face of the trap: the Lapse is what the slackened watch lets pass, the omission twin of [the override](piece_the_override.md)'s commission, the failure [the reliability](piece_the_reliability.md) taught the operator not to look for, the seat empty by inattention in the [the hollow backstop](piece_the_hollow_backstop.md).

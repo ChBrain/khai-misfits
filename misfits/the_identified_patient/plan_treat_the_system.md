@@ -30,7 +30,7 @@ Name the whole as the unit that is unwell. Surface the fracture the symptom hide
 
 ## Implementation
 
-([The Session](place_the_session.md); the [surfacing](process_surfacing.md) process; the whole is held as [the identified patient](piece_the_identified_patient.md) and [the fracture](piece_the_fracture.md) is brought to light, turning the trap back ... if the family can bear the conflict surfaced.)
+([The Session](place_the_session.md); the [surfacing](process_surfacing.md) process; the whole is held as [the settled strain](piece_the_settled_strain.md) and [the fracture](piece_the_fracture.md) is brought to light, turning the trap back ... if the family can bear the conflict surfaced.)
 
 ## Targets
 

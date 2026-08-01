@@ -82,23 +82,23 @@ Give the hunters assurance, a word each trusts, a hunt they have taken together 
 - [The Doubt](piece_the_doubt.md)
 - [The Empty Hand](piece_the_empty_hand.md)
 - [The Assurance](piece_the_assurance.md)
-- [The Stag Hunt](piece_the_stag_hunt.md)
+- [The Undared Stag](piece_the_undared_stag.md)
 
 ## Triggers
 
-**[The Stag](plot_the_stag.md)**
+**[Only That All Stay](plot_only_that_all_stay.md)**
 The prize is set: a stag that feeds everyone, worth more to each than any hare, if all hold their places to take it. The Hunter would go for it, and the Stag pays only if none breaks away. Closes when the stag is on offer and every hunter would rather have it.
 
-**[The Doubt](plot_the_doubt.md)**
+**[Wondering the Very Same](plot_wondering_the_very_same.md)**
 Cue: each hunter looks to the others and cannot be sure they will hold. The Partner wonders if the Hunter will stay, the Hunter wonders the same of the Partner, and the stag's worth, hanging on all, hangs now on a trust no one can confirm. Closes when the doubt is loose and the sure hare starts to look wise.
 
-**[The Hedge](plot_the_hedge.md)**
+**[The Catch That Pays Regardless](plot_the_catch_that_pays_regardless.md)**
 Cue: unsure of the rest, one hunter takes the safe hare. The Partner peels off to the thing that pays whatever the others do, and once one may break, the safe move for each is to break first. Closes when the hedging spreads and the hunt for the stag comes apart.
 
-**[The Empty Hand](plot_the_empty_hand.md)**
+**[Left in the Brush](plot_left_in_the_brush.md)**
 Cue: the stag needed all and did not get them. Whoever held for it stands in the thicket with nothing, the stag gone, while the harers have their smaller sure catch, so all settle for the worse outcome every one of them would rather not have. Closes when the stag is lost and the field has taken hares.
 
-**[The Assurance](plot_the_assurance.md)**
+**[A Word Each Believes](plot_a_word_each_believes.md)**
 Cue: someone moves to build the trust the stag needs. The Voucher would give a word each believes, a pledge, a lead taken first and in sight, so all can hold together, against the standing safety of the hare and the truth that one broken promise strands the rest. Closes when the assurance holds and the stag is taken ... or the doubt returns and the hunters scatter to hares again.
 
 ## Stakes

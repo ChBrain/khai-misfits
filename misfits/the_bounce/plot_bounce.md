@@ -30,7 +30,7 @@ The luck that made the extreme has not repeated, so the trough rises and the pea
 
 ## Stage
 
-[The Rescuer](persona_the_rescuer.md) tables [Take the Credit](plan_take_the_credit.md): accept the recovery as the fruit of their arrival, so [the bounce](piece_the_bounce.md), which owed them nothing, is signed over as [the credit](piece_the_credit.md).
+[The Rescuer](persona_the_rescuer.md) tables [Take the Credit](plan_take_the_credit.md): accept the recovery as the fruit of their arrival, so [the return](piece_the_return.md), which owed them nothing, is signed over as [the credit](piece_the_credit.md).
 [The missing counterfactual](piece_the_missing_counterfactual.md) is nowhere in the room, because the case was acted on, so no one can lay the treated result beside the untreated one and see the rise that would have come regardless.
 
 ## Tension

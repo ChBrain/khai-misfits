@@ -26,7 +26,7 @@ A coward or a sellout, betraying its own conviction, folding to the frontrunner 
 
 ## Action
 
-Back a winner. At [the Hustings](place_the_hustings.md), the Elector meets [the Count](piece_the_count.md), the rule that seats the first alone, then at [the Booth](place_the_booth.md) meets [the Wasted Vote](piece_the_wasted_vote.md) and on [Back a Winner](plan_back_a_winner.md) through [Deserting](process_deserting.md) casts [the Desertion](piece_the_desertion.md), abandoning its true preference for the viable lesser evil, so as to have a say (Duverger; Cox).
+Back a winner. At [the Hustings](place_the_hustings.md), the Elector meets [the Count](piece_the_count.md), the rule that seats the first alone, then at [the Booth](place_the_booth.md) meets [The Thrown Vote](piece_the_thrown_vote.md) and on [Back a Winner](plan_back_a_winner.md) through [Deserting](process_deserting.md) casts [the Desertion](piece_the_desertion.md), abandoning its true preference for the viable lesser evil, so as to have a say (Duverger; Cox).
 
 ## Shadow
 

@@ -81,6 +81,6 @@ Source to constraint, per element.
   alone is losing, so the race locks on and no one can stand down first.
 - **[The Truce](piece_the_truce.md)**: carries the mutual limit (Schelling; Frank), the cap laid on all at once
   that frees the field at the price of binding each against its own incentive.
-- **[The Arms Race](piece_the_arms_race.md)**: carries the phenomenon whole (Hirsch; Schelling), a field
+- **[The Standstill](piece_the_standstill.md)**: carries the phenomenon whole (Hirsch; Schelling), a field
   spending real resources to move no one, and its remedy in a limit held against every private drive that made
   it.

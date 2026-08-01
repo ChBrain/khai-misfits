@@ -37,4 +37,4 @@ Seen at the surface, the Story looks like knowledge, a danger made known and und
 ## Yearbook
 
 Sounded by [the amplifier](persona_the_amplifier.md) through [amplifying](process_amplifying.md), the vivid case that lends the fear its availability.
-It is the occasion of the trap: the Story feeds [the salience](piece_the_salience.md) and swells [the consensus](piece_the_consensus.md), the vivid twin of [the cold number](piece_the_cold_number.md) no one pictures, climbing through [the availability cascade](piece_the_availability_cascade.md) into [the overreach](piece_the_overreach.md).
+It is the occasion of the trap: the Story feeds [the salience](piece_the_salience.md) and swells [the consensus](piece_the_consensus.md), the vivid twin of [the cold number](piece_the_cold_number.md) no one pictures, climbing through [the repetition](piece_the_repetition.md) into [the overreach](piece_the_overreach.md).

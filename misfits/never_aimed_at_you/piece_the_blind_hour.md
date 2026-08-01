@@ -34,5 +34,5 @@ Caution, and it will be read as excessive caution by anybody who has not had to 
 
 ## Yearbook
 
-Stands over the turn in [Cover It Now](plot_cover_it_now.md), where the aim that would fix everything is the one thing unavailable.
+Stands over the turn in [Written Before the Culture](plot_written_before_the_culture.md), where the aim that would fix everything is the one thing unavailable.
 It works together with [The Indicated Prescription](piece_the_indicated_prescription.md), the fact and the decision it compels.

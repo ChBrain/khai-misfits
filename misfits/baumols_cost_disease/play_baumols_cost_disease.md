@@ -85,7 +85,7 @@ See it for what it is, and the answer is to pay the rising price out of a genera
 - [The Rising Cost](piece_the_rising_cost.md)
 - [The Misdiagnosis](piece_the_misdiagnosis.md)
 - [The False Cure](piece_the_false_cure.md)
-- [Baumol's Cost Disease](piece_baumols_cost_disease.md)
+- [The Dearer Hour](piece_the_dearer_hour.md)
 
 ## Triggers
 

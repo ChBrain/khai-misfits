@@ -101,7 +101,7 @@ Cue: the rate falling toward its floor. At [the Bank](place_the_bank.md), [the B
 **[Held, Not Spent](plot_held_not_spent.md)**
 Cue: the money injected at the floor. At [the Street](place_the_street.md), [the Saver](persona_the_saver.md) on [Hold the Cash](plan_hold_the_cash.md) through [Hoarding](process_hoarding.md) holds [the Hoard](piece_the_hoard.md), the new money willingly kept rather than lent or spent once a bond pays no more than cash. Closes with the hoarding sensible and not blameworthy, absolute liquidity preference absorbing whatever is supplied (Keynes).
 
-**[Pushing on a String](plot_pushing_on_a_string.md)**
+**[Nothing Moving](plot_nothing_moving.md)**
 Cue: the lever worked and nothing moving. At [the Impasse](place_the_impasse.md), [the Banker](persona_the_banker.md) meets [the String](piece_the_string.md), the tool that can pull an economy back by raising the rate unable to push a frozen one forward by lowering it. Closes with the harm the lever's impotence exactly when most needed, distinct from The Paradox of Thrift's fallacy of composition and Debt-Deflation's rising real debt (Hicks; Keynes).
 
 **[By Another Hand](plot_by_another_hand.md)**

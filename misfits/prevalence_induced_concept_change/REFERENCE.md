@@ -77,6 +77,6 @@ Source to constraint, per element.
   flat count that hides the win and drives the effort onto milder ground.
 - **[The Fixed Mark](piece_the_fixed_mark.md)**: carries the remedy (implied by the finding), the absolute,
   pre-declared standard that stops the creep, at the cost of calling the mild case fine.
-- **[Prevalence-Induced Concept Change](piece_prevalence_induced_concept_change.md)**: carries the phenomenon
+- **[The Widening](piece_the_widening.md)**: carries the phenomenon
   whole (Levari et al.; Haslam), a concept that widens as its instances fall, so the problem is never seen to
   shrink.

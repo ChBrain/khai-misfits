@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Tariff](place_the_tariff.md), where somebody has to actually buy the thing.
+[The Counter](place_the_counter.md), where somebody has to actually buy the thing.
 
 ## Action
 

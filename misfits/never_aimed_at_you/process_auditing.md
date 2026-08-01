@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Never Aimed at You](play_never_aimed_at_you.md). Borne at [The Stewardship Round](place_the_stewardship_round.md), precipitated by [The Steward](persona_the_steward.md) testing prescriptions against the guidelines, in [Cut the Ones That Should Not Have Been Written](plot_cut_the_ones_that_should_not_have_been_written.md).
+[Never Aimed at You](play_never_aimed_at_you.md). Borne at [The Stewardship Round](place_the_stewardship_round.md), precipitated by [The Steward](persona_the_steward.md) testing prescriptions against the guidelines, in [Trimming the Tail](plot_trimming_the_tail.md).
 
 ## Owner
 

@@ -37,4 +37,4 @@ It looks like a statistics-class footnote about heights and exam scores, nothing
 ## Yearbook
 
 Broken, when it is broken, by [the designer](persona_the_designer.md) through [control](process_control.md), at the price of the fast, flattering certainty the bounce supplied.
-It is the piece all the others resolve into: [the noise](piece_the_noise.md) throwing results to [the extreme](piece_the_extreme.md), [the bounce](piece_the_bounce.md) returning them to [the mean](piece_the_mean.md), and [the credit](piece_the_credit.md) minting [the false lesson](piece_the_false_lesson.md), make the Regression, and only the missing counterfactual unmakes it.
+It is the piece all the others resolve into: [the noise](piece_the_noise.md) throwing results to [the extreme](piece_the_extreme.md), [the return](piece_the_return.md) returning them to [the mean](piece_the_mean.md), and [the credit](piece_the_credit.md) minting [the false lesson](piece_the_false_lesson.md), make the Regression, and only the missing counterfactual unmakes it.

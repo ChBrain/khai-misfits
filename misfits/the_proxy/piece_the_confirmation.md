@@ -37,4 +37,4 @@ Seen at the surface, the Confirmation is the data agreeing with the belief, and 
 ## Yearbook
 
 Produced by [the Applicant](persona_the_applicant.md)'s sound response through [confirming](process_confirming.md), the loop closing on itself.
-It is the trap made whole: the Confirmation is [the discount](piece_the_discount.md)'s withholding returned as proof of [the prior](piece_the_prior.md), the produced average that upholds the rating and prices [the Standout](persona_the_standout.md) by the group, the self-fulfilment the whole [proxy](piece_the_proxy.md) rests on.
+It is the trap made whole: the Confirmation is [the discount](piece_the_discount.md)'s withholding returned as proof of [the prior](piece_the_prior.md), the produced average that upholds the rating and prices [the Standout](persona_the_standout.md) by the group, the self-fulfilment the whole [the price of the group](piece_the_price_of_the_group.md) rests on.

@@ -107,7 +107,7 @@ Cue: the finish line is re-drawn just ahead, again. The prospect falls, the ledg
 **[Backward Rule](plot_backward_rule.md)**
 Cue: the gate review meets. The backward rule is now the decision rule: each phase is approved because stopping would waste the last, and the team digs on, privately sure it is dead. Closes when the project is officially on track and funded entirely by its own history.
 
-**[Write-Off](plot_write_off.md)**
+**[How Much Is Left to Gain](plot_how_much_is_left_to_gain.md)**
 Cue: someone with no stake in the pile arrives, or the money simply runs out. The forward rule is applied at last and the loss is booked whole. Closes when the zombie is put down ... or the next check clears, and it staggers on.
 
 ## Stakes

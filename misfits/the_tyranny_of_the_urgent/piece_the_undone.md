@@ -37,4 +37,4 @@ Seen at the surface, the Undone does not appear: each day looks productive and e
 ## Yearbook
 
 Summed from every [deferral](process_deferring.md) of [the payoff](piece_the_payoff.md), the important never done.
-It is the cost of the trap: the Undone is the reckoning of a hundred [someday](piece_the_someday.md) postponements, the worth [the deadline](piece_the_deadline.md) took an hour at a time, the life the [tyranny of the urgent](piece_the_tyranny_of_the_urgent.md) spends on what fell due and never on what mattered, undone only where [fencing](process_fencing.md) guards the hour.
+It is the cost of the trap: the Undone is the reckoning of a hundred [someday](piece_the_someday.md) postponements, the worth [the deadline](piece_the_deadline.md) took an hour at a time, the life the [the deferred](piece_the_deferred.md) spends on what fell due and never on what mattered, undone only where [fencing](process_fencing.md) guards the hour.

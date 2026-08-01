@@ -32,7 +32,7 @@ The firm that did everything right looks for the higher ground it always retreat
 ## Stage
 
 [The Newcomer](persona_the_newcomer.md) tables [Take the Low Ground](plan_take_the_low_ground.md) one last time, except the low ground is now the centre.
-[The climb](piece_the_climb.md) crosses [the overshoot](piece_the_overshoot.md) coming the other way, and [the success trap](piece_the_success_trap.md) is finally one object: read together, the disciplined margin above and the patient climb below were always the same shape, closing.
+[The climb](piece_the_climb.md) crosses [the overshoot](piece_the_overshoot.md) coming the other way, and [the good management](piece_the_good_management.md) is finally one object: read together, the disciplined margin above and the patient climb below were always the same shape, closing.
 
 ## Tension
 

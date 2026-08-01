@@ -26,7 +26,7 @@ The feature the cue reads left standing while the quality behind it is changed.
 
 ## Action
 
-[Decoupling](process_decoupling.md): the ground is altered under [the cue's seat](position_cue.md), and [The Cue](persona_the_cue.md) goes on firing the same feature over the changed land.
+[Decoupling](process_decoupling.md): the ground is altered under [the cue's seat](position_cue.md), and [The Signal](persona_the_signal.md) goes on firing the same feature over the changed land.
 
 ## Stage
 

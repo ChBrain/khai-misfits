@@ -30,7 +30,7 @@ The plan is to cool the conditions, keep the able, clear the blockers, and shelt
 
 ## Stage
 
-[The Rebuilder](persona_the_rebuilder.md) tables [Freshen the Sea](plan_freshen_the_sea.md): cool [the heat](piece_the_heat.md), pay and grow the able, remove the gatekeepers, shelter the recruit, so [the dead sea effect](piece_the_dead_sea_effect.md) is answered at the source.
+[The Rebuilder](persona_the_rebuilder.md) tables [Freshen the Sea](plan_freshen_the_sea.md): cool [the heat](piece_the_heat.md), pay and grow the able, remove the gatekeepers, shelter the recruit, so [the hollowing](piece_the_hollowing.md) is answered at the source.
 And it must tell the settled residue from the steady soul, the one cut it cannot make cleanly.
 
 ## Tension

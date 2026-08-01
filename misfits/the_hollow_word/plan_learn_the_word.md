@@ -30,7 +30,7 @@ Take in the word as the field now uses it. Learn the term the current way, the o
 
 ## Implementation
 
-([The Currency](place_the_currency.md) where the word is learned as coin, [the ground](place_the_ground.md) standing empty where the referent was; the [inheriting](process_inheriting.md) process; [the word](piece_the_word.md) is received as [the ghost](piece_the_ghost.md), the residual sense taken for content and passed toward [the hollow](piece_the_hollow.md).)
+([The Circulation](place_the_circulation.md) where the word is learned as coin, [the ground](place_the_ground.md) standing empty where the referent was; the [inheriting](process_inheriting.md) process; [the word](piece_the_word.md) is received as [the ghost](piece_the_ghost.md), the residual sense taken for content and passed toward [the hollow](piece_the_hollow.md).)
 
 ## Targets
 

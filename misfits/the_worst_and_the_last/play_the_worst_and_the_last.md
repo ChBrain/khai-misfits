@@ -54,7 +54,7 @@ And the whole is weighed too late. The lived sum set against the peak-and-end ve
 
 **Positions**
 
-- [Living](position_living.md)
+- [Experiencer](position_experiencer.md)
 - [Keeper](position_keeper.md)
 - [Kind Hand](position_kind_hand.md)
 - [Weigher](position_weigher.md)

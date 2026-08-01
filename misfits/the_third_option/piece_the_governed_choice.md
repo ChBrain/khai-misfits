@@ -33,4 +33,4 @@ It reads as an unremarkable, ordinary preference with no hidden cause, a chooser
 
 ## Yearbook
 
-Carried by [Choosing](process_choosing.md), staged at [the Choice](place_the_choice.md), voiced by [the Chooser](persona_the_chooser.md), dramatized in [Chosen by No One](plot_chosen_by_no_one.md). The scope of when this holds is set by [The Conditions](piece_the_conditions.md).
+Carried by [Choosing](process_choosing.md), staged at [the Choice](place_the_choice.md), voiced by [the Chooser](persona_the_chooser.md), dramatized in [Governing Unchosen](plot_governing_unchosen.md). The scope of when this holds is set by [The Conditions](piece_the_conditions.md).

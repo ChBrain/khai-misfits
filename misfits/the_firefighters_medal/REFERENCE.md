@@ -81,5 +81,5 @@ Source to constraint, per element.
   loop by which starved prevention breeds more fires and more fires starve prevention.
 - **[The Firebreak](piece_the_firebreak.md)**: carries the remedy (Bohn; Repenning & Sterman), the fenced
   capacity and counterfactual credit that reverse the loop, at the cost of a present fire and the visible glory.
-- **[The Firefighter's Medal](piece_the_firefighters_medal.md)**: carries the phenomenon whole (Repenning &
+- **[The Starved Prevention](piece_the_starved_prevention.md)**: carries the phenomenon whole (Repenning &
   Sterman), a system that decorates the save, starves the prevention, and burns.

@@ -37,4 +37,4 @@ Seen at the surface, the Bond looks like the best thing there is, a closeness wo
 ## Yearbook
 
 Held in [the room](place_the_room.md) and kept shut by [sealing](process_sealing.md), the field of survival value.
-It is the field of the trap: the Bond holds the Bound in reach of [the double message](piece_the_double_message.md) and shuts the door [the no-win](piece_the_no_win.md) would send them through, the preciousness that seals the field and the cost [naming](process_naming.md) must pay to open it, the ground the whole [double bind](piece_the_double_bind.md) stands on.
+It is the field of the trap: the Bond holds the Bound in reach of [the double message](piece_the_double_message.md) and shuts the door [the no-win](piece_the_no_win.md) would send them through, the preciousness that seals the field and the cost [naming](process_naming.md) must pay to open it, the ground the whole [the bind](piece_the_bind.md) stands on.

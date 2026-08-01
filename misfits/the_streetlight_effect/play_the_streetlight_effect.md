@@ -40,9 +40,9 @@ Search the dark where the thing actually is, or build a lamp there, instrument t
 **Personas**
 
 - [The Searcher](persona_the_searcher.md)
-- [The Light](persona_the_light.md)
-- [The Dark](persona_the_dark.md)
-- [The False Find](persona_the_false_find.md)
+- [The Lit Patch](persona_the_lit_patch.md)
+- [The Unlit Ground](persona_the_unlit_ground.md)
+- [The Report](persona_the_report.md)
 - [The Illuminator](persona_the_illuminator.md)
 - [The Pragmatist](persona_the_pragmatist.md)
 
@@ -86,7 +86,7 @@ Search the dark where the thing actually is, or build a lamp there, instrument t
 - [The Easy Search](piece_the_easy_search.md)
 - [The False Find](piece_the_false_find.md)
 - [The Thoroughness](piece_the_thoroughness.md)
-- [The Streetlight Effect](piece_the_streetlight_effect.md)
+- [The Lit Ground](piece_the_lit_ground.md)
 
 ## Triggers
 
@@ -102,7 +102,7 @@ Cue: the lit patch is searched, and searched well. The Searcher works it thoroug
 **[The Finding](plot_the_finding.md)**
 Cue: the search must report. The Light's easy ground yields something, or nothing, and the False Find takes it for the answer, the lit patch's contents mistaken for the truth or its emptiness for the truth's absence. Closes when a finding drawn from the wrong place is written up as the finding.
 
-**[The Lamplighting](plot_the_lamplighting.md)**
+**[Light Out Past the Lamp](plot_light_out_past_the_lamp.md)**
 Cue: someone moves to search where the thing actually is. The Illuminator would light the dark and instrument the unmeasured, against the Pragmatist's warning that the dark may yield nothing and the keys were sometimes near the lamp. Closes when the search finally looks where the answer lies ... or the light holds, or a tractable answer is traded for a true one that never comes.
 
 ## Stakes

@@ -36,5 +36,5 @@ Seen at the surface, the Cue looks like the quality itself, the feature and the 
 
 ## Yearbook
 
-Read by [the settler](persona_the_settler.md) through [cueing](process_cueing.md), fired by [the cue](persona_the_cue.md) over changed ground.
+Read by [the settler](persona_the_settler.md) through [cueing](process_cueing.md), fired by [the signal](persona_the_signal.md) over changed ground.
 It is the instrument of the trap: the Cue is read as [the apparent fit](piece_the_apparent_fit.md) over [the quality](piece_the_quality.md) it no longer tracks, its link to fitness broken by [the decoupling](piece_the_decoupling.md), so it forms [the preference](piece_the_preference.md) that fills [the attractive sink](piece_the_attractive_sink.md).

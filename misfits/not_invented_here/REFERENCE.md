@@ -76,5 +76,5 @@ Source to constraint, per element.
   dulling as a shut boundary starves it of outside knowledge.
 - **[The Real Risk](piece_the_real_risk.md)**: carries the genuine hazard of external things, indistinguishable from the
   reflex's excuse, the reason the cure cannot cut cleanly.
-- **[Not-Invented-Here](piece_not_invented_here.md)**: carries the phenomenon whole (Katz & Allen; Allen), the good idea
+- **[The Refusal](piece_the_refusal.md)**: carries the phenomenon whole (Katz & Allen; Allen), the good idea
   refused for its origin, and its remedy in an opened boundary at a cost.

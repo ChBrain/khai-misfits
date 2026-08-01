@@ -26,7 +26,7 @@ Keep the order and never the size. Grant the higher place to the one who spends,
 
 ## Orders
 
-([The Rank](persona_the_rank.md) grants a higher place to the spender and takes it from another to give, holding the same shape however much effort is poured at it.)
+([The Standing](persona_the_standing.md) grants a higher place to the spender and takes it from another to give, holding the same shape however much effort is poured at it.)
 
 ## Implementation
 

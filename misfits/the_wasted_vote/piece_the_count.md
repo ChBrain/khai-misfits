@@ -33,4 +33,4 @@ A neutral technicality of how ballots are tallied.
 
 ## Yearbook
 
-Met by [the Elector](persona_the_elector.md), staged at [the Hustings](place_the_hustings.md), dramatized in [Winner Takes the Seat](plot_winner_takes_the_seat.md). The rule that makes a third vote wasted; it gives rise to [The Wasted Vote](piece_the_wasted_vote.md).
+Met by [the Elector](persona_the_elector.md), staged at [the Hustings](place_the_hustings.md), dramatized in [Winner Takes the Seat](plot_winner_takes_the_seat.md). The rule that makes a third vote wasted; it gives rise to [The Thrown Vote](piece_the_thrown_vote.md).

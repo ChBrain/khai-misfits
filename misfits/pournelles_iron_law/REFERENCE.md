@@ -80,5 +80,5 @@ Source to constraint, per element.
   body run for its own survival with the mission retained as the story.
 - **[The Maintenance](piece_the_maintenance.md)**: carries the genuine institutional upkeep (Weber), the real care tangled
   inseparably with the self-serving tending, and the hazard it poses to the cure.
-- **[Pournelle's Iron Law](piece_pournelles_iron_law.md)**: carries the phenomenon whole (Pournelle), control captured by
+- **[The Turned Aim](piece_the_turned_aim.md)**: carries the phenomenon whole (Pournelle), control captured by
   devotion to the body over devotion to the goal, and its remedy in re-aimed levers at a cost.

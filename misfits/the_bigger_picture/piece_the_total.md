@@ -37,4 +37,4 @@ Seen at the surface, the Total looks like the clearest view, a number too large 
 ## Yearbook
 
 Built by [the pooler](persona_the_pooler.md) through [pooling](process_pooling.md), the aggregate read with the authority of size.
-It is the seductive pole of the trap: the Total pools away [the lurking variable](piece_the_lurking_variable.md) and points against [the strata](piece_the_strata.md), carrying [the reversal](piece_the_reversal.md) into [the verdict](piece_the_verdict.md), the whole the [bigger picture](piece_the_bigger_picture.md) trusts.
+It is the seductive pole of the trap: the Total pools away [the lurking variable](piece_the_lurking_variable.md) and points against [the strata](piece_the_strata.md), carrying [the reversal](piece_the_reversal.md) into [the verdict](piece_the_verdict.md), the whole the [the pooled whole](piece_the_pooled_whole.md) trusts.

@@ -86,6 +86,6 @@ Source to constraint, per element.
   quantified, invisible while the plan is drawn and legible only once the work is done.
 - **[The Padding](piece_the_padding.md)**: carries the far arm of the tradeoff (Parkinson), the buffer added too
   freely and consumed by a task that expands to fill it, the symmetric waste on the other side of the fault.
-- **[The Planning Fallacy](piece_the_planning_fallacy.md)**: carries the phenomenon whole (Kahneman and
+- **[The Promise](piece_the_promise.md)**: carries the phenomenon whole (Kahneman and
   Tversky), a task estimated from its own plan and promised too soon, and its remedy in a forecast taken from
   the record at a symmetric cost.

@@ -30,7 +30,7 @@ The proposal is to ask what the case actually is, to reach for fit and not famil
 
 ## Stage
 
-[The Diagnostician](persona_the_diagnostician.md) tables [Name the Problem First](plan_name_the_problem_first.md) and answers [the law of the instrument](piece_the_law_of_the_instrument.md) by putting diagnosis before [the reflex](piece_the_reflex.md).
+[The Diagnostician](persona_the_diagnostician.md) tables [Name the Problem First](plan_name_the_problem_first.md) and answers [the hammer](piece_the_hammer.md) by putting diagnosis before [the reflex](piece_the_reflex.md).
 [The Generalist](persona_the_generalist.md) tables [Hold Many Tools](plan_hold_many_tools.md), fitting the problem better and, lacking [the mastery](piece_the_mastery.md), striking it worse.
 
 ## Tension

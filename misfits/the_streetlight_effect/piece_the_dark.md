@@ -36,5 +36,5 @@ Ground that yields nothing to a glance looks like ground with nothing in it, so 
 
 ## Yearbook
 
-Held by [the dark](persona_the_dark.md) through [concealing](process_concealing.md), tabled as [Keep the Answer](plan_keep_the_answer.md).
+Held by [the unlit ground](persona_the_unlit_ground.md) through [concealing](process_concealing.md), tabled as [Keep the Answer](plan_keep_the_answer.md).
 It is the ground that holds the thing and refuses the cheap look: the Dark keeps [the lost](piece_the_lost.md) where the cost steers the search away, stands opposite [the light](piece_the_light.md), and is what [Light the Dark](plan_light_the_dark.md) would pay to enter.

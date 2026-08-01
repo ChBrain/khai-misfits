@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Best Day for It](play_best_day_for_it.md). Where the correlation is created, and later where the remedy is refused. Hosts [Build Where the Wind Is](plot_build_where_the_wind_is.md) and [Somebody Should Build the Storage](plot_somebody_should_build_the_storage.md).
+[Best Day for It](play_best_day_for_it.md). Where the correlation is created, and later where the remedy is refused. Hosts [All on the Same Ground](plot_all_on_the_same_ground.md) and [Somebody Should Build the Storage](plot_somebody_should_build_the_storage.md).
 
 ## Owner
 

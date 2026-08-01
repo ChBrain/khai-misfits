@@ -37,4 +37,4 @@ To the free hand it can look like all small choices to be left alone; to the con
 ## Yearbook
 
 Defended by [the free hand](persona_the_free_hand.md) within [convening](process_convening.md), the good [Leave It Free](plan_leave_it_free.md) guards and [Put the Whole to a Vote](plan_put_the_whole_to_a_vote.md) must override.
-It is the liberty tangled in the cure: the Free Choice is why convening the aggregate is never clean, the reason answering [the tyranny of small decisions](piece_the_tyranny_of_small_decisions.md) risks a tyranny of its own.
+It is the liberty tangled in the cure: the Free Choice is why convening the aggregate is never clean, the reason answering [the unchosen sum](piece_the_unchosen_sum.md) risks a tyranny of its own.

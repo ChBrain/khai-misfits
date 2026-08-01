@@ -26,7 +26,7 @@ Hold the thing where no cheap search can reach it. Give up nothing to a glance, 
 
 ## Orders
 
-([The Dark](persona_the_dark.md) keeps the answer where searching is dear, its holding read as emptiness by a search that cannot afford to enter.)
+([The Unlit Ground](persona_the_unlit_ground.md) keeps the answer where searching is dear, its holding read as emptiness by a search that cannot afford to enter.)
 
 ## Implementation
 

@@ -30,7 +30,7 @@ Read the outside world's work and carry it in. Translate the import into the gro
 
 ## Implementation
 
-([The Bridge](place_the_bridge.md); the [bridging](process_bridging.md) process; [not-invented-here](piece_not_invented_here.md) is answered by translating the outside across [the boundary](piece_the_boundary.md), at the cost of admitting [the real risk](piece_the_real_risk.md) and lowering the walls.)
+([The Bridge](place_the_bridge.md); the [bridging](process_bridging.md) process; [the refusal](piece_the_refusal.md) is answered by translating the outside across [the boundary](piece_the_boundary.md), at the cost of admitting [the real risk](piece_the_real_risk.md) and lowering the walls.)
 
 ## Targets
 

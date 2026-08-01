@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Runs in [the currency](place_the_currency.md), where the traffic of the word wears its sense.
+Runs in [the circulation](place_the_circulation.md), where the traffic of the word wears its sense.
 Undone in [the anchorage](place_the_anchorage.md), where the term is re-tied to the referent the bleaching loosed.
 
 ## Load Bearing

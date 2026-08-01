@@ -81,5 +81,5 @@ Source to constraint, per element.
   quantified, legible only where new data arrives.
 - **[The Underfit](piece_the_underfit.md)**: carries the far arm of the tradeoff (Geman, Bienenstock and Doursat), the real
   signal missed when the remedy is pressed too hard.
-- **[Overfitting](piece_overfitting.md)**: carries the phenomenon whole (Geman, Bienenstock and Doursat; Vapnik), a fit that
+- **[The Memorised Sample](piece_the_memorised_sample.md)**: carries the phenomenon whole (Geman, Bienenstock and Doursat; Vapnik), a fit that
   learns the sample's noise as signal, and its remedy in a pulled-back fit at a symmetric cost.

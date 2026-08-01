@@ -36,5 +36,5 @@ Permission drawn on a genuine credit looks like simple desert, so the license re
 
 ## Yearbook
 
-Issued by [the license](persona_the_license.md) through [banking](process_banking.md), tabled as [Issue the Pass](plan_issue_the_pass.md).
+Issued by [the warrant](persona_the_warrant.md) through [banking](process_banking.md), tabled as [Issue the Pass](plan_issue_the_pass.md).
 It is the permission that spends the virtue: the License draws on [the balance](piece_the_balance.md), grants [the lapse](piece_the_lapse.md), and is the very pass [Hold the Line](plan_hold_the_line.md) must refuse.

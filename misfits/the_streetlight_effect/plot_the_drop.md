@@ -26,11 +26,11 @@ The keys fell in the dark, on ground that gives nothing to a glance and is dear 
 
 ## Action
 
-[Concealing](process_concealing.md): [The Dark](persona_the_dark.md), holding [the dark's seat](position_dark.md), keeps the thing where no cheap look can reach it, while [The Searcher](persona_the_searcher.md), holding [the searcher's seat](position_searcher.md), knows roughly where it fell and cannot afford to enter.
+[Concealing](process_concealing.md): [The Unlit Ground](persona_the_unlit_ground.md), holding [the dark's seat](position_dark.md), keeps the thing where no cheap look can reach it, while [The Searcher](persona_the_searcher.md), holding [the searcher's seat](position_searcher.md), knows roughly where it fell and cannot afford to enter.
 
 ## Stage
 
-[The Dark](persona_the_dark.md) tables [Keep the Answer](plan_keep_the_answer.md) and holds [the lost](piece_the_lost.md) where the cost of entry turns the search back.
+[The Unlit Ground](persona_the_unlit_ground.md) tables [Keep the Answer](plan_keep_the_answer.md) and holds [the lost](piece_the_lost.md) where the cost of entry turns the search back.
 [The Searcher](persona_the_searcher.md) faces ground it cannot comb, the answer fixed in a place its budget will not stretch to.
 
 ## Tension

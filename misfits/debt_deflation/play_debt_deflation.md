@@ -40,7 +40,7 @@ Raise the price level back, or cut the nominal debt directly, reflate or forgive
 **Personas**
 
 - [The Debtor](persona_the_debtor.md)
-- [The Debt](persona_the_debt.md)
+- [The Fixed Sum](persona_the_fixed_sum.md)
 - [The Deflation](persona_the_deflation.md)
 - [The Creditor](persona_the_creditor.md)
 - [The Reflator](persona_the_reflator.md)
@@ -82,7 +82,7 @@ Raise the price level back, or cut the nominal debt directly, reflate or forgive
 - [The Weight](piece_the_weight.md)
 - [The Spiral](piece_the_spiral.md)
 - [The Reflation](piece_the_reflation.md)
-- [Debt-Deflation](piece_debt_deflation.md)
+- [The Deepening](piece_the_deepening.md)
 
 ## Triggers
 
@@ -92,13 +92,13 @@ Hard times set in over an economy carrying heavy debt, and the reckoning begins:
 **[The Fire Sale](plot_the_fire_sale.md)**
 Cue: to pay, they must sell. The Debtor liquidates assets to raise cash, and with everyone selling at once the Deflation sets in, prices falling across the board. Closes when the selling has driven prices down and cash has grown dear.
 
-**[The Weight](plot_the_weight.md)**
+**[Owed Exactly as Much](plot_owed_exactly_as_much.md)**
 Cue: the debt is fixed in money and the money is worth more. The Debt holds its sum as prices fall, so its real weight rises, and the borrower who sold a field for half its price finds the loan against it undiminished. Closes when it is plain that paying down has made the remaining debt heavier, not lighter.
 
-**[The Spiral](plot_the_spiral.md)**
+**[Turning Each Other Down](plot_turning_each_other_down.md)**
 Cue: heavier debt drives more distress. The Deflation and the Debt turn each other downward, net worth collapsing and banks failing and prices falling further, the real burden climbing through it all. Closes when the economy is paying harder and owing more, the slump deepening on its own prudence.
 
-**[The Reflation](plot_the_reflation.md)**
+**[Loosening Against the Fall](plot_loosening_against_the_fall.md)**
 Cue: someone moves to halt the spiral. The Reflator would raise the price level or cut the debt, loosening money and spending deficits and writing debts down, against the Creditor's loss and every instinct to let the debt be paid and the bust clear. Closes when the level is lifted and the burden stops climbing ... or the paying-down goes on, and the spiral runs to the floor.
 
 ## Stakes

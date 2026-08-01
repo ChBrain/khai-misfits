@@ -85,20 +85,20 @@ Cool the water, make it worth the able's while to stay, clear the blockers, and 
 - [The Residue](piece_the_residue.md)
 - [The Rising Salinity](piece_the_rising_salinity.md)
 - [The Repulsion](piece_the_repulsion.md)
-- [The Dead Sea Effect](piece_the_dead_sea_effect.md)
+- [The Hollowing](piece_the_hollowing.md)
 
 ## Triggers
 
 **[The Souring](plot_the_souring.md)**
 A team turns bad: dead pay, dead work, a manager who has stopped tending it. The Manager lets the conditions curdle, meaning no harm, and the heat that will drive the able out begins to rise. Closes when the place has soured enough that staying costs the talented more than leaving.
 
-**[The Evaporation](plot_the_evaporation.md)**
+**[First and Fastest Out](plot_first_and_fastest_out.md)**
 Cue: the able have offers and the least reason to endure. The Talent takes the outside offer and goes, first and fastest, because it can, and the abler it is the sooner it leaves. Closes when the best have evaporated and the water level of skill has dropped.
 
-**[The Residue](plot_the_residue.md)**
+**[A Larger Share of Less](plot_a_larger_share_of_less.md)**
 Cue: the ones with the fewest options remain. The Stayer settles in, not lesser but less mobile, and the average helplessness of the team rises with each good departure, souring it further. Closes when the residue has thickened and the place is stable, entrenched, and short of the skill to do the work.
 
-**[The Repulsion](plot_the_repulsion.md)**
+**[Frozen Out at the Gate](plot_frozen_out_at_the_gate.md)**
 Cue: fresh talent is brought in to dilute the residue. The Recruit arrives able and hopeful, and the Gatekeeper, threatened, freezes them out or lets the visible salinity drive them off, so the infusion fails. Closes when the new blood is repelled or evaporates in turn, and the water grows saltier still.
 
 **[The Freshening](plot_the_freshening.md)**

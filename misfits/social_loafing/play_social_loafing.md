@@ -86,10 +86,10 @@ Make each hand visible and each part matter, keep the group small and the contri
 
 ## Triggers
 
-**[The Pool](plot_the_pool.md)**
+**[No Line to Any Hand](plot_no_line_to_any_hand.md)**
 A task is set for the group and its output is summed, not split. The Grader assigns the work to the team and measures the team, so no single contribution can be told from the whole. Closes when effort goes into a pool where no one hand can be seen.
 
-**[The Slack](plot_the_slack.md)**
+**[One Pull Among Many](plot_one_pull_among_many.md)**
 Cue: hidden in the pool, a grip can ease with no one the wiser. The Loafer eases the pull a shade, feeling that one hand among many can hardly matter, while the Sucker pulls harder to take up the drop. Closes when the effort has quietly settled below what each would give alone, and everyone is still, honestly, pulling.
 
 **[The Dilution](plot_the_dilution.md)**

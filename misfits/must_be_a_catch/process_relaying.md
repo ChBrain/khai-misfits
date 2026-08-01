@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Must Be a Catch](play_must_be_a_catch.md). Borne at [The Relay](place_the_relay.md), precipitated by [The Mediator](persona_the_mediator.md) carrying terms without their source, in [Strip the Letterhead](plot_strip_the_letterhead.md).
+[Must Be a Catch](play_must_be_a_catch.md). Borne at [The Relay](place_the_relay.md), precipitated by [The Mediator](persona_the_mediator.md) carrying terms without their source, in [Carried by a Third Party](plot_carried_by_a_third_party.md).
 
 ## Owner
 

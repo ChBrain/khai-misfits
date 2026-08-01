@@ -71,5 +71,5 @@ Source to constraint, per element.
   the smoothing arriving as confident success.
 - **[The Dampening](piece_the_dampening.md)**: carries the buffer as a two-way low-pass layer, the one
   reflex that attenuates both the bold change and the hard truth.
-- **[The Frozen Middle](piece_the_frozen_middle.md)**: carries active inertia (Sull) and the knot that
+- **[The Softening](piece_the_softening.md)**: carries active inertia (Sull) and the knot that
   buffers instead of joining (Nonaka), the layer where change dies, held whole by nobody.

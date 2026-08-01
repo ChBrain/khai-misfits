@@ -37,4 +37,4 @@ A thick, complete, certified file looks like an organisation that documented eve
 ## Yearbook
 
 Made by [the coverer](persona_the_coverer.md) through [covering](process_covering.md), certified by [the auditor](persona_the_auditor.md) tabling [Tick the Box](plan_tick_the_box.md).
-It is the pile every [cover](piece_the_cover.md) adds to: the Record is what [the covered failure](piece_the_covered_failure.md) points to, and the mass that [the paper trail](piece_the_paper_trail.md) is made of.
+It is the pile every [cover](piece_the_cover.md) adds to: the Record is what [the covered failure](piece_the_covered_failure.md) points to, and the mass that [the bent work](piece_the_bent_work.md) is made of.

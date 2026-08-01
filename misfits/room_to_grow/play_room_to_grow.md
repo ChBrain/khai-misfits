@@ -96,13 +96,13 @@ The setup. At [the Range](place_the_range.md), [the Warden](persona_the_warden.m
 **[The Culling](plot_the_culling.md)**
 Cue: the number judged too high, and a hand to lower it. At [the Range](place_the_range.md), [the Culler](persona_the_culler.md) on [Bring It Down](plan_bring_it_down.md) through [Culling](process_culling.md) takes up [the Cull](piece_the_cull.md), removing a fraction of the population in good faith, by the plain logic that to kill some is to leave fewer. Closes with the removal honest and its logic sound for nearly every population, the deaths meant only to subtract (Zipkin, Kraft, Cooch and Sullivan).
 
-**[The Room Made](plot_the_room_made.md)**
+**[Fewer Bodies on the Ground](plot_fewer_bodies_on_the_ground.md)**
 Cue: the crowd thinned, and the brake it fed easing. At [the Thinned](place_the_thinned.md), [the Survivor](persona_the_survivor.md) on [Fill the Room](plan_fill_the_room.md) through [Filling](process_filling.md) takes up [the Room Made](piece_the_room_made.md), the density-dependent brake relaxed by the deaths, the food and space and safety freed as the crowd is thinned. Closes with the room the cull made, fewer mouths at the food and fewer adults to eat the young (Abrams).
 
 **[The Thriving](plot_the_thriving.md)**
 Cue: the room made, and the survivors in it. At [the Thinned](place_the_thinned.md), [the Survivor](persona_the_survivor.md) meets [the Overcompensation](piece_the_overcompensation.md), eating better and breeding more and its young surviving, producing more than the cull removed. Closes with the survivors overcompensating, the response of any creature to a pressure eased (Abrams; Ricker).
 
-**[The Rebound](plot_the_rebound.md)**
+**[Counted Again After the Cull](plot_counted_again_after_the_cull.md)**
 Cue: the overcompensation summed across the survivors. At [the Thinned](place_the_thinned.md), [the Survivor](persona_the_survivor.md) meets [the Rebound](piece_the_rebound.md), the population risen not to where it was but past it, more numerous after the cull than before. Closes with the cull's increase seen only in the total, the number raised by the very mortality meant to lower it (Zipkin and colleagues).
 
 **[When It Holds](plot_when_it_holds.md)**

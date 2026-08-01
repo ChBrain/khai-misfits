@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Never Aimed at You](play_never_aimed_at_you.md). Where appropriateness is tested, improved, and turns out to be the wrong denominator. Hosts [Cut the Ones That Should Not Have Been Written](plot_cut_the_ones_that_should_not_have_been_written.md).
+[Never Aimed at You](play_never_aimed_at_you.md). Where appropriateness is tested, improved, and turns out to be the wrong denominator. Hosts [Trimming the Tail](plot_trimming_the_tail.md).
 
 ## Owner
 

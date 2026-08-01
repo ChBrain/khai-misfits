@@ -33,4 +33,4 @@ It reads as a temporary gap, the kind any harvest leaves, expected to refill onl
 
 ## Yearbook
 
-Carried by [Filling](process_filling.md), staged at [the Thinned](place_the_thinned.md), voiced by [the Survivor](persona_the_survivor.md), dramatized in [The Room Made](plot_the_room_made.md). It is the gap left by the cull, and it is seized as [The Overcompensation](piece_the_overcompensation.md).
+Carried by [Filling](process_filling.md), staged at [the Thinned](place_the_thinned.md), voiced by [the Survivor](persona_the_survivor.md), dramatized in [Fewer Bodies on the Ground](plot_fewer_bodies_on_the_ground.md). It is the gap left by the cull, and it is seized as [The Overcompensation](piece_the_overcompensation.md).

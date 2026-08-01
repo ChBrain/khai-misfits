@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[The Price Neither Will Name](play_the_price_neither_will_name.md). Borne at [The Ledger](place_the_ledger.md), precipitated by [The Sponsor](persona_the_sponsor.md) weighing an outside dollar on [Cover the Gap](plan_cover_the_gap.md), in [Cover the Gap](plot_cover_the_gap.md).
+[The Price Neither Will Name](play_the_price_neither_will_name.md). Borne at [The Ledger](place_the_ledger.md), precipitated by [The Sponsor](persona_the_sponsor.md) weighing an outside dollar on [Cover the Gap](plan_cover_the_gap.md), in [An Outside Dollar](plot_an_outside_dollar.md).
 
 ## Owner
 

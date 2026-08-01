@@ -78,5 +78,5 @@ Source to constraint, per element.
   thing that never happened.
 - **[The Guard](piece_the_guard.md)**: carries the accountability the checks provide (Fukuyama), the real protection
   indistinguishable from mere obstruction.
-- **[Vetocracy](piece_vetocracy.md)**: carries the phenomenon whole (Fukuyama), legitimate checks summed into an inability
+- **[The Standstill](piece_the_standstill.md)**: carries the phenomenon whole (Fukuyama), legitimate checks summed into an inability
   to act, and its remedy in consolidation at a cost.

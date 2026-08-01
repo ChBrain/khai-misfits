@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Never Aimed at You](play_never_aimed_at_you.md). Where a correct decision is taken without the information that would narrow it. Hosts [Cover It Now](plot_cover_it_now.md).
+[Never Aimed at You](play_never_aimed_at_you.md). Where a correct decision is taken without the information that would narrow it. Hosts [Written Before the Culture](plot_written_before_the_culture.md).
 
 ## Owner
 

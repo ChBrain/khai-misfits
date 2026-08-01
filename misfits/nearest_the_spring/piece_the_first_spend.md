@@ -33,4 +33,4 @@ Reads as a plain and ordinary transaction: money changes hands for goods at a fa
 
 ## Yearbook
 
-Carried by [Spending](process_spending.md), staged at [the Wellhead](place_the_wellhead.md), voiced by [the First Hand](persona_the_first_hand.md), dramatized in [First at the Old Prices](plot_first_at_the_old_prices.md). The money it releases in payment begins [The Spread](piece_the_spread.md).
+Carried by [Spending](process_spending.md), staged at [the Wellhead](place_the_wellhead.md), voiced by [the First Hand](persona_the_first_hand.md), dramatized in [Before the Prices Move](plot_before_the_prices_move.md). The money it releases in payment begins [The Spread](piece_the_spread.md).

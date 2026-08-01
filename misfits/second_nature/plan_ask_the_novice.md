@@ -30,7 +30,7 @@ Put the explanation before a real learner and watch where they stumble. Take the
 
 ## Implementation
 
-([The Trial](place_the_trial.md); the [testing](process_testing.md) process; the novice's confusion reveals [the gap](piece_the_gap.md) that [the blind spot](piece_the_blind_spot.md) hid, turning [second nature](piece_second_nature.md) back ... if the felt clarity can be given up for the evidence.)
+([The Trial](place_the_trial.md); the [testing](process_testing.md) process; the novice's confusion reveals [the gap](piece_the_gap.md) that [the blind spot](piece_the_blind_spot.md) hid, turning [the buried step](piece_the_buried_step.md) back ... if the felt clarity can be given up for the evidence.)
 
 ## Targets
 

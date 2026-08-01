@@ -87,7 +87,7 @@ Put a little of the loss back on the hand that acts, a deductible, a share, a st
 
 ## Triggers
 
-**[The Cover](plot_the_cover.md)**
+**[Priced on the Average](plot_priced_on_the_average.md)**
 A real risk is written over to a party who will bear the loss but cannot watch the care. The Underwriter takes it on and prices it on the average, and the Covered signs, protected. Closes when the downside belongs to the insurer and the care still belongs to the insured.
 
 **[The Slack](plot_the_slack.md)**

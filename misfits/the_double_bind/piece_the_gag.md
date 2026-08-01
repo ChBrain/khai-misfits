@@ -37,4 +37,4 @@ Seen at the surface, the Gag looks like courtesy, the decent restraint of leavin
 ## Yearbook
 
 Kept by [the bystander](persona_the_bystander.md) through [sealing](process_sealing.md), the ban on naming the contradiction.
-It is the seal of the trap: the Gag forbids the naming of [the double message](piece_the_double_message.md) and keeps [the bond](piece_the_bond.md)'s peace, the rule that [naming](process_naming.md) must break to free the Bound, the lock on the whole [double bind](piece_the_double_bind.md).
+It is the seal of the trap: the Gag forbids the naming of [the double message](piece_the_double_message.md) and keeps [the bond](piece_the_bond.md)'s peace, the rule that [naming](process_naming.md) must break to free the Bound, the lock on the whole [the bind](piece_the_bind.md).

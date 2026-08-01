@@ -56,7 +56,7 @@ Coordinate the jump, a sponsor big enough to move the whole crowd, a bridge betw
 
 **Plans**
 
-- [Bet on the Base](plan_bet_on_the_base.md)
+- [Follow the Crowd](plan_follow_the_crowd.md)
 - [Ride the Lead](plan_ride_the_lead.md)
 - [Win on the Merits](plan_win_on_the_merits.md)
 - [Wait for the Others](plan_wait_for_the_others.md)
@@ -96,10 +96,10 @@ Two ways to do a thing stand roughly even, and a small event with no bearing on 
 **[The Bandwagon](plot_the_bandwagon.md)**
 Cue: the value of a choice rises with the number who share it. The Adopter picks the leader because it leads, and the Incumbent grows cheaper and better simply by being made and used the most, so the edge compounds. Closes when the lead is self-reinforcing and pulling away.
 
-**[The Lock-In](plot_the_lock_in.md)**
+**[No One Can Switch Alone](plot_no_one_can_switch_alone.md)**
 Cue: the standard is now built into everything, the training, the tools, the habits. The Captive would take the better option but cannot move to it alone, because its worth waits on everyone moving at once. Closes when the standard is held not by choice but by the cost of leaving it.
 
-**[The Challenger](plot_the_challenger.md)**
+**[Better and Still Alone](plot_better_and_still_alone.md)**
 Cue: a plainly better way arrives, late. The Challenger wins on the merits and loses on the base, because its value needs adopters and adopters need its value, and the Adopter still bets on the incumbent's crowd. Closes when the superior option is stranded and the inferior one holds.
 
 **[The Switch](plot_the_switch.md)**

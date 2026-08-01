@@ -37,4 +37,4 @@ Seen at the surface, the Significant looks like the plain product of good scienc
 ## Yearbook
 
 Written by [the Author](persona_the_author.md), admitted by [the Gatekeeper](persona_the_gatekeeper.md), and pooled by [the Synthesist](persona_the_synthesist.md), the result the whole record is made of.
-It is the content of the trap: the Significant is the finding [selecting](process_selecting.md) keeps, it fills [the record](piece_the_record.md) that the null is kept out of, and it is the false positive that [the Replicator](persona_the_replicator.md) cannot dislodge, the kept outcome the whole [file drawer](piece_the_file_drawer.md) is selected on.
+It is the content of the trap: the Significant is the finding [selecting](process_selecting.md) keeps, it fills [the record](piece_the_record.md) that the null is kept out of, and it is the false positive that [the Replicator](persona_the_replicator.md) cannot dislodge, the kept outcome the whole [the unfiled](piece_the_unfiled.md) is selected on.

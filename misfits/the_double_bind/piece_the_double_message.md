@@ -37,4 +37,4 @@ Seen at the surface, the Double Message looks like one demand, plainly stated, a
 ## Yearbook
 
 Sent by [the binder](persona_the_binder.md) through [binding](process_binding.md), the two demands split across levels.
-It is the engine of the trap: the Double Message springs [the no-win](piece_the_no_win.md) on whoever answers, guarded by [the gag](piece_the_gag.md) that forbids its naming, the paradox that [naming](process_naming.md) alone can speak, the heart of the whole [double bind](piece_the_double_bind.md).
+It is the engine of the trap: the Double Message springs [the no-win](piece_the_no_win.md) on whoever answers, guarded by [the gag](piece_the_gag.md) that forbids its naming, the paradox that [naming](process_naming.md) alone can speak, the heart of the whole [the bind](piece_the_bind.md).

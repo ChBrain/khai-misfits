@@ -90,7 +90,7 @@ Judge the trend, not the extreme, and the bounce loses its witness: the mean is 
 - [The Mean](piece_the_mean.md)
 - [The Noise](piece_the_noise.md)
 - [The Extreme](piece_the_extreme.md)
-- [The Bounce](piece_the_bounce.md)
+- [The Return](piece_the_return.md)
 - [The Credit](piece_the_credit.md)
 - [The False Lesson](piece_the_false_lesson.md)
 - [The Missing Counterfactual](piece_the_missing_counterfactual.md)
@@ -110,7 +110,7 @@ Cue: the extreme drifts back toward the mean, on its own, as extremes do. The ri
 **[False Lesson](plot_false_lesson.md)**
 Cue: the sequence is banked as cause. The Analyst concludes toughness works and praise backfires, and it hardens into policy, while the Doubter names the mean and is waved off. Closes when the backwards lesson is learned as proof ... or someone asks what would have happened anyway.
 
-**[Control](plot_control.md)**
+**[Held Back Untouched](plot_held_back_untouched.md)**
 Cue: someone judges the trend instead of the extreme, and holds a group back to see what reversion does alone. The Designer runs a control, and the bounce is seen for what it is. Closes when the counterfactual is finally in view ... or the control is too slow and too cold, and the next trough is met with the same tough hand.
 
 ## Stakes

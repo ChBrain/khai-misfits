@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-At [the Discipline](place_the_discipline.md), carried by [Confirming](process_confirming.md), voiced by [the Theory](persona_the_theory.md): the shelf of textbooks, the training that reproduces itself in every new practitioner, the case record where prediction after prediction has already come true.
+At [the Discipline](place_the_discipline.md), carried by [Confirming](process_confirming.md), voiced by [The Paradigm](persona_the_paradigm.md): the shelf of textbooks, the training that reproduces itself in every new practitioner, the case record where prediction after prediction has already come true.
 
 ## Load Bearing
 
@@ -33,4 +33,4 @@ Reads as institutional dogma, a habit of mind mistaken for knowledge, the profes
 
 ## Yearbook
 
-Carried by [Confirming](process_confirming.md), staged at [the Discipline](place_the_discipline.md), voiced by [the Theory](persona_the_theory.md), dramatized in [A Theory Earned](plot_a_theory_earned.md). It is the paradigm standing at full strength, and it meets [The Anomaly](piece_the_anomaly.md).
+Carried by [Confirming](process_confirming.md), staged at [the Discipline](place_the_discipline.md), voiced by [The Paradigm](persona_the_paradigm.md), dramatized in [A Theory Earned](plot_a_theory_earned.md). It is the paradigm standing at full strength, and it meets [The Anomaly](piece_the_anomaly.md).

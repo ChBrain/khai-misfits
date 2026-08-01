@@ -37,4 +37,4 @@ It looks like the expensive, morale-costing thing every org avoids: reporting li
 ## Yearbook
 
 Made by [the reorganizer](persona_the_reorganizer.md) through [reorganizing](process_reorganizing.md), against the settled weight of [the org chart](piece_the_org_chart.md).
-It is the remedy the play holds: the Reorg moves [the boundary](piece_the_boundary.md) so [the seam](piece_the_seam.md) has nowhere to fall, and it is the one thing that makes [the mirror](piece_the_mirror.md) reflect the architecture instead of the org.
+It is the remedy the play holds: the Reorg moves [the boundary](piece_the_boundary.md) so [the seam](piece_the_seam.md) has nowhere to fall, and it is the one thing that makes [the reflection](piece_the_reflection.md) reflect the architecture instead of the org.

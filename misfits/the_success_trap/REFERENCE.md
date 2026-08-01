@@ -74,5 +74,5 @@ Source to constraint, per element.
 - **[The Climb](piece_the_climb.md)**: carries the entrant's sustaining-improvement trajectory
   crossing tiers (Christensen) and the reconfiguration the incumbent's screening cannot see
   (Henderson & Clark).
-- **[The Success Trap](piece_the_success_trap.md)**: carries the success trap itself (Levinthal &
+- **[The Good Management](piece_the_good_management.md)**: carries the success trap itself (Levinthal &
   March) and marketing myopia (Levitt), good management as the engine of failure, held whole by nobody.

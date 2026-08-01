@@ -36,5 +36,5 @@ The score is real, precise, and falling, so it looks like exactly the number to 
 
 ## Yearbook
 
-Tabled as [Reward Every Fit](plan_reward_every_fit.md) by [the score](persona_the_score.md), measuring [fitting](process_fitting.md).
+Tabled as [Reward Every Fit](plan_reward_every_fit.md) by [the agreeable number](persona_the_agreeable_number.md), measuring [fitting](process_fitting.md).
 It is the true number for the wrong question: the Score falls as [the fit](piece_the_fit.md) tightens over [the signal](piece_the_signal.md) or [the noise](piece_the_noise.md) alike, and only a reading on data the model never fit, at [the holdout](place_the_holdout.md) or [the field](place_the_field.md), exposes [the gap](piece_the_gap.md) it hides.

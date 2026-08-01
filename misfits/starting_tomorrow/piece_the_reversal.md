@@ -37,4 +37,4 @@ Looks like a change of mind, or a lapse of willpower. From outside, and often fr
 
 ## Yearbook
 
-Met by [the Present Self](persona_the_present_self.md) at [the Moment](place_the_moment.md), dramatized in [The Nearer It Comes](plot_the_nearer_it_comes.md). It is produced by [the Curve](piece_the_curve.md), the steepness up close and nothing more exotic than that, and it yields [the Now](piece_the_now.md), the reward taken once the flip has happened.
+Met by [the Present Self](persona_the_present_self.md) at [the Moment](place_the_moment.md), dramatized in [The Ranking Flips](plot_the_ranking_flips.md). It is produced by [the Curve](piece_the_curve.md), the steepness up close and nothing more exotic than that, and it yields [the Now](piece_the_now.md), the reward taken once the flip has happened.

@@ -14,11 +14,11 @@ status: active
 
 ## Taxonomy
 
-A **standing plan**: the intent of [the living seat](position_living.md), inside [The Worst and the Last](play_the_worst_and_the_last.md).
+A **standing plan**: the intent of [experiencer](position_experiencer.md), inside [The Worst and the Last](play_the_worst_and_the_last.md).
 
 ## Owner
 
-- Owner: [Living](position_living.md)
+- Owner: [Experiencer](position_experiencer.md)
 
 ## Direction
 

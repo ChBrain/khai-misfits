@@ -37,4 +37,4 @@ Seen at the surface, the Record looks like the sum of what is known, every paper
 ## Yearbook
 
 Kept by [the Gatekeeper](persona_the_gatekeeper.md), trusted by [the Synthesist](persona_the_synthesist.md), and read by the field, the sample everyone mistakes for the whole.
-It is the object of the trap: the Record is what [selecting](process_selecting.md) builds and [the null](piece_the_null.md) is kept out of, it is what [inflating](process_inflating.md) pools into [the inflation](piece_the_inflation.md), and it is where [the significant](piece_the_significant.md) false positive stands, the filtered literature the whole [file drawer](piece_the_file_drawer.md) hands the reader as knowledge.
+It is the object of the trap: the Record is what [selecting](process_selecting.md) builds and [the null](piece_the_null.md) is kept out of, it is what [inflating](process_inflating.md) pools into [the inflation](piece_the_inflation.md), and it is where [the significant](piece_the_significant.md) false positive stands, the filtered literature the whole [the unfiled](piece_the_unfiled.md) hands the reader as knowledge.

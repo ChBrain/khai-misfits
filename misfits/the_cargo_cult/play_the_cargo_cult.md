@@ -94,7 +94,7 @@ Strip the ceremony back to the mechanism and ask what actually makes cargo come,
 - [The Decoupling](piece_the_decoupling.md)
 - [The Legitimacy](piece_the_legitimacy.md)
 - [The Empty Runway](piece_the_empty_runway.md)
-- [The Cargo Cult](piece_the_cargo_cult.md)
+- [The Copied Form](piece_the_copied_form.md)
 
 ## Triggers
 
@@ -104,7 +104,7 @@ A team under pressure to succeed, unsure what causes success, looks to a model t
 **[Legitimacy](plot_legitimacy.md)**
 Cue: the recognised form is on show to an audience that knows it. The Patron credits the team for working the way the winners work and funds the resemblance on sight, before any cargo lands. Closes when the form is paid up front, and so is never made to work.
 
-**[Decoupling](plot_decoupling.md)**
+**[Kept on Show](plot_kept_on_show.md)**
 Cue: the form is built to the letter. The Ritualist performs the ceremony faithfully, and the Screen keeps it on display while the real work is decoupled behind it. Closes when the ritual runs perfectly and produces nothing.
 
 **[Empty Runway](plot_empty_runway.md)**

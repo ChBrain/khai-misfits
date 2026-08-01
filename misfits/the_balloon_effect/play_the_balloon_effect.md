@@ -54,7 +54,7 @@ Drain the pressure that feeds the trade rather than squeezing where it shows, or
 
 **Plans**
 
-- [Clear the Patch](plan_clear_the_patch.md)
+- [Sweep This Ground](plan_sweep_this_ground.md)
 - [Move to the Soft Spot](plan_move_to_the_soft_spot.md)
 - [Count the Clearance](plan_count_the_clearance.md)
 - [Drain the Pressure](plan_drain_the_pressure.md)
@@ -79,14 +79,14 @@ Drain the pressure that feeds the trade rather than squeezing where it shows, or
 - [The Bulge](piece_the_bulge.md)
 - [The Clearance](piece_the_clearance.md)
 - [The Conservation](piece_the_conservation.md)
-- [The Balloon Effect](piece_the_balloon_effect.md)
+- [The Displacement](piece_the_displacement.md)
 
 ## Triggers
 
-**[The Squeeze](plot_the_squeeze.md)**
+**[Cleared Off the Patch](plot_cleared_off_the_patch.md)**
 A banned trade runs on a patch and an enforcer moves against it. The Enforcer raids the crop, sweeps the corner, closes the route, and the patch goes quiet, a real and measurable win. Closes when the trade is cleared off the patch and the local numbers have fallen, the driver that fed it untouched.
 
-**[The Bulge](plot_the_bulge.md)**
+**[On to the Next Soft Spot](plot_on_to_the_next_soft_spot.md)**
 Cue: the pressure pressed in one place seeks the least resistance. The Operator, squeezed off the patch, moves the trade to the next softest spot, another valley, three streets over, the port with the lighter patrols, and it swells up again undiminished. Closes when the trade is running as large as before, somewhere the squeeze has not reached.
 
 **[The Tally](plot_the_tally.md)**

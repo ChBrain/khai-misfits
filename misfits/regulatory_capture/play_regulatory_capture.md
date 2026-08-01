@@ -64,7 +64,7 @@ Wall the agency off, fund it apart, seat an advocate for the diffuse, and cool t
 
 - [The Agency](place_the_agency.md)
 - [The Hearing](place_the_hearing.md)
-- [The Revolving Door](place_the_revolving_door.md)
+- [The Threshold](place_the_threshold.md)
 - [The Firewall](place_the_firewall.md)
 
 **Processes**
@@ -86,16 +86,16 @@ Wall the agency off, fund it apart, seat an advocate for the diffuse, and cool t
 
 ## Triggers
 
-**[The Mandate](plot_the_mandate.md)**
+**[A Day Against a Sliver](plot_a_day_against_a_sliver.md)**
 An agency is founded to guard the public against an industry, and given the charge and the power. The Watchdog takes up the mandate, the Lobby lines up to be regulated, and the Public, each with a sliver at stake, does not come. Closes when the concentrated interest is in the room and the diffuse one is not.
 
-**[The Dependence](plot_the_dependence.md)**
+**[Only One Place to Get It](plot_only_one_place_to_get_it.md)**
 Cue: the agency must regulate a trade it cannot fully see. The Lobby supplies the data, the models, the draft rules, and the expert staff, because it alone has them, and the Watchdog comes to hold the industry's frame as plain realism. Closes when the only facts and the only worldview in the agency are the industry's.
 
-**[The Revolving Door](plot_the_revolving_door.md)**
+**[Judging Tomorrow's Employer](plot_judging_tomorrows_employer.md)**
 Cue: the experts the agency needs come from the industry and return to it. The Alumnus moves from firm to agency and back, so the regulator's next employer is the regulated, and the rules soften toward the hand that will pay next. Closes when the door has aligned the agency's careers with the industry's interest, and no one crossed a line to do it.
 
-**[The Firewall](plot_the_firewall.md)**
+**[Distance Built on Purpose](plot_distance_built_on_purpose.md)**
 Cue: someone moves to wall the agency off, fund it apart, seat an advocate for the diffuse public, and cool the door. The Reformer restores the independence the capture fed on. Closes when the agency can hear the public again, at the cost of the industry's expertise and ease ... or the firewall is judged to hobble expert oversight, and the room fills with the industry once more.
 
 ## Stakes

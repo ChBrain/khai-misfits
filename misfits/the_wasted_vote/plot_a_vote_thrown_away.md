@@ -25,7 +25,7 @@ The rule is understood now, and the running reckoning shows the third trailing b
 
 ## Action
 
-At [the Booth](place_the_booth.md), [the Elector](persona_the_elector.md) meets [the Wasted Vote](piece_the_wasted_vote.md), the belief that a sincere vote for a sure loser is thrown away and forfeits a say in the contest that will be decided.
+At [the Booth](place_the_booth.md), [the Elector](persona_the_elector.md) meets [The Thrown Vote](piece_the_thrown_vote.md), the belief that a sincere vote for a sure loser is thrown away and forfeits a say in the contest that will be decided.
 
 ## Stage
 

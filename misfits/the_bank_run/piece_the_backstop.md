@@ -36,5 +36,5 @@ Seen from one side it looks like something for nothing, a run stopped by a promi
 
 ## Yearbook
 
-Wielded by [the backstop](persona_the_backstop.md) through [backstopping](process_backstopping.md), the shutter on [the two equilibria](piece_the_two_equilibria.md).
+Wielded by [the guarantor](persona_the_guarantor.md) through [backstopping](process_backstopping.md), the shutter on [the two equilibria](piece_the_two_equilibria.md).
 It is the play's answer and its bill: the Backstop closes [the self-fulfilling prophecy](piece_the_self_fulfilling_prophecy.md), and pays for the calm by standing behind the risk that made the run possible.

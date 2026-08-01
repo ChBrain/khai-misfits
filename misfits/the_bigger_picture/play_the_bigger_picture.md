@@ -55,7 +55,7 @@ Draw the causal structure, decide which variable is a confounder to adjust away 
 
 **Plans**
 
-- [Trust the Total](plan_trust_the_total.md)
+- [Rule by the Pool](plan_rule_by_the_pool.md)
 - [Split It Out](plan_split_it_out.md)
 - [Act on the Number](plan_act_on_the_number.md)
 - [Draw the Cause](plan_draw_the_cause.md)
@@ -80,7 +80,7 @@ Draw the causal structure, decide which variable is a confounder to adjust away 
 - [The Lurking Variable](piece_the_lurking_variable.md)
 - [The Reversal](piece_the_reversal.md)
 - [The Verdict](piece_the_verdict.md)
-- [The Bigger Picture](piece_the_bigger_picture.md)
+- [The Pooled Whole](piece_the_pooled_whole.md)
 
 ## Triggers
 

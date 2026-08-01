@@ -26,12 +26,12 @@ The others holding steady for the moment, so the spend, made alone, truly lifts 
 
 ## Action
 
-[Escalating](process_escalating.md): [The Contender](persona_the_contender.md), holding [the contender's seat](position_contender.md), raises its effort past the field's, while [The Rank](persona_the_rank.md), holding [the rank's seat](position_rank.md), yields the higher place by taking it from another.
+[Escalating](process_escalating.md): [The Contender](persona_the_contender.md), holding [the contender's seat](position_contender.md), raises its effort past the field's, while [The Standing](persona_the_standing.md), holding [the rank's seat](position_rank.md), yields the higher place by taking it from another.
 
 ## Stage
 
 [The Contender](persona_the_contender.md), having tabled [Get Ahead](plan_get_ahead.md), puts in more and takes the place the spend buys, reading the gain as proof the move works.
-[The Rank](persona_the_rank.md), on [Ration the Rank](plan_ration_the_rank.md), grants the rung only by drawing it from someone else's standing, and readies to grant it back the moment the field answers.
+[The Standing](persona_the_standing.md), on [Ration the Rank](plan_ration_the_rank.md), grants the rung only by drawing it from someone else's standing, and readies to grant it back the moment the field answers.
 
 ## Tension
 

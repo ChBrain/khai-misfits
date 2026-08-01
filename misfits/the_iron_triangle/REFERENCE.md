@@ -90,5 +90,5 @@ Source to constraint, per element.
   that makes the ring iron where a single capture would break.
 - **[The Outside](piece_the_outside.md)**: carries the excluded general interest (Lowi), the public that funds the
   domain, holds no corner, and pays for the ring.
-- **[The Iron Triangle](piece_the_iron_triangle.md)**: carries the phenomenon whole (Cater; Gordon Adams; Lowi),
+- **[The Closed Ring](piece_the_closed_ring.md)**: carries the phenomenon whole (Cater; Gordon Adams; Lowi),
   the closed three-cornered subsystem that governs its domain for the insiders.

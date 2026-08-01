@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Nearest the Spring](play_nearest_the_spring.md). The vantage over the whole flow, from which the Reckoner sees the spread, the order, and the net tilt that no hand inside the flow can see. Hosts [Hand to Hand](plot_hand_to_hand.md), [In What Order](plot_in_what_order.md), [The Tilt](plot_the_tilt.md).
+[Nearest the Spring](play_nearest_the_spring.md). The vantage over the whole flow, from which the Reckoner sees the spread, the order, and the net tilt that no hand inside the flow can see. Hosts [Hand to Hand](plot_hand_to_hand.md), [In What Order](plot_in_what_order.md), [What the Order Sums To](plot_what_the_order_sums_to.md).
 
 ## Owner
 

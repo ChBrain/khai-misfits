@@ -30,7 +30,7 @@ Name the problem whole before any tool is reached for. Ask whether it is a nail 
 
 ## Implementation
 
-([The Toolroom](place_the_toolroom.md); the [diagnosing](process_diagnosing.md) process; naming the problem first answers [the law of the instrument](piece_the_law_of_the_instrument.md) by putting diagnosis before [the reflex](piece_the_reflex.md), at the cost of the master's practised reach.)
+([The Toolroom](place_the_toolroom.md); the [diagnosing](process_diagnosing.md) process; naming the problem first answers [the hammer](piece_the_hammer.md) by putting diagnosis before [the reflex](piece_the_reflex.md), at the cost of the master's practised reach.)
 
 ## Targets
 

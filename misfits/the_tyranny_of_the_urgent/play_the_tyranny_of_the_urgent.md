@@ -55,7 +55,7 @@ Fence an hour for the important against the urgent, act on the deadline-less thi
 
 **Plans**
 
-- [Answer the Urgent](plan_answer_the_urgent.md)
+- [Take What Falls Due](plan_take_what_falls_due.md)
 - [Demand It Now](plan_demand_it_now.md)
 - [Wait Its Turn](plan_wait_its_turn.md)
 - [Fence the Hour](plan_fence_the_hour.md)
@@ -80,7 +80,7 @@ Fence an hour for the important against the urgent, act on the deadline-less thi
 - [The Payoff](piece_the_payoff.md)
 - [The Someday](piece_the_someday.md)
 - [The Undone](piece_the_undone.md)
-- [The Tyranny of the Urgent](piece_the_tyranny_of_the_urgent.md)
+- [The Deferred](piece_the_deferred.md)
 
 ## Triggers
 

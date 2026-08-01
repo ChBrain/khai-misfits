@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Nearest the Spring](play_nearest_the_spring.md). Borne at [the Wellhead](place_the_wellhead.md), precipitated by [the First Hand](persona_the_first_hand.md), in [First at the Old Prices](plot_first_at_the_old_prices.md).
+[Nearest the Spring](play_nearest_the_spring.md). Borne at [the Wellhead](place_the_wellhead.md), precipitated by [the First Hand](persona_the_first_hand.md), in [Before the Prices Move](plot_before_the_prices_move.md).
 
 ## Owner
 

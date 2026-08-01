@@ -36,5 +36,5 @@ It looks like a project building toward completion, gathering force, too committ
 
 ## Yearbook
 
-Turned by every gate and released by none, until [the write-off](plot_write_off.md).
+Turned by every gate and released by none, until [how much is left to gain](plot_how_much_is_left_to_gain.md).
 It runs [the sunk cost](piece_the_sunk_cost.md) up while [the receding finish](piece_the_receding_finish.md) keeps the payoff out of reach, the two lines drawing apart the whole way, and it will not let go on its own, because a ratchet has no reverse. Someone has to break it.

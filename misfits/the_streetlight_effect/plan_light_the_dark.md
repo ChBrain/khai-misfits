@@ -30,7 +30,7 @@ Point the search back to where the thing was lost. Build light in the dark: inst
 
 ## Implementation
 
-([The Lamplighting](place_the_lamplighting.md); the [lighting](process_lighting.md) process; [the streetlight effect](piece_the_streetlight_effect.md) is answered by lighting [the dark](piece_the_dark.md) to look for [the lost](piece_the_lost.md), at the risk of a true search that yields silence.)
+([The Lamplighting](place_the_lamplighting.md); the [lighting](process_lighting.md) process; [the lit ground](piece_the_lit_ground.md) is answered by lighting [the dark](piece_the_dark.md) to look for [the lost](piece_the_lost.md), at the risk of a true search that yields silence.)
 
 ## Targets
 

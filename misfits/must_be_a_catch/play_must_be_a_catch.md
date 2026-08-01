@@ -94,7 +94,7 @@ And the whole is held against its own limit. The trap needs an adversarial relat
 **[Good Enough From a Stranger](plot_good_enough_from_a_stranger.md)**
 The setup, terms both sides would take from a neutral hand. At [the Table](place_the_table.md), the adversarial relationship stands over the negotiation, each side's interest genuinely opposed to the other's in enough of it to make suspicion, in general, well founded. Closes with terms that would be accepted from a stranger, and two rivals who are not strangers to each other (Ross and Stillinger).
 
-**[Must Be a Catch](plot_must_be_a_catch.md)**
+**[Fair Terms, Read Wrong](plot_fair_terms_read_wrong.md)**
 Cue: the offer is made and read backward from its source. At [the Table](place_the_table.md), through [Offering](process_offering.md), [the Proposer](persona_the_proposer.md) on [Offer in Good Faith](plan_offer_in_good_faith.md) sets the terms, and through [Discounting](process_discounting.md), [the Rival](persona_the_rival.md) on [Read for the Catch](plan_read_for_the_catch.md) applies [the Attribution](piece_the_attribution.md): a self-interested party offered this, so it must serve that interest. Closes with [the Discount](piece_the_discount.md) attached, the generous terms read as the largest gift from the least trusted source (Stillinger, Epelbaum, Keltner and Ross).
 
 **[Don't Look Convinced](plot_dont_look_convinced.md)**
@@ -103,7 +103,7 @@ Cue: someone risks looking taken in. At [the Caucus](place_the_caucus.md), throu
 **[Same Offer, Other Foot](plot_same_offer_other_foot.md)**
 Cue: the roles reverse. At [the Table](place_the_table.md), [the Rival](persona_the_rival.md) now proposes its own concession, and [the Proposer](persona_the_proposer.md), through the same [Discounting](process_discounting.md), applies the same [Attribution](piece_the_attribution.md) in return, so [the Mirror](piece_the_mirror.md) stands revealed: neither side is the villain, both apply the identical, sound suspicion to the other. Closes with [the Foregone Deal](piece_the_foregone_deal.md), terms neither side will take from the other though both would take them from a stranger.
 
-**[Strip the Letterhead](plot_strip_the_letterhead.md)**
+**[Carried by a Third Party](plot_carried_by_a_third_party.md)**
 Cue: someone tries to carry the offer across the gap. At [the Relay](place_the_relay.md), [the Mediator](persona_the_mediator.md) on [Strip the Letterhead](plan_strip_the_letterhead.md) through [Relaying](process_relaying.md) holds [the Boundary](piece_the_boundary.md): the identical terms, carried by a trusted third party instead of the rival, are read close to what a neutral evaluation would give them, but only where a mediator both sides trust is available and its own neutrality is not itself contested. Closes with the deal recoverable at the cost of a channel not always at hand, the trap bounded (Ross and Stillinger).
 
 ## Stakes

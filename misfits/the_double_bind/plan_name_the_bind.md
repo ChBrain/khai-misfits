@@ -30,7 +30,7 @@ Say aloud that the message asks two things at once and that no answer to it can 
 
 ## Implementation
 
-([The Threshold](place_the_threshold.md); the [naming](process_naming.md) process; the contradiction of [the double message](piece_the_double_message.md) is spoken past [the gag](piece_the_gag.md), turning [the double bind](piece_the_double_bind.md) back ... if the accusation and the loss of the bond can be borne.)
+([The Threshold](place_the_threshold.md); the [naming](process_naming.md) process; the contradiction of [the double message](piece_the_double_message.md) is spoken past [the gag](piece_the_gag.md), turning [the bind](piece_the_bind.md) back ... if the accusation and the loss of the bond can be borne.)
 
 ## Targets
 

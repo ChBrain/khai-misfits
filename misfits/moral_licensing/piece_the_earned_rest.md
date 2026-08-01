@@ -37,4 +37,4 @@ To the consistent it can look like all licensing to refuse; to the motivator, al
 ## Yearbook
 
 Defended by [the motivator](persona_the_motivator.md) within [holding](process_holding.md), the peril [Hold the Line](plan_hold_the_line.md) must cut around.
-It is the true rest tangled in the licence: the Earned Rest is why refusing [the license](piece_the_license.md) risks denying a due, the reason answering [moral licensing](piece_moral_licensing.md) cannot be done with a clean knife.
+It is the true rest tangled in the licence: the Earned Rest is why refusing [the license](piece_the_license.md) risks denying a due, the reason answering [the credit](piece_the_credit.md) cannot be done with a clean knife.

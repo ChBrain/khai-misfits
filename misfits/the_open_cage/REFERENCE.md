@@ -91,5 +91,5 @@ Source to constraint, per element.
   misread as an internal, stable flaw.
 - **[The Immunity](piece_the_immunity.md)**: carries the learnable expectation of control (Maier & Seligman,
   2016), the felt history of mattering that prevents or reverses the trap.
-- **[The Open Cage](piece_the_open_cage.md)**: carries the phenomenon whole (Seligman & Maier; ASsT; Maier &
+- **[The Old Lesson](piece_the_old_lesson.md)**: carries the phenomenon whole (Seligman & Maier; ASsT; Maier &
   Seligman, 2016), a true lesson of powerlessness kept past its expiry.

@@ -30,7 +30,7 @@ Re-point the internal currency at outcomes in the field. Make advancement reward
 
 ## Implementation
 
-([The Charter Review](place_the_charter_review.md); the [re-aiming](process_re_aiming.md) process; [Pournelle's Iron Law](piece_pournelles_iron_law.md) is answered by re-pointing [the internal currency](piece_the_internal_currency.md) at the field, at the peril of cutting [the maintenance](piece_the_maintenance.md) with the capture.)
+([The Charter Review](place_the_charter_review.md); the [re-aiming](process_re_aiming.md) process; [The Turned Aim](piece_the_turned_aim.md) is answered by re-pointing [the internal currency](piece_the_internal_currency.md) at the field, at the peril of cutting [the maintenance](piece_the_maintenance.md) with the capture.)
 
 ## Targets
 

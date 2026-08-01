@@ -37,4 +37,4 @@ Seen at the surface, the Reliability looks like nothing but good, an aid that ea
 ## Yearbook
 
 Earned by [the aid](persona_the_aid.md) through [deferring](process_deferring.md), the base rate that makes trust correct.
-It is the seductive engine of the trap: the Reliability delivers [the prompt](piece_the_prompt.md) trusted and drives [the override](piece_the_override.md) and [the lapse](piece_the_lapse.md), hollowing [the backstop](piece_the_backstop.md), the good record at the root of the [empty seat](piece_the_empty_seat.md).
+It is the seductive engine of the trap: the Reliability delivers [the prompt](piece_the_prompt.md) trusted and drives [the override](piece_the_override.md) and [the lapse](piece_the_lapse.md), hollowing [the backstop](piece_the_backstop.md), the good record at the root of the [the hollow backstop](piece_the_hollow_backstop.md).

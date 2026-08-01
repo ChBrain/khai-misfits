@@ -37,4 +37,4 @@ Seen at the surface, the Override looks like discipline, an operator who does no
 ## Yearbook
 
 Sprung on [the operator](persona_the_operator.md) through [deferring](process_deferring.md), the aid followed against one's own signal.
-It is the loud face of the trap: the Override follows [the prompt](piece_the_prompt.md) past the operator's own read, the commission twin of [the lapse](piece_the_lapse.md)'s omission, the moment [the backstop](piece_the_backstop.md) fails by acting, the seat filled by a body deferring in the [empty seat](piece_the_empty_seat.md).
+It is the loud face of the trap: the Override follows [the prompt](piece_the_prompt.md) past the operator's own read, the commission twin of [the lapse](piece_the_lapse.md)'s omission, the moment [the backstop](piece_the_backstop.md) fails by acting, the seat filled by a body deferring in the [the hollow backstop](piece_the_hollow_backstop.md).

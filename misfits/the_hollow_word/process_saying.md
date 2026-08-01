@@ -22,7 +22,7 @@ stamp:
 ## Initiated by
 
 A living word to hand and a room that uses it.
-In [the currency](place_the_currency.md), each speaker taking the term and using it in the sense nearest to hand, the sense the field supplied.
+In [the circulation](place_the_circulation.md), each speaker taking the term and using it in the sense nearest to hand, the sense the field supplied.
 
 ## Direction
 

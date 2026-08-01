@@ -84,5 +84,5 @@ Source to constraint, per element.
   accreting the overmatched so competence runs opposite to authority.
 - **[The Hard Word](piece_the_hard_word.md)**: carries the remedy (practitioner), the honest reckoning that
   keeps competence in power, at the cost the promotion was reached for to escape.
-- **[The Dilbert Principle](piece_the_dilbert_principle.md)**: carries the phenomenon whole (Adams), a kind
+- **[The Kind Exit](piece_the_kind_exit.md)**: carries the phenomenon whole (Adams), a kind
   exit for each that fills the leadership with those the work defeated.

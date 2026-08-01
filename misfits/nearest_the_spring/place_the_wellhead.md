@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Nearest the Spring](play_nearest_the_spring.md). The source, where the new money enters and the first hand takes it up near the spring. Hosts [Put In](plot_put_in.md), [First at the Old Prices](plot_first_at_the_old_prices.md).
+[Nearest the Spring](play_nearest_the_spring.md). The source, where the new money enters and the first hand takes it up near the spring. Hosts [Put In](plot_put_in.md), [Before the Prices Move](plot_before_the_prices_move.md).
 
 ## Owner
 

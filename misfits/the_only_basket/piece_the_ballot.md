@@ -35,5 +35,5 @@ Seen at the surface, the Ballot looks like routine democracy, a resident exercis
 
 ## Yearbook
 
-Cast by [the homeowner](persona_the_homeowner.md) through [insuring](process_insuring.md), the instrument [the only basket](piece_the_only_basket.md) is defended with.
+Cast by [the homeowner](persona_the_homeowner.md) through [insuring](process_insuring.md), the instrument [the only home](piece_the_only_home.md) is defended with.
 It is the lever of the misfit: the Ballot enacts [the restriction](piece_the_restriction.md), a franchise [the newcomer](persona_the_newcomer.md) never holds, and it is the same instrument [the higher table](piece_the_higher_table.md) later moves out of the owner's hand, upward to a table where the excluded finally count.

@@ -78,7 +78,7 @@ Face it instead, have the hard conversation, coach the misplaced into a fit or m
 - [The Kick Upstairs](piece_the_kick_upstairs.md)
 - [The Inversion](piece_the_inversion.md)
 - [The Hard Word](piece_the_hard_word.md)
-- [The Dilbert Principle](piece_the_dilbert_principle.md)
+- [The Kind Exit](piece_the_kind_exit.md)
 
 ## Triggers
 
@@ -88,7 +88,7 @@ A worker overmatched by the job, and the output paying for it. The Duffer muddle
 **[The Kick](plot_the_kick.md)**
 Cue: the sack is dear and the promotion is cheap. The Boss, facing the cost and cruelty of dismissal, moves the Duffer up and to the side instead, into a title off the critical path where the work is spared its weakest hand. Closes when the overmatched worker has been lifted out of the productive seat and into the ranks, the floor cleaner and no one sacked.
 
-**[The Inversion](plot_the_inversion.md)**
+**[Filled by Those the Work Defeated](plot_filled_by_those_the_work_defeated.md)**
 Cue: up is where every manager sends the overmatched. The Brass, the stratum built one soft exit at a time, receives the Duffer among its own, so the seats that lead fill with those the work defeated. Closes when the leadership has accreted the least able and competence runs opposite to rank, downhill as authority climbs.
 
 **[The Rule](plot_the_rule.md)**

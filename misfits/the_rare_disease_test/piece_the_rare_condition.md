@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-At [the Population](place_the_population.md), carried by [Distributing](process_distributing.md), voiced by [the Population](persona_the_population.md): a great many people, and among them a small, fixed fraction who carry the condition, counted once and set down before anyone is tested.
+At [The Field](place_the_field.md), carried by [Distributing](process_distributing.md), voiced by [the Population](persona_the_population.md): a great many people, and among them a small, fixed fraction who carry the condition, counted once and set down before anyone is tested.
 
 ## Load Bearing
 
@@ -33,4 +33,4 @@ Reads as an irrelevant background statistic: a number for the epidemiologist, no
 
 ## Yearbook
 
-Carried by [Distributing](process_distributing.md), staged at [the Population](place_the_population.md), voiced by [the Population](persona_the_population.md), dramatized in [One in a Thousand](plot_one_in_a_thousand.md). It waits to be crowded out once [The Accurate Test](piece_the_accurate_test.md) is given.
+Carried by [Distributing](process_distributing.md), staged at [The Field](place_the_field.md), voiced by [the Population](persona_the_population.md), dramatized in [One in a Thousand](plot_one_in_a_thousand.md). It waits to be crowded out once [The Accurate Test](piece_the_accurate_test.md) is given.

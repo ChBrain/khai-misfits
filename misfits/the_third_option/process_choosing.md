@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[The Third Option](play_the_third_option.md). Borne at [The Choice](place_the_choice.md), precipitated by [The Chooser](persona_the_chooser.md), in [The Shift](plot_the_shift.md).
+[The Third Option](play_the_third_option.md). Borne at [The Choice](place_the_choice.md), precipitated by [The Chooser](persona_the_chooser.md), in [A Clear Win Stands In](plot_a_clear_win_stands_in.md).
 
 ## Owner
 

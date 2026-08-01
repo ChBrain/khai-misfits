@@ -30,7 +30,7 @@ The firefighter working the night, the launch or the account being pulled back f
 
 ## Stage
 
-[The Firefighter](persona_the_firefighter.md), still on [Save the Day](plan_save_the_day.md), puts out the fire dramatically and well, the day saved for everyone to see.
+[The Firefighter](persona_the_firefighter.md), still on [Fight the Blaze](plan_fight_the_blaze.md), puts out the fire dramatically and well, the day saved for everyone to see.
 [The Manager](persona_the_manager.md), still on [Fight the Fire](plan_fight_the_fire.md), sees a genuine result, a crisis met and beaten by a genuinely good hand.
 
 ## Tension

@@ -77,5 +77,5 @@ Source to constraint, per element.
   begetting more selling and lower prices begetting heavier debt, amplified as banks fail and lending stops.
 - **[The Reflation](piece_the_reflation.md)**: carries the remedy (Fisher), the lift of the price level or the
   cut of the nominal debt that halts the spiral, against every instinct of the moment.
-- **[Debt-Deflation](piece_debt_deflation.md)**: carries the phenomenon whole (Fisher), an economy paying itself
+- **[The Deepening](piece_the_deepening.md)**: carries the phenomenon whole (Fisher), an economy paying itself
   deeper into debt, and its remedy in a reflation the moment forbids.

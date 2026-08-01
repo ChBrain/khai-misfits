@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-Operating at [The Tariff](place_the_tariff.md), in reimbursement per course and invoices checked against the dispensing record.
+Operating at [The Counter](place_the_counter.md), in reimbursement per course and invoices checked against the dispensing record.
 
 ## Load Bearing
 

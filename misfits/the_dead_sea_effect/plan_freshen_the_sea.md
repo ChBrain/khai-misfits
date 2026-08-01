@@ -30,7 +30,7 @@ Read the calm as salinity and act at the source. Cool the conditions that raised
 
 ## Implementation
 
-([The Refit](place_the_refit.md); the [rebuilding](process_rebuilding.md) process; [the dead sea effect](piece_the_dead_sea_effect.md) is answered by cooling [the heat](piece_the_heat.md) and keeping the able, at the cost of a slow, contested, error-prone cure.)
+([The Refit](place_the_refit.md); the [rebuilding](process_rebuilding.md) process; [the hollowing](piece_the_hollowing.md) is answered by cooling [the heat](piece_the_heat.md) and keeping the able, at the cost of a slow, contested, error-prone cure.)
 
 ## Targets
 

@@ -36,5 +36,5 @@ Inside the sample the noise offers itself like any other regularity and drops th
 
 ## Yearbook
 
-Tabled as [Pass for Signal](plan_pass_for_signal.md) by [the noise](persona_the_noise.md), learned through [memorising](process_memorising.md).
+Tabled as [Pass for Signal](plan_pass_for_signal.md) by [the particulars](persona_the_particulars.md), learned through [memorising](process_memorising.md).
 It is the thing that must not be learned and cannot be told apart in time: the Noise lowers [the score](piece_the_score.md) exactly as [the signal](piece_the_signal.md) does, so its learning tightens [the fit](piece_the_fit.md) and opens [the gap](piece_the_gap.md) that only new data can read.

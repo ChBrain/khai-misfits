@@ -34,5 +34,5 @@ Due diligence, even: reading an offer's likely motive before accepting it looks 
 
 ## Yearbook
 
-Stands over the turn in [Must Be a Catch](plot_must_be_a_catch.md), the moment source outweighs content.
+Stands over the turn in [Fair Terms, Read Wrong](plot_fair_terms_read_wrong.md), the moment source outweighs content.
 It works together with [The Discount](piece_the_discount.md), the inference the reason the value falls at all.

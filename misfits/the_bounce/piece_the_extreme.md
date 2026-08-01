@@ -37,4 +37,4 @@ It looks like the moment that matters most, the one thing you must act on, becau
 ## Yearbook
 
 Seized on by [the boss](persona_the_boss.md) and [the axe](persona_the_axe.md), and timed by [the rescuer](persona_the_rescuer.md) who arrives at the bottom.
-It is the play's stage: because we act at the Extreme and not at [the mean](piece_the_mean.md), the intervention always sits just before [the bounce](piece_the_bounce.md), and inherits a reversion it did not cause.
+It is the play's stage: because we act at the Extreme and not at [the mean](piece_the_mean.md), the intervention always sits just before [the return](piece_the_return.md), and inherits a reversion it did not cause.

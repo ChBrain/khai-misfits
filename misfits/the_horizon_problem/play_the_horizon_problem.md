@@ -91,13 +91,13 @@ A sponsor asks for a plan to a horizon, and the Planner takes up the instrument 
 **[The Bounding](plot_the_bounding.md)**
 Cue: an instrument with a finite reach. The edge falls where the instrument stops, and everything past it is excluded from the plan's account, not weighed and dismissed but structurally absent, and the boundary is drawn without anyone deciding it. Closes when the beyond lies outside the plan, carrying no cost and casting no shadow, the boundary set and unexamined.
 
-**[The Silence](plot_the_silence.md)**
+**[Full to the Edge, Quiet Past It](plot_full_to_the_edge_quiet_past_it.md)**
 Cue: a plan complete to its edge. Nothing in the plan names what the horizon excluded, because the instrument does not represent its own boundary as a cost, so the plan reads whole and sound. Closes when the plan is approved as complete, its silence about the beyond read as there being nothing to say, the exclusion unflagged and the horizon taken for the whole.
 
-**[The Landing](plot_the_landing.md)**
+**[The Beyond Come Due](plot_the_beyond_come_due.md)**
 Cue: the years inside the edge run out. A successor arrives past the horizon and meets the future the instrument excluded, uncosted and untraded and now present, with no one to charge because no one spent it. Closes when the excluded future has landed on whoever arrived past the edge, its bill due and unassigned, no one having been short-sighted.
 
-**[The Overlook](plot_the_overlook.md)**
+**[Entered as a Cost](plot_entered_as_a_cost.md)**
 Cue: someone would look past the edge before it arrives. The Scout would extend the horizon, stress the plan against the years past its reach, and enter the beyond as a cost, against an instrument built to bracket those years off and a plan that reads complete without them. Closes when the beyond is made visible as a cost and the future seen before it lands ... or the overlook is waived as planning for years the instrument was not made to hold, the plan taken for whole and the beyond left for whoever arrives.
 
 ## Stakes

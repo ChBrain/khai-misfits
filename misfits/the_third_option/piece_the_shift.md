@@ -33,4 +33,4 @@ It reads as the Chooser simply preferring the better option, an outcome no diffe
 
 ## Yearbook
 
-Carried by [Choosing](process_choosing.md), staged at [the Choice](place_the_choice.md), voiced by [the Chooser](persona_the_chooser.md), dramatized in [The Shift](plot_the_shift.md). The decoy that decided it is revealed as [The Governed Choice](piece_the_governed_choice.md).
+Carried by [Choosing](process_choosing.md), staged at [the Choice](place_the_choice.md), voiced by [the Chooser](persona_the_chooser.md), dramatized in [A Clear Win Stands In](plot_a_clear_win_stands_in.md). The decoy that decided it is revealed as [The Governed Choice](piece_the_governed_choice.md).

@@ -82,7 +82,7 @@ Price the link, or close it, and the network speeds up: what you add for each is
 
 - [The Network](piece_the_network.md)
 - [The Jam](piece_the_jam.md)
-- [The Extra Road](piece_the_extra_road.md)
+- [The Added Lane](piece_the_added_lane.md)
 - [The Selfish Route](piece_the_selfish_route.md)
 - [The Equilibrium](piece_the_equilibrium.md)
 - [The Slowdown](piece_the_slowdown.md)
@@ -91,7 +91,7 @@ Price the link, or close it, and the network speeds up: what you add for each is
 
 ## Triggers
 
-**[The Jam](plot_the_jam.md)**
+**[Short of Road](plot_short_of_road.md)**
 The network is congested and the pressure is to add capacity. The Planner opens a new link to relieve the old roads. Closes when the extra road is built and open, offered as pure relief.
 
 **[The Shortcut](plot_the_shortcut.md)**
@@ -100,10 +100,10 @@ Cue: the new link is faster for any single driver who takes it. The Commuter rer
 **[The Rush](plot_the_rush.md)**
 Cue: on equal terms the shortcut wins, and the Dispatcher routes the whole fleet by shortest path. The last drivers on the old road drop onto the link to keep up. Closes when nearly everyone is on the shortcut and the old balance is gone.
 
-**[The Slowdown](plot_the_slowdown.md)**
+**[Twenty-Five Where It Took Twenty](plot_twenty_five_where_it_took_twenty.md)**
 Cue: the run is now slower than before the road was built. The Mayor measures the average and finds every driver worse off, though each drove well. Closes when the slowdown is named as the cost of the added link ... or blamed on demand, and another road is called for.
 
-**[The Toll](plot_the_toll.md)**
+**[Meeting the Cost You Handed On](plot_meeting_the_cost_you_handed_on.md)**
 Cue: someone prices the link instead of leaving it free, or closes it outright. The Tollkeeper puts the cost of the shared stretch back on the driver who loads it, and the network speeds up. Closes when private cost meets social cost and the flow recovers ... or the toll is judged unfair and pulled, and the slowdown returns.
 
 ## Stakes

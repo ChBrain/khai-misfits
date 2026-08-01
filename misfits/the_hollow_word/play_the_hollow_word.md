@@ -63,7 +63,7 @@ Re-anchor the word before trusting it: insist each use cash out in a concrete re
 
 **Places**
 
-- [The Currency](place_the_currency.md)
+- [The Circulation](place_the_circulation.md)
 - [The Ground](place_the_ground.md)
 - [The Anchorage](place_the_anchorage.md)
 
@@ -97,7 +97,7 @@ Cue: a newcomer arrives after the practice has gone. The Newcomer learns the wor
 **[The Inversion](plot_the_inversion.md)**
 Cue: a token loose enough to cover anything. The field says the old word while doing the new thing, the term worn smooth enough to cover the contrary of what it named, "ownership" said while control centralises, "agile" said while the plan is fixed. Closes when the word has come to cover its opposite, the field speaking the old language over the new practice, each speaker sincere and the coordination intact because the vagueness is shared.
 
-**[The Anchorage](plot_the_anchorage.md)**
+**[Made to Cash Out](plot_made_to_cash_out.md)**
 Cue: someone would re-anchor the word before trusting it. The Restorer would have each use cash out in a concrete referent, name the specific practice the word stands for, and check the term against the thing, against a field happy to say the word and a question that reads as pedantry. Closes when the word is re-anchored and the drift caught in the speaking ... or the check is waived as breaking a shared language, the currency taken for meaning, and the word left hollow.
 
 ## Stakes

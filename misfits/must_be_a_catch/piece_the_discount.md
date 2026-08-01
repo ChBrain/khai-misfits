@@ -34,5 +34,5 @@ Skepticism, even: a lower valuation reads as prudent hedging rather than as an e
 
 ## Yearbook
 
-Stands over the turn in [Must Be a Catch](plot_must_be_a_catch.md), the value taken as the attribution lands.
+Stands over the turn in [Fair Terms, Read Wrong](plot_fair_terms_read_wrong.md), the value taken as the attribution lands.
 It works together with [The Backlash](piece_the_backlash.md), the private discount reinforced by a public one.

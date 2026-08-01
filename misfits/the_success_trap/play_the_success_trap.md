@@ -94,7 +94,7 @@ Change the yardstick from margin defended to ground held and the seed is funded 
 - [The Low-End Foothold](piece_the_low_end_foothold.md)
 - [The Rational Retreat](piece_the_rational_retreat.md)
 - [The Climb](piece_the_climb.md)
-- [The Success Trap](piece_the_success_trap.md)
+- [The Good Management](piece_the_good_management.md)
 
 ## Triggers
 

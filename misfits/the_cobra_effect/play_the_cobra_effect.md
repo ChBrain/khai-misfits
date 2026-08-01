@@ -94,7 +94,7 @@ Reward the outcome you want, not the token you can count, and the farm has nothi
 - [The Manufactured Supply](piece_the_manufactured_supply.md)
 - [The Dumped Stock](piece_the_dumped_stock.md)
 - [The Backfire](piece_the_backfire.md)
-- [The Cobra Effect](piece_the_cobra_effect.md)
+- [The Cure That Breeds](piece_the_cure_that_breeds.md)
 
 ## Triggers
 
@@ -107,7 +107,7 @@ Cue: the reward meets the market. Breeding the unit and killing it for the bount
 **[Backfire](plot_backfire.md)**
 Cue: the booming payouts are reported as the problem being solved. The Noticer follows the supply and finds the farm, payments up and the real problem up with them. Closes when it is clear the bounty is breeding what it pays to remove.
 
-**[Release](plot_release.md)**
+**[Emptied Into the City](plot_emptied_into_the_city.md)**
 Cue: the farming is undeniable, and the bounty is pulled. The manufactured stock, now worthless, is turned loose, and the problem is left worse than before. Closes when the cobra effect is named ... or a new bounty is set on the new surplus.
 
 ## Stakes

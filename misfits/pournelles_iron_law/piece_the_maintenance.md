@@ -37,4 +37,4 @@ To the reformer it can look like all self-service to slash; to the custodian, al
 ## Yearbook
 
 Done by [the custodian](persona_the_custodian.md) within [tending](process_tending.md), the peril [Re-aim the Levers](plan_re_aim_the_levers.md) must cut around.
-It is the safeguard hidden in the capture: the Maintenance is why [the turn inward](piece_the_turn_inward.md) cannot simply be reversed, the real care tangled in the self-service that answering [Pournelle's Iron Law](piece_pournelles_iron_law.md) risks tearing out.
+It is the safeguard hidden in the capture: the Maintenance is why [the turn inward](piece_the_turn_inward.md) cannot simply be reversed, the real care tangled in the self-service that answering [The Turned Aim](piece_the_turned_aim.md) risks tearing out.

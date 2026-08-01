@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-At [Beside It](place_beside_it.md), carried by [Joining](process_joining.md), voiced by [the Decoy](persona_the_decoy.md): a third item set on the shelf next to the pair, a discontinued model still listed in the catalog, an older plan not yet retired, a candidate who simply chose to run, sitting there for no reason connected to the choice it will end up shaping.
+At [Beside It](place_beside_it.md), carried by [Joining](process_joining.md), voiced by [The Dominated One](persona_the_dominated_one.md): a third item set on the shelf next to the pair, a discontinued model still listed in the catalog, an older plan not yet retired, a candidate who simply chose to run, sitting there for no reason connected to the choice it will end up shaping.
 
 ## Load Bearing
 
@@ -33,4 +33,4 @@ It reads as a harmless, irrelevant addition to the menu, since no one will pick 
 
 ## Yearbook
 
-Carried by [Joining](process_joining.md), staged at [Beside It](place_beside_it.md), voiced by [the Decoy](persona_the_decoy.md), dramatized in [The Decoy Joins](plot_the_decoy_joins.md). It hands the Contender [The Local Win](piece_the_local_win.md).
+Carried by [Joining](process_joining.md), staged at [Beside It](place_beside_it.md), voiced by [The Dominated One](persona_the_dominated_one.md), dramatized in [The Decoy Joins](plot_the_decoy_joins.md). It hands the Contender [The Local Win](piece_the_local_win.md).

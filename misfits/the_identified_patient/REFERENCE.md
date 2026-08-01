@@ -86,5 +86,5 @@ Source to constraint, per element.
   bearing the symptom affords, the hold from the one's own side.
 - **[The Balance](piece_the_balance.md)**: carries the homeostasis (Jackson), the steadiness the symptom buys and
   the recovery threatens, the resistance that recruits a new bearer.
-- **[The Identified Patient](piece_the_identified_patient.md)**: carries the phenomenon whole (Bowen; Minuchin;
+- **[The Settled Strain](piece_the_settled_strain.md)**: carries the phenomenon whole (Bowen; Minuchin;
   Vogel & Bell; Jackson), the member in whom a system locates its dysfunction.

@@ -37,4 +37,4 @@ Seen at the surface, the Null looks like a dead end, a study that came to nothin
 ## Yearbook
 
 Produced by [the Author](persona_the_author.md) and by [the Replicator](persona_the_replicator.md), refused by [the Gatekeeper](persona_the_gatekeeper.md), the evidence the record is missing.
-It is the absence at the heart of the trap: the Null is what [selecting](process_selecting.md) removes, its missing weight is what [the inflation](piece_the_inflation.md) is made of, and the failed replication is a Null too, so the correction drawers with the rest, the filed evidence the whole [file drawer](piece_the_file_drawer.md) is named for.
+It is the absence at the heart of the trap: the Null is what [selecting](process_selecting.md) removes, its missing weight is what [the inflation](piece_the_inflation.md) is made of, and the failed replication is a Null too, so the correction drawers with the rest, the filed evidence the whole [the unfiled](piece_the_unfiled.md) is named for.

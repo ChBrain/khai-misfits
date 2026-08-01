@@ -96,19 +96,19 @@ The equally able get less, and fall behind, and their falling is booked as proof
 
 ## Triggers
 
-**[The Lead](plot_the_lead.md)**
+**[On a Hair's Margin](plot_on_a_hairs_margin.md)**
 A small early advantage is conferred on one of two comparable performers, on a thin margin or on luck. The Star takes the first prize. Closes when one is marked ahead and the other not, by a difference smaller than it will come to look.
 
-**[The Flow](plot_the_flow.md)**
+**[Backing the Proven](plot_backing_the_proven.md)**
 Cue: the lead reads as a signal of quality. The Patron backs the one already ahead and the Crowd attends to the one already attended. Closes when resources, attention, and credit are flowing to the leader because the leader is visible, not because the gap in ability has grown.
 
-**[The Compounding](plot_the_compounding.md)**
+**[Each Advantage Into the Next](plot_each_advantage_into_the_next.md)**
 Cue: the flow becomes the next advantage. The loop turns, and the Collaborator's shared credit accrues to the known name. Closes when the lead is self-sustaining and merit has stopped deciding the distance.
 
-**[The Gap](plot_the_gap.md)**
+**[Written Around the Names on Top](plot_written_around_the_names_on_top.md)**
 Cue: the equally able fall away, and their falling is read as proof they were lesser. The Chronicler writes the history as if the gap were talent all along. Closes when the inequality is naturalized as merit ... or named as accumulated advantage.
 
-**[The Reset](plot_the_reset.md)**
+**[With the Name Off It](plot_with_the_name_off_it.md)**
 Cue: someone judges the work without knowing whose it is. The Leveler blinds the field and decouples the reward from the standing. Closes when allocation stops following the lead ... or blinding is judged to throw away real signal, and the field backs the proven again.
 
 ## Stakes

@@ -80,5 +80,5 @@ Source to constraint, per element.
   everyone owns a box and no one owns the outcome.
 - **[The Covered Failure](piece_the_covered_failure.md)**: carries the blameless failure, the aim missed and every
   hand pointing, truthfully, to its spotless file.
-- **[The Paper Trail](piece_the_paper_trail.md)**: carries the phenomenon whole (Tetlock; Dekker), work bent from
+- **[The Bent Work](piece_the_bent_work.md)**: carries the phenomenon whole (Tetlock; Dekker), work bent from
   outcome to record, and its remedy in a changed incentive at the peril of a real safeguard.

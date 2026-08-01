@@ -82,7 +82,7 @@ And the way out is by another ballot. Proportional or ranked and runoff rules un
 
 - [The Third](piece_the_third.md)
 - [The Count](piece_the_count.md)
-- [The Wasted Vote](piece_the_wasted_vote.md)
+- [The Thrown Vote](piece_the_thrown_vote.md)
 - [The Desertion](piece_the_desertion.md)
 - [The Lock](piece_the_lock.md)
 - [The Other Ballot](piece_the_other_ballot.md)
@@ -96,7 +96,7 @@ The setup. At [the Hustings](place_the_hustings.md), [the Challenger](persona_th
 Cue: the field set and the rule in force. At [the Hustings](place_the_hustings.md), [the Elector](persona_the_elector.md) meets [the Count](piece_the_count.md), the plurality winner-take-all rule that awards the single seat to whoever finishes first and nothing to anyone else. Closes with a vote for any but the first winning nothing, the mechanical effect that under-rewards the third (Duverger).
 
 **[A Vote Thrown Away](plot_a_vote_thrown_away.md)**
-Cue: the rule understood and the third trailing. At [the Booth](place_the_booth.md), [the Elector](persona_the_elector.md) meets [the Wasted Vote](piece_the_wasted_vote.md), the belief that follows from the count, that a sincere vote for a sure loser is thrown away and forfeits a say in the contest that will be decided. Closes with the fear of the wasted vote pressing on the sincere preference, the psychological effect (Duverger; Cox).
+Cue: the rule understood and the third trailing. At [the Booth](place_the_booth.md), [the Elector](persona_the_elector.md) meets [The Thrown Vote](piece_the_thrown_vote.md), the belief that follows from the count, that a sincere vote for a sure loser is thrown away and forfeits a say in the contest that will be decided. Closes with the fear of the wasted vote pressing on the sincere preference, the psychological effect (Duverger; Cox).
 
 **[The Lesser Evil](plot_the_lesser_evil.md)**
 Cue: the wasted vote feared and the say wanted. At [the Booth](place_the_booth.md), [the Elector](persona_the_elector.md) on [Back a Winner](plan_back_a_winner.md) through [Deserting](process_deserting.md) casts [the Desertion](piece_the_desertion.md), abandoning its true preference for the lesser of the two who can win, so as to be heard. Closes with the preference kept but its expression changed, the desertion rational and not a want of nerve (Cox).

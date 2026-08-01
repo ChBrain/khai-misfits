@@ -30,7 +30,7 @@ Pay for the problem shrinking, not for the work continuing. Set a sunset so succ
 
 ## Implementation
 
-([The Sunset Review](place_the_sunset_review.md); the [sunsetting](process_sunsetting.md) process; [the shirky principle](piece_the_shirky_principle.md) is answered only by making [the obsolescence](piece_the_obsolescence.md) the thing that is funded and planned.)
+([The Sunset Review](place_the_sunset_review.md); the [sunsetting](process_sunsetting.md) process; [the preserved problem](piece_the_preserved_problem.md) is answered only by making [the obsolescence](piece_the_obsolescence.md) the thing that is funded and planned.)
 
 ## Targets
 

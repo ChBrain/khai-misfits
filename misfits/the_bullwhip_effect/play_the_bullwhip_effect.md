@@ -82,20 +82,20 @@ Let the links share the one thing they lack, the shopper's true demand, so every
 - [The Lag](piece_the_lag.md)
 - [The Whip](piece_the_whip.md)
 - [The Open Book](piece_the_open_book.md)
-- [The Bullwhip Effect](piece_the_bullwhip_effect.md)
+- [The Wave](piece_the_wave.md)
 
 ## Triggers
 
-**[The Wobble](plot_the_wobble.md)**
+**[A Few More Than Usual](plot_a_few_more_than_usual.md)**
 A few more shoppers than usual buy the thing, a small ordinary shift in demand at the till. The Shopper buys near as ever, and the Retailer sees its shelf drawn down a little further than the week before. Closes when the small real change in demand has registered as an order.
 
-**[The Cover](plot_the_cover.md)**
+**[The Wobble Plus a Cushion](plot_the_wobble_plus_a_cushion.md)**
 Cue: the retailer must refill the shelf and guard against being caught short. It orders not the wobble but the wobble plus a cushion, safety stock and the pipeline to refill, so the Signal it sends up is larger than the demand it saw. Closes when the order passed upward is bigger than the wobble that prompted it.
 
 **[The Amplifying](plot_the_amplifying.md)**
 Cue: the larger order is the only demand the next link sees. The Signal climbs, each link reading its neighbour's cover as the market and adding its own on top, so the swing grows at every stage. Closes when the distortion has compounded up the chain into a wild order at the top.
 
-**[The Whip](plot_the_whip.md)**
+**[Late and Larger](plot_late_and_larger.md)**
 Cue: the amplified order reaches the factory. It ramps to overtime then cuts to idle, glut then shortage, chasing on a lag a swing that down at the till had already passed. The Factory whipsaws while the Shopper barely moved. Closes when the top of the chain is swinging wildly on a wobble long since gone.
 
 **[The Sharing](plot_the_sharing.md)**

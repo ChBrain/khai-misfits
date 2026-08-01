@@ -37,4 +37,4 @@ Seen at the surface, the distribution looks fully captured, the model fluent acr
 ## Yearbook
 
 Approximated by [the model](persona_the_model.md) through [generating](process_generating.md), the true shape it fits in the middle and misses at the edges.
-It is the measure of the trap: the Distribution's sparse [tail](piece_the_tail.md) is what the model undersamples and the recursion forgets, its middle all that survives the [collapse](piece_model_collapse.md), and its genuine form is what only [the real well](piece_the_real_well.md) keeps outside the loop.
+It is the measure of the trap: the Distribution's sparse [tail](piece_the_tail.md) is what the model undersamples and the recursion forgets, its middle all that survives the [the echo](piece_the_echo.md), and its genuine form is what only [the real well](piece_the_real_well.md) keeps outside the loop.

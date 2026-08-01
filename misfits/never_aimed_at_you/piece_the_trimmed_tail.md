@@ -34,5 +34,5 @@ The answer, and it is genuinely an answer to something: real harms prevented, a 
 
 ## Yearbook
 
-Stands over the turn in [Cut the Ones That Should Not Have Been Written](plot_cut_the_ones_that_should_not_have_been_written.md), where the only correction anybody built is measuring the wrong denominator.
+Stands over the turn in [Trimming the Tail](plot_trimming_the_tail.md), where the only correction anybody built is measuring the wrong denominator.
 It works together with [The Bystander Mass](piece_the_bystander_mass.md), the instrument and the quantity it cannot select on.

@@ -30,7 +30,7 @@ Deal harm on purpose, and let it read as another accident of the loop. Wear the 
 
 ## Implementation
 
-([The Table](place_the_table.md); the [mending](process_mending.md) it exploits; [the true adversary](piece_the_true_adversary.md) meets the mender's step with an opening seized, the one case that makes answering [accidental adversaries](piece_accidental_adversaries.md) a gamble.)
+([The Table](place_the_table.md); the [mending](process_mending.md) it exploits; [the true adversary](piece_the_true_adversary.md) meets the mender's step with an opening seized, the one case that makes answering [the rivalry](piece_the_rivalry.md) a gamble.)
 
 ## Targets
 

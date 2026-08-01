@@ -37,4 +37,4 @@ Seen at the surface, the Payoff looks patient and safe, a value that will keep, 
 ## Yearbook
 
 Held by [the important](persona_the_important.md) through [deferring](process_deferring.md), the worth that never falls due.
-It is the stake of the trap: the Payoff is what [the deadline](piece_the_deadline.md) takes the hour from and what [the closure](piece_the_closure.md) cannot pay, the value that recedes into [the someday](piece_the_someday.md) and is lost to [the undone](piece_the_undone.md), the worth the [tyranny of the urgent](piece_the_tyranny_of_the_urgent.md) spends the life not reaching.
+It is the stake of the trap: the Payoff is what [the deadline](piece_the_deadline.md) takes the hour from and what [the closure](piece_the_closure.md) cannot pay, the value that recedes into [the someday](piece_the_someday.md) and is lost to [the undone](piece_the_undone.md), the worth the [the deferred](piece_the_deferred.md) spends the life not reaching.

@@ -86,16 +86,16 @@ Cap the resource itself, or price it, so the efficiency saves the whole and not 
 
 ## Triggers
 
-**[The Efficiency](plot_the_efficiency.md)**
+**[Booking the Saving](plot_booking_the_saving.md)**
 A resource is made to go further per unit, cleverly and in good faith to save it. The Engineer doubles the efficiency, and the Forecaster books the saving that follows, if demand holds still. Closes when the per-unit gain is real and the projected saving assumes a demand that will not hold.
 
-**[The Rebound](plot_the_rebound.md)**
+**[Cheaper, So More of It](plot_cheaper_so_more_of_it.md)**
 Cue: the efficiency has made the service cheaper, not just leaner. The User travels the now-cheaper mile more often, and the Pioneer finds uses that were never worth the resource before and are now. Closes when demand has climbed toward the lower price and the saving is being eaten.
 
-**[The Backfire](plot_the_backfire.md)**
+**[Risen Above Where It Began](plot_risen_above_where_it_began.md)**
 Cue: the meter is read against the projection. The Forecaster finds the total resource burned has not fallen but risen above where it began, though every unit is leaner than ever. Closes when the saving is named as spent by the demand the efficiency invited ... or blamed on growth, and another efficiency is called for.
 
-**[The Cap](plot_the_cap.md)**
+**[A Ceiling on the Resource](plot_a_ceiling_on_the_resource.md)**
 Cue: someone puts a ceiling or a price on the resource itself, not on the unit. The Capper makes the whole scarce, so the efficiency saves the total instead of feeding the demand. Closes when the gain is kept because the resource is capped ... or the cap is judged too costly and lifted, and the rebound resumes.
 
 ## Stakes

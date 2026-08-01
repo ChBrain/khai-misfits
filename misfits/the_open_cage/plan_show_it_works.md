@@ -30,7 +30,7 @@ Arrange a step small enough that the Subject cannot miss their action landing, a
 
 ## Implementation
 
-([The Ramp](place_the_ramp.md); the [restoring](process_restoring.md) process; the graded win supplies [the immunity](piece_the_immunity.md) the Subject lacked and revives [the dead lever](piece_the_dead_lever.md), turning [the open cage](piece_the_open_cage.md) back ... if the outside effort can be carried again and again.)
+([The Ramp](place_the_ramp.md); the [restoring](process_restoring.md) process; the graded win supplies [the immunity](piece_the_immunity.md) the Subject lacked and revives [the dead lever](piece_the_dead_lever.md), turning [the old lesson](piece_the_old_lesson.md) back ... if the outside effort can be carried again and again.)
 
 ## Targets
 

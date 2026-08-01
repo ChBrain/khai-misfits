@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Never Aimed at You](play_never_aimed_at_you.md). Borne at [The Consulting Room](place_the_consulting_room.md), precipitated by [The Prescriber](persona_the_prescriber.md) treating a patient present now, in [Cover It Now](plot_cover_it_now.md).
+[Never Aimed at You](play_never_aimed_at_you.md). Borne at [The Consulting Room](place_the_consulting_room.md), precipitated by [The Prescriber](persona_the_prescriber.md) treating a patient present now, in [Written Before the Culture](plot_written_before_the_culture.md).
 
 ## Owner
 

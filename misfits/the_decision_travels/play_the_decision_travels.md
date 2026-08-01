@@ -96,16 +96,16 @@ The one move that closes it is a reversal: read the fragments together, run the 
 
 ## Triggers
 
-**[The Specification](plot_the_specification.md)**
+**[Drawn for a Category](plot_drawn_for_a_category.md)**
 The decision is made: the category specified, the tolerance awarded and locked. Closes when the spec and the budget are fixed and handed down, correct and addressed to no one who lives here.
 
-**[The Handover](plot_the_handover.md)**
+**[True to the Drawing](plot_true_to_the_drawing.md)**
 Cue: the locked decision reaches the floor. It is built true, commissioned into the room, and signed off. Closes when the door shuts and custody passes to the Body, verification done and validation never run.
 
 **[The Adaptation](plot_the_adaptation.md)**
 Cue: the Body is living with it. The accumulated gap becomes daily routine, and meets the first form open to it. Closes when one symptom is filed as a ticket and the rest stays in the room.
 
-**[The Finding](plot_the_finding.md)**
+**[What the Format Can Carry](plot_what_the_format_can_carry.md)**
 Cue: the ticket reaches the desk that faces back up the chain. A finding carries a fragment upstream. Closes when the single loop corrects the symptom ... and the whole runs on anyway.
 
 **[The Return Path](plot_the_return_path.md)**

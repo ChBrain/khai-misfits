@@ -26,7 +26,7 @@ Leave the feature standing and let the ground be altered beneath it. Human force
 
 ## Orders
 
-([The Cue](persona_the_cue.md) reports the same feature after the ground is changed, the alteration made for reasons that have nothing to do with the animal, so the signal outlives the quality it tracked without anyone meaning harm.)
+([The Signal](persona_the_signal.md) reports the same feature after the ground is changed, the alteration made for reasons that have nothing to do with the animal, so the signal outlives the quality it tracked without anyone meaning harm.)
 
 ## Implementation
 

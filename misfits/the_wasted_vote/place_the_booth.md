@@ -26,7 +26,7 @@ The reading, arrived at unaided, that the preference cannot win.
 
 ## Holds
 
-[The Wasted Vote](piece_the_wasted_vote.md).
+[The Thrown Vote](piece_the_thrown_vote.md).
 The belief that a sincere vote for a sure loser is thrown away.
 
 [The Desertion](piece_the_desertion.md).

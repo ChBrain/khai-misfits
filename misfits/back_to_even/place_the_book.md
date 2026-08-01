@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Back to Even](play_back_to_even.md). Where a sale is booked and the gain or loss becomes real: the ledger on which a position is closed and its result written down. Hosts [Take the Gain](plot_take_the_gain.md), [Judge by Prospects](plot_judge_by_prospects.md).
+[Back to Even](play_back_to_even.md). Where a sale is booked and the gain or loss becomes real: the ledger on which a position is closed and its result written down. Hosts [Take the Gain](plot_take_the_gain.md), [Weighed on the Outlook](plot_weighed_on_the_outlook.md).
 
 ## Owner
 

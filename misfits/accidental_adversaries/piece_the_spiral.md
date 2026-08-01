@@ -36,5 +36,5 @@ An escalating feud looks like proof that one side is hostile, so the spiral read
 
 ## Yearbook
 
-Run by [the spiral](persona_the_spiral.md) through [spiralling](process_spiralling.md), tabled as [Escalate](plan_escalate.md).
+Run by [the escalator](persona_the_escalator.md) through [spiralling](process_spiralling.md), tabled as [Escalate](plan_escalate.md).
 It is the loop that turns allies to adversaries: the Spiral compounds each [misattribution](piece_the_misattribution.md) into the next, dragging down [the symbiosis](piece_the_symbiosis.md) it was built on, broken only by [See the Whole](plan_see_the_whole.md).

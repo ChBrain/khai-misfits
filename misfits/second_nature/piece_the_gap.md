@@ -37,4 +37,4 @@ Seen at the surface, the Gap does not appear: the account sounds plain and the r
 ## Yearbook
 
 Opened by [the knowledge](piece_the_knowledge.md) and hidden by [the blind spot](piece_the_blind_spot.md), the distance between the two minds.
-It is the terrain of the trap: the Gap is what [the shorthand](piece_the_shorthand.md) fails to cross and [the miss](piece_the_miss.md) falls into, the real width [testing](process_testing.md) alone reveals, the chasm the knower opened in learning and can no longer see across in [second nature](piece_second_nature.md).
+It is the terrain of the trap: the Gap is what [the shorthand](piece_the_shorthand.md) fails to cross and [the miss](piece_the_miss.md) falls into, the real width [testing](process_testing.md) alone reveals, the chasm the knower opened in learning and can no longer see across in [the buried step](piece_the_buried_step.md).

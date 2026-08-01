@@ -36,5 +36,5 @@ It looks like scarcity: the jam is where demand meets a link too small for it, s
 
 ## Yearbook
 
-Felt by every driver on [the old route](place_the_old_route.md), and cured, it seems, by [the extra road](piece_the_extra_road.md).
+Felt by every driver on [the old route](place_the_old_route.md), and cured, it seems, by [the added lane](piece_the_added_lane.md).
 It is the setup the production opens on: the Jam is what [the planner](persona_the_planner.md) answers, and its relief is the promise that draws every driver onto [the selfish route](piece_the_selfish_route.md) and into the slower whole.

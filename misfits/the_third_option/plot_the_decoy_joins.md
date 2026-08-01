@@ -25,7 +25,7 @@ A third option arrives on the menu, set down beside the pair for no reason conne
 
 ## Action
 
-At [Beside It](place_beside_it.md), [the Decoy](persona_the_decoy.md) from [the decoy's seat](position_decoy.md) on [Round Out the Menu](plan_round_out_the_menu.md) through [Joining](process_joining.md) takes up [the Decoy](piece_the_decoy.md), joining the set worse than [the Contender](persona_the_contender.md) on every dimension that matters and not worse than [the Alternative](persona_the_alternative.md).
+At [Beside It](place_beside_it.md), [The Dominated One](persona_the_dominated_one.md) from [the decoy's seat](position_decoy.md) on [Round Out the Menu](plan_round_out_the_menu.md) through [Joining](process_joining.md) takes up [the Decoy](piece_the_decoy.md), joining the set worse than [the Contender](persona_the_contender.md) on every dimension that matters and not worse than [the Alternative](persona_the_alternative.md).
 
 ## Stage
 

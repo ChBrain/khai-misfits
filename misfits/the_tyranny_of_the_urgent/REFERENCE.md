@@ -85,5 +85,5 @@ Source to constraint, per element.
   task can always be postponed to.
 - **[The Undone](piece_the_undone.md)**: carries the accrued cost (Hummel), the sum of the deferrals, the
   important never done across a life.
-- **[The Tyranny of the Urgent](piece_the_tyranny_of_the_urgent.md)**: carries the phenomenon whole (Zhu, Yang, &
+- **[The Deferred](piece_the_deferred.md)**: carries the phenomenon whole (Zhu, Yang, &
   Hsee; Hummel; Covey), urgency capturing the hour against importance by the mere fact of falling due.

@@ -37,4 +37,4 @@ Seen at the surface, the Overreach looks like care, a government acting on a pub
 ## Yearbook
 
 Set by [the regulator](persona_the_regulator.md) through [answering](process_answering.md), the guard allocated to the loudest fear.
-It is the cost of the trap: the Overreach spends the protection [the consensus](piece_the_consensus.md) demanded on the vivid danger of [the story](piece_the_story.md), and leaves the vast risk of [the cold number](piece_the_cold_number.md) unmet, the mark [the availability cascade](piece_the_availability_cascade.md) leaves on the world, undone only if [the weighing](process_weighing.md) is heard.
+It is the cost of the trap: the Overreach spends the protection [the consensus](piece_the_consensus.md) demanded on the vivid danger of [the story](piece_the_story.md), and leaves the vast risk of [the cold number](piece_the_cold_number.md) unmet, the mark [the repetition](piece_the_repetition.md) leaves on the world, undone only if [the weighing](process_weighing.md) is heard.

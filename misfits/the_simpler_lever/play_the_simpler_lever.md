@@ -40,7 +40,7 @@ Match the variety, and the outcome can be held again: amplify the regulator's re
 
 **Pitch**
 
-- [The Simpler Lever](pitch_the_simpler_lever.md)
+- [One Lever Should Do It](pitch_one_lever_should_do_it.md)
 
 **Personas**
 

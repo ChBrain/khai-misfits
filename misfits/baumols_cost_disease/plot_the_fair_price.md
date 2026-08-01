@@ -30,7 +30,7 @@ The rising cost is set on the table not as a fault to cut but as a price to meet
 
 ## Stage
 
-[The Funder](persona_the_funder.md) tables [Fund It Anyway](plan_fund_it_anyway.md): pay the climbing price from the prosperity that raised it, so [baumol's cost disease](piece_baumols_cost_disease.md) is answered by meeting [the rising cost](piece_the_rising_cost.md) rather than cutting the care.
+[The Funder](persona_the_funder.md) tables [Fund It Anyway](plan_fund_it_anyway.md): pay the climbing price from the prosperity that raised it, so [the dearer hour](piece_the_dearer_hour.md) is answered by meeting [the rising cost](piece_the_rising_cost.md) rather than cutting the care.
 [The Economist](persona_the_economist.md) tables [Name the Arithmetic](plan_name_the_arithmetic.md), and adds the honest caveat that real waste still hides among the costs and must be found.
 
 ## Tension

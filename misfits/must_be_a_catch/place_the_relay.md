@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Must Be a Catch](play_must_be_a_catch.md). Where a trusted third party carries an offer's terms without its source. Hosts [Strip the Letterhead](plot_strip_the_letterhead.md).
+[Must Be a Catch](play_must_be_a_catch.md). Where a trusted third party carries an offer's terms without its source. Hosts [Carried by a Third Party](plot_carried_by_a_third_party.md).
 
 ## Owner
 

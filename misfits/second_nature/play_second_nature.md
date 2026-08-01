@@ -80,7 +80,7 @@ Recover the novice's view by testing the explanation on someone who does not yet
 - [The Gap](piece_the_gap.md)
 - [The Blind Spot](piece_the_blind_spot.md)
 - [The Miss](piece_the_miss.md)
-- [Second Nature](piece_second_nature.md)
+- [The Buried Step](piece_the_buried_step.md)
 
 ## Triggers
 

@@ -26,7 +26,7 @@ Hold your place as the working account of how things work, built from a long acc
 
 ## Orders
 
-([The Theory](persona_the_theory.md) holds [the Theory](piece_the_theory.md) through [Confirming](process_confirming.md) at [the Discipline](place_the_discipline.md), standing on its earned authority before any anomaly appears.)
+([The Paradigm](persona_the_paradigm.md) holds [the Theory](piece_the_theory.md) through [Confirming](process_confirming.md) at [the Discipline](place_the_discipline.md), standing on its earned authority before any anomaly appears.)
 
 ## Implementation
 

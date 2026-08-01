@@ -40,8 +40,8 @@ Hold the standard regardless of the credit, refuse to let a good deed buy a pass
 
 - [The Doer](persona_the_doer.md)
 - [The Ledger](persona_the_ledger.md)
-- [The License](persona_the_license.md)
-- [The Lapse](persona_the_lapse.md)
+- [The Warrant](persona_the_warrant.md)
+- [The Permitted Act](persona_the_permitted_act.md)
 - [The Consistent](persona_the_consistent.md)
 - [The Motivator](persona_the_motivator.md)
 
@@ -85,11 +85,11 @@ Hold the standard regardless of the credit, refuse to let a good deed buy a pass
 - [The Lapse](piece_the_lapse.md)
 - [The Wash](piece_the_wash.md)
 - [The Earned Rest](piece_the_earned_rest.md)
-- [Moral Licensing](piece_moral_licensing.md)
+- [The Credit](piece_the_credit.md)
 
 ## Triggers
 
-**[The Good Turn](plot_the_good_turn.md)**
+**[Recorded as a Credit](plot_recorded_as_a_credit.md)**
 A genuine good deed is done, and it proves the doer good. The Doer earns it honestly and the Ledger records it, banking the act as a credit against the doer's name, a balance in their favour. Closes when the good deed has become a moral credit, held and spendable.
 
 **[The Banking](plot_the_banking.md)**
@@ -98,10 +98,10 @@ Cue: the credit is not saved but readied to spend. The Ledger keeps the moral se
 **[The Cashing](plot_the_cashing.md)**
 Cue: the pass is spent. The License grants the lapse, often far from the good deed's domain, and the Lapse takes it, a good person letting themselves off this once. Closes when the lapse has been waved through on the strength of the credit, and felt like a reward rather than a fall.
 
-**[The Wash](plot_the_wash.md)**
+**[Both in the Same Column](plot_both_in_the_same_column.md)**
 Cue: the account is totalled. The Doer's real virtue and the Lapse it funded net to nothing, so the good deed is revealed not to have raised the conduct but to have bought permission to lower it. Closes when the good has washed out against the licence it bought, and the balance sits back at level.
 
-**[The Reckoning](plot_the_reckoning.md)**
+**[No Slack for Virtue](plot_no_slack_for_virtue.md)**
 Cue: someone moves to stop the good deed buying a pass. The Consistent would hold the standard regardless of credit, against the Motivator's warning that virtue uncounted goes undone, that vigilance curdles, and that an earned rest cannot be cleanly told from a licensed lapse. Closes when the good adds instead of netting ... or the will to be good is sapped, or a true rest is denied as though it were a lapse.
 
 ## Stakes

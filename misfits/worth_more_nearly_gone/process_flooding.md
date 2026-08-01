@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Worth More Nearly Gone](play_worth_more_nearly_gone.md). Borne at [The Auction](place_the_auction.md), precipitated by [The Breeder](persona_the_breeder.md) supplying legal stock against the premium, in [Flood the Market](plot_flood_the_market.md).
+[Worth More Nearly Gone](play_worth_more_nearly_gone.md). Borne at [The Auction](place_the_auction.md), precipitated by [The Breeder](persona_the_breeder.md) supplying legal stock against the premium, in [Until Scarcity Stops Paying](plot_until_scarcity_stops_paying.md).
 
 ## Owner
 

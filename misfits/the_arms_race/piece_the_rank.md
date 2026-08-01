@@ -36,5 +36,5 @@ Seen from the contest, rank looks like an ordinary reward that effort can earn, 
 
 ## Yearbook
 
-Held by [the rank](persona_the_rank.md) through [cancelling](process_cancelling.md), the prize that cannot grow.
+Held by [the standing](persona_the_standing.md) through [cancelling](process_cancelling.md), the prize that cannot grow.
 It is why the race moves no one: the Rank is what [the escalation](piece_the_escalation.md) buys from another and never adds, the fixed order behind [the cancellation](piece_the_cancellation.md), and the standing [the truce](piece_the_truce.md) can leave untouched precisely because stopping the spend never threatened it.

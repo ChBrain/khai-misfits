@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[The Price Neither Will Name](play_the_price_neither_will_name.md). Where the shortfall is reckoned and the price of efficiency is weighed. Hosts [Cover the Gap](plot_cover_the_gap.md).
+[The Price Neither Will Name](play_the_price_neither_will_name.md). Where the shortfall is reckoned and the price of efficiency is weighed. Hosts [An Outside Dollar](plot_an_outside_dollar.md).
 
 ## Owner
 

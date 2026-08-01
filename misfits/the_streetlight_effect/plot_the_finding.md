@@ -26,12 +26,12 @@ The lit patch has been combed to its corners and now yields its verdict: either 
 
 ## Action
 
-[Mistaking](process_mistaking.md): [The False Find](persona_the_false_find.md), holding [the report seat](position_report.md), takes the lit ground's yield for the answer, while [The Light](persona_the_light.md), holding [the light's seat](position_light.md), stands as the honest, easy ground that happened to produce it.
+[Mistaking](process_mistaking.md): [The Report](persona_the_report.md), holding [the report seat](position_report.md), takes the lit ground's yield for the answer, while [The Lit Patch](persona_the_lit_patch.md), holding [the light's seat](position_light.md), stands as the honest, easy ground that happened to produce it.
 
 ## Stage
 
-[The False Find](persona_the_false_find.md) tables [Report What Turns Up](plan_report_what_turns_up.md) and writes [the false find](piece_the_false_find.md): the patch's contents as the answer, or its emptiness as the thing's not existing.
-[The Light](persona_the_light.md) offers only what it held, never having claimed to hold the thing, and the report omits that its ground was chosen for ease.
+[The Report](persona_the_report.md) tables [Report What Turns Up](plan_report_what_turns_up.md) and writes [the false find](piece_the_false_find.md): the patch's contents as the answer, or its emptiness as the thing's not existing.
+[The Lit Patch](persona_the_lit_patch.md) offers only what it held, never having claimed to hold the thing, and the report omits that its ground was chosen for ease.
 
 ## Tension
 

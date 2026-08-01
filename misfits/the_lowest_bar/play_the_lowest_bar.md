@@ -38,7 +38,7 @@ Hold a common floor and the descent can be stopped: a minimum standard agreed ac
 
 **Pitch**
 
-- [The Lowest Bar](pitch_the_lowest_bar.md)
+- [Someone Will Always Go Lower](pitch_someone_will_always_go_lower.md)
 
 **Personas**
 
@@ -94,10 +94,10 @@ Cue: a base free to move and a jurisdiction that asks less of it than its curren
 **[The Match](plot_the_match.md)**
 Cue: a rival that held a higher standard watches the base leave for a laxer neighbour. The Rival lowers to match or undercut, because a standard no base will sit under protects no one. Closes when the rival has cut to keep the base and the first jurisdiction has cut again to stay ahead, each lowering a rational answer to the last, and the bar a notch lower than before with no one having chosen it low.
 
-**[The Descent](plot_the_descent.md)**
+**[Answered Cut by Cut](plot_answered_cut_by_cut.md)**
 Cue: each cut is answered by the next across the market of laws. The lowerings compound, and the standard ratchets down toward the lowest on offer, no jurisdiction able to hold it high while the base can find it low elsewhere. Closes when the standard has settled at the bottom, a floor no one chose and none can lift alone, the harm resting on the immobile third parties the standard had protected and no villain anywhere in the descent.
 
-**[The Floor](plot_the_floor.md)**
+**[A Minimum None May Slip](plot_a_minimum_none_may_slip.md)**
 Cue: someone would stop the descent with a common minimum. The Bound would have the jurisdictions agree a floor below which none may cut, against each jurisdiction's standing power to win the base back by quietly cutting below it. Closes when the floor is agreed and held and the base can no longer be drawn by going lower ... or a jurisdiction defects to draw the base back, the harmonisation unravels, and the descent resumes toward the lowest bar.
 
 ## Stakes

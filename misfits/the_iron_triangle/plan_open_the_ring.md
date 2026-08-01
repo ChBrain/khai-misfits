@@ -30,7 +30,7 @@ Subject the domain to the president, the budget office, the rival interests, and
 
 ## Implementation
 
-([The Open Floor](place_the_open_floor.md); the [opening](process_opening.md) process; the domain is dragged past [the seal](piece_the_seal.md) into the answer of [the outside](piece_the_outside.md), turning [the iron triangle](piece_the_iron_triangle.md) back ... if all three corners can be beaten together.)
+([The Open Floor](place_the_open_floor.md); the [opening](process_opening.md) process; the domain is dragged past [the seal](piece_the_seal.md) into the answer of [the outside](piece_the_outside.md), turning [the closed ring](piece_the_closed_ring.md) back ... if all three corners can be beaten together.)
 
 ## Targets
 

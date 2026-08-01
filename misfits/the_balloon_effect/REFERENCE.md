@@ -92,5 +92,5 @@ Source to constraint, per element.
   patch-result the reward finds and the displacement cannot show against.
 - **[The Conservation](piece_the_conservation.md)**: carries the roughly steady total (Windle & Farrell), the
   trade moved rather than cut, held as a tendency and sometimes worsened into harder hands.
-- **[The Balloon Effect](piece_the_balloon_effect.md)**: carries the phenomenon whole (Reppetto; Friesendorf;
+- **[The Displacement](piece_the_displacement.md)**: carries the phenomenon whole (Reppetto; Friesendorf;
   Windle & Farrell), the conserved trade relocated by local suppression.

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Worth More Nearly Gone](play_worth_more_nearly_gone.md). Where a headcount becomes a price, and where the premium must be attacked if it is attacked at all. Hosts [Worth It Because There Are Few](plot_worth_it_because_there_are_few.md), [Rarer, and Dearer](plot_rarer_and_dearer.md), and [Flood the Market](plot_flood_the_market.md).
+[Worth More Nearly Gone](play_worth_more_nearly_gone.md). Where a headcount becomes a price, and where the premium must be attacked if it is attacked at all. Hosts [Worth It Because There Are Few](plot_worth_it_because_there_are_few.md), [Rarer, and Dearer](plot_rarer_and_dearer.md), and [Until Scarcity Stops Paying](plot_until_scarcity_stops_paying.md).
 
 ## Owner
 

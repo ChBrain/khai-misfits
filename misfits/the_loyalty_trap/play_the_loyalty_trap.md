@@ -53,7 +53,7 @@ Voice it, make loyalty mean the loyal opposition rather than the loyal silence, 
 
 **Plans**
 
-- [Stand By It](plan_stand_by_it.md)
+- [Keep the Faith](plan_keep_the_faith.md)
 - [Slip Away](plan_slip_away.md)
 - [Speak Up](plan_speak_up.md)
 - [Take the Quiet](plan_take_the_quiet.md)
@@ -78,7 +78,7 @@ Voice it, make loyalty mean the loyal opposition rather than the loyal silence, 
 - [The Voice](piece_the_voice.md)
 - [The Faith](piece_the_faith.md)
 - [The Loyal Opposition](piece_the_loyal_opposition.md)
-- [The Loyalty Trap](piece_the_loyalty_trap.md)
+- [The Unheard Decline](piece_the_unheard_decline.md)
 
 ## Triggers
 
@@ -94,7 +94,7 @@ Cue: loyalty means not making a scene. The Faithful, unwilling to be the malcont
 **[The Quiet Exit](plot_the_quiet_exit.md)**
 Cue: the leadership reads the quiet as content. The Cause, losing no members and hearing no complaint, takes the stability for satisfaction and sails on, and when at last the Leaver's loyalty fails, it slips away without a word, so even the departure teaches nothing. Closes when the body is declining in silence, shedding its people one quiet resignation at a time and learning from none.
 
-**[The Loyal Opposition](plot_the_loyal_opposition.md)**
+**[Devotion That Speaks](plot_devotion_that_speaks.md)**
 Cue: someone would make loyalty speak. The Dissenter would voice the fault and hold a credible readiness to leave, spending the standing loyalty earned on criticism that may wound what it loves, against the norm that loyalty means silence and a leadership that hears dissent as betrayal. Closes when the signal is restored and the decline is met ... or the faithful hold their tongues once more, and the body slides on unheard.
 
 ## Stakes

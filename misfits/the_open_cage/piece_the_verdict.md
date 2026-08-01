@@ -37,4 +37,4 @@ Seen at the surface, the Verdict looks like accountability, holding a person to 
 ## Yearbook
 
 Handed down by [the judge](persona_the_judge.md) through [judging](process_judging.md), the passivity read as character.
-It is the second turn of the trap: the Verdict misreads [the dead lever](piece_the_dead_lever.md) left untested as a flaw, missing [the uncoupling](piece_the_uncoupling.md) behind it, and lands as one more outcome that deepens [the expectation](piece_the_expectation.md), the blame that hardens the [open cage](piece_the_open_cage.md).
+It is the second turn of the trap: the Verdict misreads [the dead lever](piece_the_dead_lever.md) left untested as a flaw, missing [the uncoupling](piece_the_uncoupling.md) behind it, and lands as one more outcome that deepens [the expectation](piece_the_expectation.md), the blame that hardens the [the old lesson](piece_the_old_lesson.md).

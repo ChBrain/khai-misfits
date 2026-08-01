@@ -31,7 +31,7 @@ The audits keep passing and the runway keeps empty, so at last a different quest
 ## Stage
 
 [The Rebuilder](persona_the_rebuilder.md) tables [Rebuild from Cause](plan_rebuild_from_cause.md): dig past the form to [the substance](piece_the_substance.md), find what actually joins the practice to the result, and build that, dropping every rite that turns out to carry nothing.
-[The empty runway](piece_the_empty_runway.md) begins to take deliveries, and [the cargo cult](piece_the_cargo_cult.md) is named at last: a faithful copy that worked only once it was torn back to the thing the copy had left out.
+[The empty runway](piece_the_empty_runway.md) begins to take deliveries, and [the copied form](piece_the_copied_form.md) is named at last: a faithful copy that worked only once it was torn back to the thing the copy had left out.
 
 ## Tension
 

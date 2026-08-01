@@ -34,5 +34,5 @@ A footnote, even: the qualifications at the end of a finding whose headline is f
 
 ## Yearbook
 
-Stands over the close in [Flood the Market](plot_flood_the_market.md), the remedy named with both its failure modes beside it.
+Stands over the close in [Until Scarcity Stops Paying](plot_until_scarcity_stops_paying.md), the remedy named with both its failure modes beside it.
 It works together with [The Premium](piece_the_premium.md), the engine and the one lever aimed at it.

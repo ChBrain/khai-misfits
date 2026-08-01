@@ -37,4 +37,4 @@ Seen at the surface, the Dead Lever looks to the Subject like no option at all, 
 ## Yearbook
 
 Left untested by [the subject](persona_the_subject.md) under [the expectation](piece_the_expectation.md), the returned control treated as dead.
-It is the cruelty of the trap: the Dead Lever is the working escape [resigning](process_resigning.md) will not let be tried and [the judge](persona_the_judge.md) condemns the Subject for refusing, the live handle only [restoring](process_restoring.md) can make felt again, the open door at the centre of the [open cage](piece_the_open_cage.md).
+It is the cruelty of the trap: the Dead Lever is the working escape [resigning](process_resigning.md) will not let be tried and [the judge](persona_the_judge.md) condemns the Subject for refusing, the live handle only [restoring](process_restoring.md) can make felt again, the open door at the centre of the [the old lesson](piece_the_old_lesson.md).

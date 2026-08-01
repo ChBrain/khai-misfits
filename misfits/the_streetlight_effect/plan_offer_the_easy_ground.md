@@ -26,7 +26,7 @@ Offer ground that can be seen and worked: data at hand, a method that runs, a sa
 
 ## Orders
 
-([The Light](persona_the_light.md) draws the search by being cheap to conduct, honest that seeing is easy and never that the thing is here.)
+([The Lit Patch](persona_the_lit_patch.md) draws the search by being cheap to conduct, honest that seeing is easy and never that the thing is here.)
 
 ## Implementation
 

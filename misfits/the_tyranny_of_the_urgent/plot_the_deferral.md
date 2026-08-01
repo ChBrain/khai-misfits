@@ -31,7 +31,7 @@ The worthy work patient and unpressing, the someday there to receive it, the one
 ## Stage
 
 [The Important](persona_the_important.md), on [Wait Its Turn](plan_wait_its_turn.md), makes no demand and sets no deadline, so it is postponed without protest, its worth intact and its turn not come.
-[The Doer](persona_the_doer.md), on [Answer the Urgent](plan_answer_the_urgent.md), defers it by a reasonable choice, because nothing forces it today and one more day costs so little.
+[The Doer](persona_the_doer.md), on [Take What Falls Due](plan_take_what_falls_due.md), defers it by a reasonable choice, because nothing forces it today and one more day costs so little.
 
 ## Tension
 

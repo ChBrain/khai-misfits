@@ -101,10 +101,10 @@ Cut the tie between your past and your target and the holding has no point: the 
 **[Rising Bar](plot_rising_bar.md)**
 The review sets next year's target as this year's result plus a stretch. The Beater gives it everything and posts a record, and is rewarded with a bigger number to beat next year, paid by himself. Closes when over-performance is answered with a harder target.
 
-**[Hit and Hold](plot_hit_and_hold.md)**
+**[Making the Number Exactly](plot_making_the_number_exactly.md)**
 Cue: the Beater, wiser now, becomes the Holder. He makes the number exactly and parks the surplus, and the Lowballer talks the commit down before it is set. Closes when the target is met to the decimal and the capacity behind it is off the books.
 
-**[Soldiering](plot_soldiering.md)**
+**[Faster Than the Room Allows](plot_faster_than_the_room_allows.md)**
 Cue: the Hare over-delivers in the open, and the room cools. The Squirrel banks a good quarter against a lean one, and the peer norm holds everyone to the safe pace. Closes when the rate-buster is pressured back into line and the reserve is hidden.
 
 **[True Ceiling](plot_true_ceiling.md)**

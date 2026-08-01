@@ -93,7 +93,7 @@ And the tilt is seen only from above. The net running from the late to the early
 **[Put In](plot_put_in.md)**
 The setup. At [the Wellhead](place_the_wellhead.md), [the Spring](persona_the_spring.md) on [Put It In](plan_put_it_in.md) through [Injecting](process_injecting.md) holds [the Injection](piece_the_injection.md), the new money entering the economy at a point, through a mine or a loan or a bond bought or a government spend, for an ordinary and needful reason. Closes with the money entered at a point, since it cannot enter everywhere at once, and must spread from where it lands (Cantillon).
 
-**[First at the Old Prices](plot_first_at_the_old_prices.md)**
+**[Before the Prices Move](plot_before_the_prices_move.md)**
 Cue: the new money in the first hand. At [the Wellhead](place_the_wellhead.md), [the First Hand](persona_the_first_hand.md) on [Spend It First](plan_spend_it_first.md) through [Spending](process_spending.md) takes up [the First Spend](piece_the_first_spend.md), spending the money at the prices that still hold, before it has bid them up, and taking real goods at the old prices. Closes with the first hand richer in what the money buys, by the difference between the prices it paid and the prices to come (Cantillon).
 
 **[Last to the Well](plot_last_to_the_well.md)**
@@ -105,7 +105,7 @@ Cue: the gain at one end and the loss at the other, and the flow between them un
 **[In What Order](plot_in_what_order.md)**
 Cue: the spread plain, and the question of what governs it. At [the Overlook](place_the_overlook.md), [the Reckoner](persona_the_reckoner.md) meets [the Order](piece_the_order.md), the sequence of arrival that alone determines who gains and who loses, a redistribution by position in the flow that no transfer intends and no single hand can see. Closes with the order the whole of the difference, the early gain and the late loss a consequence of who received the money first, not of anyone's design (Cantillon; Mises).
 
-**[The Tilt](plot_the_tilt.md)**
+**[What the Order Sums To](plot_what_the_order_sums_to.md)**
 Cue: the order named, and the net still to be summed. At [the Overlook](place_the_overlook.md), [the Reckoner](persona_the_reckoner.md) meets [the Tilt](piece_the_tilt.md), the net redistribution from the late receivers to the early, visible only in the aggregate and authored by no one. Closes with the bound held, the non-neutral direction standard and the magnitude and net winners in any episode contested, distinct from More Than It Can Back and Pushing on a String (Mises; the distributional-policy debate).
 
 ## Stakes

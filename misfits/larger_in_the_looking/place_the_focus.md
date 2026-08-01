@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Larger in the Looking](play_larger_in_the_looking.md). Where attention magnifies the factor and the judgment overweights it, the narrowed frame with the one thing filling it. Hosts [It Fills the Frame](plot_it_fills_the_frame.md), [The Overweight](plot_the_overweight.md).
+[Larger in the Looking](play_larger_in_the_looking.md). Where attention magnifies the factor and the judgment overweights it, the narrowed frame with the one thing filling it. Hosts [It Fills the Frame](plot_it_fills_the_frame.md), [Rating It Far Too High](plot_rating_it_far_too_high.md).
 
 ## Owner
 

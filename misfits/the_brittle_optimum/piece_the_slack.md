@@ -36,5 +36,5 @@ Seen on any ordinary day, the slack looks like pure inefficiency, and the truth 
 
 ## Yearbook
 
-Held by [the slack](persona_the_slack.md) through [trimming](process_trimming.md), the give judged worthless in calm.
+Held by [the spare](persona_the_spare.md) through [trimming](process_trimming.md), the give judged worthless in calm.
 It is the insurance cut as waste: the Slack is what [the efficiency](piece_the_efficiency.md) is won by removing, whose loss tightens [the coupling](piece_the_coupling.md), and which [the insurance](piece_the_insurance.md) keeps on purpose to prevent [the shatter](piece_the_shatter.md).

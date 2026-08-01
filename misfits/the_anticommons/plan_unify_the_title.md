@@ -30,7 +30,7 @@ Gather the fragments into one hand at once, so no owner can hold out for last. P
 
 ## Implementation
 
-([The Pool](place_the_pool.md); the [consolidating](process_consolidating.md) process; [the anticommons](piece_the_anticommons.md) is answered by making the many owners one, at the cost of a lawful veto overridden.)
+([The Pool](place_the_pool.md); the [consolidating](process_consolidating.md) process; [the idle pool](piece_the_idle_pool.md) is answered by making the many owners one, at the cost of a lawful veto overridden.)
 
 ## Targets
 

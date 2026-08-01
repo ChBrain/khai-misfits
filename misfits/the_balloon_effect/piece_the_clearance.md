@@ -37,4 +37,4 @@ Seen at the surface, the Clearance looks like the war being won, a result you ca
 ## Yearbook
 
 Counted by [the overseer](persona_the_overseer.md) through [counting](process_counting.md), the local win the reward finds.
-It is the lure of the trap: the Clearance credits [the squeeze](piece_the_squeeze.md) and never [the bulge](piece_the_bulge.md), the countable win that draws effort onto the patch and away from [the pressure](piece_the_pressure.md), the visible tally that hides [the conservation](piece_the_conservation.md) across the [balloon effect](piece_the_balloon_effect.md).
+It is the lure of the trap: the Clearance credits [the squeeze](piece_the_squeeze.md) and never [the bulge](piece_the_bulge.md), the countable win that draws effort onto the patch and away from [the pressure](piece_the_pressure.md), the visible tally that hides [the conservation](piece_the_conservation.md) across the [the displacement](piece_the_displacement.md).

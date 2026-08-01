@@ -37,4 +37,4 @@ Seen at the surface, the Pattern looks like character, a temperament that reads 
 ## Yearbook
 
 Laid into [the bound](persona_the_bound.md) through [sealing](process_sealing.md), the bind become a way of hearing.
-It is the persistence of the trap: the Pattern is [the no-win](piece_the_no_win.md) repeated until it is a habit of perception, needing [the double message](piece_the_double_message.md) no longer to run, the internalised twin of the field, the reason the [double bind](piece_the_double_bind.md) outlives its own occasion.
+It is the persistence of the trap: the Pattern is [the no-win](piece_the_no_win.md) repeated until it is a habit of perception, needing [the double message](piece_the_double_message.md) no longer to run, the internalised twin of the field, the reason the [the bind](piece_the_bind.md) outlives its own occasion.

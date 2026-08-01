@@ -80,5 +80,5 @@ Source to constraint, per element.
   model-generated data flowing back into the pool unmarked.
 - **[The Real Well](piece_the_real_well.md)**: carries the remedy and its scarcity (provenance and data-ecology
   work), the finite store of genuine human data that alone holds the tails open.
-- **[Model Collapse](piece_model_collapse.md)**: carries the phenomenon whole (Shumailov et al.), a field
+- **[The Echo](piece_the_echo.md)**: carries the phenomenon whole (Shumailov et al.), a field
   training on its own output until it forgets the world and echoes only itself.

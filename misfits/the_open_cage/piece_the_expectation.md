@@ -37,4 +37,4 @@ Seen at the surface, the Expectation looks like hard-won wisdom, a sober refusal
 ## Yearbook
 
 Formed from [the uncoupling](piece_the_uncoupling.md) through [resigning](process_resigning.md), the belief that nothing the actor does matters.
-It is the engine of the trap: the Expectation carries the lesson past its cause, so [the dead lever](piece_the_dead_lever.md) goes untested, and only [the immunity](piece_the_immunity.md) restored can shift it, the persisting no-control belief at the heart of the [open cage](piece_the_open_cage.md).
+It is the engine of the trap: the Expectation carries the lesson past its cause, so [the dead lever](piece_the_dead_lever.md) goes untested, and only [the immunity](piece_the_immunity.md) restored can shift it, the persisting no-control belief at the heart of the [the old lesson](piece_the_old_lesson.md).

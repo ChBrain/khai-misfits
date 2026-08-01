@@ -26,7 +26,7 @@ Present as the answer to everything, because for the problems you fit you truly 
 
 ## Orders
 
-([The Tool](persona_the_tool.md) presents itself as fit for every problem and shapes the wielder's sight, right exactly as often as the problem was really its nail.)
+([The Instrument](persona_the_instrument.md) presents itself as fit for every problem and shapes the wielder's sight, right exactly as often as the problem was really its nail.)
 
 ## Implementation
 

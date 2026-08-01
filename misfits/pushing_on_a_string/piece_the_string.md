@@ -35,4 +35,4 @@ A timid banker who simply will not act.
 
 ## Yearbook
 
-Met by [the Banker](persona_the_banker.md), staged at [the Impasse](place_the_impasse.md), dramatized in [Pushing on a String](plot_pushing_on_a_string.md). It is the harm the whole structure bends toward, and it is answered by [the Other Hand](piece_the_other_hand.md).
+Met by [the Banker](persona_the_banker.md), staged at [the Impasse](place_the_impasse.md), dramatized in [Nothing Moving](plot_nothing_moving.md). It is the harm the whole structure bends toward, and it is answered by [the Other Hand](piece_the_other_hand.md).

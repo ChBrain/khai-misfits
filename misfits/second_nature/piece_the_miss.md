@@ -37,4 +37,4 @@ Seen at the surface, the Miss looks like the failure of the one who did not foll
 ## Yearbook
 
 Suffered by [the learner](persona_the_learner.md) through [losing](process_losing.md), the transfer failed and misblamed.
-It is the cost of the trap: the Miss is [the shorthand](piece_the_shorthand.md) fallen into [the gap](piece_the_gap.md), ratified past [the blind spot](piece_the_blind_spot.md), the knowledge stalled that only [testing](process_testing.md) recovers, the price [second nature](piece_second_nature.md) exacts on the one it was meant to teach.
+It is the cost of the trap: the Miss is [the shorthand](piece_the_shorthand.md) fallen into [the gap](piece_the_gap.md), ratified past [the blind spot](piece_the_blind_spot.md), the knowledge stalled that only [testing](process_testing.md) recovers, the price [the buried step](piece_the_buried_step.md) exacts on the one it was meant to teach.

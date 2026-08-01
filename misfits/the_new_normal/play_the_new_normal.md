@@ -96,19 +96,19 @@ Each decision is data-driven and locally sound, and the baseline drifts the whol
 
 ## Triggers
 
-**[The Signal](plot_the_signal.md)**
+**[Past the Line the Design Drew](plot_past_the_line_the_design_drew.md)**
 An anomaly appears that the design said should not: erosion past the line, a reading out of spec. The Engineer flags it and asks to stop. Closes when the concern is on the table, against a schedule that wants to proceed.
 
-**[The Reclassification](plot_the_reclassification.md)**
+**[Rated Within Experience](plot_rated_within_experience.md)**
 Cue: the system flew anyway and nothing broke. The Analyst rates the anomaly within experience and the Manager proceeds. Closes when the signal is booked acceptable and the success is banked as proof.
 
 **[The Drift](plot_the_drift.md)**
 Cue: the next signal is larger, and it is measured against the last success, not the spec. The Operator runs it again and the Veteran vouches that it always holds. Closes when the boundary of acceptable has crept so far that the original limit is a forgotten number.
 
-**[The Failure](plot_the_failure.md)**
+**[Reading the Record Backward](plot_reading_the_record_backward.md)**
 Cue: the normalized deviation finally does what it always could. The Investigator reconstructs the drift and finds no single wrong call, only a line that moved. Closes when the failure is traced to the normalization ... or blamed on one bad part, and the baseline holds where it drifted to.
 
-**[The Reset](plot_the_reset.md)**
+**[Survival Refused as Proof](plot_survival_refused_as_proof.md)**
 Cue: someone treats the signal as a signal again and measures it against the spec, not the last success. The Outsider resets the baseline and halts the schedule to do it. Closes when the line is restored to the design limit ... or the reset is judged too costly and the drift resumes.
 
 ## Stakes

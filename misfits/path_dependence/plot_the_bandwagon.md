@@ -30,7 +30,7 @@ The leader has the parts, the trained hands, the ecosystem, and each newcomer se
 
 ## Stage
 
-[The Adopter](persona_the_adopter.md) tables [Bet on the Base](plan_bet_on_the_base.md), so [the network](piece_the_network.md) makes the popular option the practical one and enlarges [the early lead](piece_the_early_lead.md).
+[The Adopter](persona_the_adopter.md) tables [Follow the Crowd](plan_follow_the_crowd.md), so [the network](piece_the_network.md) makes the popular option the practical one and enlarges [the early lead](piece_the_early_lead.md).
 [The Incumbent](persona_the_incumbent.md) tables [Ride the Lead](plan_ride_the_lead.md), and [the learning curve](piece_the_learning_curve.md) lowers its cost as it grows, widening the gap beyond any rival's reach.
 
 ## Tension

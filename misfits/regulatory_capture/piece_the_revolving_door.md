@@ -21,7 +21,7 @@ stamp:
 
 ## Place
 
-At [the revolving door](place_the_revolving_door.md), turning both ways.
+At [the threshold](place_the_threshold.md), turning both ways.
 Where the agency's experts arrive from the industry and depart back into it.
 
 ## Load Bearing

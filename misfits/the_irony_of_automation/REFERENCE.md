@@ -80,5 +80,5 @@ Source to constraint, per element.
   the least ready operator at the worst moment.
 - **[The Drill](piece_the_drill.md)**: carries the remedy (Bainbridge), the deliberate practice and in-the-loop
   design that keep the hand in, at the cost of the automation's savings.
-- **[The Irony of Automation](piece_the_irony_of_automation.md)**: carries the phenomenon whole (Bainbridge), a
+- **[The Unreadiness](piece_the_unreadiness.md)**: carries the phenomenon whole (Bainbridge), a
   system improved into unreadiness, and its remedy in a competence paid for out of the efficiency it undercuts.

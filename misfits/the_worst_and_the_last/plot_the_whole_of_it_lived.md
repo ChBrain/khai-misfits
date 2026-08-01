@@ -25,7 +25,7 @@ The episode begins, and there is nothing yet to remember it, only the minute at 
 
 ## Action
 
-At [the Ordeal](place_the_ordeal.md), [the Living](persona_the_living.md) from [the living seat](position_living.md) on [Live It as It Comes](plan_live_it_as_it_comes.md) through [Living](process_living.md) takes up [the Lived Sum](piece_the_lived_sum.md), feeling the episode second by second and letting the total accrue, minute added to minute, before any memory of it is kept.
+At [the Ordeal](place_the_ordeal.md), [the Living](persona_the_living.md) from [experiencer](position_experiencer.md) on [Live It as It Comes](plan_live_it_as_it_comes.md) through [Living](process_living.md) takes up [the Lived Sum](piece_the_lived_sum.md), feeling the episode second by second and letting the total accrue, minute added to minute, before any memory of it is kept.
 
 ## Stage
 

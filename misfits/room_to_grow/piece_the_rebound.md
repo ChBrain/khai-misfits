@@ -33,4 +33,4 @@ It reads as a coincidence, an unrelated good year, better rain or a mild winter 
 
 ## Yearbook
 
-Carried by [Filling](process_filling.md), staged at [the Thinned](place_the_thinned.md), voiced by [the Survivor](persona_the_survivor.md), dramatized in [The Rebound](plot_the_rebound.md). It is the count that came back higher than it went in, and it is bounded by [The Condition](piece_the_condition.md).
+Carried by [Filling](process_filling.md), staged at [the Thinned](place_the_thinned.md), voiced by [the Survivor](persona_the_survivor.md), dramatized in [Counted Again After the Cull](plot_counted_again_after_the_cull.md). It is the count that came back higher than it went in, and it is bounded by [The Condition](piece_the_condition.md).

@@ -26,12 +26,12 @@ Before anyone asks what it is, the mastered tool is already being lifted, and th
 
 ## Action
 
-[Reaching](process_reaching.md): [The Wielder](persona_the_wielder.md), holding [the wielder's seat](position_wielder.md), reaches for the tool the instant the problem appears, while [The Tool](persona_the_tool.md), holding [the instrument's seat](position_instrument.md), offers its one clean motion for the case.
+[Reaching](process_reaching.md): [The Wielder](persona_the_wielder.md), holding [the wielder's seat](position_wielder.md), reaches for the tool the instant the problem appears, while [The Instrument](persona_the_instrument.md), holding [the instrument's seat](position_instrument.md), offers its one clean motion for the case.
 
 ## Stage
 
 [The Wielder](persona_the_wielder.md) tables [Reach for the Tool](plan_reach_for_the_tool.md) and fires [the reflex](piece_the_reflex.md), settling the how before the what.
-[The Tool](persona_the_tool.md) tables [Be the Answer](plan_be_the_answer.md), and its fitness draws the reach, right exactly as often as the case really is its nail.
+[The Instrument](persona_the_instrument.md) tables [Be the Answer](plan_be_the_answer.md), and its fitness draws the reach, right exactly as often as the case really is its nail.
 
 ## Tension
 
