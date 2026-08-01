@@ -40,9 +40,9 @@ Search the dark where the thing actually is, or build a lamp there, instrument t
 **Personas**
 
 - [The Searcher](persona_the_searcher.md)
-- [The Light](persona_the_light.md)
-- [The Dark](persona_the_dark.md)
-- [The False Find](persona_the_false_find.md)
+- [The Lit Patch](persona_the_lit_patch.md)
+- [The Unlit Ground](persona_the_unlit_ground.md)
+- [The Report](persona_the_report.md)
 - [The Illuminator](persona_the_illuminator.md)
 - [The Pragmatist](persona_the_pragmatist.md)
 

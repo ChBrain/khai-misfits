@@ -25,7 +25,7 @@ The choice made, and the decoy still standing unchosen, off to the side.
 
 ## Action
 
-At [the Choice](place_the_choice.md), [the Chooser](persona_the_chooser.md) from [the chooser's seat](position_chooser.md) through [Choosing](process_choosing.md) meets [the Governed Choice](piece_the_governed_choice.md), the outcome decided by [the Decoy](persona_the_decoy.md), which drew almost no share of the choice and governs the result anyway.
+At [the Choice](place_the_choice.md), [the Chooser](persona_the_chooser.md) from [the chooser's seat](position_chooser.md) through [Choosing](process_choosing.md) meets [the Governed Choice](piece_the_governed_choice.md), the outcome decided by [The Dominated One](persona_the_dominated_one.md), which drew almost no share of the choice and governs the result anyway.
 
 ## Stage
 

@@ -30,7 +30,7 @@ Day after day of pressing tasks answered, the someday receding week on week, the
 
 ## Stage
 
-[The Doer](persona_the_doer.md), on [Answer the Urgent](plan_answer_the_urgent.md), serves the endless urgent stream day upon day, each hour spent on what fell due, each day full and productive.
+[The Doer](persona_the_doer.md), on [Take What Falls Due](plan_take_what_falls_due.md), serves the endless urgent stream day upon day, each hour spent on what fell due, each day full and productive.
 [The Important](persona_the_important.md), on [Wait Its Turn](plan_wait_its_turn.md), is postponed each of those days by a reasonable choice, and the one-more-days pile silently into years.
 
 ## Tension

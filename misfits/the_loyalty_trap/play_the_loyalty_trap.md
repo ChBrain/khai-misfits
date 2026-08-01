@@ -53,7 +53,7 @@ Voice it, make loyalty mean the loyal opposition rather than the loyal silence, 
 
 **Plans**
 
-- [Stand By It](plan_stand_by_it.md)
+- [Keep the Faith](plan_keep_the_faith.md)
 - [Slip Away](plan_slip_away.md)
 - [Speak Up](plan_speak_up.md)
 - [Take the Quiet](plan_take_the_quiet.md)

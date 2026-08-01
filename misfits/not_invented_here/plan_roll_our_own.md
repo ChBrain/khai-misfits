@@ -26,7 +26,7 @@ Build the group's own version of what was turned away. Meet the need the import 
 
 ## Orders
 
-([The Home-Grown](persona_the_home_grown.md) rises in the import's place, costlier or weaker and owned, its being ours hiding the gap.)
+([The Home Build](persona_the_home_build.md) rises in the import's place, costlier or weaker and owned, its being ours hiding the gap.)
 
 ## Implementation
 

@@ -41,7 +41,7 @@ Cut the thicket, remove veto points, concentrate the authority to act, and the s
 - [The Vetoer](persona_the_vetoer.md)
 - [The Holdout](persona_the_holdout.md)
 - [The Mover](persona_the_mover.md)
-- [The Foregone](persona_the_foregone.md)
+- [The Never Made](persona_the_never_made.md)
 - [The Consolidator](persona_the_consolidator.md)
 - [The Sentinel](persona_the_sentinel.md)
 

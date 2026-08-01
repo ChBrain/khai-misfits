@@ -41,7 +41,7 @@ Open the boundary, read the outside in, reward adoption and not only invention, 
 
 - [The Import](persona_the_import.md)
 - [The Insider](persona_the_insider.md)
-- [The Home-Grown](persona_the_home_grown.md)
+- [The Home Build](persona_the_home_build.md)
 - [The Guardian](persona_the_guardian.md)
 - [The Gatekeeper](persona_the_gatekeeper.md)
 - [The Beneficiary](persona_the_beneficiary.md)

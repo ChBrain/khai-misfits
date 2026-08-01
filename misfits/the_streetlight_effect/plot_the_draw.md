@@ -26,12 +26,12 @@ The dark cannot be combed, and here the ground can be seen, the data is at hand,
 
 ## Action
 
-[Searching](process_searching.md): [The Searcher](persona_the_searcher.md), holding [the searcher's seat](position_searcher.md), moves to the light because a search can be run there at all, while [The Light](persona_the_light.md), holding [the light's seat](position_light.md), offers its easy ground, honest that seeing is simple here.
+[Searching](process_searching.md): [The Searcher](persona_the_searcher.md), holding [the searcher's seat](position_searcher.md), moves to the light because a search can be run there at all, while [The Lit Patch](persona_the_lit_patch.md), holding [the light's seat](position_light.md), offers its easy ground, honest that seeing is simple here.
 
 ## Stage
 
 [The Searcher](persona_the_searcher.md) tables [Search Where It's Lit](plan_search_where_its_lit.md) and follows [the easy search](piece_the_easy_search.md) to the lamp.
-[The Light](persona_the_light.md) tables [Offer the Easy Ground](plan_offer_the_easy_ground.md), presenting [the light](piece_the_light.md) as the ground that can be worked, claiming only that looking is cheap.
+[The Lit Patch](persona_the_lit_patch.md) tables [Offer the Easy Ground](plan_offer_the_easy_ground.md), presenting [the light](piece_the_light.md) as the ground that can be worked, claiming only that looking is cheap.
 
 ## Tension
 

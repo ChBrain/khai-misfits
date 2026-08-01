@@ -26,7 +26,7 @@ Draw on the balance and issue the pass. Wave the lapse through, this once, in th
 
 ## Orders
 
-([The License](persona_the_license.md) grants the lapse against a real balance, so the pass feels earned, and never checks that the slip and the deed share a domain.)
+([The Warrant](persona_the_warrant.md) grants the lapse against a real balance, so the pass feels earned, and never checks that the slip and the deed share a domain.)
 
 ## Implementation
 

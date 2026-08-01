@@ -26,7 +26,7 @@ Fall with every turn of the crank. Drop as the model fits the signal, and drop j
 
 ## Orders
 
-([The Score](persona_the_score.md) drops the whole way down, praising the fit through the signal and on into the noise, and never once says stop.)
+([The Agreeable Number](persona_the_agreeable_number.md) drops the whole way down, praising the fit through the signal and on into the noise, and never once says stop.)
 
 ## Implementation
 

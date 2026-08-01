@@ -26,12 +26,12 @@ The retaliation lands as unprovoked, since its cause too lives across the seam, 
 
 ## Action
 
-[Spiralling](process_spiralling.md) compounding: [The Defender](persona_the_defender.md), holding [the defender's seat](position_defender.md), receives the answer as an attack and strikes back, while [The Spiral](persona_the_spiral.md), holding [the spiral's seat](position_spiral.md), makes each round larger than the last.
+[Spiralling](process_spiralling.md) compounding: [The Defender](persona_the_defender.md), holding [the defender's seat](position_defender.md), receives the answer as an attack and strikes back, while [The Escalator](persona_the_escalator.md), holding [the spiral's seat](position_spiral.md), makes each round larger than the last.
 
 ## Stage
 
 [The Defender](persona_the_defender.md) tables [Protect My Own](plan_protect_my_own.md) again, now as a wounded party too, answering a blow it reads as unprovoked.
-[The Spiral](persona_the_spiral.md) tables [Escalate](plan_escalate.md) and compounds the exchanges into [the spiral](piece_the_spiral.md), the alliance tipping fully into rivalry.
+[The Escalator](persona_the_escalator.md) tables [Escalate](plan_escalate.md) and compounds the exchanges into [the spiral](piece_the_spiral.md), the alliance tipping fully into rivalry.
 
 ## Tension
 

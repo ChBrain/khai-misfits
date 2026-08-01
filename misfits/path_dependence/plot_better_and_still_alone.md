@@ -31,7 +31,7 @@ It wins every comparison on the merits, and finds the crowd gathered somewhere e
 ## Stage
 
 [The Challenger](persona_the_challenger.md) tables [Win on the Merits](plan_win_on_the_merits.md), and finds [the network](piece_the_network.md) makes it worthless without adopters it cannot start, so [the inferior standard](piece_the_inferior_standard.md) holds against the better one.
-[The Adopter](persona_the_adopter.md) tables [Bet on the Base](plan_bet_on_the_base.md), correctly, because a standard is worth its crowd and the challenger has none.
+[The Adopter](persona_the_adopter.md) tables [Follow the Crowd](plan_follow_the_crowd.md), correctly, because a standard is worth its crowd and the challenger has none.
 
 ## Tension
 

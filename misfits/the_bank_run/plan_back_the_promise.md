@@ -26,7 +26,7 @@ Stand a promise behind the deposits bigger than the panic. Guarantee to pay in f
 
 ## Orders
 
-([The Backstop](persona_the_backstop.md) guarantees the deposits, so the line dissolves without the till being touched.)
+([The Guarantor](persona_the_guarantor.md) guarantees the deposits, so the line dissolves without the till being touched.)
 
 ## Implementation
 

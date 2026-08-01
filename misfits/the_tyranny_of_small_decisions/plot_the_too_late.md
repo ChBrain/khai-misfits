@@ -26,12 +26,12 @@ Over the empty space, the large decision no one was ever offered finally comes u
 
 ## Action
 
-[Losing](process_losing.md) come to its reckoning: [The Bereft](persona_the_bereft.md), holding [the bereft's seat](position_bereft.md), realises it would have paid to keep the option, while [The Sum](persona_the_sum.md), holding [the aggregate's seat](position_aggregate.md), stands as a thing nobody chose and everybody made.
+[Losing](process_losing.md) come to its reckoning: [The Bereft](persona_the_bereft.md), holding [the bereft's seat](position_bereft.md), realises it would have paid to keep the option, while [The Aggregate](persona_the_aggregate.md), holding [the aggregate's seat](position_aggregate.md), stands as a thing nobody chose and everybody made.
 
 ## Stage
 
 [The Bereft](persona_the_bereft.md) tables [Miss It Too Late](plan_miss_it_too_late.md) and sees it was a chooser too, its own small picks part of [the sum](piece_the_sum.md).
-[The Sum](persona_the_sum.md) tables [Add Up](plan_add_up.md), the settled outcome now plain, and no one to charge it to.
+[The Aggregate](persona_the_aggregate.md) tables [Add Up](plan_add_up.md), the settled outcome now plain, and no one to charge it to.
 
 ## Tension
 

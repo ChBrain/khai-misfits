@@ -40,8 +40,8 @@ Hold the standard regardless of the credit, refuse to let a good deed buy a pass
 
 - [The Doer](persona_the_doer.md)
 - [The Ledger](persona_the_ledger.md)
-- [The License](persona_the_license.md)
-- [The Lapse](persona_the_lapse.md)
+- [The Warrant](persona_the_warrant.md)
+- [The Permitted Act](persona_the_permitted_act.md)
 - [The Consistent](persona_the_consistent.md)
 - [The Motivator](persona_the_motivator.md)
 

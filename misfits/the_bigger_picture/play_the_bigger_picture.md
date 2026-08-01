@@ -55,7 +55,7 @@ Draw the causal structure, decide which variable is a confounder to adjust away 
 
 **Plans**
 
-- [Trust the Total](plan_trust_the_total.md)
+- [Rule by the Pool](plan_rule_by_the_pool.md)
 - [Split It Out](plan_split_it_out.md)
 - [Act on the Number](plan_act_on_the_number.md)
 - [Draw the Cause](plan_draw_the_cause.md)

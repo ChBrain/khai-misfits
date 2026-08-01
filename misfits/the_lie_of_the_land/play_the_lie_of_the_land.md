@@ -43,7 +43,7 @@ Realign the cue and the quality, and the trap can be dampened: restore the groun
 **Personas**
 
 - [The Settler](persona_the_settler.md)
-- [The Cue](persona_the_cue.md)
+- [The Signal](persona_the_signal.md)
 - [The Sink](persona_the_sink.md)
 - [The Steward](persona_the_steward.md)
 

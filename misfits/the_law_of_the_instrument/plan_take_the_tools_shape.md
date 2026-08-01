@@ -26,7 +26,7 @@ Arrive as a whole problem and be received as the tool's kind of job. Offer the o
 
 ## Orders
 
-([The Nail](persona_the_nail.md) offers the strikeable face and sheds the rest, its clean fit the measure of how much of the real problem was left out.)
+([The Casework](persona_the_casework.md) offers the strikeable face and sheds the rest, its clean fit the measure of how much of the real problem was left out.)
 
 ## Implementation
 

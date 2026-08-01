@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[The Third Option](play_the_third_option.md). Borne at [Beside It](place_beside_it.md), precipitated by [The Decoy](persona_the_decoy.md), in [The Decoy Joins](plot_the_decoy_joins.md).
+[The Third Option](play_the_third_option.md). Borne at [Beside It](place_beside_it.md), precipitated by [The Dominated One](persona_the_dominated_one.md), in [The Decoy Joins](plot_the_decoy_joins.md).
 
 ## Owner
 

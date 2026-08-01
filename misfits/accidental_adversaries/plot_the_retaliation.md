@@ -26,12 +26,12 @@ The injury is vivid and its source is blank, so the only explanation left is tha
 
 ## Action
 
-[Spiralling](process_spiralling.md): [The Wounded](persona_the_wounded.md), holding [the retaliator's seat](position_retaliator.md), reads the harm as attack and answers it, while [The Spiral](persona_the_spiral.md), holding [the spiral's seat](position_spiral.md), turns the answer into a blow back across the seam.
+[Spiralling](process_spiralling.md): [The Wounded](persona_the_wounded.md), holding [the retaliator's seat](position_retaliator.md), reads the harm as attack and answers it, while [The Escalator](persona_the_escalator.md), holding [the spiral's seat](position_spiral.md), turns the answer into a blow back across the seam.
 
 ## Stage
 
 [The Wounded](persona_the_wounded.md) tables [Answer the Blow](plan_answer_the_blow.md) and makes [the misattribution](piece_the_misattribution.md), repaying an injury it is sure was meant.
-[The Spiral](persona_the_spiral.md) tables [Escalate](plan_escalate.md) and closes the loop, the answering move dealing its own unseen harm to the first party.
+[The Escalator](persona_the_escalator.md) tables [Escalate](plan_escalate.md) and closes the loop, the answering move dealing its own unseen harm to the first party.
 
 ## Tension
 

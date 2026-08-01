@@ -42,7 +42,7 @@ See the whole loop, recognise that the harm you receive is a response to harm yo
 - [The Partner](persona_the_partner.md)
 - [The Defender](persona_the_defender.md)
 - [The Wounded](persona_the_wounded.md)
-- [The Spiral](persona_the_spiral.md)
+- [The Escalator](persona_the_escalator.md)
 - [The Mender](persona_the_mender.md)
 - [The Predator](persona_the_predator.md)
 

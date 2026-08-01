@@ -40,8 +40,8 @@ Diagnose the problem before choosing the instrument, hold more than one tool, re
 **Personas**
 
 - [The Wielder](persona_the_wielder.md)
-- [The Tool](persona_the_tool.md)
-- [The Nail](persona_the_nail.md)
+- [The Instrument](persona_the_instrument.md)
+- [The Casework](persona_the_casework.md)
 - [The Residue](persona_the_residue.md)
 - [The Diagnostician](persona_the_diagnostician.md)
 - [The Generalist](persona_the_generalist.md)

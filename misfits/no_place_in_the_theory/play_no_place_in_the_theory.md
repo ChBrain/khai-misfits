@@ -47,7 +47,7 @@ And the true scope is held. A documented pattern in genuine anomaly, not a gener
 
 **Personas**
 
-- [The Theory](persona_the_theory.md)
+- [The Paradigm](persona_the_paradigm.md)
 - [The Discoverer](persona_the_discoverer.md)
 - [The Skeptic](persona_the_skeptic.md)
 - [The Historian](persona_the_historian.md)
@@ -91,7 +91,7 @@ And the true scope is held. A documented pattern in genuine anomaly, not a gener
 ## Triggers
 
 **[A Theory Earned](plot_a_theory_earned.md)**
-The setup. At [the Discipline](place_the_discipline.md), [the Theory](persona_the_theory.md) on [Stand Confirmed](plan_stand_confirmed.md) through [Confirming](process_confirming.md) holds [the Theory](piece_the_theory.md), the working paradigm built from a long accumulation of confirmed prediction, earning its authority honestly before any anomaly appears. Closes with the theory's authority real and earned, right far more often than wrong (Kuhn).
+The setup. At [the Discipline](place_the_discipline.md), [The Paradigm](persona_the_paradigm.md) on [Stand Confirmed](plan_stand_confirmed.md) through [Confirming](process_confirming.md) holds [the Theory](piece_the_theory.md), the working paradigm built from a long accumulation of confirmed prediction, earning its authority honestly before any anomaly appears. Closes with the theory's authority real and earned, right far more often than wrong (Kuhn).
 
 **[A Repeatable Result](plot_a_repeatable_result.md)**
 Cue: something the theory does not predict, observed and tested. At [the Ward](place_the_ward.md), [the Discoverer](persona_the_discoverer.md) on [Report What You Found](plan_report_what_you_found.md) through [Discovering](process_discovering.md) holds [the Anomaly](piece_the_anomaly.md), a real and repeatable finding with no mechanism the theory recognizes as legitimate. Closes with the anomaly genuine and reported honestly, offering no accepted explanation for itself (the historical record of Semmelweis's discovery).

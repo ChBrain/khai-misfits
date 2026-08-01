@@ -26,7 +26,7 @@ Reduce the goal to a measure that can be managed. What cannot be counted cannot 
 
 ## Orders
 
-([The Proxy](persona_the_proxy.md) picks the number that stands where the goal used to stand.)
+([The Metric Author](persona_the_metric_author.md) picks the number that stands where the goal used to stand.)
 
 ## Implementation
 

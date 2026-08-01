@@ -26,11 +26,11 @@ The payments made, the assets sold, and the figure owed exactly as large as befo
 
 ## Action
 
-[Deflating](process_deflating.md): [The Debt](persona_the_debt.md), holding [the debt's seat](position_debt.md), holds its sum as prices fall, while [The Debtor](persona_the_debtor.md), holding [the debtor's seat](position_debtor.md), finds the loan against its half-price field undiminished.
+[Deflating](process_deflating.md): [The Fixed Sum](persona_the_fixed_sum.md), holding [the debt's seat](position_debt.md), holds its sum as prices fall, while [The Debtor](persona_the_debtor.md), holding [the debtor's seat](position_debtor.md), finds the loan against its half-price field undiminished.
 
 ## Stage
 
-[The Debt](persona_the_debt.md), having tabled [Hold the Sum](plan_hold_the_sum.md), stays owed in dollars though the dollars buy more, rising in real weight without a figure moving.
+[The Fixed Sum](persona_the_fixed_sum.md), having tabled [Hold the Sum](plan_hold_the_sum.md), stays owed in dollars though the dollars buy more, rising in real weight without a figure moving.
 [The Debtor](persona_the_debtor.md), still on [Pay It Down](plan_pay_it_down.md), has sold and paid and yet owes as much in truth as ever, the burden grown as the effort to clear it grew.
 
 ## Tension

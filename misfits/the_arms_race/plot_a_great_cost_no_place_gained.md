@@ -26,11 +26,11 @@ The one figure set beside the other: a great cost, and a gain of zero.
 
 ## Action
 
-[Cancelling](process_cancelling.md): [The Rank](persona_the_rank.md), holding [the rank's seat](position_rank.md), shows the order unmoved, while [The Contender](persona_the_contender.md), holding [the contender's seat](position_contender.md), sees at last that all its spending bought no place.
+[Cancelling](process_cancelling.md): [The Standing](persona_the_standing.md), holding [the rank's seat](position_rank.md), shows the order unmoved, while [The Contender](persona_the_contender.md), holding [the contender's seat](position_contender.md), sees at last that all its spending bought no place.
 
 ## Stage
 
-[The Rank](persona_the_rank.md), having tabled [Ration the Rank](plan_ration_the_rank.md), lays the standings before and after side by side and they are the same.
+[The Standing](persona_the_standing.md), having tabled [Ration the Rank](plan_ration_the_rank.md), lays the standings before and after side by side and they are the same.
 [The Contender](persona_the_contender.md), still on [Get Ahead](plan_get_ahead.md), and [The Rival](persona_the_rival.md), on [Keep Pace](plan_keep_pace.md), read the cost totalled in full against a rank that never grew, the effort netted to nothing and the price netted to everything.
 
 ## Tension

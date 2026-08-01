@@ -26,11 +26,11 @@ The good deed and the lapse it funded are set, at last, in the same column, and 
 
 ## Action
 
-[Cashing](process_cashing.md) come to its close: [The Lapse](persona_the_lapse.md), holding [the lapse's seat](position_lapse.md), stands as the withdrawal, while [The Doer](persona_the_doer.md), holding [the doer's seat](position_doer.md), sees its real virtue was the deposit the withdrawal drew on.
+[Cashing](process_cashing.md) come to its close: [The Permitted Act](persona_the_permitted_act.md), holding [the lapse's seat](position_lapse.md), stands as the withdrawal, while [The Doer](persona_the_doer.md), holding [the doer's seat](position_doer.md), sees its real virtue was the deposit the withdrawal drew on.
 
 ## Stage
 
-[The Lapse](persona_the_lapse.md) tables [Cash the Credit](plan_cash_the_credit.md) once more, and the balance sits back at the level it started.
+[The Permitted Act](persona_the_permitted_act.md) tables [Cash the Credit](plan_cash_the_credit.md) once more, and the balance sits back at the level it started.
 [The Doer](persona_the_doer.md) faces [the wash](piece_the_wash.md): [the good deed](piece_the_good_deed.md) and the lapse net to nothing, the virtue spent in full on the leave to do less.
 
 ## Tension

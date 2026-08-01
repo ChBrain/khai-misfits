@@ -41,7 +41,7 @@ Bind every contender to the same limit at once, an arms-control treaty, a cap, a
 
 - [The Contender](persona_the_contender.md)
 - [The Rival](persona_the_rival.md)
-- [The Rank](persona_the_rank.md)
+- [The Standing](persona_the_standing.md)
 - [The Holdout](persona_the_holdout.md)
 - [The Broker](persona_the_broker.md)
 

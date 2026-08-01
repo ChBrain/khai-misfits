@@ -26,7 +26,7 @@ Turn every wound into a blow and every blow into a wound. Take each defensive mo
 
 ## Orders
 
-([The Spiral](persona_the_spiral.md) compounds the exchanges, running on reasonable moves alone, so the loop that drags both down needs no villain, only two parties each defending itself.)
+([The Escalator](persona_the_escalator.md) compounds the exchanges, running on reasonable moves alone, so the loop that drags both down needs no villain, only two parties each defending itself.)
 
 ## Implementation
 

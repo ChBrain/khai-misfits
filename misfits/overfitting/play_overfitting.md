@@ -41,8 +41,8 @@ Hold data back and test on what you did not fit, penalise complexity, prefer the
 
 - [The Fitter](persona_the_fitter.md)
 - [The Sample](persona_the_sample.md)
-- [The Noise](persona_the_noise.md)
-- [The Score](persona_the_score.md)
+- [The Particulars](persona_the_particulars.md)
+- [The Agreeable Number](persona_the_agreeable_number.md)
 - [The Unseen](persona_the_unseen.md)
 - [The Regularizer](persona_the_regularizer.md)
 

@@ -38,7 +38,7 @@ Put a doubter in the room on purpose and the plan is tested before the world tes
 
 **Personas**
 
-- [The Steer](persona_the_steer.md)
+- [The Convener](persona_the_convener.md)
 - [The Loyalist](persona_the_loyalist.md)
 - [The Swallower](persona_the_swallower.md)
 - [The Cheerleader](persona_the_cheerleader.md)

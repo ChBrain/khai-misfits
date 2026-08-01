@@ -56,7 +56,7 @@ Coordinate the jump, a sponsor big enough to move the whole crowd, a bridge betw
 
 **Plans**
 
-- [Bet on the Base](plan_bet_on_the_base.md)
+- [Follow the Crowd](plan_follow_the_crowd.md)
 - [Ride the Lead](plan_ride_the_lead.md)
 - [Win on the Merits](plan_win_on_the_merits.md)
 - [Wait for the Others](plan_wait_for_the_others.md)

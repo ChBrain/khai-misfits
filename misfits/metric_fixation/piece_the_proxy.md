@@ -36,5 +36,5 @@ It looks like the organisation getting serious: naming the goal, quantifying it,
 
 ## Yearbook
 
-Authored by [the proxy](persona_the_proxy.md), because you cannot manage what you cannot measure.
+Authored by [the metric author](persona_the_metric_author.md), because you cannot manage what you cannot measure.
 It is the most sensible move in the play and the first domino: the goal was real and unmeasurable, the proxy is measurable and almost the goal, and almost is where [the divergence](piece_the_divergence.md) will open.

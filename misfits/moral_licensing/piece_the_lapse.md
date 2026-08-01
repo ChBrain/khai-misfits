@@ -36,5 +36,5 @@ An act waved through as deserved looks like a harmless indulgence, so the lapse 
 
 ## Yearbook
 
-Taken by [the lapse](persona_the_lapse.md) through [cashing](process_cashing.md), tabled as [Cash the Credit](plan_cash_the_credit.md).
+Taken by [the permitted act](persona_the_permitted_act.md) through [cashing](process_cashing.md), tabled as [Cash the Credit](plan_cash_the_credit.md).
 It is the act that undoes the good: the Lapse is granted by [the license](piece_the_license.md), draws the balance down, and nets against [the good deed](piece_the_good_deed.md) as [the wash](piece_the_wash.md).

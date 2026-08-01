@@ -26,11 +26,11 @@ The decision the mover carried stalls one gate short and quietly stops being pur
 
 ## Action
 
-[Foregoing](process_foregoing.md): [The Foregone](persona_the_foregone.md), holding [the foregone's seat](position_foregone.md), never comes to be, while [The Mover](persona_the_mover.md), holding [the mover's seat](position_mover.md), lets the exhausted proposal go and the road stays unbuilt.
+[Foregoing](process_foregoing.md): [The Never Made](persona_the_never_made.md), holding [the foregone's seat](position_foregone.md), never comes to be, while [The Mover](persona_the_mover.md), holding [the mover's seat](position_mover.md), lets the exhausted proposal go and the road stays unbuilt.
 
 ## Stage
 
-[The Foregone](persona_the_foregone.md) tables [Wait Unmade](plan_wait_unmade.md) and becomes [the foregone](piece_the_foregone.md), a total loss borne as a thing that never happened.
+[The Never Made](persona_the_never_made.md) tables [Wait Unmade](plan_wait_unmade.md) and becomes [the foregone](piece_the_foregone.md), a total loss borne as a thing that never happened.
 [The Mover](persona_the_mover.md) tables [Get It Through](plan_get_it_through.md) one last time, and cannot, so the reform is quietly abandoned.
 
 ## Tension

@@ -54,7 +54,7 @@ Weigh the magnitude against the salience, insulate the assessment from the vivid
 
 **Plans**
 
-- [Take It Up](plan_take_it_up.md)
+- [Carry It Further](plan_carry_it_further.md)
 - [Sound It Louder](plan_sound_it_louder.md)
 - [Answer the Alarm](plan_answer_the_alarm.md)
 - [Weigh the Risk](plan_weigh_the_risk.md)

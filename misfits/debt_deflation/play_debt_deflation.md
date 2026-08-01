@@ -40,7 +40,7 @@ Raise the price level back, or cut the nominal debt directly, reflate or forgive
 **Personas**
 
 - [The Debtor](persona_the_debtor.md)
-- [The Debt](persona_the_debt.md)
+- [The Fixed Sum](persona_the_fixed_sum.md)
 - [The Deflation](persona_the_deflation.md)
 - [The Creditor](persona_the_creditor.md)
 - [The Reflator](persona_the_reflator.md)

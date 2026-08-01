@@ -54,7 +54,7 @@ Drain the pressure that feeds the trade rather than squeezing where it shows, or
 
 **Plans**
 
-- [Clear the Patch](plan_clear_the_patch.md)
+- [Sweep This Ground](plan_sweep_this_ground.md)
 - [Move to the Soft Spot](plan_move_to_the_soft_spot.md)
 - [Count the Clearance](plan_count_the_clearance.md)
 - [Drain the Pressure](plan_drain_the_pressure.md)

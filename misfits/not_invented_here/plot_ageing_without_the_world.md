@@ -26,11 +26,11 @@ Year by year the group lets less of the world in, and its work ages against riva
 
 ## Action
 
-[Staling](process_staling.md): [The Home-Grown](persona_the_home_grown.md), holding [the reinvention's seat](position_reinvention.md), ages without fresh outside knowledge, while [The Beneficiary](persona_the_beneficiary.md), holding [the beneficiary's seat](position_beneficiary.md), receives a product slipping steadily behind.
+[Staling](process_staling.md): [The Home Build](persona_the_home_build.md), holding [the reinvention's seat](position_reinvention.md), ages without fresh outside knowledge, while [The Beneficiary](persona_the_beneficiary.md), holding [the beneficiary's seat](position_beneficiary.md), receives a product slipping steadily behind.
 
 ## Stage
 
-[The Home-Grown](persona_the_home_grown.md) dulls as [the staling](piece_the_staling.md) sets in, cut off from the learning that would keep it sharp.
+[The Home Build](persona_the_home_build.md) dulls as [the staling](piece_the_staling.md) sets in, cut off from the learning that would keep it sharp.
 [The Beneficiary](persona_the_beneficiary.md) tables [Ask for What Works](plan_ask_for_what_works.md) and gets the aging version, feeling the falling-behind with no line to its cause.
 
 ## Tension

@@ -36,5 +36,5 @@ A large outcome that emerged from everyone's free choices looks like a collectiv
 
 ## Yearbook
 
-Assembled by [the sum](persona_the_sum.md) through [summing](process_summing.md), tabled as [Add Up](plan_add_up.md).
+Assembled by [the aggregate](persona_the_aggregate.md) through [summing](process_summing.md), tabled as [Add Up](plan_add_up.md).
 It is the whole settled by residue: the Sum turns [the small choice](piece_the_small_choice.md) into a large outcome because [the missing forum](piece_the_missing_forum.md) posed no other way, and it is what [Put the Whole to a Vote](plan_put_the_whole_to_a_vote.md) would replace with a decision.

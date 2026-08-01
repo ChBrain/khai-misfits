@@ -25,7 +25,7 @@ The decoy stands beside the option it fails to beat, and the comparison settles 
 
 ## Action
 
-At [Beside It](place_beside_it.md), [the Contender](persona_the_contender.md) from [the contender's seat](position_contender.md) on [Stand Beside It](plan_stand_beside_it.md) through [Comparing](process_comparing.md) takes up [the Local Win](piece_the_local_win.md), beating [the Decoy](persona_the_decoy.md) cleanly and decisively on every count, its own merits unchanged.
+At [Beside It](place_beside_it.md), [the Contender](persona_the_contender.md) from [the contender's seat](position_contender.md) on [Stand Beside It](plan_stand_beside_it.md) through [Comparing](process_comparing.md) takes up [the Local Win](piece_the_local_win.md), beating [The Dominated One](persona_the_dominated_one.md) cleanly and decisively on every count, its own merits unchanged.
 
 ## Stage
 

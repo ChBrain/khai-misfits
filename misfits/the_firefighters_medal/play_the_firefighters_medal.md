@@ -54,7 +54,7 @@ Fence the prevention time so a share of capacity is held for it even while fires
 **Plans**
 
 - [Fight the Fire](plan_fight_the_fire.md)
-- [Save the Day](plan_save_the_day.md)
+- [Fight the Blaze](plan_fight_the_blaze.md)
 - [Head It Off](plan_head_it_off.md)
 - [Fence the Time](plan_fence_the_time.md)
 

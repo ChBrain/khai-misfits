@@ -26,11 +26,11 @@ A thousand fine picks, each about itself, adding toward a large outcome, and no 
 
 ## Action
 
-[Summing](process_summing.md): [The Sum](persona_the_sum.md), holding [the aggregate's seat](position_aggregate.md), assembles the choices into a result no one chose, while [The Chooser](persona_the_chooser.md), holding [the chooser's seat](position_chooser.md), keeps choosing well and is never once asked the whole.
+[Summing](process_summing.md): [The Aggregate](persona_the_aggregate.md), holding [the aggregate's seat](position_aggregate.md), assembles the choices into a result no one chose, while [The Chooser](persona_the_chooser.md), holding [the chooser's seat](position_chooser.md), keeps choosing well and is never once asked the whole.
 
 ## Stage
 
-[The Sum](persona_the_sum.md) tables [Add Up](plan_add_up.md) and settles the large question as [the sum](piece_the_sum.md), authored by no hand in it.
+[The Aggregate](persona_the_aggregate.md) tables [Add Up](plan_add_up.md) and settles the large question as [the sum](piece_the_sum.md), authored by no hand in it.
 [The Chooser](persona_the_chooser.md) tables [Take the Convenient One](plan_take_the_convenient_one.md) again, and [the missing forum](piece_the_missing_forum.md) means no one ever puts the aggregate to it.
 
 ## Tension

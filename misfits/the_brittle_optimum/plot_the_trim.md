@@ -26,12 +26,12 @@ The optimiser eyeing the spare, the buffer, the extra time, and reckoning what c
 
 ## Action
 
-[Trimming](process_trimming.md): [The Optimizer](persona_the_optimizer.md), holding [the optimizer's seat](position_optimizer.md), cuts the idle slice and books the saving, while [The Slack](persona_the_slack.md), holding [the slack's seat](position_slack.md), is removed having done nothing that day.
+[Trimming](process_trimming.md): [The Optimizer](persona_the_optimizer.md), holding [the optimizer's seat](position_optimizer.md), cuts the idle slice and books the saving, while [The Spare](persona_the_spare.md), holding [the slack's seat](position_slack.md), is removed having done nothing that day.
 
 ## Stage
 
 [The Optimizer](persona_the_optimizer.md), having tabled [Trim the Fat](plan_trim_the_fat.md), pares the margin, notes the leaner run, and finds nothing broken to warn it off.
-[The Slack](persona_the_slack.md), on [Sit Idle](plan_sit_idle.md), had earned nothing to defend itself, so its removal is a clean gain, the give quietly thinned by one slice.
+[The Spare](persona_the_spare.md), on [Sit Idle](plan_sit_idle.md), had earned nothing to defend itself, so its removal is a clean gain, the give quietly thinned by one slice.
 
 ## Tension
 

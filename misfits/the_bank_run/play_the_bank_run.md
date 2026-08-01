@@ -43,7 +43,7 @@ Stand a credible promise behind the deposits, a guarantee that pays whatever com
 - [The Trusting](persona_the_trusting.md)
 - [The Banker](persona_the_banker.md)
 - [The Neighbour](persona_the_neighbour.md)
-- [The Backstop](persona_the_backstop.md)
+- [The Guarantor](persona_the_guarantor.md)
 
 **Positions**
 

@@ -36,5 +36,5 @@ A clean finding from a careful search looks like the matter closed, so the false
 
 ## Yearbook
 
-Made by [the false find](persona_the_false_find.md) through [mistaking](process_mistaking.md), tabled as [Report What Turns Up](plan_report_what_turns_up.md).
+Made by [the report](persona_the_report.md) through [mistaking](process_mistaking.md), tabled as [Report What Turns Up](plan_report_what_turns_up.md).
 It is the wrong ground's yield crowned as truth: the False Find takes what [the light](piece_the_light.md) held, wears the authority of [the thoroughness](piece_the_thoroughness.md), and leaves [the lost](piece_the_lost.md) in the dark, now reported as not there at all.

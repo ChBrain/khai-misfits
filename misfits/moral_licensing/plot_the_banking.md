@@ -26,12 +26,12 @@ The self holds itself to a level, so the good deed sits above the line as a surp
 
 ## Action
 
-[Banking](process_banking.md): [The Ledger](persona_the_ledger.md), holding [the ledger's seat](position_ledger.md), keeps the self at its set point, while [The License](persona_the_license.md), holding [the warrant's seat](position_warrant.md), reaches for the surplus to draw a pass against it.
+[Banking](process_banking.md): [The Ledger](persona_the_ledger.md), holding [the ledger's seat](position_ledger.md), keeps the self at its set point, while [The Warrant](persona_the_warrant.md), holding [the warrant's seat](position_warrant.md), reaches for the surplus to draw a pass against it.
 
 ## Stage
 
 [The Ledger](persona_the_ledger.md) tables [Bank the Credit](plan_bank_the_credit.md) and holds [the balance](piece_the_balance.md) at its level, reading the rise as slack.
-[The License](persona_the_license.md) tables [Issue the Pass](plan_issue_the_pass.md), turning the surplus into [the license](piece_the_license.md), a permission drawn on a credit that was truly earned.
+[The Warrant](persona_the_warrant.md) tables [Issue the Pass](plan_issue_the_pass.md), turning the surplus into [the license](piece_the_license.md), a permission drawn on a credit that was truly earned.
 
 ## Tension
 

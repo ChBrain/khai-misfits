@@ -25,7 +25,7 @@ The Discipline before any anomaly has arrived to test it, its record already lon
 
 ## Action
 
-At [the Discipline](place_the_discipline.md), [the Theory](persona_the_theory.md) from [the theory's seat](position_theory.md) on [Stand Confirmed](plan_stand_confirmed.md) through [Confirming](process_confirming.md) takes up [the Theory](piece_the_theory.md), standing on a record built trial by trial into the field's working account of how things work.
+At [the Discipline](place_the_discipline.md), [The Paradigm](persona_the_paradigm.md) from [the theory's seat](position_theory.md) on [Stand Confirmed](plan_stand_confirmed.md) through [Confirming](process_confirming.md) takes up [the Theory](piece_the_theory.md), standing on a record built trial by trial into the field's working account of how things work.
 
 ## Stage
 

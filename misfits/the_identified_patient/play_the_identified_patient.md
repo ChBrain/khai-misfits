@@ -56,7 +56,7 @@ Treat the system rather than the member, name the fracture the symptom hides, ho
 
 - [Hold It Together](plan_hold_it_together.md)
 - [Bear the Trouble](plan_bear_the_trouble.md)
-- [Treat the Patient](plan_treat_the_patient.md)
+- [Cure the One Who Presents](plan_cure_the_one_who_presents.md)
 - [Treat the System](plan_treat_the_system.md)
 
 **Places**

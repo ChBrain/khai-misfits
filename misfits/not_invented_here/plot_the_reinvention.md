@@ -26,12 +26,12 @@ The group turns to build its own, and the effort that could have adopted a prove
 
 ## Action
 
-[Reinventing](process_reinventing.md): [The Insider](persona_the_insider.md), holding [the insider's seat](position_insider.md), sets the group to build in-house, while [The Home-Grown](persona_the_home_grown.md), holding [the reinvention's seat](position_reinvention.md), rises to fill the gap, costlier or weaker and owned.
+[Reinventing](process_reinventing.md): [The Insider](persona_the_insider.md), holding [the insider's seat](position_insider.md), sets the group to build in-house, while [The Home Build](persona_the_home_build.md), holding [the reinvention's seat](position_reinvention.md), rises to fill the gap, costlier or weaker and owned.
 
 ## Stage
 
 [The Insider](persona_the_insider.md) tables [Keep It Ours](plan_keep_it_ours.md) and commits the group's effort to a rebuild.
-[The Home-Grown](persona_the_home_grown.md) tables [Roll Our Own](plan_roll_our_own.md) and becomes [the home-grown](piece_the_home_grown.md), meeting the need at a premium over [the better way](piece_the_better_way.md).
+[The Home Build](persona_the_home_build.md) tables [Roll Our Own](plan_roll_our_own.md) and becomes [the home-grown](piece_the_home_grown.md), meeting the need at a premium over [the better way](piece_the_better_way.md).
 
 ## Tension
 

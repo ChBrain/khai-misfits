@@ -26,11 +26,11 @@ Firms failing below their fixed debts, banks shrinking, credit drying up.
 
 ## Action
 
-[Spiralling](process_spiralling.md): [The Deflation](persona_the_deflation.md), holding [the deflation's seat](position_deflation.md), and [The Debt](persona_the_debt.md), holding [the debt's seat](position_debt.md), turn each other downward, while [The Creditor](persona_the_creditor.md), holding [the creditor's seat](position_creditor.md), calls more loans and lends less as its capital thins.
+[Spiralling](process_spiralling.md): [The Deflation](persona_the_deflation.md), holding [the deflation's seat](position_deflation.md), and [The Fixed Sum](persona_the_fixed_sum.md), holding [the debt's seat](position_debt.md), turn each other downward, while [The Creditor](persona_the_creditor.md), holding [the creditor's seat](position_creditor.md), calls more loans and lends less as its capital thins.
 
 ## Stage
 
-[The Deflation](persona_the_deflation.md), on [Drive Prices Down](plan_drive_prices_down.md), lowers prices as the forced selling mounts, and [The Debt](persona_the_debt.md), on [Hold the Sum](plan_hold_the_sum.md), rises in real weight with every fall.
+[The Deflation](persona_the_deflation.md), on [Drive Prices Down](plan_drive_prices_down.md), lowers prices as the forced selling mounts, and [The Fixed Sum](persona_the_fixed_sum.md), on [Hold the Sum](plan_hold_the_sum.md), rises in real weight with every fall.
 [The Creditor](persona_the_creditor.md), still on [Call the Loan](plan_call_the_loan.md), forces more sales to protect a book the falling prices are ruining anyway, so the loop tightens and the credit that might have broken it fails with the banks.
 
 ## Tension

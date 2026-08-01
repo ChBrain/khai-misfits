@@ -30,7 +30,7 @@ A jammed typewriter, a studio's deal, a wartime rush: a cause with nothing to sa
 
 ## Stage
 
-[The Adopter](persona_the_adopter.md) tables [Bet on the Base](plan_bet_on_the_base.md), joining the option that got the first users, so [the small event](piece_the_small_event.md) hands one way [the early lead](piece_the_early_lead.md).
+[The Adopter](persona_the_adopter.md) tables [Follow the Crowd](plan_follow_the_crowd.md), joining the option that got the first users, so [the small event](piece_the_small_event.md) hands one way [the early lead](piece_the_early_lead.md).
 [The Chronicler](persona_the_chronicler.md) tables [Read the History](plan_read_the_history.md) and marks the contingency, that at this moment either path was reachable and an accident chose.
 
 ## Tension

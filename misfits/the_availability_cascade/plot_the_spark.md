@@ -31,7 +31,7 @@ The instance dramatic and true, the channel ready to repeat it, the public withi
 ## Stage
 
 [The Amplifier](persona_the_amplifier.md), on [Sound It Louder](plan_sound_it_louder.md), tells and retells the dramatic instance, keeping it at the top of mind while the cold number stays off the air.
-[The Public](persona_the_public.md), on [Take It Up](plan_take_it_up.md), finds the case easy to picture and easy to recall, and begins to fear the danger as a common one.
+[The Public](persona_the_public.md), on [Carry It Further](plan_carry_it_further.md), finds the case easy to picture and easy to recall, and begins to fear the danger as a common one.
 
 ## Tension
 

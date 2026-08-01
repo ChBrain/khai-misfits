@@ -36,5 +36,5 @@ It looks like good leadership, a decisive chief giving the team a steer instead 
 
 ## Yearbook
 
-Given by [the steer](persona_the_steer.md), taken up gladly by [the loyalist](persona_the_loyalist.md).
+Given by [the convener](persona_the_convener.md), taken up gladly by [the loyalist](persona_the_loyalist.md).
 It is the play's first move: the Steer starts [convergence](process_convergence.md) before any alternative is weighed, and only a leader who holds a preference back, in [dissent](process_dissent.md) staged on purpose, undoes it.

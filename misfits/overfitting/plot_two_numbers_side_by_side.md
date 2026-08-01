@@ -26,12 +26,12 @@ The two numbers stand together at last, and the distance between them is not a f
 
 ## Action
 
-[Failing](process_failing.md): [The Unseen](persona_the_unseen.md), holding [the unseen's seat](position_unseen.md), reads the true error on new data, while [The Score](persona_the_score.md), holding [the score's seat](position_score.md), stands with its low in-sample number, honest and now shown to have measured the wrong thing.
+[Failing](process_failing.md): [The Unseen](persona_the_unseen.md), holding [the unseen's seat](position_unseen.md), reads the true error on new data, while [The Agreeable Number](persona_the_agreeable_number.md), holding [the score's seat](position_score.md), stands with its low in-sample number, honest and now shown to have measured the wrong thing.
 
 ## Stage
 
 [The Unseen](persona_the_unseen.md), having tabled [Break the Model](plan_break_the_model.md), gives the reading only new data can, and [the gap](piece_the_gap.md) opens between world and sample.
-[The Score](persona_the_score.md), having tabled [Reward Every Fit](plan_reward_every_fit.md), is left holding a true measure of the training error and no measure of the field, the whole overfitting counted in the distance between them.
+[The Agreeable Number](persona_the_agreeable_number.md), having tabled [Reward Every Fit](plan_reward_every_fit.md), is left holding a true measure of the training error and no measure of the field, the whole overfitting counted in the distance between them.
 
 ## Tension
 

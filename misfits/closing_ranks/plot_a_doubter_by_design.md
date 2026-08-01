@@ -26,7 +26,7 @@ Someone has decided the plan should be tested before the world tests it, and has
 
 ## Action
 
-[Dissent](process_dissent.md): [The Advocate](persona_the_advocate.md), holding [the devil's advocate's seat](position_devils_advocate.md), argues the other side by assignment, while [The Steer](persona_the_steer.md) keeps a preference back so the room forms a view before it hears the chief's.
+[Dissent](process_dissent.md): [The Advocate](persona_the_advocate.md), holding [the devil's advocate's seat](position_devils_advocate.md), argues the other side by assignment, while [The Convener](persona_the_convener.md) keeps a preference back so the room forms a view before it hears the chief's.
 
 ## Stage
 

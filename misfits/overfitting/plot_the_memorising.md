@@ -26,12 +26,12 @@ The remaining error is noise, and the score keeps falling as the model reaches f
 
 ## Action
 
-[Memorising](process_memorising.md): [The Noise](persona_the_noise.md), holding [the noise's seat](position_noise.md), offers itself to be learned like the pattern, while [The Score](persona_the_score.md), holding [the score's seat](position_score.md), falls for the noise exactly as it fell for the signal and never signals stop.
+[Memorising](process_memorising.md): [The Particulars](persona_the_particulars.md), holding [the noise's seat](position_noise.md), offers itself to be learned like the pattern, while [The Agreeable Number](persona_the_agreeable_number.md), holding [the score's seat](position_score.md), falls for the noise exactly as it fell for the signal and never signals stop.
 
 ## Stage
 
-[The Noise](persona_the_noise.md) tables [Pass for Signal](plan_pass_for_signal.md) and is taken into the model as though it were law, lowering the error and waiting to be absent next draw.
-[The Score](persona_the_score.md) tables [Reward Every Fit](plan_reward_every_fit.md) and drops on, so [the fit](piece_the_fit.md) tightens past [the signal](piece_the_signal.md) and [the noise](piece_the_noise.md) is banked as if it were signal.
+[The Particulars](persona_the_particulars.md) tables [Pass for Signal](plan_pass_for_signal.md) and is taken into the model as though it were law, lowering the error and waiting to be absent next draw.
+[The Agreeable Number](persona_the_agreeable_number.md) tables [Reward Every Fit](plan_reward_every_fit.md) and drops on, so [the fit](piece_the_fit.md) tightens past [the signal](piece_the_signal.md) and [the noise](piece_the_noise.md) is banked as if it were signal.
 
 ## Tension
 

@@ -26,7 +26,7 @@ Stay owed in dollars, unchanged in figure, whatever those dollars come to be wor
 
 ## Orders
 
-([The Debt](persona_the_debt.md) holds its fixed sum as prices fall, rising in real weight without a figure changing, and grows heavier the more the borrower pays.)
+([The Fixed Sum](persona_the_fixed_sum.md) holds its fixed sum as prices fall, rising in real weight without a figure changing, and grows heavier the more the borrower pays.)
 
 ## Implementation
 

@@ -38,7 +38,7 @@ Measure the goal itself instead of its proxy and the gaming has nothing to grip:
 **Personas**
 
 - [The Aim](persona_the_aim.md)
-- [The Proxy](persona_the_proxy.md)
+- [The Metric Author](persona_the_metric_author.md)
 - [The Quota](persona_the_quota.md)
 - [The Hitter](persona_the_hitter.md)
 - [The Surrogate](persona_the_surrogate.md)

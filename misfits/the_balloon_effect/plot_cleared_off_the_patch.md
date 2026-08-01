@@ -30,7 +30,7 @@ The trade real and visible, the ground the officer's to clear, the driver that f
 
 ## Stage
 
-[The Enforcer](persona_the_enforcer.md), on [Clear the Patch](plan_clear_the_patch.md), moves against the trade on their ground and raises its cost until the patch goes quiet, a real and measurable win.
+[The Enforcer](persona_the_enforcer.md), on [Sweep This Ground](plan_sweep_this_ground.md), moves against the trade on their ground and raises its cost until the patch goes quiet, a real and measurable win.
 The trade cannot run where the cost has risen, and the corner falls silent, the driver that fed it standing untouched behind the clearance.
 
 ## Tension

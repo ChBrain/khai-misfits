@@ -30,7 +30,7 @@ The subgroups summed into one table, the larger sample to hand, the instinct to 
 
 ## Stage
 
-[The Pooler](persona_the_pooler.md), on [Trust the Total](plan_trust_the_total.md), sums every subgroup into the total and reads the overall trend, honestly and completely, from all the data there is.
+[The Pooler](persona_the_pooler.md), on [Rule by the Pool](plan_rule_by_the_pool.md), sums every subgroup into the total and reads the overall trend, honestly and completely, from all the data there is.
 The number is large and clean and points one way, and the completeness that built it makes it feel like the truth risen above the noise of the parts.
 
 ## Tension

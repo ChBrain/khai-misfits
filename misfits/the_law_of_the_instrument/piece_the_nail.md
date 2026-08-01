@@ -36,5 +36,5 @@ A case that fits the tool so neatly looks like a well-understood problem, so the
 
 ## Yearbook
 
-Made by [the nail](persona_the_nail.md) through [reshaping](process_reshaping.md), tabled as [Take the Tool's Shape](plan_take_the_tools_shape.md).
+Made by [the casework](persona_the_casework.md) through [reshaping](process_reshaping.md), tabled as [Take the Tool's Shape](plan_take_the_tools_shape.md).
 It is the problem turned into a target: the Nail is what [the tool](piece_the_tool.md) is given to strike, bought at the price of [the amputation](piece_the_amputation.md), so the case is solved as a nail exactly to the degree it stopped being itself.

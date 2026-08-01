@@ -26,7 +26,7 @@ Sit unused through the calm, costing your keep and earning nothing, ready to tak
 
 ## Orders
 
-([The Slack](persona_the_slack.md) sits idle and costly through the calm, absorbing nothing because nothing has struck, and is trimmed for showing no return.)
+([The Spare](persona_the_spare.md) sits idle and costly through the calm, absorbing nothing because nothing has struck, and is trimmed for showing no return.)
 
 ## Implementation
 

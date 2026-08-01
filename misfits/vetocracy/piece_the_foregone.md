@@ -36,5 +36,5 @@ Where nothing was built, nothing collapsed, and nothing wrecked can be blamed, s
 
 ## Yearbook
 
-Left by [the foregone](persona_the_foregone.md) through [foregoing](process_foregoing.md), tabled as [Wait Unmade](plan_wait_unmade.md).
+Left by [the never made](persona_the_never_made.md) through [foregoing](process_foregoing.md), tabled as [Wait Unmade](plan_wait_unmade.md).
 It is the invisible bill of the paralysis: the Foregone is where [the asymmetry](piece_the_asymmetry.md) sends most proposals, a cost with no author that lets [the standstill](piece_the_standstill.md) go, forever, uncharged.

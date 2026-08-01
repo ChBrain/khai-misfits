@@ -43,7 +43,7 @@ Count the true independence before adding: trace whether the backup shares power
 **Personas**
 
 - [The Designer](persona_the_designer.md)
-- [The Backup](persona_the_backup.md)
+- [The Standby](persona_the_standby.md)
 - [The Operator](persona_the_operator.md)
 - [The Auditor](persona_the_auditor.md)
 

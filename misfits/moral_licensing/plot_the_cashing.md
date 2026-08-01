@@ -26,12 +26,12 @@ A lesser thing is available, often nowhere near the good deed's domain, and the 
 
 ## Action
 
-[Cashing](process_cashing.md): [The License](persona_the_license.md), holding [the warrant's seat](position_warrant.md), grants the lapse in the voice of desert, while [The Lapse](persona_the_lapse.md), holding [the lapse's seat](position_lapse.md), takes it as a treat that is owed.
+[Cashing](process_cashing.md): [The Warrant](persona_the_warrant.md), holding [the warrant's seat](position_warrant.md), grants the lapse in the voice of desert, while [The Permitted Act](persona_the_permitted_act.md), holding [the lapse's seat](position_lapse.md), takes it as a treat that is owed.
 
 ## Stage
 
-[The License](persona_the_license.md) tables [Issue the Pass](plan_issue_the_pass.md) and waves the act through on the credit.
-[The Lapse](persona_the_lapse.md) tables [Cash the Credit](plan_cash_the_credit.md) and becomes [the lapse](piece_the_lapse.md), drawing [the balance](piece_the_balance.md) back down to its level.
+[The Warrant](persona_the_warrant.md) tables [Issue the Pass](plan_issue_the_pass.md) and waves the act through on the credit.
+[The Permitted Act](persona_the_permitted_act.md) tables [Cash the Credit](plan_cash_the_credit.md) and becomes [the lapse](piece_the_lapse.md), drawing [the balance](piece_the_balance.md) back down to its level.
 
 ## Tension
 

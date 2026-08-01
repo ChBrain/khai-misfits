@@ -26,7 +26,7 @@ Stand behind the primary and cover the gap it might leave. Take over the load th
 
 ## Orders
 
-([The Backup](persona_the_backup.md) covers the gap from inside the system, and by sitting there opens one more path between the parts and rests on one more shared cause, the cover genuine and the coupling unseen.)
+([The Standby](persona_the_standby.md) covers the gap from inside the system, and by sitting there opens one more path between the parts and rests on one more shared cause, the cover genuine and the coupling unseen.)
 
 ## Implementation
 

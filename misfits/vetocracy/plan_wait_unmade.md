@@ -26,7 +26,7 @@ Fail to gather every yes, and so never come to be. Join the queue that never cle
 
 ## Orders
 
-([The Foregone](persona_the_foregone.md) never assembles every yes and so never happens, the largest cost of the paralysis and the one no one can see.)
+([The Never Made](persona_the_never_made.md) never assembles every yes and so never happens, the largest cost of the paralysis and the one no one can see.)
 
 ## Implementation
 

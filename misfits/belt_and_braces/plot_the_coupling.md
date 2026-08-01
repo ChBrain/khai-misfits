@@ -26,11 +26,11 @@ The added spare taking its place, wired and cooled and crewed with the part it c
 
 ## Action
 
-[Coupling](process_coupling.md): [The Backup](persona_the_backup.md), holding [the backup's seat](position_backup.md), covers the gap from inside the system and opens the paths its presence brings.
+[Coupling](process_coupling.md): [The Standby](persona_the_standby.md), holding [the backup's seat](position_backup.md), covers the gap from inside the system and opens the paths its presence brings.
 
 ## Stage
 
-[The Backup](persona_the_backup.md), on [Cover the Gap](plan_cover_the_gap.md), stands ready behind the primary and, by sitting among the parts, opens [the complexity](piece_the_complexity.md) and rests on [the common mode](piece_the_common_mode.md) it shares with what it backs.
+[The Standby](persona_the_standby.md), on [Cover the Gap](plan_cover_the_gap.md), stands ready behind the primary and, by sitting among the parts, opens [the complexity](piece_the_complexity.md) and rests on [the common mode](piece_the_common_mode.md) it shares with what it backs.
 The cover is genuine and the coupling grows with it, one more path between the parts and one more shared cause, unseen because each addition looks local and only the whole is coupled.
 
 ## Tension

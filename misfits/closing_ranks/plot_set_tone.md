@@ -26,11 +26,11 @@ The options are not on the board yet, and the person the room most wants to plea
 
 ## Action
 
-[Steering](process_steering.md): [The Steer](persona_the_steer.md), holding [the convener's seat](position_convener.md), lets a preference show early, and [The Loyalist](persona_the_loyalist.md) at [the insider's seat](position_insider.md) takes it up gladly, orienting the room before any alternative is weighed.
+[Steering](process_steering.md): [The Convener](persona_the_convener.md), holding [the convener's seat](position_convener.md), lets a preference show early, and [The Loyalist](persona_the_loyalist.md) at [the insider's seat](position_insider.md) takes it up gladly, orienting the room before any alternative is weighed.
 
 ## Stage
 
-[The Steer](persona_the_steer.md) tables [Set the Tone](plan_set_the_tone.md): name the favoured way at the top of the room, so [the steer](piece_the_steer.md) sets the answer before the question is opened.
+[The Convener](persona_the_convener.md) tables [Set the Tone](plan_set_the_tone.md): name the favoured way at the top of the room, so [the steer](piece_the_steer.md) sets the answer before the question is opened.
 [The Loyalist](persona_the_loyalist.md) tables [Close Ranks](plan_close_ranks.md): back the direction and enjoy [the cohesion](piece_the_cohesion.md), because agreeing with the chief in a room this warm is the easy and loyal move.
 
 ## Tension

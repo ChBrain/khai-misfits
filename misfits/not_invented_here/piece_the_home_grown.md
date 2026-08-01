@@ -36,5 +36,5 @@ A capable version built in-house looks like a team that solves its own problems 
 
 ## Yearbook
 
-Built by [the home-grown](persona_the_home_grown.md) through [reinventing](process_reinventing.md), tabled as [Roll Our Own](plan_roll_our_own.md).
+Built by [the home build](persona_the_home_build.md) through [reinventing](process_reinventing.md), tabled as [Roll Our Own](plan_roll_our_own.md).
 It is the worse version loved for being ours: the Home-Grown replaces [the better way](piece_the_better_way.md) at a premium and, over time, is what goes stale as [the staling](piece_the_staling.md) sets in.

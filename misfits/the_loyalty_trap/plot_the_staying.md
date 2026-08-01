@@ -30,7 +30,7 @@ The fault plain and the way out open, and the faithful standing before it, not g
 
 ## Stage
 
-[The Faithful](persona_the_faithful.md), on [Stand By It](plan_stand_by_it.md), stays through the bad patch rather than bolt at the fault, honouring the attachment the loyal way.
+[The Faithful](persona_the_faithful.md), on [Keep the Faith](plan_keep_the_faith.md), stays through the bad patch rather than bolt at the fault, honouring the attachment the loyal way.
 [The Cause](persona_the_cause.md), still on [Take the Quiet](plan_take_the_quiet.md), sees its members staying and its numbers holding, and reads the stability as a sign that all is well.
 
 ## Tension

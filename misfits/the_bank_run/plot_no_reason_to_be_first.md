@@ -26,11 +26,11 @@ The fear was of being last, and a guarantee to pay whoever comes removes the rea
 
 ## Action
 
-[Backstopping](process_backstopping.md): [The Backstop](persona_the_backstop.md), holding [the guarantor's seat](position_guarantor.md), guarantees the deposits and lends freely against good collateral, while [The Banker](persona_the_banker.md), holding [the banker's seat](position_banker.md), keeps his good loans instead of dumping them.
+[Backstopping](process_backstopping.md): [The Guarantor](persona_the_guarantor.md), holding [the guarantor's seat](position_guarantor.md), guarantees the deposits and lends freely against good collateral, while [The Banker](persona_the_banker.md), holding [the banker's seat](position_banker.md), keeps his good loans instead of dumping them.
 
 ## Stage
 
-[The Backstop](persona_the_backstop.md) tables [Back the Promise](plan_back_the_promise.md): promise full payment to whoever comes, so the line dissolves and [the backstop](piece_the_backstop.md) shuts the run without a coin paid.
+[The Guarantor](persona_the_guarantor.md) tables [Back the Promise](plan_back_the_promise.md): promise full payment to whoever comes, so the line dissolves and [the backstop](piece_the_backstop.md) shuts the run without a coin paid.
 [The self-fulfilling prophecy](piece_the_self_fulfilling_prophecy.md) is answered, the good state held, and [The Banker](persona_the_banker.md) tables [Honour the Promise](plan_honour_the_promise.md) with the fear removed from under it.
 
 ## Tension

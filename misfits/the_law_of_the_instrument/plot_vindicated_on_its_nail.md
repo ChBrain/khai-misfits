@@ -26,12 +26,12 @@ The treatment was textbook and complete, and off where the tool could not reach,
 
 ## Action
 
-[Missing](process_missing.md): [The Residue](persona_the_residue.md), holding [the remainder's seat](position_remainder.md), returns as the unsolved crux, while [The Tool](persona_the_tool.md), holding [the instrument's seat](position_instrument.md), stands vindicated on its nail and untouched by what it could not fit.
+[Missing](process_missing.md): [The Residue](persona_the_residue.md), holding [the remainder's seat](position_remainder.md), returns as the unsolved crux, while [The Instrument](persona_the_instrument.md), holding [the instrument's seat](position_instrument.md), stands vindicated on its nail and untouched by what it could not fit.
 
 ## Stage
 
 [The Residue](persona_the_residue.md) tables [Fall Outside the Reach](plan_fall_outside_the_reach.md) once more and comes back as [the miss](piece_the_miss.md), the crux the strike was aimed away from.
-[The Tool](persona_the_tool.md) rests on a clean, complete performance, so the failure reads as a new and separate trouble with no line back to it.
+[The Instrument](persona_the_instrument.md) rests on a clean, complete performance, so the failure reads as a new and separate trouble with no line back to it.
 
 ## Tension
 

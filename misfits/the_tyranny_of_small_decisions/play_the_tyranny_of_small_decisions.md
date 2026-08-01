@@ -40,7 +40,7 @@ Put the whole to a real decision, price the option so its value counts, bundle t
 
 - [The Chooser](persona_the_chooser.md)
 - [The Option](persona_the_option.md)
-- [The Sum](persona_the_sum.md)
+- [The Aggregate](persona_the_aggregate.md)
 - [The Bereft](persona_the_bereft.md)
 - [The Convener](persona_the_convener.md)
 - [The Free Hand](persona_the_free_hand.md)

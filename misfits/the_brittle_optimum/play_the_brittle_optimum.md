@@ -40,7 +40,7 @@ Keep the slack, hold the spare and the buffer and the margin as insurance agains
 **Personas**
 
 - [The Optimizer](persona_the_optimizer.md)
-- [The Slack](persona_the_slack.md)
+- [The Spare](persona_the_spare.md)
 - [The Shock](persona_the_shock.md)
 - [The Cascade](persona_the_cascade.md)
 - [The Reserver](persona_the_reserver.md)
