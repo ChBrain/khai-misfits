@@ -36,4 +36,4 @@ The permits thin across the map, and the price climbs where the zoning binds tig
 ## Tension
 
 No single town chose the shortage: each voted only on its own streets, and the region-wide wall was never anyone's ballot measure.
-There is nothing to fault town by town: each restriction is a sound local choice. But the plot closes with a whole region short of housing, the shortage a sum no jurisdiction chose and no owner voted for as a goal.
+There is nothing to fault town by town: each restriction is a sound local choice. But the plot closes with a whole region short of housing, [the shortage](piece_the_shortage.md) a sum no jurisdiction chose and no owner voted for as a goal.

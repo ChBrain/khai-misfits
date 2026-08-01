@@ -30,7 +30,7 @@ The money pouring in, foreign exchange earned, the boom the best-paying thing in
 
 ## Stage
 
-[The Boom](persona_the_boom.md), on [Pay the Most](plan_pay_the_most.md), pours money into the country and offers the best returns in it, the windfall real and welcome.
+[The Boom](persona_the_boom.md), on [Pay the Most](plan_pay_the_most.md), pours money into the country and offers the best returns in it, [the windfall](piece_the_windfall.md), real and welcome.
 [The Mover](persona_the_mover.md), the country's factors and households, sees its income rise and the fields paying more than anywhere, and begins to turn toward them.
 
 ## Tension

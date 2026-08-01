@@ -35,4 +35,4 @@ Rent listed where the jobs are, and none of it within reach.
 ## Tension
 
 No one refused the Newcomer at a door: they never reached a door, because the meeting that decided this was one they had no vote inside.
-There is nothing to fault in any single decision: the restriction was sound and sincere and decided by those it belonged to. But the plot closes with a would-be resident shut out, bearing a cost settled across a boundary they had no voice inside.
+There is nothing to fault in any single decision: the restriction was sound and sincere and decided by those it belonged to. But the plot closes with a would-be resident shut out, bearing a cost settled across [the boundary](piece_the_boundary.md) they had no voice inside.

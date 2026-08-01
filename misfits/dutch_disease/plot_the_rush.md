@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-[The Exchange](place_the_exchange.md), everyone doing the sensible thing with a windfall.
+[The Exchange](place_the_exchange.md), everyone doing the sensible thing with [the bonanza](piece_the_bonanza.md).
 Factors moving to the best-paid work and the new income being spent through the economy.
 
 ## Action

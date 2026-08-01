@@ -30,7 +30,7 @@ The Brass setting course, allocating the able below, and deciding who rises next
 
 ## Stage
 
-[The Brass](persona_the_brass.md), still on [Promote in Kind](plan_promote_in_kind.md), judges leadership by its own reflection and raises those who look as it looks, so the inversion renews itself in its own likeness.
+[The Brass](persona_the_brass.md), still on [Promote in Kind](plan_promote_in_kind.md), judges leadership by its own reflection and raises those who look as it looks, so [the inversion](piece_the_inversion.md) renews itself in its own likeness.
 [The Boss](persona_the_boss.md), still on [Kick It Upstairs](plan_kick_it_upstairs.md), keeps reaching for the soft exit, feeding the very ranks that now set the standard for everyone below.
 
 ## Tension

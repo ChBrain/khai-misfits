@@ -30,7 +30,7 @@ A small ordinary shift in demand at the till, drawing the shelf down a shade fur
 
 ## Stage
 
-[The Shopper](persona_the_shopper.md), having tabled [Buy as Ever](plan_buy_as_ever.md), takes a couple more than usual for reasons of its own and will be back to normal next week.
+[The Shopper](persona_the_shopper.md), having tabled [Buy as Ever](plan_buy_as_ever.md), takes [the wobble](piece_the_wobble.md), a couple more than usual for reasons of its own, and will be back to normal next week.
 [The Retailer](persona_the_retailer.md), on [Cover the Order](plan_cover_the_order.md), reads the drawn-down shelf and prepares to refill it, the small true change now registered as a slightly larger order.
 
 ## Tension

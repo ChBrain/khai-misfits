@@ -31,7 +31,7 @@ Samples poured into the commons unmarked, settling among the genuine, the tails 
 ## Stage
 
 [The Model](persona_the_model.md), still on [Generate the Likely](plan_generate_the_likely.md), publishes its samples into the world, fluent and clean-reading and poorer in the tails.
-[The Pool](persona_the_pool.md), on [Take It All In](plan_take_it_all_in.md), absorbs them among the genuine and keeps no mark, so the made and the real settle together past telling apart.
+[The Pool](persona_the_pool.md), on [Take It All In](plan_take_it_all_in.md), absorbs them among the genuine and keeps no mark, so [the made](piece_the_made.md) and the real settle together past telling apart.
 
 ## Tension
 

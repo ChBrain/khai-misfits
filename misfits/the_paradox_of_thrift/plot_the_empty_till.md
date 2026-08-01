@@ -31,7 +31,7 @@ The coin the saver kept never arriving at the counter, and the earner who lived 
 ## Stage
 
 [The Vendor](persona_the_vendor.md), having tabled [Trim to Sales](plan_trim_to_sales.md), finds the takings short, the wage it was owed become a saver's buffer instead.
-[The Saver](persona_the_saver.md), still on [Build the Buffer](plan_build_the_buffer.md), sees only its own store growing, and [The Hoard](persona_the_hoard.md), on [Hold the Cash](plan_hold_the_cash.md), keeps the coin safe and unlent, so it returns to no one as spending.
+[The Saver](persona_the_saver.md), still on [Build the Buffer](plan_build_the_buffer.md), sees only its own store growing, and [The Hoard](persona_the_hoard.md), on [Hold the Cash](plan_hold_the_cash.md), keeps the coin safe and unlent, [the common prudence](piece_the_common_prudence.md) that returns to no one as spending.
 
 ## Tension
 

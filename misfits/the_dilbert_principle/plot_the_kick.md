@@ -30,7 +30,7 @@ The Boss at the fork, the cruel costly dismissal on one side and the kind clean 
 
 ## Stage
 
-[The Boss](persona_the_boss.md), on [Kick It Upstairs](plan_kick_it_upstairs.md), sets the dismissal aside and promotes the worker sideways-and-up, sparing the grievance and the scene and the admitted mistake.
+[The Boss](persona_the_boss.md), on [Kick It Upstairs](plan_kick_it_upstairs.md), sets [the sack](piece_the_sack.md) aside and makes [the kick upstairs](piece_the_kick_upstairs.md), promoting the worker sideways-and-up, sparing the grievance and the scene and the admitted mistake.
 [The Duffer](persona_the_duffer.md), still on [Muddle Through](plan_muddle_through.md), is moved to a seat off the work it could not do, its dignity kept and the floor behind it cleared.
 
 ## Tension

@@ -30,10 +30,10 @@ The worthy work patient and unpressing, the someday there to receive it, the one
 
 ## Stage
 
-[The Important](persona_the_important.md), on [Wait Its Turn](plan_wait_its_turn.md), makes no demand and sets no deadline, so it is postponed without protest, its worth intact and its turn not come.
+[The Important](persona_the_important.md), on [Wait Its Turn](plan_wait_its_turn.md), makes no demand and sets no deadline, so it is postponed without protest, [the payoff](piece_the_payoff.md) intact and its turn not come.
 [The Doer](persona_the_doer.md), on [Take What Falls Due](plan_take_what_falls_due.md), defers it by a reasonable choice, because nothing forces it today and one more day costs so little.
 
 ## Tension
 
 Waiting one more day genuinely costs little, and the little costs sum to a task deferred for ever.
-There is nothing to fault: the important truly can wait, and postponing it once is almost free. But the someday recedes as fast as it is reached, so the plot closes with the worthy work deferred again, deadline-less and waiting, worth no less and no nearer done, one reasonable day nearer never.
+There is nothing to fault: the important truly can wait, and postponing it once is almost free. But [the someday](piece_the_someday.md) recedes as fast as it is reached, so the plot closes with the worthy work deferred again, deadline-less and waiting, worth no less and no nearer done, one reasonable day nearer never.

@@ -30,10 +30,10 @@ The agenda item read, the project on the floor, the restriction one vote away.
 
 ## Stage
 
-[The Homeowner](persona_the_homeowner.md), on [Insure the House](plan_insure_the_house.md), fills the hearing with the street and carries the vote, the restriction sound and the room sincere.
+[The Homeowner](persona_the_homeowner.md), on [Insure the House](plan_insure_the_house.md), fills the hearing with the street and carries [the ballot](piece_the_ballot.md), the restriction sound and the room sincere.
 [The Builder](persona_the_builder.md), on [Build the Homes](plan_build_the_homes.md), presents the plan once more and watches the density capped, the finance ready and the permission refused.
 
 ## Tension
 
 No one in the room is wrong: the owners vote to protect what is truly theirs to protect, and the vote is procedurally clean.
-There is nothing to fault: the restriction is a sound local choice, decided by the people it belongs to. But the Newcomer who would live there was never in the room to be outvoted, so the plot closes with the restriction enacted, the value protected and one more limit on the books.
+There is nothing to fault: [the restriction](piece_the_restriction.md) is a sound local choice, decided by the people it belongs to. But the Newcomer who would live there was never in the room to be outvoted, so the plot closes with the restriction enacted, the value protected and one more limit on the books.

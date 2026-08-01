@@ -30,8 +30,8 @@ A fire fought that can be cheered, and a fire spared that cannot even be named.
 
 ## Stage
 
-[The Manager](persona_the_manager.md), still on [Fight the Fire](plan_fight_the_fire.md), honours the firefighter before everyone, crediting the result it can point to.
-[The Preventer](persona_the_preventer.md), on [Head It Off](plan_head_it_off.md), whose quiet work months ago kept fires from starting, gets nothing, because no one can point to the disaster that never came.
+[The Manager](persona_the_manager.md), still on [Fight the Fire](plan_fight_the_fire.md), honours the firefighter before everyone, giving [the credit](piece_the_credit.md) to the result it can point to.
+[The Preventer](persona_the_preventer.md), on [Head It Off](plan_head_it_off.md), whose quiet work months ago kept fires from starting, gets nothing, because no one can point to [the averted fire](piece_the_averted_fire.md).
 
 ## Tension
 

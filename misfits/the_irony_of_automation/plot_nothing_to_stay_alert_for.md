@@ -36,4 +36,4 @@ Screens green hour after hour, nothing to catch, the attention with nothing to h
 ## Tension
 
 The more reliable the machine, the less the human can watch it.
-There is no negligence here: humans simply cannot stay vigilant on a system that hardly ever does anything wrong, and trusting a reliable machine is reasonable. But that very reliability erodes the attention it relies on, so the plot closes with the operator disengaged and out of the loop, present at the console and no longer truly tracking the system it is there to guard.
+There is no negligence here: humans simply cannot stay vigilant on a system that hardly ever does anything wrong, and trusting a reliable machine is reasonable. But that very reliability erodes the attention it relies on, so the plot closes with the operator caught in [the drift](piece_the_drift.md), out of the loop, present at the console and no longer truly tracking the system it is there to guard.

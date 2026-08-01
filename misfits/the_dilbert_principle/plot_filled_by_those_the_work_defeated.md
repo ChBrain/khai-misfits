@@ -30,7 +30,7 @@ The soft exits from every Line converging, the ranks above filling with those th
 
 ## Stage
 
-[The Brass](persona_the_brass.md), on [Promote in Kind](plan_promote_in_kind.md), takes in each worker the managers lift and finds it fits, being made of the same, so the seats that lead accrete the overmatched tier over tier.
+[The Brass](persona_the_brass.md), on [Promote in Kind](plan_promote_in_kind.md), takes in each [kind exit](piece_the_kind_exit.md) the managers lift and finds it fits, being made of the same, so the seats that lead accrete the overmatched tier over tier.
 [The Duffer](persona_the_duffer.md), still on [Muddle Through](plan_muddle_through.md), governs now from a height where the work is a rumour, understanding it no better for the title.
 
 ## Tension

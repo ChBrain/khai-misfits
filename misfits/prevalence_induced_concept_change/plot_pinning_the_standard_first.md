@@ -30,10 +30,10 @@ The count flat, the win invisible, and the means to pin the standard in advance 
 
 ## Stage
 
-[The Anchor](persona_the_anchor.md), having tabled [Fix the Mark](plan_fix_the_mark.md), defines the thing in advance and holds the line though the company mildens, so the falling count can be read as the win it is.
+[The Anchor](persona_the_anchor.md), having tabled [Fix the Mark](plan_fix_the_mark.md), defines [the fixed mark](piece_the_fixed_mark.md) in advance and holds the line though the company mildens, so the falling count can be read as the win it is.
 [The Seeker](persona_the_seeker.md), still on [Root It Out](plan_root_it_out.md), hears in the fixed mark a lowering of the guard, and calling the mild case fine feels like calling off the watch too soon.
 
 ## Tension
 
 The one move that lets the win be seen is the one the vigilant read as surrender.
-There is no easy remedy: the fixed mark plainly stops the creep and reveals the progress, yet it means calling the mild case fine and the danger's retreat a victory, and can look like abandoning the cause and defund the very watch that won. So the play closes where it must, the mark fixed and the progress seen at last ... or the vigilant instinct holds, the line stays loose, and the concept creeps on.
+There is no easy remedy: the fixed mark plainly stops the creep and reveals the progress, yet it means calling the mild case fine and the danger's retreat a victory, and can look like abandoning the cause and defund the very watch that won. So the play closes where it must, the mark fixed and the progress seen at last ... or the vigilant instinct holds, the line stays loose, and [the widening](piece_the_widening.md) creeps on.

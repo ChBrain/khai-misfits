@@ -30,7 +30,7 @@ The strain loose and unfaced, the member most available to receive it, the sympt
 
 ## Stage
 
-[The Patient](persona_the_patient.md), on [Bear the Trouble](plan_bear_the_trouble.md), takes into themselves the strain the whole cannot face, and a real symptom surfaces: the child who acts out, the one who will not eat, the member who falls apart.
+[The Patient](persona_the_patient.md), on [Bear the Trouble](plan_bear_the_trouble.md), takes into themselves the strain the whole cannot face, and [the symptom](piece_the_symptom.md) surfaces: the child who acts out, the one who will not eat, the member who falls apart.
 [The Kin](persona_the_kin.md), on [Hold It Together](plan_hold_it_together.md), feels the anxiety settle and find its place, the loose tension of the whole becoming the visible trouble of one.
 
 ## Tension

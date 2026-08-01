@@ -31,7 +31,7 @@ The Subject having tried and tried, the results unmoved, the truth of the room p
 ## Stage
 
 [The Subject](persona_the_subject.md), on [Stop Trying](plan_stop_trying.md), ceases to spend effort on a thing that does not respond, correctly, and settles into taking what comes.
-The lesson is true and well learned, and it does not stay pinned to the room: it forms into an expectation the Subject will carry wherever it goes.
+The lesson is true and well learned, and it does not stay pinned to the room: it forms into [the expectation](piece_the_expectation.md) the Subject will carry wherever it goes.
 
 ## Tension
 

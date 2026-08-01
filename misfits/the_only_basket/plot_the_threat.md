@@ -35,5 +35,5 @@ The value not yet touched, only threatened, the basket still whole and the dange
 
 ## Tension
 
-The Homeowner is not wrong to be afraid: the home really is undiversifiable, and a project next door really can move its price.
+The Homeowner is not wrong to be afraid: [the only home](piece_the_only_home.md) really is undiversifiable, and a project next door really can move its price.
 There is nothing to fault yet: the plan is sound and the fear is sound, and neither has beaten the other. But the plot closes with the threat live and the owner roused, one hearing away from the vote that will settle it.

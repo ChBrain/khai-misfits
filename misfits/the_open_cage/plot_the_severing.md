@@ -31,7 +31,7 @@ The Subject's effort there to be spent, the outcome held beyond its reach, the c
 ## Stage
 
 [The Overrider](persona_the_overrider.md), on [Cut the Lever](plan_cut_the_lever.md), overrides the initiative, ignores the input, or delivers the outcome regardless, by design, by constraint, or by plain indifference.
-Whatever the Subject tries, the answer is the same, so action and outcome are shown, plainly and truly, to have nothing to do with each other.
+Whatever the Subject tries, the answer is the same, so action and outcome are shown, plainly and truly, to be [the uncoupling](piece_the_uncoupling.md).
 
 ## Tension
 

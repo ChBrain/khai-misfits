@@ -36,4 +36,4 @@ Day after day of pressing tasks answered, the someday receding week on week, the
 ## Tension
 
 Every single deferral is sound, and the sum of the sound deferrals is the important never done.
-There is nothing to fault in any one day: each was busy and productive and each postponement correct. But the urgent never stops and the important never shouts, so the plot closes with a working life filled by met deadlines and closed loops, and the few things that truly mattered standing undone, a life miscast by a hundred right choices.
+There is nothing to fault in any one day: each was busy and productive and each postponement correct. But the urgent never stops and the important never shouts, so the plot closes with a working life filled by met deadlines and closed loops, and the few things that truly mattered left as [the undone](piece_the_undone.md), a life miscast by a hundred right choices.

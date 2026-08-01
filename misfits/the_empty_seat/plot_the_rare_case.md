@@ -30,10 +30,10 @@ The scan read as clear that is not clear, the route sure of itself that runs int
 
 ## Stage
 
-[The Operator](persona_the_operator.md), on [Follow the Aid](plan_follow_the_aid.md), meets the aid's rare wrong output and defers to it, giving the machine the benefit of every doubt over their own read, or coasting past the failure the aid did not flag.
+[The Operator](persona_the_operator.md), on [Follow the Aid](plan_follow_the_aid.md), meets the aid's rare wrong output and springs [the override](piece_the_override.md), giving the machine the benefit of every doubt over their own read, or falls into [the lapse](piece_the_lapse.md), coasting past the failure the aid did not flag.
 [The Aid](persona_the_aid.md), on [Give the Answer](plan_give_the_answer.md), delivers its wrong output with the same confidence as its right ones, unmarked, so nothing tells the operator this is the hundredth.
 
 ## Tension
 
 Following a reliable aid is right ninety-nine times, and the hundredth is the one the whole seat was for.
-There is nothing new to fault: the operator does exactly what the record warranted. But the record cannot mark its own exception, so the plot closes with the aid's rare failure passed uncaught, the operator present in the seat and absent in the judgement, the backstop hollow at the one moment it existed to hold.
+There is nothing new to fault: the operator does exactly what the record warranted. But the record cannot mark its own exception, so the plot closes with the aid's rare failure passed uncaught, the operator present in the seat and absent in the judgement, [the hollow backstop](piece_the_hollow_backstop.md) at the one moment it existed to hold.

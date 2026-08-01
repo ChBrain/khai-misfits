@@ -31,7 +31,7 @@ The harm arriving after the cure and wearing a fresh face, logged as a new compl
 ## Stage
 
 Because [the alibi](piece_the_alibi.md) keeps the cure clear, [the healer](persona_the_healer.md), on [Treat the Complaint](plan_treat_the_complaint.md), treats the wound as its own condition, and [the remedy](piece_the_remedy.md) given again wounds again, link after link into [the cascade](piece_the_cascade.md).
-Each intervention is genuine and each treats the last one's harm, the system filling with injuries no single cure will own.
+Each intervention is genuine and each treats the last one's harm, [the nemesis](piece_the_nemesis.md) filling the system with injuries no single cure will own.
 
 ## Tension
 

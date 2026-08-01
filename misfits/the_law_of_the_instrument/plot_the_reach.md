@@ -36,4 +36,4 @@ Before anyone asks what it is, the mastered tool is already being lifted, and th
 ## Tension
 
 The problem is committed to the tool at the instant it is noticed, and by the most skilled hand in the room.
-Nothing here is a mistake to scold: the wielder's mastery is real, the reflex is the honest return on years of it, and the tool genuinely is the best answer to everything shaped like its nail. But the reach comes before the diagnosis, so the instrument is chosen before the problem is understood, and the case is already, silently, on its way to being reshaped into the one thing the tool can strike.
+Nothing here is a mistake to scold: the wielder's mastery is real, the reflex is the honest return on years of it, and [the tool](piece_the_tool.md) genuinely is the best answer to everything shaped like its nail. But the reach comes before the diagnosis, so the instrument is chosen before the problem is understood, and the case is already, silently, on its way to being reshaped into the one thing the tool can strike.

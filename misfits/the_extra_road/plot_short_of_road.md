@@ -31,7 +31,7 @@ The old roads are full at rush hour, the pressure is real, and the answer seems 
 ## Stage
 
 [The Planner](persona_the_planner.md) tables [Add the Road](plan_add_the_road.md): answer the jam with capacity rather than a price, so [the added lane](piece_the_added_lane.md) is built where [the jam](piece_the_jam.md) was worst and opened free to every driver.
-The link is real relief for the first cars onto it, and counted, at the ribbon, as the network improved.
+The link is real relief for the first cars onto it, and counted, at the ribbon, as [the network](piece_the_network.md) improved.
 
 ## Tension
 

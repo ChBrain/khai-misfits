@@ -30,7 +30,7 @@ The demand it saw, plus a cushion it cannot separate from it, going up as one or
 
 ## Stage
 
-[The Retailer](persona_the_retailer.md), having tabled [Cover the Order](plan_cover_the_order.md), adds safety stock and pipeline on top of the rise it saw, so a rush will never leave it empty.
+[The Retailer](persona_the_retailer.md), having tabled [Cover the Order](plan_cover_the_order.md), adds [the cover](piece_the_cover.md) of safety stock and pipeline on top of the rise it saw, so a rush will never leave it empty.
 [The Signal](persona_the_signal.md), on [Pass It Up](plan_pass_it_up.md), carries the order upward as the only evidence of demand there is, the wobble and the cover indistinguishable in the number that leaves.
 
 ## Tension

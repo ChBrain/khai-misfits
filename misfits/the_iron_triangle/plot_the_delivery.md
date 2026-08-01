@@ -31,7 +31,7 @@ A favourable programme, a protected budget, a friendly rule moving through the c
 ## Stage
 
 [The Chairman](persona_the_chairman.md), [The Administrator](persona_the_administrator.md), and [The Lobbyist](persona_the_lobbyist.md), each on its plan, move the favourable programme through the circuit, and it passes: authorised, funded, ruled, and delivered.
-The three corners are served, and the bill for it falls on the general public, who funded the domain, voted none of this, and hold no corner to object.
+The three corners are served, and the bill for it falls on [the outside](piece_the_outside.md), who funded the domain, voted none of this, and hold no corner to object.
 
 ## Tension
 

@@ -29,7 +29,7 @@ stamp:
 
 ## Stage
 
-A shock ordinary by any other measure, rates a point higher, one large borrower's shortfall, lands on a structure with no cushion left to absorb it. The Speculator cannot roll its principal at a rate its income now covers; the Ponzi cannot refinance against a price the Market has just stopped confirming; both are forced to sell, not from panic but from arithmetic that no longer closes. The Lender, reading the same record it read on the way up, now reads it the other way, and pulls in every term it can reach. What follows from the selling itself, prices falling because the sales are forced and the falling prices forcing more, is Fisher's debt-deflation, staged elsewhere, not here.
+A shock ordinary by any other measure, rates a point higher, one large borrower's shortfall, arrives as [the moment](piece_the_moment.md), landing on a structure with no cushion left to absorb it. The Speculator cannot roll its principal at a rate its income now covers; the Ponzi cannot refinance against a price the Market has just stopped confirming; both are forced to sell, not from panic but from arithmetic that no longer closes. The Lender, reading the same record it read on the way up, now reads it the other way, and pulls in every term it can reach. What follows from the selling itself, prices falling because the sales are forced and the falling prices forcing more, is Fisher's debt-deflation, staged elsewhere, not here.
 
 ## Tension
 

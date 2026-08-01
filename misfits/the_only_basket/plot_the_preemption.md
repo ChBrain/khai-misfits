@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The Statehouse](place_the_statehouse.md), the regional shortage now a line item, the bill to preempt local zoning drafted and read.
-The excluded newcomers counted at last, at a table the town meeting never sat them at.
+The excluded newcomers counted at last, at [the higher table](piece_the_higher_table.md) the town meeting never sat them at.
 
 ## Action
 

@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The Summit](place_the_summit.md), the claim arrived with nothing concrete left in it.
-The abstraction directing the enterprise and checkable against no single fact, the top commanding on language pinned to nothing.
+[The Cloud](piece_the_cloud.md) directing the enterprise and checkable against no single fact, the top commanding on language pinned to nothing.
 
 ## Action
 

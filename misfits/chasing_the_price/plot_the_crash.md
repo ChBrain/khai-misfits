@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The Harvest](place_the_harvest.md), the big crop everyone planted coming in at once.
-A flood of supply arriving into a market whose want has not grown, the plan made a season ago meeting the price at last.
+A flood of supply arriving into a market whose want has not grown, the plan made across [the delay](piece_the_delay.md) meeting the price at last.
 
 ## Action
 

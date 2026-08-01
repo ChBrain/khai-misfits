@@ -30,7 +30,7 @@ The fault there to be named and the room open to it, and the faithful present an
 
 ## Stage
 
-[The Faithful](persona_the_faithful.md), still on [Keep the Faith](plan_keep_the_faith.md), keeps the complaint behind its teeth, unwilling to be the malcontent and trusting the leadership to know its business.
+[The Faithful](persona_the_faithful.md), still on [Keep the Faith](plan_keep_the_faith.md), keeps [the voice](piece_the_voice.md) behind its teeth, unwilling to be the malcontent and trusting the leadership to know its business.
 [The Cause](persona_the_cause.md), still on [Take the Quiet](plan_take_the_quiet.md), takes the silent floor for a content one, adding the quiet to the stable roll as further proof that all is well.
 
 ## Tension

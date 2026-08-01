@@ -30,7 +30,7 @@ One hunter deciding not to be the fool left holding, and turning to the catch th
 
 ## Stage
 
-[The Partner](persona_the_partner.md), having tabled [Take the Sure Thing](plan_take_the_sure_thing.md), takes the hare to shield against holding alone, and becomes the defection the hunter feared.
+[The Partner](persona_the_partner.md), having tabled [Take the Sure Thing](plan_take_the_sure_thing.md), makes [the hedge](piece_the_hedge.md), taking the hare to shield against holding alone, and becomes the defection the hunter feared.
 [The Hare](persona_the_hare.md) tables [Pay Regardless](plan_pay_regardless.md), rewarding the peel whatever the party does, so once one may break, breaking first is each hunter's safe move and the hedging spreads down the line.
 
 ## Tension

@@ -31,7 +31,7 @@ The passivity plain to see, the open door plain to see, the cause of the not-try
 ## Stage
 
 [The Judge](persona_the_judge.md), on [Call It Character](plan_call_it_character.md), sees the Subject leave the way out unwalked and draws the natural conclusion about the person who will not step through, crediting a stable flaw where there is a taught expectation.
-The blame lands on the Subject, who cannot change how they are seen any more than they could change the outcomes that taught them, so the verdict becomes one more uncontrollable result.
+The blame lands on the Subject, who cannot change how they are seen any more than they could change the outcomes that taught them, so [the verdict](piece_the_verdict.md) becomes one more uncontrollable result.
 
 ## Tension
 

@@ -30,8 +30,8 @@ The nation's saving added up, and the incomes fallen to meet it, so the sum put 
 
 ## Stage
 
-[The Flow](persona_the_flow.md), having tabled [Carry the Coin](plan_carry_the_coin.md), delivers the verdict its circuit held all along: the incomes are the spending, so a nation that all spent less all earned less.
-[The Saver](persona_the_saver.md), still on [Build the Buffer](plan_build_the_buffer.md), sees it saved a larger share of a smaller wage, the extra saving it meant to do thwarted by the fall its saving caused.
+[The Flow](persona_the_flow.md), having tabled [Carry the Coin](plan_carry_the_coin.md), delivers the verdict [the circular flow](piece_the_circular_flow.md) held all along: the incomes are the spending, so a nation that all spent less all earned less.
+[The Saver](persona_the_saver.md), still on [Build the Buffer](plan_build_the_buffer.md), sees it saved a larger share of a smaller wage, [the shortfall](piece_the_shortfall.md), the extra saving it meant to do thwarted by the fall its saving caused.
 
 ## Tension
 

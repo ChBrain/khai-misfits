@@ -30,7 +30,7 @@ No name attached to any of it, no single face to stand out, only a rate spread t
 
 ## Stage
 
-[The Countless](persona_the_countless.md), on [Wait Unseen](plan_wait_unseen.md), presents an equal, larger need with no face to carry it, growing only more abstract as it grows more numerous, and summons nothing.
+[The Countless](persona_the_countless.md), on [Wait Unseen](plan_wait_unseen.md), presents an equal, larger need with no face to carry it, sinking into [the numbing](piece_the_numbing.md) as it grows more numerous, and summons nothing.
 
 ## Tension
 

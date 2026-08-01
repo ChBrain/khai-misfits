@@ -30,7 +30,7 @@ A producing edge that has weighed the apparatus and found it takes more than it 
 
 ## Stage
 
-[The Provincial](persona_the_provincial.md), on [Fall Away](plan_fall_away.md), stops yielding the surplus once [the return](piece_the_return.md) to them has gone negative, so [the upkeep](piece_the_upkeep.md) is unmet and the apparatus sheds its [layers](piece_the_layer.md), the whole dropping to a level the base will support.
+[The Provincial](persona_the_provincial.md), on [Fall Away](plan_fall_away.md), stops yielding the surplus once [the return](piece_the_return.md) to them has gone negative, so [the upkeep](piece_the_upkeep.md) is unmet and the apparatus sheds its [layers](piece_the_layer.md), [the descent](piece_the_descent.md), the whole dropping to a level the base will support.
 The withdrawal is a sound private economy, and the sum of many such economies is the fall of the whole.
 
 ## Tension

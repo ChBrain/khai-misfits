@@ -30,7 +30,7 @@ The means to fence a share of capacity and to credit the crisis that never came 
 
 ## Stage
 
-[The Marshal](persona_the_marshal.md), having tabled [Fence the Time](plan_fence_the_time.md), holds a share of capacity for prevention that the fires may not raid and honours the empty calendar as much as the heroic night.
+[The Marshal](persona_the_marshal.md), having tabled [Fence the Time](plan_fence_the_time.md), raises [the firebreak](piece_the_firebreak.md), a share of capacity for prevention that the fires may not raid and honours the empty calendar as much as the heroic night.
 [The Manager](persona_the_manager.md), still on [Fight the Fire](plan_fight_the_fire.md), feels every reason to raid the fenced hours for the fire burning now and to give the medal to the visible hero.
 
 ## Tension

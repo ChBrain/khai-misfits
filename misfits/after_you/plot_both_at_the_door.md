@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-At [The Threshold](place_the_threshold.md), [The Supply](persona_the_supply.md) and [The Demand](persona_the_demand.md) stand at the doorway, both looking in at the same empty floor, each waiting for the other to enter first.
+At [The Threshold](place_the_threshold.md), [The Supply](persona_the_supply.md) and [The Demand](persona_the_demand.md) stand at the doorway as [the two sides](piece_the_two_sides.md), both looking in at the same empty floor, each waiting for the other to enter first.
 
 ## Action
 

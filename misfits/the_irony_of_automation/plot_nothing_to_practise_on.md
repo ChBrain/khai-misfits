@@ -36,4 +36,4 @@ The hand idle, the task done elsewhere, the skill exercised no more.
 ## Tension
 
 The operator is not slacking, and the skill is going all the same.
-There is no lapse to blame: no one can keep a manual skill with nothing to practise on, and overseeing the machine is exactly the job now asked. But a skill unused decays, so the plot closes with the operator still called the expert backup while the hand that could once do the work by itself grows rusty, unnoticed, for want of any doing.
+There is no lapse to blame: no one can keep a manual skill with nothing to practise on, and overseeing the machine is exactly the job now asked. But a skill unused decays, so the plot closes with the operator still called the expert backup while the hand that could once do the work by itself gathers [the rust](piece_the_rust.md), unnoticed, for want of any doing.

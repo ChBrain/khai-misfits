@@ -31,7 +31,7 @@ The opposing view turning up less each session, and the reader, meeting only the
 ## Stage
 
 [The Feed](persona_the_feed.md), still on [Give Them More](plan_give_them_more.md), reads the reader's passing-over and demotes the opposing view until it drops from the feed entirely.
-[The Unheard](persona_the_unheard.md), on [Offer the Other Side](plan_offer_the_other_side.md), offers the challenging and the opposing and is skipped, disappearing unbanned, having lost no argument.
+[The Unheard](persona_the_unheard.md), on [Offer the Other Side](plan_offer_the_other_side.md), offers the challenging and the opposing and is skipped, vanishing into [the fragmenting](piece_the_fragmenting.md), unbanned and having lost no argument.
 
 ## Tension
 

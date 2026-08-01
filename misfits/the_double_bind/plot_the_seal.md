@@ -31,7 +31,7 @@ The contradiction sensed by all, the rule against naming it in force, the bond t
 ## Stage
 
 [The Bystander](persona_the_bystander.md), on [Keep the Peace](plan_keep_the_peace.md), senses the contradiction and lets it lie, smoothing the moment and holding the household together.
-[The Bound](persona_the_bound.md), on [Please Them Both](plan_please_them_both.md), would name what is happening but the rule forbids it and the bond forbids leaving, so the question dies before it is asked.
+[The Bound](persona_the_bound.md), on [Please Them Both](plan_please_them_both.md), would name what is happening but [the gag](piece_the_gag.md) forbids it and [the bond](piece_the_bond.md) forbids leaving, so the question dies before it is asked.
 
 ## Tension
 

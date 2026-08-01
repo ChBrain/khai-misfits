@@ -36,4 +36,4 @@ The best prize of the day on offer, worth more to each hunter than any hare, nee
 ## Tension
 
 The best outcome is right there, wanted by everyone, and hanging on every hand at once.
-There is no conflict of aims to find: each hunter genuinely prefers the stag, and holding for it is the best reply to the others holding. But the prize pays only if all stay, so its whole worth rests on a trust not yet tested, and the plot closes with the great catch on offer and its fate already resting not on what anyone wants but on what each will come to believe of the rest.
+There is no conflict of aims to find: each hunter genuinely prefers the stag, and holding for it is the best reply to the others holding. But the prize pays only if all stay, so its whole worth rests on a trust not yet tested, and the plot closes with [the fork](piece_the_fork.md) open, the great catch on offer and its fate already resting not on what anyone wants but on what each will come to believe of the rest.

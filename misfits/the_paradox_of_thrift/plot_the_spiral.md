@@ -31,7 +31,7 @@ Wages and hours and orders trimmed, and the households whose incomes fall now ti
 ## Stage
 
 [The Vendor](persona_the_vendor.md), having tabled [Trim to Sales](plan_trim_to_sales.md), cuts the wages it can no longer meet, and those wages were spending too.
-[The Flow](persona_the_flow.md), on [Carry the Coin](plan_carry_the_coin.md), passes the cut on as another household's fallen income, which tightens next, so the demand drops again and the circle turns downward once more.
+[The Flow](persona_the_flow.md), on [Carry the Coin](plan_carry_the_coin.md), passes the cut on as another household's fallen income, which tightens next, so [the contraction](piece_the_contraction.md) drops demand again and the circle turns downward once more.
 
 ## Tension
 

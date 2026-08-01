@@ -36,4 +36,4 @@ The reliability lulling the watch, the throughput rewarding deference, and a way
 ## Tension
 
 Keeping the judgement live is the one move that catches the rare failure, and it spends attention that is almost always wasted.
-There is nothing to fault: a backstop that only confirms is no backstop, and the Skeptic only keeps it real. But the aid is right almost every time, so the plot closes one of two ways: the vigilance is kept live and the rare failure caught, bought against the daily cost of a check almost always confirmed ... or the check is waived as paranoia and waste, the good machine let work, and the seat stays empty for the day it fails.
+There is nothing to fault: [the backstop](piece_the_backstop.md) that only confirms is no backstop, and the Skeptic only keeps it real. But the aid is right almost every time, so the plot closes one of two ways: the vigilance is kept live and the rare failure caught, bought against the daily cost of a check almost always confirmed ... or the check is waived as paranoia and waste, the good machine let work, and the seat stays empty for the day it fails.

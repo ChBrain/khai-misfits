@@ -22,7 +22,7 @@ stamp:
 ## Cue
 
 [The verge](place_the_verge.md), the thing lost out past the lamp.
-The keys fell in the dark, on ground that gives nothing to a glance and is dear to search, and that is, from the first, exactly where the answer is.
+The keys fell in [the dark](piece_the_dark.md), on ground that gives nothing to a glance and is dear to search, and that is, from the first, exactly where the answer is.
 
 ## Action
 

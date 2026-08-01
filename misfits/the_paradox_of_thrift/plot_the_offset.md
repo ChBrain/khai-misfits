@@ -30,7 +30,7 @@ The saving heavy, the borrowers gone, and the demand that would end the slump wa
 
 ## Stage
 
-[The Spender](persona_the_spender.md), having tabled [Spend Against the Tide](plan_spend_against_the_tide.md), spends into the slump and refills the flow, so the incomes return and the households' thrift turns safe at last.
+[The Spender](persona_the_spender.md), having tabled [Spend Against the Tide](plan_spend_against_the_tide.md), spends [the injection](piece_the_injection.md) into the slump and refills the flow, so the incomes return and the households' thrift turns safe at last.
 [The Hoard](persona_the_hoard.md), still on [Hold the Cash](plan_hold_the_cash.md), stays put, and [The Flow](persona_the_flow.md), on [Carry the Coin](plan_carry_the_coin.md), carries the injected demand round as wages that fill the tills again.
 
 ## Tension

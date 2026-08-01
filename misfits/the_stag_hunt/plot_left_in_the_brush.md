@@ -30,7 +30,7 @@ Whoever held for it left in the brush with nothing, the prize gone, while the ha
 
 ## Stage
 
-[The Hunter](persona_the_hunter.md), still on [Go for the Stag](plan_go_for_the_stag.md), holds a moment too long and takes neither stag nor hare, the empty hand that every other hunter guarded against.
+[The Hunter](persona_the_hunter.md), still on [Go for the Stag](plan_go_for_the_stag.md), holds a moment too long and takes neither stag nor hare, [the empty hand](piece_the_empty_hand.md) that every other hunter guarded against.
 [The Stag](persona_the_stag.md), on [Hold Out for All](plan_hold_out_for_all.md), pays nothing to the one who stayed, and the party settles for the worse outcome that all of them, in the end, would rather not have.
 
 ## Tension

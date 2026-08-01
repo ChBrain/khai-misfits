@@ -30,7 +30,7 @@ The pressing task in hand, the closable shape ready to shut, the worthy work sit
 
 ## Stage
 
-[The Doer](persona_the_doer.md), on [Take What Falls Due](plan_take_what_falls_due.md), chooses the task that falls due now over the one worth more, meets the deadline, and feels the quick relief of a finished thing.
+[The Doer](persona_the_doer.md), on [Take What Falls Due](plan_take_what_falls_due.md), chooses the task that falls due now over the one worth more, meets the deadline, and feels [the closure](piece_the_closure.md), the quick relief of a finished thing.
 [The Important](persona_the_important.md), on [Wait Its Turn](plan_wait_its_turn.md), makes no claim and closes no loop, so it gives the Doer no reason today that it must be done today.
 
 ## Tension

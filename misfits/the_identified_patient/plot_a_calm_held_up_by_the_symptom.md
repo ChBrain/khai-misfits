@@ -36,4 +36,4 @@ The trouble in the one steadying the whole, the conflict detoured, the members u
 ## Tension
 
 The calm the symptom brings is real and welcome, and the calm depends on a member who must not get well.
-There is nothing to fault: a frightened family is genuinely steadied by a shared trouble to gather round. But the steadiness is built on the patient's staying ill, so the plot closes with the family settled into a balance held up by the one, its peace resisting the very recovery it says it wants.
+There is nothing to fault: a frightened family is genuinely steadied by a shared trouble to gather round. But the steadiness is built on the patient's staying ill, so the plot closes with the family settled into [the balance](piece_the_balance.md) held up by the one, its peace resisting the very recovery it says it wants.

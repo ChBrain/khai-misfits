@@ -31,7 +31,7 @@ The distribution laid out in the corpus, its middle dense and its tails sparse, 
 ## Stage
 
 [The Trainer](persona_the_trainer.md), on [Train on What's There](plan_train_on_whats_there.md), assembles the abundant corpus and hands it to the model, taking the data at hand as the world.
-[The Model](persona_the_model.md), on [Generate the Likely](plan_generate_the_likely.md), learns the dense middle in full and the sparse tails barely, ready to give back a world a shade narrower than it saw.
+[The Model](persona_the_model.md), on [Generate the Likely](plan_generate_the_likely.md), learns [the distribution](piece_the_distribution.md), its dense middle in full and its sparse tails barely, ready to give back a world a shade narrower than it saw.
 
 ## Tension
 

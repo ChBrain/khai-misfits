@@ -30,7 +30,7 @@ The tails thinning, and the means to hold back genuine data and mark provenance 
 
 ## Stage
 
-[The Wellkeeper](persona_the_wellkeeper.md), having tabled [Keep the Well](plan_keep_the_well.md), holds back genuine human data, marks its provenance, and blends the real into training so no model drinks output alone.
+[The Wellkeeper](persona_the_wellkeeper.md), having tabled [Keep the Well](plan_keep_the_well.md), holds back [the real well](piece_the_real_well.md) of genuine human data, marks its provenance, and blends the real into training so no model drinks output alone.
 [The Trainer](persona_the_trainer.md), still on [Train on What's There](plan_train_on_whats_there.md), feels every reason the free pool is cheaper, and any builder who drinks it while others keep the well comes out ahead.
 
 ## Tension

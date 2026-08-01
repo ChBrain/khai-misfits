@@ -30,7 +30,7 @@ The call inviting and the frame forbidding, the bond making an answer feel neces
 
 ## Stage
 
-[The Bound](persona_the_bound.md), on [Please Them Both](plan_please_them_both.md), reaches for the response that will finally be right, and finds that coming close hits the flinch and holding back refuses the call.
+[The Bound](persona_the_bound.md), on [Please Them Both](plan_please_them_both.md), reaches for the response that will finally be right, and finds [the no-win](piece_the_no_win.md), coming close hits the flinch and holding back refuses the call.
 [The Binder](persona_the_binder.md), on [Send Both at Once](plan_send_both_at_once.md), feels the need unmet again and asks again, harder, never seeing the ask contains its own refusal.
 
 ## Tension

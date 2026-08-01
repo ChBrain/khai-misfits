@@ -30,7 +30,7 @@ The strain real and unspoken, the whole it might break too dear to risk, the ten
 
 ## Stage
 
-[The Kin](persona_the_kin.md), on [Hold It Together](plan_hold_it_together.md), keeps the family whole by not looking at the rift that runs through it, because to name it might break the thing apart.
+[The Kin](persona_the_kin.md), on [Hold It Together](plan_hold_it_together.md), keeps the family whole by not looking at [the fracture](piece_the_fracture.md) that runs through it, because to name it might break the thing apart.
 The strain finds no place in the open and no words at the hearth, so the tension gathers, unspoken and rising, and starts to seek somewhere to go.
 
 ## Tension

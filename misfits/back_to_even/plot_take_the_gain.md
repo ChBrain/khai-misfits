@@ -29,7 +29,7 @@ At [The Book](place_the_book.md), a holding risen above the price paid, a gain n
 
 ## Stage
 
-Over a gain people are risk-averse, preferring the sure thing to the gamble of holding, so the winner is cashed early (Tversky and Kahneman; Shefrin and Statman). Nothing greedy in it, only the shape of the value function: the same investor who will gamble on a loser here takes the safe road, and each choice alone looks sound.
+Over a gain people are risk-averse, preferring the sure thing to the gamble of holding, so the winner is cashed early (Tversky and Kahneman; Shefrin and Statman). Nothing greedy in it, only [the turn](piece_the_turn.md) in the shape of the value function: the same investor who will gamble on a loser here takes the safe road, and each choice alone looks sound.
 
 ## Tension
 

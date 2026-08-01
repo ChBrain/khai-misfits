@@ -31,7 +31,7 @@ The binder wanting closeness and dreading it, the bound one within reach, the do
 ## Stage
 
 [The Binder](persona_the_binder.md), on [Send Both at Once](plan_send_both_at_once.md), calls for the closeness they want and flinches from it in the same breath, the wish and the fear leaving together on the message.
-[The Bound](persona_the_bound.md), on [Please Them Both](plan_please_them_both.md), takes in both demands at once, the words inviting and the frame forbidding, and feels the pull to answer.
+[The Bound](persona_the_bound.md), on [Please Them Both](plan_please_them_both.md), takes in [the double message](piece_the_double_message.md) at once, the words inviting and the frame forbidding, and feels the pull to answer.
 
 ## Tension
 

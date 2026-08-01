@@ -30,7 +30,7 @@ The remaining error is noise, and the score keeps falling as the model reaches f
 
 ## Stage
 
-[The Particulars](persona_the_particulars.md) tables [Pass for Signal](plan_pass_for_signal.md) and is taken into the model as though it were law, lowering the error and waiting to be absent next draw.
+[The Particulars](persona_the_particulars.md) tables [Pass for Signal](plan_pass_for_signal.md) and becomes [the memorised sample](piece_the_memorised_sample.md), taken into the model as though it were law, lowering the error and waiting to be absent next draw.
 [The Agreeable Number](persona_the_agreeable_number.md) tables [Reward Every Fit](plan_reward_every_fit.md) and drops on, so [the fit](piece_the_fit.md) tightens past [the signal](piece_the_signal.md) and [the noise](piece_the_noise.md) is banked as if it were signal.
 
 ## Tension

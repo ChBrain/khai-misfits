@@ -30,8 +30,8 @@ The wildest demand in the line, arriving after the wobble that set it moving has
 
 ## Stage
 
-[The Factory](persona_the_factory.md), having tabled [Chase the Swing](plan_chase_the_swing.md), runs overtime into the surge and then idles the line when it collapses, glut then shortage in the warehouse.
-[The Signal](persona_the_signal.md), on [Pass It Up](plan_pass_it_up.md), hands it the most amplified order on a lag, so each correction lands after the demand it aimed at is gone.
+[The Factory](persona_the_factory.md), having tabled [Chase the Swing](plan_chase_the_swing.md), runs overtime into the surge and then idles the line when it collapses, [the wave](piece_the_wave.md) of glut then shortage in the warehouse.
+[The Signal](persona_the_signal.md), on [Pass It Up](plan_pass_it_up.md), hands it the most amplified order on [the lag](piece_the_lag.md), so each correction lands after the demand it aimed at is gone.
 
 ## Tension
 
