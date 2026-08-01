@@ -1,5 +1,0 @@
----
-"@chbrain/khai-misfits": minor
----
-
-Add the misfit Larger in the Looking, a staging of the focusing illusion: when people judge how much a single factor bears on their well-being, the very act of attending to it magnifies its apparent importance, so they overweight it and mispredict how much it will matter, since in the living it will be one of many things and rarely in focus, nothing in life as important as it seems while it is being thought about, no villain required since to weigh a factor a mind must attend to it and a factor attended to looms, so the asker asks innocently and the judge does the only thing a mind can to gauge importance. Held against its bound and hedged: the factor is not nothing but smaller in the living than in the judging, and the illusion is a documented bias in the judgments made while the factor is salient, not a proof that the factor never matters, since income does raise reported satisfaction somewhat and a warm climate is a real good, so the house stages the overweighting under attention and holds that the factor has a real but smaller effect than the focused judgment gives it.

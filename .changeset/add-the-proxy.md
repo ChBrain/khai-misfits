@@ -1,5 +1,0 @@
----
-"@chbrain/khai-misfits": minor
----
-
-Add The Proxy misfit (statistical discrimination). When an agent cannot cheaply see an individual's quality, it prices them by the average of their group, so the member of a low-rated group earns a discounted return on any costly signal, rationally invests less in it, and the group's real average falls to meet the rating, the assumed average becoming the produced average and the prior confirming itself, while the genuinely able member is priced by the group and cannot signal free of it because the signal is discounted too. Villain-less and remedy-costly: no bigot is needed, and subsidised entry can be discounted by the same rational updating into a patronising equilibrium. Warranted on Phelps (1972), Arrow (1973), Becker (1957, the taste-based contrast), Coate & Loury (1993), and Aigner & Cain (1977); cut explicitly against The Market for Lemons (self-fulfilling prior, not adverse selection driving the good out) and taste-based discrimination (no animus, no forgone profit). Second target of the season-slate refill.

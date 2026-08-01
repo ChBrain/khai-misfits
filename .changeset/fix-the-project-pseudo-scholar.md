@@ -1,5 +1,0 @@
----
-"@chbrain/khai-misfits": patch
----
-
-Correct a pseudo-scholar in the science index. Sharper and Further Apart carried an Origin row whose Source cell read "Dan Kahan and the Cultural Cognition Project (Yale)", which the science index's forward map parsed as an author list and keyed on its final word, manufacturing a scholar named **Project** and filing the row under it rather than under Kahan, who already appears in the index from the same misfit's spine row. This is the same class of fault the house corrected once before in The Double Bind, where a scope label shaped like a two-author cell produced a pseudo-scholar named Escape. The Source cell now names the person and the Key Work column carries the programme, so the row merges under Kahan where it belongs and the Project entry is gone. No staging changes and no citation changes: the same work is credited to the same people, and only the column it sits in has moved. A sweep of all nine hundred and forty-three scholar keys found no other artefact of this kind introduced by the recent batch, and confirmed that Source cells ending "and colleagues" parse cleanly.
