@@ -30,7 +30,7 @@ A room in which each player is forecasting the others, and each knows the others
 
 ## Stage
 
-[The Speculator](persona_the_speculator.md) and [the Crowd](persona_the_crowd.md), each guessing a room made of guessers, climb [the tower](piece_the_tower.md) from the first degree to the second to the third, and the price becomes a weighted average of expectations of expectations.
+[The Speculator](persona_the_speculator.md), from [the the table's seat](position_the_table.md), and [the Crowd](persona_the_crowd.md), from [the the field's seat](position_the_field.md), each guessing a room made of guessers, climb [the tower](piece_the_tower.md) from the first degree to the second to the third, and the price becomes a weighted average of expectations of expectations.
 No one is being irrational: each correctly assumes the others reason as they do, and reasons one step further.
 
 ## Tension

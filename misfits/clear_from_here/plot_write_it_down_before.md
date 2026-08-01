@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Recorder](persona_the_recorder.md) on [Log It Before You Know](plan_log_it_before_you_know.md) through [Logging](process_logging.md) holds [the Boundary](piece_the_boundary.md): record what is expected, with what confidence, and which alternatives are live, at the time, and seal it, since recollection provably will not serve and even the decider's own memory drifts toward what happened. The price is itemised: upkeep across every decision that might one day be reviewed and mostly will not be, entries composed by someone who knows they may be read at an inquiry, and a log that can be added to being a log that can be furnished. The scene closes with the gap narrowed at a standing cost and not closed (Fischhoff and Beyth).
+[The Recorder](persona_the_recorder.md), from [the recorder's seat](position_recorder.md), on [Log It Before You Know](plan_log_it_before_you_know.md) through [Logging](process_logging.md) holds [the Boundary](piece_the_boundary.md): record what is expected, with what confidence, and which alternatives are live, at the time, and seal it, since recollection provably will not serve and even the decider's own memory drifts toward what happened. The price is itemised: upkeep across every decision that might one day be reviewed and mostly will not be, entries composed by someone who knows they may be read at an inquiry, and a log that can be added to being a log that can be furnished. The scene closes with the gap narrowed at a standing cost and not closed (Fischhoff and Beyth).
 
 ## Stage
 

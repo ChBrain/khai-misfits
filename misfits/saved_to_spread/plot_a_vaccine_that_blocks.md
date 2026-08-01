@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Designer](persona_the_designer.md) on [Block the Spread](plan_block_the_spread.md) through [Sterilizing](process_sterilizing.md) holds [The Boundary](piece_the_boundary.md): a sterilizing vaccine that blocks transmission removes the selection pressure and does not drive virulence up, but it is harder to make and not available for every pathogen, and where only a leaky vaccine exists the right choice is still to use it. The scene closes with the hazard avoidable by design at a cost, the trap bounded and the vaccine still life-saving (Read and colleagues; Gandon and colleagues).
+[The Designer](persona_the_designer.md), from [the designer's seat](position_designer.md), on [Block the Spread](plan_block_the_spread.md) through [Sterilizing](process_sterilizing.md) holds [The Boundary](piece_the_boundary.md): a sterilizing vaccine that blocks transmission removes the selection pressure and does not drive virulence up, but it is harder to make and not available for every pathogen, and where only a leaky vaccine exists the right choice is still to use it. The scene closes with the hazard avoidable by design at a cost, the trap bounded and the vaccine still life-saving (Read and colleagues; Gandon and colleagues).
 
 ## Stage
 

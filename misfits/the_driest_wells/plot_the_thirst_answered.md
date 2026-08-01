@@ -30,7 +30,7 @@ A reader of the map of thirst rather than the map of coin, moving to place a wel
 
 ## Stage
 
-[The Diviner](persona_the_diviner.md) sinks the well on [the Hardpan](place_the_hardpan.md), on [Sink Where the Thirst Is](plan_sink_where_the_thirst_is.md), shielding it from [the open market](piece_the_open_market.md) and staffing the grim ground, setting right the stretch of [the backward map](piece_the_backward_map.md) that [the gradient](piece_the_gradient.md) had laid wrong.
+[The Diviner](persona_the_diviner.md), from [the the divining's seat](position_the_divining.md), sinks the well on [the Hardpan](place_the_hardpan.md), on [Sink Where the Thirst Is](plan_sink_where_the_thirst_is.md), shielding it from [the open market](piece_the_open_market.md) and staffing the grim ground, setting right the stretch of [the backward map](piece_the_backward_map.md) that [the gradient](piece_the_gradient.md) had laid wrong.
 The water is real, and the well leans always toward the slope it was pulled from.
 
 ## Tension

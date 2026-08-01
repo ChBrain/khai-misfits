@@ -30,7 +30,7 @@ An auctioneer offering a real bargain, and a bidder seeing free money and no cos
 
 ## Stage
 
-[The Auctioneer](persona_the_auctioneer.md), on [Run the Sale](plan_run_the_sale.md), offers [the prize](piece_the_prize.md) under [the all-pay](piece_the_all_pay.md) and states the terms plainly, and two bidders cross into the game for a nickel and a large-looking gain.
+[The Auctioneer](persona_the_auctioneer.md), from [the the block's seat](position_the_block.md), on [Run the Sale](plan_run_the_sale.md), offers [the prize](piece_the_prize.md) under [the all-pay](piece_the_all_pay.md) and states the terms plainly, and two bidders cross into the game for a nickel and a large-looking gain.
 Nothing is hidden and the bargain is real, and stepping in is the one move that cannot be undone at the price it cost.
 
 ## Tension

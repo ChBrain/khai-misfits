@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Sponsor](persona_the_sponsor.md) on [Cover the Gap](plan_cover_the_gap.md) through [Underwriting](process_underwriting.md) holds [The Boundary](piece_the_boundary.md): an outside dollar can pay each side its rent and clear the trade, but the books no longer balance, and where information is one-sided, a value is known, or the gain is guaranteed, the trap lifts with no dollar at all. The scene closes with efficiency bought only at a subsidy, and the trap shown real but bounded.
+[The Sponsor](persona_the_sponsor.md), from [the sponsor's seat](position_sponsor.md), on [Cover the Gap](plan_cover_the_gap.md) through [Underwriting](process_underwriting.md) holds [The Boundary](piece_the_boundary.md): an outside dollar can pay each side its rent and clear the trade, but the books no longer balance, and where information is one-sided, a value is known, or the gain is guaranteed, the trap lifts with no dollar at all. The scene closes with efficiency bought only at a subsidy, and the trap shown real but bounded.
 
 ## Stage
 

@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Broker](persona_the_broker.md) on [Find the Rule](plan_find_the_rule.md) runs [Clearing](process_clearing.md), designing for honest reports by the revelation principle, and meets [The Rent](piece_the_rent.md): to make the buyer admit a high value and the seller a low cost, the rule must leave each a slice of the gain. The scene closes with the broker out of rules, since on the marginal trade the two slices together exceed the gain, so efficient, voluntary, truthful, and self-funding cannot all be kept and one must give (Myerson and Satterthwaite).
+[The Broker](persona_the_broker.md), from [the broker's seat](position_broker.md), on [Find the Rule](plan_find_the_rule.md) runs [Clearing](process_clearing.md), designing for honest reports by the revelation principle, and meets [The Rent](piece_the_rent.md): to make the buyer admit a high value and the seller a low cost, the rule must leave each a slice of the gain. The scene closes with the broker out of rules, since on the marginal trade the two slices together exceed the gain, so efficient, voluntary, truthful, and self-funding cannot all be kept and one must give (Myerson and Satterthwaite).
 
 ## Stage
 

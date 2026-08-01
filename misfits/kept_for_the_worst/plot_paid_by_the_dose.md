@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Paying](process_paying.md), [the Payer](persona_the_payer.md) on [Get Value for the Budget](plan_get_value_for_the_budget.md) sets [the Tariff](piece_the_tariff.md): reimbursement per course, invoices checked against the dispensing record, and nothing paid for stock nobody took. The scene closes with an arrangement nobody designed to punish anyone, which is simply what buying things looks like, and which exists to stop a public budget paying for shelf-warmers.
+Through [Paying](process_paying.md), [the Payer](persona_the_payer.md), from [the payer's seat](position_payer.md), on [Get Value for the Budget](plan_get_value_for_the_budget.md) sets [the Tariff](piece_the_tariff.md): reimbursement per course, invoices checked against the dispensing record, and nothing paid for stock nobody took. The scene closes with an arrangement nobody designed to punish anyone, which is simply what buying things looks like, and which exists to stop a public budget paying for shelf-warmers.
 
 ## Stage
 

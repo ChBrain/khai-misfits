@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Extracting](process_extracting.md), [the Owner](persona_the_owner.md) on [Sell Before the Buyer Goes](plan_sell_before_the_buyer_goes.md) produces [the Acceleration](piece_the_acceleration.md): the field goes into production in the year the date was set, and the plan is to lift over fifteen years what would have been lifted over forty. The investment case cites the announcement openly, in documents anyone can read. The scene closes with nobody defying anything, the owner having believed the policy exactly as it asked to be believed (Sinn).
+Through [Extracting](process_extracting.md), [the Owner](persona_the_owner.md), from [the owner's seat](position_owner.md), on [Sell Before the Buyer Goes](plan_sell_before_the_buyer_goes.md) produces [the Acceleration](piece_the_acceleration.md): the field goes into production in the year the date was set, and the plan is to lift over fifteen years what would have been lifted over forty. The investment case cites the announcement openly, in documents anyone can read. The scene closes with nobody defying anything, the owner having believed the policy exactly as it asked to be believed (Sinn).
 
 ## Stage
 

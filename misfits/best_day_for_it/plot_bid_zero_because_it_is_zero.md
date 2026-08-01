@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Clearing](process_clearing.md), [the Operator](persona_the_operator.md) on [Dispatch the Cheapest First](plan_dispatch_the_cheapest_first.md) sets [the Zero Bid](piece_the_zero_bid.md): a plant with no fuel has no marginal cost to recover, so zero is a true statement rather than a tactic, and the operator takes the cheapest first because that is what a merit order is for. The scene closes with the clearing price at the bottom of the stack in exactly the hours the fleet is producing, arrived at by two entirely correct behaviours with no misconduct anywhere (Sensfuss, Ragwitz and Genoese).
+Through [Clearing](process_clearing.md), [the Operator](persona_the_operator.md), from [the operator's seat](position_operator.md), on [Dispatch the Cheapest First](plan_dispatch_the_cheapest_first.md) sets [the Zero Bid](piece_the_zero_bid.md): a plant with no fuel has no marginal cost to recover, so zero is a true statement rather than a tactic, and the operator takes the cheapest first because that is what a merit order is for. The scene closes with the clearing price at the bottom of the stack in exactly the hours the fleet is producing, arrived at by two entirely correct behaviours with no misconduct anywhere (Sensfuss, Ragwitz and Genoese).
 
 ## Stage
 

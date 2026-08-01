@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Nudging](process_nudging.md), [The Seller](persona_the_seller.md) on [Raise It a Hair](plan_raise_it_a_hair.md) sets [The Nudge](piece_the_nudge.md): it lifts its price from the competitive level by a hair, by less than the cost of looking, so small that no shopper will pay to walk away from it. The scene closes with the higher price set and no one yet with a reason to leave (Diamond).
+Through [Nudging](process_nudging.md), [The Seller](persona_the_seller.md), from [the seller's seat](position_seller.md), on [Raise It a Hair](plan_raise_it_a_hair.md) sets [The Nudge](piece_the_nudge.md): it lifts its price from the competitive level by a hair, by less than the cost of looking, so small that no shopper will pay to walk away from it. The scene closes with the higher price set and no one yet with a reason to leave (Diamond).
 
 ## Stage
 

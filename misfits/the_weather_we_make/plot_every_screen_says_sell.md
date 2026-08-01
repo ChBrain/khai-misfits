@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Unwinding](process_unwinding.md), [the Desk](persona_the_desk.md) on [Stay Inside the Limit](plan_stay_inside_the_limit.md) meets [the Rush](piece_the_rush.md): the model correctly reports that risk has risen, because it has, the limit binds, and the position is reduced at once. There is no deliberation, since hesitation is criticised and a breach is a removal. The scene closes with the same instruction arriving on every desk running the same model in the same hour, and each desk seeing only its own screen and a price beginning to move.
+Through [Unwinding](process_unwinding.md), [the Desk](persona_the_desk.md), from [the desk's seat](position_desk.md), on [Stay Inside the Limit](plan_stay_inside_the_limit.md) meets [the Rush](piece_the_rush.md): the model correctly reports that risk has risen, because it has, the limit binds, and the position is reduced at once. There is no deliberation, since hesitation is criticised and a breach is a removal. The scene closes with the same instruction arriving on every desk running the same model in the same hour, and each desk seeing only its own screen and a price beginning to move.
 
 ## Stage
 

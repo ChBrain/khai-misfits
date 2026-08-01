@@ -29,7 +29,7 @@ stamp:
 
 ## Stage
 
-[The Inspector](persona_the_inspector.md), on [Pass the Check](plan_pass_the_check.md), measures the stress against the strength and certifies it sound, finding, honestly, nothing to fault.
+[The Inspector](persona_the_inspector.md), from [the inspector's seat](position_inspector.md), on [Pass the Check](plan_pass_the_check.md), measures the stress against the strength and certifies it sound, finding, honestly, nothing to fault.
 [The Part](persona_the_part.md), on [Bear the Load](plan_bear_the_load.md), carries the application within its limits and gives the check nothing to find, [the passed check](piece_the_passed_check.md) entered and the reserve intact.
 
 ## Tension

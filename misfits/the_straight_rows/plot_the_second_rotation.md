@@ -30,7 +30,7 @@ A successor running the proven plan faithfully, and a soil that has nothing left
 
 ## Stage
 
-[The Successor](persona_the_successor.md), on [Run the Map](plan_run_the_map.md), works [the legible order](piece_the_legible_order.md) exactly as designed with [the mētis](piece_the_metis.md) gone, and the heavy first [yield](piece_the_yield.md) gives way to [the blight](piece_the_blight.md), the second rotation sick and the worst of the third dead.
+[The Successor](persona_the_successor.md), from [the the aftermath's seat](position_the_aftermath.md), on [Run the Map](plan_run_the_map.md), works [the legible order](piece_the_legible_order.md) exactly as designed with [the mētis](piece_the_metis.md) gone, and the heavy first [yield](piece_the_yield.md) gives way to [the blight](piece_the_blight.md), the second rotation sick and the worst of the third dead.
 The plan was followed to the letter, and the letter had cleared its own ground.
 
 ## Tension

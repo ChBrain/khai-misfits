@@ -26,7 +26,7 @@ The press runs for the issuer's own economy; the ledger it feeds is read by ever
 
 ## Action
 
-[The Issuer](persona_the_issuer.md), from [the issuer's seat](position_issuer.md), issues [the Reserve Asset](piece_the_reserve_asset.md), the same currency asked to serve as domestic money and as the world's store of reserves at once, while [the World](persona_the_world.md) presses [the World's Thirst](piece_the_worlds_thirst.md) against it, a growing economy's standing need for more of it to hold.
+[The Issuer](persona_the_issuer.md), from [the issuer's seat](position_issuer.md), issues [the Reserve Asset](piece_the_reserve_asset.md), the same currency asked to serve as domestic money and as the world's store of reserves at once, while [the World](persona_the_world.md), from [the world's seat](position_world.md), presses [the World's Thirst](piece_the_worlds_thirst.md) against it, a growing economy's standing need for more of it to hold.
 
 ## Stage
 

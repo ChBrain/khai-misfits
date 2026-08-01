@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Streaming](process_streaming.md), [The Petitioner](persona_the_petitioner.md) carries [The Problem](piece_the_problem.md) looking for a forum and [The Peddler](persona_the_peddler.md) carries [The Solution](piece_the_solution.md) looking for a use, each drifting on its own timing while participants come and go and choice opportunities open elsewhere. The scene closes with problems, solutions, participants, and choice opportunities all flowing independently, no march linking them (Cohen, March, and Olsen).
+Through [Streaming](process_streaming.md), [The Petitioner](persona_the_petitioner.md), from [the petitioner's seat](position_petitioner.md), carries [The Problem](piece_the_problem.md) looking for a forum and [The Peddler](persona_the_peddler.md) carries [The Solution](piece_the_solution.md) looking for a use, each drifting on its own timing while participants come and go and choice opportunities open elsewhere. The scene closes with problems, solutions, participants, and choice opportunities all flowing independently, no march linking them (Cohen, March, and Olsen).
 
 ## Stage
 

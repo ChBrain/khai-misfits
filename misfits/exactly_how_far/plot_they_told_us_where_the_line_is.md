@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Reading](process_reading.md), [the Adversary](persona_the_adversary.md) on [Read What They Wrote](plan_read_what_they_wrote.md) takes [the Published Map](piece_the_published_map.md) as intelligence: two lists are drawn up, one of what is covered and one of what is not, and only the second is worked in. The omissions are treated as deliberate, because a guarantee naming everything would guarantee nothing and whoever drafted this had to leave something out. The scene closes with a move sited exactly where the words stop, and with the treaty citable, accurately, in the justification.
+Through [Reading](process_reading.md), [the Adversary](persona_the_adversary.md), from [the adversary's seat](position_adversary.md), on [Read What They Wrote](plan_read_what_they_wrote.md) takes [the Published Map](piece_the_published_map.md) as intelligence: two lists are drawn up, one of what is covered and one of what is not, and only the second is worked in. The omissions are treated as deliberate, because a guarantee naming everything would guarantee nothing and whoever drafted this had to leave something out. The scene closes with a move sited exactly where the words stop, and with the treaty citable, accurately, in the justification.
 
 ## Stage
 

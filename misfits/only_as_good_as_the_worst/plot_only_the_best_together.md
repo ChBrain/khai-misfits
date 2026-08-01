@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Firm](persona_the_firm.md), from [the firm's seat](position_firm.md), runs [No Weak Links](plan_no_weak_links.md) through [Matching](process_matching.md), taking [The Match](piece_the_match.md): admitting only high-quality inputs and pairing skill with skill, because a skilled worker adds far more value beside other skilled workers than beside a weak link who would multiply the whole chain down. Beside it, [The Skilled](persona_the_skilled.md) runs [Keep Good Company](plan_keep_good_company.md), seeking out the peers where its own quality is worth the most. The scene closes with high matched to high and low matched to low, each side sorting toward the pairing that maximises value.
+[The Firm](persona_the_firm.md), from [the firm's seat](position_firm.md), runs [No Weak Links](plan_no_weak_links.md) through [Matching](process_matching.md), taking [The Match](piece_the_match.md): admitting only high-quality inputs and pairing skill with skill, because a skilled worker adds far more value beside other skilled workers than beside a weak link who would multiply the whole chain down. Beside it, [The Skilled](persona_the_skilled.md), from [the skilled's seat](position_skilled.md), runs [Keep Good Company](plan_keep_good_company.md), seeking out the peers where its own quality is worth the most. The scene closes with high matched to high and low matched to low, each side sorting toward the pairing that maximises value.
 
 ## Stage
 

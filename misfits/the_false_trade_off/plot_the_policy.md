@@ -30,7 +30,7 @@ A decider with a clear finding, and the power to retune the gate to what the ana
 
 ## Stage
 
-[The Decider](persona_the_decider.md), on [Act on the Finding](plan_act_on_the_finding.md), screens on one of [the traits](piece_the_traits.md) believing [the trade-off](piece_the_trade_off.md), and stops admitting the compensating units the wide gate let through, against [the independence](piece_the_independence.md) the world actually holds, so the outcome comes in flat or worse.
+[The Decider](persona_the_decider.md), from [the the call's seat](position_the_call.md), on [Act on the Finding](plan_act_on_the_finding.md), screens on one of [the traits](piece_the_traits.md) believing [the trade-off](piece_the_trade_off.md), and stops admitting the compensating units the wide gate let through, against [the independence](piece_the_independence.md) the world actually holds, so the outcome comes in flat or worse.
 The decision is sound on the finding, and the finding was a shadow.
 
 ## Tension

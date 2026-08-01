@@ -31,7 +31,7 @@ The slip come to its reckoning: [the coverage](piece_the_coverage.md) falls belo
 ## Stage
 
 The coverage, thinned shot by unrenewed shot, drops under the line, and the disease that was gone comes back, [the gap](piece_the_gap.md) between voluntary and protective coverage surfacing at last as an outbreak.
-It reaches first and hardest [the susceptible](persona_the_susceptible.md), the infant and the immunocompromised who could take no shot and were living wholly on a coverage the others rationally let fall.
+It reaches first and hardest [the susceptible](persona_the_susceptible.md), from [the susceptible's seat](position_susceptible.md), the infant and the immunocompromised who could take no shot and were living wholly on a coverage the others rationally let fall.
 
 ## Tension
 

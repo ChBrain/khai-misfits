@@ -30,7 +30,7 @@ A response that has adapted to the current amount, the effect faded to a stall, 
 
 ## Stage
 
-[The Driver](persona_the_driver.md) meets the stalled result by raising [the dose](piece_the_dose.md), on [Raise the Dose](plan_raise_the_dose.md), and the larger amount brings [the kick](piece_the_kick.md) back, moving the response that the smaller one had stopped moving.
+[The Driver](persona_the_driver.md), from [the the supply's seat](position_the_supply.md), meets the stalled result by raising [the dose](piece_the_dose.md), on [Raise the Dose](plan_raise_the_dose.md), and the larger amount brings [the kick](piece_the_kick.md) back, moving the response that the smaller one had stopped moving.
 The raise works, and working, it is plainly the right thing to have done.
 
 ## Tension

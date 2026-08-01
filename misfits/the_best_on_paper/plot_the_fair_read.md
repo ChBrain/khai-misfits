@@ -30,7 +30,7 @@ A set of honest appraisals in the making, no slant among them and no thumb on an
 
 ## Stage
 
-[The Analyst](persona_the_analyst.md), on [Value Each Fairly](plan_value_each_fairly.md), assigns each option [a valuation](piece_the_valuation.md) with a mean-zero [error](piece_the_error.md) inside it, honest one option at a time.
+[The Analyst](persona_the_analyst.md), from [the the assay's seat](position_the_assay.md), on [Value Each Fairly](plan_value_each_fairly.md), assigns each option [a valuation](piece_the_valuation.md) with a mean-zero [error](piece_the_error.md) inside it, honest one option at a time.
 The reading is unbiased and beyond reproach, and nothing in it shows that the ranking to come will treat its honest errors as anything but honest.
 
 ## Tension

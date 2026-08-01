@@ -30,7 +30,7 @@ A Baptist who wants the rule for a principle and will argue it in the open, aski
 
 ## Stage
 
-[The Baptist](persona_the_baptist.md), on [Preach the Ban](plan_preach_the_ban.md), argues [the rule](piece_the_rule.md) on [the principle](piece_the_principle.md), and the sincerity of the case lends the law [the cover](piece_the_cover.md) a private interest will shelter behind.
+[The Baptist](persona_the_baptist.md), from [the the pulpit's seat](position_the_pulpit.md), on [Preach the Ban](plan_preach_the_ban.md), argues [the rule](piece_the_rule.md) on [the principle](piece_the_principle.md), and the sincerity of the case lends the law [the cover](piece_the_cover.md) a private interest will shelter behind.
 The conviction is genuine and asks for nothing, and that is exactly what makes it useful.
 
 ## Tension

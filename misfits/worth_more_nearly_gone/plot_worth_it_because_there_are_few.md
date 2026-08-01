@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Pricing](process_pricing.md), [the Collector](persona_the_collector.md) on [Own the Rarest](plan_own_the_rarest.md) sets [the Premium](piece_the_premium.md): it wants this specimen precisely because few exist, so its willingness to pay is keyed to the population and rises as the population falls. The scene closes with the ordinary brake inverted, since a thinned stock is normally protected by becoming unprofitable to work, and here thinning raises the reward instead of the cost (Courchamp, Angulo, Rivalan and colleagues).
+Through [Pricing](process_pricing.md), [the Collector](persona_the_collector.md), from [the collector's seat](position_collector.md), on [Own the Rarest](plan_own_the_rarest.md) sets [the Premium](piece_the_premium.md): it wants this specimen precisely because few exist, so its willingness to pay is keyed to the population and rises as the population falls. The scene closes with the ordinary brake inverted, since a thinned stock is normally protected by becoming unprofitable to work, and here thinning raises the reward instead of the cost (Courchamp, Angulo, Rivalan and colleagues).
 
 ## Stage
 

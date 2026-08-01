@@ -30,7 +30,7 @@ A dose given for the first time, landing on a baseline it has not yet raised, th
 
 ## Stage
 
-[The Driver](persona_the_driver.md) applies the motivator and [the Habituated](persona_the_habituated.md) feels it fully, [the dose](piece_the_dose.md) and [the kick](piece_the_kick.md) matched at their best on a response whose [set-point](piece_the_set_point.md) has not yet moved.
+[The Driver](persona_the_driver.md) applies the motivator and [the Habituated](persona_the_habituated.md), from [the the adaptation's seat](position_the_adaptation.md), feels it fully, [the dose](piece_the_dose.md) and [the kick](piece_the_kick.md) matched at their best on a response whose [set-point](piece_the_set_point.md) has not yet moved.
 The effect is real and complete, and it looks like the plain power of the dose rather than a reading taken before adaptation.
 
 ## Tension

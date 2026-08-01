@@ -30,7 +30,7 @@ A member weighing a costly investment against a payoff their group is offered le
 
 ## Stage
 
-[The Applicant](persona_the_applicant.md), on [Weigh the Return](plan_weigh_the_return.md), reckons [the discount](piece_the_discount.md) on [the signal](piece_the_signal.md) and acquires less of it, answering the return the market actually gives them, so the group's real average quality falls.
+[The Applicant](persona_the_applicant.md), from [the the queue's seat](position_the_queue.md), on [Weigh the Return](plan_weigh_the_return.md), reckons [the discount](piece_the_discount.md) on [the signal](piece_the_signal.md) and acquires less of it, answering the return the market actually gives them, so the group's real average quality falls.
 Each choice is prudent, the sound allocation of effort to the payoff it earns.
 
 ## Tension

@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Architect](persona_the_architect.md) on [Fence the Minority](plan_fence_the_minority.md) through [Fencing](process_fencing.md) holds [The Boundary](piece_the_boundary.md): a quorum lets only the majority act and stands the minority down, and a fencing token turns away a stale primary's writes, buying consistency by surrendering availability on the minority side, and the trap lifts where the network holds or the workload can reconcile later. The scene closes with the fork prevented at the price of availability, the trap bounded (Brewer; Gilbert and Lynch; Lamport).
+[The Architect](persona_the_architect.md), from [the architect's seat](position_architect.md), on [Fence the Minority](plan_fence_the_minority.md) through [Fencing](process_fencing.md) holds [The Boundary](piece_the_boundary.md): a quorum lets only the majority act and stands the minority down, and a fencing token turns away a stale primary's writes, buying consistency by surrendering availability on the minority side, and the trap lifts where the network holds or the workload can reconcile later. The scene closes with the fork prevented at the price of availability, the trap bounded (Brewer; Gilbert and Lynch; Lamport).
 
 ## Stage
 

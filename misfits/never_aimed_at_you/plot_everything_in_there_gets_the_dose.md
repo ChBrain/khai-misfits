@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Exposing](process_exposing.md), [the Patient](persona_the_patient.md) on [Finish the Course](plan_finish_the_course.md) sets [the Organism Nobody Is Treating](piece_the_organism_nobody_is_treating.md): the pneumococcus in the throat, the staphylococcus on the skin, the enterobacteria in the gut, none of them causing anything, all of them selected on, and the survivors staying. The course is completed exactly as instructed. The scene closes with the community not returning to what it was, and with nobody in the encounter having felt, seen or recorded any of it (Dethlefsen and Relman).
+Through [Exposing](process_exposing.md), [the Patient](persona_the_patient.md), from [the patient's seat](position_patient.md), on [Finish the Course](plan_finish_the_course.md) sets [the Organism Nobody Is Treating](piece_the_organism_nobody_is_treating.md): the pneumococcus in the throat, the staphylococcus on the skin, the enterobacteria in the gut, none of them causing anything, all of them selected on, and the survivors staying. The course is completed exactly as instructed. The scene closes with the community not returning to what it was, and with nobody in the encounter having felt, seen or recorded any of it (Dethlefsen and Relman).
 
 ## Stage
 

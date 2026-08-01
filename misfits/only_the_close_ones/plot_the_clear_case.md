@@ -30,7 +30,7 @@ A case plain enough that each party reads it the same way, and the question of w
 
 ## Stage
 
-[The Litigant](persona_the_litigant.md) settles the clear case at [the Table](place_the_table.md), on [Settle the Sure Ones](plan_settle_the_sure_ones.md), working [the sieve](piece_the_sieve.md) so the predictable dispute drops into [the settled](place_the_settled.md) as [the unlitigated](piece_the_unlitigated.md), never reaching a court.
+[The Litigant](persona_the_litigant.md), from [the the settlement's seat](position_the_settlement.md), settles the clear case at [the Table](place_the_table.md), on [Settle the Sure Ones](plan_settle_the_sure_ones.md), working [the sieve](piece_the_sieve.md) so the predictable dispute drops into [the settled](place_the_settled.md) as [the unlitigated](piece_the_unlitigated.md), never reaching a court.
 The settlement is cheap and sensible, and it removes exactly the case whose known outcome would have shown the pattern.
 
 ## Tension

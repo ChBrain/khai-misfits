@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Exiting](process_exiting.md), [the Board](persona_the_board.md) on [Put the Money Where It Returns](plan_put_the_money_where_it_returns.md) produces [the Exit](piece_the_exit.md): a short acute course against a flat market, set beside a chronic therapy in a growing indication, and the antibacterial work is closed. The novel-mechanism projects go first, because those are the dearest to pursue. The scene closes with a duty discharged that the board would be criticised for neglecting, and with the honest remark that it wishes the work paid (Projan).
+Through [Exiting](process_exiting.md), [the Board](persona_the_board.md), from [the board's seat](position_board.md), on [Put the Money Where It Returns](plan_put_the_money_where_it_returns.md) produces [the Exit](piece_the_exit.md): a short acute course against a flat market, set beside a chronic therapy in a growing indication, and the antibacterial work is closed. The novel-mechanism projects go first, because those are the dearest to pursue. The scene closes with a duty discharged that the board would be criticised for neglecting, and with the honest remark that it wishes the work paid (Projan).
 
 ## Stage
 

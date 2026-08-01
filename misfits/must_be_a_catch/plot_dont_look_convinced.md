@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Disciplining](process_disciplining.md), [the Base](persona_the_base.md) on [Punish the Soft Read](plan_punish_the_soft_read.md) holds [the Backlash](piece_the_backlash.md) over [the Rival](persona_the_rival.md): accept the proposer's offer at anything close to face value, and answer for looking duped by the enemy. The scene closes with private judgment and public position pulled apart, the discount reinforced whether or not the rival privately believes it (Ross and Stillinger).
+Through [Disciplining](process_disciplining.md), [the Base](persona_the_base.md), from [the base's seat](position_base.md), on [Punish the Soft Read](plan_punish_the_soft_read.md) holds [the Backlash](piece_the_backlash.md) over [the Rival](persona_the_rival.md), from [the rival's seat](position_rival.md): accept the proposer's offer at anything close to face value, and answer for looking duped by the enemy. The scene closes with private judgment and public position pulled apart, the discount reinforced whether or not the rival privately believes it (Ross and Stillinger).
 
 ## Stage
 

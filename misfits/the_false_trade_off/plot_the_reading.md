@@ -30,7 +30,7 @@ An analyst with a sound method, and a correlation that reads straight off the se
 
 ## Stage
 
-[The Analyst](persona_the_analyst.md), on [Read the Room](plan_read_the_room.md), measures [the trade-off](piece_the_trade_off.md) on [the traits](piece_the_traits.md) and reports that the one quality costs the other, missing [the independence](piece_the_independence.md) that holds across everyone the sample does not contain.
+[The Analyst](persona_the_analyst.md), from [the the study's seat](position_the_study.md), on [Read the Room](plan_read_the_room.md), measures [the trade-off](piece_the_trade_off.md) on [the traits](piece_the_traits.md) and reports that the one quality costs the other, missing [the independence](piece_the_independence.md) that holds across everyone the sample does not contain.
 The measurement is correct and the sample is conditioned, and nothing in the method can tell the two apart.
 
 ## Tension

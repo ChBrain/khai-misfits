@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Silencing](process_silencing.md), [the Minder](persona_the_minder.md) on [Keep Them Strangers](plan_keep_them_strangers.md) holds [the Silence](piece_the_silence.md): the larger serial is proposed again this year and struck again, on the plain ground that a division moving at scale cannot be told apart from a division moving on the capital, and traffic between formations is routed through his office so that no two units acquire the habit of arranging things between themselves. The scene closes with an army that cannot combine arms, combined arms not being learnable below the scale at which it is fought, and cannot manoeuvre, manoeuvre being lateral communication under fire (Quinlivan).
+Through [Silencing](process_silencing.md), [the Minder](persona_the_minder.md), from [the minder's seat](position_minder.md), on [Keep Them Strangers](plan_keep_them_strangers.md) holds [the Silence](piece_the_silence.md): the larger serial is proposed again this year and struck again, on the plain ground that a division moving at scale cannot be told apart from a division moving on the capital, and traffic between formations is routed through his office so that no two units acquire the habit of arranging things between themselves. The scene closes with an army that cannot combine arms, combined arms not being learnable below the scale at which it is fought, and cannot manoeuvre, manoeuvre being lateral communication under fire (Quinlivan).
 
 ## Stage
 

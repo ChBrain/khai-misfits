@@ -30,7 +30,7 @@ A quality that cannot be cheaply seen, and a group average that can, the only ch
 
 ## Stage
 
-[The Employer](persona_the_employer.md), on [Screen by the Group](plan_screen_by_the_group.md), reads [the prior](piece_the_prior.md) where it cannot read the individual and sets [the discount](piece_the_discount.md) on [the signal](piece_the_signal.md), the able and the weak of a low-rated group offered the same low rating.
+[The Employer](persona_the_employer.md), from [the the gate's seat](position_the_gate.md), on [Screen by the Group](plan_screen_by_the_group.md), reads [the prior](piece_the_prior.md) where it cannot read the individual and sets [the discount](piece_the_discount.md) on [the signal](piece_the_signal.md), the able and the weak of a low-rated group offered the same low rating.
 It is the same actuarial move an insurer makes with a pool, and there is no distaste in it.
 
 ## Tension

@@ -30,7 +30,7 @@ A few friends who know each other well, trusted and available, talking things ov
 
 ## Stage
 
-[The Insider](persona_the_insider.md), on [Keep It Informal](plan_keep_it_informal.md), gathers [the sway](piece_the_sway.md) by friendship and presence, deciding off the record and never taking a title that could be named.
+[The Insider](persona_the_insider.md), from [the the inner ring's seat](position_the_inner_ring.md), on [Keep It Informal](plan_keep_it_informal.md), gathers [the sway](piece_the_sway.md) by friendship and presence, deciding off the record and never taking a title that could be named.
 The decisions are sound and the friendship is genuine, and the group is steered from a room the open floor was never told about.
 
 ## Tension

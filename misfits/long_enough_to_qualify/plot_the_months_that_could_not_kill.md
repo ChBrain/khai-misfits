@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Crediting](process_crediting.md), [the Analyst](persona_the_analyst.md) on [Compare the Treated with the Untreated](plan_compare_the_treated_with_the_untreated.md) assigns each subject's whole follow-up to the arm the register names, and [the Gift](piece_the_gift.md) passes: one arm's total now contains a stretch in which nobody could die and the other's does not. [The Finding](piece_the_finding.md) follows, a survival advantage equal to the length of the queue, and the scene closes with a result that is exact, tight, reproducible by anyone who repeats it, and false (Sylvestre, Huszti and Hanley).
+Through [Crediting](process_crediting.md), [the Analyst](persona_the_analyst.md), from [the analyst's seat](position_analyst.md), on [Compare the Treated with the Untreated](plan_compare_the_treated_with_the_untreated.md) assigns each subject's whole follow-up to the arm the register names, and [the Gift](piece_the_gift.md) passes: one arm's total now contains a stretch in which nobody could die and the other's does not. [The Finding](piece_the_finding.md) follows, a survival advantage equal to the length of the queue, and the scene closes with a result that is exact, tight, reproducible by anyone who repeats it, and false (Sylvestre, Huszti and Hanley).
 
 ## Stage
 

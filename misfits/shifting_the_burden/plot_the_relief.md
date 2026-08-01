@@ -26,7 +26,7 @@ Two answers exist, a fast relief and a slow cure, but only one can act inside th
 
 ## Action
 
-[Relieving](process_relieving.md): [The Reliever](persona_the_reliever.md), holding [the intervenor's seat](position_intervenor.md), brings the quick fix and the pain goes, while [The Pressed](persona_the_pressed.md) takes it gratefully and gets back to the work.
+[Relieving](process_relieving.md): [The Reliever](persona_the_reliever.md), holding [the intervenor's seat](position_intervenor.md), brings the quick fix and the pain goes, while [The Pressed](persona_the_pressed.md), from [the problem owner's seat](position_problem_owner.md), takes it gratefully and gets back to the work.
 
 ## Stage
 

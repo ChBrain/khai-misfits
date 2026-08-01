@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Censoring](process_censoring.md), [the Analyst](persona_the_analyst.md) on [Count the Time They Gave You](plan_count_the_time_they_gave_you.md) sets [the Censoring](piece_the_censoring.md): the subject's follow-up is counted up to the last date anyone saw them, the record is closed with no event, and they are released on the assumption that they carry on being at risk out in the world beyond the data. Nothing is dropped and nothing is invented. The scene closes with the assumption exactly right for the loss it was written for, which is administrative: the study ended, the calendar ran out, the family moved away, and not one of those has anything to do with whether the person was going to have the event (Prentice, Kalbfleisch and colleagues).
+Through [Censoring](process_censoring.md), [the Analyst](persona_the_analyst.md), from [the analyst's seat](position_analyst.md), on [Count the Time They Gave You](plan_count_the_time_they_gave_you.md) sets [the Censoring](piece_the_censoring.md): the subject's follow-up is counted up to the last date anyone saw them, the record is closed with no event, and they are released on the assumption that they carry on being at risk out in the world beyond the data. Nothing is dropped and nothing is invented. The scene closes with the assumption exactly right for the loss it was written for, which is administrative: the study ended, the calendar ran out, the family moved away, and not one of those has anything to do with whether the person was going to have the event (Prentice, Kalbfleisch and colleagues).
 
 ## Stage
 

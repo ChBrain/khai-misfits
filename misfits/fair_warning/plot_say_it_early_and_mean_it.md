@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Announcing](process_announcing.md), [the Legislator](persona_the_legislator.md) on [Give Them Time to Adapt](plan_give_them_time_to_adapt.md) sets [the Notice](piece_the_notice.md): fifteen years, in statute, exemptions refused, transition funded, and stated in terms that leave no doubt it will happen. Five years would strand the towns and the workers and the people who built their lives around the industry; thirty would mean nothing; and a deadline nobody believes in changes nobody's plans. The scene closes with both properties secured, fairness and credibility, neither traded against the other because neither can be.
+Through [Announcing](process_announcing.md), [the Legislator](persona_the_legislator.md), from [the legislator's seat](position_legislator.md), on [Give Them Time to Adapt](plan_give_them_time_to_adapt.md) sets [the Notice](piece_the_notice.md): fifteen years, in statute, exemptions refused, transition funded, and stated in terms that leave no doubt it will happen. Five years would strand the towns and the workers and the people who built their lives around the industry; thirty would mean nothing; and a deadline nobody believes in changes nobody's plans. The scene closes with both properties secured, fairness and credibility, neither traded against the other because neither can be.
 
 ## Stage
 

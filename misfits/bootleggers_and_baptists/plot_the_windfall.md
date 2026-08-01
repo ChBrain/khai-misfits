@@ -30,7 +30,7 @@ A quiet interest the law enriches, with a stake sharp enough to be worth defendi
 
 ## Stage
 
-[The Bootlegger](persona_the_bootlegger.md), on [Bank the Ban](plan_bank_the_ban.md), banks [the profit](piece_the_profit.md) the rule hands them and funds the defence of [the rule](piece_the_rule.md), organising where the diffuse public will not and letting the principle do the talking.
+[The Bootlegger](persona_the_bootlegger.md), from [the the back room's seat](position_the_back_room.md), on [Bank the Ban](plan_bank_the_ban.md), banks [the profit](piece_the_profit.md) the rule hands them and funds the defence of [the rule](piece_the_rule.md), organising where the diffuse public will not and letting the principle do the talking.
 The gain is rational and the interest deceives no one, only backs a law that helps it and stays out of the light.
 
 ## Tension

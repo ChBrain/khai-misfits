@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Ruling](process_ruling.md), [the Panel](persona_the_panel.md) on [Write One Rule](plan_write_one_rule.md) turns [the Average](piece_the_average.md) into [the Rule](piece_the_rule.md): one statable, followable, auditable recommendation, graded honestly for the evidence beneath it. The scene closes with the rule issued in the only form the evidence supports, which is the form that applies to everyone.
+Through [Ruling](process_ruling.md), [the Panel](persona_the_panel.md), from [the panel's seat](position_panel.md), on [Write One Rule](plan_write_one_rule.md) turns [the Average](piece_the_average.md) into [the Rule](piece_the_rule.md): one statable, followable, auditable recommendation, graded honestly for the evidence beneath it. The scene closes with the rule issued in the only form the evidence supports, which is the form that applies to everyone.
 
 ## Stage
 

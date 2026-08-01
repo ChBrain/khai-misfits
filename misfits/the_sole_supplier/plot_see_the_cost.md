@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Auditor](persona_the_auditor.md) on [Open the Books](plan_open_the_books.md) through [Auditing](process_auditing.md) holds [The Boundary](piece_the_boundary.md): make the cost visible by audit, yardstick comparison, or contracting out, and a budget the sponsor can cost is a budget it can trim, but the bureau knows its own costs best, comparison is imperfect where services differ, and contracting out is not possible for every good. The scene closes with the over-supply checkable at a cost, the trap bounded and its size contested (Migue and Belanger; Blais and Dion).
+[The Auditor](persona_the_auditor.md), from [the auditor's seat](position_auditor.md), on [Open the Books](plan_open_the_books.md) through [Auditing](process_auditing.md) holds [The Boundary](piece_the_boundary.md): make the cost visible by audit, yardstick comparison, or contracting out, and a budget the sponsor can cost is a budget it can trim, but the bureau knows its own costs best, comparison is imperfect where services differ, and contracting out is not possible for every good. The scene closes with the over-supply checkable at a cost, the trap bounded and its size contested (Migue and Belanger; Blais and Dion).
 
 ## Stage
 

@@ -30,7 +30,7 @@ Small noise sitting there all along, negligible only while the sensitivity above
 
 ## Stage
 
-[The Noise](persona_the_noise.md), on [Ride the Rise](plan_ride_the_rise.md), waits at the far frequencies until the risen sensitivity reaches it, then grows in the output and pushes the loop toward the edge.
+[The Noise](persona_the_noise.md), from [the noise's seat](position_noise.md), on [Ride the Rise](plan_ride_the_rise.md), waits at the far frequencies until the risen sensitivity reaches it, then grows in the output and pushes the loop toward the edge.
 [The Loop](persona_the_loop.md), still bound by [Conserve the Sum](plan_conserve_the_sum.md), supplies exactly the rise it owes, no more and no less, and the noise it lands on does the rest.
 
 ## Tension

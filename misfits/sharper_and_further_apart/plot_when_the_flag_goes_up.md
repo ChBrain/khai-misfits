@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Stake](piece_the_stake.md) enters with the label and nothing else: a person's standing among their own now rides on the conclusion, though the numbers have not moved. Through [Sifting](process_sifting.md), [the Turn](piece_the_turn.md) follows, and [the Numerate](persona_the_numerate.md), still on [Work It Through](plan_work_it_through.md), points the craft at reaching the reading its side requires, while [the Opposite](persona_the_opposite.md), equally able, performs the identical operation in the other direction. The scene closes with real working, no faked step, and the analysis serving the side (Kahan and the Cultural Cognition Project).
+[The Stake](piece_the_stake.md) enters with the label and nothing else: a person's standing among their own now rides on the conclusion, though the numbers have not moved. Through [Sifting](process_sifting.md), [the Turn](piece_the_turn.md) follows, and [the Numerate](persona_the_numerate.md), still on [Work It Through](plan_work_it_through.md), points the craft at reaching the reading its side requires, while [the Opposite](persona_the_opposite.md), from [the opposite's seat](position_opposite.md), equally able, performs the identical operation in the other direction. The scene closes with real working, no faked step, and the analysis serving the side (Kahan and the Cultural Cognition Project).
 
 ## Stage
 

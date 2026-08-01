@@ -26,7 +26,7 @@ The plan the room agreed on so warmly has failed in the open, in roughly the way
 
 ## Action
 
-[Reckoning](process_reckoning.md): [The Odd One](persona_the_odd_one.md), whose doubt was swallowed and then frozen out, watches it come true, while [The Loyalist](persona_the_loyalist.md) at [the insider's seat](position_insider.md) and the rest of the united room ask how a team this good got it this wrong.
+[Reckoning](process_reckoning.md): [The Odd One](persona_the_odd_one.md), from [the dissenter's seat](position_dissenter.md), whose doubt was swallowed and then frozen out, watches it come true, while [The Loyalist](persona_the_loyalist.md) at [the insider's seat](position_insider.md) and the rest of the united room ask how a team this good got it this wrong.
 
 ## Stage
 

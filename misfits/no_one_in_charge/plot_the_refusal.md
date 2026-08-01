@@ -30,7 +30,7 @@ A room resolved on equality, remembering the structures that silenced people els
 
 ## Stage
 
-[The Idealist](persona_the_idealist.md), on [Refuse the Structure](plan_refuse_the_structure.md), refuses formal structure to protect [the openness](piece_the_openness.md), believing that where there is no named leader there can be no leader.
+[The Idealist](persona_the_idealist.md), from [the the open floor's seat](position_the_open_floor.md), on [Refuse the Structure](plan_refuse_the_structure.md), refuses formal structure to protect [the openness](piece_the_openness.md), believing that where there is no named leader there can be no leader.
 The refusal is sincere and the ideal is real, and clearing the offices clears, unseen, the ground an informal power will fill.
 
 ## Tension

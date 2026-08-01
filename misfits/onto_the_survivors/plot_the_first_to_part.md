@@ -25,7 +25,7 @@ At [the Cross-Section](place_the_cross_section.md), the load rises past what it 
 
 ## Action
 
-[The Load](persona_the_load.md), on [Raise the Load](plan_raise_the_load.md), runs [Loading](process_loading.md) across [the Bundle](piece_the_bundle.md), pressing evenly on every member at once. The members are drawn from [the Spread](piece_the_spread.md), so their strengths were never identical, and there is always a weakest among them. That member, [the Strand](persona_the_strand.md), on [Hold Then Part](plan_hold_then_part.md), holds up to its own true limit and then parts, first of the bundle to go.
+[The Load](persona_the_load.md), from [the load's seat](position_load.md), on [Raise the Load](plan_raise_the_load.md), runs [Loading](process_loading.md) across [the Bundle](piece_the_bundle.md), pressing evenly on every member at once. The members are drawn from [the Spread](piece_the_spread.md), so their strengths were never identical, and there is always a weakest among them. That member, [the Strand](persona_the_strand.md), from [the strand's seat](position_strand.md), on [Hold Then Part](plan_hold_then_part.md), holds up to its own true limit and then parts, first of the bundle to go.
 
 ## Stage
 

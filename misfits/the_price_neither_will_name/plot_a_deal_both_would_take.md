@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Buyer](persona_the_buyer.md) and [The Seller](persona_the_seller.md) meet over [The Overlap](piece_the_overlap.md): the buyer would pay as much as ten, the seller would take as little as six, so a surplus of four sits between them that any price from six to ten would split. The scene closes with the gain real and unclaimed, a deal that plainly should be made.
+[The Buyer](persona_the_buyer.md), from [the buyer's seat](position_buyer.md), and [The Seller](persona_the_seller.md), from [the seller's seat](position_seller.md), meet over [The Overlap](piece_the_overlap.md): the buyer would pay as much as ten, the seller would take as little as six, so a surplus of four sits between them that any price from six to ten would split. The scene closes with the gain real and unclaimed, a deal that plainly should be made.
 
 ## Stage
 

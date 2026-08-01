@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Siting](process_siting.md), [the Developer](persona_the_developer.md) on [Build Where the Wind Is](plan_build_where_the_wind_is.md) sets [the Correlated Fleet](piece_the_correlated_fleet.md): the best available resource is chosen, because that is the whole of the job and the capacity factor is what the returns are built on. Every other developer of the technology is reading the same map and reaching the same conclusion. The scene closes with the class's output very nearly simultaneous, chosen by nobody and undoable by nobody alone, since siting on poorer ground to be less correlated would lower this project's returns in order to raise its rivals'.
+Through [Siting](process_siting.md), [the Developer](persona_the_developer.md), from [the developer's seat](position_developer.md), on [Build Where the Wind Is](plan_build_where_the_wind_is.md) sets [the Correlated Fleet](piece_the_correlated_fleet.md): the best available resource is chosen, because that is the whole of the job and the capacity factor is what the returns are built on. Every other developer of the technology is reading the same map and reaching the same conclusion. The scene closes with the class's output very nearly simultaneous, chosen by nobody and undoable by nobody alone, since siting on poorer ground to be less correlated would lower this project's returns in order to raise its rivals'.
 
 ## Stage
 

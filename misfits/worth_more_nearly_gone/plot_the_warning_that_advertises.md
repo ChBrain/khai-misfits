@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Listing](process_listing.md), [the Warden](persona_the_warden.md) on [List It and Guard It](plan_list_it_and_guard_it.md) declares the species endangered and publishes its status, unlocking the enforcement and funding that only a public declaration can. And [the Notice](piece_the_notice.md) does its second work: it announces to every buyer that this thing is now officially scarce, so the premium can rise in the very season the protection lands. The scene closes with the right document issued and the price on its head raised by it (Hall, Milner-Gulland and Courchamp).
+Through [Listing](process_listing.md), [the Warden](persona_the_warden.md), from [the warden's seat](position_warden.md), on [List It and Guard It](plan_list_it_and_guard_it.md) declares the species endangered and publishes its status, unlocking the enforcement and funding that only a public declaration can. And [the Notice](piece_the_notice.md) does its second work: it announces to every buyer that this thing is now officially scarce, so the premium can rise in the very season the protection lands. The scene closes with the right document issued and the price on its head raised by it (Hall, Milner-Gulland and Courchamp).
 
 ## Stage
 

@@ -31,7 +31,7 @@ The value not yet touched, only threatened, the basket still whole and the dange
 ## Stage
 
 [The Homeowner](persona_the_homeowner.md), on [Insure the House](plan_insure_the_house.md), rallies the street and prepares to speak against the project at the coming hearing.
-[The Builder](persona_the_builder.md), on [Build the Homes](plan_build_the_homes.md), files the plan for denser housing, the numbers sound and the permission still to seek.
+[The Builder](persona_the_builder.md), from [the builder's seat](position_builder.md), on [Build the Homes](plan_build_the_homes.md), files the plan for denser housing, the numbers sound and the permission still to seek.
 
 ## Tension
 

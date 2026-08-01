@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Padding](process_padding.md), [The Chief](persona_the_chief.md) on [Grow the Budget](plan_grow_the_budget.md) lifts its request above the efficient cost, since [The Budget](piece_the_budget.md) is where its staff, salary, standing, and discretion come from, and the padding folds invisibly into a figure only the bureau can price. The scene closes with the request inflated, sound for a chief rewarded by size and taking nothing it should not (Tullock).
+Through [Padding](process_padding.md), [The Chief](persona_the_chief.md), from [the chief's seat](position_chief.md), on [Grow the Budget](plan_grow_the_budget.md) lifts its request above the efficient cost, since [The Budget](piece_the_budget.md) is where its staff, salary, standing, and discretion come from, and the padding folds invisibly into a figure only the bureau can price. The scene closes with the request inflated, sound for a chief rewarded by size and taking nothing it should not (Tullock).
 
 ## Stage
 

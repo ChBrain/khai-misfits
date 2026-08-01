@@ -30,7 +30,7 @@ A war, a slump, a disaster, a real and present need arriving all at once and dem
 
 ## Stage
 
-[The Provider](persona_the_provider.md) raises the spending at [the Surge](place_the_surge.md), on [Meet the Need](plan_meet_the_need.md), granting [the outlay](piece_the_outlay.md) that the crisis calls for and lifting the level past the line the ordinary years would bear.
+[The Provider](persona_the_provider.md), from [the the purse's seat](position_the_purse.md), raises the spending at [the Surge](place_the_surge.md), on [Meet the Need](plan_meet_the_need.md), granting [the outlay](piece_the_outlay.md) that the crisis calls for and lifting the level past the line the ordinary years would bear.
 Every measure of it is right: the need is real, the response is proportionate, and funding it is simply what a prudent body does.
 
 ## Tension

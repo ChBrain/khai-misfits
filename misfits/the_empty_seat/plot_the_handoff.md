@@ -26,7 +26,7 @@ The Aid doing the work well, right almost every time, the operator learning that
 
 ## Action
 
-[Deferring](process_deferring.md): [The Operator](persona_the_operator.md), holding [the operator's seat](position_operator.md), learns to trust the aid and begins to defer, while [The Aid](persona_the_aid.md) delivers its confident output.
+[Deferring](process_deferring.md): [The Operator](persona_the_operator.md), holding [the operator's seat](position_operator.md), learns to trust the aid and begins to defer, while [The Aid](persona_the_aid.md), from [the aid's seat](position_aid.md), delivers its confident output.
 
 ## Stage
 

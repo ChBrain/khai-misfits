@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Staying](process_staying.md), [The Shopper](persona_the_shopper.md) on [Buy Where You Stand](plan_buy_where_you_stand.md) takes [The Stay](piece_the_stay.md): the saving is smaller than the search, so it buys where it stands. And [The Rival](persona_the_rival.md) on [Match the Market](plan_match_the_market.md) declines to undercut, since it can win no customer a search cost keeps from coming. The scene closes with the nudge stuck, no shopper walking and no rival cutting (Diamond).
+Through [Staying](process_staying.md), [The Shopper](persona_the_shopper.md), from [the shopper's seat](position_shopper.md), on [Buy Where You Stand](plan_buy_where_you_stand.md) takes [The Stay](piece_the_stay.md): the saving is smaller than the search, so it buys where it stands. And [The Rival](persona_the_rival.md), from [the rival's seat](position_rival.md), on [Match the Market](plan_match_the_market.md) declines to undercut, since it can win no customer a search cost keeps from coming. The scene closes with the nudge stuck, no shopper walking and no rival cutting (Diamond).
 
 ## Stage
 

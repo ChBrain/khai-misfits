@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Diversifying](process_diversifying.md), [the Dissenter](persona_the_dissenter.md) on [Make Them Different](plan_make_them_different.md) concedes at once that every firm's model is a good answer to the question asked, and argues the aggregate instead, then holds [the Boundary](piece_the_boundary.md) by pricing all three corrections. Break the agreement, and you are ordering named institutions to run models measurably worse at describing their own risk. Break the wire, and you are holding capital idle through the good years to be released on the judgement hardest to make at the moment it is needed. Take a crude leverage cap, and you punish the safe balance sheet alongside the dangerous one and push risk to wherever the cap does not reach. The scene closes with the room agreeing sincerely and not acting (Daníelsson).
+Through [Diversifying](process_diversifying.md), [the Dissenter](persona_the_dissenter.md), from [the dissenter's seat](position_dissenter.md), on [Make Them Different](plan_make_them_different.md) concedes at once that every firm's model is a good answer to the question asked, and argues the aggregate instead, then holds [the Boundary](piece_the_boundary.md) by pricing all three corrections. Break the agreement, and you are ordering named institutions to run models measurably worse at describing their own risk. Break the wire, and you are holding capital idle through the good years to be released on the judgement hardest to make at the moment it is needed. Take a crude leverage cap, and you punish the safe balance sheet alongside the dangerous one and push risk to wherever the cap does not reach. The scene closes with the room agreeing sincerely and not acting (Daníelsson).
 
 ## Stage
 

@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Requiring](process_requiring.md), [the Supervisor](persona_the_supervisor.md) on [Make It Measurable](plan_make_it_measurable.md) sets [the Limit](piece_the_limit.md): a risk measure that is quantitative, auditable and sensitive to conditions, wired to a capital rule so that it obliges rather than advises. The discretionary alternative is rejected and the reasons are given: a judgement cannot be checked in advance, compared across firms, or defended to a legislature after a failure. The scene closes with a number that is now an instruction, and with validation, backtesting and annual review all required, supplied, and touching nothing that matters here.
+Through [Requiring](process_requiring.md), [the Supervisor](persona_the_supervisor.md), from [the supervisor's seat](position_supervisor.md), on [Make It Measurable](plan_make_it_measurable.md) sets [the Limit](piece_the_limit.md): a risk measure that is quantitative, auditable and sensitive to conditions, wired to a capital rule so that it obliges rather than advises. The discretionary alternative is rejected and the reasons are given: a judgement cannot be checked in advance, compared across firms, or defended to a legislature after a failure. The scene closes with a number that is now an instruction, and with validation, backtesting and annual review all required, supplied, and touching nothing that matters here.
 
 ## Stage
 

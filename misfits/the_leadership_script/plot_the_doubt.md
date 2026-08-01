@@ -30,7 +30,7 @@ The Reader setting out to judge the work the register let the panel skip, and to
 
 ## Stage
 
-[The Reader](persona_the_reader.md), on [Read the Work](plan_read_the_work.md), spends the month to open [the work](piece_the_work.md), calls the specialist, and hears leadership in [the plain hand](persona_the_plain_hand.md), putting [the script](piece_the_script.md) back in its place as a part.
+[The Reader](persona_the_reader.md), on [Read the Work](plan_read_the_work.md), spends the month to open [the work](piece_the_work.md), calls the specialist, and hears leadership in [the plain hand](persona_the_plain_hand.md), from [the plain hand's seat](position_plain_hand.md), putting [the script](piece_the_script.md) back in its place as a part.
 Against the reading stand the legibility of the sound, the fluency of everyone invested in the register, and [the ear](piece_the_ear.md) trained to hear plain speech as staff.
 
 ## Tension

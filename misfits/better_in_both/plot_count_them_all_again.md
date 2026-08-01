@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Statistician](persona_the_statistician.md) on [Count the Whole Cohort](plan_count_the_whole_cohort.md) through [Recounting](process_recounting.md) holds [the Boundary](piece_the_boundary.md): count total mortality across everyone diagnosed, which no reclassification can touch, since a patient moved between rungs is still inside the total and a figure that never stratified cannot be moved by restratification. Or restage the earlier cohort under the current rule so both tables are built by one instrument, which needs decades-old imaging retrieved and re-read against a question it was never made to resolve, and often the films answer nothing. The scene closes with the artefact detectable at a real cost, the trap bounded (Welch, Schwartz and Woloshin).
+[The Statistician](persona_the_statistician.md), from [the statistician's seat](position_statistician.md), on [Count the Whole Cohort](plan_count_the_whole_cohort.md) through [Recounting](process_recounting.md) holds [the Boundary](piece_the_boundary.md): count total mortality across everyone diagnosed, which no reclassification can touch, since a patient moved between rungs is still inside the total and a figure that never stratified cannot be moved by restratification. Or restage the earlier cohort under the current rule so both tables are built by one instrument, which needs decades-old imaging retrieved and re-read against a question it was never made to resolve, and often the films answer nothing. The scene closes with the artefact detectable at a real cost, the trap bounded (Welch, Schwartz and Woloshin).
 
 ## Stage
 

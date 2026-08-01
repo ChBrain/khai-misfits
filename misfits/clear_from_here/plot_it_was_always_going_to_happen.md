@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Straightening](process_straightening.md), [the Reviewer](persona_the_reviewer.md) on [Ask If It Was Foreseeable](plan_ask_if_it_was_foreseeable.md) meets [the Straightening](piece_the_straightening.md): the three signals that pointed the way it went now stand out, the other hundred and ninety-seven recede, and the episode resolves into a line that could only have run one way. The scene closes with the pattern genuinely visible now and genuinely invisible before, the reviewer seeing rather than inventing it (Fischhoff; Fischhoff and Beyth).
+Through [Straightening](process_straightening.md), [the Reviewer](persona_the_reviewer.md), from [the reviewer's seat](position_reviewer.md), on [Ask If It Was Foreseeable](plan_ask_if_it_was_foreseeable.md) meets [the Straightening](piece_the_straightening.md): the three signals that pointed the way it went now stand out, the other hundred and ninety-seven recede, and the episode resolves into a line that could only have run one way. The scene closes with the pattern genuinely visible now and genuinely invisible before, the reviewer seeing rather than inventing it (Fischhoff; Fischhoff and Beyth).
 
 ## Stage
 

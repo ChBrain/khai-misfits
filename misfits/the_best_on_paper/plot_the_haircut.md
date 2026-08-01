@@ -30,7 +30,7 @@ A dazzling number at the head of the list, and a doubt about how much of it is w
 
 ## Stage
 
-[The Sceptic](persona_the_sceptic.md), on [Shrink to the Prior](plan_shrink_to_the_prior.md), pulls each [valuation](piece_the_valuation.md) toward the prior, removing the [overstatement](piece_the_overstatement.md) the maximum would create and, with it, often the top of the list.
+[The Sceptic](persona_the_sceptic.md), from [the the review's seat](position_the_review.md), on [Shrink to the Prior](plan_shrink_to_the_prior.md), pulls each [valuation](piece_the_valuation.md) toward the prior, removing the [overstatement](piece_the_overstatement.md) the maximum would create and, with it, often the top of the list.
 The correction is right and the price is real, the flattered winner spared and the bold bet forgone in the same move.
 
 ## Tension

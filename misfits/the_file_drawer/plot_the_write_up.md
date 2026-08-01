@@ -30,7 +30,7 @@ An author with months to write and a plain arithmetic: a finding pays and a non-
 
 ## Stage
 
-[The Author](persona_the_author.md), on [Write the Win](plan_write_the_win.md), drafts and submits [the significant](piece_the_significant.md) and files [the null](piece_the_null.md), spending the labour where the citation is, so [the record](piece_the_record.md) is filtered before any reviewer sees it.
+[The Author](persona_the_author.md), from [the the byline's seat](position_the_byline.md), on [Write the Win](plan_write_the_win.md), drafts and submits [the significant](piece_the_significant.md) and files [the null](piece_the_null.md), spending the labour where the citation is, so [the record](piece_the_record.md) is filtered before any reviewer sees it.
 Nothing is faked, and the null is as sound as the win: only one of them is worth the months.
 
 ## Tension

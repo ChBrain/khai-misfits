@@ -30,7 +30,7 @@ A gatekeeper with a mandate to keep the record novel and read, and a reader wait
 
 ## Stage
 
-[The Gatekeeper](persona_the_gatekeeper.md), on [Admit the Novel](plan_admit_the_novel.md), keeps [the significant](piece_the_significant.md) and turns away [the null](piece_the_null.md), spending the page where it earns a reader, so [the record](piece_the_record.md) admits a study by the outcome it was run to learn.
+[The Gatekeeper](persona_the_gatekeeper.md), from [the the threshold's seat](position_the_threshold.md), on [Admit the Novel](plan_admit_the_novel.md), keeps [the significant](piece_the_significant.md) and turns away [the null](piece_the_null.md), spending the page where it earns a reader, so [the record](piece_the_record.md) admits a study by the outcome it was run to learn.
 It is the same scarce-resource call any editor makes, and there is no distaste in it.
 
 ## Tension

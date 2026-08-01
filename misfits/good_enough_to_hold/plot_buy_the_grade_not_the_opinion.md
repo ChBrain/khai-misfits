@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Licensing](process_licensing.md), [the Issuer](persona_the_issuer.md) on [Buy What Makes It Holdable](plan_buy_what_makes_it_holdable.md) takes [the Licence](piece_the_licence.md): the threshold is located to the notch, the recognised grade above it is procured, and the fee is priced against the spread it unlocks rather than against the analysis it contains. No view is formed on the methodology, because no view would change the decision. The scene closes with a treasurer doing precisely the job it was hired to do, and with the assessment of the company incidental to the transaction.
+Through [Licensing](process_licensing.md), [the Issuer](persona_the_issuer.md), from [the issuer's seat](position_issuer.md), on [Buy What Makes It Holdable](plan_buy_what_makes_it_holdable.md) takes [the Licence](piece_the_licence.md): the threshold is located to the notch, the recognised grade above it is procured, and the fee is priced against the spread it unlocks rather than against the analysis it contains. No view is formed on the methodology, because no view would change the decision. The scene closes with a treasurer doing precisely the job it was hired to do, and with the assessment of the company incidental to the transaction.
 
 ## Stage
 

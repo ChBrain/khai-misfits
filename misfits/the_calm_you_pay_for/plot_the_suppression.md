@@ -31,7 +31,7 @@ The loop untuned toward it yet, the trouble real and waiting to be answered wher
 ## Stage
 
 [The Designer](persona_the_designer.md), on [Shape the Sensitivity](plan_shape_the_sensitivity.md), tunes the loop down precisely where the trouble is, buying rejection with no cleverness spared and none needed.
-[The Disturbance](persona_the_disturbance.md), on [Press In Band](plan_press_in_band.md), presses its signal squarely in the working band, honest about where it lives, giving the designer a true target to answer.
+[The Disturbance](persona_the_disturbance.md), from [the disturbance's seat](position_disturbance.md), on [Press In Band](plan_press_in_band.md), presses its signal squarely in the working band, honest about where it lives, giving the designer a true target to answer.
 
 ## Tension
 

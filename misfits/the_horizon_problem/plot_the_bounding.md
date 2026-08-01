@@ -30,7 +30,7 @@ The edge falling where the instrument stops, everything past it dropping out of 
 
 ## Stage
 
-Through [the sponsor's](persona_the_sponsor.md) [Ask for the Plan](plan_ask_for_the_plan.md), the span is named and [the edge](piece_the_edge.md) is fixed where [the instrument](piece_the_instrument.md) reaches its limit.
+Through [the sponsor's](persona_the_sponsor.md), from [the sponsor's seat](position_sponsor.md), [Ask for the Plan](plan_ask_for_the_plan.md), the span is named and [the edge](piece_the_edge.md) is fixed where [the instrument](piece_the_instrument.md) reaches its limit.
 Everything inside the line stays in [the costed](piece_the_costed.md); everything past it becomes [the beyond](piece_the_beyond.md), not weighed and dismissed but structurally absent, the boundary judgement that placed the edge never examined as a judgement at all.
 
 ## Tension

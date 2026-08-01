@@ -30,7 +30,7 @@ A selector who must rank on more than one thing, and a bar to be set on the two 
 
 ## Stage
 
-[The Selector](persona_the_selector.md), on [Take the Best](plan_take_the_best.md), sets [the cutoff](piece_the_cutoff.md) on [the traits](piece_the_traits.md) and keeps whoever passes, so the gate is the common effect [the collider](piece_the_collider.md) rests on, the admitted low on one quality being exactly those high on the other.
+[The Selector](persona_the_selector.md), from [the the bar's seat](position_the_bar.md), on [Take the Best](plan_take_the_best.md), sets [the cutoff](piece_the_cutoff.md) on [the traits](piece_the_traits.md) and keeps whoever passes, so the gate is the common effect [the collider](piece_the_collider.md) rests on, the admitted low on one quality being exactly those high on the other.
 It is the only fair way to select on two things at once, and there is no bad judgement in it.
 
 ## Tension

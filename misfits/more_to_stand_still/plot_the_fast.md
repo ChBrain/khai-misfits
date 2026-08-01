@@ -30,7 +30,7 @@ A dose withheld, the climb halted, and the opponent it built standing exposed wi
 
 ## Stage
 
-[The Abstainer](persona_the_abstainer.md) withholds [the dose](piece_the_dose.md), on [Let It Rest](plan_let_it_rest.md), and drops into the trough as [the set-point](piece_the_set_point.md) begins its slow fall, bearing the low that resuming would end in an instant, so that in time a smaller dose can move [the kick](piece_the_kick.md) again and [the wheel](piece_the_wheel.md) be stepped off.
+[The Abstainer](persona_the_abstainer.md), from [the the rest's seat](position_the_rest.md), withholds [the dose](piece_the_dose.md), on [Let It Rest](plan_let_it_rest.md), and drops into the trough as [the set-point](piece_the_set_point.md) begins its slow fall, bearing the low that resuming would end in an instant, so that in time a smaller dose can move [the kick](piece_the_kick.md) again and [the wheel](piece_the_wheel.md) be stepped off.
 They are worse than they were on the dose, plainly and for a while, and the recovery they are paying for cannot yet be seen.
 
 ## Tension

@@ -30,7 +30,7 @@ A member outside the network, feeling a wall they cannot point to, asking who de
 
 ## Stage
 
-[The Outsider](persona_the_outsider.md), on [Name the Structure](plan_name_the_structure.md), demands the offices and votes that would give a door and an account, and runs into [the hidden hierarchy](piece_the_hidden_hierarchy.md), met with the reply that no one is in charge and the floor is open to all.
+[The Outsider](persona_the_outsider.md), from [the the sidelines's seat](position_the_sidelines.md), on [Name the Structure](plan_name_the_structure.md), demands the offices and votes that would give a door and an account, and runs into [the hidden hierarchy](piece_the_hidden_hierarchy.md), met with the reply that no one is in charge and the floor is open to all.
 The question is fair and the wall is real, and the remedy that would answer it is refused as a betrayal of the ideal.
 
 ## Tension
