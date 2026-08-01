@@ -30,7 +30,7 @@ A synthesist with an exhaustive search and a sound method, and a record that hol
 
 ## Stage
 
-[The Synthesist](persona_the_synthesist.md), on [Trust the Record](plan_trust_the_record.md), gathers and combines [the record](piece_the_record.md) and gets [the inflation](piece_the_inflation.md), the effect above the real one by [the null](piece_the_null.md) that is missing, the bias inherited whole from the sample they were handed.
+[The Synthesist](persona_the_synthesist.md), from [the the pool's seat](position_the_pool.md), on [Trust the Record](plan_trust_the_record.md), gathers and combines [the record](piece_the_record.md) and gets [the inflation](piece_the_inflation.md), the effect above the real one by [the null](piece_the_null.md) that is missing, the bias inherited whole from the sample they were handed.
 Every step is right, and the input is filtered.
 
 ## Tension

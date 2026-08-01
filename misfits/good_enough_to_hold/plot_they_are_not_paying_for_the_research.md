@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Licensing](process_licensing.md), [the Rater](persona_the_rater.md) on [Sell the Grade They Need](plan_sell_the_grade_they_need.md) sets [the Inverted Demand](piece_the_inverted_demand.md): the recognised grade is sold at a price set by what it unlocks, the methodology is maintained and published, and nobody in the chain has to read it. A permission does not have to be right to be necessary. The scene closes with the market growing as the informational content falls, accuracy with no channel to revenue, and the reputational discipline that built the record no longer reaching the product (Partnoy).
+Through [Licensing](process_licensing.md), [the Rater](persona_the_rater.md), from [the rater's seat](position_rater.md), on [Sell the Grade They Need](plan_sell_the_grade_they_need.md) sets [the Inverted Demand](piece_the_inverted_demand.md): the recognised grade is sold at a price set by what it unlocks, the methodology is maintained and published, and nobody in the chain has to read it. A permission does not have to be right to be necessary. The scene closes with the market growing as the informational content falls, accuracy with no channel to revenue, and the reputational discipline that built the record no longer reaching the product (Partnoy).
 
 ## Stage
 

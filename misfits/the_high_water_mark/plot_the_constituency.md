@@ -30,7 +30,7 @@ An outlay bedded into the baseline, and the people whose plans, livelihoods, and
 
 ## Stage
 
-[The Dependent](persona_the_dependent.md) gathers around [the outlay](piece_the_outlay.md) at [the waterline](piece_the_waterline.md), on [Keep What's Given](plan_keep_whats_given.md), defending the commitment with the full force of a concentrated stake while no one of equal force turns out for the diffuse saving of ending it.
+[The Dependent](persona_the_dependent.md), from [the the entitlement's seat](position_the_entitlement.md), gathers around [the outlay](piece_the_outlay.md) at [the waterline](piece_the_waterline.md), on [Keep What's Given](plan_keep_whats_given.md), defending the commitment with the full force of a concentrated stake while no one of equal force turns out for the diffuse saving of ending it.
 They did not design the commitment or lobby it into being; they only trusted it, and now the trusting is what holds it up.
 
 ## Tension

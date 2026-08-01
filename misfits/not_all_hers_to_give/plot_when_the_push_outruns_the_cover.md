@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Clinician](persona_the_clinician.md) on [Watch for the Overshoot](plan_watch_for_the_overshoot.md) through [Overshooting](process_overshooting.md) holds [the Boundary](piece_the_boundary.md): screening for gestational diabetes and preeclampsia catches [the Overshoot](piece_the_overshoot.md) when the push outruns the cover, treating the mother's blood sugar or blood pressure with insulin, monitoring, or early delivery, but never reaching the imprint that produced the press. The scene closes with the overshoot manageable at a real and recurring cost, the tug bounded and no toxin behind it, lifting toward convergence wherever a mother's every offspring shares the one father (Haig; Haig and Moore).
+[The Clinician](persona_the_clinician.md), from [the clinician's seat](position_clinician.md), on [Watch for the Overshoot](plan_watch_for_the_overshoot.md) through [Overshooting](process_overshooting.md) holds [the Boundary](piece_the_boundary.md): screening for gestational diabetes and preeclampsia catches [the Overshoot](piece_the_overshoot.md) when the push outruns the cover, treating the mother's blood sugar or blood pressure with insulin, monitoring, or early delivery, but never reaching the imprint that produced the press. The scene closes with the overshoot manageable at a real and recurring cost, the tug bounded and no toxin behind it, lifting toward convergence wherever a mother's every offspring shares the one father (Haig; Haig and Moore).
 
 ## Stage
 

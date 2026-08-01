@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Breeder](persona_the_breeder.md) on [Flood the Market](plan_flood_the_market.md) through [Flooding](process_flooding.md) holds [the Boundary](piece_the_boundary.md): supply the trade with legal stock until scarcity stops carrying value and the premium collapses. It can work, and it has worked. It can also give illegal stock a channel to be laundered through, and normalise a larger market that recruits buyers faster than it satisfies them, so unit price can fall while total volume climbs. The scene closes with the one intervention that reaches the engine shown to be real, unreliable, and capable of feeding what it meant to end.
+[The Breeder](persona_the_breeder.md), from [the breeder's seat](position_breeder.md), on [Flood the Market](plan_flood_the_market.md) through [Flooding](process_flooding.md) holds [the Boundary](piece_the_boundary.md): supply the trade with legal stock until scarcity stops carrying value and the premium collapses. It can work, and it has worked. It can also give illegal stock a channel to be laundered through, and normalise a larger market that recruits buyers faster than it satisfies them, so unit price can fall while total volume climbs. The scene closes with the one intervention that reaches the engine shown to be real, unreliable, and capable of feeding what it meant to end.
 
 ## Stage
 

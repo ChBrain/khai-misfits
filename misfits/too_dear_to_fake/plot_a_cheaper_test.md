@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Reformer](persona_the_reformer.md) on [Cut the Waste](plan_cut_the_waste.md) through [Reforming](process_reforming.md) holds [The Boundary](piece_the_boundary.md): a cheaper test that cannot be faked would spare the burn, but a fakeable one collapses to cheap talk, direct verification spends its own resource, and a banned signal breeds another. The scene closes with the waste hard to cut and the trap shown bounded (Spence; Grafen).
+[The Reformer](persona_the_reformer.md), from [the reformer's seat](position_reformer.md), on [Cut the Waste](plan_cut_the_waste.md) through [Reforming](process_reforming.md) holds [The Boundary](piece_the_boundary.md): a cheaper test that cannot be faked would spare the burn, but a fakeable one collapses to cheap talk, direct verification spends its own resource, and a banned signal breeds another. The scene closes with the waste hard to cut and the trap shown bounded (Spence; Grafen).
 
 ## Stage
 

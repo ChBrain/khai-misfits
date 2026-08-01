@@ -25,7 +25,7 @@ On [the Drawing](place_the_drawing.md), a load with nowhere yet to fall: a deman
 
 ## Action
 
-[The Engineer](persona_the_engineer.md), on [Size the Redundancy](plan_size_the_redundancy.md), runs [Sizing](process_sizing.md) over [the Drawing](place_the_drawing.md) and sets [the Bundle](piece_the_bundle.md): many parallel members, drawn wide enough that the load can be divided among all of them at once, each member's portion far below what that member can bear. No single path carries the whole demand. No member, checked alone, is asked for more than a fraction of its strength.
+[The Engineer](persona_the_engineer.md), from [the engineer's seat](position_engineer.md), on [Size the Redundancy](plan_size_the_redundancy.md), runs [Sizing](process_sizing.md) over [the Drawing](place_the_drawing.md) and sets [the Bundle](piece_the_bundle.md): many parallel members, drawn wide enough that the load can be divided among all of them at once, each member's portion far below what that member can bear. No single path carries the whole demand. No member, checked alone, is asked for more than a fraction of its strength.
 
 ## Stage
 

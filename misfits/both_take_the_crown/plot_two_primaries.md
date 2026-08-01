@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Promoting](process_promoting.md), [The Isolated](persona_the_isolated.md) on [Keep Serving](plan_keep_serving.md) crowns itself to stay available, and [The Twin](persona_the_twin.md), facing the same silence, reasons identically and does the same, so [The Two Heads](piece_the_two_heads.md): two primaries stand where one should, each correct and each blind to the other. The scene closes with both wearing the crown, neither in error (Gilbert and Lynch).
+Through [Promoting](process_promoting.md), [The Isolated](persona_the_isolated.md) on [Keep Serving](plan_keep_serving.md) crowns itself to stay available, and [The Twin](persona_the_twin.md), from [the twin's seat](position_twin.md), facing the same silence, reasons identically and does the same, so [The Two Heads](piece_the_two_heads.md): two primaries stand where one should, each correct and each blind to the other. The scene closes with both wearing the crown, neither in error (Gilbert and Lynch).
 
 ## Stage
 

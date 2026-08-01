@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Funding](process_funding.md), [The Sponsor](persona_the_sponsor.md) on [Fund the Service](plan_fund_the_service.md) approves the package, wanting the service and unable to price it, so [The Oversupply](piece_the_oversupply.md): more of the service than its cost warrants, or the right amount at an inflated cost, government grown past the efficient size, and [The Public](persona_the_public.md) bears the bill. The scene closes with the over-supply funded, the surplus kept as budget, no one corrupt (Niskanen).
+Through [Funding](process_funding.md), [The Sponsor](persona_the_sponsor.md), from [the sponsor's seat](position_sponsor.md), on [Fund the Service](plan_fund_the_service.md) approves the package, wanting the service and unable to price it, so [The Oversupply](piece_the_oversupply.md): more of the service than its cost warrants, or the right amount at an inflated cost, government grown past the efficient size, and [The Public](persona_the_public.md), from [the public's seat](position_public.md), bears the bill. The scene closes with the over-supply funded, the surplus kept as budget, no one corrupt (Niskanen).
 
 ## Stage
 

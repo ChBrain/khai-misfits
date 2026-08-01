@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Insuring](process_insuring.md), [the Offtaker](persona_the_offtaker.md) on [Guarantee the Price](plan_guarantee_the_price.md) sets [the Contract That Hides It](piece_the_contract_that_hides_it.md): a long contract at a fixed price, the price risk moved onto a balance sheet built to carry it, and the project reaches financial close. The scene closes with the generator paid the same whatever hour the power arrives in, so the price information has been removed from the party best placed to act on it, and the instrument that financed the fleet is the instrument that suppressed the reason to build what would fix it.
+Through [Insuring](process_insuring.md), [the Offtaker](persona_the_offtaker.md), from [the offtaker's seat](position_offtaker.md), on [Guarantee the Price](plan_guarantee_the_price.md) sets [the Contract That Hides It](piece_the_contract_that_hides_it.md): a long contract at a fixed price, the price risk moved onto a balance sheet built to carry it, and the project reaches financial close. The scene closes with the generator paid the same whatever hour the power arrives in, so the price information has been removed from the party best placed to act on it, and the instrument that financed the fleet is the instrument that suppressed the reason to build what would fix it.
 
 ## Stage
 

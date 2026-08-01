@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Arbiter](persona_the_arbiter.md) on [Lay Out the Facts](plan_lay_out_the_facts.md) offers a balanced account, and both sides read it as slanted against them, since from each seat a fair account gives the other too much, so [The Blind Spot](piece_the_blind_spot.md) is laid bare in the mirror. The scene closes with the neutral party distrusted by both, the facts failing to close the gap (Vallone, Ross, and Lepper).
+[The Arbiter](persona_the_arbiter.md), from [the arbiter's seat](position_arbiter.md), on [Lay Out the Facts](plan_lay_out_the_facts.md) offers a balanced account, and both sides read it as slanted against them, since from each seat a fair account gives the other too much, so [The Blind Spot](piece_the_blind_spot.md) is laid bare in the mirror. The scene closes with the neutral party distrusted by both, the facts failing to close the gap (Vallone, Ross, and Lepper).
 
 ## Stage
 

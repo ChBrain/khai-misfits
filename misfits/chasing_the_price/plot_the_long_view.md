@@ -30,7 +30,7 @@ A grower who has seen the swing before and reads the high price as the sign of t
 
 ## Stage
 
-[The Steady Hand](persona_the_steady_hand.md), on [Plant to the Forecast](plan_plant_to_the_forecast.md), plants small into the high price, forgoing [the price](piece_the_price.md) on offer to answer the one it foretells, leaning against [the cobweb](piece_the_cobweb.md) instead of feeding it.
+[The Steady Hand](persona_the_steady_hand.md), from [the the almanac's seat](position_the_almanac.md), on [Plant to the Forecast](plan_plant_to_the_forecast.md), plants small into the high price, forgoing [the price](piece_the_price.md) on offer to answer the one it foretells, leaning against [the cobweb](piece_the_cobweb.md) instead of feeding it.
 The forecast is right over the cycle and, this season, looks like refusing money the market is plainly offering.
 
 ## Tension

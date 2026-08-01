@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Detecting](process_detecting.md), [the Radiologist](persona_the_radiologist.md) on [Report What You See](plan_report_what_you_see.md) wields [the Sharper Eye](piece_the_sharper_eye.md): imaging that resolves deposits beneath the previous threshold, so metastases always present and never visible are now on the record. The scene closes with the staging more truthful than it was, and nobody in error (Feinstein, Sosin and Wells).
+Through [Detecting](process_detecting.md), [the Radiologist](persona_the_radiologist.md), from [the radiologist's seat](position_radiologist.md), on [Report What You See](plan_report_what_you_see.md) wields [the Sharper Eye](piece_the_sharper_eye.md): imaging that resolves deposits beneath the previous threshold, so metastases always present and never visible are now on the record. The scene closes with the staging more truthful than it was, and nobody in error (Feinstein, Sosin and Wells).
 
 ## Stage
 

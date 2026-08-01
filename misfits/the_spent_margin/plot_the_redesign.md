@@ -30,7 +30,7 @@ A street with its comforts removed, the kerbs and lines taken out, and a driver 
 
 ## Stage
 
-[The Redesigner](persona_the_redesigner.md), on [Change the Feel](plan_change_the_feel.md), sharpens the sense of risk and strips the false comfort, resetting [the balance](piece_the_balance.md) from the felt side so [the margin](piece_the_margin.md) is not read as slack and [the thermostat](piece_the_thermostat.md) holds at target without a spend.
+[The Redesigner](persona_the_redesigner.md), from [the redesigner's seat](position_redesigner.md), on [Change the Feel](plan_change_the_feel.md), sharpens the sense of risk and strips the false comfort, resetting [the balance](piece_the_balance.md) from the felt side so [the margin](piece_the_margin.md) is not read as slack and [the thermostat](piece_the_thermostat.md) holds at target without a spend.
 The driver, feeling less safe, slows of their own accord, and the gain, for once, is kept.
 
 ## Tension

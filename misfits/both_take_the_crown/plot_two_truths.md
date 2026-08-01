@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Forking](process_forking.md), [The Writer](persona_the_writer.md) on [Write to the Primary](plan_write_to_the_primary.md) sends its writes to whichever primary answers, and both do, so [The Fork](piece_the_fork.md): the shared state diverges into two irreconcilable histories, a key set to two values, an account debited on one side and not the other. The scene closes with the one state become two, with no channel to join them (Gilbert and Lynch).
+Through [Forking](process_forking.md), [The Writer](persona_the_writer.md), from [the writer's seat](position_writer.md), on [Write to the Primary](plan_write_to_the_primary.md) sends its writes to whichever primary answers, and both do, so [The Fork](piece_the_fork.md): the shared state diverges into two irreconcilable histories, a key set to two values, an account debited on one side and not the other. The scene closes with the one state become two, with no channel to join them (Gilbert and Lynch).
 
 ## Stage
 

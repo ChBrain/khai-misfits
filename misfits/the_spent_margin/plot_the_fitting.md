@@ -30,7 +30,7 @@ A real guard, a wet surface, an operator doing exactly as instructed, and a stop
 
 ## Stage
 
-[The Fitter](persona_the_fitter.md), on [Prove the Guard](plan_prove_the_guard.md), builds the device and measures it against a baseline that does not move, opening [the margin](piece_the_margin.md) and booking it as the gain the road will keep.
+[The Fitter](persona_the_fitter.md), from [the bench's seat](position_bench.md), on [Prove the Guard](plan_prove_the_guard.md), builds the device and measures it against a baseline that does not move, opening [the margin](piece_the_margin.md) and booking it as the gain the road will keep.
 The number is honest, the device works, and the gain is scored complete before any driver has touched it.
 
 ## Tension

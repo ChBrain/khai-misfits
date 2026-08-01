@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Weighing](process_weighing.md), [the Ruler](persona_the_ruler.md) on [Hold the Throne](plan_hold_the_throne.md) prices what he is facing, and [the Two Clocks](piece_the_two_clocks.md) is set: the coup is frequent in this region, recent in this country, and would end with him personally within the week, while the war is deferred, may never arrive, and would be borne mostly by other people. He does not speak of enemies within and does not need to. The scene closes with the trade made correctly on the seat's own horizon, and the losing move chosen for sound reasons by a man who wants a capable army and says so sincerely (Talmadge).
+Through [Weighing](process_weighing.md), [the Ruler](persona_the_ruler.md), from [the ruler's seat](position_ruler.md), on [Hold the Throne](plan_hold_the_throne.md) prices what he is facing, and [the Two Clocks](piece_the_two_clocks.md) is set: the coup is frequent in this region, recent in this country, and would end with him personally within the week, while the war is deferred, may never arrive, and would be borne mostly by other people. He does not speak of enemies within and does not need to. The scene closes with the trade made correctly on the seat's own horizon, and the losing move chosen for sound reasons by a man who wants a capable army and says so sincerely (Talmadge).
 
 ## Stage
 

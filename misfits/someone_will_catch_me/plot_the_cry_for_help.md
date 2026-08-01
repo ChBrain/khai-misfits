@@ -30,7 +30,7 @@ Someone about to fall, a genuine suffering within reach of relief, and a helper 
 
 ## Stage
 
-[The Samaritan](persona_the_samaritan.md) meets the need at [the Brink](place_the_brink.md), on [Help Regardless](plan_help_regardless.md), delivering [the rescue](piece_the_rescue.md) that ends the present harm, unable to stand by and right not to.
+[The Samaritan](persona_the_samaritan.md), from [the the open hand's seat](position_the_open_hand.md), meets the need at [the Brink](place_the_brink.md), on [Help Regardless](plan_help_regardless.md), delivering [the rescue](piece_the_rescue.md) that ends the present harm, unable to stand by and right not to.
 The relief is real and the gratitude earned, and nothing in the moment looks like anything but good.
 
 ## Tension

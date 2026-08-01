@@ -30,7 +30,7 @@ A single departure, no statement in it, that leaves the block a little more one-
 
 ## Stage
 
-[The Neighbour](persona_the_neighbour.md), on [Leave When Few](plan_leave_when_few.md), reads [the mix](piece_the_mix.md) after the first exit, finds it has slipped below [the threshold](piece_the_threshold.md) in [the preference](piece_the_preference.md), and moves.
+[The Neighbour](persona_the_neighbour.md), from [the the address's seat](position_the_address.md), on [Leave When Few](plan_leave_when_few.md), reads [the mix](piece_the_mix.md) after the first exit, finds it has slipped below [the threshold](piece_the_threshold.md) in [the preference](piece_the_preference.md), and moves.
 The read is honest and the move is lawful, and the leaving lowers the like-share once more for whoever remains.
 
 ## Tension

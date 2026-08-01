@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Streaming](process_streaming.md), [The Peddler](persona_the_peddler.md) on [Find It a Problem](plan_find_it_a_problem.md) holds [The Solution](piece_the_solution.md), a pet proposal or ready framework that existed before any problem of the day, and carries it toward every occasion, waiting for a choice to open. The scene closes with a solution ready to attach to whatever can it meets, its question still to be found (Kingdon).
+Through [Streaming](process_streaming.md), [The Peddler](persona_the_peddler.md), from [the peddler's seat](position_peddler.md), on [Find It a Problem](plan_find_it_a_problem.md) holds [The Solution](piece_the_solution.md), a pet proposal or ready framework that existed before any problem of the day, and carries it toward every occasion, waiting for a choice to open. The scene closes with a solution ready to attach to whatever can it meets, its question still to be found (Kingdon).
 
 ## Stage
 

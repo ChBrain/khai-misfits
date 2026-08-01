@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Hedging](process_hedging.md), [the Patron](persona_the_patron.md) on [Set the Dial Where It Holds](plan_set_the_dial_where_it_holds.md) sets [the Restored Choice](piece_the_restored_choice.md): the named territory goes back to consultation, the named contingency to appropriate action, the named force to all means it deems necessary, and the decision of whether this country fights comes home where it belongs. The scene closes with the freedom recovered and with the source of the payment identified, since a deterrent is not a capability but a belief in somebody else's head, and the belief is what has just been spent (Schelling).
+Through [Hedging](process_hedging.md), [the Patron](persona_the_patron.md), from [the patron's seat](position_patron.md), on [Set the Dial Where It Holds](plan_set_the_dial_where_it_holds.md) sets [the Restored Choice](piece_the_restored_choice.md): the named territory goes back to consultation, the named contingency to appropriate action, the named force to all means it deems necessary, and the decision of whether this country fights comes home where it belongs. The scene closes with the freedom recovered and with the source of the payment identified, since a deterrent is not a capability but a belief in somebody else's head, and the belief is what has just been spent (Schelling).
 
 ## Stage
 

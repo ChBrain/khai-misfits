@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Lifting](process_lifting.md), [the Double Lift](piece_the_double_lift.md) shows: the lower stage has shed its worst cases and its survival figure has improved, the upper stage has gained cases better than its own and its figure has improved too, every rung lifted at once by the single movement. So [the Oncologist](persona_the_oncologist.md) on [Compare to Last Decade](plan_compare_to_last_decade.md) reads advance across the board, with [the Empty Progress](piece_the_empty_progress.md) standing beneath it unremarked: not one patient lived a day longer, no treatment worked better, and the same people are dying at the same times of the same disease. The scene closes with improvement real in the table and absent from the world (Feinstein, Sosin and Wells).
+Through [Lifting](process_lifting.md), [the Double Lift](piece_the_double_lift.md) shows: the lower stage has shed its worst cases and its survival figure has improved, the upper stage has gained cases better than its own and its figure has improved too, every rung lifted at once by the single movement. So [the Oncologist](persona_the_oncologist.md), from [the oncologist's seat](position_oncologist.md), on [Compare to Last Decade](plan_compare_to_last_decade.md) reads advance across the board, with [the Empty Progress](piece_the_empty_progress.md) standing beneath it unremarked: not one patient lived a day longer, no treatment worked better, and the same people are dying at the same times of the same disease. The scene closes with improvement real in the table and absent from the world (Feinstein, Sosin and Wells).
 
 ## Stage
 

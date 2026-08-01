@@ -30,7 +30,7 @@ A reader who treats the trial docket as a filtered residue and turns, before cou
 
 ## Stage
 
-[The Realist](persona_the_realist.md) works from [the Settled](place_the_settled.md), on [Count the Settled](plan_count_the_settled.md), reconstructing [the unlitigated](piece_the_unlitigated.md) that [the sieve](piece_the_sieve.md) removed and discounting [the coin flip](piece_the_coin_flip.md) as the sample's, so [the docket](piece_the_docket.md) is read through the selection rather than at face value.
+[The Realist](persona_the_realist.md), from [the the estimate's seat](position_the_estimate.md), works from [the Settled](place_the_settled.md), on [Count the Settled](plan_count_the_settled.md), reconstructing [the unlitigated](piece_the_unlitigated.md) that [the sieve](piece_the_sieve.md) removed and discounting [the coin flip](piece_the_coin_flip.md) as the sample's, so [the docket](piece_the_docket.md) is read through the selection rather than at face value.
 The correction is real, and it rests on the cases no one recorded.
 
 ## Tension

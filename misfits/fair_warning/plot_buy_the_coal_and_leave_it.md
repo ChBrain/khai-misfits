@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Retiring](process_retiring.md), [the Economist](persona_the_economist.md) on [Buy It and Leave It](plan_buy_it_and_leave_it.md) holds [the Boundary](piece_the_boundary.md): every instrument in the package acts on demand while the mechanism runs through supply, so buy the reserves and retire them, tax the stock rather than the flow, or assemble a demand cartel with no unregulated buyer left. Each is priced rather than recommended, and the magnitude is stated as contested, turning on extraction costs and on how much of the stock is ultimately economic. The scene closes with the announcement conceded to have been right on both of its faces, and the correction shelved.
+Through [Retiring](process_retiring.md), [the Economist](persona_the_economist.md), from [the economist's seat](position_economist.md), on [Buy It and Leave It](plan_buy_it_and_leave_it.md) holds [the Boundary](piece_the_boundary.md): every instrument in the package acts on demand while the mechanism runs through supply, so buy the reserves and retire them, tax the stock rather than the flow, or assemble a demand cartel with no unregulated buyer left. Each is priced rather than recommended, and the magnitude is stated as contested, turning on extraction costs and on how much of the stock is ultimately economic. The scene closes with the announcement conceded to have been right on both of its faces, and the correction shelved.
 
 ## Stage
 

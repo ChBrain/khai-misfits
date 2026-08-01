@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Imprinting](process_imprinting.md), [the Paternal Gene](persona_the_paternal_gene.md) on [Draw It All Now](plan_draw_it_all_now.md) stays active at the growth loci, and [the Maternal Gene](persona_the_maternal_gene.md) on [Hold Some in Reserve](plan_hold_some_in_reserve.md) is silenced there, since it alone has a real stake in a future half sibling by a different father and the paternal copy has none. The scene closes with [the Imprint](piece_the_imprint.md) set, one copy switched on and pressing, the other real but unheard (Haig; Haig and Moore).
+Through [Imprinting](process_imprinting.md), [the Paternal Gene](persona_the_paternal_gene.md) on [Draw It All Now](plan_draw_it_all_now.md) stays active at the growth loci, and [the Maternal Gene](persona_the_maternal_gene.md), from [the maternal gene's seat](position_maternal_gene.md), on [Hold Some in Reserve](plan_hold_some_in_reserve.md) is silenced there, since it alone has a real stake in a future half sibling by a different father and the paternal copy has none. The scene closes with [the Imprint](piece_the_imprint.md) set, one copy switched on and pressing, the other real but unheard (Haig; Haig and Moore).
 
 ## Stage
 

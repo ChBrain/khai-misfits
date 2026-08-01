@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Counterweighting](process_counterweighting.md), [the Guard](persona_the_guard.md) on [Stand Apart](plan_stand_apart.md) becomes [the Counterweight](piece_the_counterweight.md): a force that holds the capital, answers to one man, comes under no field commander in any circumstance, and is better equipped and better trained than the army it sits beside, because a counterweight that could not fight would not weigh. It takes its priority on fuel and transport openly, that priority being written into its establishment rather than taken from anyone. The scene closes with the capital secured and the field army halved in the same act, two forces that cannot be concentrated by one order and draw on one stock (Quinlivan).
+Through [Counterweighting](process_counterweighting.md), [the Guard](persona_the_guard.md), from [the guard's seat](position_guard.md), on [Stand Apart](plan_stand_apart.md) becomes [the Counterweight](piece_the_counterweight.md): a force that holds the capital, answers to one man, comes under no field commander in any circumstance, and is better equipped and better trained than the army it sits beside, because a counterweight that could not fight would not weigh. It takes its priority on fuel and transport openly, that priority being written into its establishment rather than taken from anyone. The scene closes with the capital secured and the field army halved in the same act, two forces that cannot be concentrated by one order and draw on one stock (Quinlivan).
 
 ## Stage
 

@@ -30,7 +30,7 @@ A case that will not yield to the familiar answer, where the primed method runs 
 
 ## Stage
 
-[The Master](persona_the_master.md) applies the trusted method and it fails, [the set](piece_the_set.md) delivering no answer and holding them there, while [the Novice](persona_the_novice.md), on [Come to It Fresh](plan_come_to_it_fresh.md), meets the board whole and finds [the simpler way](piece_the_simpler_way.md) at once; and [the Doubter](persona_the_doubter.md), on [Search Past the Answer](plan_search_past_the_answer.md), shows the remedy at its price, distrusting the method to reach what it hid.
+[The Master](persona_the_master.md), from [the the repertoire's seat](position_the_repertoire.md), applies the trusted method and it fails, [the set](piece_the_set.md) delivering no answer and holding them there, while [the Novice](persona_the_novice.md), from [the the fresh eye's seat](position_the_fresh_eye.md), on [Come to It Fresh](plan_come_to_it_fresh.md), meets the board whole and finds [the simpler way](piece_the_simpler_way.md) at once; and [the Doubter](persona_the_doubter.md), from [the the second look's seat](position_the_second_look.md), on [Search Past the Answer](plan_search_past_the_answer.md), shows the remedy at its price, distrusting the method to reach what it hid.
 The expert fails where the beginner passes, and the cure is to become, on purpose, a little like the beginner.
 
 ## Tension

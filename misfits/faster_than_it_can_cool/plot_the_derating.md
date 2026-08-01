@@ -25,7 +25,7 @@ At [The Diagram](place_the_diagram.md), and against [The Rating](place_the_ratin
 
 ## Action
 
-[The Engineer](persona_the_engineer.md), on [Hold the Margin](plan_hold_the_margin.md), reads the Diagram and derates the operating point far below [the Critical Point](piece_the_critical_point.md): adds cooling, fits a vent, sets [the Rating](place_the_rating.md) with a wide printed distance to the threshold. Every setting works, and every setting costs, paid in the capacity, energy, and mass given up to buy the distance.
+[The Engineer](persona_the_engineer.md), from [the engineer's seat](position_engineer.md), on [Hold the Margin](plan_hold_the_margin.md), reads the Diagram and derates the operating point far below [the Critical Point](piece_the_critical_point.md): adds cooling, fits a vent, sets [the Rating](place_the_rating.md) with a wide printed distance to the threshold. Every setting works, and every setting costs, paid in the capacity, energy, and mass given up to buy the distance.
 
 ## Stage
 

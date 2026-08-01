@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Shedding](process_shedding.md), [The Carrier](piece_the_carrier.md): the shot keeps [The Vaccinated](persona_the_vaccinated.md) alive through a hyper-virulent infection that would have killed an unvaccinated host too fast to spread, and while it lives it sheds. The scene closes with the deadliest strain now transmissible, kept alive by the host the vaccine saved, the cost of virulence paid on its behalf (Read and colleagues).
+Through [Shedding](process_shedding.md), [The Carrier](piece_the_carrier.md): the shot keeps [The Vaccinated](persona_the_vaccinated.md), from [the vaccinated's seat](position_vaccinated.md), alive through a hyper-virulent infection that would have killed an unvaccinated host too fast to spread, and while it lives it sheds. The scene closes with the deadliest strain now transmissible, kept alive by the host the vaccine saved, the cost of virulence paid on its behalf (Read and colleagues).
 
 ## Stage
 

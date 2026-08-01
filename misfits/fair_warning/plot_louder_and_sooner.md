@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Pressing](process_pressing.md), [the Campaigner](persona_the_campaigner.md) on [Make It Certain](plan_make_it_certain.md) sets [the Certainty](piece_the_certainty.md): a statutory backstop won, two exemptions closed, the date restated in terms a successor will be held to. The argument is made from a long and accurate record of phase-outs that died quietly through vagueness, deferral and quiet renewal. The scene closes with the campaign correct in every particular, winning on every particular, and each increment of credibility landing in a ledger it was not aimed at.
+Through [Pressing](process_pressing.md), [the Campaigner](persona_the_campaigner.md), from [the campaigner's seat](position_campaigner.md), on [Make It Certain](plan_make_it_certain.md) sets [the Certainty](piece_the_certainty.md): a statutory backstop won, two exemptions closed, the date restated in terms a successor will be held to. The argument is made from a long and accurate record of phase-outs that died quietly through vagueness, deferral and quiet renewal. The scene closes with the campaign correct in every particular, winning on every particular, and each increment of credibility landing in a ledger it was not aimed at.
 
 ## Stage
 

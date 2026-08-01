@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Computing](process_computing.md), [the Numerate](persona_the_numerate.md) on [Work It Through](plan_work_it_through.md) brings [the Craft](piece_the_craft.md) to the ratios and reaches the correct answer, while [the Plain Reader](persona_the_plain_reader.md) on [Read It Plain](plan_read_it_plain.md) compares the raw counts and is caught by exactly the trap the table was built to set. The scene closes with ability doing precisely what ability should, the answer following the skill and nothing else.
+Through [Computing](process_computing.md), [the Numerate](persona_the_numerate.md), from [the numerate's seat](position_numerate.md), on [Work It Through](plan_work_it_through.md) brings [the Craft](piece_the_craft.md) to the ratios and reaches the correct answer, while [the Plain Reader](persona_the_plain_reader.md), from [the plain reader's seat](position_plain_reader.md), on [Read It Plain](plan_read_it_plain.md) compares the raw counts and is caught by exactly the trap the table was built to set. The scene closes with ability doing precisely what ability should, the answer following the skill and nothing else.
 
 ## Stage
 

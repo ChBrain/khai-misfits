@@ -30,7 +30,7 @@ A planner with a distance to act across, and a tangle that must be reduced to a 
 
 ## Stage
 
-[The Planner](persona_the_planner.md), on [Make It Legible](plan_make_it_legible.md), draws [the map](piece_the_map.md) and presses it onto [the forest](place_the_forest.md), remaking the domain into [the legible order](piece_the_legible_order.md) it can read, because a centre cannot act on what it cannot hold in a table.
+[The Planner](persona_the_planner.md), from [the the centre's seat](position_the_centre.md), on [Make It Legible](plan_make_it_legible.md), draws [the map](piece_the_map.md) and presses it onto [the forest](place_the_forest.md), remaking the domain into [the legible order](piece_the_legible_order.md) it can read, because a centre cannot act on what it cannot hold in a table.
 Nothing is cruel in it, and the grid is a real tool: only the place is now what the map says it is.
 
 ## Tension

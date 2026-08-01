@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Reckoning](process_reckoning.md), [the Colonel](persona_the_colonel.md) on [Be Ready Anyway](plan_be_ready_anyway.md) meets [the Bill](piece_the_bill.md): asked to concentrate, he cannot, because the other force answers elsewhere and will not come under his command; asked to combine, he cannot, because his people have never exercised above the level at which combined arms begins; asked to move, he cannot, because he may not speak to the formation on his flank and is meeting it for the first time today. A smaller enemy does all three. The scene closes with the position lost and no failure of courage anywhere in the account.
+Through [Reckoning](process_reckoning.md), [the Colonel](persona_the_colonel.md), from [the colonel's seat](position_colonel.md), on [Be Ready Anyway](plan_be_ready_anyway.md) meets [the Bill](piece_the_bill.md): asked to concentrate, he cannot, because the other force answers elsewhere and will not come under his command; asked to combine, he cannot, because his people have never exercised above the level at which combined arms begins; asked to move, he cannot, because he may not speak to the formation on his flank and is meeting it for the first time today. A smaller enemy does all three. The scene closes with the position lost and no failure of courage anywhere in the account.
 
 ## Stage
 

@@ -26,7 +26,7 @@ The committee wanting re-election, the agency wanting its budget and mission, th
 
 ## Action
 
-[Serving](process_serving.md): [The Chairman](persona_the_chairman.md), [The Administrator](persona_the_administrator.md), and [The Lobbyist](persona_the_lobbyist.md), each holding its seat, pursue their proper mandates, each needing what the others command.
+[Serving](process_serving.md): [The Chairman](persona_the_chairman.md), from [the committee's seat](position_committee.md), [The Administrator](persona_the_administrator.md), from [the bureau's seat](position_bureau.md), and [The Lobbyist](persona_the_lobbyist.md), from [the lobby's seat](position_lobby.md), each holding its seat, pursue their proper mandates, each needing what the others command.
 
 ## Stage
 

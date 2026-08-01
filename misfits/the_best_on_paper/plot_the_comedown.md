@@ -30,7 +30,7 @@ A pick that promised a number, now delivering the truth beneath the noise that c
 
 ## Stage
 
-[The Selector](persona_the_selector.md) meets the realisation of their pick, and [the overstatement](piece_the_overstatement.md) selection created is paid back as [the letdown](piece_the_letdown.md), the value falling short of the flattered [valuation](piece_the_valuation.md).
+[The Selector](persona_the_selector.md), from [the the ranking's seat](position_the_ranking.md), meets the realisation of their pick, and [the overstatement](piece_the_overstatement.md) selection created is paid back as [the letdown](piece_the_letdown.md), the value falling short of the flattered [valuation](piece_the_valuation.md).
 The disappointment is real and names no culprit, the analyst unbiased and the rule optimal and the value short all the same.
 
 ## Tension

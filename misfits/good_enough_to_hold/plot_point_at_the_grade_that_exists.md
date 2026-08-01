@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Referencing](process_referencing.md), [the Regulator](persona_the_regulator.md) on [Reference the Standard That Exists](plan_reference_the_standard_that_exists.md) sets [the Licence](piece_the_licence.md): the rule says investment grade, pointing at the best assessment that exists, which is a private one with a genuine record and one the regulated parties already use. The industry would rather the reference were not written. The scene closes with a private opinion turned into a legal threshold, nothing in the rating and nothing in the agency having changed, and the change being entirely in what the grade now does (Partnoy).
+Through [Referencing](process_referencing.md), [the Regulator](persona_the_regulator.md), from [the regulator's seat](position_regulator.md), on [Reference the Standard That Exists](plan_reference_the_standard_that_exists.md) sets [the Licence](piece_the_licence.md): the rule says investment grade, pointing at the best assessment that exists, which is a private one with a genuine record and one the regulated parties already use. The industry would rather the reference were not written. The scene closes with a private opinion turned into a legal threshold, nothing in the rating and nothing in the agency having changed, and the change being entirely in what the grade now does (Partnoy).
 
 ## Stage
 

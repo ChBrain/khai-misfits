@@ -25,7 +25,7 @@ At [The Vessel](place_the_vessel.md), a system running at a steady, unremarkable
 
 ## Action
 
-[Generating](process_generating.md) and [Shedding](process_shedding.md) stand matched, the loss just ahead: [the Sink](persona_the_sink.md), on [Shed the Heat](plan_shed_the_heat.md), carries warmth away faster than [the Reaction](persona_the_reaction.md), on [Follow the Rate](plan_follow_the_rate.md), can make it. [The Cell](persona_the_cell.md), on [Settle Back](plan_settle_back.md), erases every small warming the moment it appears, letting the loss grow to meet the gain and return the system to rest, and in doing so holds [the Balance](piece_the_balance.md).
+[Generating](process_generating.md) and [Shedding](process_shedding.md) stand matched, the loss just ahead: [the Sink](persona_the_sink.md), from [the sink's seat](position_sink.md), on [Shed the Heat](plan_shed_the_heat.md), carries warmth away faster than [the Reaction](persona_the_reaction.md), from [the reaction's seat](position_reaction.md), on [Follow the Rate](plan_follow_the_rate.md), can make it. [The Cell](persona_the_cell.md), from [the cell's seat](position_cell.md), on [Settle Back](plan_settle_back.md), erases every small warming the moment it appears, letting the loss grow to meet the gain and return the system to rest, and in doing so holds [the Balance](piece_the_balance.md).
 
 ## Stage
 

@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Poster](persona_the_poster.md) on [Post the Price](plan_post_the_price.md) through [Posting](process_posting.md) holds [The Boundary](piece_the_boundary.md): it posts and advertises the prices so comparison is free, and the seller that raises is seen and left, so the price falls back toward cost, and where some shoppers search at no cost a spread of prices returns. The scene closes with competition restorable at the cost of making search free, the trap bounded (Salop and Stiglitz; Varian).
+[The Poster](persona_the_poster.md), from [the poster's seat](position_poster.md), on [Post the Price](plan_post_the_price.md) through [Posting](process_posting.md) holds [The Boundary](piece_the_boundary.md): it posts and advertises the prices so comparison is free, and the seller that raises is seen and left, so the price falls back toward cost, and where some shoppers search at no cost a spread of prices returns. The scene closes with competition restorable at the cost of making search free, the trap bounded (Salop and Stiglitz; Varian).
 
 ## Stage
 

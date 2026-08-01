@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Standardising](process_standardising.md), [the Risk Officer](persona_the_risk_officer.md) on [Measure It Properly](plan_measure_it_properly.md) sets [the Same Model](piece_the_same_model.md): a well-posed question asked of shared data has a best answer, so each firm's people do the work themselves and arrive where every counterpart independently arrived. The scene closes with the models not merely resembling one another but agreeing, and updating together, an outcome nobody chose and nobody can be faulted for (Daníelsson and Shin).
+Through [Standardising](process_standardising.md), [the Risk Officer](persona_the_risk_officer.md), from [the risk officer's seat](position_risk_officer.md), on [Measure It Properly](plan_measure_it_properly.md) sets [the Same Model](piece_the_same_model.md): a well-posed question asked of shared data has a best answer, so each firm's people do the work themselves and arrive where every counterpart independently arrived. The scene closes with the models not merely resembling one another but agreeing, and updating together, an outcome nobody chose and nobody can be faulted for (Daníelsson and Shin).
 
 ## Stage
 

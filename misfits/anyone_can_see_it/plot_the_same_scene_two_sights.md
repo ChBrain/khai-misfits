@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Construing](process_construing.md), [The Convinced](persona_the_convinced.md) and [The Opposed](persona_the_opposed.md) read the same events oppositely, each carrying [The Plain Sight](piece_the_plain_sight.md), certain its reading is simply what happened. The scene closes with two honest, incompatible accounts, each taken by its holder for the plain truth (Ross and Ward).
+Through [Construing](process_construing.md), [The Convinced](persona_the_convinced.md), from [the convinced's seat](position_convinced.md), and [The Opposed](persona_the_opposed.md), from [the opposed's seat](position_opposed.md), read the same events oppositely, each carrying [The Plain Sight](piece_the_plain_sight.md), certain its reading is simply what happened. The scene closes with two honest, incompatible accounts, each taken by its holder for the plain truth (Ross and Ward).
 
 ## Stage
 

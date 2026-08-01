@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Watching](process_watching.md), [the Partner](persona_the_partner.md) on [Watch How They Treat Them](plan_watch_how_they_treat_them.md) sets [the Watchers](piece_the_watchers.md): no accusation is made, the communique on unity is signed and meant, and the study on independent capability is commissioned the same week. The reasoning is that no patron has ever demonstrated a guarantee except by keeping one, so conduct is the only evidence and words about unity are available to every patron regardless. The scene closes with a doubt raised in one capital priced in all of them, and the alliance chained to its weakest quarrel or coming apart in pieces (Christensen and Jack Snyder).
+Through [Watching](process_watching.md), [the Partner](persona_the_partner.md), from [the partner's seat](position_partner.md), on [Watch How They Treat Them](plan_watch_how_they_treat_them.md) sets [the Watchers](piece_the_watchers.md): no accusation is made, the communique on unity is signed and meant, and the study on independent capability is commissioned the same week. The reasoning is that no patron has ever demonstrated a guarantee except by keeping one, so conduct is the only evidence and words about unity are available to every patron regardless. The scene closes with a doubt raised in one capital priced in all of them, and the alliance chained to its weakest quarrel or coming apart in pieces (Christensen and Jack Snyder).
 
 ## Stage
 

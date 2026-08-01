@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Mimic](persona_the_mimic.md) on [Match the Signal](plan_match_the_signal.md) attempts [The Signal](piece_the_signal.md), and through [Sorting](process_sorting.md) [The Differential](piece_the_differential.md) tells: the cost that the holder could bear falls harder on the pretender, so the two separate. The scene closes with [The Separation](piece_the_separation.md) holding, the signal honest exactly because the mimic could not afford it (Spence; Grafen).
+[The Mimic](persona_the_mimic.md), from [the mimic's seat](position_mimic.md), on [Match the Signal](plan_match_the_signal.md) attempts [The Signal](piece_the_signal.md), and through [Sorting](process_sorting.md) [The Differential](piece_the_differential.md) tells: the cost that the holder could bear falls harder on the pretender, so the two separate. The scene closes with [The Separation](piece_the_separation.md) holding, the signal honest exactly because the mimic could not afford it (Spence; Grafen).
 
 ## Stage
 

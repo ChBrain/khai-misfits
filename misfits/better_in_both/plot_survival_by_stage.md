@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Registrar](persona_the_registrar.md) on [Stage It by the Book](plan_stage_it_by_the_book.md) sorts each case onto [the Ladder](piece_the_ladder.md) by extent of spread, and outcomes are reported stage by stage. This is not a compromise but the correct method: a stage I case and a stage IV case are not the same case, and a single pooled figure would track the changing mix of stages rather than the medicine. The scene closes with the right yardstick in place and the whole field rightly reading it (Feinstein, Sosin and Wells).
+[The Registrar](persona_the_registrar.md), from [the registrar's seat](position_registrar.md), on [Stage It by the Book](plan_stage_it_by_the_book.md) sorts each case onto [the Ladder](piece_the_ladder.md) by extent of spread, and outcomes are reported stage by stage. This is not a compromise but the correct method: a stage I case and a stage IV case are not the same case, and a single pooled figure would track the changing mix of stages rather than the medicine. The scene closes with the right yardstick in place and the whole field rightly reading it (Feinstein, Sosin and Wells).
 
 ## Stage
 

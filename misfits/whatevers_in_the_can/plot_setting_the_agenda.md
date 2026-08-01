@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Convener](persona_the_convener.md) on [Structure the Access](plan_structure_the_access.md) through [Structuring](process_structuring.md) holds [The Boundary](piece_the_boundary.md): access rules, decision rules, and deadlines can time the streams so the right problem and the right solution meet in the same can, but each is costly, narrows the useful openness, and cannot be fully imposed where goals stay ambiguous. The scene closes with the coupling improvable at a cost, and the trap shown bounded (Cohen, March, and Olsen; March and Olsen).
+[The Convener](persona_the_convener.md), from [the convener's seat](position_convener.md), on [Structure the Access](plan_structure_the_access.md) through [Structuring](process_structuring.md) holds [The Boundary](piece_the_boundary.md): access rules, decision rules, and deadlines can time the streams so the right problem and the right solution meet in the same can, but each is costly, narrows the useful openness, and cannot be fully imposed where goals stay ambiguous. The scene closes with the coupling improvable at a cost, and the trap shown bounded (Cohen, March, and Olsen; March and Olsen).
 
 ## Stage
 

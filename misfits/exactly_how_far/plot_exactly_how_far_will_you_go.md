@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Reassuring](process_reassuring.md), [the Ally](persona_the_ally.md) on [Ask for It in Writing](plan_ask_for_it_in_writing.md) sets [the Dial](piece_the_dial.md): what territory, which contingencies, whose forces, on what timetable, and what happens on the morning the shooting starts. It will not accept a formula that names nothing, because a formula that names nothing reassures nobody and was not drafted to. The scene closes with the question established as one any government in this position is obliged to ask, and with the answer established as a setting rather than a switch, carrying abandonment at one end and entrapment at the other, both fears well founded (Glenn Snyder).
+Through [Reassuring](process_reassuring.md), [the Ally](persona_the_ally.md), from [the ally's seat](position_ally.md), on [Ask for It in Writing](plan_ask_for_it_in_writing.md) sets [the Dial](piece_the_dial.md): what territory, which contingencies, whose forces, on what timetable, and what happens on the morning the shooting starts. It will not accept a formula that names nothing, because a formula that names nothing reassures nobody and was not drafted to. The scene closes with the question established as one any government in this position is obliged to ask, and with the answer established as a setting rather than a switch, carrying abandonment at one end and entrapment at the other, both fears well founded (Glenn Snyder).
 
 ## Stage
 

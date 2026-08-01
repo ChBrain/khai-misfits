@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Strain](persona_the_strain.md) is held by [The Cap](piece_the_cap.md): a variant too deadly kills its host before it can spread, so the deadliest burn out with the bodies they fell, and virulence settles where harm and transmission trade off best. The scene closes with virulence bounded, the cost of killing the host enforcing the ceiling on its own (Anderson and May).
+[The Strain](persona_the_strain.md), from [the strain's seat](position_strain.md), is held by [The Cap](piece_the_cap.md): a variant too deadly kills its host before it can spread, so the deadliest burn out with the bodies they fell, and virulence settles where harm and transmission trade off best. The scene closes with virulence bounded, the cost of killing the host enforcing the ceiling on its own (Anderson and May).
 
 ## Stage
 

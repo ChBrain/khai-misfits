@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Surfacing](process_surfacing.md), [the Prescriber](persona_the_prescriber.md) on [Cover It Now](plan_cover_it_now.md) meets [the Stranger's Isolate](piece_the_strangers_isolate.md): the patient carrying the organism never took the drug that selected it, and the prescriptions that generated the pressure were written for other people, for other infections, across other years. The scene closes with the decision and the damage sharing no patient, no clinician and no decade, and with nothing travelling back to any seat that could have acted differently (Lipsitch and Samore).
+Through [Surfacing](process_surfacing.md), [the Prescriber](persona_the_prescriber.md), from [the prescriber's seat](position_prescriber.md), on [Cover It Now](plan_cover_it_now.md) meets [the Stranger's Isolate](piece_the_strangers_isolate.md): the patient carrying the organism never took the drug that selected it, and the prescriptions that generated the pressure were written for other people, for other infections, across other years. The scene closes with the decision and the damage sharing no patient, no clinician and no decade, and with nothing travelling back to any seat that could have acted differently (Lipsitch and Samore).
 
 ## Stage
 

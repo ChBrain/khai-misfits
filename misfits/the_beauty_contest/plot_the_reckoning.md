@@ -30,7 +30,7 @@ A valuer with a sound reckoning of worth, a price adrift from it, and the capita
 
 ## Stage
 
-[The Valuer](persona_the_valuer.md), on [Weigh the Thing](plan_weigh_the_thing.md), sells the swell and buys the wreck, anchoring on [the fundamental](piece_the_fundamental.md) against the whole self-referential [contest](piece_the_contest.md), the one discipline the game admits.
+[The Valuer](persona_the_valuer.md), from [the the ledger's seat](position_the_ledger.md), on [Weigh the Thing](plan_weigh_the_thing.md), sells the swell and buys the wreck, anchoring on [the fundamental](piece_the_fundamental.md) against the whole self-referential [contest](piece_the_contest.md), the one discipline the game admits.
 The valuation is right and the position sound, and the correction is owed on no schedule.
 
 ## Tension

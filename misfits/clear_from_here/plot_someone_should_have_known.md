@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Judging](process_judging.md), [the Claimant](persona_the_claimant.md) on [Demand an Account](plan_demand_an_account.md) presses a demand that cannot be waved off, and [the Verdict](piece_the_verdict.md) follows: a sound call recorded as a warning ignored, and elsewhere a reckless call that came off recorded as judgement. Beneath it stands [the Lost Lesson](piece_the_lost_lesson.md), since a finding that someone missed an obvious sign yields the instruction to notice obvious signs, which teaches nothing, the sign not having been obvious then and not being obvious next time. The scene closes with accountability formally delivered and understanding forgone (Baron and Hershey).
+Through [Judging](process_judging.md), [the Claimant](persona_the_claimant.md), from [the claimant's seat](position_claimant.md), on [Demand an Account](plan_demand_an_account.md) presses a demand that cannot be waved off, and [the Verdict](piece_the_verdict.md) follows: a sound call recorded as a warning ignored, and elsewhere a reckless call that came off recorded as judgement. Beneath it stands [the Lost Lesson](piece_the_lost_lesson.md), since a finding that someone missed an obvious sign yields the instruction to notice obvious signs, which teaches nothing, the sign not having been obvious then and not being obvious next time. The scene closes with accountability formally delivered and understanding forgone (Baron and Hershey).
 
 ## Stage
 

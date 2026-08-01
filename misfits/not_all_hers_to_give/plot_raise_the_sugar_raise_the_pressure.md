@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Extracting](process_extracting.md), [the Paternal Gene](persona_the_paternal_gene.md) drives [the Push](piece_the_push.md): placental hormones lift the mother's blood sugar and blood pressure so more glucose and more blood flow cross to the fetus than her body would otherwise supply. The scene closes with the demand pressed, a paternally expressed growth gene shown moving it in the laboratory, the mechanism observed rather than inferred (DeChiara, Robertson and Efstratiadis).
+Through [Extracting](process_extracting.md), [the Paternal Gene](persona_the_paternal_gene.md), from [the paternal gene's seat](position_paternal_gene.md), drives [the Push](piece_the_push.md): placental hormones lift the mother's blood sugar and blood pressure so more glucose and more blood flow cross to the fetus than her body would otherwise supply. The scene closes with the demand pressed, a paternally expressed growth gene shown moving it in the laboratory, the mechanism observed rather than inferred (DeChiara, Robertson and Efstratiadis).
 
 ## Stage
 

@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Chair](persona_the_chair.md) on [Clear the Docket](plan_clear_the_docket.md) through [Coinciding](process_coinciding.md) reaches a decision by oversight, closing before the problems attach, or by flight, letting them drift to a better can, so [The Decoupling](piece_the_decoupling.md): a solution is adopted that answers a question never really asked here, and the problem is left unsolved. The scene closes with the decision made and the problem left behind, no one having erred (Cohen, March, and Olsen).
+[The Chair](persona_the_chair.md), from [the chair's seat](position_chair.md), on [Clear the Docket](plan_clear_the_docket.md) through [Coinciding](process_coinciding.md) reaches a decision by oversight, closing before the problems attach, or by flight, letting them drift to a better can, so [The Decoupling](piece_the_decoupling.md): a solution is adopted that answers a question never really asked here, and the problem is left unsolved. The scene closes with the decision made and the problem left behind, no one having erred (Cohen, March, and Olsen).
 
 ## Stage
 

@@ -30,7 +30,7 @@ An open edge where a little structure buys a great deal of order, the return on 
 
 ## Stage
 
-[The Administrator](persona_the_administrator.md), on [Add the Layer](plan_add_the_layer.md), raises [the layer](piece_the_layer.md) that solves the problem and banks [the return](piece_the_return.md), the solution kept and the method proven.
+[The Administrator](persona_the_administrator.md), from [the the office's seat](position_the_office.md), on [Add the Layer](plan_add_the_layer.md), raises [the layer](piece_the_layer.md) that solves the problem and banks [the return](piece_the_return.md), the solution kept and the method proven.
 The fix is real and the reward is large, and nothing in the moment shows that the layer will be owed forever.
 
 ## Tension

@@ -30,7 +30,7 @@ A road driven harder for a margin fitted to the car, and at the kerb and the ver
 
 ## Stage
 
-[The Exposed](persona_the_exposed.md), on [Hold the Path](plan_hold_the_path.md), keeps to the crossing at the same care as before and meets a road grown more dangerous, [the transfer](piece_the_transfer.md) landing on them a share of a margin they never held.
+[The Exposed](persona_the_exposed.md), from [the verge's seat](position_verge.md), on [Hold the Path](plan_hold_the_path.md), keeps to the crossing at the same care as before and meets a road grown more dangerous, [the transfer](piece_the_transfer.md) landing on them a share of a margin they never held.
 The driver restored their balance inside the car; the cost of restoring it did not stay inside the car.
 
 ## Tension

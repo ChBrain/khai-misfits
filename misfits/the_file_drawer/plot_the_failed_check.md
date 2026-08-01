@@ -30,7 +30,7 @@ A replication that is the correction the record needs, arriving at the door of [
 
 ## Stage
 
-[The Replicator](persona_the_replicator.md), on [Try to Correct](plan_try_to_correct.md), brings the failed check to the record, where it is [a null](piece_the_null.md) screened by the screen that kept the original, so [the significant](piece_the_significant.md) false positive stands in [the record](piece_the_record.md), cited as settled while its refutation gathers dust.
+[The Replicator](persona_the_replicator.md), from [the the check's seat](position_the_check.md), on [Try to Correct](plan_try_to_correct.md), brings the failed check to the record, where it is [a null](piece_the_null.md) screened by the screen that kept the original, so [the significant](piece_the_significant.md) false positive stands in [the record](piece_the_record.md), cited as settled while its refutation gathers dust.
 The check is sound, and the check found nothing, and the filter does not ask which.
 
 ## Tension

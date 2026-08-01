@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Signaler](persona_the_signaler.md) on [Burn to Prove](plan_burn_to_prove.md) through [Signaling](process_signaling.md) makes [The Signal](piece_the_signal.md), spending years or risk or runway on a display too dear to fake, and at [The Gate](place_the_gate.md) [The Reader](persona_the_reader.md) through [Reading](process_reading.md) believes it, precisely because faking it would have cost more than the prize. The scene closes with the signal read as truth, bought with real burn (Spence; Zahavi).
+[The Signaler](persona_the_signaler.md) on [Burn to Prove](plan_burn_to_prove.md) through [Signaling](process_signaling.md) makes [The Signal](piece_the_signal.md), spending years or risk or runway on a display too dear to fake, and at [The Gate](place_the_gate.md) [The Reader](persona_the_reader.md), from [the reader's seat](position_reader.md), through [Reading](process_reading.md) believes it, precisely because faking it would have cost more than the prize. The scene closes with the signal read as truth, bought with real burn (Spence; Zahavi).
 
 ## Stage
 

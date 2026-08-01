@@ -25,7 +25,7 @@ At [the Cross-Section](place_the_cross_section.md), one member's load with nowhe
 
 ## Action
 
-[Sharing](process_sharing.md) takes [the Share](piece_the_share.md) the parted strand carried and divides it across the members still holding, and each of them, [the Survivor](persona_the_survivor.md), runs [Take the Extra](plan_take_the_extra.md): absorbing a slightly heavier portion than it carried the instant before, exactly as the bundle was designed to allow.
+[Sharing](process_sharing.md) takes [the Share](piece_the_share.md) the parted strand carried and divides it across the members still holding, and each of them, [the Survivor](persona_the_survivor.md), from [the survivor's seat](position_survivor.md), runs [Take the Extra](plan_take_the_extra.md): absorbing a slightly heavier portion than it carried the instant before, exactly as the bundle was designed to allow.
 
 ## Stage
 

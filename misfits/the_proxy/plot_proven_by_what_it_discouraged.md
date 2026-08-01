@@ -30,7 +30,7 @@ A produced average now as low as the assumed one, and an able member presenting 
 
 ## Stage
 
-The loop closes as [the confirmation](piece_the_confirmation.md) returns the group's shortfall as proof of [the prior](piece_the_prior.md); and [the Standout](persona_the_standout.md), on [Signal Past the Discount](plan_signal_past_the_discount.md), presents [the signal](piece_the_signal.md) in full and is priced by the group anyway, the counter-evidence the loop cannot tell from the average.
+The loop closes as [the confirmation](piece_the_confirmation.md) returns the group's shortfall as proof of [the prior](piece_the_prior.md); and [the Standout](persona_the_standout.md), from [the the overlooked's seat](position_the_overlooked.md), on [Signal Past the Discount](plan_signal_past_the_discount.md), presents [the signal](piece_the_signal.md) in full and is priced by the group anyway, the counter-evidence the loop cannot tell from the average.
 The rating was right on the numbers, and the numbers were made by the rating.
 
 ## Tension

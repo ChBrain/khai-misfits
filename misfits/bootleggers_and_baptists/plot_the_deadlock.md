@@ -30,7 +30,7 @@ A room where principle presses from the podium and profit from the back room, an
 
 ## Stage
 
-[The Legislator](persona_the_legislator.md), on [Keep the Rule](plan_keep_the_rule.md), reads the room and keeps [the rule](piece_the_rule.md) because [the coalition](piece_the_coalition.md) defends it from both sides, the honest accounting overridden by a balance of pressure the two constituencies have stacked.
+[The Legislator](persona_the_legislator.md), from [the the chamber's seat](position_the_chamber.md), on [Keep the Rule](plan_keep_the_rule.md), reads the room and keeps [the rule](piece_the_rule.md) because [the coalition](piece_the_coalition.md) defends it from both sides, the honest accounting overridden by a balance of pressure the two constituencies have stacked.
 The read is sound and takes no bribe, and it keeps a law its own cost-benefit would fail.
 
 ## Tension

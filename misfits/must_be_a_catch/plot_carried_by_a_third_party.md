@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-[The Mediator](persona_the_mediator.md) on [Strip the Letterhead](plan_strip_the_letterhead.md) through [Relaying](process_relaying.md) holds [the Boundary](piece_the_boundary.md): the identical terms, carried by a trusted third party instead of the rival, are read close to what a neutral evaluation would give them, but only where a mediator both sides trust is available and its own neutrality is not itself contested. The scene closes with the deal recoverable at the cost of a channel not always at hand, the trap bounded (Ross and Stillinger).
+[The Mediator](persona_the_mediator.md), from [the mediator's seat](position_mediator.md), on [Strip the Letterhead](plan_strip_the_letterhead.md) through [Relaying](process_relaying.md) holds [the Boundary](piece_the_boundary.md): the identical terms, carried by a trusted third party instead of the rival, are read close to what a neutral evaluation would give them, but only where a mediator both sides trust is available and its own neutrality is not itself contested. The scene closes with the deal recoverable at the cost of a channel not always at hand, the trap bounded (Ross and Stillinger).
 
 ## Stage
 

@@ -30,7 +30,7 @@ A single shared source open to all, and around it the long reach of the advantag
 
 ## Stage
 
-The well-watered work [the louder claim](piece_the_louder_claim.md) at the shared well, drawing a fuller share though their thirst is shallow, while [the Parched](persona_the_parched.md), on [Take What Reaches](plan_take_what_reaches.md), take less than their need would warrant for want of the reach to draw more.
+The well-watered work [the louder claim](piece_the_louder_claim.md) at the shared well, drawing a fuller share though their thirst is shallow, while [the Parched](persona_the_parched.md), from [the the thirst's seat](position_the_thirst.md), on [Take What Reaches](plan_take_what_reaches.md), take less than their need would warrant for want of the reach to draw more.
 No one is turned away, and the share still runs to the reach and away from the need.
 
 ## Tension

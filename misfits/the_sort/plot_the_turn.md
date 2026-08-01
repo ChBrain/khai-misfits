@@ -30,7 +30,7 @@ A vacancy open in a street that has already thinned, the mix poised on the line 
 
 ## Stage
 
-[The Newcomer](persona_the_newcomer.md), on [Settle Where I Fit](plan_settle_where_i_fit.md), fills the vacancy where [the mix](piece_the_mix.md) already suits them, pushing it past [the threshold](piece_the_threshold.md) so the block empties of one kind and fills with the other into [the tipping](piece_the_tipping.md).
+[The Newcomer](persona_the_newcomer.md), from [the the vacancy's seat](position_the_vacancy.md), on [Settle Where I Fit](plan_settle_where_i_fit.md), fills the vacancy where [the mix](piece_the_mix.md) already suits them, pushing it past [the threshold](piece_the_threshold.md) so the block empties of one kind and fills with the other into [the tipping](piece_the_tipping.md).
 The fit is genuine and the arrival intends nothing, and the block tips the rest of the way and sets.
 
 ## Tension

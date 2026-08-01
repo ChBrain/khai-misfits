@@ -30,7 +30,7 @@ A well to be placed, one ground firm and rewarding and one grim and thirsty, and
 
 ## Stage
 
-[The Welldigger](persona_the_welldigger.md) sinks the well on the greenlands, on [Sink Where It Pays](plan_sink_where_it_pays.md), following [the gradient](piece_the_gradient.md) to the ground that will sustain the work, and the hardpan, thin of coin and hard of earth, goes undug.
+[The Welldigger](persona_the_welldigger.md), from [the the trade's seat](position_the_trade.md), sinks the well on the greenlands, on [Sink Where It Pays](plan_sink_where_it_pays.md), following [the gradient](piece_the_gradient.md) to the ground that will sustain the work, and the hardpan, thin of coin and hard of earth, goes undug.
 The choice is right for the digger and away from the thirst, and there is no other choice that keeps the well alive.
 
 ## Tension

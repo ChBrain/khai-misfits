@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Averaging](process_averaging.md), [the Trialist](persona_the_trialist.md) on [Report the Average](plan_report_the_average.md) collapses thousands of unlike patients into [the Average](piece_the_average.md), which is correct, and declines the subgroup claims that would not replicate. The scene closes with a valid estimate of what the treatment does to a population, and none at all of what it does to a person (Rothwell).
+Through [Averaging](process_averaging.md), [the Trialist](persona_the_trialist.md), from [the trialist's seat](position_trialist.md), on [Report the Average](plan_report_the_average.md) collapses thousands of unlike patients into [the Average](piece_the_average.md), which is correct, and declines the subgroup claims that would not replicate. The scene closes with a valid estimate of what the treatment does to a population, and none at all of what it does to a person (Rothwell).
 
 ## Stage
 

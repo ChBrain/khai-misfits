@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Adopting](process_adopting.md), [the Physician](persona_the_physician.md) on [Treat When the Moment Comes](plan_treat_when_the_moment_comes.md) meets [the Finding](piece_the_finding.md) again from the other side: it is legible, plausible, useful, and it says the treatment helps. It is cited accurately, a guideline moves, and the treatment is offered a little more readily than it was last year. The scene closes with the loop shut, the physician acting on an artefact of his own scheduling and holding no vantage from which the two ends could be joined.
+Through [Adopting](process_adopting.md), [the Physician](persona_the_physician.md), from [the physician's seat](position_physician.md), on [Treat When the Moment Comes](plan_treat_when_the_moment_comes.md) meets [the Finding](piece_the_finding.md) again from the other side: it is legible, plausible, useful, and it says the treatment helps. It is cited accurately, a guideline moves, and the treatment is offered a little more readily than it was last year. The scene closes with the loop shut, the physician acting on an artefact of his own scheduling and holding no vantage from which the two ends could be joined.
 
 ## Stage
 

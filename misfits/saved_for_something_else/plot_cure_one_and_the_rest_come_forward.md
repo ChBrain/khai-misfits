@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Inflating](process_inflating.md), [the Oncologist](persona_the_oncologist.md) on [Report What the Cohort Shows](plan_report_what_the_cohort_shows.md) sets [the Inflation](piece_the_inflation.md): everybody dies of something, so removing one cause raises the observed rate of every cause that remains, and the cardiac events in this cohort stand above the historical comparison by a margin nobody can wave away. The count is exact. The comparison is fair. Any other observer would find the same. The scene closes with an honest report of a real rise, which the seat would be concealing something not to make.
+Through [Inflating](process_inflating.md), [the Oncologist](persona_the_oncologist.md), from [the oncologist's seat](position_oncologist.md), on [Report What the Cohort Shows](plan_report_what_the_cohort_shows.md) sets [the Inflation](piece_the_inflation.md): everybody dies of something, so removing one cause raises the observed rate of every cause that remains, and the cardiac events in this cohort stand above the historical comparison by a margin nobody can wave away. The count is exact. The comparison is fair. Any other observer would find the same. The scene closes with an honest report of a real rise, which the seat would be concealing something not to make.
 
 ## Stage
 

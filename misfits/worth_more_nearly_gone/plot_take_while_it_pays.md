@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Taking](process_taking.md), [the Supplier](persona_the_supplier.md) on [Take What Pays](plan_take_what_pays.md) answers the signal any supplier would answer, and [the Dwindling](piece_the_dwindling.md) follows: the stock reduced season by season, and the value of every animal remaining lifted by exactly that reduction. The scene closes with a living earned and a population lowered by the earning of it.
+Through [Taking](process_taking.md), [the Supplier](persona_the_supplier.md), from [the supplier's seat](position_supplier.md), on [Take What Pays](plan_take_what_pays.md) answers the signal any supplier would answer, and [the Dwindling](piece_the_dwindling.md) follows: the stock reduced season by season, and the value of every animal remaining lifted by exactly that reduction. The scene closes with a living earned and a population lowered by the earning of it.
 
 ## Stage
 

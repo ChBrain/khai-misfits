@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Countering](process_countering.md), [the Mother](persona_the_mother.md) on [Ration the Broods](plan_ration_the_broods.md) raises her insulin output and adjusts her vasculature, [the Counter](piece_the_counter.md) meeting [the Push](piece_the_push.md) with room to spare in most pregnancies, ordinary gestation and no sign of any conflict at all. The scene closes with the press met, the tug invisible in the numbers, neither side at fault (Haig).
+Through [Countering](process_countering.md), [the Mother](persona_the_mother.md), from [the mother's seat](position_mother.md), on [Ration the Broods](plan_ration_the_broods.md) raises her insulin output and adjusts her vasculature, [the Counter](piece_the_counter.md) meeting [the Push](piece_the_push.md) with room to spare in most pregnancies, ordinary gestation and no sign of any conflict at all. The scene closes with the press met, the tug invisible in the numbers, neither side at fault (Haig).
 
 ## Stage
 

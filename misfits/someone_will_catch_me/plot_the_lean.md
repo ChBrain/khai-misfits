@@ -30,7 +30,7 @@ A guarantee that can be counted on, and a person sensibly arranging their affair
 
 ## Stage
 
-[The Sheltered](persona_the_sheltered.md) leans on [the rescue](piece_the_rescue.md) from [the Hammock](place_the_hammock.md), on [Lean on the Rescue](plan_lean_on_the_rescue.md), letting [the unbuilt](piece_the_unbuilt.md) go unbuilt and reading [the empty threat](piece_the_empty_threat.md) as the bluff it is.
+[The Sheltered](persona_the_sheltered.md), from [the the reliance's seat](position_the_reliance.md), leans on [the rescue](piece_the_rescue.md) from [the Hammock](place_the_hammock.md), on [Lean on the Rescue](plan_lean_on_the_rescue.md), letting [the unbuilt](piece_the_unbuilt.md) go unbuilt and reading [the empty threat](piece_the_empty_threat.md) as the bluff it is.
 No single choice to lean is wrong, and the sum is a person growing less able to stand.
 
 ## Tension

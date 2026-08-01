@@ -30,7 +30,7 @@ A helper who has understood that only a credible refusal frees the recipient to 
 
 ## Stage
 
-[The Hard Hand](persona_the_hard_hand.md) binds [the soft heart](piece_the_soft_heart.md) with a vow and refuses [the rescue](piece_the_rescue.md) at [the Cold Shoulder](place_the_cold_shoulder.md), on [Withhold the Hand](plan_withhold_the_hand.md), bearing the sight of a suffering they could relieve so [the unbuilt](piece_the_unbuilt.md) is built at last.
+[The Hard Hand](persona_the_hard_hand.md), from [the the vow's seat](position_the_vow.md), binds [the soft heart](piece_the_soft_heart.md) with a vow and refuses [the rescue](piece_the_rescue.md) at [the Cold Shoulder](place_the_cold_shoulder.md), on [Withhold the Hand](plan_withhold_the_hand.md), bearing the sight of a suffering they could relieve so [the unbuilt](piece_the_unbuilt.md) is built at last.
 They are called cruel by everyone who sees the fall, and cannot show the standing it is meant to buy.
 
 ## Tension

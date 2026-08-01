@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Partitioning](process_partitioning.md), [The Partition](piece_the_partition.md) cuts the cluster in two, and [The Silence](piece_the_silence.md) falls: [The Isolated](persona_the_isolated.md) can no longer hear its peer, and cannot tell whether that peer has crashed or is merely unreachable. The scene closes with the cluster split, each side alive and blind to the other, silence meaning both things at once (Fischer, Lynch, and Paterson).
+Through [Partitioning](process_partitioning.md), [The Partition](piece_the_partition.md) cuts the cluster in two, and [The Silence](piece_the_silence.md) falls: [The Isolated](persona_the_isolated.md), from [the isolated's seat](position_isolated.md), can no longer hear its peer, and cannot tell whether that peer has crashed or is merely unreachable. The scene closes with the cluster split, each side alive and blind to the other, silence meaning both things at once (Fischer, Lynch, and Paterson).
 
 ## Stage
 

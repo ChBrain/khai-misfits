@@ -30,7 +30,7 @@ A practitioner whose mētis kept the street and the shared rotation, and a legib
 
 ## Stage
 
-[The Practitioner](persona_the_practitioner.md), on [Work by Feel](plan_work_by_feel.md), holds [the mētis](piece_the_metis.md) against [the map](piece_the_map.md) that cannot record it, and is cleared with the tangle the survey read as disorder, the knowing that ran the place banned because it could not be written.
+[The Practitioner](persona_the_practitioner.md), from [the the hand's seat](position_the_hand.md), on [Work by Feel](plan_work_by_feel.md), holds [the mētis](piece_the_metis.md) against [the map](piece_the_map.md) that cannot record it, and is cleared with the tangle the survey read as disorder, the knowing that ran the place banned because it could not be written.
 The mētis is not refuted, only unread, and what the survey cannot see it treats as not there.
 
 ## Tension

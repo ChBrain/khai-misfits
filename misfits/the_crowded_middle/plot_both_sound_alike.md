@@ -26,7 +26,7 @@ stamp:
 ## Action
 
 Through [Crowding](process_crowding.md), [The Huddle](piece_the_huddle.md) forms: the last gap between the two closes, and nothing separates them but the sign above the stall.
-[The Pivot](persona_the_pivot.md), the median customer standing between them, is courted from both sides at once and served better than anyone else on the street. Everyone else watches the two offerings settle into one.
+[The Pivot](persona_the_pivot.md), from [the pivot's seat](position_pivot.md), the median customer standing between them, is courted from both sides at once and served better than anyone else on the street. Everyone else watches the two offerings settle into one.
 Closes with the offerings alike, at the one point the market wanted them spread.
 
 ## Stage

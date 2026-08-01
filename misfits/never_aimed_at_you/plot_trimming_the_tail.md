@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Auditing](process_auditing.md), [the Steward](persona_the_steward.md) on [Cut the Ones That Should Not Have Been Written](plan_cut_the_ones_that_should_not_have_been_written.md) meets [the Trimmed Tail](piece_the_trimmed_tail.md): the antibiotic written for a viral illness, the course that ran too long, the broad agent used where a narrow one was identified, each challenged and each removed. The audit reports honestly that most prescribing is appropriate, which is a good result. The scene closes with real and necessary work aimed at the fraction that failed, and with the mass that generates the pressure having passed the audit.
+Through [Auditing](process_auditing.md), [the Steward](persona_the_steward.md), from [the steward's seat](position_steward.md), on [Cut the Ones That Should Not Have Been Written](plan_cut_the_ones_that_should_not_have_been_written.md) meets [the Trimmed Tail](piece_the_trimmed_tail.md): the antibiotic written for a viral illness, the course that ran too long, the broad agent used where a narrow one was identified, each challenged and each removed. The audit reports honestly that most prescribing is appropriate, which is a good result. The scene closes with real and necessary work aimed at the fraction that failed, and with the mass that generates the pressure having passed the audit.
 
 ## Stage
 

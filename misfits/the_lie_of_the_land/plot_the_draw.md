@@ -26,7 +26,7 @@ The Settler drawn to the strong cue, the Sink presenting it, and [the source](pl
 
 ## Action
 
-[Settling](process_settling.md): [The Settler](persona_the_settler.md), on the strength of the cue, settles the site [The Sink](persona_the_sink.md) shows well, in a hard case preferring it over the good.
+[Settling](process_settling.md): [The Settler](persona_the_settler.md), on the strength of the cue, settles the site [The Sink](persona_the_sink.md), from [the sink's seat](position_sink.md), shows well, in a hard case preferring it over the good.
 
 ## Stage
 

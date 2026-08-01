@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Applying](process_applying.md), [the Clinician](persona_the_clinician.md) on [Follow the Evidence](plan_follow_the_evidence.md) treats as [the Rule](piece_the_rule.md) directs, since departing from the best validated evidence on a feeling about this patient is the very thing the discipline exists to prevent. And [the Treated Regardless](piece_the_treated_regardless.md) follows: years of side effects and cost carried for a gain near zero. The scene closes with the disciplined act done and the benefit collected, back in the trial, by somebody else.
+Through [Applying](process_applying.md), [the Clinician](persona_the_clinician.md), from [the clinician's seat](position_clinician.md), on [Follow the Evidence](plan_follow_the_evidence.md) treats as [the Rule](piece_the_rule.md) directs, since departing from the best validated evidence on a feeling about this patient is the very thing the discipline exists to prevent. And [the Treated Regardless](piece_the_treated_regardless.md) follows: years of side effects and cost carried for a gain near zero. The scene closes with the disciplined act done and the benefit collected, back in the trial, by somebody else.
 
 ## Stage
 

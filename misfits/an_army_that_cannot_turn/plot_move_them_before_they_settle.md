@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Shuffling](process_shuffling.md), [the Minder](persona_the_minder.md) on [Keep Them Strangers](plan_keep_them_strangers.md) works [the Shuffle](piece_the_shuffle.md): commanders moved in their second year, before the men begin to speak of the colonel rather than of the battalion, and, where the difference is not decisive, the officer whose family and region can be vouched for preferred over the officer who is merely better. Nobody is accused of anything, because the practice works on a capability and not on a person, and a perfectly loyal officer has the capability too. The scene closes with an officer corps in which no commander could take a unit with him, and in which no commander ever learns his ground, his men, or his trade (Quinlivan).
+Through [Shuffling](process_shuffling.md), [the Minder](persona_the_minder.md), from [the minder's seat](position_minder.md), on [Keep Them Strangers](plan_keep_them_strangers.md) works [the Shuffle](piece_the_shuffle.md): commanders moved in their second year, before the men begin to speak of the colonel rather than of the battalion, and, where the difference is not decisive, the officer whose family and region can be vouched for preferred over the officer who is merely better. Nobody is accused of anything, because the practice works on a capability and not on a person, and a perfectly loyal officer has the capability too. The scene closes with an officer corps in which no commander could take a unit with him, and in which no commander ever learns his ground, his men, or his trade (Quinlivan).
 
 ## Stage
 

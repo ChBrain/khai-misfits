@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Exiting](process_exiting.md), [the Steward](persona_the_steward.md) on [Keep It in Reserve](plan_keep_it_in_reserve.md) meets [the Empty Shelf](piece_the_empty_shelf.md): a susceptibility report, a list of remaining options with one line on it, and the line is blank. The drug that is missing did not fail in trials and was not withdrawn for harm. It was never made. The scene closes with the reason it was never made being that everybody agreed it had to be saved.
+Through [Exiting](process_exiting.md), [the Steward](persona_the_steward.md), from [the steward's seat](position_steward.md), on [Keep It in Reserve](plan_keep_it_in_reserve.md) meets [the Empty Shelf](piece_the_empty_shelf.md): a susceptibility report, a list of remaining options with one line on it, and the line is blank. The drug that is missing did not fail in trials and was not withdrawn for harm. It was never made. The scene closes with the reason it was never made being that everybody agreed it had to be saved.
 
 ## Stage
 

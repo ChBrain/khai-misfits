@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Filing](process_filing.md), [the Registrar](persona_the_registrar.md) on [Record What Happened](plan_record_what_happened.md) sets [the One Column](piece_the_one_column.md): the patient who was untreated in March and treated in September is entered as treated, once, because the field asks what became of this patient and that question has one true answer. The scene closes with the six months of waiting travelling into the treated column alongside the patient, entered by nobody as such and visible to nobody as such.
+Through [Filing](process_filing.md), [the Registrar](persona_the_registrar.md), from [the registrar's seat](position_registrar.md), on [Record What Happened](plan_record_what_happened.md) sets [the One Column](piece_the_one_column.md): the patient who was untreated in March and treated in September is entered as treated, once, because the field asks what became of this patient and that question has one true answer. The scene closes with the six months of waiting travelling into the treated column alongside the patient, entered by nobody as such and visible to nobody as such.
 
 ## Stage
 

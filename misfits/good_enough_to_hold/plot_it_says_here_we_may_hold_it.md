@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Displacing](process_displacing.md), [the Investor](persona_the_investor.md) on [Hold What the Rule Permits](plan_hold_what_the_rule_permits.md) sets [the Displaced Diligence](piece_the_displaced_diligence.md): the schedule is read before the instrument, the position is taken because the grade is recognised, and the committee's own analysis is not run against the grade, because overriding a rule-recognised grade would exceed the authority the seat holds and would have to be answered for. The scene closes with the research no longer done by the parties best placed to do it, and every one of them behaving correctly.
+Through [Displacing](process_displacing.md), [the Investor](persona_the_investor.md), from [the investor's seat](position_investor.md), on [Hold What the Rule Permits](plan_hold_what_the_rule_permits.md) sets [the Displaced Diligence](piece_the_displaced_diligence.md): the schedule is read before the instrument, the position is taken because the grade is recognised, and the committee's own analysis is not run against the grade, because overriding a rule-recognised grade would exceed the authority the seat holds and would have to be answered for. The scene closes with the research no longer done by the parties best placed to do it, and every one of them behaving correctly.
 
 ## Stage
 

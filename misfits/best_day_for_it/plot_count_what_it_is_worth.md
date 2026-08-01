@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Measuring](process_measuring.md), [the Policymaker](persona_the_policymaker.md) on [Count the Megawatts Installed](plan_count_the_megawatts_installed.md) meets [the Bound](piece_the_bound.md): the value factor, the ratio of what the fleet actually earns to the average price, is computed and found to have been falling all along. And the limit is stated with it, that the trap needs units sharing both zero marginal cost and a common weather driver, that the decline is a function of penetration rather than a fixed property of the technology, and that it is mitigable by flexibility elsewhere in the system. The scene closes with the finding held as a reason to count value and not as a reason to stop building, which is what the source literature says (Hirth).
+Through [Measuring](process_measuring.md), [the Policymaker](persona_the_policymaker.md), from [the policymaker's seat](position_policymaker.md), on [Count the Megawatts Installed](plan_count_the_megawatts_installed.md) meets [the Bound](piece_the_bound.md): the value factor, the ratio of what the fleet actually earns to the average price, is computed and found to have been falling all along. And the limit is stated with it, that the trap needs units sharing both zero marginal cost and a common weather driver, that the decline is a function of penetration rather than a fixed property of the technology, and that it is mitigable by flexibility elsewhere in the system. The scene closes with the finding held as a reason to count value and not as a reason to stop building, which is what the source literature says (Hirth).
 
 ## Stage
 

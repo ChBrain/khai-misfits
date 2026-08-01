@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Offering](process_offering.md), [the Proposer](persona_the_proposer.md) on [Offer in Good Faith](plan_offer_in_good_faith.md) sets terms a neutral hand would call fair, and through [Discounting](process_discounting.md), [the Rival](persona_the_rival.md) on [Read for the Catch](plan_read_for_the_catch.md) applies [the Attribution](piece_the_attribution.md): a self-interested party offered this, so it must serve that interest. The scene closes with [the Discount](piece_the_discount.md) attached, the generous terms read as the largest gift from the least trusted source (Stillinger, Epelbaum, Keltner and Ross).
+Through [Offering](process_offering.md), [the Proposer](persona_the_proposer.md), from [the proposer's seat](position_proposer.md), on [Offer in Good Faith](plan_offer_in_good_faith.md) sets terms a neutral hand would call fair, and through [Discounting](process_discounting.md), [the Rival](persona_the_rival.md) on [Read for the Catch](plan_read_for_the_catch.md) applies [the Attribution](piece_the_attribution.md): a self-interested party offered this, so it must serve that interest. The scene closes with [the Discount](piece_the_discount.md) attached, the generous terms read as the largest gift from the least trusted source (Stillinger, Epelbaum, Keltner and Ross).
 
 ## Stage
 

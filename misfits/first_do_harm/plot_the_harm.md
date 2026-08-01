@@ -30,7 +30,7 @@ The remedy touching a sound function the condition had left whole, the easing do
 
 ## Stage
 
-The cure, doing exactly what it does, inflicts [the wound](piece_the_wound.md) on the sound part, so [the afflicted](persona_the_afflicted.md) is left with a new condition it did not have before, a separate harm in a new place.
+The cure, doing exactly what it does, inflicts [the wound](piece_the_wound.md) on the sound part, so [the afflicted](persona_the_afflicted.md), from [the afflicted's seat](position_afflicted.md), is left with a new condition it did not have before, a separate harm in a new place.
 The complaint is eased and the sound is wounded in the one act, the injury real and distinct and the intent to heal wholly intact.
 
 ## Tension

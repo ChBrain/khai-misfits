@@ -25,7 +25,7 @@ stamp:
 
 ## Action
 
-Through [Deciding](process_deciding.md), [the Decider](persona_the_decider.md) on [Call It as It Stands](plan_call_it_as_it_stands.md) weighs [the Fog](piece_the_fog.md): evidence pointing more than one way, two hundred signals of which three happen to point at one ending and are not distinguishable from the rest, and an action chosen because it holds up across the spread rather than against any single branch. The scene closes with a defensible call and no way, yet, to tell it from a lucky one (Fischhoff).
+Through [Deciding](process_deciding.md), [the Decider](persona_the_decider.md), from [the decider's seat](position_decider.md), on [Call It as It Stands](plan_call_it_as_it_stands.md) weighs [the Fog](piece_the_fog.md): evidence pointing more than one way, two hundred signals of which three happen to point at one ending and are not distinguishable from the rest, and an action chosen because it holds up across the spread rather than against any single branch. The scene closes with a defensible call and no way, yet, to tell it from a lucky one (Fischhoff).
 
 ## Stage
 
