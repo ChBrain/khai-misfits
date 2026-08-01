@@ -34,5 +34,5 @@ A statistic, and one that will be quoted by both sides: as evidence that prescri
 
 ## Yearbook
 
-Stands over the turn in [Count Where the Exposure Falls](plot_count_where_the_exposure_falls.md), where the ordinary account is inverted by a change of question.
+Stands over the turn in [Counting Exposure, Not Scripts](plot_counting_exposure_not_scripts.md), where the ordinary account is inverted by a change of question.
 It works together with [The Trimmed Tail](piece_the_trimmed_tail.md), the mass and the instrument that cannot reach it.

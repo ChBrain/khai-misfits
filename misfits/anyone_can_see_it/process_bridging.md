@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Anyone Can See It](play_anyone_can_see_it.md). Borne at [The Other Chair](place_the_other_chair.md), precipitated by [The Bridge](persona_the_bridge.md) getting each to construe as the other does, in [The Other Chair](plot_the_other_chair.md).
+[Anyone Can See It](play_anyone_can_see_it.md). Borne at [The Other Chair](place_the_other_chair.md), precipitated by [The Bridge](persona_the_bridge.md) getting each to construe as the other does, in [Trying It Their Way](plot_trying_it_their_way.md).
 
 ## Owner
 

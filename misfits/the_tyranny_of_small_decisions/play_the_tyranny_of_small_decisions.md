@@ -92,7 +92,7 @@ Put the whole to a real decision, price the option so its value counts, bundle t
 **[The Fork](plot_the_fork.md)**
 At each turn a small choice is offered, the convenient option against the one that keeps the alternative alive. The Chooser takes the convenient one, rightly, and the Option loses one more patron. Closes when the small choice has been made, freely and well, and the alternative is one defection lighter.
 
-**[The Tally](plot_the_tally.md)**
+**[Never Once Asked the Whole](plot_never_once_asked_the_whole.md)**
 Cue: the small choices accumulate where no one is watching. The Sum builds from a thousand fine picks into a large outcome, and the Chooser, still choosing well, is never once asked the whole. Closes when the aggregate has assembled itself from choices that were never about it, decided by default because no forum decided it.
 
 **[The Closing](plot_the_closing.md)**
@@ -101,7 +101,7 @@ Cue: the option drops below the level it needs to survive. The Option closes, fo
 **[The Too-Late](plot_the_too_late.md)**
 Cue: the whole finally surfaces as a question, once it is moot. The Bereft, and the Choosers who would have saved it, realise they would have kept the option had they ever been asked it, and the Sum shows a thing nobody chose and everybody made. Closes when the aggregate decision is faced only after the option it concerned is past saving.
 
-**[The Assembly](plot_the_assembly.md)**
+**[Putting the Whole to a Vote](plot_putting_the_whole_to_a_vote.md)**
 Cue: someone moves to decide the whole in time. The Convener would convene the aggregate, price the option, put the large choice to a real vote, against the Free Hand's warning that overriding free small choices is its own tyranny and that most small decisions must stay small. Closes when the option worth keeping is kept ... or free choice is smothered to save it, or the aggregate is convened too late or for a sum that did not need it.
 
 ## Stakes

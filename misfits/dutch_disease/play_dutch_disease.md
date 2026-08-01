@@ -88,13 +88,13 @@ A country strikes a resource, or its price soars, and the money pours in. The Bo
 **[The Rush](plot_the_rush.md)**
 Cue: everyone does the sensible thing with a windfall. The Mover sends its labour and capital to the booming fields and spends the new income, while the Boom draws them in with the highest returns. Closes when the factors have flowed to the boom and the windfall is being spent through the economy.
 
-**[The Strong Rate](plot_the_strong_rate.md)**
+**[Bidding Up the Unimported](plot_bidding_up_the_unimported.md)**
 Cue: the spending falls on what cannot be imported. The Mover bids up the prices of non-traded goods, so domestic costs and wages rise, and the Factory, watching its cost base climb, sees the real exchange rate strengthen against it. Closes when the currency has appreciated in real terms and the country's costs have risen above the world's.
 
 **[The Hollowing](plot_the_hollowing.md)**
 Cue: manufacturing sells at the world's price and pays the country's risen costs. The Factory is undercut abroad by the strong currency and outbid at home for workers by the boom, its margin crushed from both sides, and it shrinks. Closes when the traded base has hollowed out, its learning and export capacity gone with it.
 
-**[The Fund](plot_the_fund.md)**
+**[Banking It Offshore](plot_banking_it_offshore.md)**
 Cue: someone moves to save the boom instead of spending it. The Steward would bank the windfall abroad and spend only its return, sterilising the boom so the currency does not rise, against the Mover's pull to spend now and the pressure of the boom and the ballot. Closes when the windfall is saved and the traded sector spared ... or the money is spent, the currency rises, and the hollowing runs on.
 
 ## Stakes

@@ -96,13 +96,13 @@ A good idea arrives from outside, better or cheaper than anything in-house. The 
 **[The Reinvention](plot_the_reinvention.md)**
 Cue: the need the import would have met is still there. The Insider sets the group to build its own, and the Home-Grown rises, costlier or weaker than the thing turned away, and loved because it is ours. Closes when the effort has gone to reinventing what was offered, and the worse version is owned with pride.
 
-**[The Staling](plot_the_staling.md)**
+**[Ageing Without the World](plot_ageing_without_the_world.md)**
 Cue: the group lets less and less of the world in. The Home-Grown ages without fresh outside knowledge, and the Beneficiary, out where the work is used, gets a product slipping behind what the world already has. Closes when the group's edge has dulled from insularity and the cost has reached the ones it serves.
 
 **[The Guard](plot_the_guard.md)**
 Cue: an outside idea really might carry risk. The Guardian rejects the import for its unknowns, its lock-in, its unverified fit, and is sometimes right, so the reflex and the sound judgement wear the same face. Closes when a rejection cannot be told, from the outside, as reflex or as reason.
 
-**[The Bridge](plot_the_bridge.md)**
+**[Made Legible From Within](plot_made_legible_from_within.md)**
 Cue: someone moves to let the world in. The Gatekeeper would read the outside and translate it inward, reward adoption as well as invention, against the Guardian's true warning that opening the boundary imports risk and erodes the cohesion and ownership that made the group strong. Closes when the better idea can win regardless of whose it is ... or the boundary holds, or the strength of the group is opened away with its walls.
 
 ## Stakes

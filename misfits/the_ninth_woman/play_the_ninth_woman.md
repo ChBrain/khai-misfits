@@ -96,16 +96,16 @@ Hold the team and cut the scope, or add the people early and never late, and the
 
 ## Triggers
 
-**[The Slip](plot_the_slip.md)**
+**[Read as a Shortage of Hands](plot_read_as_a_shortage_of_hands.md)**
 The project is behind and the date will not move on its own. The Sponsor sees the slip and demands it be saved. Closes when the answer chosen is capacity: bring in more people.
 
-**[The Reinforcements](plot_the_reinforcements.md)**
+**[Veterans Stop to Teach](plot_veterans_stop_to_teach.md)**
 Cue: heads are added to the late project. The Manager brings them on, and the Veteran stops delivering to teach them. Closes when the team is bigger and the people who knew the work are now training instead of building.
 
-**[The Cross-Talk](plot_the_cross_talk.md)**
+**[The Day Spent Coordinating](plot_the_day_spent_coordinating.md)**
 Cue: every added person multiplies the channels to keep in sync, and the critical task will not divide. The Lead drowns in coordination while the Newcomer is still getting up to speed. Closes when the added capacity is eaten by communication and ramp-up.
 
-**[The Man-Month](plot_the_man_month.md)**
+**[The Line That Should Fall Has Risen](plot_the_line_that_should_fall_has_risen.md)**
 Cue: the date has moved the wrong way. The Estimator re-forecasts and finds that adding people made the project later, though everyone worked hard. Closes when the law is named ... or blamed on the new hires, and still more people are demanded.
 
 **[The Cut](plot_the_cut.md)**

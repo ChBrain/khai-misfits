@@ -89,19 +89,19 @@ Change what is punished, judge the honesty of the judgement and not the thicknes
 
 ## Triggers
 
-**[The Blame](plot_the_blame.md)**
+**[Who Broke Procedure](plot_who_broke_procedure.md)**
 A bad outcome is met not with what went wrong but with who broke procedure. The Blamer punishes the deviation, not the failure, and the Coverer watches and learns that the safe path is the documented one. Closes when defensibility, not effectiveness, is established as what protects you.
 
-**[The Cover](plot_the_cover.md)**
+**[Two Versions of the Act](plot_two_versions_of_the_act.md)**
 Cue: each act can be done for the outcome or for the record. The Coverer orders the shielding test, sends the covering email, gets the extra sign-off, and the Auditor certifies each box as done, so the file grows spotless. Closes when the work is bent toward the record and the paper begins to pile up.
 
-**[The Displacement](plot_the_displacement.md)**
+**[Handed the Defensive Service](plot_handed_the_defensive_service.md)**
 Cue: effort is finite, and it flows to what is rewarded. The Beneficiary, needing the real outcome, gets the defensive service instead, and the Diligent's genuine judgement looks, on the file, identical to the covering ritual. Closes when the aim has receded behind the effort to be blameless.
 
-**[The Covered Failure](plot_the_covered_failure.md)**
+**[Spotless Files, Missed Aim](plot_spotless_files_missed_aim.md)**
 Cue: the thing fails anyway. The Coverer points to its spotless file, the Blamer looks for an author and finds a hundred covered hands, and the failure comes to rest on no one. Closes when the aim is missed and everyone, truthfully, is blameless.
 
-**[The Reform](plot_the_reform.md)**
+**[Judging the Judgement](plot_judging_the_judgement.md)**
 Cue: someone moves to judge the judgement and not the file, and to give people the safety to own an outcome. The Reformer changes what is punished and strips the defensive paper, against an entrenched blame culture and the risk that some of the paper was a real safeguard. Closes when the work turns back toward the aim ... or the blame culture holds, or a genuine check is torn out with the defensive file.
 
 ## Stakes

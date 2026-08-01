@@ -107,7 +107,7 @@ Cue: the reward meets the market. Breeding the unit and killing it for the bount
 **[Backfire](plot_backfire.md)**
 Cue: the booming payouts are reported as the problem being solved. The Noticer follows the supply and finds the farm, payments up and the real problem up with them. Closes when it is clear the bounty is breeding what it pays to remove.
 
-**[Release](plot_release.md)**
+**[Emptied Into the City](plot_emptied_into_the_city.md)**
 Cue: the farming is undeniable, and the bounty is pulled. The manufactured stock, now worthless, is turned loose, and the problem is left worse than before. Closes when the cobra effect is named ... or a new bounty is set on the new surplus.
 
 ## Stakes

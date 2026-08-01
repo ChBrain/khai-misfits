@@ -92,10 +92,10 @@ The reader opens the feed and clicks the agreeable, skipping the rest, each choi
 **[The Narrowing](plot_the_narrowing.md)**
 Cue: what is not clicked is not offered. The Feed stops showing the views the reader passes over, and the Unheard, the disagreeable and the opposing, simply disappears, filtered out unremarked. Closes when the range of what the reader sees has shrunk to the congenial.
 
-**[The Bubble](plot_the_bubble.md)**
+**[Met Wherever It Turns](plot_met_wherever_it_turns.md)**
 Cue: sealed among the agreeable, the reader meets only confirmation. The Reader sees its priors returned on every side, and the Chorus, the like-minded talking only to each other, nods it ever surer. Closes when the reader sits in an enclave where nothing disconfirms and everything agrees.
 
-**[The Rift](plot_the_rift.md)**
+**[Bolder, Hearing Only Itself](plot_bolder_hearing_only_itself.md)**
 Cue: a room of the like-minded does not sit still. The Chorus hardens and drifts to the edge, each voice echoed back louder, and with every other enclave doing the same the common ground fractures, the Unheard now not just unseen but incomprehensible. Closes when the enclaves have polarised and no shared square remains for them to argue in.
 
 **[The Mixing](plot_the_mixing.md)**

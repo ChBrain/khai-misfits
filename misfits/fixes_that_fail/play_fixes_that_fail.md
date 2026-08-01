@@ -86,13 +86,13 @@ Let the fix go, bear the symptom long enough for the loop to unwind, and address
 
 ## Triggers
 
-**[The Fix](plot_the_fix.md)**
+**[The Symptom Stops at Once](plot_the_symptom_stops_at_once.md)**
 A problem flares and demands an answer now. The Fixer applies a fix that works at once, and the Relieved sees the symptom go and credits the fix. Closes when the relief is real and immediate, and the fix is trusted for it.
 
-**[The Backfire](plot_the_backfire.md)**
+**[Deeper Than Before](plot_deeper_than_before.md)**
 Cue: after a delay, the fix's second effect arrives and feeds the problem. The Heir inherits a symptom returned worse, and the Diagnostician sees that the fix, not chance, is what deepened it. Closes when the trouble is worse than before and the cause is the cure.
 
-**[The Escalation](plot_the_escalation.md)**
+**[More of It, Faster](plot_more_of_it_faster.md)**
 Cue: the problem is back and worse, and the fix worked before. More of the same fix is applied, the loop spins faster, and the Diagnostician's warning that the fix is the cause is waved off as absurd. Closes when the reach for the fix is reflex and the compounding is underway.
 
 **[The Letting Go](plot_the_letting_go.md)**

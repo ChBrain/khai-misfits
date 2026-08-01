@@ -95,7 +95,7 @@ The setup. At [the Calm](place_the_calm.md), [the Planner](persona_the_planner.m
 **[Steeper Up Close](plot_steeper_up_close.md)**
 Cue: the shape of the discount. At [the Calm](place_the_calm.md), [the Planner](persona_the_planner.md) meets [the Curve](piece_the_curve.md), the hyperbolic discount that falls far more steeply over the near future than the far, so a reward's value will spike as it comes within reach rather than rising smoothly. Closes with the engine in the shape of the curve and not in any weakness, the near steepness the whole of the trap (Ainslie).
 
-**[The Nearer It Comes](plot_the_nearer_it_comes.md)**
+**[The Ranking Flips](plot_the_ranking_flips.md)**
 Cue: the sooner reward drawing near. At [the Moment](place_the_moment.md), [the Present Self](persona_the_present_self.md) meets [the Reversal](piece_the_reversal.md), the nearing reward's recovered value overtaking the larger-later so the ranking flips though nothing about the rewards has changed. Closes with the reversal intrapersonal, a self overriding its own plan, distinct from Time Inconsistency's strategic promise to others and from mere impatience (Ainslie).
 
 **[Just This Once](plot_just_this_once.md)**

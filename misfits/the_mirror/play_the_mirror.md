@@ -102,13 +102,13 @@ A clean architecture is drawn: modules, interfaces, a design that would work if 
 **[The Split](plot_the_split.md)**
 Cue: the work must be handed to the teams that exist. The Lead takes the module nearest their team and the Neighbor takes the next, split along the org chart rather than the architecture. Closes when each team owns a part that matches who reports to whom, not the design.
 
-**[The Seam](plot_the_seam.md)**
+**[Each Correct, Not Quite Fitting](plot_each_correct_not_quite_fitting.md)**
 Cue: the parts are each built well and do not quite meet. The Splicer forces them together while the Liaison syncs across the boundary. Closes when the integration bugs settle onto the lines between teams and the seam is where two owners aren't.
 
-**[The Mirror](plot_the_mirror.md)**
+**[Seen From the Pager](plot_seen_from_the_pager.md)**
 Cue: the shipped system is a copy of the org chart. The Maintainer, holding the seam together on call, sees that the architecture never had a chance the org was not shaped for. Closes when the mirroring is named ... or blamed on weak engineering, and more coordination is demanded.
 
-**[The Reorg](plot_the_reorg.md)**
+**[Moving Boundaries, Not Code](plot_moving_boundaries_not_code.md)**
 Cue: someone moves the team boundaries instead of the code. The Reorganizer reshapes the org to match the intended architecture, and the seams move with it. Closes when the org is drawn to the design and the seams follow ... or the reorganisation is judged too costly and the org's shape wins again.
 
 ## Stakes

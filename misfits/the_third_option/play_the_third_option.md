@@ -99,10 +99,10 @@ Cue: a third option is added to the menu. At [Beside It](place_beside_it.md), [t
 **[An Easy Win](plot_an_easy_win.md)**
 Cue: the decoy standing beside the option it fails to beat. At [Beside It](place_beside_it.md), [the Contender](persona_the_contender.md) on [Stand Beside It](plan_stand_beside_it.md) through [Comparing](process_comparing.md) takes up [the Local Win](piece_the_local_win.md), winning a clear, decisive comparison against the decoy, unchanged in its own merits. Closes with a local win handed out for free, its credibility ready to be borrowed (Huber, Payne and Puto; the attraction-effect literature).
 
-**[The Shift](plot_the_shift.md)**
+**[A Clear Win Stands In](plot_a_clear_win_stands_in.md)**
 Cue: the local win in hand, and a harder choice still to make. At [the Choice](place_the_choice.md), [the Chooser](persona_the_chooser.md) on [Take the Easy Win](plan_take_the_easy_win.md) through [Choosing](process_choosing.md) takes up [the Shift](piece_the_shift.md), favoring the option the decoy flatters, the comparative win standing in for the harder trade-off judgment. Closes with the choice moved, violating regularity and independence, though nothing about the favored option's own merit changed (Huber, Payne and Puto).
 
-**[Chosen by No One](plot_chosen_by_no_one.md)**
+**[Governing Unchosen](plot_governing_unchosen.md)**
 Cue: the choice made, and the decoy still standing unchosen. At [the Choice](place_the_choice.md), [the Chooser](persona_the_chooser.md) meets [the Governed Choice](piece_the_governed_choice.md), the outcome decided by an option no one selected, the decoy drawing almost no share and governing the result anyway. Closes with the harm named, distinct from Spoiled for Choice's overwhelm by sheer number (Huber, Payne and Puto).
 
 **[Real But Not Always](plot_real_but_not_always.md)**

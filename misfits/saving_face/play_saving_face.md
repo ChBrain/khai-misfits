@@ -89,19 +89,19 @@ Make the error discussable and the team learns before the world teaches it: but 
 
 ## Triggers
 
-**[Set the Tone](plot_set_the_tone.md)**
+**[The Price Read Off Her Face](plot_the_price_read_off_her_face.md)**
 A capable team brings its first real problem to the one who leads it, and watches how it lands. The Verdict meets the news with a judgement, not a question, and the room reads the price of speaking off a single face. Closes when the cost of being the bearer of bad news is set, and the next bearer has already done the sum.
 
 **[Bite the Tongue](plot_bite_the_tongue.md)**
 Cue: someone sees the flaw and reaches for the question. The Careful weighs the look of asking against the look of staying quiet, and quiet wins, because the room is moving and the point might be nothing and being the one who slows it is a cost paid alone. Closes when the doubt stays behind the teeth and the record shows a room with no objections.
 
-**[Smooth It Over](plot_smooth_it_over.md)**
+**[Past the Wince](plot_past_the_wince.md)**
 Cue: a hard point reaches the table anyway. The Smoother, skilled and kind, meets it with a softer one, keeps it constructive, spares the face it would have cost ... and folds the deflection so neatly that naming the deflection would itself be the rude thing. Closes when the correction is off the table and the fact that it was taken off is off the table too.
 
 **[Patch It](plot_patch_it.md)**
 Cue: the same failure returns, wearing a new symptom. The Patch fixes it, cleanly and fast, inside the frame that keeps producing it, and calls it resolved, because the fix is real and the frame is not the sort of thing one questions here. Closes when the symptom is closed for the nth time and the cause is filed as bad luck.
 
-**[Name It](plot_name_it.md)**
+**[Nothing Soft Enough Left](plot_nothing_soft_enough_left.md)**
 Cue: a failure lands too large to smooth, and someone puts the undiscussable on the table as information, not indictment. The Namer reframes the error as the thing to learn from and holds the room in the discomfort it was built to avoid. Closes when the frame is questioned at last and the lesson is taken ... or the Namer is thanked, called brave, and quietly learned from about what not to raise.
 
 ## Stakes

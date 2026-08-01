@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[The Third Option](play_the_third_option.md). Where the Chooser actually decides, the choice shifts, an option no one picked governs the outcome, and the bound on the whole effect is held. Hosts [The Shift](plot_the_shift.md), [Chosen by No One](plot_chosen_by_no_one.md), [Real But Not Always](plot_real_but_not_always.md).
+[The Third Option](play_the_third_option.md). Where the Chooser actually decides, the choice shifts, an option no one picked governs the outcome, and the bound on the whole effect is held. Hosts [A Clear Win Stands In](plot_a_clear_win_stands_in.md), [Governing Unchosen](plot_governing_unchosen.md), [Real But Not Always](plot_real_but_not_always.md).
 
 ## Owner
 

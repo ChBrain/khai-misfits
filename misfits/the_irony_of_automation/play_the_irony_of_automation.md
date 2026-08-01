@@ -89,13 +89,13 @@ Keep the operator in the loop, drill the skills the automation no longer exercis
 **[The Takeover](plot_the_takeover.md)**
 The machine takes over the routine work and does it better, freeing the operator to oversee rather than do. The Automation runs the frequent, easy tasks, and the Designer automates everything that can be. Closes when the routine is the machine's and the operator has become a monitor.
 
-**[The Rust](plot_the_rust.md)**
+**[Nothing to Practise On](plot_nothing_to_practise_on.md)**
 Cue: the practice is gone with the routine. The Operator, no longer handling the work by hand, loses the sharpness that daily doing had kept, and the Automation, running smoothly, gives it nothing to practise on. Closes when the operator's manual skill has quietly faded.
 
-**[The Drift](plot_the_drift.md)**
+**[Nothing to Stay Alert For](plot_nothing_to_stay_alert_for.md)**
 Cue: watching a system that rarely fails. The Operator, set only to monitor, cannot hold its attention on a machine that almost never errs, so it settles out of the loop, trust grown and vigilance gone. Closes when the operator is disengaged, no longer tracking the state closely enough to step in fast.
 
-**[The Exception](plot_the_exception.md)**
+**[Handed Back Rusty](plot_handed_back_rusty.md)**
 Cue: the rare case the machine cannot handle arrives. The Exception falls to the human, and control is thrown back to an Operator rusty and out of the loop, facing the hardest problem in the system with no warm-up. Closes when the handover lands the worst case on the least ready hand.
 
 **[The Practice](plot_the_practice.md)**

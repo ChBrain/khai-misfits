@@ -34,5 +34,5 @@ A footnote, even: the fine print at the end of a mechanism that otherwise reads 
 
 ## Yearbook
 
-Stands over the close in [Strip the Letterhead](plot_strip_the_letterhead.md), the remedy named and its limit named beside it.
+Stands over the close in [Carried by a Third Party](plot_carried_by_a_third_party.md), the remedy named and its limit named beside it.
 It works together with [The Foregone Deal](piece_the_foregone_deal.md), the deal recoverable here and nowhere else in the play.

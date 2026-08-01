@@ -91,10 +91,10 @@ Cue: the work succeeds and the true cases dwindle. The Ebb draws the real cases 
 **[The Creep](plot_the_creep.md)**
 Cue: the same eye, milder company, sets its line further out. The Line drifts outward to fill the space the true cases left, and the Borderline, a case once plainly fine, is swept in as the thing, in perfect good faith. Closes when the concept has widened by just the amount the true cases fell, the assessor no less strict and the net grown wider.
 
-**[The Mirage](plot_the_mirage.md)**
+**[The Count Refuses to Drop](plot_the_count_refuses_to_drop.md)**
 Cue: the tally does not drop. The Seeker reads a flat count as a problem undefeated and drives on, rooting out the thing in cases ever milder, the definition ballooning as the reality shrinks. Closes when the effort is chasing a boundary that recedes as it is approached, sure the work is as needed as ever.
 
-**[The Fixed Mark](plot_the_fixed_mark.md)**
+**[Pinning the Standard First](plot_pinning_the_standard_first.md)**
 Cue: someone moves to hold the line still. The Anchor would fix the mark, define the thing in advance and count against a standard set before the cases are seen, against the Assessor's relative eye, the Seeker's reflex never to stand down, and the charge that calling the mild case fine is complacency. Closes when the mark is fixed and progress can be seen ... or the vigilant instinct holds, the mark stays loose, and the concept creeps on.
 
 ## Stakes

@@ -95,7 +95,7 @@ Cue: attrition no member authored, a harvest, a drought, a road, a hard winter. 
 **[The Turn](plot_the_turn.md)**
 Cue: the density crosses the critical number. Below the line the per-capita growth rate turns negative, so the population no longer merely grows slower but shrinks, though the headcount is a number that yesterday was plenty. Closes when the line is behind the population, growth gone negative, the count still reassuring and the crossing marked by nothing the numbers show.
 
-**[The Vortex](plot_the_vortex.md)**
+**[The Crowd Is What Is Going](plot_the_crowd_is_what_is_going.md)**
 Cue: a population below the line, its own fitness turned against it. Each loss lowers the density, lower density lowers the benefit, lower benefit lowers the growth, and the decline feeds the decline, faster the fewer remain. Closes when the spiral is running to extinction, no member having erred and every member behaving as the crowd rewarded, the safety in numbers become a peril in fewness.
 
 **[The Hold](plot_the_hold.md)**

@@ -93,13 +93,13 @@ Gather the pieces back into one hand, pool the rights, or override a veto by a t
 **[The Fragmenting](plot_the_fragmenting.md)**
 One valuable resource passes into many hands at once, and the registry records each owner with a clear right to exclude. The Holder takes his piece and means no harm by it, and the Reckoner notes that every piece is now a veto over the whole. Closes when the title is divided and each fragment can stop all the rest.
 
-**[The Holdout](plot_the_holdout.md)**
+**[Waiting to Be Needed Last](plot_waiting_to_be_needed_last.md)**
 Cue: someone wants to put the resource to use and must gather every owner's yes. The Assembler goes owner to owner, the Holdout knows the deal dies without his one piece and names a price to match, and the Reckoner adds the asking prices and finds they stack past the whole's worth. Closes when the tolls sum above the value and the deal cannot close.
 
-**[The Idle Resource](plot_the_idle_resource.md)**
+**[The Shop Stays Dark](plot_the_shop_stays_dark.md)**
 Cue: the deal has failed and the resource stands unused. The Seller named a fair price to let it live and got less than the holdout beside him, and the Holder keeps his piece while the shop stays dark and the kiosks crowd the pavement outside. Closes when cooperation is punished and the resource sits idle.
 
-**[The Pool](plot_the_pool.md)**
+**[Gathered All at Once](plot_gathered_all_at_once.md)**
 Cue: the Consolidator moves to gather the fragments into one hand, pool the rights, or override a veto by a taking, so the resource can be used again. The scattered title becomes a single one. Closes when the resource is freed under one owner ... or no holder will sell and no taking will come, and it stays empty for good.
 
 ## Stakes

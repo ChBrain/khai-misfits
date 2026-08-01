@@ -93,13 +93,13 @@ A contender spends a little more than the rest to get ahead, and it works: the e
 **[The Match](plot_the_match.md)**
 Cue: the rival faces the same choice and makes the same move. The Rival matches the spend, and the two gains cancel, so both stand higher in effort and neither in rank, the line restored exactly as it was. Closes when the escalation is general and the standings are unchanged.
 
-**[The Ratchet](plot_the_ratchet.md)**
+**[Holding While the Rest Climb](plot_holding_while_the_rest_climb.md)**
 Cue: someone reasons that if all stopped, all would be better off, and tries to stop. The Holdout sits out the next round and does not fall level but falls behind, so the others cannot follow without dropping too, and the race locks on. Closes when it is plain that no one can stand down alone.
 
-**[The Tally](plot_the_tally.md)**
+**[A Great Cost, No Place Gained](plot_a_great_cost_no_place_gained.md)**
 Cue: the whole spend is added up against the whole gain. The Rank shows the line unmoved while the Tally shows the cost paid in full, the effort netted to zero and the price netted to everything. Closes when the race is seen for a cost all bore and none was bettered by.
 
-**[The Truce](plot_the_truce.md)**
+**[A Cap on All Together](plot_a_cap_on_all_together.md)**
 Cue: a limit is proposed to bind every contender at once. The Broker would cap the spend for all, freeing the field of the cost at no one's loss of rank, against each contender's live reason to slip the cap and pull ahead. Closes when the limit holds and the race is stood down ... or one player defects and the spending resumes.
 
 ## Stakes

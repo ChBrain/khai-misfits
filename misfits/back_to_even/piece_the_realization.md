@@ -33,4 +33,4 @@ Just the moment a trade is settled, a neutral piece of bookkeeping. It looks lik
 
 ## Yearbook
 
-The act [The Investor](persona_the_investor.md) performs readily on [The Winner](persona_the_winner.md) and defers on [The Loser](persona_the_loser.md), deferred toward [The Break-Even](piece_the_break_even.md), in [Take the Gain](plot_take_the_gain.md) and [Judge by Prospects](plot_judge_by_prospects.md).
+The act [The Investor](persona_the_investor.md) performs readily on [The Winner](persona_the_winner.md) and defers on [The Loser](persona_the_loser.md), deferred toward [The Break-Even](piece_the_break_even.md), in [Take the Gain](plot_take_the_gain.md) and [Weighed on the Outlook](plot_weighed_on_the_outlook.md).

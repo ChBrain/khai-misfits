@@ -90,7 +90,7 @@ Hold data back and test on what you did not fit, penalise complexity, prefer the
 
 ## Triggers
 
-**[The Fit](plot_the_fit.md)**
+**[Bending Closer to the Sample](plot_bending_closer_to_the_sample.md)**
 A model is tuned to the sample, and the fit gets better: the error drops, the curve threads the data. The Fitter turns the crank and the Sample yields its evidence, signal and noise together, as the only data there is. Closes when the model matches the sample closely and the score is climbing toward perfect.
 
 **[The Memorising](plot_the_memorising.md)**
@@ -99,10 +99,10 @@ Cue: the fit passes the point where signal ends. The Noise, indistinguishable fr
 **[The Breaking](plot_the_breaking.md)**
 Cue: new data arrives. The Fitter's model meets the Unseen, data it did not fit, and fails on it, because the noise it learned was never going to repeat. Closes when the model that explained every point it had seen breaks on the first it has not.
 
-**[The Gap](plot_the_gap.md)**
+**[Two Numbers Side by Side](plot_two_numbers_side_by_side.md)**
 Cue: the two errors are set side by side. The Unseen shows a test error high where the Score showed a training error near zero, and the divergence proves the in-sample number was never a guide. Closes when the gap between fitting the past and predicting the future is laid bare, and the score exposed as no measure of what was learned.
 
-**[The Retuning](plot_the_retuning.md)**
+**[Worsening the Score on Purpose](plot_worsening_the_score_on_purpose.md)**
 Cue: someone moves to stop the fit where it still generalises. The Regularizer would hold data back, penalise complexity, prefer the simpler model, against the Fitter's true point that a worse in-sample score and a simpler model give up real signal, which is underfitting. Closes when the model is set to generalise ... or the score is chased into the noise, or the fit is pruned so hard it misses the pattern too.
 
 ## Stakes

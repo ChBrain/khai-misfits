@@ -99,7 +99,7 @@ Cue: the problem must be made to fit the tool. The Wielder promotes the aspect t
 **[The Trimming](plot_the_trimming.md)**
 Cue: the fit is not clean, and something must give. The Nail is fitted to the tool by cutting away the Residue, the part of the real problem the instrument cannot reach, trimmed off as noise so the strike can land square. Closes when the problem fits the tool because the parts that did not fit have been amputated.
 
-**[The Miss](plot_the_miss.md)**
+**[Vindicated on Its Nail](plot_vindicated_on_its_nail.md)**
 Cue: the tool comes down and the nail is struck clean. The struck part looks solved, and the Residue, left where the tool could not reach, festers and returns, exposing the instrument as apt but partial. Closes when the real problem is revealed unsolved behind a treatment that worked perfectly on the wrong target.
 
 **[The Diagnosis](plot_the_diagnosis.md)**

@@ -99,13 +99,13 @@ Cue: the question put, and a thing to weigh. At [the Asking](place_the_asking.md
 **[It Fills the Frame](plot_it_fills_the_frame.md)**
 Cue: the factor held in attention. At [the Focus](place_the_focus.md), [the Judge](persona_the_judge.md) meets [the Magnification](piece_the_magnification.md), the inflation attention works on what it lands on, the factor looming large for as long as the attention lasts, filling the whole of the frame. Closes with the estimate become a measure of how much the factor fills the mind and not how much it will fill the life (Kahneman; Wilson and colleagues).
 
-**[The Overweight](plot_the_overweight.md)**
+**[Rating It Far Too High](plot_rating_it_far_too_high.md)**
 Cue: the factor loomed large in the mind. At [the Focus](place_the_focus.md), [the Judge](persona_the_judge.md) meets [the Overweight](piece_the_overweight.md), the factor rated as mattering far more than it will, the estimate of the frame taken for the estimate of the life, the two Californias judged apart on a climate that moves the lived days little. Closes with the factor overweighted, predicted to matter far more than it will (Schkade and Kahneman).
 
 **[The Rest of It](plot_the_rest_of_it.md)**
 Cue: the factor weighed, and the life still to be lived. At [the Days](place_the_days.md), [the Dweller](persona_the_dweller.md) on [Live the Days](plan_live_the_days.md) through [Dwelling](process_dwelling.md) holds [the Rest of Life](piece_the_rest_of_life.md), the many diffuse things that fill the days the same whether the factor is present or not, and the adaptation the factor will undergo, all out of focus in the judging. Closes with the rest of the life the very thing the focused question crowds out, one of many and mostly unattended (Kahneman and colleagues; Wilson and colleagues).
 
-**[The Small Difference](plot_the_small_difference.md)**
+**[Checked Against the Days](plot_checked_against_the_days.md)**
 Cue: the judgment made, and the lived reality to set against it. At [the Days](place_the_days.md), [the Assessor](persona_the_assessor.md) on [Measure It Out](plan_measure_it_out.md) through [Assessing](process_assessing.md) holds [the Small Difference](piece_the_small_difference.md), the modest effect the factor makes in the living, mattering far less than in the judging, the two groups reporting about the same satisfaction after all. Closes with the bound held, the factor not nothing but smaller than the looking gave it, distinct from The Worst and the Last and More to Stand Still (Schkade and Kahneman).
 
 ## Stakes

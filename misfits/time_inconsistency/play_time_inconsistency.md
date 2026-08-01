@@ -86,19 +86,19 @@ Tie your own hands, take the discretion away, delegate the choice to a rule or a
 
 ## Triggers
 
-**[The Promise](plot_the_promise.md)**
+**[Declared and Meant](plot_declared_and_meant.md)**
 An authority announces a plan that is exactly right to make: stable prices, an honoured patent, no ransom, no tax on capital that comes. The Authority means it to move the Agent to act, and the Agent hears a promise that would, if kept, be worth acting on. Closes when the promise is made, optimal today and meant to induce.
 
-**[The Temptation](plot_the_temptation.md)**
+**[Keeping It No Longer Pays](plot_keeping_it_no_longer_pays.md)**
 Cue: tomorrow arrives, and the inducement has done its work and cannot be undone. The Authority finds that the promise now costs and buys nothing, and the Adviser names the plain fact that breaking it is, at this second moment, the right call. Closes when the plan best to make is shown to be best to break.
 
-**[The Unravelling](plot_the_unravelling.md)**
+**[Gone Before It Formed](plot_gone_before_it_formed.md)**
 Cue: the Agent, reasoning it through, sees the break coming before it comes. The Agent does not act on a promise it knows will rightly be broken, so there is nothing left to keep the promise about, and the Adviser shows the good outcome was gone before it formed. Closes when the promise is disbelieved and the inducement fails, by foresight and not by any broken word.
 
-**[The Commitment](plot_the_commitment.md)**
+**[Hands Tied on Purpose](plot_hands_tied_on_purpose.md)**
 Cue: someone moves to make the promise worth believing by making it impossible to break. The Binder ties the Authority's hands, delegates the choice to a rule or a body that cannot renege, lashes the mast before the song, and the Agent, seeing reneging removed, acts at last. Closes when the discretion is surrendered and the good outcome returns.
 
-**[The Rigidity](plot_the_rigidity.md)**
+**[The Rope Holds Fast](plot_the_rope_holds_fast.md)**
 Cue: a storm arrives that no one foresaw, and the right thing to do is exactly the thing the rule forbids. The Bound holds the line because breaking it now would unmake all the credibility the binding bought, and bears the cost of a hand that cannot move. Closes when the rule that secured the promise is the rule that traps the promiser ... or it is broken for the storm, and the credibility goes with it.
 
 ## Stakes

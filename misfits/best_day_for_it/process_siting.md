@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Best Day for It](play_best_day_for_it.md). Borne at [The Best Site](place_the_best_site.md), precipitated by [The Developer](persona_the_developer.md) choosing the best available resource, in [Build Where the Wind Is](plot_build_where_the_wind_is.md).
+[Best Day for It](play_best_day_for_it.md). Borne at [The Best Site](place_the_best_site.md), precipitated by [The Developer](persona_the_developer.md) choosing the best available resource, in [All on the Same Ground](plot_all_on_the_same_ground.md).
 
 ## Owner
 

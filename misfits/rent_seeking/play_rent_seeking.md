@@ -89,16 +89,16 @@ Shrink the rents, close the discretionary gate that dispenses privilege, and the
 
 ## Triggers
 
-**[The Rent](plot_the_rent.md)**
+**[A Prize Worth Chasing](plot_a_prize_worth_chasing.md)**
 A privilege sits in the grantor's gift, a licence or a tariff or a monopoly, worth a fortune and making nothing. The Grantor holds the gate that dispenses it, and the Seeker sees a prize plainly worth chasing. Closes when a valuable transfer exists that anyone may compete to capture.
 
-**[The Scramble](plot_the_scramble.md)**
+**[Outspending for One Slice](plot_outspending_for_one_slice.md)**
 Cue: the rent is worth almost as much as it costs to win, so real resources are poured into winning it. The Seeker lobbies, litigates, and queues, and the Reckoner tallies that the effort spent chasing the transfer approaches the whole of the transfer, and makes nothing. Closes when the prize is dissipated in the contest to seize it.
 
 **[The Diversion](plot_the_diversion.md)**
 Cue: capture out-earns creation. The Producer, who builds things, watches the Convert quit building to chase rents where the returns are, and wonders why he still makes anything. Closes when the ablest hands are pulled from growing the pie to fighting over its slices.
 
-**[The Rent Trap](plot_the_rent_trap.md)**
+**[The Queue Grows Longer](plot_the_queue_grows_longer.md)**
 Cue: each rent won teaches the next lobby to seek one. The Seeker returns to the gate to win more privilege, and the Grantor, courted and paid, dispenses more, so the surest path to fortune becomes capture. Closes when the society has reorganised around seizing transfers rather than making value.
 
 **[The Reform](plot_the_reform.md)**

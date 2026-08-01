@@ -106,7 +106,7 @@ Cue: the loop closes on itself. Between [the Range](place_the_range.md) and [the
 **[The Warning That Advertises](plot_the_warning_that_advertises.md)**
 Cue: someone moves to protect it. At [the Register](place_the_register.md), through [Listing](process_listing.md), [the Warden](persona_the_warden.md) on [List It and Guard It](plan_list_it_and_guard_it.md) names the species endangered and publishes its status, and [the Notice](piece_the_notice.md) does its second work: it announces to every buyer that the thing is now officially scarce, so the premium can rise on the day the protection lands. Closes with the right document issued and the price on its head raised by it (Hall, Milner-Gulland and Courchamp).
 
-**[Flood the Market](plot_flood_the_market.md)**
+**[Until Scarcity Stops Paying](plot_until_scarcity_stops_paying.md)**
 Cue: someone attacks the premium instead of the taking. At [the Auction](place_the_auction.md), [the Breeder](persona_the_breeder.md) on [Flood the Market](plan_flood_the_market.md) through [Flooding](process_flooding.md) holds [the Boundary](piece_the_boundary.md): supply the trade with legal stock until scarcity stops meaning anything and the premium collapses, which can work, and which can also give illegal stock a channel to be laundered through and normalise a market that recruits demand faster than it satisfies it. Closes with the one intervention that reaches the premium shown to be real, unreliable, and able to feed what it meant to end.
 
 ## Stakes

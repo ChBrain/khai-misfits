@@ -87,19 +87,19 @@ Estimate from the record instead of the plan, forecast the task by the class of 
 
 ## Triggers
 
-**[The Plan](plot_the_plan.md)**
+**[A Date Built From the Plan](plot_a_date_built_from_the_plan.md)**
 A task is laid out step by step, each part given about the time it should take, and the sum becomes a date that feels right. The Planner builds the estimate from the plan, and the Sponsor stands ready to hold them to it. Closes when the date is set and promised.
 
 **[The Discounting](plot_the_discounting.md)**
 Cue: the record of how long tasks like this really took is at hand. The Record shows the overruns, and they are set aside as not this task, while the Sponsor's want of a low number shades the estimate lower still. Closes when the outside view is dismissed and the inside-view date stands alone.
 
-**[The Overrun](plot_the_overrun.md)**
+**[The Date Comes and Goes](plot_the_date_comes_and_goes.md)**
 Cue: the work begins against the promised date. The Unforeseen arrives, not as one named risk but as the swarm of small surprises the plan omitted, and the date passes with the work unfinished. Closes when the task is delivered, like the ones before it, late and over.
 
 **[The Reckoning](plot_the_reckoning.md)**
 Cue: the estimate and the actual are set side by side. The overrun reads as no fluke but the same gap as last time and the time before, the inside-view number beaten by the reality it left out. Closes when the shortfall is named as the fallacy and not as bad luck.
 
-**[The Reforecast](plot_the_reforecast.md)**
+**[Priced From the Record](plot_priced_from_the_record.md)**
 Cue: someone moves to estimate the next task from the record, not the plan. The Forecaster would take the outside view, price the task by its class, against the Planner's true point that the record buries what is special here, and at the risk of a buffer so large the work spreads to fill it. Closes when the estimate is set from the reference class ... or the plan is trusted once more and the next date set too soon.
 
 ## Stakes

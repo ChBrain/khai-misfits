@@ -89,16 +89,16 @@ Surface the signals instead of the actions, a sealed guess, a secret ballot, an 
 **[The Signal](plot_the_signal.md)**
 Each person holds a private hint and can see the choices made before them, not the hints behind them. The First acts on its own hint, and its choice, being made on its hint, actually reveals it. Closes when the early actions still carry the signals that made them.
 
-**[The Inference](plot_the_inference.md)**
+**[Reading the Run](plot_reading_the_run.md)**
 Cue: a follower arrives to a run of the same choice. The Follower reads the actions as evidence of hints, finds the revealed hints outweigh its single contrary one, and rationally copies. Closes when the weight of observed actions crosses the strength of a private signal, and following becomes the right move.
 
-**[The Cascade](plot_the_cascade.md)**
+**[Copying and Adding Nothing](plot_copying_and_adding_nothing.md)**
 Cue: once following starts, each copy is made on the crowd's information, not the copier's, so it reveals nothing. The Follower copies and the Dissenter, correctly judging the herd knows more, swallows a contrary hint, so no new signal enters and the run self-sustains on the first few. Closes when private signals stop being spoken and the crowd acts on almost none of what it holds.
 
-**[The Fragility](plot_the_fragility.md)**
+**[A Breath Can Move It](plot_a_breath_can_move_it.md)**
 Cue: the cascade rests on so little that a breath can move it. The Contrarian acts loudly on its own hint, or a new fact lands, and the herd, reading the new action as it read the old, turns and stampedes the other way, just as rationally and perhaps just as wrong. Closes when the cascade reverses on a whisper, revealing how thin the certainty always was.
 
-**[The Ballot](plot_the_ballot.md)**
+**[Sealed Before the Room](plot_sealed_before_the_room.md)**
 Cue: someone moves to pool what the crowd privately knows. The Aggregator collects sealed guesses, a secret ballot, estimates made before anyone hears the room, so signals are surfaced instead of actions and the cascade cannot form. Closes when the crowd's real knowledge is aggregated at last ... or independence proves too dear against a herd each would rather join, and the actions speak over the signals again.
 
 ## Stakes

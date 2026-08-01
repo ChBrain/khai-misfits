@@ -34,5 +34,5 @@ A set of let-offs where the quarrel resolves, easy to read as softening the resu
 
 ## Yearbook
 
-Held by [The Bridge](persona_the_bridge.md) on [Take the Other Chair](plan_take_the_other_chair.md), through [Bridging](process_bridging.md), in [The Other Chair](plot_the_other_chair.md).
+Held by [The Bridge](persona_the_bridge.md) on [Take the Other Chair](plan_take_the_other_chair.md), through [Bridging](process_bridging.md), in [Trying It Their Way](plot_trying_it_their_way.md).
 It marks the edges of [The Widening](piece_the_widening.md), the conditions under which two vantages can be told apart from two biases.

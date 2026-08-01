@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Must Be a Catch](play_must_be_a_catch.md). Borne at [The Table](place_the_table.md), precipitated by [The Rival](persona_the_rival.md) applying the standing attribution to the proposer's offer, in [Must Be a Catch](plot_must_be_a_catch.md).
+[Must Be a Catch](play_must_be_a_catch.md). Borne at [The Table](place_the_table.md), precipitated by [The Rival](persona_the_rival.md) applying the standing attribution to the proposer's offer, in [Fair Terms, Read Wrong](plot_fair_terms_read_wrong.md).
 
 ## Owner
 

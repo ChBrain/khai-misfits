@@ -100,16 +100,16 @@ Put a doubter in the room on purpose and the plan is tested before the world tes
 **[Set Tone](plot_set_tone.md)**
 A close, capable team takes up a decision it is minded to like, and the leader lets a preference show early. The Steer names the way, and the Loyalist orients to it, glad of a room that agrees. Closes when the group has a direction to rally to before it has weighed an alternative.
 
-**[Close Ranks](plot_close_ranks.md)**
+**[Keeping the Worry In](plot_keeping_the_worry_in.md)**
 Cue: the room converges. The Swallower reads warmth and confidence on every face and holds the worry in, and the Cheerleader talks the plan up and the warnings down, so every quiet seat makes the next look surer. Closes when silence is read as agreement and confidence as competence.
 
-**[Mindguard](plot_mindguard.md)**
+**[Softened Before It Lands](plot_softened_before_it_lands.md)**
 Cue: the Odd One raises the flag, and the outside view is at the door. The Gatekeeper has a quiet word, keeps the bad news and the visitor away, and the group is spared the disturbance, out of loyalty. Closes when the dissent is frozen out and the door stays shut.
 
 **[Fiasco](plot_fiasco.md)**
 Cue: the decision meets the world, and the swallowed doubt was right. The united team is intact and its judgement was wrong, and someone asks how a room this good got it this wrong. Closes when the answer is named, they agreed too well ... or the next huddle is just as warm.
 
-**[Devil's Advocate](plot_devils_advocate.md)**
+**[A Doubter by Design](plot_a_doubter_by_design.md)**
 Cue: someone puts a doubter in the room on purpose, and holds the door open. The Advocate argues the other side by assignment, the leader keeps a preference back, and the plan is tested before the world tests it. Closes when the decision is stronger and the room is colder ... or the advocate is thanked, ignored, and quietly not invited again.
 
 ## Stakes

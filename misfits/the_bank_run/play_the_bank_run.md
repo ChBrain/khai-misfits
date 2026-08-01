@@ -99,10 +99,10 @@ Cue: a doubt appears, a rumour, a headline, a neighbour's worry, that the bank m
 **[The Run](plot_the_run.md)**
 Cue: the line forms at the window and the money is paid first come first served. The Depositor runs because the others are running, the Trusting holds his place and is wiped out, and the Banker sells good loans at a loss to pay the queue and is made insolvent by paying it. Closes when the fear has emptied the till of a bank that was sound.
 
-**[The Contagion](plot_the_contagion.md)**
+**[Better Be First Here Too](plot_better_be_first_here_too.md)**
 Cue: the panic looks for the next bank, and does not check its books first. The Neighbour, never doubted and entirely solvent, insists it is different, and is run all the same. Closes when a sound bank falls to a fear it did nothing to earn, proving the run was never about the loans.
 
-**[The Backstop](plot_the_backstop.md)**
+**[No Reason to Be First](plot_no_reason_to_be_first.md)**
 Cue: someone stands a credible promise behind the deposits, a guarantee that pays whatever comes. The Backstop removes the reason to run first, and the good state holds without a coin changing hands. Closes when the run is stopped by a promise ... at the price of standing behind every risk the bank now knows it can take.
 
 ## Stakes

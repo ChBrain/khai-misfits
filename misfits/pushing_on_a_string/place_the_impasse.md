@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Pushing on a String](play_pushing_on_a_string.md). Where the Banker meets the String and the Reformer reaches the Other Hand. Hosts [Pushing on a String](plot_pushing_on_a_string.md), [By Another Hand](plot_by_another_hand.md).
+[Pushing on a String](play_pushing_on_a_string.md). Where the Banker meets the String and the Reformer reaches the Other Hand. Hosts [Nothing Moving](plot_nothing_moving.md), [By Another Hand](plot_by_another_hand.md).
 
 ## Owner
 

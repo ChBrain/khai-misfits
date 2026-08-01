@@ -90,13 +90,13 @@ The Maker makes a shared artefact to coordinate the communities and sends it bet
 **[The Homing](plot_the_homing.md)**
 Cue: an object plastic enough to be read into each community's own practice. Each Community carries the object to its home ground and reads it into its own terms, correctly and specifically, completing its face from the knowledge nearest its own work. Closes when each community holds its own competent reading of the object and takes that reading for what the object means, the several meanings settled and none of them seen as one of several.
 
-**[The Semblance](plot_the_semblance.md)**
+**[Passing for Agreement](plot_passing_for_agreement.md)**
 Cue: the object keeps passing between the communities and each is working from it. The circulation stands in for the conversation, the shared artefact taken for a shared understanding, so the groups feel coordinated because the common object is visibly common. Closes when the object has come to substitute for the meaning, the presence of the shared thing believed to be agreement on what it means, the one question that would test it made to look like doubting a collaboration that is plainly moving.
 
-**[The Seam](plot_the_seam.md)**
+**[They Do Not Mesh](plot_they_do_not_mesh.md)**
 Cue: each community carries the object home and builds its own reading faithfully. One artefact becomes several competent bodies of work in different directions, invisible to each other, until the separate work is brought together at the seam and does not fit. Closes when the divergence has surfaced at integration, the one object revealed to have meant a different thing in every community, no one having misused it.
 
-**[The Crosswalk](plot_the_crosswalk.md)**
+**[Walking the Meanings Across](plot_walking_the_meanings_across.md)**
 Cue: someone would reconcile the readings before the work is joined. The Translator would have each community make its reading of the object explicit and walk the meanings across the boundary, against a collaboration that is visibly moving and a shared thing everyone can point to. Closes when the meanings are walked across and the divergence caught while the work is separable ... or the translation is waived as slowing a working collaboration, the circulation taken for coordination, and the gap left for the seam.
 
 ## Stakes

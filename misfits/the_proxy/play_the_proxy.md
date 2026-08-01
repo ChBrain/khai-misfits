@@ -94,10 +94,10 @@ The Employer, unable to see the individual behind the application, prices them b
 **[The Withholding](plot_the_withholding.md)**
 Cue: the return on the signal is discounted for the low-rated group. The Applicant, offered a smaller payoff on the same costly investment, rationally makes less of it, answering the return the market actually gives them. Closes when the group invests less in the signal and its real average quality falls, not by any failing but by a sound response to a lowered return.
 
-**[The Confirmation](plot_the_confirmation.md)**
+**[Proven by What It Discouraged](plot_proven_by_what_it_discouraged.md)**
 Cue: the group's average has fallen to meet the rating. The lowered average confirms the Employer's prior, the assumed average become the produced average, and the Standout, who did invest and is genuinely able, is priced by the group anyway, their signal discounted, the loop unable to tell them from it. Closes when the prior is made true by the investment it discouraged, the discrimination self-confirming and the able member its casualty.
 
-**[The Programme](plot_the_programme.md)**
+**[Lowering the Bar From Outside](plot_lowering_the_bar_from_outside.md)**
 Cue: someone would break the self-confirming prior. The Reformer mandates the group's hiring, lowering the bar it is held to, and whether that breaks the prior turns on how hard the mandate bites. Closes when the mandate bites hard enough to make the signal worth acquiring, the group invests, and the rating is undone ... or the lowered bar dampens the incentive to invest, the group is taken without the signal, and the stereotype survives into a patronising equilibrium, the group held to a lower bar and kept below it.
 
 ## Stakes

@@ -34,5 +34,5 @@ Good medicine, and it is good medicine: the prescription a guideline recommends,
 
 ## Yearbook
 
-Stands over the setup in [Cover It Now](plot_cover_it_now.md), where the decision that generates the pressure is the one there is no argument against.
+Stands over the setup in [Written Before the Culture](plot_written_before_the_culture.md), where the decision that generates the pressure is the one there is no argument against.
 It works together with [The Blind Hour](piece_the_blind_hour.md), the correct decision and the fact that makes it the only one.

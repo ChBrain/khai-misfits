@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Never Aimed at You](play_never_aimed_at_you.md). Where exposure is apportioned rather than prescriptions counted. Hosts [Count Where the Exposure Falls](plot_count_where_the_exposure_falls.md) and [What the Estimate Carries](plot_what_the_estimate_carries.md).
+[Never Aimed at You](play_never_aimed_at_you.md). Where exposure is apportioned rather than prescriptions counted. Hosts [Counting Exposure, Not Scripts](plot_counting_exposure_not_scripts.md) and [What the Estimate Carries](plot_what_the_estimate_carries.md).
 
 ## Owner
 

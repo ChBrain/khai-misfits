@@ -92,10 +92,10 @@ A symptom flares and demands an answer now. The Reliever brings the quick fix, t
 **[The Erosion](plot_the_erosion.md)**
 Cue: the symptom is handled, so the slow work of the cure has no urgency. The Builder's fundamental capacity goes another cycle unused and unfunded, and unused capacity wastes. Closes when the power to fix the cause is measurably weaker than before the fix was reached for.
 
-**[The Dependence](plot_the_dependence.md)**
+**[Reflex Before the Flare](plot_reflex_before_the_flare.md)**
 Cue: the symptom returns, and the capacity to cure it is too wasted to try. The Habitué reaches for the fix without a second thought, because the fix is now the only thing that still works. Closes when the relief is no longer a choice but a necessity, and the cause is untouchable behind it.
 
-**[The Weaning](plot_the_weaning.md)**
+**[Rationing the Relief](plot_rationing_the_relief.md)**
 Cue: someone sees that the fix is the reason the problem is permanent. The Weaner funds the fundamental capacity and endures the symptom long enough to rebuild it. Closes when the burden shifts back to the cure ... or the withdrawal is judged too painful, the fix is reached for once more, and the muscle wastes another notch.
 
 ## Stakes

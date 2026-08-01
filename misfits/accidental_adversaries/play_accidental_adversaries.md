@@ -93,16 +93,16 @@ See the whole loop, recognise that the harm you receive is a response to harm yo
 **[The Alliance](plot_the_alliance.md)**
 Two parties partner, and it pays them both: each other's success is their own, and the symbiosis lifts them together. The Partner keeps faith in the bond, and the Defender, prospering, begins to optimise its own results. Closes when the alliance is delivering mutual benefit and each has come to depend on the other.
 
-**[The Local Move](plot_the_local_move.md)**
+**[Sensible on One Side](plot_sensible_on_one_side.md)**
 Cue: one party moves to protect its own results. The Defender makes a locally sensible choice, and across the boundary, in a place it cannot see, the move degrades the Wounded's success. Closes when harm has been dealt without intent and received where the one who dealt it cannot see.
 
 **[The Retaliation](plot_the_retaliation.md)**
 Cue: the wounded party's success is slipping and it cannot see why. The Wounded reads the harm as attack, and the Spiral turns its answering move into a blow back across the seam. Closes when the injury has been misread as hostility and repaid in kind, the loop now closed.
 
-**[The Spiral](plot_the_spiral.md)**
+**[Each Round Larger](plot_each_round_larger.md)**
 Cue: the first party, now harmed in turn, answers too. The Defender receives the retaliation as unprovoked and strikes back, and the Spiral compounds, each party dealing and receiving, each sure it is the victim. Closes when partners have become adversaries, and the alliance that lifted them is dragging them both down.
 
-**[The Table](plot_the_table.md)**
+**[Stepping Down First](plot_stepping_down_first.md)**
 Cue: someone sees the whole loop. The Mender would stop its own undermining first and de-escalate before the other does, against the Predator, who would take a dropped guard as an opening, and whom no one can tell from an accidental adversary until the guard is down. Closes when the alliance is restored ... or the spiral holds, or a dropped guard meets a real predator.
 
 ## Stakes

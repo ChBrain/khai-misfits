@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Anyone Can See It](play_anyone_can_see_it.md). Where perspective-taking happens and the bias-read is dissolved, at a cost. Hosts [The Other Chair](plot_the_other_chair.md).
+[Anyone Can See It](play_anyone_can_see_it.md). Where perspective-taking happens and the bias-read is dissolved, at a cost. Hosts [Trying It Their Way](plot_trying_it_their_way.md).
 
 ## Owner
 

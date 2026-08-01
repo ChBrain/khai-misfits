@@ -102,7 +102,7 @@ Cue: a holding fallen below the price paid. At [the Screen](place_the_screen.md)
 **[The Account Bleeds](plot_the_account_bleeds.md)**
 Cue: time passing over the sold winners and the held losers. At [the Long Run](place_the_long_run.md), through [Bleeding](process_bleeding.md), [the Cost](piece_the_cost.md) accrues, the winners sold climbing on and the losers kept sinking, the tax worsened by realising gains and not losses, the account behind the market. Closes with the disposition's price paid in return and in tax, worn as bad luck because each trade alone looked reasonable (Odean).
 
-**[Judge by Prospects](plot_judge_by_prospects.md)**
+**[Weighed on the Outlook](plot_weighed_on_the_outlook.md)**
 Cue: the same holdings, weighed on their outlook. At [the Book](place_the_book.md), [the Adviser](persona_the_adviser.md) on [Judge by Prospects](plan_judge_by_prospects.md) through [Ruling](process_ruling.md) holds [the Bound](piece_the_bound.md), closing each position on what it is worth keeping now, letting winners run and cutting losers on their merits, taking the loss and leaning on year-end tax-loss selling. Closes with the sale governed by prospects, not by what was paid, at the cost of the discipline it takes to admit a loss (Odean).
 
 **[No Law of the Ledger](plot_no_law_of_the_ledger.md)**

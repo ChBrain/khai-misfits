@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Back to Even](play_back_to_even.md). Borne at [The Book](place_the_book.md), precipitated by [The Adviser](persona_the_adviser.md) weighing [The Bound](piece_the_bound.md), in [Judge by Prospects](plot_judge_by_prospects.md).
+[Back to Even](play_back_to_even.md). Borne at [The Book](place_the_book.md), precipitated by [The Adviser](persona_the_adviser.md) weighing [The Bound](piece_the_bound.md), in [Weighed on the Outlook](plot_weighed_on_the_outlook.md).
 
 ## Owner
 

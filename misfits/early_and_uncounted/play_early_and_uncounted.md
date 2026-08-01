@@ -92,7 +92,7 @@ Cue: time passes, and the Cohort is worn down. Predation, accident, and disease 
 **[The Reckoning](plot_the_reckoning.md)**
 Cue: the Trait's late face shows itself, at last, in the thinned Cohort. The Count applies the same rule it always has, weigh by who is present, and returns almost nothing, however severe the cost is to the remnant who carry it. Closes when the Trait passes unselected against, not from any oversight but because the fair rule, honestly applied, has almost no one left to weigh it against.
 
-**[The Toll](plot_the_toll.md)**
+**[Gene After Gene](plot_gene_after_gene.md)**
 Cue: someone looks at the whole span, not one trait but many. Across the genome and across generations, gene after gene has made the identical trade on the identical asymmetry, and their sum stands as the visible pattern of a body's decline with age. Closes when the toll is named as accrual, not damage: no single trait broken, no single check failed, only many individually correct countings summed into senescence, and the one thing that would have changed the count, a cohort surviving further before the reckoning came, set by hazards none of the parties inside the mechanism command.
 
 ## Stakes

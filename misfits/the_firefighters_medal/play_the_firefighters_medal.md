@@ -91,10 +91,10 @@ Cue: the rescue is vivid and unmistakable. The Firefighter works through the nig
 **[The Medal](plot_the_medal.md)**
 Cue: you can cheer a fire fought but not a fire spared. The Manager pins the credit on the visible save, and the Preventer, whose quiet work months ago kept fires from starting, gets nothing, because no one can point to the disaster that never came. Closes when the reward has gone to the seen and passed over the unseen, and everyone has learned where the glory lies.
 
-**[The Spiral](plot_the_spiral.md)**
+**[Draining Toward the Blaze](plot_draining_toward_the_blaze.md)**
 Cue: people go where the glory and the safety are. The Preventer's hours drain into firefighting and prevention starves, so fires start faster, and faster fires leave still less time for prevention, and the loop tips. Closes when the system has crossed into a self-sustaining blaze, everyone heroic and busy and nothing improving.
 
-**[The Firebreak](plot_the_firebreak.md)**
+**[Crediting the Crisis That Never Came](plot_crediting_the_crisis_that_never_came.md)**
 Cue: someone would break the loop. The Marshal would fence a share of capacity for prevention even while fires burn and credit the crisis that never came, against the Manager's pull to fight the current blaze and pin the medal on the save. Closes when the prevention time is fenced and the fires begin to thin ... or the current fire is fought once more, the medal pinned once more, and the blaze runs on.
 
 ## Stakes

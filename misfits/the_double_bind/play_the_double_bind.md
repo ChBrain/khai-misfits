@@ -93,7 +93,7 @@ Cue: both demands cannot be obeyed. The Bound tries to answer, comes near and me
 **[The Seal](plot_the_seal.md)**
 Cue: the one way out is forbidden. The Bound would name the contradiction, but the Gag forbids it and the Bond forbids leaving, and the Bystander, under the same rule, says nothing. Closes when the contradiction stays unnamed and the field unleft, the trap sealed with the bound one still inside it.
 
-**[The Pattern](plot_the_pattern.md)**
+**[A Way of Hearing](plot_a_way_of_hearing.md)**
 Cue: the message comes again, and again. Under the bind often enough, the Bound stops expecting coherence and learns to hear the rejection inside every warmth, until the pattern is a way of hearing and needs no further binding to run. Closes when the trap has grown into the person, self-sustaining, the room the only one they know.
 
 **[The Naming](plot_the_naming.md)**

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Room to Grow](play_room_to_grow.md). Borne at [the Thinned](place_the_thinned.md), precipitated by [the Survivor](persona_the_survivor.md), in [The Room Made](plot_the_room_made.md).
+[Room to Grow](play_room_to_grow.md). Borne at [the Thinned](place_the_thinned.md), precipitated by [the Survivor](persona_the_survivor.md), in [Fewer Bodies on the Ground](plot_fewer_bodies_on_the_ground.md).
 
 ## Owner
 

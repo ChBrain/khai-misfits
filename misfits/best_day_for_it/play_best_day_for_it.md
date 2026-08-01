@@ -102,7 +102,7 @@ And the whole is held against its own limit. The decline is a function of penetr
 
 ## Triggers
 
-**[Build Where the Wind Is](plot_build_where_the_wind_is.md)**
+**[All on the Same Ground](plot_all_on_the_same_ground.md)**
 The setup, a decision that is simply correct. At [the Best Site](place_the_best_site.md), through [Siting](process_siting.md), [the Developer](persona_the_developer.md) on [Build Where the Wind Is](plan_build_where_the_wind_is.md) sets [the Correlated Fleet](piece_the_correlated_fleet.md): the resource map is read, the best ground is chosen, and every other developer of the technology is reading the same map and reaching the same conclusion. Closes with the class's output very nearly simultaneous, chosen by nobody, and undoable by nobody alone, since building on poorer ground would destroy the builder's own returns to raise its rivals'.
 
 **[Bid Zero, Because It Is Zero](plot_bid_zero_because_it_is_zero.md)**

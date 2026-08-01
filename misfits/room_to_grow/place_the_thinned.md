@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Room to Grow](play_room_to_grow.md). The same range after the cull, its density relaxed, where the survivors find room and the count can run past where it started. Hosts [The Room Made](plot_the_room_made.md), [The Thriving](plot_the_thriving.md), [The Rebound](plot_the_rebound.md).
+[Room to Grow](play_room_to_grow.md). The same range after the cull, its density relaxed, where the survivors find room and the count can run past where it started. Hosts [Fewer Bodies on the Ground](plot_fewer_bodies_on_the_ground.md), [The Thriving](plot_the_thriving.md), [Counted Again After the Cull](plot_counted_again_after_the_cull.md).
 
 ## Owner
 

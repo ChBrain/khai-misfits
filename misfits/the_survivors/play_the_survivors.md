@@ -98,7 +98,7 @@ Recover the missing, reason from who is absent, and the true lesson turns over: 
 
 ## Triggers
 
-**[Attrition](plot_attrition.md)**
+**[Only the First Kind Counted](plot_only_the_first_kind_counted.md)**
 The sortie flies, and some bombers come home and some do not. The Returner is wheeled into the hangar with its holes on show, and the Lost goes into the sea with nothing to show at all. Closes when the sample is all survivors and the fatal cases are gone from it.
 
 **[Sample](plot_sample.md)**

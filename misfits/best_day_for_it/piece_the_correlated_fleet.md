@@ -34,5 +34,5 @@ Good siting, and it is good siting: the resource is real, the capacity factor is
 
 ## Yearbook
 
-Stands over the setup in [Build Where the Wind Is](plot_build_where_the_wind_is.md), where the mechanism is created by everyone deciding correctly.
+Stands over the setup in [All on the Same Ground](plot_all_on_the_same_ground.md), where the mechanism is created by everyone deciding correctly.
 It works together with [The Zero Bid](piece_the_zero_bid.md), the two conditions that are harmless apart and are the trap together.

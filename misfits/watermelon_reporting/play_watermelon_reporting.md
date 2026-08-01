@@ -110,7 +110,7 @@ Cue: the status leaves the workface and climbs. The work continues sideways task
 **[Net Green](plot_net_green.md)**
 Cue: the green reaches the top. The portfolio review reads a board of green tiles and signs off. Closes when the aggregate is confirmed and keeping it green is rewarded.
 
-**[Net It Out](plot_net_it_out.md)**
+**[Red Among Its Neighbours](plot_red_among_its_neighbours.md)**
 Cue: the red status has climbed as far as it can on its own project. The Aggregator sets it among its neighbours, where one red among many greens is a rounding error, and reports the programme by its balance. Closes when the failing project is dissolved into the health of the many.
 
 **[Clean House](plot_clean_house.md)**

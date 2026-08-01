@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Must Be a Catch](play_must_be_a_catch.md). Borne at [The Table](place_the_table.md), precipitated by [The Proposer](persona_the_proposer.md) setting terms a neutral hand would call fair, in [Must Be a Catch](plot_must_be_a_catch.md).
+[Must Be a Catch](play_must_be_a_catch.md). Borne at [The Table](place_the_table.md), precipitated by [The Proposer](persona_the_proposer.md) setting terms a neutral hand would call fair, in [Fair Terms, Read Wrong](plot_fair_terms_read_wrong.md).
 
 ## Owner
 

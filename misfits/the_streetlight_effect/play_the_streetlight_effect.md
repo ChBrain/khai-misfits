@@ -102,7 +102,7 @@ Cue: the lit patch is searched, and searched well. The Searcher works it thoroug
 **[The Finding](plot_the_finding.md)**
 Cue: the search must report. The Light's easy ground yields something, or nothing, and the False Find takes it for the answer, the lit patch's contents mistaken for the truth or its emptiness for the truth's absence. Closes when a finding drawn from the wrong place is written up as the finding.
 
-**[The Lamplighting](plot_the_lamplighting.md)**
+**[Light Out Past the Lamp](plot_light_out_past_the_lamp.md)**
 Cue: someone moves to search where the thing actually is. The Illuminator would light the dark and instrument the unmeasured, against the Pragmatist's warning that the dark may yield nothing and the keys were sometimes near the lamp. Closes when the search finally looks where the answer lies ... or the light holds, or a tractable answer is traded for a true one that never comes.
 
 ## Stakes

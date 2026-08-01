@@ -104,7 +104,7 @@ Cue: a fair account is brought in to settle it. At [the Record](place_the_record
 **[The Wider It Gets](plot_the_wider_it_gets.md)**
 Cue: they keep at it, and it worsens. Through [Hardening](process_hardening.md), [the Widening](piece_the_widening.md): each construes the new exchanges too and reads the other's persistence as fresh proof of bias, so contact and evidence widen the gap rather than close it. Closes with two reasonable people further apart for having engaged, the escalation authored by no one (Robinson, Keltner, Ward, and Ross).
 
-**[The Other Chair](plot_the_other_chair.md)**
+**[Trying It Their Way](plot_trying_it_their_way.md)**
 Cue: someone tries the one move that helps. At [the Other Chair](place_the_other_chair.md), [the Bridge](persona_the_bridge.md) on [Take the Other Chair](plan_take_the_other_chair.md) through [Bridging](process_bridging.md) holds [the Boundary](piece_the_boundary.md): getting each to construe the situation as the other does and to grant a reasonable person could dissolves the bias-read, but it is effortful and resisted, and lifts on its own where a fact is checkable or one side truly errs. Closes with the gap closable only by costly perspective-taking, the trap shown bounded (Ross and Ward).
 
 ## Stakes
