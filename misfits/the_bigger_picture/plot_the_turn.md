@@ -30,7 +30,7 @@ The total authoritative and clear, every subgroup against it, a treatment to cho
 
 ## Stage
 
-[The Decider](persona_the_decider.md), on [Act on the Number](plan_act_on_the_number.md), reads the biggest, most authoritative summary and commits, taking the total as the truth to act on because rising above the slices feels like rising above the noise.
+[The Decider](persona_the_decider.md), on [Act on the Number](plan_act_on_the_number.md), reads the biggest, most authoritative summary and commits to [the verdict](piece_the_verdict.md), taking the total as the truth to act on because rising above the slices feels like rising above the noise.
 The call is made on the whole and against the parts, confidently, and nothing on the page can say whether the level chosen was the right one.
 
 ## Tension

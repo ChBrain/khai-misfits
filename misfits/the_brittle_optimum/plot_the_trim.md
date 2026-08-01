@@ -30,8 +30,8 @@ The optimiser eyeing the spare, the buffer, the extra time, and reckoning what c
 
 ## Stage
 
-[The Optimizer](persona_the_optimizer.md), having tabled [Trim the Fat](plan_trim_the_fat.md), pares the margin, notes the leaner run, and finds nothing broken to warn it off.
-[The Spare](persona_the_spare.md), on [Sit Idle](plan_sit_idle.md), had earned nothing to defend itself, so its removal is a clean gain, the give quietly thinned by one slice.
+[The Optimizer](persona_the_optimizer.md), having tabled [Trim the Fat](plan_trim_the_fat.md), pares the margin, notes [the efficiency](piece_the_efficiency.md) of the leaner run, and finds nothing broken to warn it off.
+[The Spare](persona_the_spare.md), on [Sit Idle](plan_sit_idle.md), had earned nothing to defend itself, so its removal is a clean gain, [the slack](piece_the_slack.md) quietly thinned by one slice.
 
 ## Tension
 

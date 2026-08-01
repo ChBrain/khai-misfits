@@ -31,7 +31,7 @@ The driver still pulling, the cost fallen everywhere but the last patch, the lea
 ## Stage
 
 [The Operator](persona_the_operator.md), on [Move to the Soft Spot](plan_move_to_the_soft_spot.md), follows the least resistance to the valley across the border, the street three over, the route with the lighter patrols, and the trade swells up again.
-The demand is still there and the money is still there, so the trade runs on softer ground undiminished, the closed patch the only thing the squeeze took.
+The demand is still there and the money is still there, so the trade runs on softer ground undiminished as [the bulge](piece_the_bulge.md), the closed patch the only thing the squeeze took.
 
 ## Tension
 

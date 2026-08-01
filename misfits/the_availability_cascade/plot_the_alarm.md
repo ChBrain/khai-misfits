@@ -30,7 +30,7 @@ The consensus arriving from the forum, the public frightened and watching, the r
 
 ## Stage
 
-[The Regulator](persona_the_regulator.md), on [Answer the Alarm](plan_answer_the_alarm.md), takes the swelling consensus as its mandate and prepares a visible response, because a system that answers its people cannot sit still while they are frightened.
+[The Regulator](persona_the_regulator.md), on [Answer the Alarm](plan_answer_the_alarm.md), takes the swelling consensus, grown by [the repetition](piece_the_repetition.md), as its mandate and prepares a visible response, because a system that answers its people cannot sit still while they are frightened.
 The public watches for the act it demands, the loud fear now a thing the seat is bound to answer.
 
 ## Tension

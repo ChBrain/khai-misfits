@@ -30,7 +30,7 @@ The optimiser praised for the leaner run, and the reserver, with its margins int
 
 ## Stage
 
-[The Optimizer](persona_the_optimizer.md), still on [Trim the Fat](plan_trim_the_fat.md), reads every calm day as vindication and pares the system tighter, each part now leaning on the rest.
+[The Optimizer](persona_the_optimizer.md), still on [Trim the Fat](plan_trim_the_fat.md), reads every calm day as vindication and draws [the coupling](piece_the_coupling.md) closer, paring the system tighter, each part now leaning on the rest.
 [The Reserver](persona_the_reserver.md), on [Keep the Reserve](plan_keep_the_reserve.md), watches its caution count against it on the numbers, unable to point to a shock that has not come, and holds its slack under mounting pressure to cut.
 
 ## Tension

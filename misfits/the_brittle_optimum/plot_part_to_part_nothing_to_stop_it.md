@@ -30,7 +30,7 @@ The first failure poised at a tight coupling, the next part already leaning on i
 
 ## Stage
 
-[The Cascade](persona_the_cascade.md), having tabled [Run Unchecked](plan_run_unchecked.md), carries the break from the struck part into the next and the next, meeting no buffer to break its stride.
+[The Cascade](persona_the_cascade.md), having tabled [Run Unchecked](plan_run_unchecked.md), carries [the shatter](piece_the_shatter.md) from the struck part into the next and the next, meeting no buffer to break its stride.
 [The Spare](persona_the_spare.md), long since cut on [Sit Idle](plan_sit_idle.md), is the give that is not there, so the failure that a looser system would have held to one part takes the whole.
 
 ## Tension

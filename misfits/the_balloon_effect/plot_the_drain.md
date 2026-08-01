@@ -30,7 +30,7 @@ The trade traced from lobe to lobe, the driver there to be aimed at, the clearan
 
 ## Stage
 
-[The Coordinator](persona_the_coordinator.md), on [Drain the Pressure](plan_drain_the_pressure.md), aims at the driver that feeds the trade and reaches across the borders each mandate stops at, so the trade has nowhere softer to go.
+[The Coordinator](persona_the_coordinator.md), on [Drain the Pressure](plan_drain_the_pressure.md), aims at [the pressure](piece_the_pressure.md), the driver that feeds the trade and reaches across the borders each mandate stops at, so the trade has nowhere softer to go.
 [The Overseer](persona_the_overseer.md), on [Count the Clearance](plan_count_the_clearance.md), holds to the board of countable wins, and the enforcers to the near, provable clearances the reward finds.
 
 ## Tension

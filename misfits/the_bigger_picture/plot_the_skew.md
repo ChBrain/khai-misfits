@@ -31,7 +31,7 @@ The world assigning cases to groups unevenly, the hard cases to one treatment, t
 ## Stage
 
 The world sorts the cases the way it does, sicker patients to the newer treatment, more applicants to the harder programmes, so the subgroups differ in more than the thing being compared.
-No one arranges it: the uneven allocation is the ordinary structure of how cases fall, and it quietly makes the groups unalike beneath any comparison drawn across them.
+No one arranges it: the uneven allocation is the ordinary structure of how cases fall, and [the lurking variable](piece_the_lurking_variable.md) quietly makes the groups unalike beneath any comparison drawn across them.
 
 ## Tension
 

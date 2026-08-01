@@ -31,7 +31,7 @@ The trade swollen up on the new corner, the next enforcer ready to squeeze it, t
 ## Stage
 
 The next enforcer, on [Sweep This Ground](plan_sweep_this_ground.md), presses the trade off the ground it bulged into, another real and countable clearance.
-[The Operator](persona_the_operator.md), on [Move to the Soft Spot](plan_move_to_the_soft_spot.md), takes the trade to the next softest ground, and the round repeats, the balloon shoved lobe to lobe with the air never let out.
+[The Operator](persona_the_operator.md), on [Move to the Soft Spot](plan_move_to_the_soft_spot.md), takes the trade to the next softest ground, [the displacement](piece_the_displacement.md) plain, and the round repeats, the balloon shoved lobe to lobe with the air never let out.
 
 ## Tension
 

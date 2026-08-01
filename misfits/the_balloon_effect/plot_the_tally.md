@@ -30,8 +30,8 @@ The cleared corner recorded, the border past which the trade moved uncrossed by 
 
 ## Stage
 
-[The Overseer](persona_the_overseer.md), on [Count the Clearance](plan_count_the_clearance.md), credits the quiet corner and the fallen numbers to the officer who made them, holding each enforcer fairly to the ground they hold.
-The loud corner three streets over, being someone else's patch, is not set against the win, and the trade across the whole is never totalled, because no patch is answerable for it.
+[The Overseer](persona_the_overseer.md), on [Count the Clearance](plan_count_the_clearance.md), credits [the clearance](piece_the_clearance.md), the quiet corner and the fallen numbers to the officer who made them, holding each enforcer fairly to the ground they hold.
+The loud corner three streets over, being someone else's patch, is not set against the win, and [the conservation](piece_the_conservation.md) across the whole is never totalled, because no patch is answerable for it.
 
 ## Tension
 

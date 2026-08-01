@@ -31,7 +31,7 @@ The two true readings at odds, the lurking variable behind them, the arrows ther
 ## Stage
 
 [The Modeller](persona_the_modeller.md), on [Draw the Cause](plan_draw_the_cause.md), sets the arrows between the variables, judges which is confounder to adjust and which mediator to leave, and chooses the level the model licenses.
-The paradox can be resolved this way, but only by a causal claim brought from outside, one the table can neither prove nor refute.
+[The pooled whole](piece_the_pooled_whole.md) can be resolved this way, but only by a causal claim brought from outside, one the table can neither prove nor refute.
 
 ## Tension
 

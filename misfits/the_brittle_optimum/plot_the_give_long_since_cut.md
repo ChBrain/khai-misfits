@@ -31,7 +31,7 @@ The sort of jolt a looser system would have taken without a mark, landing now on
 ## Stage
 
 [The Shock](persona_the_shock.md), having tabled [Come Eventually](plan_come_eventually.md), arrives unannounced and tests whatever slack remains, which is none.
-[The Optimizer](persona_the_optimizer.md), still on [Trim the Fat](plan_trim_the_fat.md), sees the lean system it built meet the jolt with nothing to spare, the margins that would have absorbed it gone for the numbers.
+[The Optimizer](persona_the_optimizer.md), still on [Trim the Fat](plan_trim_the_fat.md), sees [the trimmed reserve](piece_the_trimmed_reserve.md) meet the jolt with nothing to spare, the margins that would have absorbed it gone for the numbers.
 
 ## Tension
 
