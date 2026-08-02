@@ -1,5 +1,12 @@
 # @chbrain/khai-misfits
 
+## 0.211.2
+
+### Patch Changes
+
+- 6c1bf6c: Wire the pieces the plots enact but never named, starting with The Arms Race: each piece traced to a load-bearing vector in the warrant and staged in the plot that turns on it.
+- e76b50d: Cast the seats: 180 positions the play named but no plot staged now carry an explicit seat link in the plot where their persona already appears, in the house's own form. Company elements cast by no plot fall from 408 to 228.
+
 ## 0.211.1
 
 ### Patch Changes
