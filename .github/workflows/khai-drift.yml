@@ -1,0 +1,110 @@
+name: khai-drift
+
+# Dependabot cannot see @chbrain/* (GitHub Packages needs a token on every read,
+# and Dependabot has no credential here), so those updates are ignored in
+# dependabot.yml. This restores the signal without the broken pull requests: it
+# only reports, because a khai bump is a migration, not a version edit. Moving
+# the khai-tests pin means rebuilding registry.json and docs/SCIENCE.md in the
+# same change, and a release that adds a gate needs the content campaign that
+# gate demands. Both are for a person to do; this only says when to start.
+
+on:
+  schedule:
+    - cron: "0 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: read
+  issues: write
+
+jobs:
+  drift:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          registry-url: "https://npm.pkg.github.com"
+          scope: "@chbrain"
+
+      - name: compare the lockfile against the registry
+        id: check
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node --input-type=module <<'EOF' > drift.md
+          import { readFileSync, appendFileSync } from "node:fs";
+          import { execFileSync } from "node:child_process";
+
+          const pkg = JSON.parse(readFileSync("package.json", "utf8"));
+          const lock = JSON.parse(readFileSync("package-lock.json", "utf8"));
+          const declared = { ...pkg.dependencies, ...pkg.devDependencies };
+          const names = Object.keys(declared).filter((n) => n.startsWith("@chbrain/"));
+
+          const locked = (name) =>
+            lock.packages?.[`node_modules/${name}`]?.version ?? "unknown";
+
+          const rows = [];
+          for (const name of names.sort()) {
+            let latest = "unreachable";
+            try {
+              latest = execFileSync("npm", ["view", name, "version"], {
+                encoding: "utf8",
+              }).trim();
+            } catch {
+              // a package that cannot be read is reported, never silently skipped
+            }
+            const have = locked(name);
+            rows.push({ name, have, latest, behind: latest !== have && latest !== "unreachable" });
+          }
+
+          const behind = rows.filter((r) => r.behind);
+          appendFileSync(process.env.GITHUB_OUTPUT, `behind=${behind.length}\n`);
+
+          console.log("| package | lockfile | registry |");
+          console.log("| --- | --- | --- |");
+          for (const r of rows) {
+            const mark = r.behind ? " **behind**" : r.latest === "unreachable" ? " (unreachable)" : "";
+            console.log(`| \`${r.name}\` | ${r.have} | ${r.latest}${mark} |`);
+          }
+          EOF
+          cat drift.md
+
+      - name: open or update the drift issue
+        if: steps.check.outputs.behind != '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TITLE="khai dependencies behind the registry"
+          BODY="$(cat drift.md)
+
+          Bumping these is a migration, not a version edit. Read the new
+          CHANGELOG for gates first, rebuild \`registry.json\` and
+          \`docs/SCIENCE.md\` in the same pull request as any khai-tests move,
+          and run whatever content campaign a new gate demands.
+
+          Raised by \`.github/workflows/khai-drift.yml\`; it updates this issue
+          rather than opening another."
+
+          NUM="$(gh issue list --state open --search "$TITLE in:title" --json number,title \
+                 --jq ".[] | select(.title == \"$TITLE\") | .number" | head -1)"
+
+          if [ -n "$NUM" ]; then
+            gh issue comment "$NUM" --body "$BODY"
+          else
+            gh issue create --title "$TITLE" --body "$BODY"
+          fi
+
+      - name: close the drift issue when nothing is behind
+        if: steps.check.outputs.behind == '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TITLE="khai dependencies behind the registry"
+          NUM="$(gh issue list --state open --search "$TITLE in:title" --json number,title \
+                 --jq ".[] | select(.title == \"$TITLE\") | .number" | head -1)"
+          if [ -n "$NUM" ]; then
+            gh issue close "$NUM" --comment "Every khai dependency matches the registry again."
+          fi
