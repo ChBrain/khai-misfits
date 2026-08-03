@@ -1,5 +1,13 @@
 # @chbrain/khai-misfits
 
+## 0.214.0
+
+### Minor Changes
+
+- 4488f22: Add the misfit No One's Remit: exclusionary design staged as an assembled system, where an object that excludes is produced by a chain of decisions each answerable within its own remit, none of which is a decision to exclude.
+- 513bfc6: Add the misfit Right for the Last World: structural contingency staged as a fitted system overtaken, where a form genuinely right for its environment is rewarded, hardens into how things are done, and keeps executing correctly after the environment has turned.
+- 88a67d6: Add the misfit The Made Ground, a staging of niche construction: an actor changes the world it lives in by living correctly in it, and the changed world sets the next test it will be measured against. The act is fit and unremarkable, the alteration accumulates below any threshold anyone would call a change, and the altered ground applies a selective pressure nobody chose and nobody can withdraw, handed on whole to a descendant born into a test its parent wrote. No move keeps the fit and stops the making, because the making is the living. Held to its bound: the mechanism is staged, not a claim about how much of evolution it explains (Lewontin; Odling-Smee, Laland and Feldman; Jones, Lawton and Shachak; Darwin's worms).
+
 ## 0.211.2
 
 ### Patch Changes
