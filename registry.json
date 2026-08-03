@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.212.0",
+  "version": "0.213.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -19458,6 +19458,203 @@
           "kind": "process",
           "title": "Scrambling",
           "taxonomy": "play_rent_seeking.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "right_for_the_last_world",
+      "title": "Right for the Last World",
+      "description": "A structure fitted to its market is rewarded, hardens into how things are done, and executes on after the market moves.",
+      "members": [
+        {
+          "file": "persona_the_auditor.md",
+          "kind": "persona",
+          "title": "The Auditor",
+          "type": "archetype",
+          "taxonomy": "position_auditor.md"
+        },
+        {
+          "file": "persona_the_scout.md",
+          "kind": "persona",
+          "title": "The Scout",
+          "type": "archetype",
+          "taxonomy": "position_scout.md"
+        },
+        {
+          "file": "persona_the_steward.md",
+          "kind": "persona",
+          "title": "The Steward",
+          "type": "archetype",
+          "taxonomy": "position_steward.md"
+        },
+        {
+          "file": "persona_the_successor.md",
+          "kind": "persona",
+          "title": "The Successor",
+          "type": "archetype",
+          "taxonomy": "position_successor.md"
+        },
+        {
+          "file": "piece_the_backlog.md",
+          "kind": "piece",
+          "title": "The Backlog",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "piece_the_overhang.md",
+          "kind": "piece",
+          "title": "The Overhang",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "piece_the_rulebook.md",
+          "kind": "piece",
+          "title": "The Rulebook",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "piece_the_scorecard.md",
+          "kind": "piece",
+          "title": "The Scorecard",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "pitch_dont_fix_what_isnt_broken.md",
+          "kind": "pitch",
+          "title": "Don't Fix What Isn't Broken",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "place_the_chart.md",
+          "kind": "place",
+          "title": "The Chart",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "place_the_market.md",
+          "kind": "place",
+          "title": "The Market",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "place_the_review.md",
+          "kind": "place",
+          "title": "The Review",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "plan_earn_the_rung.md",
+          "kind": "plan",
+          "title": "Earn the Rung",
+          "taxonomy": "position_successor.md"
+        },
+        {
+          "file": "plan_hold_the_fit.md",
+          "kind": "plan",
+          "title": "Hold the Fit",
+          "taxonomy": "position_steward.md"
+        },
+        {
+          "file": "plan_move_before_proof.md",
+          "kind": "plan",
+          "title": "Move Before Proof",
+          "taxonomy": "position_scout.md"
+        },
+        {
+          "file": "plan_read_the_record.md",
+          "kind": "plan",
+          "title": "Read the Record",
+          "taxonomy": "position_auditor.md"
+        },
+        {
+          "file": "play_right_for_the_last_world.md",
+          "kind": "play",
+          "title": "Right for the Last World"
+        },
+        {
+          "file": "plot_a_bet_the_record_wont_confirm.md",
+          "kind": "plot",
+          "title": "A Bet the Record Won't Confirm",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "plot_nothing_inside_has_changed.md",
+          "kind": "plot",
+          "title": "Nothing Inside Has Changed",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "plot_the_fit.md",
+          "kind": "plot",
+          "title": "The Fit",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "plot_the_ground_it_stands_on.md",
+          "kind": "plot",
+          "title": "The Ground It Stands On",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "plot_the_proof.md",
+          "kind": "plot",
+          "title": "The Proof",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "position_auditor.md",
+          "kind": "position",
+          "title": "Auditor",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "position_scout.md",
+          "kind": "position",
+          "title": "Scout",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "position_steward.md",
+          "kind": "position",
+          "title": "Steward",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "position_successor.md",
+          "kind": "position",
+          "title": "Successor",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "process_abandoning.md",
+          "kind": "process",
+          "title": "Abandoning",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "process_crediting.md",
+          "kind": "process",
+          "title": "Crediting",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "process_drifting.md",
+          "kind": "process",
+          "title": "Drifting",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "process_fitting.md",
+          "kind": "process",
+          "title": "Fitting",
+          "taxonomy": "play_right_for_the_last_world.md"
+        },
+        {
+          "file": "process_hardening.md",
+          "kind": "process",
+          "title": "Hardening",
+          "taxonomy": "play_right_for_the_last_world.md"
         }
       ]
     },
