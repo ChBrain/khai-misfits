@@ -65,6 +65,31 @@ number; never hand-edit it.
 A non-zero major resets the minor while the count keeps climbing, so a house
 stays `0.x`; the numbering guard rejects a major bump.
 
+### The generated artefacts travel with the change
+
+`registry.json`, `package.json` and `docs/SCIENCE.md` are **built, never merged**.
+A misfit PR carries them, and they are only valid against the `main` it will
+merge into: the moment another misfit lands first, the count moves and they are
+stale. No rebase can fix that, because git cannot resolve a computed count, so
+rebasing a misfit PR means rebuilding, not merging:
+
+1. reset the branch to `main`;
+2. take **only** the content across, the misfit directory and its changeset;
+3. run `npx khai-tests registry build` and `npx khai-tests science build`
+   against the final tree;
+4. **revert `CHANGELOG.md`**, see below;
+5. verify with `npm test` before pushing.
+
+The count is read from the directories on disk, so an untracked misfit left in
+the tree inflates it: build with only the misfit you are shipping present.
+
+**Do not carry `CHANGELOG.md` in a misfit PR.** From `khai-tests` 0.2.4 the
+registry build heals the top CHANGELOG heading to the manifest. That is right in
+a release, where the top heading is the pending version `changeset version` just
+wrote, and wrong in a branch, where the top heading is the release already on the
+registry and the heal rewrites it to a version that does not exist. Revert it and
+leave the heading to the release.
+
 ## Protection
 
 Content is CC-BY-NC-SA, code is MIT (see `LICENSE` and `LICENSE-CODE`); the
