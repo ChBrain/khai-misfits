@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.211.2",
+  "version": "0.212.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -35579,6 +35579,172 @@
           "kind": "process",
           "title": "Swallowing",
           "taxonomy": "play_the_loyalty_trap.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_made_ground",
+      "title": "The Made Ground",
+      "description": "Living well in a place quietly builds the floor that will test it, and its heirs, next.",
+      "members": [
+        {
+          "file": "persona_the_heir.md",
+          "kind": "persona",
+          "title": "The Heir",
+          "type": "archetype",
+          "taxonomy": "position_heir.md"
+        },
+        {
+          "file": "persona_the_leaver.md",
+          "kind": "persona",
+          "title": "The Leaver",
+          "type": "archetype",
+          "taxonomy": "position_leaver.md"
+        },
+        {
+          "file": "persona_the_settler.md",
+          "kind": "persona",
+          "title": "The Settler",
+          "type": "archetype",
+          "taxonomy": "position_settler.md"
+        },
+        {
+          "file": "piece_the_bequest.md",
+          "kind": "piece",
+          "title": "The Bequest",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "piece_the_crust.md",
+          "kind": "piece",
+          "title": "The Crust",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "piece_the_test.md",
+          "kind": "piece",
+          "title": "The Test",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "pitch_you_made_your_bed.md",
+          "kind": "pitch",
+          "title": "You Made Your Bed",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "place_the_far_ground.md",
+          "kind": "place",
+          "title": "The Far Ground",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "place_the_ground.md",
+          "kind": "place",
+          "title": "The Ground",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "plan_bear_the_test.md",
+          "kind": "plan",
+          "title": "Bear the Test",
+          "taxonomy": "position_heir.md"
+        },
+        {
+          "file": "plan_tend_the_ground.md",
+          "kind": "plan",
+          "title": "Tend the Ground",
+          "taxonomy": "position_settler.md"
+        },
+        {
+          "file": "plan_try_elsewhere.md",
+          "kind": "plan",
+          "title": "Try Elsewhere",
+          "taxonomy": "position_leaver.md"
+        },
+        {
+          "file": "play_the_made_ground.md",
+          "kind": "play",
+          "title": "The Made Ground"
+        },
+        {
+          "file": "plot_beneath_the_threshold.md",
+          "kind": "plot",
+          "title": "Beneath the Threshold",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "plot_born_into_the_test.md",
+          "kind": "plot",
+          "title": "Born Into the Test",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "plot_nowhere_else_to_turn.md",
+          "kind": "plot",
+          "title": "Nowhere Else to Turn",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "plot_the_ground_now_tests.md",
+          "kind": "plot",
+          "title": "The Ground Now Tests",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "plot_the_ordinary_turn.md",
+          "kind": "plot",
+          "title": "The Ordinary Turn",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "position_heir.md",
+          "kind": "position",
+          "title": "Heir",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "position_leaver.md",
+          "kind": "position",
+          "title": "Leaver",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "position_settler.md",
+          "kind": "position",
+          "title": "Settler",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "process_bequeathing.md",
+          "kind": "process",
+          "title": "Bequeathing",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "process_relocating.md",
+          "kind": "process",
+          "title": "Relocating",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "process_selecting.md",
+          "kind": "process",
+          "title": "Selecting",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "process_silting.md",
+          "kind": "process",
+          "title": "Silting",
+          "taxonomy": "play_the_made_ground.md"
+        },
+        {
+          "file": "process_tending.md",
+          "kind": "process",
+          "title": "Tending",
+          "taxonomy": "play_the_made_ground.md"
         }
       ]
     },
