@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.213.0",
+  "version": "0.214.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -13704,6 +13704,192 @@
           "kind": "process",
           "title": "Refusing",
           "taxonomy": "play_no_one_in_charge.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "no_ones_remit",
+      "title": "No One's Remit",
+      "description": "Each remit answers honestly and narrowly, and the person no remit was built to see is excluded by all of them at once.",
+      "members": [
+        {
+          "file": "persona_the_complainant.md",
+          "kind": "persona",
+          "title": "The Complainant",
+          "type": "archetype",
+          "taxonomy": "place_the_frontage.md"
+        },
+        {
+          "file": "persona_the_designer.md",
+          "kind": "persona",
+          "title": "The Designer",
+          "type": "archetype",
+          "taxonomy": "position_designer.md"
+        },
+        {
+          "file": "persona_the_displaced.md",
+          "kind": "persona",
+          "title": "The Displaced",
+          "type": "archetype",
+          "taxonomy": "place_the_frontage.md"
+        },
+        {
+          "file": "persona_the_manager.md",
+          "kind": "persona",
+          "title": "The Manager",
+          "type": "archetype",
+          "taxonomy": "position_manager.md"
+        },
+        {
+          "file": "persona_the_officer.md",
+          "kind": "persona",
+          "title": "The Officer",
+          "type": "archetype",
+          "taxonomy": "position_officer.md"
+        },
+        {
+          "file": "piece_the_brief.md",
+          "kind": "piece",
+          "title": "The Brief",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "piece_the_divider.md",
+          "kind": "piece",
+          "title": "The Divider",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "piece_the_figure.md",
+          "kind": "piece",
+          "title": "The Figure",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "pitch_not_my_job.md",
+          "kind": "pitch",
+          "title": "Not My Job",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "place_the_frontage.md",
+          "kind": "place",
+          "title": "The Frontage",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "place_the_ward.md",
+          "kind": "place",
+          "title": "The Ward",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "plan_answer_the_complaint.md",
+          "kind": "plan",
+          "title": "Answer the Complaint",
+          "taxonomy": "position_officer.md"
+        },
+        {
+          "file": "plan_find_another_doorway.md",
+          "kind": "plan",
+          "title": "Find Another Doorway",
+          "taxonomy": "persona_the_displaced.md"
+        },
+        {
+          "file": "plan_meet_the_brief.md",
+          "kind": "plan",
+          "title": "Meet the Brief",
+          "taxonomy": "position_designer.md"
+        },
+        {
+          "file": "plan_report_the_figure.md",
+          "kind": "plan",
+          "title": "Report the Figure",
+          "taxonomy": "position_manager.md"
+        },
+        {
+          "file": "play_no_ones_remit.md",
+          "kind": "play",
+          "title": "No One's Remit"
+        },
+        {
+          "file": "plot_no_one_commissioned_this.md",
+          "kind": "plot",
+          "title": "No One Commissioned This",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "plot_the_complaint.md",
+          "kind": "plot",
+          "title": "The Complaint",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "plot_the_count.md",
+          "kind": "plot",
+          "title": "The Count",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "plot_the_displacement.md",
+          "kind": "plot",
+          "title": "The Displacement",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "plot_the_instruction.md",
+          "kind": "plot",
+          "title": "The Instruction",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "position_designer.md",
+          "kind": "position",
+          "title": "Designer",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "position_manager.md",
+          "kind": "position",
+          "title": "Manager",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "position_officer.md",
+          "kind": "position",
+          "title": "Officer",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "process_briefing.md",
+          "kind": "process",
+          "title": "Briefing",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "process_complaining.md",
+          "kind": "process",
+          "title": "Complaining",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "process_counting.md",
+          "kind": "process",
+          "title": "Counting",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "process_displacing.md",
+          "kind": "process",
+          "title": "Displacing",
+          "taxonomy": "play_no_ones_remit.md"
+        },
+        {
+          "file": "process_landing.md",
+          "kind": "process",
+          "title": "Landing",
+          "taxonomy": "play_no_ones_remit.md"
         }
       ]
     },
