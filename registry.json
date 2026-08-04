@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.217.0",
+  "version": "0.218.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -8187,6 +8187,185 @@
           "kind": "process",
           "title": "Write-Off",
           "taxonomy": "play_good_money_after_bad.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "good_somewhere_bad_somewhere",
+      "title": "Good Somewhere, Bad Somewhere",
+      "description": "A real fix draws a crowd, and the shortage it relieved returns on a gauge nobody touched.",
+      "members": [
+        {
+          "file": "persona_the_keeper.md",
+          "kind": "persona",
+          "title": "The Keeper",
+          "type": "archetype",
+          "taxonomy": "position_keeper.md"
+        },
+        {
+          "file": "persona_the_level.md",
+          "kind": "persona",
+          "title": "The Level",
+          "type": "archetype",
+          "taxonomy": "position_level.md"
+        },
+        {
+          "file": "persona_the_newcomer.md",
+          "kind": "persona",
+          "title": "The Newcomer",
+          "type": "archetype",
+          "taxonomy": "position_newcomer.md"
+        },
+        {
+          "file": "persona_the_regular.md",
+          "kind": "persona",
+          "title": "The Regular",
+          "type": "archetype",
+          "taxonomy": "position_regular.md"
+        },
+        {
+          "file": "piece_the_extension.md",
+          "kind": "piece",
+          "title": "The Extension",
+          "taxonomy": "place_the_dining_room.md"
+        },
+        {
+          "file": "piece_the_line.md",
+          "kind": "piece",
+          "title": "The Line",
+          "taxonomy": "place_the_dining_room.md"
+        },
+        {
+          "file": "piece_the_rating.md",
+          "kind": "piece",
+          "title": "The Rating",
+          "taxonomy": "place_the_dining_room.md"
+        },
+        {
+          "file": "piece_the_slate.md",
+          "kind": "piece",
+          "title": "The Slate",
+          "taxonomy": "place_the_kitchen.md"
+        },
+        {
+          "file": "pitch_worth_the_trip.md",
+          "kind": "pitch",
+          "title": "Worth The Trip",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "place_the_dining_room.md",
+          "kind": "place",
+          "title": "The Dining Room",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "place_the_kitchen.md",
+          "kind": "place",
+          "title": "The Kitchen",
+          "taxonomy": "place_the_dining_room.md"
+        },
+        {
+          "file": "plan_add_the_tables.md",
+          "kind": "plan",
+          "title": "Add the Tables",
+          "taxonomy": "persona_the_keeper.md"
+        },
+        {
+          "file": "plan_hold_the_level.md",
+          "kind": "plan",
+          "title": "Hold the Level",
+          "taxonomy": "position_level.md"
+        },
+        {
+          "file": "plan_hold_the_line.md",
+          "kind": "plan",
+          "title": "Hold the Line",
+          "taxonomy": "position_keeper.md"
+        },
+        {
+          "file": "play_good_somewhere_bad_somewhere.md",
+          "kind": "play",
+          "title": "Good Somewhere, Bad Somewhere"
+        },
+        {
+          "file": "plot_choosing_the_poor_one.md",
+          "kind": "plot",
+          "title": "Choosing the Poor One",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "plot_the_extra_table.md",
+          "kind": "plot",
+          "title": "The Extra Table",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "plot_the_press.md",
+          "kind": "plot",
+          "title": "The Press",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "plot_the_same_wait.md",
+          "kind": "plot",
+          "title": "The Same Wait",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "plot_word_gets_around.md",
+          "kind": "plot",
+          "title": "Word Gets Around",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "position_keeper.md",
+          "kind": "position",
+          "title": "Keeper",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "position_level.md",
+          "kind": "position",
+          "title": "Level",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "position_newcomer.md",
+          "kind": "position",
+          "title": "Newcomer",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "position_regular.md",
+          "kind": "position",
+          "title": "Regular",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "process_choosing.md",
+          "kind": "process",
+          "title": "Choosing",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "process_drawing.md",
+          "kind": "process",
+          "title": "Drawing",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "process_expanding.md",
+          "kind": "process",
+          "title": "Expanding",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        },
+        {
+          "file": "process_leveling.md",
+          "kind": "process",
+          "title": "Leveling",
+          "taxonomy": "play_good_somewhere_bad_somewhere.md"
         }
       ]
     },
