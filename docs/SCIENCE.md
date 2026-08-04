@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 217 misfits, 1038 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 218 misfits, 1038 scholars.
 
 ## By science
 
@@ -373,6 +373,8 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | ↳ | `watermelon_reporting` | "Delusion and Deception in Large Infrastructure Projects" (Flyvbjerg, Garbuio & Lovallo, California Management Review, 2009); "Top Ten Behavioral Biases in Project Management", Project Management Journal (2021) | Separates optimism bias (cognitive) from strategic misrepresentation (incentive-driven understatement of cost and risk). The incentive account the play runs on. |
 | **Force** | `longer_than_its_meaning` | convened 1981; the founding of nuclear semiotics <br><sub>The Human Interference Task Force</sub> | The problem stated as engineering: how to warn a reader ten thousand years out not to dig. |
 | **Forrester** | `fixes_that_fail` | Industrial Dynamics (1961); "Counterintuitive Behavior of Social Systems" (1971) | The origin: system dynamics, the delayed feedback loop, and policies that make matters worse. The Delay, the Backfire. |
+| ↳ | `good_somewhere_bad_somewhere` | the same work's policy findings | The counterintuitive result: measures meant to relieve one dimension drew arrivals that loaded the others, so the relief did not hold. |
+| ↳ | `good_somewhere_bad_somewhere` | Urban Dynamics (1969); the term attractiveness principle | The naming and the mechanism: rising perceived attractiveness draws population, and the population lowers the attraction it came for. |
 | ↳ | `limits_to_growth` | Industrial Dynamics (1961); Urban Dynamics (1969) | The origin: system dynamics, the reinforcing and balancing loops joined by a delay, and counterintuitive behaviour. The Engine, the Delay. |
 | ↳ | `shifting_the_burden` | "Industrial Dynamics" (1961); "Urban Dynamics" (1969) | System dynamics: stocks, flows, and delays, and the counter-intuitive behaviour of feedback systems where the intuitive fix worsens the problem over time. The Delay. |
 | ↳ | `the_bullwhip_effect` | "Industrial Dynamics: A Major Breakthrough for Decision Makers" (HBR, 1958); Industrial Dynamics (1961) | The founding: demand amplification in production-distribution systems, the system-dynamics account of how a small change swells upstream. The Whip. |
@@ -1498,6 +1500,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `fixes_that_fail` | Senge; Forrester; Kim; Meadows; Sterman; Practitioner |
 | `good_enough_to_hold` | Frank Partnoy; Frank Partnoy; Lawrence J. White; the SEC's 1975 designation of nationally recognised statistical rating organisations; the 2010 statutory removal of rating references from federal rules; the Financial Stability Board's principles on reducing mechanistic reliance on ratings; Practitioner |
 | `good_money_after_bad` | Staw; Arkes & Blumer; Kahneman & Tversky; Teger; Festinger; Ross & Staw; Practitioner |
+| `good_somewhere_bad_somewhere` | Forrester; Forrester; System dynamics reception; The contemporary criticism |
 | `held_under` | Bronson, Charapko, Aghayev, and Zhu; Huang, Magnusson, and colleagues; John Nagle; Van Jacobson; Michael Nygard; Practitioner |
 | `i_know_how_it_works` | Leonid Rozenblit and Frank Keil; Fernbach, Rogers, Fox, and Sloman; Practitioner |
 | `in_its_own_defence` | Rolf Zinkernagel and Peter Doherty; Barry Rouse and Sharvan Sehrawat; Jennifer Tisoncik, Marcus Korth, Cameron Simmons, Jeremy Farrar, Thomas Martin and Michael Katze; Ruslan Medzhitov, David Schneider and Miguel Soares; Derek Angus and Tom van der Poll |
