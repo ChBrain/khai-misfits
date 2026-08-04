@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.215.0",
+  "version": "0.216.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -27481,6 +27481,221 @@
           "kind": "process",
           "title": "Reconstruction",
           "taxonomy": "play_the_cargo_cult.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_case_it_destroys",
+      "title": "The Case It Destroys",
+      "description": "Growth outruns capacity, the standard quietly drops, and the demand it drives away reads as proof.",
+      "members": [
+        {
+          "file": "persona_the_advocate.md",
+          "kind": "persona",
+          "title": "The Advocate",
+          "type": "archetype",
+          "taxonomy": "position_advocate.md"
+        },
+        {
+          "file": "persona_the_grower.md",
+          "kind": "persona",
+          "title": "The Grower",
+          "type": "archetype",
+          "taxonomy": "position_grower.md"
+        },
+        {
+          "file": "persona_the_patron.md",
+          "kind": "persona",
+          "title": "The Patron",
+          "type": "archetype",
+          "taxonomy": "position_patron.md"
+        },
+        {
+          "file": "persona_the_sponsor.md",
+          "kind": "persona",
+          "title": "The Sponsor",
+          "type": "archetype",
+          "taxonomy": "position_sponsor.md"
+        },
+        {
+          "file": "piece_the_brief.md",
+          "kind": "piece",
+          "title": "The Brief",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "piece_the_clean_chart.md",
+          "kind": "piece",
+          "title": "The Clean Chart",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "piece_the_empty_seat.md",
+          "kind": "piece",
+          "title": "The Empty Seat",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "piece_the_queue.md",
+          "kind": "piece",
+          "title": "The Queue",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "piece_the_standard.md",
+          "kind": "piece",
+          "title": "The Standard",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "pitch_nobody_failed.md",
+          "kind": "pitch",
+          "title": "Nobody Failed",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "place_the_boardroom.md",
+          "kind": "place",
+          "title": "The Boardroom",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "place_the_counter.md",
+          "kind": "place",
+          "title": "The Counter",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "place_the_ledger.md",
+          "kind": "place",
+          "title": "The Ledger",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "plan_go_elsewhere.md",
+          "kind": "plan",
+          "title": "Go Elsewhere",
+          "taxonomy": "position_patron.md"
+        },
+        {
+          "file": "plan_invest_ahead_of_the_fall.md",
+          "kind": "plan",
+          "title": "Invest Ahead of the Fall",
+          "taxonomy": "position_advocate.md"
+        },
+        {
+          "file": "plan_meet_the_load.md",
+          "kind": "plan",
+          "title": "Meet the Load",
+          "taxonomy": "position_grower.md"
+        },
+        {
+          "file": "plan_wait_for_the_case.md",
+          "kind": "plan",
+          "title": "Wait for the Case",
+          "taxonomy": "position_sponsor.md"
+        },
+        {
+          "file": "play_the_case_it_destroys.md",
+          "kind": "play",
+          "title": "The Case It Destroys"
+        },
+        {
+          "file": "plot_held_in_breach.md",
+          "kind": "plot",
+          "title": "Held in Breach",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "plot_ordinary_prudence.md",
+          "kind": "plot",
+          "title": "Ordinary Prudence",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "plot_outgrowing_the_floor.md",
+          "kind": "plot",
+          "title": "Outgrowing the Floor",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "plot_quietly_elsewhere.md",
+          "kind": "plot",
+          "title": "Quietly Elsewhere",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "plot_the_strain_beneath_the_floor.md",
+          "kind": "plot",
+          "title": "The Strain Beneath the Floor",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "plot_would_have_stood_idle.md",
+          "kind": "plot",
+          "title": "Would Have Stood Idle",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "position_advocate.md",
+          "kind": "position",
+          "title": "Advocate",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "position_grower.md",
+          "kind": "position",
+          "title": "Grower",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "position_patron.md",
+          "kind": "position",
+          "title": "Patron",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "position_sponsor.md",
+          "kind": "position",
+          "title": "Sponsor",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "process_declining.md",
+          "kind": "process",
+          "title": "Declining",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "process_investing.md",
+          "kind": "process",
+          "title": "Investing",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "process_leaving.md",
+          "kind": "process",
+          "title": "Leaving",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "process_lowering.md",
+          "kind": "process",
+          "title": "Lowering",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "process_straining.md",
+          "kind": "process",
+          "title": "Straining",
+          "taxonomy": "play_the_case_it_destroys.md"
+        },
+        {
+          "file": "process_vindicating.md",
+          "kind": "process",
+          "title": "Vindicating",
+          "taxonomy": "play_the_case_it_destroys.md"
         }
       ]
     },
