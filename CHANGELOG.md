@@ -1,5 +1,14 @@
 # @chbrain/khai-misfits
 
+## 0.218.0
+
+### Minor Changes
+
+- 9b1e88a: Add the misfit Good Somewhere, Bad Somewhere: the attractiveness principle staged as an equilibrating system, where improving one dimension does not raise the total but moves the shortfall to whichever gauge nobody touched.
+- 5a99035: Add the misfit Longer Than Its Meaning: the message to an unmeetable reader staged as a system with no return channel, where every property that buys a carrier its life costs the message its legibility.
+- a503157: Add the misfit More Mouths Than Meat: the predator-prey cycle staged as a coupled system with a reproductive lag in it, where each population is the other's control and each responds to a state that has already passed.
+- 848dbb4: Add the misfit The Case It Destroys: growth and underinvestment staged as a loop that eats its own evidence, where the performance that follows a declined investment destroys the demand that would have made the case for it.
+
 ## 0.214.0
 
 ### Minor Changes
