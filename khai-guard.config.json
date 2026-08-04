@@ -101,5 +101,8 @@
       "White": ["Lawrence J", "Leslie A"],
       "Wilde": ["Gerald J S", "Louis"]
     }
+  },
+  "driftPolicy": {
+    "scopes": ["@chbrain/"]
   }
 }

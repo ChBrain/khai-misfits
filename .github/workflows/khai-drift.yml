@@ -7,6 +7,10 @@ name: khai-drift
 # the khai-tests pin means rebuilding registry.json and docs/SCIENCE.md in the
 # same change, and a release that adds a gate needs the content campaign that
 # gate demands. Both are for a person to do; this only says when to start.
+#
+# The comparison itself lives in the kit, as `khai-guard drift`, so every house
+# runs one implementation rather than a copy each. The scopes to watch are set
+# by driftPolicy in khai-guard.config.json.
 
 on:
   schedule:
@@ -28,46 +32,28 @@ jobs:
           node-version-file: .nvmrc
           registry-url: "https://npm.pkg.github.com"
           scope: "@chbrain"
+          cache: npm
 
-      - name: compare the lockfile against the registry
+      - name: install
+        run: npm ci
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ask the kit
         id: check
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          npx khai-guard drift --json > drift.json
           node --input-type=module <<'EOF' > drift.md
           import { readFileSync, appendFileSync } from "node:fs";
-          import { execFileSync } from "node:child_process";
-
-          const pkg = JSON.parse(readFileSync("package.json", "utf8"));
-          const lock = JSON.parse(readFileSync("package-lock.json", "utf8"));
-          const declared = { ...pkg.dependencies, ...pkg.devDependencies };
-          const names = Object.keys(declared).filter((n) => n.startsWith("@chbrain/"));
-
-          const locked = (name) =>
-            lock.packages?.[`node_modules/${name}`]?.version ?? "unknown";
-
-          const rows = [];
-          for (const name of names.sort()) {
-            let latest = "unreachable";
-            try {
-              latest = execFileSync("npm", ["view", name, "version"], {
-                encoding: "utf8",
-              }).trim();
-            } catch {
-              // a package that cannot be read is reported, never silently skipped
-            }
-            const have = locked(name);
-            rows.push({ name, have, latest, behind: latest !== have && latest !== "unreachable" });
-          }
-
-          const behind = rows.filter((r) => r.behind);
-          appendFileSync(process.env.GITHUB_OUTPUT, `behind=${behind.length}\n`);
-
+          const r = JSON.parse(readFileSync("drift.json", "utf8"));
+          appendFileSync(process.env.GITHUB_OUTPUT, `behind=${r.behind + r.unreachable}\n`);
           console.log("| package | lockfile | registry |");
           console.log("| --- | --- | --- |");
-          for (const r of rows) {
-            const mark = r.behind ? " **behind**" : r.latest === "unreachable" ? " (unreachable)" : "";
-            console.log(`| \`${r.name}\` | ${r.have} | ${r.latest}${mark} |`);
+          for (const row of r.rows) {
+            const mark = row.behind ? " **behind**" : row.unreachable ? " (unreachable)" : "";
+            console.log(`| \`${row.name}\` | ${row.held ?? "unknown"} | ${row.latest ?? "unreachable"}${mark} |`);
           }
           EOF
           cat drift.md
@@ -85,8 +71,8 @@ jobs:
           \`docs/SCIENCE.md\` in the same pull request as any khai-tests move,
           and run whatever content campaign a new gate demands.
 
-          Raised by \`.github/workflows/khai-drift.yml\`; it updates this issue
-          rather than opening another."
+          Raised by \`.github/workflows/khai-drift.yml\` via \`khai-guard drift\`;
+          it updates this issue rather than opening another."
 
           NUM="$(gh issue list --state open --search "$TITLE in:title" --json number,title \
                  --jq ".[] | select(.title == \"$TITLE\") | .number" | head -1)"
