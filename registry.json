@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.214.0",
+  "version": "0.215.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -11897,6 +11897,234 @@
           "kind": "process",
           "title": "Holding",
           "taxonomy": "play_moral_licensing.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "more_mouths_than_meat",
+      "title": "More Mouths Than Meat",
+      "description": "Predator and prey drive each other through a lag that carries both past the turn they should have made.",
+      "members": [
+        {
+          "file": "persona_the_dam.md",
+          "kind": "persona",
+          "title": "The Dam",
+          "type": "archetype",
+          "taxonomy": "position_dam.md"
+        },
+        {
+          "file": "persona_the_herd.md",
+          "kind": "persona",
+          "title": "The Herd",
+          "type": "archetype",
+          "taxonomy": "position_prey.md"
+        },
+        {
+          "file": "persona_the_hunter.md",
+          "kind": "persona",
+          "title": "The Hunter",
+          "type": "archetype",
+          "taxonomy": "position_predator.md"
+        },
+        {
+          "file": "persona_the_litter.md",
+          "kind": "persona",
+          "title": "The Litter",
+          "type": "archetype",
+          "taxonomy": "position_litter.md"
+        },
+        {
+          "file": "persona_the_warden.md",
+          "kind": "persona",
+          "title": "The Warden",
+          "type": "archetype",
+          "taxonomy": "position_warden.md"
+        },
+        {
+          "file": "piece_the_crash.md",
+          "kind": "piece",
+          "title": "The Crash",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "piece_the_delay.md",
+          "kind": "piece",
+          "title": "The Delay",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "piece_the_overhang.md",
+          "kind": "piece",
+          "title": "The Overhang",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "piece_the_release.md",
+          "kind": "piece",
+          "title": "The Release",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "piece_the_take.md",
+          "kind": "piece",
+          "title": "The Take",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "piece_the_throttle.md",
+          "kind": "piece",
+          "title": "The Throttle",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "pitch_feast_then_famine.md",
+          "kind": "pitch",
+          "title": "Feast Then Famine",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "place_the_larder.md",
+          "kind": "place",
+          "title": "The Larder",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "place_the_range.md",
+          "kind": "place",
+          "title": "The Range",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "place_the_refuge.md",
+          "kind": "place",
+          "title": "The Refuge",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "plan_bring_the_numbers_down.md",
+          "kind": "plan",
+          "title": "Bring the Numbers Down",
+          "taxonomy": "position_warden.md"
+        },
+        {
+          "file": "plan_carry_it_forward.md",
+          "kind": "plan",
+          "title": "Carry It Forward",
+          "taxonomy": "position_dam.md"
+        },
+        {
+          "file": "plan_come_up_fed.md",
+          "kind": "plan",
+          "title": "Come Up Fed",
+          "taxonomy": "position_litter.md"
+        },
+        {
+          "file": "plan_eat_while_it_lasts.md",
+          "kind": "plan",
+          "title": "Eat While It Lasts",
+          "taxonomy": "position_predator.md"
+        },
+        {
+          "file": "plan_outbreed_the_pressure.md",
+          "kind": "plan",
+          "title": "Outbreed the Pressure",
+          "taxonomy": "position_prey.md"
+        },
+        {
+          "file": "play_more_mouths_than_meat.md",
+          "kind": "play",
+          "title": "More Mouths Than Meat"
+        },
+        {
+          "file": "plot_bred_on_a_plenty_already_spent.md",
+          "kind": "plot",
+          "title": "Bred on a Plenty Already Spent",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "plot_meat_runs_out_first.md",
+          "kind": "plot",
+          "title": "Meat Runs Out First",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "plot_slower_to_return.md",
+          "kind": "plot",
+          "title": "Slower to Return",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "plot_the_feeding.md",
+          "kind": "plot",
+          "title": "The Feeding",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "plot_the_net_that_catches_both.md",
+          "kind": "plot",
+          "title": "The Net That Catches Both",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "position_dam.md",
+          "kind": "position",
+          "title": "Dam",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "position_litter.md",
+          "kind": "position",
+          "title": "Litter",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "position_predator.md",
+          "kind": "position",
+          "title": "Predator",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "position_prey.md",
+          "kind": "position",
+          "title": "Prey",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "position_warden.md",
+          "kind": "position",
+          "title": "Warden",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "process_hunting.md",
+          "kind": "process",
+          "title": "Hunting",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "process_maturing.md",
+          "kind": "process",
+          "title": "Maturing",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "process_rebounding.md",
+          "kind": "process",
+          "title": "Rebounding",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "process_starving.md",
+          "kind": "process",
+          "title": "Starving",
+          "taxonomy": "play_more_mouths_than_meat.md"
+        },
+        {
+          "file": "process_suppressing.md",
+          "kind": "process",
+          "title": "Suppressing",
+          "taxonomy": "play_more_mouths_than_meat.md"
         }
       ]
     },
