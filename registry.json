@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.216.0",
+  "version": "0.217.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -10702,6 +10702,172 @@
           "kind": "process",
           "title": "Waiting",
           "taxonomy": "play_long_enough_to_qualify.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "longer_than_its_meaning",
+      "title": "Longer Than Its Meaning",
+      "description": "A warning cut to outlast its maker survives intact and reaches no one who can read it right.",
+      "members": [
+        {
+          "file": "persona_the_maker.md",
+          "kind": "persona",
+          "title": "The Maker",
+          "type": "archetype",
+          "taxonomy": "position_maker.md"
+        },
+        {
+          "file": "persona_the_stranger.md",
+          "kind": "persona",
+          "title": "The Stranger",
+          "type": "archetype",
+          "taxonomy": "position_stranger.md"
+        },
+        {
+          "file": "persona_the_warder.md",
+          "kind": "persona",
+          "title": "The Warder",
+          "type": "archetype",
+          "taxonomy": "position_warder.md"
+        },
+        {
+          "file": "piece_the_compression.md",
+          "kind": "piece",
+          "title": "The Compression",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "piece_the_frame.md",
+          "kind": "piece",
+          "title": "The Frame",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "piece_the_inversion.md",
+          "kind": "piece",
+          "title": "The Inversion",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "piece_the_marker.md",
+          "kind": "piece",
+          "title": "The Marker",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "piece_the_silence.md",
+          "kind": "piece",
+          "title": "The Silence",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "piece_the_trade.md",
+          "kind": "piece",
+          "title": "The Trade",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "piece_the_warning.md",
+          "kind": "piece",
+          "title": "The Warning",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "pitch_no_one_left_to_ask.md",
+          "kind": "pitch",
+          "title": "No One Left to Ask",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "place_the_site.md",
+          "kind": "place",
+          "title": "The Site",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "plan_make_it_last.md",
+          "kind": "plan",
+          "title": "Make It Last",
+          "taxonomy": "position_maker.md"
+        },
+        {
+          "file": "plan_make_it_worthless.md",
+          "kind": "plan",
+          "title": "Make It Worthless",
+          "taxonomy": "position_warder.md"
+        },
+        {
+          "file": "plan_read_whats_here.md",
+          "kind": "plan",
+          "title": "Read What's Here",
+          "taxonomy": "position_stranger.md"
+        },
+        {
+          "file": "play_longer_than_its_meaning.md",
+          "kind": "play",
+          "title": "Longer Than Its Meaning"
+        },
+        {
+          "file": "plot_no_word_comes_back.md",
+          "kind": "plot",
+          "title": "No Word Comes Back",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "plot_nothing_worth_taking.md",
+          "kind": "plot",
+          "title": "Nothing Worth Taking",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "plot_the_cut.md",
+          "kind": "plot",
+          "title": "The Cut",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "plot_the_find.md",
+          "kind": "plot",
+          "title": "The Find",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "position_maker.md",
+          "kind": "position",
+          "title": "Maker",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "position_stranger.md",
+          "kind": "position",
+          "title": "Stranger",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "position_warder.md",
+          "kind": "position",
+          "title": "Warder",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "process_compressing.md",
+          "kind": "process",
+          "title": "Compressing",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "process_inverting.md",
+          "kind": "process",
+          "title": "Inverting",
+          "taxonomy": "play_longer_than_its_meaning.md"
+        },
+        {
+          "file": "process_stripping.md",
+          "kind": "process",
+          "title": "Stripping",
+          "taxonomy": "play_longer_than_its_meaning.md"
         }
       ]
     },
