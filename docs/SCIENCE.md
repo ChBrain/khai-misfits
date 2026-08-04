@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 215 misfits, 1035 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 216 misfits, 1035 scholars.
 
 ## By science
 
@@ -376,6 +376,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | ↳ | `shifting_the_burden` | "Industrial Dynamics" (1961); "Urban Dynamics" (1969) | System dynamics: stocks, flows, and delays, and the counter-intuitive behaviour of feedback systems where the intuitive fix worsens the problem over time. The Delay. |
 | ↳ | `the_bullwhip_effect` | "Industrial Dynamics: A Major Breakthrough for Decision Makers" (HBR, 1958); Industrial Dynamics (1961) | The founding: demand amplification in production-distribution systems, the system-dynamics account of how a small change swells upstream. The Whip. |
 | ↳ | `the_bullwhip_effect` | feedback control and delay; the overshoot of a lagged controller <br><sub>Simon; Forrester</sub> | The control root: a system correcting on delayed information overshoots and oscillates, the shower-tap that answers a beat late. The Whipping. |
+| ↳ | `the_case_it_destroys` | Industrial Dynamics (1961) and the system dynamics method | The instrument: the feedback structure that makes a self-justifying decision legible as a loop rather than a mistake. |
 | **Fox** | `i_know_how_it_works` | "Political Extremism Is Supported by an Illusion of Understanding" (Psychological Science, 2013) <br><sub>Fernbach, Rogers, Fox, and Sloman</sub> | The field case: strong and extreme policy positions rest on an illusion of understanding, and asking for a mechanistic explanation, not for reasons, both undermines the illusion and moderates the position. The Position, The Discourse. |
 | **Frank** | `sick_enough_to_spread` | "Models of parasite virulence" (Quarterly Review of Biology, 1996) <br><sub>Steven Frank</sub> | Within-host competition: coinfection by unrelated strains selects virulence above the between-host optimum, a restrained strain outcompeted within the host by a faster one, a secondary amplifier and not the base mechanism. The Sweet Spot's upward shift. |
 | ↳ | `the_arms_race` | Choosing the Right Pond (1985); Luxury Fever (1999); The Darwin Economy (2011) | The externality and the remedy: positional spending as a cost each imposes on the others, the parade watched on tiptoe, and the tax that caps it. The Tiptoe, the Cancellation. |
@@ -1168,6 +1169,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | ↳ | `fixes_that_fail` | The Fifth Discipline (1990), the "Fixes that Fail" archetype | The spine and the name: a fix with unforeseen long-term consequences that reinstate the problem, and the principle of holding to the fundamental aim. The play's governing law. |
 | ↳ | `limits_to_growth` | The Fifth Discipline (1990), the "Limits to Growth" (Limits to Success) archetype | The spine and the name: a reinforcing growth process checked by a balancing limit, and the principle that leverage lies in the limit, not the engine. The play's governing law. |
 | ↳ | `shifting_the_burden` | "The Fifth Discipline" (1990), the Shifting the Burden and Fixes that Fail archetypes | The archetype and the name: a symptomatic solution relieves the symptom and undermines the fundamental one, so dependence on the fix grows. The play's spine. The Quick Fix, the Atrophy. |
+| ↳ | `the_case_it_destroys` | The Fifth Discipline (1990) | The naming: growth and underinvestment set out as an archetype, with the eroding service standard as its hinge. |
 | **Sensfuss** | `best_day_for_it` | "The merit-order effect: A detailed analysis of the price effect of renewable electricity generation on spot market prices in Germany" (Energy Policy, 2008) <br><sub>Frank Sensfuss, Mario Ragwitz, Massimo Genoese</sub> | The clearing mechanism: zero-marginal-cost supply displacing the marginal plant and lowering the clearing price in exactly the hours it runs, measured on a real market. The Zero Bid, The Correlated Fleet. |
 | **Seppi** | `dont_look` | "The Ostrich Effect: Selective Attention to Information" (Journal of Risk and Uncertainty, 2009) <br><sub>Karlsson, Loewenstein & Seppi</sub> | The spine: investors check their portfolio values markedly less often when markets are falling than when they are rising, monitoring that tracks the expected valence of the news rather than its importance, attention withdrawn just as it would matter most. The Averted Eye, the Blind Spell. |
 | **Service** | `the_last_layer` | Primitive Social Organization: An Evolutionary Perspective (1962) <br><sub>Elman R. Service</sub> | The rise: the evolutionary sequence of increasing complexity, band to tribe to chiefdom to state, and the managerial benefits that drive it, the standing trend of adding organisation whose costs Tainter prices. The Layer. |
@@ -1582,6 +1584,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `the_bus_factor` | Polanyi; Nonaka & Takeuchi; Brooks; Davenport & Prusak; Avelino, Hora & Valente; Practitioner |
 | `the_calm_you_pay_for` | Hendrik W. Bode; The waterbed effect; Freudenberg and Looze; Practitioner |
 | `the_cargo_cult` | Feynman; Meyer & Rowan; DiMaggio & Powell; Mimetic isomorphism; Practitioner |
+| `the_case_it_destroys` | Forrester; Senge; The People Express case |
 | `the_cobra_effect` | Siebert; Vann; Kerr; Merton; Campbell, Goodhart; Practitioner |
 | `the_colour_of_the_bike_shed` | Parkinson; Parkinson; Kamp; Simon; Stasser & Titus; Practitioner |
 | `the_common_object` | Star & Griesemer; Star; Carlile; Bowker & Star; Boundary of the effect |
