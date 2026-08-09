@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 229 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 230 misfits, 1069 scholars.
 
 ## By science
 
@@ -1553,6 +1553,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `good_somewhere_bad_somewhere` | Forrester; Forrester; System dynamics reception; The contemporary criticism |
 | `held_under` | Bronson, Charapko, Aghayev, and Zhu; Huang, Magnusson, and colleagues; John Nagle; Van Jacobson; Michael Nygard; Practitioner |
 | `i_know_how_it_works` | Leonid Rozenblit and Frank Keil; Fernbach, Rogers, Fox, and Sloman; Practitioner |
+| `i_would_know_him_anywhere` | The foundational finding; The meta-analysis; Contact rather than attitude; The consequence; The corrections |
 | `in_its_own_defence` | Rolf Zinkernagel and Peter Doherty; Barry Rouse and Sharvan Sehrawat; Jennifer Tisoncik, Marcus Korth, Cameron Simmons, Jeremy Farrar, Thomas Martin and Michael Katze; Ruslan Medzhitov, David Schneider and Miguel Soares; Derek Angus and Tom van der Poll |
 | `information_cascade` | Bikhchandani, Hirshleifer & Welch; Banerjee; Welch; Anderson & Holt; Bikhchandani, Hirshleifer & Welch; Surowiecki (counterpoint) |
 | `it_saved_my_life` | Angela Raffle and J. A. Muir Gray; H. Gilbert Welch and William C. Black; H. Gilbert Welch, Lisa M. Schwartz and Steven Woloshin; Marvin Zelen and Manning Feinleib; John C. Bailar III |
