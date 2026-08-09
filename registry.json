@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.226.0",
+  "version": "0.227.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -43969,6 +43969,185 @@
           "kind": "process",
           "title": "Offering",
           "taxonomy": "play_the_third_option.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_time_it_used_to_buy",
+      "title": "The Time It Used to Buy",
+      "description": "Spinning mass bought for electricity was also holding the frequency steady, and nobody noticed until it had gone.",
+      "members": [
+        {
+          "file": "persona_the_heavy_turning.md",
+          "kind": "persona",
+          "title": "The Heavy Turning",
+          "type": "archetype",
+          "taxonomy": "position_heavy_turning.md"
+        },
+        {
+          "file": "persona_the_new_fleet.md",
+          "kind": "persona",
+          "title": "The New Fleet",
+          "type": "archetype",
+          "taxonomy": "position_new_fleet.md"
+        },
+        {
+          "file": "persona_the_one_who_closed_it.md",
+          "kind": "persona",
+          "title": "The One Who Closed It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_closed_it.md"
+        },
+        {
+          "file": "persona_the_scheme.md",
+          "kind": "persona",
+          "title": "The Scheme",
+          "type": "archetype",
+          "taxonomy": "position_scheme.md"
+        },
+        {
+          "file": "piece_the_connection_standard.md",
+          "kind": "piece",
+          "title": "The Connection Standard",
+          "taxonomy": "place_the_machine_hall.md"
+        },
+        {
+          "file": "piece_the_frequency_trace.md",
+          "kind": "piece",
+          "title": "The Frequency Trace",
+          "taxonomy": "place_the_frequency_desk.md"
+        },
+        {
+          "file": "piece_the_trip_setting.md",
+          "kind": "piece",
+          "title": "The Trip Setting",
+          "taxonomy": "place_the_frequency_desk.md"
+        },
+        {
+          "file": "pitch_nobody_ever_sold_it.md",
+          "kind": "pitch",
+          "title": "Nobody Ever Sold It",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "place_the_frequency_desk.md",
+          "kind": "place",
+          "title": "The Frequency Desk",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "place_the_machine_hall.md",
+          "kind": "place",
+          "title": "The Machine Hall",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "plan_build_to_the_standard.md",
+          "kind": "plan",
+          "title": "Build to the Standard",
+          "taxonomy": "persona_the_new_fleet.md"
+        },
+        {
+          "file": "plan_close_it_on_the_numbers.md",
+          "kind": "plan",
+          "title": "Close It on the Numbers",
+          "taxonomy": "persona_the_one_who_closed_it.md"
+        },
+        {
+          "file": "plan_keep_two_spinning.md",
+          "kind": "plan",
+          "title": "Keep Two Spinning",
+          "taxonomy": "persona_the_scheme.md"
+        },
+        {
+          "file": "play_the_time_it_used_to_buy.md",
+          "kind": "play",
+          "title": "The Time It Used to Buy"
+        },
+        {
+          "file": "plot_a_good_reason_to_close.md",
+          "kind": "plot",
+          "title": "A Good Reason to Close",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "plot_built_to_the_rules_of_the_day.md",
+          "kind": "plot",
+          "title": "Built to the Rules of the Day",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "plot_burning_coal_for_the_spin.md",
+          "kind": "plot",
+          "title": "Burning Coal for the Spin",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "plot_faster_than_the_scheme.md",
+          "kind": "plot",
+          "title": "Faster Than the Scheme",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "plot_it_came_with_the_machine.md",
+          "kind": "plot",
+          "title": "It Came With the Machine",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "plot_nobodys_number.md",
+          "kind": "plot",
+          "title": "Nobody's Number",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "position_heavy_turning.md",
+          "kind": "position",
+          "title": "Heavy Turning",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "position_new_fleet.md",
+          "kind": "position",
+          "title": "New Fleet",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "position_one_who_closed_it.md",
+          "kind": "position",
+          "title": "One Who Closed It",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "position_scheme.md",
+          "kind": "position",
+          "title": "Scheme",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "process_closing_down.md",
+          "kind": "process",
+          "title": "Closing Down",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "process_connecting.md",
+          "kind": "process",
+          "title": "Connecting",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "process_falling_fast.md",
+          "kind": "process",
+          "title": "Falling Fast",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
+        },
+        {
+          "file": "process_running_thin.md",
+          "kind": "process",
+          "title": "Running Thin",
+          "taxonomy": "play_the_time_it_used_to_buy.md"
         }
       ]
     },
