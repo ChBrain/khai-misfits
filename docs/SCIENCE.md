@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 235 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 236 misfits, 1069 scholars.
 
 ## By science
 
@@ -1587,6 +1587,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `no_way_back_up` | Hermann J. Muller; John Haigh; Joseph Felsenstein; John Maynard Smith; Michael Lynch, Reinhard Bürger, David Butcher and Wilfried Gabriel |
 | `nobody_reads_it` | Alan Schwartz and Louis Wilde; George Stigler; Steven Salop and Joseph Stiglitz; Friedrich Kessler; Yannis Bakos, Florencia Marotta-Wurgler and David Trossen |
 | `nobody_shops_around` | Peter Diamond; George Stigler; Steven Salop, Joseph Stiglitz; Hal Varian; Practitioner |
+| `nobody_to_ask` | The prohibition on formalities; The definition of the problem; The cost of qualifying; The exposure that stops the use; The measured hole |
 | `nobody_was_looking_at_your_shirt` | Gilovich, Medvec and Savitsky; The wider egocentric-bias and self-focus literature that followed |
 | `not_all_hers_to_give` | Robert Trivers; W. D. Hamilton; David Haig; David Haig, Thomas Moore; M. A. DeChiara, E. Robertson, A. Efstratiadis; Practitioner |
 | `not_invented_here` | Katz & Allen; Allen; Tajfel & Turner; Antons & Piller; Chesbrough; Practitioner |

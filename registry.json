@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.235.0",
+  "version": "0.236.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -16141,6 +16141,198 @@
           "kind": "process",
           "title": "Staying",
           "taxonomy": "play_nobody_shops_around.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "nobody_to_ask",
+      "title": "Nobody to Ask",
+      "description": "Copyright needs no paperwork, so it needs no register, so the owner nobody can find locks the work nobody refused.",
+      "members": [
+        {
+          "file": "persona_the_one_who_advises_against_it.md",
+          "kind": "persona",
+          "title": "The One Who Advises Against It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_advises_against_it.md"
+        },
+        {
+          "file": "persona_the_one_who_cannot_be_found.md",
+          "kind": "persona",
+          "title": "The One Who Cannot Be Found",
+          "type": "archetype",
+          "taxonomy": "position_one_who_cannot_be_found.md"
+        },
+        {
+          "file": "persona_the_one_who_would_have_paid.md",
+          "kind": "persona",
+          "title": "The One Who Would Have Paid",
+          "type": "archetype",
+          "taxonomy": "position_one_who_would_have_paid.md"
+        },
+        {
+          "file": "persona_the_rule_against_formalities.md",
+          "kind": "persona",
+          "title": "The Rule Against Formalities",
+          "type": "archetype",
+          "taxonomy": "position_rule_against_formalities.md"
+        },
+        {
+          "file": "persona_the_work_that_cannot_be_cleared.md",
+          "kind": "persona",
+          "title": "The Work That Cannot Be Cleared",
+          "type": "archetype",
+          "taxonomy": "position_work_that_cannot_be_cleared.md"
+        },
+        {
+          "file": "piece_the_diligent_search.md",
+          "kind": "piece",
+          "title": "The Diligent Search",
+          "taxonomy": "place_the_rights_desk.md"
+        },
+        {
+          "file": "piece_the_statutory_damages.md",
+          "kind": "piece",
+          "title": "The Statutory Damages",
+          "taxonomy": "place_the_rights_desk.md"
+        },
+        {
+          "file": "piece_the_term.md",
+          "kind": "piece",
+          "title": "The Term",
+          "taxonomy": "place_the_stacks.md"
+        },
+        {
+          "file": "pitch_nobody_said_no.md",
+          "kind": "pitch",
+          "title": "Nobody Said No",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "place_the_rights_desk.md",
+          "kind": "place",
+          "title": "The Rights Desk",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "place_the_stacks.md",
+          "kind": "place",
+          "title": "The Stacks",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "plan_advise_the_risk.md",
+          "kind": "plan",
+          "title": "Advise the Risk",
+          "taxonomy": "persona_the_one_who_advises_against_it.md"
+        },
+        {
+          "file": "plan_clear_it.md",
+          "kind": "plan",
+          "title": "Clear It",
+          "taxonomy": "persona_the_one_who_would_have_paid.md"
+        },
+        {
+          "file": "plan_let_them_use_it.md",
+          "kind": "plan",
+          "title": "Let Them Use It",
+          "taxonomy": "persona_the_one_who_would_have_paid.md"
+        },
+        {
+          "file": "play_nobody_to_ask.md",
+          "kind": "play",
+          "title": "Nobody to Ask"
+        },
+        {
+          "file": "plot_a_licence_from_somebody_else.md",
+          "kind": "plot",
+          "title": "A Licence From Somebody Else",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "plot_more_from_the_1880s_than_the_1980s.md",
+          "kind": "plot",
+          "title": "More From the 1880s Than the 1980s",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "plot_no_paperwork_no_register.md",
+          "kind": "plot",
+          "title": "No Paperwork, No Register",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "plot_nobody_says_no.md",
+          "kind": "plot",
+          "title": "Nobody Says No",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "plot_the_thread_goes.md",
+          "kind": "plot",
+          "title": "The Thread Goes",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "plot_what_the_search_costs.md",
+          "kind": "plot",
+          "title": "What the Search Costs",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "position_one_who_advises_against_it.md",
+          "kind": "position",
+          "title": "One Who Advises Against It",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "position_one_who_cannot_be_found.md",
+          "kind": "position",
+          "title": "One Who Cannot Be Found",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "position_one_who_would_have_paid.md",
+          "kind": "position",
+          "title": "One Who Would Have Paid",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "position_rule_against_formalities.md",
+          "kind": "position",
+          "title": "Rule Against Formalities",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "position_work_that_cannot_be_cleared.md",
+          "kind": "position",
+          "title": "Work That Cannot Be Cleared",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "process_deciding_not_to.md",
+          "kind": "process",
+          "title": "Deciding Not To",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "process_losing_the_thread.md",
+          "kind": "process",
+          "title": "Losing the Thread",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "process_protecting_without_paperwork.md",
+          "kind": "process",
+          "title": "Protecting Without Paperwork",
+          "taxonomy": "play_nobody_to_ask.md"
+        },
+        {
+          "file": "process_searching_diligently.md",
+          "kind": "process",
+          "title": "Searching Diligently",
+          "taxonomy": "play_nobody_to_ask.md"
         }
       ]
     },
