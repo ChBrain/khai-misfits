@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 226 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 227 misfits, 1069 scholars.
 
 ## By science
 
@@ -1713,6 +1713,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `the_success_trap` | Clayton Christensen; Clayton Christensen & Raynor; Pfeffer & Salancik; March; Levitt & March; Levinthal & March; Leonard-Barton; Henderson & Clark; Levitt; Practitioner |
 | `the_survivors` | Bacon; Wald; Brown, Goetzmann, Ibbotson & Ross; Taleb; Practitioner |
 | `the_third_option` | Huber, Payne and Puto; The attraction-effect literature; Boundary and contested-replication work |
+| `the_time_it_used_to_buy` | The physics of rotating mass; The South Australian black system; The load-shedding scheme's limit; The operator's response; The rule change |
 | `the_trip_to_abilene` | Harvey; Katz & Allport; Asch; Janis; Noelle-Neumann; Kuran; Practitioner |
 | `the_tyranny_of_small_decisions` | Kahn; Schelling; Odum; Weisbrod; Hardin; Practitioner |
 | `the_tyranny_of_the_urgent` | Zhu, Yang, and Hsee; Charles E. Hummel; Eisenhower, Covey; Completion / closure; Practitioner |
