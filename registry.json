@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.219.0",
+  "version": "0.220.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -19736,6 +19736,185 @@
           "kind": "process",
           "title": "Reaching",
           "taxonomy": "play_pushing_on_a_string.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "reasonable_either_way",
+      "title": "Reasonable Either Way",
+      "description": "Every analytic choice is defensible and made after looking, so one analysis owes a debt to the paths never walked.",
+      "members": [
+        {
+          "file": "persona_the_garden.md",
+          "kind": "persona",
+          "title": "The Garden",
+          "type": "archetype",
+          "taxonomy": "position_garden.md"
+        },
+        {
+          "file": "persona_the_next_sample.md",
+          "kind": "persona",
+          "title": "The Next Sample",
+          "type": "archetype",
+          "taxonomy": "position_next_sample.md"
+        },
+        {
+          "file": "persona_the_one_at_the_keyboard.md",
+          "kind": "persona",
+          "title": "The One at the Keyboard",
+          "type": "archetype",
+          "taxonomy": "position_one_at_the_keyboard.md"
+        },
+        {
+          "file": "persona_the_other_hands.md",
+          "kind": "persona",
+          "title": "The Other Hands",
+          "type": "archetype",
+          "taxonomy": "position_other_hands.md"
+        },
+        {
+          "file": "piece_the_covariate.md",
+          "kind": "piece",
+          "title": "The Covariate",
+          "taxonomy": "place_the_long_table.md"
+        },
+        {
+          "file": "piece_the_exclusion.md",
+          "kind": "piece",
+          "title": "The Exclusion",
+          "taxonomy": "place_the_long_table.md"
+        },
+        {
+          "file": "piece_the_line_at_point_oh_five.md",
+          "kind": "piece",
+          "title": "The Line at Point Oh Five",
+          "taxonomy": "place_the_long_table.md"
+        },
+        {
+          "file": "pitch_no_fishing.md",
+          "kind": "pitch",
+          "title": "No Fishing",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "place_the_long_table.md",
+          "kind": "place",
+          "title": "The Long Table",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "place_the_written_account.md",
+          "kind": "place",
+          "title": "The Written Account",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "plan_do_it_properly.md",
+          "kind": "plan",
+          "title": "Do It Properly",
+          "taxonomy": "persona_the_one_at_the_keyboard.md"
+        },
+        {
+          "file": "plan_say_it_in_advance.md",
+          "kind": "plan",
+          "title": "Say It in Advance",
+          "taxonomy": "persona_the_one_at_the_keyboard.md"
+        },
+        {
+          "file": "plan_show_every_path.md",
+          "kind": "plan",
+          "title": "Show Every Path",
+          "taxonomy": "persona_the_one_at_the_keyboard.md"
+        },
+        {
+          "file": "play_reasonable_either_way.md",
+          "kind": "play",
+          "title": "Reasonable Either Way"
+        },
+        {
+          "file": "plot_a_reasonable_exclusion.md",
+          "kind": "plot",
+          "title": "A Reasonable Exclusion",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "plot_before_any_choice.md",
+          "kind": "plot",
+          "title": "Before Any Choice",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "plot_it_does_not_come_back.md",
+          "kind": "plot",
+          "title": "It Does Not Come Back",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "plot_the_paths_not_walked.md",
+          "kind": "plot",
+          "title": "The Paths Not Walked",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "plot_tie_it_down.md",
+          "kind": "plot",
+          "title": "Tie It Down",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "plot_twenty_nine_desks.md",
+          "kind": "plot",
+          "title": "Twenty-Nine Desks",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "position_garden.md",
+          "kind": "position",
+          "title": "Garden",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "position_next_sample.md",
+          "kind": "position",
+          "title": "Next Sample",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "position_one_at_the_keyboard.md",
+          "kind": "position",
+          "title": "One at the Keyboard",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "position_other_hands.md",
+          "kind": "position",
+          "title": "Other Hands",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "process_branching.md",
+          "kind": "process",
+          "title": "Branching",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "process_looking_first.md",
+          "kind": "process",
+          "title": "Looking First",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "process_taking_a_turn.md",
+          "kind": "process",
+          "title": "Taking a Turn",
+          "taxonomy": "play_reasonable_either_way.md"
+        },
+        {
+          "file": "process_writing_it_up.md",
+          "kind": "process",
+          "title": "Writing It Up",
+          "taxonomy": "play_reasonable_either_way.md"
         }
       ]
     },
