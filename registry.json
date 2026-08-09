@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.230.0",
+  "version": "0.231.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -33598,6 +33598,198 @@
           "kind": "process",
           "title": "Starving",
           "taxonomy": "play_the_firefighters_medal.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_fourth_year",
+      "title": "The Fourth Year",
+      "description": "Judges are elected so the community reaches sentencing, and it reaches hardest in the year before the vote.",
+      "members": [
+        {
+          "file": "persona_the_one_sentenced_early.md",
+          "kind": "persona",
+          "title": "The One Sentenced Early",
+          "type": "archetype",
+          "taxonomy": "position_one_sentenced_early.md"
+        },
+        {
+          "file": "persona_the_one_sentenced_late.md",
+          "kind": "persona",
+          "title": "The One Sentenced Late",
+          "type": "archetype",
+          "taxonomy": "position_one_sentenced_late.md"
+        },
+        {
+          "file": "persona_the_one_who_must_stand.md",
+          "kind": "persona",
+          "title": "The One Who Must Stand",
+          "type": "archetype",
+          "taxonomy": "position_one_who_must_stand.md"
+        },
+        {
+          "file": "persona_the_ones_who_vote.md",
+          "kind": "persona",
+          "title": "The Ones Who Vote",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_vote.md"
+        },
+        {
+          "file": "persona_the_term_that_ends.md",
+          "kind": "persona",
+          "title": "The Term That Ends",
+          "type": "archetype",
+          "taxonomy": "position_term_that_ends.md"
+        },
+        {
+          "file": "piece_the_advertisement.md",
+          "kind": "piece",
+          "title": "The Advertisement",
+          "taxonomy": "place_the_campaign_trail.md"
+        },
+        {
+          "file": "piece_the_departure.md",
+          "kind": "piece",
+          "title": "The Departure",
+          "taxonomy": "place_the_sentencing_room.md"
+        },
+        {
+          "file": "piece_the_guideline_band.md",
+          "kind": "piece",
+          "title": "The Guideline Band",
+          "taxonomy": "place_the_sentencing_room.md"
+        },
+        {
+          "file": "pitch_nobody_set_the_date.md",
+          "kind": "pitch",
+          "title": "Nobody Set the Date",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "place_the_campaign_trail.md",
+          "kind": "place",
+          "title": "The Campaign Trail",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "place_the_sentencing_room.md",
+          "kind": "place",
+          "title": "The Sentencing Room",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "plan_keep_the_seat.md",
+          "kind": "plan",
+          "title": "Keep the Seat",
+          "taxonomy": "persona_the_one_who_must_stand.md"
+        },
+        {
+          "file": "plan_pick_a_tough_one.md",
+          "kind": "plan",
+          "title": "Pick a Tough One",
+          "taxonomy": "persona_the_ones_who_vote.md"
+        },
+        {
+          "file": "plan_take_the_dial_off.md",
+          "kind": "plan",
+          "title": "Take the Dial Off",
+          "taxonomy": "persona_the_ones_who_vote.md"
+        },
+        {
+          "file": "play_the_fourth_year.md",
+          "kind": "play",
+          "title": "The Fourth Year"
+        },
+        {
+          "file": "plot_a_term_with_an_end.md",
+          "kind": "plot",
+          "title": "A Term With an End",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "plot_above_the_range.md",
+          "kind": "plot",
+          "title": "Above the Range",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "plot_the_same_dial.md",
+          "kind": "plot",
+          "title": "The Same Dial",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "plot_the_thirty_seconds_that_ends_a_career.md",
+          "kind": "plot",
+          "title": "The Thirty Seconds That Ends a Career",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "plot_two_men_same_crime.md",
+          "kind": "plot",
+          "title": "Two Men, Same Crime",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "plot_whichever_year_you_land_in.md",
+          "kind": "plot",
+          "title": "Whichever Year You Land In",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "position_one_sentenced_early.md",
+          "kind": "position",
+          "title": "One Sentenced Early",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "position_one_sentenced_late.md",
+          "kind": "position",
+          "title": "One Sentenced Late",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "position_one_who_must_stand.md",
+          "kind": "position",
+          "title": "One Who Must Stand",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "position_ones_who_vote.md",
+          "kind": "position",
+          "title": "Ones Who Vote",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "position_term_that_ends.md",
+          "kind": "position",
+          "title": "Term That Ends",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "process_coming_up_for_election.md",
+          "kind": "process",
+          "title": "Coming Up for Election",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "process_drawing_the_date.md",
+          "kind": "process",
+          "title": "Drawing the Date",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "process_going_above_the_range.md",
+          "kind": "process",
+          "title": "Going Above the Range",
+          "taxonomy": "play_the_fourth_year.md"
+        },
+        {
+          "file": "process_standing_again.md",
+          "kind": "process",
+          "title": "Standing Again",
+          "taxonomy": "play_the_fourth_year.md"
         }
       ]
     },
