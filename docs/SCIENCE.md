@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 236 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 237 misfits, 1069 scholars.
 
 ## By science
 
@@ -1569,6 +1569,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `longer_than_its_meaning` | The rock-art record; Information models of rock art; The Human Interference Task Force; Sebeok; Sandia National Laboratories |
 | `loudest_when_hushed` | The coinage; Jansen & Martin; Brian Martin; Jack Brehm |
 | `metric_fixation` | Ridgway; Goodhart, Strathern; Campbell; Holmström & Milgrom; Choi, Hecht & Tayler; Power; Muller; Practitioner |
+| `missing_from_the_count` | The requirement; The differential undercount; The measurement; The sharpest instance; The lock |
 | `model_collapse` | Shumailov et al.; Alemohammad et al.; Statistical-learning theory; Provenance / data ecology; Practitioner |
 | `moral_hazard` | Arrow; Pauly; Holmström; Shavell; Dembe & Boden; Practitioner |
 | `moral_licensing` | Monin & Miller; Merritt, Effron & Monin; Sachdeva, Iliev & Medin; Mazar & Zhong; Khan & Dhar; Practitioner |
