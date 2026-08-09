@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.232.0",
+  "version": "0.233.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -47176,6 +47176,198 @@
           "kind": "process",
           "title": "Remembering",
           "taxonomy": "play_the_worst_and_the_last.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_youngest_in_the_room",
+      "title": "The Youngest in the Room",
+      "description": "A cutoff makes one child eleven months older, and every judgement after it compares them with the room, not their age.",
+      "members": [
+        {
+          "file": "persona_the_line_in_the_calendar.md",
+          "kind": "persona",
+          "title": "The Line in the Calendar",
+          "type": "archetype",
+          "taxonomy": "position_line_in_the_calendar.md"
+        },
+        {
+          "file": "persona_the_one_born_in_august.md",
+          "kind": "persona",
+          "title": "The One Born in August",
+          "type": "archetype",
+          "taxonomy": "position_one_born_in_august.md"
+        },
+        {
+          "file": "persona_the_one_born_in_september.md",
+          "kind": "persona",
+          "title": "The One Born in September",
+          "type": "archetype",
+          "taxonomy": "position_one_born_in_september.md"
+        },
+        {
+          "file": "persona_the_one_who_assesses.md",
+          "kind": "persona",
+          "title": "The One Who Assesses",
+          "type": "archetype",
+          "taxonomy": "position_one_who_assesses.md"
+        },
+        {
+          "file": "persona_the_one_who_picks.md",
+          "kind": "persona",
+          "title": "The One Who Picks",
+          "type": "archetype",
+          "taxonomy": "position_one_who_picks.md"
+        },
+        {
+          "file": "piece_the_extra_hour.md",
+          "kind": "piece",
+          "title": "The Extra Hour",
+          "taxonomy": "place_the_trial_session.md"
+        },
+        {
+          "file": "piece_the_referral_form.md",
+          "kind": "piece",
+          "title": "The Referral Form",
+          "taxonomy": "place_the_classroom.md"
+        },
+        {
+          "file": "piece_the_squad_list.md",
+          "kind": "piece",
+          "title": "The Squad List",
+          "taxonomy": "place_the_trial_session.md"
+        },
+        {
+          "file": "pitch_nobody_asked_when_they_were_born.md",
+          "kind": "pitch",
+          "title": "Nobody Asked When They Were Born",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "place_the_classroom.md",
+          "kind": "place",
+          "title": "The Classroom",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "place_the_trial_session.md",
+          "kind": "place",
+          "title": "The Trial Session",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "plan_get_him_help.md",
+          "kind": "plan",
+          "title": "Get Him Help",
+          "taxonomy": "persona_the_one_who_assesses.md"
+        },
+        {
+          "file": "plan_keep_the_best.md",
+          "kind": "plan",
+          "title": "Keep the Best",
+          "taxonomy": "persona_the_one_who_picks.md"
+        },
+        {
+          "file": "plan_move_the_line.md",
+          "kind": "plan",
+          "title": "Move the Line",
+          "taxonomy": "persona_the_one_who_picks.md"
+        },
+        {
+          "file": "play_the_youngest_in_the_room.md",
+          "kind": "play",
+          "title": "The Youngest in the Room"
+        },
+        {
+          "file": "plot_behind_by_eleven_months.md",
+          "kind": "plot",
+          "title": "Behind by Eleven Months",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "plot_bigger_on_the_day.md",
+          "kind": "plot",
+          "title": "Bigger on the Day",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "plot_it_was_true_by_then.md",
+          "kind": "plot",
+          "title": "It Was True by Then",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "plot_move_it_and_it_moves_with_you.md",
+          "kind": "plot",
+          "title": "Move It and It Moves With You",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "plot_the_coaching_follows_the_pick.md",
+          "kind": "plot",
+          "title": "The Coaching Follows the Pick",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "plot_wherever_you_put_the_line.md",
+          "kind": "plot",
+          "title": "Wherever You Put the Line",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "position_line_in_the_calendar.md",
+          "kind": "position",
+          "title": "Line in the Calendar",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "position_one_born_in_august.md",
+          "kind": "position",
+          "title": "One Born in August",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "position_one_born_in_september.md",
+          "kind": "position",
+          "title": "One Born in September",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "position_one_who_assesses.md",
+          "kind": "position",
+          "title": "One Who Assesses",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "position_one_who_picks.md",
+          "kind": "position",
+          "title": "One Who Picks",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "process_being_assessed.md",
+          "kind": "process",
+          "title": "Being Assessed",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "process_being_picked.md",
+          "kind": "process",
+          "title": "Being Picked",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "process_drawing_the_line.md",
+          "kind": "process",
+          "title": "Drawing the Line",
+          "taxonomy": "play_the_youngest_in_the_room.md"
+        },
+        {
+          "file": "process_getting_the_coaching.md",
+          "kind": "process",
+          "title": "Getting the Coaching",
+          "taxonomy": "play_the_youngest_in_the_room.md"
         }
       ]
     },
