@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.227.0",
+  "version": "0.228.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -38711,6 +38711,198 @@
           "kind": "process",
           "title": "Resetting",
           "taxonomy": "play_the_new_normal.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_next_one_pays",
+      "title": "The Next One Pays",
+      "description": "One side plays for the money and one for the rule, so the cases that would make bad law are bought out of the record.",
+      "members": [
+        {
+          "file": "persona_the_next_one.md",
+          "kind": "persona",
+          "title": "The Next One",
+          "type": "archetype",
+          "taxonomy": "position_next_one.md"
+        },
+        {
+          "file": "persona_the_one_at_the_bench.md",
+          "kind": "persona",
+          "title": "The One at the Bench",
+          "type": "archetype",
+          "taxonomy": "position_one_at_the_bench.md"
+        },
+        {
+          "file": "persona_the_one_who_came_once.md",
+          "kind": "persona",
+          "title": "The One Who Came Once",
+          "type": "archetype",
+          "taxonomy": "position_one_who_came_once.md"
+        },
+        {
+          "file": "persona_the_one_who_comes_back.md",
+          "kind": "persona",
+          "title": "The One Who Comes Back",
+          "type": "archetype",
+          "taxonomy": "position_one_who_comes_back.md"
+        },
+        {
+          "file": "persona_the_one_who_must_advise.md",
+          "kind": "persona",
+          "title": "The One Who Must Advise",
+          "type": "archetype",
+          "taxonomy": "position_one_who_must_advise.md"
+        },
+        {
+          "file": "piece_the_confidentiality_clause.md",
+          "kind": "piece",
+          "title": "The Confidentiality Clause",
+          "taxonomy": "place_the_room_where_it_settles.md"
+        },
+        {
+          "file": "piece_the_number_that_ends_it.md",
+          "kind": "piece",
+          "title": "The Number That Ends It",
+          "taxonomy": "place_the_room_where_it_settles.md"
+        },
+        {
+          "file": "piece_the_vacated_judgment.md",
+          "kind": "piece",
+          "title": "The Vacated Judgment",
+          "taxonomy": "place_the_reports.md"
+        },
+        {
+          "file": "pitch_nobody_loses_this_one.md",
+          "kind": "pitch",
+          "title": "Nobody Loses This One",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "place_the_reports.md",
+          "kind": "place",
+          "title": "The Reports",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "place_the_room_where_it_settles.md",
+          "kind": "place",
+          "title": "The Room Where It Settles",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "plan_keep_it_on_the_record.md",
+          "kind": "plan",
+          "title": "Keep It on the Record",
+          "taxonomy": "persona_the_one_at_the_bench.md"
+        },
+        {
+          "file": "plan_win_the_case.md",
+          "kind": "plan",
+          "title": "Win the Case",
+          "taxonomy": "persona_the_one_who_must_advise.md"
+        },
+        {
+          "file": "plan_win_the_rule.md",
+          "kind": "plan",
+          "title": "Win the Rule",
+          "taxonomy": "persona_the_one_who_comes_back.md"
+        },
+        {
+          "file": "play_the_next_one_pays.md",
+          "kind": "play",
+          "title": "The Next One Pays"
+        },
+        {
+          "file": "plot_a_thousand_times_or_once.md",
+          "kind": "plot",
+          "title": "A Thousand Times, or Once",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "plot_a_very_good_offer.md",
+          "kind": "plot",
+          "title": "A Very Good Offer",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "plot_nobody_to_put_it_back.md",
+          "kind": "plot",
+          "title": "Nobody to Put It Back",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "plot_nothing_to_decide.md",
+          "kind": "plot",
+          "title": "Nothing to Decide",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "plot_reading_the_file.md",
+          "kind": "plot",
+          "title": "Reading the File",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "plot_the_next_one_arrives.md",
+          "kind": "plot",
+          "title": "The Next One Arrives",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "position_next_one.md",
+          "kind": "position",
+          "title": "Next One",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "position_one_at_the_bench.md",
+          "kind": "position",
+          "title": "One at the Bench",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "position_one_who_came_once.md",
+          "kind": "position",
+          "title": "One Who Came Once",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "position_one_who_comes_back.md",
+          "kind": "position",
+          "title": "One Who Comes Back",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "position_one_who_must_advise.md",
+          "kind": "position",
+          "title": "One Who Must Advise",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "process_arriving_after.md",
+          "kind": "process",
+          "title": "Arriving After",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "process_coming_back.md",
+          "kind": "process",
+          "title": "Coming Back",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "process_sorting_the_docket.md",
+          "kind": "process",
+          "title": "Sorting the Docket",
+          "taxonomy": "play_the_next_one_pays.md"
+        },
+        {
+          "file": "process_taking_the_money.md",
+          "kind": "process",
+          "title": "Taking the Money",
+          "taxonomy": "play_the_next_one_pays.md"
         }
       ]
     },
