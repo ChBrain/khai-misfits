@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.223.0",
+  "version": "0.224.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -47680,6 +47680,185 @@
           "kind": "process",
           "title": "Roll-up",
           "taxonomy": "play_watermelon_reporting.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "what_never_arrives",
+      "title": "What Never Arrives",
+      "description": "A dam stills the water so the silt drops out, and a coast eight hundred kilometres away stops being built.",
+      "members": [
+        {
+          "file": "persona_the_clear_water.md",
+          "kind": "persona",
+          "title": "The Clear Water",
+          "type": "archetype",
+          "taxonomy": "position_clear_water.md"
+        },
+        {
+          "file": "persona_the_delta.md",
+          "kind": "persona",
+          "title": "The Delta",
+          "type": "archetype",
+          "taxonomy": "position_delta.md"
+        },
+        {
+          "file": "persona_the_one_who_built_it.md",
+          "kind": "persona",
+          "title": "The One Who Built It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_built_it.md"
+        },
+        {
+          "file": "persona_the_silt.md",
+          "kind": "persona",
+          "title": "The Silt",
+          "type": "archetype",
+          "taxonomy": "position_silt.md"
+        },
+        {
+          "file": "piece_the_benefit_sheet.md",
+          "kind": "piece",
+          "title": "The Benefit Sheet",
+          "taxonomy": "place_the_still_water.md"
+        },
+        {
+          "file": "piece_the_depth_reading.md",
+          "kind": "piece",
+          "title": "The Depth Reading",
+          "taxonomy": "place_the_still_water.md"
+        },
+        {
+          "file": "piece_the_gates.md",
+          "kind": "piece",
+          "title": "The Gates",
+          "taxonomy": "place_the_still_water.md"
+        },
+        {
+          "file": "pitch_everything_it_promised.md",
+          "kind": "pitch",
+          "title": "Everything It Promised",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "place_the_mouth.md",
+          "kind": "place",
+          "title": "The Mouth",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "place_the_still_water.md",
+          "kind": "place",
+          "title": "The Still Water",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "plan_hold_the_water.md",
+          "kind": "plan",
+          "title": "Hold the Water",
+          "taxonomy": "persona_the_one_who_built_it.md"
+        },
+        {
+          "file": "plan_keep_the_storage.md",
+          "kind": "plan",
+          "title": "Keep the Storage",
+          "taxonomy": "persona_the_one_who_built_it.md"
+        },
+        {
+          "file": "plan_let_it_through.md",
+          "kind": "plan",
+          "title": "Let It Through",
+          "taxonomy": "persona_the_one_who_built_it.md"
+        },
+        {
+          "file": "play_what_never_arrives.md",
+          "kind": "play",
+          "title": "What Never Arrives"
+        },
+        {
+          "file": "plot_clear_water_out.md",
+          "kind": "plot",
+          "title": "Clear Water Out",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "plot_it_takes_it_from_the_bed.md",
+          "kind": "plot",
+          "title": "It Takes It From the Bed",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "plot_not_on_anyones_books.md",
+          "kind": "plot",
+          "title": "Not on Anyone's Books",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "plot_nothing_comes_down.md",
+          "kind": "plot",
+          "title": "Nothing Comes Down",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "plot_open_the_gates_low.md",
+          "kind": "plot",
+          "title": "Open the Gates Low",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "plot_the_river_slows.md",
+          "kind": "plot",
+          "title": "The River Slows",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "position_clear_water.md",
+          "kind": "position",
+          "title": "Clear Water",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "position_delta.md",
+          "kind": "position",
+          "title": "Delta",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "position_one_who_built_it.md",
+          "kind": "position",
+          "title": "One Who Built It",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "position_silt.md",
+          "kind": "position",
+          "title": "Silt",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "process_dropping_out.md",
+          "kind": "process",
+          "title": "Dropping Out",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "process_falling_behind.md",
+          "kind": "process",
+          "title": "Falling Behind",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "process_releasing.md",
+          "kind": "process",
+          "title": "Releasing",
+          "taxonomy": "play_what_never_arrives.md"
+        },
+        {
+          "file": "process_taking_it_back.md",
+          "kind": "process",
+          "title": "Taking It Back",
+          "taxonomy": "play_what_never_arrives.md"
         }
       ]
     },
