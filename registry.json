@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.234.0",
+  "version": "0.235.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -4318,6 +4318,198 @@
           "kind": "process",
           "title": "Promoting",
           "taxonomy": "play_both_take_the_crown.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "built_before_the_rule",
+      "title": "Built Before the Rule",
+      "description": "A code written after the disaster applies only forward, so the buildings that most need it are the ones it exempts.",
+      "members": [
+        {
+          "file": "persona_the_building_that_predates_it.md",
+          "kind": "persona",
+          "title": "The Building That Predates It",
+          "type": "archetype",
+          "taxonomy": "position_building_that_predates_it.md"
+        },
+        {
+          "file": "persona_the_code_that_came_after.md",
+          "kind": "persona",
+          "title": "The Code That Came After",
+          "type": "archetype",
+          "taxonomy": "position_code_that_came_after.md"
+        },
+        {
+          "file": "persona_the_one_who_lives_there.md",
+          "kind": "persona",
+          "title": "The One Who Lives There",
+          "type": "archetype",
+          "taxonomy": "position_one_who_lives_there.md"
+        },
+        {
+          "file": "persona_the_one_who_owns_it.md",
+          "kind": "persona",
+          "title": "The One Who Owns It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_owns_it.md"
+        },
+        {
+          "file": "persona_the_one_who_signs_it_off.md",
+          "kind": "persona",
+          "title": "The One Who Signs It Off",
+          "type": "archetype",
+          "taxonomy": "position_one_who_signs_it_off.md"
+        },
+        {
+          "file": "piece_the_contractors_number.md",
+          "kind": "piece",
+          "title": "The Contractor's Number",
+          "taxonomy": "place_the_permit_counter.md"
+        },
+        {
+          "file": "piece_the_fifty_per_cent_line.md",
+          "kind": "piece",
+          "title": "The Fifty Per Cent Line",
+          "taxonomy": "place_the_permit_counter.md"
+        },
+        {
+          "file": "piece_the_retrofit_order.md",
+          "kind": "piece",
+          "title": "The Retrofit Order",
+          "taxonomy": "place_the_old_frontage.md"
+        },
+        {
+          "file": "pitch_nobody_has_to_fix_it.md",
+          "kind": "pitch",
+          "title": "Nobody Has to Fix It",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "place_the_old_frontage.md",
+          "kind": "place",
+          "title": "The Old Frontage",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "place_the_permit_counter.md",
+          "kind": "place",
+          "title": "The Permit Counter",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "plan_apply_the_rule.md",
+          "kind": "plan",
+          "title": "Apply the Rule",
+          "taxonomy": "persona_the_one_who_signs_it_off.md"
+        },
+        {
+          "file": "plan_keep_it_under.md",
+          "kind": "plan",
+          "title": "Keep It Under",
+          "taxonomy": "persona_the_one_who_owns_it.md"
+        },
+        {
+          "file": "plan_order_the_retrofit.md",
+          "kind": "plan",
+          "title": "Order the Retrofit",
+          "taxonomy": "persona_the_one_who_signs_it_off.md"
+        },
+        {
+          "file": "play_built_before_the_rule.md",
+          "kind": "play",
+          "title": "Built Before the Rule"
+        },
+        {
+          "file": "plot_a_percentage_of_what_its_worth.md",
+          "kind": "plot",
+          "title": "A Percentage of What It's Worth",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "plot_forty_nine_per_cent.md",
+          "kind": "plot",
+          "title": "Forty-Nine Per Cent",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "plot_it_was_legal_when_it_was_built.md",
+          "kind": "plot",
+          "title": "It Was Legal When It Was Built",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "plot_seven_years_to_comply.md",
+          "kind": "plot",
+          "title": "Seven Years to Comply",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "plot_so_nobody_touches_it.md",
+          "kind": "plot",
+          "title": "So Nobody Touches It",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "plot_written_after_the_fire.md",
+          "kind": "plot",
+          "title": "Written After the Fire",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "position_building_that_predates_it.md",
+          "kind": "position",
+          "title": "Building That Predates It",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "position_code_that_came_after.md",
+          "kind": "position",
+          "title": "Code That Came After",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "position_one_who_lives_there.md",
+          "kind": "position",
+          "title": "One Who Lives There",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "position_one_who_owns_it.md",
+          "kind": "position",
+          "title": "One Who Owns It",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "position_one_who_signs_it_off.md",
+          "kind": "position",
+          "title": "One Who Signs It Off",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "process_costing_the_work.md",
+          "kind": "process",
+          "title": "Costing the Work",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "process_leaving_it_alone.md",
+          "kind": "process",
+          "title": "Leaving It Alone",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "process_standing_exempt.md",
+          "kind": "process",
+          "title": "Standing Exempt",
+          "taxonomy": "play_built_before_the_rule.md"
+        },
+        {
+          "file": "process_writing_it_after.md",
+          "kind": "process",
+          "title": "Writing It After",
+          "taxonomy": "play_built_before_the_rule.md"
         }
       ]
     },
