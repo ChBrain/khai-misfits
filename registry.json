@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.225.0",
+  "version": "0.226.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -32210,6 +32210,185 @@
           "kind": "process",
           "title": "Inferring",
           "taxonomy": "play_the_false_trade_off.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_far_end_of_the_wire",
+      "title": "The Far End of the Wire",
+      "description": "A feeder built for one-way power has its sign reversed by export, and the household furthest out is the one cut off.",
+      "members": [
+        {
+          "file": "persona_the_climbing_volt.md",
+          "kind": "persona",
+          "title": "The Climbing Volt",
+          "type": "archetype",
+          "taxonomy": "position_climbing_volt.md"
+        },
+        {
+          "file": "persona_the_last_house.md",
+          "kind": "persona",
+          "title": "The Last House",
+          "type": "archetype",
+          "taxonomy": "position_last_house.md"
+        },
+        {
+          "file": "persona_the_one_who_strung_it.md",
+          "kind": "persona",
+          "title": "The One Who Strung It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_strung_it.md"
+        },
+        {
+          "file": "persona_the_ones_who_fitted_panels.md",
+          "kind": "persona",
+          "title": "The Ones Who Fitted Panels",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_fitted_panels.md"
+        },
+        {
+          "file": "piece_the_ceiling.md",
+          "kind": "piece",
+          "title": "The Ceiling",
+          "taxonomy": "place_the_line_out.md"
+        },
+        {
+          "file": "piece_the_safety_trip.md",
+          "kind": "piece",
+          "title": "The Safety Trip",
+          "taxonomy": "place_the_line_out.md"
+        },
+        {
+          "file": "piece_the_tap_setting.md",
+          "kind": "piece",
+          "title": "The Tap Setting",
+          "taxonomy": "place_the_substation.md"
+        },
+        {
+          "file": "pitch_nobody_chose_the_order.md",
+          "kind": "pitch",
+          "title": "Nobody Chose the Order",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "place_the_line_out.md",
+          "kind": "place",
+          "title": "The Line Out",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "place_the_substation.md",
+          "kind": "place",
+          "title": "The Substation",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "plan_build_it_for_the_load.md",
+          "kind": "plan",
+          "title": "Build It for the Load",
+          "taxonomy": "persona_the_one_who_strung_it.md"
+        },
+        {
+          "file": "plan_put_them_up.md",
+          "kind": "plan",
+          "title": "Put Them Up",
+          "taxonomy": "persona_the_ones_who_fitted_panels.md"
+        },
+        {
+          "file": "plan_share_the_ceiling.md",
+          "kind": "plan",
+          "title": "Share the Ceiling",
+          "taxonomy": "persona_the_one_who_strung_it.md"
+        },
+        {
+          "file": "play_the_far_end_of_the_wire.md",
+          "kind": "play",
+          "title": "The Far End of the Wire"
+        },
+        {
+          "file": "plot_built_for_one_way.md",
+          "kind": "plot",
+          "title": "Built for One Way",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "plot_everyone_fits_panels.md",
+          "kind": "plot",
+          "title": "Everyone Fits Panels",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "plot_the_flow_turns_round.md",
+          "kind": "plot",
+          "title": "The Flow Turns Round",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "plot_the_last_house_cuts_out.md",
+          "kind": "plot",
+          "title": "The Last House Cuts Out",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "plot_the_same_sum_other_way.md",
+          "kind": "plot",
+          "title": "The Same Sum, Other Way",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "plot_who_gives_up_the_sun.md",
+          "kind": "plot",
+          "title": "Who Gives Up the Sun",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "position_climbing_volt.md",
+          "kind": "position",
+          "title": "Climbing Volt",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "position_last_house.md",
+          "kind": "position",
+          "title": "Last House",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "position_one_who_strung_it.md",
+          "kind": "position",
+          "title": "One Who Strung It",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "position_ones_who_fitted_panels.md",
+          "kind": "position",
+          "title": "Ones Who Fitted Panels",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "process_cutting_out.md",
+          "kind": "process",
+          "title": "Cutting Out",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "process_putting_panels_up.md",
+          "kind": "process",
+          "title": "Putting Panels Up",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "process_stringing.md",
+          "kind": "process",
+          "title": "Stringing",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
+        },
+        {
+          "file": "process_turning_back.md",
+          "kind": "process",
+          "title": "Turning Back",
+          "taxonomy": "play_the_far_end_of_the_wire.md"
         }
       ]
     },
