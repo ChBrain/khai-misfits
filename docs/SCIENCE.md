@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 227 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 228 misfits, 1069 scholars.
 
 ## By science
 
@@ -1689,6 +1689,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `the_market_for_lemons` | Akerlof; Spence; Rothschild & Stiglitz; Wilson; Nobel 2001; Practitioner |
 | `the_mirror` | Conway; Parnas; Herbsleb & Grinter; MacCormack, Rusnak & Baldwin; Skelton & Pais; Practitioner |
 | `the_new_normal` | Vaughan; Feynman; Turner; Rasmussen; Dekker; Practitioner |
+| `the_next_one_pays` | The repeat player and the one-shotter; Playing for rules; The empirical record; Precedent as a public good; The limit of the correction |
 | `the_ninth_woman` | Brooks; Brooks (partitioning); Brooks (communication); Abdel-Hamid & Madnick; DeMarco & Lister; Practitioner |
 | `the_one_in_front_of_you` | Thomas Schelling; Small, Loewenstein, and Slovic; Paul Slovic; Jenni and Loewenstein; Practitioner |
 | `the_only_basket` | William A. Fischel; William A. Fischel; Glaeser and Gyourko; The disenfranchised; Practitioner |
