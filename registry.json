@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.228.0",
+  "version": "0.229.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -21395,6 +21395,198 @@
           "kind": "process",
           "title": "Regression",
           "taxonomy": "play_rising_to_unfit.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "room_for_three_in_a_hundred",
+      "title": "Room for Three in a Hundred",
+      "description": "Only three cases in a hundred can be tried, so the discount that clears the rest is priced by capacity, not by guilt.",
+      "members": [
+        {
+          "file": "persona_the_one_who_asked.md",
+          "kind": "persona",
+          "title": "The One Who Asked",
+          "type": "archetype",
+          "taxonomy": "position_one_who_asked.md"
+        },
+        {
+          "file": "persona_the_one_who_counts_the_odds.md",
+          "kind": "persona",
+          "title": "The One Who Counts the Odds",
+          "type": "archetype",
+          "taxonomy": "position_one_who_counts_the_odds.md"
+        },
+        {
+          "file": "persona_the_one_who_must_accept.md",
+          "kind": "persona",
+          "title": "The One Who Must Accept",
+          "type": "archetype",
+          "taxonomy": "position_one_who_must_accept.md"
+        },
+        {
+          "file": "persona_the_one_who_offers.md",
+          "kind": "persona",
+          "title": "The One Who Offers",
+          "type": "archetype",
+          "taxonomy": "position_one_who_offers.md"
+        },
+        {
+          "file": "persona_the_one_who_says_it.md",
+          "kind": "persona",
+          "title": "The One Who Says It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_says_it.md"
+        },
+        {
+          "file": "piece_the_allocution.md",
+          "kind": "piece",
+          "title": "The Allocution",
+          "taxonomy": "place_the_courtrooms.md"
+        },
+        {
+          "file": "piece_the_gap_between_the_numbers.md",
+          "kind": "piece",
+          "title": "The Gap Between the Numbers",
+          "taxonomy": "place_the_hallway_outside.md"
+        },
+        {
+          "file": "piece_the_offer_that_expires.md",
+          "kind": "piece",
+          "title": "The Offer That Expires",
+          "taxonomy": "place_the_hallway_outside.md"
+        },
+        {
+          "file": "pitch_everybody_signed_it.md",
+          "kind": "pitch",
+          "title": "Everybody Signed It",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "place_the_courtrooms.md",
+          "kind": "place",
+          "title": "The Courtrooms",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "place_the_hallway_outside.md",
+          "kind": "place",
+          "title": "The Hallway Outside",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "plan_clear_the_list.md",
+          "kind": "plan",
+          "title": "Clear the List",
+          "taxonomy": "persona_the_one_who_offers.md"
+        },
+        {
+          "file": "plan_take_the_certain_thing.md",
+          "kind": "plan",
+          "title": "Take the Certain Thing",
+          "taxonomy": "persona_the_one_who_counts_the_odds.md"
+        },
+        {
+          "file": "plan_try_them_all.md",
+          "kind": "plan",
+          "title": "Try Them All",
+          "taxonomy": "persona_the_one_who_must_accept.md"
+        },
+        {
+          "file": "play_room_for_three_in_a_hundred.md",
+          "kind": "play",
+          "title": "Room for Three in a Hundred"
+        },
+        {
+          "file": "plot_a_number_from_the_buildings.md",
+          "kind": "plot",
+          "title": "A Number From the Buildings",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "plot_eighty_eight_dollars_and_thirty_cents.md",
+          "kind": "plot",
+          "title": "Eighty-Eight Dollars and Thirty Cents",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "plot_multiply_the_courthouses.md",
+          "kind": "plot",
+          "title": "Multiply the Courthouses",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "plot_say_you_did_it.md",
+          "kind": "plot",
+          "title": "Say You Did It",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "plot_the_building_only_holds_so_many.md",
+          "kind": "plot",
+          "title": "The Building Only Holds So Many",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "plot_the_weaker_the_case_the_better_the_deal.md",
+          "kind": "plot",
+          "title": "The Weaker the Case, the Better the Deal",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "position_one_who_asked.md",
+          "kind": "position",
+          "title": "One Who Asked",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "position_one_who_counts_the_odds.md",
+          "kind": "position",
+          "title": "One Who Counts the Odds",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "position_one_who_must_accept.md",
+          "kind": "position",
+          "title": "One Who Must Accept",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "position_one_who_offers.md",
+          "kind": "position",
+          "title": "One Who Offers",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "position_one_who_says_it.md",
+          "kind": "position",
+          "title": "One Who Says It",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "process_asking_anyway.md",
+          "kind": "process",
+          "title": "Asking Anyway",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "process_filling_the_list.md",
+          "kind": "process",
+          "title": "Filling the List",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "process_pricing_the_case.md",
+          "kind": "process",
+          "title": "Pricing the Case",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
+        },
+        {
+          "file": "process_signing_it.md",
+          "kind": "process",
+          "title": "Signing It",
+          "taxonomy": "play_room_for_three_in_a_hundred.md"
         }
       ]
     },
