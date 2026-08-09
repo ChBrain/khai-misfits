@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 225 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 226 misfits, 1069 scholars.
 
 ## By science
 
@@ -1659,6 +1659,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `the_empty_seat` | Parasuraman & Riley; Mosier & Skitka; Skitka, Mosier & Burdick; Parasuraman & Manzey; Cummings; aviation & medicine; Robustness of the effect |
 | `the_extra_road` | Braess; Wardrop; Pigou; Koutsoupias & Papadimitriou; Roughgarden & Tardos; Practitioner |
 | `the_false_trade_off` | Joseph Berkson; Judea Pearl; Hernán, Hernández-Díaz & Robins; Elwert & Winship; David Sackett |
+| `the_far_end_of_the_wire` | The voltage-drop relationship; The hosting-capacity literature; The penetration thresholds; The inverter response; Active power curtailment and volt-var |
 | `the_file_drawer` | Theodore Sterling; Robert Rosenthal; John Ioannidis; Kay Dickersin; Simmons, Nelson & Simonsohn |
 | `the_filter_bubble` | Pariser; Sunstein; Nicholas Negroponte; Festinger; Frey; Isenberg; Sunstein; Bakshy, Messing, Adamic; Practitioner |
 | `the_fire_that_feeds_you` | Pearl; Harman; Kirkwood; The bound |
