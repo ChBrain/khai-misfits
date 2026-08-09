@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.224.0",
+  "version": "0.225.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -20754,6 +20754,185 @@
           "kind": "process",
           "title": "Scrambling",
           "taxonomy": "play_rent_seeking.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "right_apart_wrong_together",
+      "title": "Right Apart, Wrong Together",
+      "description": "Two metals are each the right choice for their own job, and the joint between them eats one to preserve the other.",
+      "members": [
+        {
+          "file": "persona_the_damp.md",
+          "kind": "persona",
+          "title": "The Damp",
+          "type": "archetype",
+          "taxonomy": "position_damp.md"
+        },
+        {
+          "file": "persona_the_inner_rib.md",
+          "kind": "persona",
+          "title": "The Inner Rib",
+          "type": "archetype",
+          "taxonomy": "position_inner_rib.md"
+        },
+        {
+          "file": "persona_the_one_who_chose_them.md",
+          "kind": "persona",
+          "title": "The One Who Chose Them",
+          "type": "archetype",
+          "taxonomy": "position_one_who_chose_them.md"
+        },
+        {
+          "file": "persona_the_outer_sheet.md",
+          "kind": "persona",
+          "title": "The Outer Sheet",
+          "type": "archetype",
+          "taxonomy": "position_outer_sheet.md"
+        },
+        {
+          "file": "piece_the_parting_layer.md",
+          "kind": "piece",
+          "title": "The Parting Layer",
+          "taxonomy": "place_the_touching_place.md"
+        },
+        {
+          "file": "piece_the_pushed_line.md",
+          "kind": "piece",
+          "title": "The Pushed Line",
+          "taxonomy": "place_the_touching_place.md"
+        },
+        {
+          "file": "piece_the_saddle.md",
+          "kind": "piece",
+          "title": "The Saddle",
+          "taxonomy": "place_the_touching_place.md"
+        },
+        {
+          "file": "pitch_each_one_correct.md",
+          "kind": "pitch",
+          "title": "Each One Correct",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "place_the_inside.md",
+          "kind": "place",
+          "title": "The Inside",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "place_the_touching_place.md",
+          "kind": "place",
+          "title": "The Touching Place",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "plan_keep_them_apart.md",
+          "kind": "plan",
+          "title": "Keep Them Apart",
+          "taxonomy": "persona_the_one_who_chose_them.md"
+        },
+        {
+          "file": "plan_pick_the_right_metal_for_each.md",
+          "kind": "plan",
+          "title": "Pick the Right Metal for Each",
+          "taxonomy": "persona_the_one_who_chose_them.md"
+        },
+        {
+          "file": "plan_take_it_apart.md",
+          "kind": "plan",
+          "title": "Take It Apart",
+          "taxonomy": "persona_the_one_who_chose_them.md"
+        },
+        {
+          "file": "play_right_apart_wrong_together.md",
+          "kind": "play",
+          "title": "Right Apart, Wrong Together"
+        },
+        {
+          "file": "plot_down_to_the_ribs.md",
+          "kind": "plot",
+          "title": "Down to the Ribs",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "plot_it_pushes_the_sheet_out.md",
+          "kind": "plot",
+          "title": "It Pushes the Sheet Out",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "plot_salt_in_the_air.md",
+          "kind": "plot",
+          "title": "Salt in the Air",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "plot_the_layer_between.md",
+          "kind": "plot",
+          "title": "The Layer Between",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "plot_the_right_metal_for_each.md",
+          "kind": "plot",
+          "title": "The Right Metal for Each",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "plot_where_they_touch.md",
+          "kind": "plot",
+          "title": "Where They Touch",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "position_damp.md",
+          "kind": "position",
+          "title": "Damp",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "position_inner_rib.md",
+          "kind": "position",
+          "title": "Inner Rib",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "position_one_who_chose_them.md",
+          "kind": "position",
+          "title": "One Who Chose Them",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "position_outer_sheet.md",
+          "kind": "position",
+          "title": "Outer Sheet",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "process_giving_way.md",
+          "kind": "process",
+          "title": "Giving Way",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "process_growing_thicker.md",
+          "kind": "process",
+          "title": "Growing Thicker",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "process_setting_them_together.md",
+          "kind": "process",
+          "title": "Setting Them Together",
+          "taxonomy": "play_right_apart_wrong_together.md"
+        },
+        {
+          "file": "process_wetting.md",
+          "kind": "process",
+          "title": "Wetting",
+          "taxonomy": "play_right_apart_wrong_together.md"
         }
       ]
     },

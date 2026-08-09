@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 224 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 225 misfits, 1069 scholars.
 
 ## By science
 
@@ -1608,6 +1608,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `reasonable_either_way` | Simmons, Nelson & Simonsohn; Gelman & Loken; Silberzahn, Uhlmann, Martin et al.; Botvinik-Nezer et al.; Preregistration and the multiverse |
 | `regulatory_capture` | Stigler; Bernstein; Olson; Peltzman; Laffont & Tirole; Kwak; Carpenter & Moss; Practitioner |
 | `rent_seeking` | Tullock; Krueger; Posner; Buchanan, Tollison & Tullock; Baumol; Practitioner |
+| `right_apart_wrong_together` | The galvanic series; The Statue of Liberty armature; The 1980s condition survey; The rust-jacking damage; Sacrificial anodes |
 | `right_for_the_last_world` | Burns and Stalker; Lawrence and Lorsch; Woodward; Donaldson |
 | `rising_to_unfit` | Peter & Hull; Lazear; Benson, Li & Shue; Lazear & Rosen; Galton; Practitioner |
 | `room_to_grow` | Abrams; Ricker; Nicholson; Zipkin, Kraft, Cooch and Sullivan; The regulatory scope |
