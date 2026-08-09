@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.218.0",
+  "version": "0.219.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -46200,6 +46200,185 @@
           "kind": "process",
           "title": "Tilting",
           "taxonomy": "play_too_sure_to_be_true.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "treated_and_counted",
+      "title": "Treated and Counted",
+      "description": "A person is cared for and measured in the same hour, and the design doing the measuring was never built around them.",
+      "members": [
+        {
+          "file": "persona_the_enrolled.md",
+          "kind": "persona",
+          "title": "The Enrolled",
+          "type": "archetype",
+          "taxonomy": "position_enrolled.md"
+        },
+        {
+          "file": "persona_the_one_after.md",
+          "kind": "persona",
+          "title": "The One After",
+          "type": "archetype",
+          "taxonomy": "position_one_after.md"
+        },
+        {
+          "file": "persona_the_one_who_treats.md",
+          "kind": "persona",
+          "title": "The One Who Treats",
+          "type": "archetype",
+          "taxonomy": "position_one_who_treats.md"
+        },
+        {
+          "file": "persona_the_protocol.md",
+          "kind": "persona",
+          "title": "The Protocol",
+          "type": "archetype",
+          "taxonomy": "position_protocol.md"
+        },
+        {
+          "file": "piece_the_dose_card.md",
+          "kind": "piece",
+          "title": "The Dose Card",
+          "taxonomy": "place_the_unit.md"
+        },
+        {
+          "file": "piece_the_drip.md",
+          "kind": "piece",
+          "title": "The Drip",
+          "taxonomy": "place_the_unit.md"
+        },
+        {
+          "file": "piece_the_signed_page.md",
+          "kind": "piece",
+          "title": "The Signed Page",
+          "taxonomy": "place_the_unit.md"
+        },
+        {
+          "file": "pitch_nobody_lied.md",
+          "kind": "pitch",
+          "title": "Nobody Lied",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "place_the_casebook.md",
+          "kind": "place",
+          "title": "The Casebook",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "place_the_unit.md",
+          "kind": "place",
+          "title": "The Unit",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "plan_finish_the_steps.md",
+          "kind": "plan",
+          "title": "Finish the Steps",
+          "taxonomy": "persona_the_protocol.md"
+        },
+        {
+          "file": "plan_say_it_plainly.md",
+          "kind": "plan",
+          "title": "Say It Plainly",
+          "taxonomy": "persona_the_one_who_treats.md"
+        },
+        {
+          "file": "plan_take_the_place.md",
+          "kind": "plan",
+          "title": "Take the Place",
+          "taxonomy": "persona_the_enrolled.md"
+        },
+        {
+          "file": "play_treated_and_counted.md",
+          "kind": "play",
+          "title": "Treated and Counted"
+        },
+        {
+          "file": "plot_saying_it_harder.md",
+          "kind": "plot",
+          "title": "Saying It Harder",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "plot_signed_and_understood.md",
+          "kind": "plot",
+          "title": "Signed and Understood",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "plot_the_last_door.md",
+          "kind": "plot",
+          "title": "The Last Door",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "plot_the_rung_you_land_on.md",
+          "kind": "plot",
+          "title": "The Rung You Land On",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "plot_the_same_hour.md",
+          "kind": "plot",
+          "title": "The Same Hour",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "plot_what_it_was_for.md",
+          "kind": "plot",
+          "title": "What It Was For",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "position_enrolled.md",
+          "kind": "position",
+          "title": "Enrolled",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "position_one_after.md",
+          "kind": "position",
+          "title": "One After",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "position_one_who_treats.md",
+          "kind": "position",
+          "title": "One Who Treats",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "position_protocol.md",
+          "kind": "position",
+          "title": "Protocol",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "process_adding_up.md",
+          "kind": "process",
+          "title": "Adding Up",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "process_enrolling.md",
+          "kind": "process",
+          "title": "Enrolling",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "process_seeing_to.md",
+          "kind": "process",
+          "title": "Seeing To",
+          "taxonomy": "play_treated_and_counted.md"
+        },
+        {
+          "file": "process_stepping_up.md",
+          "kind": "process",
+          "title": "Stepping Up",
+          "taxonomy": "play_treated_and_counted.md"
         }
       ]
     },
