@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.221.0",
+  "version": "0.222.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -1317,6 +1317,185 @@
           "kind": "process",
           "title": "Serving",
           "taxonomy": "play_all_at_once.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "already_explained",
+      "title": "Already Explained",
+      "description": "A true diagnosis accounts for the new complaint, correctly and nearly always, so the other illness is never looked for.",
+      "members": [
+        {
+          "file": "persona_the_label.md",
+          "kind": "persona",
+          "title": "The Label",
+          "type": "archetype",
+          "taxonomy": "position_label.md"
+        },
+        {
+          "file": "persona_the_one_already_named.md",
+          "kind": "persona",
+          "title": "The One Already Named",
+          "type": "archetype",
+          "taxonomy": "position_one_already_named.md"
+        },
+        {
+          "file": "persona_the_one_who_explains.md",
+          "kind": "persona",
+          "title": "The One Who Explains",
+          "type": "archetype",
+          "taxonomy": "position_one_who_explains.md"
+        },
+        {
+          "file": "persona_the_other_illness.md",
+          "kind": "persona",
+          "title": "The Other Illness",
+          "type": "archetype",
+          "taxonomy": "position_other_illness.md"
+        },
+        {
+          "file": "piece_the_blank_form.md",
+          "kind": "piece",
+          "title": "The Blank Form",
+          "taxonomy": "place_the_small_room.md"
+        },
+        {
+          "file": "piece_the_discharge_letter.md",
+          "kind": "piece",
+          "title": "The Discharge Letter",
+          "taxonomy": "place_the_notes.md"
+        },
+        {
+          "file": "piece_the_heading.md",
+          "kind": "piece",
+          "title": "The Heading",
+          "taxonomy": "place_the_notes.md"
+        },
+        {
+          "file": "pitch_it_usually_is.md",
+          "kind": "pitch",
+          "title": "It Usually Is",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "place_the_notes.md",
+          "kind": "place",
+          "title": "The Notes",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "place_the_small_room.md",
+          "kind": "place",
+          "title": "The Small Room",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "plan_account_for_it.md",
+          "kind": "plan",
+          "title": "Account for It",
+          "taxonomy": "persona_the_one_who_explains.md"
+        },
+        {
+          "file": "plan_look_as_if_it_were_new.md",
+          "kind": "plan",
+          "title": "Look as If It Were New",
+          "taxonomy": "persona_the_one_who_explains.md"
+        },
+        {
+          "file": "plan_say_it_again.md",
+          "kind": "plan",
+          "title": "Say It Again",
+          "taxonomy": "persona_the_one_already_named.md"
+        },
+        {
+          "file": "play_already_explained.md",
+          "kind": "play",
+          "title": "Already Explained"
+        },
+        {
+          "file": "plot_a_name_already_there.md",
+          "kind": "plot",
+          "title": "A Name Already There",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "plot_as_if_it_were_new.md",
+          "kind": "plot",
+          "title": "As If It Were New",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "plot_it_fits_what_we_know.md",
+          "kind": "plot",
+          "title": "It Fits What We Know",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "plot_right_nearly_every_time.md",
+          "kind": "plot",
+          "title": "Right Nearly Every Time",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "plot_the_one_nobody_looked_for.md",
+          "kind": "plot",
+          "title": "The One Nobody Looked For",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "plot_told_and_not_weighed.md",
+          "kind": "plot",
+          "title": "Told and Not Weighed",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "position_label.md",
+          "kind": "position",
+          "title": "Label",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "position_one_already_named.md",
+          "kind": "position",
+          "title": "One Already Named",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "position_one_who_explains.md",
+          "kind": "position",
+          "title": "One Who Explains",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "position_other_illness.md",
+          "kind": "position",
+          "title": "Other Illness",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "process_absorbing.md",
+          "kind": "process",
+          "title": "Absorbing",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "process_accounting_for_it.md",
+          "kind": "process",
+          "title": "Accounting For It",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "process_closing_the_episode.md",
+          "kind": "process",
+          "title": "Closing the Episode",
+          "taxonomy": "play_already_explained.md"
+        },
+        {
+          "file": "process_weighing_light.md",
+          "kind": "process",
+          "title": "Weighing Light",
+          "taxonomy": "play_already_explained.md"
         }
       ]
     },
