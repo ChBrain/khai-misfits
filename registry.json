@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.229.0",
+  "version": "0.230.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -9136,6 +9136,198 @@
           "kind": "process",
           "title": "Questioning",
           "taxonomy": "play_i_know_how_it_works.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "i_would_know_him_anywhere",
+      "title": "I Would Know Him Anywhere",
+      "description": "Face memory is built by exposure, so an honest witness is worse across the line, and just as sure either way.",
+      "members": [
+        {
+          "file": "persona_the_one_in_the_row.md",
+          "kind": "persona",
+          "title": "The One in the Row",
+          "type": "archetype",
+          "taxonomy": "position_one_in_the_row.md"
+        },
+        {
+          "file": "persona_the_one_who_runs_it.md",
+          "kind": "persona",
+          "title": "The One Who Runs It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_runs_it.md"
+        },
+        {
+          "file": "persona_the_one_who_saw.md",
+          "kind": "persona",
+          "title": "The One Who Saw",
+          "type": "archetype",
+          "taxonomy": "position_one_who_saw.md"
+        },
+        {
+          "file": "persona_the_twelve.md",
+          "kind": "persona",
+          "title": "The Twelve",
+          "type": "archetype",
+          "taxonomy": "position_twelve.md"
+        },
+        {
+          "file": "persona_the_years_of_looking.md",
+          "kind": "persona",
+          "title": "The Years of Looking",
+          "type": "archetype",
+          "taxonomy": "position_years_of_looking.md"
+        },
+        {
+          "file": "piece_the_charge_to_the_jury.md",
+          "kind": "piece",
+          "title": "The Charge to the Jury",
+          "taxonomy": "place_the_witness_box.md"
+        },
+        {
+          "file": "piece_the_row_of_photographs.md",
+          "kind": "piece",
+          "title": "The Row of Photographs",
+          "taxonomy": "place_the_viewing_room.md"
+        },
+        {
+          "file": "piece_the_words_at_the_time.md",
+          "kind": "piece",
+          "title": "The Words at the Time",
+          "taxonomy": "place_the_viewing_room.md"
+        },
+        {
+          "file": "pitch_nobody_is_lying.md",
+          "kind": "pitch",
+          "title": "Nobody Is Lying",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "place_the_viewing_room.md",
+          "kind": "place",
+          "title": "The Viewing Room",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "place_the_witness_box.md",
+          "kind": "place",
+          "title": "The Witness Box",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "plan_find_him.md",
+          "kind": "plan",
+          "title": "Find Him",
+          "taxonomy": "persona_the_one_who_runs_it.md"
+        },
+        {
+          "file": "plan_get_it_right_this_time.md",
+          "kind": "plan",
+          "title": "Get It Right This Time",
+          "taxonomy": "persona_the_twelve.md"
+        },
+        {
+          "file": "plan_tell_them_what_you_saw.md",
+          "kind": "plan",
+          "title": "Tell Them What You Saw",
+          "taxonomy": "persona_the_one_who_saw.md"
+        },
+        {
+          "file": "play_i_would_know_him_anywhere.md",
+          "kind": "play",
+          "title": "I Would Know Him Anywhere"
+        },
+        {
+          "file": "plot_a_stranger_for_nine_seconds.md",
+          "kind": "plot",
+          "title": "A Stranger, for Nine Seconds",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "plot_as_sure_as_anyone.md",
+          "kind": "plot",
+          "title": "As Sure as Anyone",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "plot_built_by_what_you_saw.md",
+          "kind": "plot",
+          "title": "Built by What You Saw",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "plot_number_four.md",
+          "kind": "plot",
+          "title": "Number Four",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "plot_the_cost_of_warning_them.md",
+          "kind": "plot",
+          "title": "The Cost of Warning Them",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "plot_the_only_instrument_in_the_room.md",
+          "kind": "plot",
+          "title": "The Only Instrument in the Room",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "position_one_in_the_row.md",
+          "kind": "position",
+          "title": "One in the Row",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "position_one_who_runs_it.md",
+          "kind": "position",
+          "title": "One Who Runs It",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "position_one_who_saw.md",
+          "kind": "position",
+          "title": "One Who Saw",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "position_twelve.md",
+          "kind": "position",
+          "title": "Twelve",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "position_years_of_looking.md",
+          "kind": "position",
+          "title": "Years of Looking",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "process_firming_up.md",
+          "kind": "process",
+          "title": "Firming Up",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "process_learning_faces.md",
+          "kind": "process",
+          "title": "Learning Faces",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "process_picking_one.md",
+          "kind": "process",
+          "title": "Picking One",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
+        },
+        {
+          "file": "process_seeing_it_happen.md",
+          "kind": "process",
+          "title": "Seeing It Happen",
+          "taxonomy": "play_i_would_know_him_anywhere.md"
         }
       ]
     },
