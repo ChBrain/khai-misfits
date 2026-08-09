@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.231.0",
+  "version": "0.232.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -6952,6 +6952,198 @@
           "kind": "process",
           "title": "Watching",
           "taxonomy": "play_exactly_how_far.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "exactly_one_kilogram",
+      "title": "Exactly One Kilogram",
+      "description": "The object that defined the unit could not weigh wrong, so when it drifted the whole world got heavier instead.",
+      "members": [
+        {
+          "file": "persona_everything_weighed.md",
+          "kind": "persona",
+          "title": "Everything Weighed",
+          "type": "archetype",
+          "taxonomy": "position_everything_on_the_chain.md"
+        },
+        {
+          "file": "persona_the_cylinder.md",
+          "kind": "persona",
+          "title": "The Cylinder",
+          "type": "archetype",
+          "taxonomy": "position_cylinder.md"
+        },
+        {
+          "file": "persona_the_keepers.md",
+          "kind": "persona",
+          "title": "The Keepers",
+          "type": "archetype",
+          "taxonomy": "position_keepers.md"
+        },
+        {
+          "file": "persona_the_six.md",
+          "kind": "persona",
+          "title": "The Six",
+          "type": "archetype",
+          "taxonomy": "position_six.md"
+        },
+        {
+          "file": "persona_the_washing.md",
+          "kind": "persona",
+          "title": "The Washing",
+          "type": "archetype",
+          "taxonomy": "position_washing.md"
+        },
+        {
+          "file": "piece_the_bell_jars.md",
+          "kind": "piece",
+          "title": "The Bell Jars",
+          "taxonomy": "place_the_safe_at_sevres.md"
+        },
+        {
+          "file": "piece_the_chamois_and_the_ether.md",
+          "kind": "piece",
+          "title": "The Chamois and the Ether",
+          "taxonomy": "place_the_comparison_room.md"
+        },
+        {
+          "file": "piece_the_fixed_number.md",
+          "kind": "piece",
+          "title": "The Fixed Number",
+          "taxonomy": "place_the_comparison_room.md"
+        },
+        {
+          "file": "pitch_nothing_to_check_it_against.md",
+          "kind": "pitch",
+          "title": "Nothing to Check It Against",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "place_the_comparison_room.md",
+          "kind": "place",
+          "title": "The Comparison Room",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "place_the_safe_at_sevres.md",
+          "kind": "place",
+          "title": "The Safe at Sevres",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "plan_fix_it_to_the_universe.md",
+          "kind": "plan",
+          "title": "Fix It to the Universe",
+          "taxonomy": "persona_the_keepers.md"
+        },
+        {
+          "file": "plan_keep_it_safe.md",
+          "kind": "plan",
+          "title": "Keep It Safe",
+          "taxonomy": "persona_the_keepers.md"
+        },
+        {
+          "file": "plan_wash_it_first.md",
+          "kind": "plan",
+          "title": "Wash It First",
+          "taxonomy": "persona_the_washing.md"
+        },
+        {
+          "file": "play_exactly_one_kilogram.md",
+          "kind": "play",
+          "title": "Exactly One Kilogram"
+        },
+        {
+          "file": "plot_everything_else_got_heavier.md",
+          "kind": "plot",
+          "title": "Everything Else Got Heavier",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "plot_frozen_not_fixed.md",
+          "kind": "plot",
+          "title": "Frozen, Not Fixed",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "plot_it_weighs_what_it_weighs.md",
+          "kind": "plot",
+          "title": "It Weighs What It Weighs",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "plot_seventeen_micrograms_of_washing.md",
+          "kind": "plot",
+          "title": "Seventeen Micrograms of Washing",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "plot_they_have_come_apart.md",
+          "kind": "plot",
+          "title": "They Have Come Apart",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "plot_three_times_in_a_hundred_years.md",
+          "kind": "plot",
+          "title": "Three Times in a Hundred Years",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "position_cylinder.md",
+          "kind": "position",
+          "title": "Cylinder",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "position_everything_on_the_chain.md",
+          "kind": "position",
+          "title": "Everything on the Chain",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "position_keepers.md",
+          "kind": "position",
+          "title": "Keepers",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "position_six.md",
+          "kind": "position",
+          "title": "Six",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "position_washing.md",
+          "kind": "position",
+          "title": "Washing",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "process_fixing_the_constant.md",
+          "kind": "process",
+          "title": "Fixing the Constant",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "process_sitting_still.md",
+          "kind": "process",
+          "title": "Sitting Still",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "process_taking_it_out.md",
+          "kind": "process",
+          "title": "Taking It Out",
+          "taxonomy": "play_exactly_one_kilogram.md"
+        },
+        {
+          "file": "process_weighing_them_against_each_other.md",
+          "kind": "process",
+          "title": "Weighing Them Against Each Other",
+          "taxonomy": "play_exactly_one_kilogram.md"
         }
       ]
     },

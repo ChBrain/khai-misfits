@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 231 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 232 misfits, 1069 scholars.
 
 ## By science
 
@@ -1543,6 +1543,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `early_and_uncounted` | George C. Williams; Peter Medawar; W. D. Hamilton; Michael R. Rose and Brian Charlesworth |
 | `everybodys_business` | Darley & Latané; Latané, Williams & Harkins; Thompson; Fischer et al.; Walton; Practitioner |
 | `exactly_how_far` | Glenn Snyder; Thomas J. Christensen, Jack Snyder; Thomas Schelling; Robert Jervis, John Herz; Michael Beckley; Practitioner |
+| `exactly_one_kilogram` | The artefact definition; The measured divergence; The causes of drift; The cleaning inside the definition; The redefinition |
 | `fair_warning` | Hans-Werner Sinn; Harold Hotelling; Practitioner |
 | `faster_than_it_can_cool` | Nikolay Semenov; David Frank-Kamenetskii; Feng, Ouyang, and colleagues; Practitioner |
 | `first_do_harm` | Illich; Illich; Rochon & Gurwitz; Boundary of the effect |
