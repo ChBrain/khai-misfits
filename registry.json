@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.233.0",
+  "version": "0.234.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -47602,6 +47602,198 @@
           "kind": "process",
           "title": "Reneging",
           "taxonomy": "play_time_inconsistency.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "time_ran_while_you_were_well",
+      "title": "Time Ran While You Were Well",
+      "description": "The clock runs from the act, so the slowest harms to appear are the ones the law most reliably refuses to hear.",
+      "members": [
+        {
+          "file": "persona_the_clock_that_started_then.md",
+          "kind": "persona",
+          "title": "The Clock That Started Then",
+          "type": "archetype",
+          "taxonomy": "position_clock_that_started_then.md"
+        },
+        {
+          "file": "persona_the_evidence_that_went.md",
+          "kind": "persona",
+          "title": "The Evidence That Went",
+          "type": "archetype",
+          "taxonomy": "position_evidence_that_went.md"
+        },
+        {
+          "file": "persona_the_one_who_did_it.md",
+          "kind": "persona",
+          "title": "The One Who Did It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_did_it.md"
+        },
+        {
+          "file": "persona_the_one_who_did_not_know.md",
+          "kind": "persona",
+          "title": "The One Who Did Not Know",
+          "type": "archetype",
+          "taxonomy": "position_one_who_did_not_know.md"
+        },
+        {
+          "file": "persona_the_one_who_must_say_no.md",
+          "kind": "persona",
+          "title": "The One Who Must Say No",
+          "type": "archetype",
+          "taxonomy": "position_one_who_must_say_no.md"
+        },
+        {
+          "file": "piece_the_discovery_rule.md",
+          "kind": "piece",
+          "title": "The Discovery Rule",
+          "taxonomy": "place_the_preliminary_point.md"
+        },
+        {
+          "file": "piece_the_retention_schedule.md",
+          "kind": "piece",
+          "title": "The Retention Schedule",
+          "taxonomy": "place_the_records_room.md"
+        },
+        {
+          "file": "piece_the_statute_of_repose.md",
+          "kind": "piece",
+          "title": "The Statute of Repose",
+          "taxonomy": "place_the_preliminary_point.md"
+        },
+        {
+          "file": "pitch_nothing_was_concealed.md",
+          "kind": "pitch",
+          "title": "Nothing Was Concealed",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "place_the_preliminary_point.md",
+          "kind": "place",
+          "title": "The Preliminary Point",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "place_the_records_room.md",
+          "kind": "place",
+          "title": "The Records Room",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "plan_bring_it_anyway.md",
+          "kind": "plan",
+          "title": "Bring It Anyway",
+          "taxonomy": "persona_the_one_who_did_not_know.md"
+        },
+        {
+          "file": "plan_close_the_books.md",
+          "kind": "plan",
+          "title": "Close the Books",
+          "taxonomy": "persona_the_one_who_did_it.md"
+        },
+        {
+          "file": "plan_start_the_clock_later.md",
+          "kind": "plan",
+          "title": "Start the Clock Later",
+          "taxonomy": "persona_the_one_who_must_say_no.md"
+        },
+        {
+          "file": "play_time_ran_while_you_were_well.md",
+          "kind": "play",
+          "title": "Time Ran While You Were Well"
+        },
+        {
+          "file": "plot_a_reason_to_close_the_books.md",
+          "kind": "plot",
+          "title": "A Reason to Close the Books",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "plot_forty_years_of_nothing.md",
+          "kind": "plot",
+          "title": "Forty Years of Nothing",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "plot_right_and_out_of_time.md",
+          "kind": "plot",
+          "title": "Right, and Out of Time",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "plot_running_from_the_wrong_day.md",
+          "kind": "plot",
+          "title": "Running From the Wrong Day",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "plot_the_point_is_taken.md",
+          "kind": "plot",
+          "title": "The Point Is Taken",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "plot_when_should_you_have_known.md",
+          "kind": "plot",
+          "title": "When Should You Have Known",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "position_clock_that_started_then.md",
+          "kind": "position",
+          "title": "Clock That Started Then",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "position_evidence_that_went.md",
+          "kind": "position",
+          "title": "Evidence That Went",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "position_one_who_did_it.md",
+          "kind": "position",
+          "title": "One Who Did It",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "position_one_who_did_not_know.md",
+          "kind": "position",
+          "title": "One Who Did Not Know",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "position_one_who_must_say_no.md",
+          "kind": "position",
+          "title": "One Who Must Say No",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "process_finding_out.md",
+          "kind": "process",
+          "title": "Finding Out",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "process_growing_quietly.md",
+          "kind": "process",
+          "title": "Growing Quietly",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "process_running_from_the_act.md",
+          "kind": "process",
+          "title": "Running from the Act",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
+        },
+        {
+          "file": "process_taking_the_point.md",
+          "kind": "process",
+          "title": "Taking the Point",
+          "taxonomy": "play_time_ran_while_you_were_well.md"
         }
       ]
     },

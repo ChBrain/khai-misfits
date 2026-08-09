@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 233 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 234 misfits, 1069 scholars.
 
 ## By science
 
@@ -1730,6 +1730,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `the_worst_and_the_last` | Fredrickson and Kahneman; Kahneman, Fredrickson, Schreiber and Redelmeier; Redelmeier and Kahneman; Redelmeier, Katz and Kahneman; Kahneman |
 | `the_youngest_in_the_room` | The founding study; The breadth; The mechanism after selection; The diagnostic strand; The control that settles it |
 | `time_inconsistency` | Kydland & Prescott; Strotz; Schelling; Barro & Gordon; Rogoff; Practitioner |
+| `time_ran_while_you_were_well` | The rationale for the bar; The latency; The consequence without a fix; The correction; The limit of the correction |
 | `too_dear_to_fake` | Michael Spence; Amotz Zahavi; Alan Grafen; Thorstein Veblen; George Akerlof (contrast); Practitioner |
 | `too_kind_to_drop` | Jim Gettys and Kathleen Nichols; Kathleen Nichols and Van Jacobson; Practitioner |
 | `too_much_to_ask` | Moynihan, Herd, and Harbage; Herd and Moynihan; Cass Sunstein; Take-up / practice |
