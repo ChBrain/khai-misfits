@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.220.0",
+  "version": "0.221.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -5684,6 +5684,185 @@
           "kind": "process",
           "title": "Worsening",
           "taxonomy": "play_dont_look.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "dry_enough_to_build_on",
+      "title": "Dry Enough to Build On",
+      "description": "A wall keeps the small floods out, so the plain behind it fills up, and the flood it cannot stop finds a town.",
+      "members": [
+        {
+          "file": "persona_the_bigger_water.md",
+          "kind": "persona",
+          "title": "The Bigger Water",
+          "type": "archetype",
+          "taxonomy": "position_bigger_water.md"
+        },
+        {
+          "file": "persona_the_last_flood.md",
+          "kind": "persona",
+          "title": "The Last Flood",
+          "type": "archetype",
+          "taxonomy": "position_last_flood.md"
+        },
+        {
+          "file": "persona_the_one_who_builds_there.md",
+          "kind": "persona",
+          "title": "The One Who Builds There",
+          "type": "archetype",
+          "taxonomy": "position_one_who_builds_there.md"
+        },
+        {
+          "file": "persona_the_one_who_raised_it.md",
+          "kind": "persona",
+          "title": "The One Who Raised It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_raised_it.md"
+        },
+        {
+          "file": "piece_the_deed.md",
+          "kind": "piece",
+          "title": "The Deed",
+          "taxonomy": "place_the_dry_side.md"
+        },
+        {
+          "file": "piece_the_design_flood.md",
+          "kind": "piece",
+          "title": "The Design Flood",
+          "taxonomy": "place_the_crest.md"
+        },
+        {
+          "file": "piece_the_old_mark.md",
+          "kind": "piece",
+          "title": "The Old Mark",
+          "taxonomy": "place_the_dry_side.md"
+        },
+        {
+          "file": "pitch_it_held_last_time.md",
+          "kind": "pitch",
+          "title": "It Held Last Time",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "place_the_crest.md",
+          "kind": "place",
+          "title": "The Crest",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "place_the_dry_side.md",
+          "kind": "place",
+          "title": "The Dry Side",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "plan_build_where_it_is_dry.md",
+          "kind": "plan",
+          "title": "Build Where It Is Dry",
+          "taxonomy": "persona_the_one_who_builds_there.md"
+        },
+        {
+          "file": "plan_hold_the_water_back.md",
+          "kind": "plan",
+          "title": "Hold the Water Back",
+          "taxonomy": "persona_the_one_who_raised_it.md"
+        },
+        {
+          "file": "plan_let_some_in.md",
+          "kind": "plan",
+          "title": "Let Some In",
+          "taxonomy": "persona_the_one_who_raised_it.md"
+        },
+        {
+          "file": "play_dry_enough_to_build_on.md",
+          "kind": "play",
+          "title": "Dry Enough to Build On"
+        },
+        {
+          "file": "plot_good_ground_now.md",
+          "kind": "plot",
+          "title": "Good Ground Now",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "plot_more_behind_it_every_year.md",
+          "kind": "plot",
+          "title": "More Behind It Every Year",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "plot_nobody_alive_remembers.md",
+          "kind": "plot",
+          "title": "Nobody Alive Remembers",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "plot_over_the_top.md",
+          "kind": "plot",
+          "title": "Over the Top",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "plot_room_for_the_water.md",
+          "kind": "plot",
+          "title": "Room for the Water",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "plot_the_wall_goes_up.md",
+          "kind": "plot",
+          "title": "The Wall Goes Up",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "position_bigger_water.md",
+          "kind": "position",
+          "title": "Bigger Water",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "position_last_flood.md",
+          "kind": "position",
+          "title": "Last Flood",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "position_one_who_builds_there.md",
+          "kind": "position",
+          "title": "One Who Builds There",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "position_one_who_raised_it.md",
+          "kind": "position",
+          "title": "One Who Raised It",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "process_filling_in.md",
+          "kind": "process",
+          "title": "Filling In",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "process_going_quiet.md",
+          "kind": "process",
+          "title": "Going Quiet",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "process_overtopping.md",
+          "kind": "process",
+          "title": "Overtopping",
+          "taxonomy": "play_dry_enough_to_build_on.md"
+        },
+        {
+          "file": "process_raising.md",
+          "kind": "process",
+          "title": "Raising",
+          "taxonomy": "play_dry_enough_to_build_on.md"
         }
       ]
     },
