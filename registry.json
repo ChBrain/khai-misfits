@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.222.0",
+  "version": "0.223.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -47680,6 +47680,185 @@
           "kind": "process",
           "title": "Roll-up",
           "taxonomy": "play_watermelon_reporting.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "what_the_water_leaves",
+      "title": "What the Water Leaves",
+      "description": "The crop and the sun take the water, the salt it carried stays, so watering the field well is what ruins it.",
+      "members": [
+        {
+          "file": "persona_the_hardier_grain.md",
+          "kind": "persona",
+          "title": "The Hardier Grain",
+          "type": "archetype",
+          "taxonomy": "position_hardier_grain.md"
+        },
+        {
+          "file": "persona_the_one_who_waters.md",
+          "kind": "persona",
+          "title": "The One Who Waters",
+          "type": "archetype",
+          "taxonomy": "position_one_who_waters.md"
+        },
+        {
+          "file": "persona_the_salt.md",
+          "kind": "persona",
+          "title": "The Salt",
+          "type": "archetype",
+          "taxonomy": "position_salt.md"
+        },
+        {
+          "file": "persona_the_white_ground.md",
+          "kind": "persona",
+          "title": "The White Ground",
+          "type": "archetype",
+          "taxonomy": "position_white_ground.md"
+        },
+        {
+          "file": "piece_the_head_ditch.md",
+          "kind": "piece",
+          "title": "The Head Ditch",
+          "taxonomy": "place_the_watered_field.md"
+        },
+        {
+          "file": "piece_the_seed_sack.md",
+          "kind": "piece",
+          "title": "The Seed Sack",
+          "taxonomy": "place_the_watered_field.md"
+        },
+        {
+          "file": "piece_the_white_bloom.md",
+          "kind": "piece",
+          "title": "The White Bloom",
+          "taxonomy": "place_the_watered_field.md"
+        },
+        {
+          "file": "pitch_sweet_enough_to_pour.md",
+          "kind": "pitch",
+          "title": "Sweet Enough to Pour",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "place_the_water_below.md",
+          "kind": "place",
+          "title": "The Water Below",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "place_the_watered_field.md",
+          "kind": "place",
+          "title": "The Watered Field",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "plan_sow_the_hardier_kind.md",
+          "kind": "plan",
+          "title": "Sow the Hardier Kind",
+          "taxonomy": "persona_the_one_who_waters.md"
+        },
+        {
+          "file": "plan_wash_it_through.md",
+          "kind": "plan",
+          "title": "Wash It Through",
+          "taxonomy": "persona_the_one_who_waters.md"
+        },
+        {
+          "file": "plan_water_the_field.md",
+          "kind": "plan",
+          "title": "Water the Field",
+          "taxonomy": "persona_the_one_who_waters.md"
+        },
+        {
+          "file": "play_what_the_water_leaves.md",
+          "kind": "play",
+          "title": "What the Water Leaves"
+        },
+        {
+          "file": "plot_barley_instead.md",
+          "kind": "plot",
+          "title": "Barley Instead",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "plot_good_water_on_good_ground.md",
+          "kind": "plot",
+          "title": "Good Water on Good Ground",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "plot_the_water_comes_up.md",
+          "kind": "plot",
+          "title": "The Water Comes Up",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "plot_water_you_cannot_spare.md",
+          "kind": "plot",
+          "title": "Water You Cannot Spare",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "plot_what_stays.md",
+          "kind": "plot",
+          "title": "What Stays",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "plot_white_in_the_morning.md",
+          "kind": "plot",
+          "title": "White in the Morning",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "position_hardier_grain.md",
+          "kind": "position",
+          "title": "Hardier Grain",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "position_one_who_waters.md",
+          "kind": "position",
+          "title": "One Who Waters",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "position_salt.md",
+          "kind": "position",
+          "title": "Salt",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "position_white_ground.md",
+          "kind": "position",
+          "title": "White Ground",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "process_changing_the_seed.md",
+          "kind": "process",
+          "title": "Changing the Seed",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "process_leaving_behind.md",
+          "kind": "process",
+          "title": "Leaving Behind",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "process_rising.md",
+          "kind": "process",
+          "title": "Rising",
+          "taxonomy": "play_what_the_water_leaves.md"
+        },
+        {
+          "file": "process_watering.md",
+          "kind": "process",
+          "title": "Watering",
+          "taxonomy": "play_what_the_water_leaves.md"
         }
       ]
     },
