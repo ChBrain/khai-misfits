@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.240.0",
+  "version": "0.241.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -26426,6 +26426,198 @@
           "kind": "process",
           "title": "Resolving",
           "taxonomy": "play_starting_tomorrow.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "stopped_for_benefit",
+      "title": "Stopped for Benefit",
+      "description": "A trial must stop when one arm looks clearly better, so the trials that stop are the ones where chance helped most.",
+      "members": [
+        {
+          "file": "persona_the_board_that_must_stop_it.md",
+          "kind": "persona",
+          "title": "The Board That Must Stop It",
+          "type": "archetype",
+          "taxonomy": "position_board_that_must_stop_it.md"
+        },
+        {
+          "file": "persona_the_early_estimate.md",
+          "kind": "persona",
+          "title": "The Early Estimate",
+          "type": "archetype",
+          "taxonomy": "position_early_estimate.md"
+        },
+        {
+          "file": "persona_the_interim_look.md",
+          "kind": "persona",
+          "title": "The Interim Look",
+          "type": "archetype",
+          "taxonomy": "position_interim_look.md"
+        },
+        {
+          "file": "persona_the_one_randomised_next.md",
+          "kind": "persona",
+          "title": "The One Randomised Next",
+          "type": "archetype",
+          "taxonomy": "position_one_randomised_next.md"
+        },
+        {
+          "file": "persona_the_one_treated_after.md",
+          "kind": "persona",
+          "title": "The One Treated After",
+          "type": "archetype",
+          "taxonomy": "position_one_treated_after.md"
+        },
+        {
+          "file": "piece_the_crossover.md",
+          "kind": "piece",
+          "title": "The Crossover",
+          "taxonomy": "place_the_prescribing_guideline.md"
+        },
+        {
+          "file": "piece_the_event_count.md",
+          "kind": "piece",
+          "title": "The Event Count",
+          "taxonomy": "place_the_closed_session.md"
+        },
+        {
+          "file": "piece_the_stopping_boundary.md",
+          "kind": "piece",
+          "title": "The Stopping Boundary",
+          "taxonomy": "place_the_closed_session.md"
+        },
+        {
+          "file": "pitch_nobody_could_let_it_run.md",
+          "kind": "pitch",
+          "title": "Nobody Could Let It Run",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "place_the_closed_session.md",
+          "kind": "place",
+          "title": "The Closed Session",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "place_the_prescribing_guideline.md",
+          "kind": "place",
+          "title": "The Prescribing Guideline",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "plan_get_a_reliable_answer.md",
+          "kind": "plan",
+          "title": "Get a Reliable Answer",
+          "taxonomy": "persona_the_early_estimate.md"
+        },
+        {
+          "file": "plan_protect_the_ones_inside.md",
+          "kind": "plan",
+          "title": "Protect the Ones Inside",
+          "taxonomy": "persona_the_board_that_must_stop_it.md"
+        },
+        {
+          "file": "plan_wait_for_the_events.md",
+          "kind": "plan",
+          "title": "Wait for the Events",
+          "taxonomy": "persona_the_board_that_must_stop_it.md"
+        },
+        {
+          "file": "play_stopped_for_benefit.md",
+          "kind": "play",
+          "title": "Stopped for Benefit"
+        },
+        {
+          "file": "plot_a_line_drawn_in_advance.md",
+          "kind": "plot",
+          "title": "A Line Drawn in Advance",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "plot_larger_than_it_was.md",
+          "kind": "plot",
+          "title": "Larger Than It Was",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "plot_somebody_has_to_watch.md",
+          "kind": "plot",
+          "title": "Somebody Has to Watch",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "plot_the_luckiest_look_crosses_first.md",
+          "kind": "plot",
+          "title": "The Luckiest Look Crosses First",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "plot_what_it_costs_to_be_sure.md",
+          "kind": "plot",
+          "title": "What It Costs to Be Sure",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "plot_you_cannot_randomise_the_next_one.md",
+          "kind": "plot",
+          "title": "You Cannot Randomise the Next One",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "position_board_that_must_stop_it.md",
+          "kind": "position",
+          "title": "Board That Must Stop It",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "position_early_estimate.md",
+          "kind": "position",
+          "title": "Early Estimate",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "position_interim_look.md",
+          "kind": "position",
+          "title": "Interim Look",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "position_one_randomised_next.md",
+          "kind": "position",
+          "title": "One Randomised Next",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "position_one_treated_after.md",
+          "kind": "position",
+          "title": "One Treated After",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "process_carrying_the_number_forward.md",
+          "kind": "process",
+          "title": "Carrying the Number Forward",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "process_crossing_the_boundary.md",
+          "kind": "process",
+          "title": "Crossing the Boundary",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "process_looking_early.md",
+          "kind": "process",
+          "title": "Looking Early",
+          "taxonomy": "play_stopped_for_benefit.md"
+        },
+        {
+          "file": "process_stopping_it.md",
+          "kind": "process",
+          "title": "Stopping It",
+          "taxonomy": "play_stopped_for_benefit.md"
         }
       ]
     },
