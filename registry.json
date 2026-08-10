@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.241.0",
+  "version": "0.242.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -8825,6 +8825,198 @@
           "kind": "process",
           "title": "Triggering",
           "taxonomy": "play_good_enough_to_hold.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "good_for_anyone",
+      "title": "Good for Anyone",
+      "description": "Blood that suits everyone is spent on everyone, so the few who can take nothing else are the ones it runs out for.",
+      "members": [
+        {
+          "file": "persona_the_blood_that_suits_everybody.md",
+          "kind": "persona",
+          "title": "The Blood That Suits Everybody",
+          "type": "archetype",
+          "taxonomy": "position_blood_that_suits_everybody.md"
+        },
+        {
+          "file": "persona_the_one_who_can_take_anything_else.md",
+          "kind": "persona",
+          "title": "The One Who Can Take Anything Else",
+          "type": "archetype",
+          "taxonomy": "position_one_who_can_take_anything_else.md"
+        },
+        {
+          "file": "persona_the_one_who_can_take_only_this.md",
+          "kind": "persona",
+          "title": "The One Who Can Take Only This",
+          "type": "archetype",
+          "taxonomy": "position_one_who_can_take_only_this.md"
+        },
+        {
+          "file": "persona_the_one_who_cannot_wait.md",
+          "kind": "persona",
+          "title": "The One Who Cannot Wait",
+          "type": "archetype",
+          "taxonomy": "position_one_who_cannot_wait.md"
+        },
+        {
+          "file": "persona_the_one_who_gives_it.md",
+          "kind": "persona",
+          "title": "The One Who Gives It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_gives_it.md"
+        },
+        {
+          "file": "piece_the_change_over.md",
+          "kind": "piece",
+          "title": "The Change Over",
+          "taxonomy": "place_the_fridge.md"
+        },
+        {
+          "file": "piece_the_crossmatch.md",
+          "kind": "piece",
+          "title": "The Crossmatch",
+          "taxonomy": "place_the_fridge.md"
+        },
+        {
+          "file": "piece_the_emergency_unit.md",
+          "kind": "piece",
+          "title": "The Emergency Unit",
+          "taxonomy": "place_the_resuscitation_bay.md"
+        },
+        {
+          "file": "pitch_nobody_took_it_from_them.md",
+          "kind": "pitch",
+          "title": "Nobody Took It From Them",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "place_the_fridge.md",
+          "kind": "place",
+          "title": "The Fridge",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "place_the_resuscitation_bay.md",
+          "kind": "place",
+          "title": "The Resuscitation Bay",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "plan_give_it_now.md",
+          "kind": "plan",
+          "title": "Give It Now",
+          "taxonomy": "persona_the_one_who_cannot_wait.md"
+        },
+        {
+          "file": "plan_keep_some_back.md",
+          "kind": "plan",
+          "title": "Keep Some Back",
+          "taxonomy": "persona_the_one_who_can_take_only_this.md"
+        },
+        {
+          "file": "plan_type_them_faster.md",
+          "kind": "plan",
+          "title": "Type Them Faster",
+          "taxonomy": "persona_the_blood_that_suits_everybody.md"
+        },
+        {
+          "file": "play_good_for_anyone.md",
+          "kind": "play",
+          "title": "Good for Anyone"
+        },
+        {
+          "file": "plot_it_works_in_anybody.md",
+          "kind": "plot",
+          "title": "It Works in Anybody",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "plot_mostly_not_for_them.md",
+          "kind": "plot",
+          "title": "Mostly Not for Them",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "plot_no_time_to_ask.md",
+          "kind": "plot",
+          "title": "No Time to Ask",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "plot_seven_in_a_hundred.md",
+          "kind": "plot",
+          "title": "Seven in a Hundred",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "plot_somebody_waits_either_way.md",
+          "kind": "plot",
+          "title": "Somebody Waits Either Way",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "plot_switch_them_off_it.md",
+          "kind": "plot",
+          "title": "Switch Them Off It",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "position_blood_that_suits_everybody.md",
+          "kind": "position",
+          "title": "Blood That Suits Everybody",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "position_one_who_can_take_anything_else.md",
+          "kind": "position",
+          "title": "One Who Can Take Anything Else",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "position_one_who_can_take_only_this.md",
+          "kind": "position",
+          "title": "One Who Can Take Only This",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "position_one_who_cannot_wait.md",
+          "kind": "position",
+          "title": "One Who Cannot Wait",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "position_one_who_gives_it.md",
+          "kind": "position",
+          "title": "One Who Gives It",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "process_bleeding_now.md",
+          "kind": "process",
+          "title": "Bleeding Now",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "process_reaching_for_the_shelf.md",
+          "kind": "process",
+          "title": "Reaching for the Shelf",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "process_running_the_stock_down.md",
+          "kind": "process",
+          "title": "Running the Stock Down",
+          "taxonomy": "play_good_for_anyone.md"
+        },
+        {
+          "file": "process_typing_them.md",
+          "kind": "process",
+          "title": "Typing Them",
+          "taxonomy": "play_good_for_anyone.md"
         }
       ]
     },
