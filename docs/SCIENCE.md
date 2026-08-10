@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 244 misfits, 1070 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 245 misfits, 1070 scholars.
 
 ## By science
 
@@ -1565,6 +1565,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `information_cascade` | Bikhchandani, Hirshleifer & Welch; Banerjee; Welch; Anderson & Holt; Bikhchandani, Hirshleifer & Welch; Surowiecki (counterpoint) |
 | `it_saved_my_life` | Angela Raffle and J. A. Muir Gray; H. Gilbert Welch and William C. Black; H. Gilbert Welch, Lisa M. Schwartz and Steven Woloshin; Marvin Zelen and Manning Feinleib; John C. Bailar III |
 | `jevons_paradox` | Jevons; Khazzoom, Brookes; Greening, Greene & Difiglio; Sorrell; Alcott; Practitioner |
+| `just_keeping_their_feet` | The event; The mechanism; Why the case was set aside; The remedy; The continuing argument |
 | `kept_for_the_worst` | Kevin Outterson; Steven Projan; Practitioner |
 | `known_too_late` | Collingridge; Genus and Stirling; Guston and Sarewitz; Marchant, Allenby et al. |
 | `larger_in_the_looking` | Schkade and Kahneman; Kahneman, Krueger, Schkade, Schwarz and Stone; Wilson, Wheatley, Meyers, Gilbert and Axsom; Kahneman |

@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.244.0",
+  "version": "0.245.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -11274,6 +11274,198 @@
           "kind": "process",
           "title": "Rebounding",
           "taxonomy": "play_jevons_paradox.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "just_keeping_their_feet",
+      "title": "Just Keeping Their Feet",
+      "description": "Each walker only kept their balance, and the corrections they could not feel fed the sway that caused them.",
+      "members": [
+        {
+          "file": "persona_the_number_that_starts_it.md",
+          "kind": "persona",
+          "title": "The Number That Starts It",
+          "type": "archetype",
+          "taxonomy": "position_number_that_starts_it.md"
+        },
+        {
+          "file": "persona_the_ones_staying_upright.md",
+          "kind": "persona",
+          "title": "The Ones Staying Upright",
+          "type": "archetype",
+          "taxonomy": "position_ones_staying_upright.md"
+        },
+        {
+          "file": "persona_the_ones_who_checked_it.md",
+          "kind": "persona",
+          "title": "The Ones Who Checked It",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_checked_it.md"
+        },
+        {
+          "file": "persona_the_ones_who_closed_it.md",
+          "kind": "persona",
+          "title": "The Ones Who Closed It",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_closed_it.md"
+        },
+        {
+          "file": "persona_the_sideways_mode.md",
+          "kind": "persona",
+          "title": "The Sideways Mode",
+          "type": "archetype",
+          "taxonomy": "position_sideways_mode.md"
+        },
+        {
+          "file": "piece_the_balance_step.md",
+          "kind": "piece",
+          "title": "The Balance Step",
+          "taxonomy": "place_the_deck.md"
+        },
+        {
+          "file": "piece_the_damper.md",
+          "kind": "piece",
+          "title": "The Damper",
+          "taxonomy": "place_the_deck.md"
+        },
+        {
+          "file": "piece_the_vertical_check.md",
+          "kind": "piece",
+          "title": "The Vertical Check",
+          "taxonomy": "place_the_drawing_office.md"
+        },
+        {
+          "file": "pitch_nobody_pushed_it.md",
+          "kind": "pitch",
+          "title": "Nobody Pushed It",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "place_the_deck.md",
+          "kind": "place",
+          "title": "The Deck",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "place_the_drawing_office.md",
+          "kind": "place",
+          "title": "The Drawing Office",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "plan_build_it_light.md",
+          "kind": "plan",
+          "title": "Build It Light",
+          "taxonomy": "persona_the_ones_who_checked_it.md"
+        },
+        {
+          "file": "plan_fit_the_dampers.md",
+          "kind": "plan",
+          "title": "Fit the Dampers",
+          "taxonomy": "persona_the_ones_who_closed_it.md"
+        },
+        {
+          "file": "plan_get_across.md",
+          "kind": "plan",
+          "title": "Get Across",
+          "taxonomy": "persona_the_ones_staying_upright.md"
+        },
+        {
+          "file": "play_just_keeping_their_feet.md",
+          "kind": "play",
+          "title": "Just Keeping Their Feet"
+        },
+        {
+          "file": "plot_checked_against_the_famous_one.md",
+          "kind": "plot",
+          "title": "Checked Against the Famous One",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "plot_only_staying_upright.md",
+          "kind": "plot",
+          "title": "Only Staying Upright",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "plot_past_the_number.md",
+          "kind": "plot",
+          "title": "Past the Number",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "plot_the_deck_answers_back.md",
+          "kind": "plot",
+          "title": "The Deck Answers Back",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "plot_thirty_seven_dampers.md",
+          "kind": "plot",
+          "title": "Thirty-Seven Dampers",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "plot_two_days.md",
+          "kind": "plot",
+          "title": "Two Days",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "position_number_that_starts_it.md",
+          "kind": "position",
+          "title": "Number That Starts It",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "position_ones_staying_upright.md",
+          "kind": "position",
+          "title": "Ones Staying Upright",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "position_ones_who_checked_it.md",
+          "kind": "position",
+          "title": "Ones Who Checked It",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "position_ones_who_closed_it.md",
+          "kind": "position",
+          "title": "Ones Who Closed It",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "position_sideways_mode.md",
+          "kind": "position",
+          "title": "Sideways Mode",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "process_checking_it.md",
+          "kind": "process",
+          "title": "Checking It",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "process_damping_it.md",
+          "kind": "process",
+          "title": "Damping It",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "process_feeding_the_mode.md",
+          "kind": "process",
+          "title": "Feeding the Mode",
+          "taxonomy": "play_just_keeping_their_feet.md"
+        },
+        {
+          "file": "process_walking_on.md",
+          "kind": "process",
+          "title": "Walking On",
+          "taxonomy": "play_just_keeping_their_feet.md"
         }
       ]
     },
