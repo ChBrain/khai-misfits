@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 243 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 244 misfits, 1070 scholars.
 
 ## By science
 
@@ -136,6 +136,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | ↳ | `information_cascade` | "Learning from the Behavior of Others: Conformity, Fads, and Informational Cascades", Journal of Economic Perspectives (1998) <br><sub>Bikhchandani, Hirshleifer & Welch</sub> | The fragility: cascades rest on little information and shift abruptly when new public information arrives. The Fragility, the Turn. |
 | **Bilalic** | `the_good_move` | "Inflexibility of Experts: Reality or Myth? Quantifying the Einstellung Effect in Chess Masters" (Cognitive Psychology, 2008) <br><sub>Merim Bilalic, Peter McLeod and Fernand Gobet</sub> | The expertise grading: the quantification showing the effect strikes skilled players too, no mere failing of novices, since it is a ready familiar answer that blocks the better one and the practised are the ones who hold it, yet susceptibility falls as skill rises and the strongest players are caught least, so inflexibility in the expert is both reality and myth, the more a myth the deeper the skill. The Master. The Repertoire. |
 | ↳ | `the_good_move` | "Why Good Thoughts Block Better Ones: The Mechanism of the Pernicious Einstellung (Set) Effect" (Cognition, 2008) <br><sub>Merim Bilalic, Peter McLeod and Fernand Gobet</sub> | The mechanism: eye-tracking of chess players showing that a familiar solution, once found, holds the gaze on its own features, so the search for a better move is spent where the better move is not, the block attentional rather than a lazy stop. The Fixation. The pitch's hook. |
+| **Biomanipulation** | `back_to_where_it_was_fine` | removal of planktivorous and benthivorous fish to force the system back across the switch | The correction, and its price: an externally imposed switch rather than a system recovering, effective and dependent on external loading being low enough for the clear state to hold afterwards. |
 | **Black (Duncan)** | `the_crowded_middle` | "On the Rationale of Group Decision-making" (Journal of Political Economy, 1948) <br><sub>Duncan Black</sub> | The formalization: under majority rule with single-peaked preferences on one dimension, the median voter's ideal is the Condorcet winner, the point no majority can beat, so the median is the attractor the convergence homes to. The Median. |
 | ↳ | `whoever_asks_last` | "On the Rationale of Group Decision-making" (Journal of Political Economy, 1948) <br><sub>Duncan Black</sub> | The escape: if preferences are single-peaked on one dimension, majority rule has a Condorcet winner, the median voter's ideal with an odd electorate, and the cycle cannot form, so coherence is restored by restricting the domain. The one-dimensional release valve, and its price. |
 | **Black (William C)** | `it_saved_my_life` | "Overdiagnosis in Cancer" (Journal of the National Cancer Institute, 2010) <br><sub>H. Gilbert Welch and William C. Black</sub> | The overdiagnosis: screening detects disease that would never have caused symptoms or death, a real diagnosis of a harmless condition, indistinguishable at the catch from the lethal kind and unprovable in any single body. The Harmless Kind. Detecting. Crediting. |
@@ -1523,6 +1524,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `ask_me_when_it_hurts` | Loewenstein; Loewenstein; The visceral-influence and empathy-gap literature that followed |
 | `ask_the_one_who_sells` | Robert Evans; Milton Roemer; Thomas McGuire; Kenneth Arrow |
 | `back_to_even` | Hersh Shefrin, Meir Statman; Terrance Odean; Amos Tversky, Daniel Kahneman; Practitioner |
+| `back_to_where_it_was_fine` | The two states; The hysteresis; Why reduction alone fails; Internal loading; Biomanipulation |
 | `bad_coin` | Gresham, Macleod; Jevons; Rolnick & Weber; Akerlof; Practitioner |
 | `baumols_cost_disease` | Baumol & Bowen; Baumol; Baumol; Nordhaus; Practitioner |
 | `belt_and_braces` | Scott D. Sagan; Scott D. Sagan; Charles Perrow; Latane and Darley; Boundary of the effect |
