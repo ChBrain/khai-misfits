@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.243.0",
+  "version": "0.244.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -2559,6 +2559,198 @@
           "kind": "process",
           "title": "Ruling",
           "taxonomy": "play_back_to_even.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "back_to_where_it_was_fine",
+      "title": "Back to Where It Was Fine",
+      "description": "Nutrients tipped the lake, and cutting them back to the level that was fine before leaves it exactly as it is.",
+      "members": [
+        {
+          "file": "persona_the_load_that_went_in.md",
+          "kind": "persona",
+          "title": "The Load That Went In",
+          "type": "archetype",
+          "taxonomy": "position_load_that_went_in.md"
+        },
+        {
+          "file": "persona_the_one_who_sets_the_target.md",
+          "kind": "persona",
+          "title": "The One Who Sets the Target",
+          "type": "archetype",
+          "taxonomy": "position_one_who_sets_the_target.md"
+        },
+        {
+          "file": "persona_the_ones_who_paid_for_it.md",
+          "kind": "persona",
+          "title": "The Ones Who Paid for It",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_paid_for_it.md"
+        },
+        {
+          "file": "persona_the_sediment.md",
+          "kind": "persona",
+          "title": "The Sediment",
+          "type": "archetype",
+          "taxonomy": "position_sediment.md"
+        },
+        {
+          "file": "persona_the_two_states.md",
+          "kind": "persona",
+          "title": "The Two States",
+          "type": "archetype",
+          "taxonomy": "position_two_states.md"
+        },
+        {
+          "file": "piece_the_fish_removal.md",
+          "kind": "piece",
+          "title": "The Fish Removal",
+          "taxonomy": "place_the_shallow_water.md"
+        },
+        {
+          "file": "piece_the_sediment_store.md",
+          "kind": "piece",
+          "title": "The Sediment Store",
+          "taxonomy": "place_the_shallow_water.md"
+        },
+        {
+          "file": "piece_the_target_number.md",
+          "kind": "piece",
+          "title": "The Target Number",
+          "taxonomy": "place_the_catchment.md"
+        },
+        {
+          "file": "pitch_nobody_broke_a_promise.md",
+          "kind": "pitch",
+          "title": "Nobody Broke a Promise",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "place_the_catchment.md",
+          "kind": "place",
+          "title": "The Catchment",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "place_the_shallow_water.md",
+          "kind": "place",
+          "title": "The Shallow Water",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "plan_cut_the_load.md",
+          "kind": "plan",
+          "title": "Cut the Load",
+          "taxonomy": "persona_the_one_who_sets_the_target.md"
+        },
+        {
+          "file": "plan_go_into_the_lake.md",
+          "kind": "plan",
+          "title": "Go Into the Lake",
+          "taxonomy": "persona_the_one_who_sets_the_target.md"
+        },
+        {
+          "file": "plan_meet_the_number.md",
+          "kind": "plan",
+          "title": "Meet the Number",
+          "taxonomy": "persona_the_ones_who_paid_for_it.md"
+        },
+        {
+          "file": "play_back_to_where_it_was_fine.md",
+          "kind": "play",
+          "title": "Back to Where It Was Fine"
+        },
+        {
+          "file": "plot_back_to_the_old_number.md",
+          "kind": "plot",
+          "title": "Back to the Old Number",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "plot_every_pipe_was_permitted.md",
+          "kind": "plot",
+          "title": "Every Pipe Was Permitted",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "plot_going_in_after_it.md",
+          "kind": "plot",
+          "title": "Going In After It",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "plot_it_went_over.md",
+          "kind": "plot",
+          "title": "It Went Over",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "plot_the_lake_feeds_itself.md",
+          "kind": "plot",
+          "title": "The Lake Feeds Itself",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "plot_two_ways_to_be_a_lake.md",
+          "kind": "plot",
+          "title": "Two Ways to Be a Lake",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "position_load_that_went_in.md",
+          "kind": "position",
+          "title": "Load That Went In",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "position_one_who_sets_the_target.md",
+          "kind": "position",
+          "title": "One Who Sets the Target",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "position_ones_who_paid_for_it.md",
+          "kind": "position",
+          "title": "Ones Who Paid for It",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "position_sediment.md",
+          "kind": "position",
+          "title": "Sediment",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "position_two_states.md",
+          "kind": "position",
+          "title": "Two States",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "process_cutting_it_back.md",
+          "kind": "process",
+          "title": "Cutting It Back",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "process_holding_the_new_state.md",
+          "kind": "process",
+          "title": "Holding the New State",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "process_loading_it.md",
+          "kind": "process",
+          "title": "Loading It",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
+        },
+        {
+          "file": "process_tipping_over.md",
+          "kind": "process",
+          "title": "Tipping Over",
+          "taxonomy": "play_back_to_where_it_was_fine.md"
         }
       ]
     },
