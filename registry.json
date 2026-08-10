@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.239.0",
+  "version": "0.240.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -25816,6 +25816,198 @@
           "kind": "process",
           "title": "Vowing",
           "taxonomy": "play_someone_will_catch_me.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "sorry_is_evidence",
+      "title": "Sorry Is Evidence",
+      "description": "What the harmed person most wants to hear is the thing counsel must forbid, so silence is what sends them to court.",
+      "members": [
+        {
+          "file": "persona_the_one_who_asked_what_happened.md",
+          "kind": "persona",
+          "title": "The One Who Asked What Happened",
+          "type": "archetype",
+          "taxonomy": "position_one_who_asked_what_happened.md"
+        },
+        {
+          "file": "persona_the_one_who_guards_the_claim.md",
+          "kind": "persona",
+          "title": "The One Who Guards the Claim",
+          "type": "archetype",
+          "taxonomy": "position_one_who_guards_the_claim.md"
+        },
+        {
+          "file": "persona_the_one_who_wants_to_say_it.md",
+          "kind": "persona",
+          "title": "The One Who Wants to Say It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_wants_to_say_it.md"
+        },
+        {
+          "file": "persona_the_only_way_to_find_out.md",
+          "kind": "persona",
+          "title": "The Only Way to Find Out",
+          "type": "archetype",
+          "taxonomy": "position_only_way_to_find_out.md"
+        },
+        {
+          "file": "persona_the_statute_that_protects_the_words.md",
+          "kind": "persona",
+          "title": "The Statute That Protects the Words",
+          "type": "archetype",
+          "taxonomy": "position_statute_that_protects_the_words.md"
+        },
+        {
+          "file": "piece_the_early_offer.md",
+          "kind": "piece",
+          "title": "The Early Offer",
+          "taxonomy": "place_the_disclosure_list.md"
+        },
+        {
+          "file": "piece_the_expression_of_regret.md",
+          "kind": "piece",
+          "title": "The Expression of Regret",
+          "taxonomy": "place_the_bedside_conversation.md"
+        },
+        {
+          "file": "piece_the_incident_report.md",
+          "kind": "piece",
+          "title": "The Incident Report",
+          "taxonomy": "place_the_disclosure_list.md"
+        },
+        {
+          "file": "pitch_nobody_said_anything.md",
+          "kind": "pitch",
+          "title": "Nobody Said Anything",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "place_the_bedside_conversation.md",
+          "kind": "place",
+          "title": "The Bedside Conversation",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "place_the_disclosure_list.md",
+          "kind": "place",
+          "title": "The Disclosure List",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "plan_protect_the_claim.md",
+          "kind": "plan",
+          "title": "Protect the Claim",
+          "taxonomy": "persona_the_one_who_guards_the_claim.md"
+        },
+        {
+          "file": "plan_say_it_and_pay_it.md",
+          "kind": "plan",
+          "title": "Say It and Pay It",
+          "taxonomy": "persona_the_one_who_guards_the_claim.md"
+        },
+        {
+          "file": "plan_tell_them.md",
+          "kind": "plan",
+          "title": "Tell Them",
+          "taxonomy": "persona_the_one_who_wants_to_say_it.md"
+        },
+        {
+          "file": "play_sorry_is_evidence.md",
+          "kind": "play",
+          "title": "Sorry Is Evidence"
+        },
+        {
+          "file": "plot_do_not_say_sorry.md",
+          "kind": "plot",
+          "title": "Do Not Say Sorry",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "plot_it_told_them_something.md",
+          "kind": "plot",
+          "title": "It Told Them Something",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "plot_so_they_issued_a_claim.md",
+          "kind": "plot",
+          "title": "So They Issued a Claim",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "plot_the_offer_that_comes_with_it.md",
+          "kind": "plot",
+          "title": "The Offer That Comes With It",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "plot_the_words_are_protected_the_facts_are_not.md",
+          "kind": "plot",
+          "title": "The Words Are Protected, the Facts Are Not",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "plot_they_wanted_to_know_why.md",
+          "kind": "plot",
+          "title": "They Wanted to Know Why",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "position_one_who_asked_what_happened.md",
+          "kind": "position",
+          "title": "One Who Asked What Happened",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "position_one_who_guards_the_claim.md",
+          "kind": "position",
+          "title": "One Who Guards the Claim",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "position_one_who_wants_to_say_it.md",
+          "kind": "position",
+          "title": "One Who Wants to Say It",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "position_only_way_to_find_out.md",
+          "kind": "position",
+          "title": "Only Way to Find Out",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "position_statute_that_protects_the_words.md",
+          "kind": "position",
+          "title": "Statute That Protects the Words",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "process_advising_silence.md",
+          "kind": "process",
+          "title": "Advising Silence",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "process_asking_what_happened.md",
+          "kind": "process",
+          "title": "Asking What Happened",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "process_bundling_it_with_money.md",
+          "kind": "process",
+          "title": "Bundling It With Money",
+          "taxonomy": "play_sorry_is_evidence.md"
+        },
+        {
+          "file": "process_suing_to_find_out.md",
+          "kind": "process",
+          "title": "Suing to Find Out",
+          "taxonomy": "play_sorry_is_evidence.md"
         }
       ]
     },
