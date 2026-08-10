@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.242.0",
+  "version": "0.243.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -4318,6 +4318,198 @@
           "kind": "process",
           "title": "Promoting",
           "taxonomy": "play_both_take_the_crown.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "bred_for_the_ark",
+      "title": "Bred for the Ark",
+      "description": "A species kept safe from its world is selected by the place that keeps it, so the ark breeds animals for the ark.",
+      "members": [
+        {
+          "file": "persona_the_last_population.md",
+          "kind": "persona",
+          "title": "The Last Population",
+          "type": "archetype",
+          "taxonomy": "position_last_population.md"
+        },
+        {
+          "file": "persona_the_one_released.md",
+          "kind": "persona",
+          "title": "The One Released",
+          "type": "archetype",
+          "taxonomy": "position_one_released.md"
+        },
+        {
+          "file": "persona_the_ones_who_keep_them_alive.md",
+          "kind": "persona",
+          "title": "The Ones Who Keep Them Alive",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_keep_them_alive.md"
+        },
+        {
+          "file": "persona_the_ones_who_manage_the_line.md",
+          "kind": "persona",
+          "title": "The Ones Who Manage the Line",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_manage_the_line.md"
+        },
+        {
+          "file": "persona_the_selection_that_does_not_stop.md",
+          "kind": "persona",
+          "title": "The Selection That Does Not Stop",
+          "type": "archetype",
+          "taxonomy": "position_selection_that_does_not_stop.md"
+        },
+        {
+          "file": "piece_the_provided_food.md",
+          "kind": "piece",
+          "title": "The Provided Food",
+          "taxonomy": "place_the_enclosure.md"
+        },
+        {
+          "file": "piece_the_soft_release_pen.md",
+          "kind": "piece",
+          "title": "The Soft Release Pen",
+          "taxonomy": "place_the_range_they_came_from.md"
+        },
+        {
+          "file": "piece_the_studbook.md",
+          "kind": "piece",
+          "title": "The Studbook",
+          "taxonomy": "place_the_enclosure.md"
+        },
+        {
+          "file": "pitch_nobody_meant_to_change_them.md",
+          "kind": "pitch",
+          "title": "Nobody Meant to Change Them",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "place_the_enclosure.md",
+          "kind": "place",
+          "title": "The Enclosure",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "place_the_range_they_came_from.md",
+          "kind": "place",
+          "title": "The Range They Came From",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "plan_keep_the_line_broad.md",
+          "kind": "plan",
+          "title": "Keep the Line Broad",
+          "taxonomy": "persona_the_ones_who_manage_the_line.md"
+        },
+        {
+          "file": "plan_keep_them_alive.md",
+          "kind": "plan",
+          "title": "Keep Them Alive",
+          "taxonomy": "persona_the_ones_who_keep_them_alive.md"
+        },
+        {
+          "file": "plan_put_them_back.md",
+          "kind": "plan",
+          "title": "Put Them Back",
+          "taxonomy": "persona_the_ones_who_keep_them_alive.md"
+        },
+        {
+          "file": "play_bred_for_the_ark.md",
+          "kind": "play",
+          "title": "Bred for the Ark"
+        },
+        {
+          "file": "plot_home_moved_too.md",
+          "kind": "plot",
+          "title": "Home Moved Too",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "plot_letting_them_go.md",
+          "kind": "plot",
+          "title": "Letting Them Go",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "plot_selection_does_not_switch_off.md",
+          "kind": "plot",
+          "title": "Selection Does Not Switch Off",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "plot_tame_is_the_fit_one.md",
+          "kind": "plot",
+          "title": "Tame Is the Fit One",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "plot_the_longer_it_holds_the_less_it_holds.md",
+          "kind": "plot",
+          "title": "The Longer It Holds, the Less It Holds",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "plot_the_only_ones_left.md",
+          "kind": "plot",
+          "title": "The Only Ones Left",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "position_last_population.md",
+          "kind": "position",
+          "title": "Last Population",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "position_one_released.md",
+          "kind": "position",
+          "title": "One Released",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "position_ones_who_keep_them_alive.md",
+          "kind": "position",
+          "title": "Ones Who Keep Them Alive",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "position_ones_who_manage_the_line.md",
+          "kind": "position",
+          "title": "Ones Who Manage the Line",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "position_selection_that_does_not_stop.md",
+          "kind": "position",
+          "title": "Selection That Does Not Stop",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "process_breeding_them_on.md",
+          "kind": "process",
+          "title": "Breeding Them On",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "process_fitting_the_enclosure.md",
+          "kind": "process",
+          "title": "Fitting the Enclosure",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "process_opening_the_gate.md",
+          "kind": "process",
+          "title": "Opening the Gate",
+          "taxonomy": "play_bred_for_the_ark.md"
+        },
+        {
+          "file": "process_taking_them_in.md",
+          "kind": "process",
+          "title": "Taking Them In",
+          "taxonomy": "play_bred_for_the_ark.md"
         }
       ]
     },
