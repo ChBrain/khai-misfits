@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 240 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 241 misfits, 1069 scholars.
 
 ## By science
 
@@ -1635,6 +1635,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `sorry_is_evidence` | Why people litigate; The quality of what was said; The statutory repair; What it did; The answer that works |
 | `spoiled_for_choice` | Iyengar and Lepper; Schwartz; Scheibehenne, Greifeneder and Todd; Chernev, Bockenholt and Goodman |
 | `starting_tomorrow` | Ainslie; Laibson; O'Donoghue & Rabin; Andreoni & Sprenger |
+| `stopped_for_benefit` | The obligation to monitor; The pre-specified boundary; The measured inflation; Why the rigour does not rescue it; Why it cannot be repaired later |
 | `stranger_than_true` | Vosoughi, Roy & Aral; Vosoughi, Roy & Aral; Berger & Milkman; The folk saying; Brandolini |
 | `the_abstraction_ladder` | Hayakawa; Wendell Johnson; Korzybski; Trope & Liberman; Scott; Boundary of the effect |
 | `the_anticommons` | Michelman; Heller; Heller & Eisenberg; Cournot; Buchanan & Yoon; Practitioner |
