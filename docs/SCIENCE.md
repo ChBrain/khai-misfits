@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 239 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 240 misfits, 1069 scholars.
 
 ## By science
 
@@ -1632,6 +1632,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `sick_enough_to_spread` | Roy Anderson and Robert May; Paul Ewald; Steven Frank; Bruce Levin and James Bull; Dieter Ebert, James Bull and Samuel Alizon |
 | `social_loafing` | Ringelmann; Ingham, Levinger, Graves & Peckham; Latané, Williams & Harkins; Kerr & Bruun; Kerr; Karau & Williams; Steiner |
 | `someone_will_catch_me` | James M. Buchanan; Finn Kydland and Edward Prescott; Thomas Schelling; János Kornai; Neil Bruce and Michael Waldman |
+| `sorry_is_evidence` | Why people litigate; The quality of what was said; The statutory repair; What it did; The answer that works |
 | `spoiled_for_choice` | Iyengar and Lepper; Schwartz; Scheibehenne, Greifeneder and Todd; Chernev, Bockenholt and Goodman |
 | `starting_tomorrow` | Ainslie; Laibson; O'Donoghue & Rabin; Andreoni & Sprenger |
 | `stranger_than_true` | Vosoughi, Roy & Aral; Vosoughi, Roy & Aral; Berger & Milkman; The folk saying; Brandolini |
