@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.237.0",
+  "version": "0.238.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -50137,6 +50137,198 @@
           "kind": "process",
           "title": "Roll-up",
           "taxonomy": "play_watermelon_reporting.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "what_everyone_else_does",
+      "title": "What Everyone Else Does",
+      "description": "Negligence is measured against what is usually done, so a mistake everybody makes is not a mistake anybody pays for.",
+      "members": [
+        {
+          "file": "persona_the_court_that_defers.md",
+          "kind": "persona",
+          "title": "The Court That Defers",
+          "type": "archetype",
+          "taxonomy": "position_court_that_defers.md"
+        },
+        {
+          "file": "persona_the_custom.md",
+          "kind": "persona",
+          "title": "The Custom",
+          "type": "archetype",
+          "taxonomy": "position_custom.md"
+        },
+        {
+          "file": "persona_the_one_who_did_what_others_do.md",
+          "kind": "persona",
+          "title": "The One Who Did What Others Do",
+          "type": "archetype",
+          "taxonomy": "position_one_who_did_what_others_do.md"
+        },
+        {
+          "file": "persona_the_one_who_was_harmed.md",
+          "kind": "persona",
+          "title": "The One Who Was Harmed",
+          "type": "archetype",
+          "taxonomy": "position_one_who_was_harmed.md"
+        },
+        {
+          "file": "persona_the_one_who_went_first.md",
+          "kind": "persona",
+          "title": "The One Who Went First",
+          "type": "archetype",
+          "taxonomy": "position_one_who_went_first.md"
+        },
+        {
+          "file": "piece_the_body_of_opinion.md",
+          "kind": "piece",
+          "title": "The Body of Opinion",
+          "taxonomy": "place_the_expert_table.md"
+        },
+        {
+          "file": "piece_the_guideline.md",
+          "kind": "piece",
+          "title": "The Guideline",
+          "taxonomy": "place_the_expert_table.md"
+        },
+        {
+          "file": "piece_the_new_device.md",
+          "kind": "piece",
+          "title": "The New Device",
+          "taxonomy": "place_the_treatment_room.md"
+        },
+        {
+          "file": "pitch_nobody_fell_below_the_standard.md",
+          "kind": "pitch",
+          "title": "Nobody Fell Below the Standard",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "place_the_expert_table.md",
+          "kind": "place",
+          "title": "The Expert Table",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "place_the_treatment_room.md",
+          "kind": "place",
+          "title": "The Treatment Room",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "plan_ask_the_profession.md",
+          "kind": "plan",
+          "title": "Ask the Profession",
+          "taxonomy": "persona_the_court_that_defers.md"
+        },
+        {
+          "file": "plan_follow_the_practice.md",
+          "kind": "plan",
+          "title": "Follow the Practice",
+          "taxonomy": "persona_the_one_who_did_what_others_do.md"
+        },
+        {
+          "file": "plan_say_what_is_required.md",
+          "kind": "plan",
+          "title": "Say What Is Required",
+          "taxonomy": "persona_the_court_that_defers.md"
+        },
+        {
+          "file": "play_what_everyone_else_does.md",
+          "kind": "play",
+          "title": "What Everyone Else Does"
+        },
+        {
+          "file": "plot_a_responsible_body.md",
+          "kind": "plot",
+          "title": "A Responsible Body",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "plot_a_whole_calling.md",
+          "kind": "plot",
+          "title": "A Whole Calling",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "plot_nobody_is_below_the_line.md",
+          "kind": "plot",
+          "title": "Nobody Is Below the Line",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "plot_the_cost_of_going_first.md",
+          "kind": "plot",
+          "title": "The Cost of Going First",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "plot_the_court_steps_back.md",
+          "kind": "plot",
+          "title": "The Court Steps Back",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "plot_when_the_guideline_becomes_the_custom.md",
+          "kind": "plot",
+          "title": "When the Guideline Becomes the Custom",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "position_court_that_defers.md",
+          "kind": "position",
+          "title": "Court That Defers",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "position_custom.md",
+          "kind": "position",
+          "title": "Custom",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "position_one_who_did_what_others_do.md",
+          "kind": "position",
+          "title": "One Who Did What Others Do",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "position_one_who_was_harmed.md",
+          "kind": "position",
+          "title": "One Who Was Harmed",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "position_one_who_went_first.md",
+          "kind": "position",
+          "title": "One Who Went First",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "process_codifying_it.md",
+          "kind": "process",
+          "title": "Codifying It",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "process_doing_it_the_usual_way.md",
+          "kind": "process",
+          "title": "Doing It the Usual Way",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "process_going_first.md",
+          "kind": "process",
+          "title": "Going First",
+          "taxonomy": "play_what_everyone_else_does.md"
+        },
+        {
+          "file": "process_standing_back.md",
+          "kind": "process",
+          "title": "Standing Back",
+          "taxonomy": "play_what_everyone_else_does.md"
         }
       ]
     },
