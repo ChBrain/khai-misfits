@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.238.0",
+  "version": "0.239.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -4318,6 +4318,198 @@
           "kind": "process",
           "title": "Promoting",
           "taxonomy": "play_both_take_the_crown.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "bug_for_bug",
+      "title": "Bug for Bug",
+      "description": "A behaviour nobody specified gets depended on, so matching the bug is required and fixing it is the thing that breaks.",
+      "members": [
+        {
+          "file": "persona_the_behaviour_nobody_specified.md",
+          "kind": "persona",
+          "title": "The Behaviour Nobody Specified",
+          "type": "archetype",
+          "taxonomy": "position_behaviour_nobody_specified.md"
+        },
+        {
+          "file": "persona_the_one_who_fixes_it.md",
+          "kind": "persona",
+          "title": "The One Who Fixes It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_fixes_it.md"
+        },
+        {
+          "file": "persona_the_one_who_must_match.md",
+          "kind": "persona",
+          "title": "The One Who Must Match",
+          "type": "archetype",
+          "taxonomy": "position_one_who_must_match.md"
+        },
+        {
+          "file": "persona_the_one_who_shipped_it.md",
+          "kind": "persona",
+          "title": "The One Who Shipped It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_shipped_it.md"
+        },
+        {
+          "file": "persona_the_ones_who_depend_on_it.md",
+          "kind": "persona",
+          "title": "The Ones Who Depend On It",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_depend_on_it.md"
+        },
+        {
+          "file": "piece_the_code_written_against_it.md",
+          "kind": "piece",
+          "title": "The Code Written Against It",
+          "taxonomy": "place_where_they_meet.md"
+        },
+        {
+          "file": "piece_the_compatibility_mode.md",
+          "kind": "piece",
+          "title": "The Compatibility Mode",
+          "taxonomy": "place_the_issue_tracker.md"
+        },
+        {
+          "file": "piece_the_written_contract.md",
+          "kind": "piece",
+          "title": "The Written Contract",
+          "taxonomy": "place_where_they_meet.md"
+        },
+        {
+          "file": "pitch_nobody_wrote_it_down.md",
+          "kind": "pitch",
+          "title": "Nobody Wrote It Down",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "place_the_issue_tracker.md",
+          "kind": "place",
+          "title": "The Issue Tracker",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "place_where_they_meet.md",
+          "kind": "place",
+          "title": "Where They Meet",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "plan_make_it_work_here.md",
+          "kind": "plan",
+          "title": "Make It Work Here",
+          "taxonomy": "persona_the_ones_who_depend_on_it.md"
+        },
+        {
+          "file": "plan_ship_on_friday.md",
+          "kind": "plan",
+          "title": "Ship on Friday",
+          "taxonomy": "persona_the_one_who_shipped_it.md"
+        },
+        {
+          "file": "plan_write_down_what_happens.md",
+          "kind": "plan",
+          "title": "Write Down What Happens",
+          "taxonomy": "persona_the_one_who_fixes_it.md"
+        },
+        {
+          "file": "play_bug_for_bug.md",
+          "kind": "play",
+          "title": "Bug for Bug"
+        },
+        {
+          "file": "plot_reverted.md",
+          "kind": "plot",
+          "title": "Reverted",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "plot_so_we_specified_it.md",
+          "kind": "plot",
+          "title": "So We Specified It",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "plot_somebody_depends_on_that.md",
+          "kind": "plot",
+          "title": "Somebody Depends On That",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "plot_something_has_to_happen.md",
+          "kind": "plot",
+          "title": "Something Has to Happen",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "plot_the_correct_one_looks_broken.md",
+          "kind": "plot",
+          "title": "The Correct One Looks Broken",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "plot_the_fix_is_the_outage.md",
+          "kind": "plot",
+          "title": "The Fix Is the Outage",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "position_behaviour_nobody_specified.md",
+          "kind": "position",
+          "title": "Behaviour Nobody Specified",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "position_one_who_fixes_it.md",
+          "kind": "position",
+          "title": "One Who Fixes It",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "position_one_who_must_match.md",
+          "kind": "position",
+          "title": "One Who Must Match",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "position_one_who_shipped_it.md",
+          "kind": "position",
+          "title": "One Who Shipped It",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "position_ones_who_depend_on_it.md",
+          "kind": "position",
+          "title": "Ones Who Depend On It",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "process_building_on_it.md",
+          "kind": "process",
+          "title": "Building On It",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "process_matching_it.md",
+          "kind": "process",
+          "title": "Matching It",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "process_reverting_the_fix.md",
+          "kind": "process",
+          "title": "Reverting the Fix",
+          "taxonomy": "play_bug_for_bug.md"
+        },
+        {
+          "file": "process_shipping_it.md",
+          "kind": "process",
+          "title": "Shipping It",
+          "taxonomy": "play_bug_for_bug.md"
         }
       ]
     },

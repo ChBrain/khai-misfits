@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 238 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 239 misfits, 1069 scholars.
 
 ## By science
 
@@ -1531,6 +1531,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `bootleggers_and_baptists` | Bruce Yandle; Yandle & Smith; George Stigler; Mancur Olson; Gary Becker |
 | `borrowed_immunity` | Bauch & Earn; Paul Fine & Clarkson; Paul Fine; Anderson & May; Boundary of the effect |
 | `both_take_the_crown` | Seth Gilbert, Nancy Lynch; Eric Brewer; Michael Fischer, Nancy Lynch, Michael Paterson; Leslie Lamport; Practitioner |
+| `bug_for_bug` | The law of the thing; Why the contract cannot help; The compliant implementation's problem; The specification rewritten to reality; The permanent second road |
 | `built_before_the_rule` | Prospective codes and grandfathering; The substantial improvement threshold; The deterrent effect; The known hazard; The mandate that reaches it |
 | `chasing_the_price` | Mordecai Ezekiel; Nicholas Kaldor; Arthur Hanau; Marc Nerlove; John F. Muth |
 | `cheaper_not_to_know` | Anthony Downs; Ilya Somin; Practitioner |
