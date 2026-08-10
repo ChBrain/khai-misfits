@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.236.0",
+  "version": "0.237.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -12492,6 +12492,198 @@
           "kind": "process",
           "title": "Targeting",
           "taxonomy": "play_metric_fixation.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "missing_from_the_count",
+      "title": "Missing From the Count",
+      "description": "The count misses the same people every time, we can measure it precisely, and the law forbids using the measurement.",
+      "members": [
+        {
+          "file": "persona_the_actual_enumeration.md",
+          "kind": "persona",
+          "title": "The Actual Enumeration",
+          "type": "archetype",
+          "taxonomy": "position_actual_enumeration.md"
+        },
+        {
+          "file": "persona_the_one_who_knocks.md",
+          "kind": "persona",
+          "title": "The One Who Knocks",
+          "type": "archetype",
+          "taxonomy": "position_one_who_knocks.md"
+        },
+        {
+          "file": "persona_the_one_who_knows_the_number.md",
+          "kind": "persona",
+          "title": "The One Who Knows the Number",
+          "type": "archetype",
+          "taxonomy": "position_one_who_knows_the_number.md"
+        },
+        {
+          "file": "persona_the_ones_not_written_down.md",
+          "kind": "persona",
+          "title": "The Ones Not Written Down",
+          "type": "archetype",
+          "taxonomy": "position_ones_not_written_down.md"
+        },
+        {
+          "file": "persona_the_ones_who_plan_the_count.md",
+          "kind": "persona",
+          "title": "The Ones Who Plan the Count",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_plan_the_count.md"
+        },
+        {
+          "file": "piece_the_bar_on_sampling.md",
+          "kind": "piece",
+          "title": "The Bar on Sampling",
+          "taxonomy": "place_the_apportionment_table.md"
+        },
+        {
+          "file": "piece_the_demographic_analysis.md",
+          "kind": "piece",
+          "title": "The Demographic Analysis",
+          "taxonomy": "place_the_apportionment_table.md"
+        },
+        {
+          "file": "piece_the_questionnaire.md",
+          "kind": "piece",
+          "title": "The Questionnaire",
+          "taxonomy": "place_the_front_step.md"
+        },
+        {
+          "file": "pitch_nobody_was_skipped.md",
+          "kind": "pitch",
+          "title": "Nobody Was Skipped",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "place_the_apportionment_table.md",
+          "kind": "place",
+          "title": "The Apportionment Table",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "place_the_front_step.md",
+          "kind": "place",
+          "title": "The Front Step",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "plan_adjust_it.md",
+          "kind": "plan",
+          "title": "Adjust It",
+          "taxonomy": "persona_the_one_who_knows_the_number.md"
+        },
+        {
+          "file": "plan_count_everyone.md",
+          "kind": "plan",
+          "title": "Count Everyone",
+          "taxonomy": "persona_the_one_who_knocks.md"
+        },
+        {
+          "file": "plan_plan_the_outreach.md",
+          "kind": "plan",
+          "title": "Plan the Outreach",
+          "taxonomy": "persona_the_ones_who_plan_the_count.md"
+        },
+        {
+          "file": "play_missing_from_the_count.md",
+          "kind": "play",
+          "title": "Missing From the Count"
+        },
+        {
+          "file": "plot_an_actual_enumeration.md",
+          "kind": "plot",
+          "title": "An Actual Enumeration",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "plot_and_may_not_use_it.md",
+          "kind": "plot",
+          "title": "And May Not Use It",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "plot_five_and_a_half_per_cent.md",
+          "kind": "plot",
+          "title": "Five and a Half Per Cent",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "plot_planned_from_the_last_one.md",
+          "kind": "plot",
+          "title": "Planned From the Last One",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "plot_the_ones_the_form_misses.md",
+          "kind": "plot",
+          "title": "The Ones the Form Misses",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "plot_we_know_exactly.md",
+          "kind": "plot",
+          "title": "We Know Exactly",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "position_actual_enumeration.md",
+          "kind": "position",
+          "title": "Actual Enumeration",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "position_one_who_knocks.md",
+          "kind": "position",
+          "title": "One Who Knocks",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "position_one_who_knows_the_number.md",
+          "kind": "position",
+          "title": "One Who Knows the Number",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "position_ones_not_written_down.md",
+          "kind": "position",
+          "title": "Ones Not Written Down",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "position_ones_who_plan_the_count.md",
+          "kind": "position",
+          "title": "Ones Who Plan the Count",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "process_carrying_it_forward.md",
+          "kind": "process",
+          "title": "Carrying It Forward",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "process_knocking.md",
+          "kind": "process",
+          "title": "Knocking",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "process_measuring_the_gap.md",
+          "kind": "process",
+          "title": "Measuring the Gap",
+          "taxonomy": "play_missing_from_the_count.md"
+        },
+        {
+          "file": "process_missing_them.md",
+          "kind": "process",
+          "title": "Missing Them",
+          "taxonomy": "play_missing_from_the_count.md"
         }
       ]
     },
