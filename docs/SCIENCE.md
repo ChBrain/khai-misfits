@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 241 misfits, 1069 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 242 misfits, 1069 scholars.
 
 ## By science
 
@@ -1552,6 +1552,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `fit_to_fail` | Rankin & Lopez-Sepulcre; Matsuda & Abrams; Gyllenberg & Parvinen; Webb; Boundary of the effect |
 | `fixes_that_fail` | Senge; Forrester; Kim; Meadows; Sterman; Practitioner |
 | `good_enough_to_hold` | Frank Partnoy; Frank Partnoy; Lawrence J. White; the SEC's 1975 designation of nationally recognised statistical rating organisations; the 2010 statutory removal of rating references from federal rules; the Financial Stability Board's principles on reducing mechanistic reliance on ratings; Practitioner |
+| `good_for_anyone` | The universal property; The size of the group; The emergency indication; The shortage; The conservation measures |
 | `good_money_after_bad` | Staw; Arkes & Blumer; Kahneman & Tversky; Teger; Festinger; Ross & Staw; Practitioner |
 | `good_somewhere_bad_somewhere` | Forrester; Forrester; System dynamics reception; The contemporary criticism |
 | `held_under` | Bronson, Charapko, Aghayev, and Zhu; Huang, Magnusson, and colleagues; John Nagle; Van Jacobson; Michael Nygard; Practitioner |
