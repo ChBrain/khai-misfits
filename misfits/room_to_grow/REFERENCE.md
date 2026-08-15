@@ -58,6 +58,15 @@ over-compensatory competition at the bottleneck in this play and positive densit
 one, so the same cull raises one population and finishes another. A reader who takes either as the
 general law will be wrong about half the cases.
 
+It runs against the house's **Worth More Nearly Gone** as well, and in the same direction as it runs
+against Safety in Numbers: there a species growing rarer becomes dearer, so the thinning raises the
+price and the exploitation intensifies as the stock declines, whereas here the thinning relieves the
+crowding and the survivors answer by overcompensating. The intervention is the same and the sign is
+opposite, but the channel differs, which is the whole of it: the response in this play is biological
+and self-limiting, running through competition at the bottleneck, and there it is economic and
+self-reinforcing, running through a market that pays more for what is nearly gone. No population is
+exempt from either, so which one holds is a question about the channel and never about the cull.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.
