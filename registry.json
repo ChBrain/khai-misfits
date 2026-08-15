@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.245.0",
+  "version": "0.246.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -26418,6 +26418,198 @@
           "kind": "process",
           "title": "Pooling",
           "taxonomy": "play_social_loafing.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "sold_to_find_the_price",
+      "title": "Sold to Find the Price",
+      "description": "The price is known only to the buyers, who will say it only for a discount, so it is found by selling under it.",
+      "members": [
+        {
+          "file": "persona_the_one_who_asks.md",
+          "kind": "persona",
+          "title": "The One Who Asks",
+          "type": "archetype",
+          "taxonomy": "position_one_who_asks.md"
+        },
+        {
+          "file": "persona_the_ones_who_are_selling.md",
+          "kind": "persona",
+          "title": "The Ones Who Are Selling",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_are_selling.md"
+        },
+        {
+          "file": "persona_the_ones_who_cannot_know.md",
+          "kind": "persona",
+          "title": "The Ones Who Cannot Know",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_cannot_know.md"
+        },
+        {
+          "file": "persona_the_ones_who_know.md",
+          "kind": "persona",
+          "title": "The Ones Who Know",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_know.md"
+        },
+        {
+          "file": "persona_the_price_no_one_holds.md",
+          "kind": "persona",
+          "title": "The Price No One Holds",
+          "type": "archetype",
+          "taxonomy": "position_price_no_one_holds.md"
+        },
+        {
+          "file": "piece_the_allocation.md",
+          "kind": "piece",
+          "title": "The Allocation",
+          "taxonomy": "place_the_book.md"
+        },
+        {
+          "file": "piece_the_discount.md",
+          "kind": "piece",
+          "title": "The Discount",
+          "taxonomy": "place_the_book.md"
+        },
+        {
+          "file": "piece_the_indication.md",
+          "kind": "piece",
+          "title": "The Indication",
+          "taxonomy": "place_the_book.md"
+        },
+        {
+          "file": "pitch_nobody_knows_the_number.md",
+          "kind": "pitch",
+          "title": "Nobody Knows the Number",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "place_the_book.md",
+          "kind": "place",
+          "title": "The Book",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "place_the_first_day.md",
+          "kind": "place",
+          "title": "The First Day",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "plan_fill_the_book.md",
+          "kind": "plan",
+          "title": "Fill the Book",
+          "taxonomy": "persona_the_one_who_asks.md"
+        },
+        {
+          "file": "plan_get_the_allocation.md",
+          "kind": "plan",
+          "title": "Get the Allocation",
+          "taxonomy": "persona_the_ones_who_know.md"
+        },
+        {
+          "file": "plan_raise_it.md",
+          "kind": "plan",
+          "title": "Raise It",
+          "taxonomy": "persona_the_ones_who_are_selling.md"
+        },
+        {
+          "file": "play_sold_to_find_the_price.md",
+          "kind": "play",
+          "title": "Sold to Find the Price"
+        },
+        {
+          "file": "plot_bought_with_the_thing_itself.md",
+          "kind": "plot",
+          "title": "Bought with the Thing Itself",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "plot_nine_million_on_the_table.md",
+          "kind": "plot",
+          "title": "Nine Million on the Table",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "plot_no_price_to_look_up.md",
+          "kind": "plot",
+          "title": "No Price to Look Up",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "plot_only_the_ones_they_turned_down.md",
+          "kind": "plot",
+          "title": "Only the Ones They Turned Down",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "plot_the_cost_of_saying_yes.md",
+          "kind": "plot",
+          "title": "The Cost of Saying Yes",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "plot_who_collects_it.md",
+          "kind": "plot",
+          "title": "Who Collects It",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "position_one_who_asks.md",
+          "kind": "position",
+          "title": "One Who Asks",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "position_ones_who_are_selling.md",
+          "kind": "position",
+          "title": "Ones Who Are Selling",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "position_ones_who_cannot_know.md",
+          "kind": "position",
+          "title": "Ones Who Cannot Know",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "position_ones_who_know.md",
+          "kind": "position",
+          "title": "Ones Who Know",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "position_price_no_one_holds.md",
+          "kind": "position",
+          "title": "Price No One Holds",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "process_asking_around.md",
+          "kind": "process",
+          "title": "Asking Around",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "process_holding_back.md",
+          "kind": "process",
+          "title": "Holding Back",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "process_paying_for_the_answer.md",
+          "kind": "process",
+          "title": "Paying for the Answer",
+          "taxonomy": "play_sold_to_find_the_price.md"
+        },
+        {
+          "file": "process_reading_the_pop.md",
+          "kind": "process",
+          "title": "Reading the Pop",
+          "taxonomy": "play_sold_to_find_the_price.md"
         }
       ]
     },
