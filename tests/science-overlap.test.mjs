@@ -28,13 +28,23 @@ import { report, findUndeclared } from "./science_overlap.mjs";
 // catch that, only the question "which misfit is nearest, and why is it not
 // this one?" asked of a reader who had to answer in writing.
 //
-// That half is still a ratchet. 37 of 246 misfits name no neighbour at all, and
-// they are overwhelmingly the early ones (The Commons, The Cobra Effect, Moral
-// Hazard, Regulatory Capture, Path Dependence, Jevons Paradox, The Market for
-// Lemons, The Winning Bid), written before the convention existed. Failing them
-// would block every pull request, so the gate holds the line where it is and
-// lets nothing new past while they are worked through.
-const UNDECLARED_BASELINE = 37;
+// That half is now a wall too. 37 of 246 misfits named no neighbour, almost all
+// of them early ones written before the convention existed, and all 37 have been
+// written. Nothing is grandfathered here either.
+//
+// The rule stays deliberately loose: the REFERENCE.md must name at least one
+// other misfit's title, anywhere, rather than in a fixed phrase. A stricter
+// sentence-level form was tried and scored worse, 186 of 246 against 209, and
+// its false negatives were exactly the misfits that declare their neighbour
+// inside an Origin row rather than in prose. A robust weak check that holds
+// beats a fragile strong one that fails correct work.
+//
+// Reciprocity is deliberately not required. Across the house there are 604
+// directed declarations and only 25 reciprocated pairs, because nearest is not
+// a symmetric relation: a misfit may sit closest to one that sits closest to
+// something else again. Requiring the return edge would be wrong as well as
+// expensive.
+const UNDECLARED_BASELINE = 0;
 
 describe("Misfits house: cross-misfit warrant gate", () => {
   it("no work carries the spine of more than one misfit", () => {
@@ -64,7 +74,7 @@ describe("Misfits house: cross-misfit warrant gate", () => {
     const undeclared = findUndeclared();
     if (undeclared.length > UNDECLARED_BASELINE) {
       throw new Error(
-        `science-overlap: ${undeclared.length} misfit(s) name no neighbour, baseline ${UNDECLARED_BASELINE}.\n` +
+        `science-overlap: ${undeclared.length} misfit(s) name no neighbour, and the house holds at zero.\n` +
           `Every REFERENCE.md must name at least one other misfit by its title and say\n` +
           `where the line between them falls. Asking that question in writing is what\n` +
           `catches the misfit standing next to yours.\n\n` +
@@ -72,15 +82,5 @@ describe("Misfits house: cross-misfit warrant gate", () => {
       );
     }
     expect(undeclared.length).toBeLessThanOrEqual(UNDECLARED_BASELINE);
-  });
-
-  it("the undeclared baseline is not stale", () => {
-    // BASELINE lives in tests/, the governance lane, and the declarations live in
-    // misfits/, which is not, so the two can never be lowered in one pull request
-    // and an equality assertion would fail every content pull request that fixes
-    // one. The slack is what the lane split costs; it goes to zero with the
-    // baseline when the last of the 37 is written.
-    const SLACK = 37;
-    expect(UNDECLARED_BASELINE - findUndeclared().length).toBeLessThanOrEqual(SLACK);
   });
 });

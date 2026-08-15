@@ -86,9 +86,12 @@ Effect, Metric Fixation and Moral Licensing. Each had scanned the house and
 missed only the misfit standing next to it. Answering _which misfit is nearest,
 and why is it not this one?_ in writing is what closes that.
 
-Still a ratchet rather than a wall: 37 of 246 name no neighbour, almost all of
-them the early misfits written before the convention existed. Nothing new gets
-past while they are worked through.
+This is a wall too: all 246 name one. The rule is deliberately loose, a real
+house title anywhere in the file rather than a fixed phrase, because a stricter
+sentence-level form scored worse and its false negatives were the misfits that
+declare their neighbour inside an Origin row. Reciprocity is **not** required:
+nearest is not symmetric, and a misfit may sit closest to one that sits closest
+to something else again.
 
 ## Versioning
 
