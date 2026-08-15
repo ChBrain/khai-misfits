@@ -153,42 +153,5 @@
       "Too Much Invested to Quit"
     ],
     "aliases": {}
-  },
-  "axisPolicy": {
-    "pilot": true,
-    "misfits": {
-      "room_to_grow": {
-        "axis": "population-density",
-        "sign": "negative"
-      },
-      "safety_in_numbers": {
-        "axis": "population-density",
-        "sign": "positive"
-      },
-      "worth_more_nearly_gone": {
-        "axis": "population-density",
-        "sign": "positive"
-      },
-      "onto_the_survivors": {
-        "axis": "risk-pool-members",
-        "sign": "positive"
-      },
-      "fit_to_fail": {
-        "axis": "competitive-trait",
-        "sign": "negative"
-      },
-      "no_way_back_up": {
-        "axis": "recombination",
-        "sign": "positive"
-      },
-      "more_mouths_than_meat": {
-        "axis": "response-lag",
-        "sign": "negative"
-      },
-      "back_to_where_it_was_fine": {
-        "axis": "nutrient-load",
-        "sign": "negative"
-      }
-    }
   }
 }

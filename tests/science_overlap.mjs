@@ -284,31 +284,71 @@ if (import.meta.url === `file://${process.argv[1]}`) {
 // still contradicting Safety in Numbers unacknowledged.
 //
 // So the opposition is declared once and checked forever, the same shape as
-// `canon` and `contrastMarkers`: `axisPolicy` in khai-guard.config.json records
-// the quantity a misfit acts on and the sign of the outcome's response to an
-// increase in it. Two misfits on one axis with opposite signs are in conflict
-// and must name each other. The judgement happens at authoring; the check does
-// not judge anything.
+// `canon` and `contrastMarkers`: each misfit's REFERENCE.md frontmatter records
+// the quantity it acts on and the sign of the outcome's response to an increase
+// in it. Two misfits on one axis with opposite signs are in conflict and must
+// name each other. The judgement happens at authoring; the check does not judge
+// anything.
 //
-// It sits in config rather than play frontmatter because the canon validator
-// owns the frontmatter schema and rejects unknown keys, and it lives in
-// khai-tests rather than in this house.
+// The declaration sits in the warrant rather than in khai-guard.config.json,
+// which is where it started, for a lane reason that decides the whole design:
+// the config is the governance lane and a misfit is not, so a new misfit could
+// never declare its own axis in the pull request that adds it, and the gate
+// meant to cover new work would have cost a second pull request every time. It
+// is not in play frontmatter either, because the canon validator owns that
+// schema and rejects unknown keys. The warrant's frontmatter is unpoliced and
+// is in the misfit's own lane, so the declaration can travel with the misfit.
+export function axesOf(root = ROOT) {
+  const out = new Map();
+  for (const d of fs.readdirSync(join(root, "misfits"))) {
+    const p = join(root, "misfits", d, "REFERENCE.md");
+    if (!fs.existsSync(p)) continue;
+    const head = fs.readFileSync(p, "utf8").split("---")[1] || "";
+    const axis = (head.match(/^axis:\s*(\S+)\s*$/m) || [])[1];
+    const sign = (head.match(/^sign:\s*(\S+)\s*$/m) || [])[1];
+    if (axis || sign) out.set(d, { axis, sign });
+  }
+  return out;
+}
+
+// A declaration that is half-written or misspelled is worse than none, because
+// it reads as covered and checks nothing. Malformed declarations fail outright
+// rather than ratcheting: there is no legacy set of them to grandfather.
+export function findMalformedAxes(root = ROOT) {
+  const bad = [];
+  for (const [d, { axis, sign }] of axesOf(root)) {
+    if (!axis) bad.push(`${d}: sign without axis`);
+    else if (!sign) bad.push(`${d}: axis without sign`);
+    else if (sign !== "positive" && sign !== "negative")
+      bad.push(`${d}: sign is "${sign}", expected positive or negative`);
+  }
+  return bad.sort();
+}
+
+// Misfits carrying no axis at all. Invisible to the opposition check, which is
+// why the coverage of that check is ratcheted rather than assumed.
+export function findUnaxised(root = ROOT) {
+  const declared = axesOf(root);
+  return [...houseTitles(root).keys()].filter((d) => !declared.has(d)).sort();
+}
+
 export function findOpposed(root = ROOT) {
-  const cfg = JSON.parse(fs.readFileSync(join(root, "khai-guard.config.json"), "utf8"));
-  const declared = (cfg.axisPolicy || {}).misfits || {};
+  const declared = axesOf(root);
   const titles = houseTitles(root);
   const names = (d, other) => {
     const t = titles.get(other);
     return !!t && fs.readFileSync(join(root, "misfits", d, "REFERENCE.md"), "utf8").includes(t);
   };
   const out = [];
-  const keys = Object.keys(declared).sort();
+  const keys = [...declared.keys()]
+    .filter((d) => declared.get(d).axis && declared.get(d).sign)
+    .sort();
   for (let i = 0; i < keys.length; i++) {
     for (let j = i + 1; j < keys.length; j++) {
       const [a, b] = [keys[i], keys[j]];
-      if (declared[a].axis !== declared[b].axis) continue;
-      if (declared[a].sign === declared[b].sign) continue;
-      out.push({ a, b, axis: declared[a].axis, aNamesB: names(a, b), bNamesA: names(b, a) });
+      if (declared.get(a).axis !== declared.get(b).axis) continue;
+      if (declared.get(a).sign === declared.get(b).sign) continue;
+      out.push({ a, b, axis: declared.get(a).axis, aNamesB: names(a, b), bNamesA: names(b, a) });
     }
   }
   return out;
