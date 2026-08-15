@@ -1,4 +1,6 @@
 ---
+axis: population-density
+sign: positive
 updated: "2026-07-30"
 ---
 
