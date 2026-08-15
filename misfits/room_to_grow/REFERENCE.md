@@ -49,6 +49,15 @@ moved rather than cut: there the total is unchanged and merely displaced to anot
 in the very population that was culled and in the same place, a real rise in the number and not a shifting of it
 elsewhere.
 
+It runs directly against the house's **Safety in Numbers**, and the two are worth reading together:
+there a crowd confers real protection, so thinning a population past a line costs it that protection
+and the decline accelerates the fewer remain, whereas here thinning a population releases the
+survivors from their own crowding and the number can rise. Both are true and they are not rivals:
+the sign of the response to added mortality is set by which density dependence dominates,
+over-compensatory competition at the bottleneck in this play and positive density dependence in that
+one, so the same cull raises one population and finishes another. A reader who takes either as the
+general law will be wrong about half the cases.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.
