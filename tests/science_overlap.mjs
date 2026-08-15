@@ -165,6 +165,53 @@ export function report(root = ROOT) {
   return { rows: rows.length, policy, overlaps, pairs: pairsOf(overlaps) };
 }
 
+// The house's misfits by directory and display title, read from each play's
+// frontmatter, which is the only place a title is authoritative.
+export function houseTitles(root = ROOT) {
+  const dir = join(root, "misfits");
+  const titles = new Map();
+  for (const d of fs.readdirSync(dir)) {
+    const play = join(dir, d, `play_${d}.md`);
+    if (!fs.existsSync(play)) continue;
+    const t = (fs.readFileSync(play, "utf8").match(/^title: "(.+)"$/m) || [])[1];
+    if (t) titles.set(d, t);
+  }
+  return titles;
+}
+
+// The second half of the cross-misfit warrant: a misfit must say where it sits.
+// A Reason Too Many and Paid to Stop Caring each carried a "carefully distinct
+// from its nearest neighbours" section, and both named the same three, The Cobra
+// Effect, Metric Fixation and Moral Licensing. Each had scanned the house and
+// missed only the misfit standing next to it, so a declaration that names a real
+// neighbour is worth requiring on its own, independently of the source analysis.
+//
+// The rule is deliberately loose: the REFERENCE.md must name at least one other
+// misfit's title, anywhere. It does not require a fixed phrasing, because the
+// house writes the declaration several ways and puts it in prose or in an Origin
+// row depending on the misfit, and a stricter sentence-level rule was tried and
+// misfires on exactly the misfits that declare their neighbour inside a table.
+// A robust weak check that ratchets beats a fragile strong one that cries wolf.
+// Titles of seven characters or fewer are skipped, since a short one can appear
+// in ordinary prose by accident.
+export function findUndeclared(root = ROOT) {
+  const titles = houseTitles(root);
+  const undeclared = [];
+  for (const [d] of titles) {
+    const src = fs.readFileSync(join(root, "misfits", d, "REFERENCE.md"), "utf8");
+    let names = false;
+    for (const [other, title] of titles) {
+      if (other === d || title.length <= 7) continue;
+      if (src.includes(title)) {
+        names = true;
+        break;
+      }
+    }
+    if (!names) undeclared.push(d);
+  }
+  return undeclared.sort();
+}
+
 // Pre-authoring: does a proposed spine already anchor a misfit? Accepts
 // "Scholar :: Work" or a bare work, and answers before 31 files exist.
 export function checkCandidate(spec, root = ROOT) {

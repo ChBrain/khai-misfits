@@ -72,6 +72,24 @@ node tests/science_overlap.mjs --check "<Scholar> :: <Key Work>"
 node tests/science_overlap.mjs                 # the whole house
 ```
 
+The house holds at **zero shared works** and the gate is a wall: nothing is
+grandfathered, and a misfit that takes a work already carrying another misfit's
+spine fails `npm test`.
+
+### And a misfit must say where it sits
+
+Every `REFERENCE.md` **names at least one other misfit by its title** and states
+the line between them. This is required on its own, independently of the source
+analysis, because it is the cheaper catch: A Reason Too Many and Paid to Stop
+Caring each carried a neighbours section and both named the same three, The Cobra
+Effect, Metric Fixation and Moral Licensing. Each had scanned the house and
+missed only the misfit standing next to it. Answering _which misfit is nearest,
+and why is it not this one?_ in writing is what closes that.
+
+Still a ratchet rather than a wall: 37 of 246 name no neighbour, almost all of
+them the early misfits written before the convention existed. Nothing new gets
+past while they are worked through.
+
 ## Versioning
 
 The minor version IS the misfit count, computed not chosen; the **Version Packages**
