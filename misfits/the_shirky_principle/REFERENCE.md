@@ -24,6 +24,11 @@ every incentive it creates points away from the cure. It is the provider's mirro
 perverse-incentive plays: not a bounty that manufactures its target, but a solver that preserves its
 problem.
 
+It is distinct from the house's **Pournelle's Iron Law**, where those devoted to the organisation
+win control from those devoted to its mission: there the contest is internal and what is decided is
+who runs the place, whereas here the organisation is not divided at all, it is united and competent,
+and what turns is its relation to the problem outside it, which it now needs to go on existing.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

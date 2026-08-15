@@ -23,6 +23,12 @@ the play's governing law: the behaviour that is skilled at protecting face is th
 is skilled at preventing learning, and because it makes its own operation undiscussable, it is
 self-sealing, so the correction it suppresses is the one signal that could reveal it.
 
+It is distinct from the house's **The Front**, where each shows the resolved version and edits the
+raw away, so the room holds only the finished and never the burning thing: there the editing is done
+by each person about their own work and what is lost is a true picture of how things are made,
+whereas here the silence is a courtesy extended to somebody else, and what is lost is the error only
+the person who made it could have named.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

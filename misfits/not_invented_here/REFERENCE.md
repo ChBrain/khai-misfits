@@ -24,6 +24,11 @@ area, rejects external ideas by reflex, and its performance declines. It is dist
 Cargo Cult, which over-copies an external form rather than refusing it, and from the house's Closing
 Ranks, which defends the group against outside blame rather than outside ideas.
 
+It is distinct from the house's **Must Be a Catch**, where an offer's worth is discounted for no
+reason but who proposed it: there the discount runs on the identity of a rival and applies to a deal
+on the table, whereas here it runs on the boundary of the group itself, and what follows is not a
+deal unmade but a worse thing built in its place to keep it theirs.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

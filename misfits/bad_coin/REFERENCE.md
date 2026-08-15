@@ -20,6 +20,11 @@ a tale of laziness. The governing finding of the source literature is the play's
 money drives out good precisely when an authority fixes one value on two unlike things, so the coin
 worth more than its stamp is withdrawn and the coin worth exactly its stamp is all that changes hands.
 
+It is distinct from the house's **The Market for Lemons**, where buyers cannot tell good from bad
+and the pooling price they pay drives the good out: there the exit needs hidden quality, a buyer who
+cannot see what is in front of them, whereas here nothing is hidden at all and a rule that values
+visible quality equally is enough on its own to send the good coin into hiding.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

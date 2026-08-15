@@ -22,6 +22,11 @@ the structure, not as a tale of greed. The governing finding of the source liter
 governing law: you get what you measure, so a firm that measures and rewards the present alone gets
 the present, bought with a future whose cost its measure was never built to show.
 
+It is distinct from the house's **The Horizon Problem**, where every plan ends at its instrument's
+edge, so what lies past carries no cost and casts no shadow until it arrives: there the later harm
+is genuinely invisible to the instrument in use, whereas here it is perfectly visible and is taken
+anyway, because the quarter is the thing being answered for and the bill falls due outside it.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

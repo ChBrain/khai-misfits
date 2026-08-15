@@ -24,6 +24,11 @@ booked at the unit is spent, and sometimes over-spent, at the level of the whole
 the house's Extra Road, but a different engine: not a routing equilibrium on a network, a
 price-elastic rebound of demand.
 
+It is distinct from the house's **The Extra Road**, where a road added to ease the jam draws
+everyone onto it and the whole network slows: there the capacity is physical and newly built, and
+the induced demand fills it, whereas here nothing is added at all, the same resource is simply made
+to go further per unit, and it is the fall in the price of the service that draws the demand.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

@@ -22,6 +22,12 @@ governing law: when a group prizes its own cohesion, the drive to concur suppres
 appraisal of alternatives, so agreement is reached not because the group is right but because
 agreeing is what keeps the group.
 
+It is distinct from the house's **The Trip to Abilene**, where a group agrees its way into a choice
+no member wanted, each misreading the others' assent for a wish it lacked: there every member
+privately dissents and the consensus is an artefact of misreading, whereas here the convergence is
+genuine, the team really does come to hold one view, and what is closed against is the doubt of the
+few who do not.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

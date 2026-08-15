@@ -45,6 +45,12 @@ the winner overpays, here the competition is sellers of standards bidding their 
 keeps the mobile base by offering it the least protection, the harm falling not on the winner but on parties
 outside the transaction entirely.
 
+It is distinct from the house's **The Commons**, where everyone takes a fair share of the shared
+field and the field goes bare, because the cost of one more is split by all: there the actors draw
+on one physical stock and what is lost is the stock itself, whereas here nothing is drawn on and
+nothing is depleted, the actors are jurisdictions competing to hold a base that can move, and what
+falls is the standard each of them sets.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

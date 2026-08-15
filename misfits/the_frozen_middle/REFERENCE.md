@@ -25,6 +25,12 @@ middle is a buffer, and a buffer that protects delivery passes the small and saf
 attenuating the large, so the two signals that most needed to cross, the bold change and the
 hard truth, are the two it can damp toward nothing.
 
+It is distinct from the house's **Watermelon Reporting**, where green on the skin and red in the
+flesh never reaches a seat that can act, because every rung is paid to move on: there what is
+distorted is a status travelling upward and the incentive is one rung's own standing, whereas here
+the distortion runs both ways at once, a change softened on the way down and a hard truth smoothed
+on the way up, by people doing what the layer asks of them.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

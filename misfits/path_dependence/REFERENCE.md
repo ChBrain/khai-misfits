@@ -26,6 +26,12 @@ be the efficient one and can be locked in. It is the technology-adoption cousin 
 Run: not a shared fear that selects the ruinous outcome, but a shared adoption that selects the
 possibly worse standard, each outcome chosen by what everyone expects everyone else to do.
 
+It is distinct from the house's **The Head Start**, where an early lead attracts the credit and
+resources that make the next lead: there the advantage accumulates inside one actor and the
+mechanism is attention and funding, whereas here nothing accrues to anybody, each adopter simply
+picks what other adopters picked, and it is the coordination itself that locks the worse standard
+in.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

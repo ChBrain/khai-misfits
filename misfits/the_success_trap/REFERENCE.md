@@ -22,6 +22,13 @@ the play's governing law: the criteria that make a firm best at its current mark
 the same criteria that make it rational to starve the market that will replace it, so
 the failure is a property of good management, not a lapse from it.
 
+It is distinct from the house's **Right for the Last World**, where a structure fitted to its market
+is rewarded, hardens into how things are done, and executes on after the market moves: there the fit
+is stale and the organisation is running a pattern that has outlived its conditions, whereas here
+nothing has gone stale, the discipline is live and correct and is being applied well, and it is that
+discipline, refusing a market too small and too poor to justify, which lets the challenger in from
+below.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

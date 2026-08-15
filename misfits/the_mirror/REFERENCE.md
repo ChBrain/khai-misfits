@@ -22,6 +22,12 @@ governing finding of the source literature is the play's governing law: the shap
 system mirrors the shape of the org, so you ship the architecture your communication
 structure is built for, not the one you drew.
 
+It is distinct from the house's **The Decision Travels**, where a correct decision crosses every
+station of the chain and no one measures it against the person who must live with it: there the
+chain carries a decision and the loss is felt at the far end by somebody outside the organisation,
+whereas here the organisation's own communication structure is copied into the artefact, so the
+seams of the built thing fall exactly where its builders do not talk.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

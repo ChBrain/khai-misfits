@@ -23,6 +23,12 @@ finding of the source literature is the play's governing law: risk is redefined 
 survivals, so a standard erodes not by a decision to lower it but by a run of successes that
 quietly move the line.
 
+It is distinct from the house's **The Unmarked Edge**, where cost and effort push the working point
+toward a safety edge no one can see, so the system drifts across it step by step: there the drift is
+driven by pressure and the boundary is genuinely unknown, whereas here each deviation is noticed,
+discussed and tolerated once on its own merits, and it is the tolerating that moves the line, so the
+standard is revised rather than merely approached.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

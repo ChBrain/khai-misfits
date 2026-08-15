@@ -25,6 +25,12 @@ them is always easiest to make while they are still working. It is the foil to t
 Normal: not a protective line eroded because each breach survived, but a protective fence amputated
 because its reason was lost, two ways a forgotten safeguard fails, by drift and by the axe.
 
+It is distinct from the house's **The Time It Used to Buy**, where spinning mass bought for
+electricity was also holding the frequency steady and nobody noticed until it had gone: there the
+second function was never known to anybody, an unbilled service discovered only by its absence,
+whereas here the purpose was known once and has been forgotten, so the safeguard stands in plain
+sight with its reason mislaid.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

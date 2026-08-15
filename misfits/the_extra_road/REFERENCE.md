@@ -20,6 +20,12 @@ planning. The governing finding of the source literature is the play's governing
 network under selfish routing can raise the travel time of every user, because the gap between the cost one
 driver bears and the cost one driver imposes is exactly what a free shared link leaves unpriced.
 
+It is distinct from the house's **Jevons Paradox**, where making a resource go further per unit
+raises total use, as cheaper service draws more demand than the saving spared: there the efficiency
+is in the using and the resource is consumed, whereas here capacity is physically added to a
+network, and the result is not merely more use but a network that carries everybody more slowly than
+it did before.
+
 ## Origin
 
 The phenomenon in theory, and the research spine beneath it.

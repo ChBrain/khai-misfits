@@ -23,6 +23,12 @@ play's governing law: because we intervene at the extremes, where reversion is a
 is reliably followed by decline and punishment by improvement, so an honest observer learns, correctly
 from the data and backwards about the world, that punishment works and reward does not.
 
+It is distinct from the house's **The Best on Paper**, where picking the highest-scoring option
+picks the one whose estimate ran luckiest, so it tends to disappoint: there the regression is met
+once, at the moment of choosing, and what is misread is the option, whereas here it is met again and
+again inside a feedback loop, and what is misread is the response, so the reverting is credited to
+the rebuke and to the praise.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

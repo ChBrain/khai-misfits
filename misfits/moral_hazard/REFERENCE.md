@@ -24,6 +24,11 @@ rational level of care falls below the socially efficient one, so protection buy
 hidden-action twin of its neighbour: adverse selection turns on a quality hidden before the deal, and
 moral hazard on an action hidden after it.
 
+It is distinct from the house's **The Spent Margin**, where a safety measure hands a margin and the
+driver spends it back as risk: there the actor still carries the loss and is trading a margin it
+owns for something else it wants, whereas here the loss has been transferred to somebody else, so
+the care that falls away is care about a cost the actor no longer bears.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

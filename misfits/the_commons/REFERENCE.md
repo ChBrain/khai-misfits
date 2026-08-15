@@ -23,6 +23,12 @@ is held in common and its use is unpriced, individually rational use sums to col
 the remedy is neither inevitable collapse nor a distant owner but rules the users make, monitor,
 and enforce upon themselves.
 
+It is distinct from the house's **The Tyranny of Small Decisions**, where each small choice is
+rational and free yet their sum is an outcome no one chose, since nothing ever decides the whole:
+there the aggregation is of choices about different things and no resource need be shared at all,
+whereas here there is one field, one shared stock, and the cost of each additional draw is split
+across everybody who draws.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

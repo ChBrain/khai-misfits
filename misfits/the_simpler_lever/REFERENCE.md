@@ -36,6 +36,12 @@ system is congested, work piling at a constraint or a server saturated by load; 
 nothing queues, the regulator simply has too few distinct states to match what the field throws, so the failure is
 a missing response and not a full one, a matter of variety and not of capacity or wait.
 
+It is distinct from the house's **The Abstraction Ladder**, where a report climbs to the abstract,
+gaining authority and shedding the specifics that would let it be checked: there what is lost is the
+detail a reader would need to test a claim, whereas here what is lost is the regulator's own
+repertoire, the count of distinct responses it can make, so the simplification does not obscure the
+outcome but stops being able to hold it.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

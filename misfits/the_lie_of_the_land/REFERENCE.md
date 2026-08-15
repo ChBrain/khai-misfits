@@ -49,6 +49,12 @@ games the cue and nobody controls it, the chooser is not strategic but faithful,
 it is pushed on but because the world changed underneath it, so the trap is a broken correlation under blameless
 change and not a metric bent by the one it measures.
 
+It is distinct from the house's **The Open Cage**, where a creature taught that nothing it does
+matters stops trying and goes on not trying once the cage is open and effort would work: there the
+response was learned from a real regime and persists after that regime is lifted, whereas here the
+cue was never wrong when it was acquired and is not wrong now about what it measures, the ground has
+simply changed underneath it, so the settler reads a true signal into a place that cannot repay it.
+
 ## Origin
 
 The phenomenon in the field, and the research spine beneath it.

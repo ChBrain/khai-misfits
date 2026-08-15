@@ -38,6 +38,11 @@ internal, the per-capita fitness of the population falling with its own thinning
 lifted the crowd drawing it down, so the collapse is authored by no run and no shock but by the population's own
 numbers crossing the line where its fitness turns against it.
 
+It is distinct from the house's **Worth More Nearly Gone**, where a species grows rarer, its price
+rises, and the value scarcity confers is what finishes it: there the feedback runs through a market
+and a human appetite for rarity, whereas here it runs through the biology alone, the crowd itself
+conferring the safety, so the decline accelerates with no buyer and no price anywhere in it.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

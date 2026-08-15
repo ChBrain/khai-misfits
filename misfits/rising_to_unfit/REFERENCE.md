@@ -21,6 +21,11 @@ the source literature is the play's governing law: promoting on present performa
 predictor of performance in a different role, and never demoting, tends over time to fill every
 post with someone risen to their level of incompetence.
 
+It is distinct from the house's **The Dilbert Principle**, where the one who cannot do the work is
+promoted out of it, so the ranks that lead fill with those who failed at it: there promotion is a
+way of removing the incompetent from the work, whereas here it is the reward for mastering the work,
+so the person raised was genuinely the best at the job they are being taken away from.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.
