@@ -133,7 +133,17 @@ sign. Declaring more of the house widens the check; it does not change it.
 
 ```
 node tests/science_overlap.mjs                 # overlaps and opposed pairs
+node tests/science_overlap.mjs --families      # which family to declare next
 ```
+
+**Read the canon list forwards to pick the next family.** `workPolicy.canon` is
+written as a list of exceptions, works exempted so a field's foundational text
+does not read as a shared spine. The same data says something positive: the
+misfits citing one canon work are **in one conversation**, which is exactly where
+an opposed pair hides, since two misfits in one literature are the ones with a
+quantity in common to disagree about. All 32 canon works are shared by two or
+more misfits, so the list is a complete family map of the house. `--families`
+ranks them and marks who has no axis yet.
 
 ## Versioning
 
