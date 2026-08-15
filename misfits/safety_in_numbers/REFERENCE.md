@@ -43,6 +43,14 @@ rises, and the value scarcity confers is what finishes it: there the feedback ru
 and a human appetite for rarity, whereas here it runs through the biology alone, the crowd itself
 conferring the safety, so the decline accelerates with no buyer and no price anywhere in it.
 
+It runs directly against the house's **Room to Grow**, and the two are worth reading together: there
+a cull releases the survivors from their own crowding and the number can rise, whereas here the
+crowd was doing work no survivor can replace, so the same thinning removes the protection and the
+decline runs faster the fewer remain. Both are true and they are not rivals: the sign of the
+response to added mortality is set by which density dependence dominates, positive density
+dependence in this play and over-compensatory competition at the bottleneck in that one. A reader
+who takes either as the general law will be wrong about half the cases.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.
