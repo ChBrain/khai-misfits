@@ -15,9 +15,9 @@ or absent otherwise, its magnitude once sharply contested.
 ## Line of Work
 
 Staging the overjustification effect as a **reward-crowds-out-the-motive structure**: a person does a thing for its own
-sake. A child draws because drawing delights it, a solver works a puzzle because the puzzle is fun, a volunteer gives blood
-because giving feels right. The motive is inside the act, and the act is its own reward. And then, in good faith, someone
-offers a reward to encourage the valued thing: a gold star for the drawing, a payment for the puzzle, a fee for the blood.
+sake. A child draws because drawing delights it, a solver works a puzzle because the puzzle is fun, a reader reads
+for the reading. The motive is inside the act, and the act is its own reward. And then, in good faith, someone
+offers a reward to encourage the valued thing: a gold star for the drawing, a payment for the puzzle, a penny a page.
 By every ordinary rule this should strengthen the behaviour, since a reward added to a thing already wanted should make it
 wanted more. But something turns instead. The person, seeing itself paid to do what it once did freely, infers a reason from
 the reward: I must be doing this for the star, the money, the fee, and not simply because I love it, an over-justification
@@ -45,7 +45,14 @@ very thing it meant to reduce, whereas here the incentive is not gamed at all bu
 behaviour does not multiply perversely but collapses when the reward is gone. It is distinct from Metric Fixation, where a
 measure made into a target ceases to measure what it did, since effort bends to the number: there what is corrupted is the
 measure, the proxy that stops tracking the goal, whereas here what is corrupted is the motivation, the inner reason for the
-act, and no measure need be involved at all. And it is distinct from Moral Licensing, where a good deed is banked as moral
+act, and no measure need be involved at all. It is distinct from the house's **A Reason Too Many**, which stages the other half of this
+literature and is the reason the two must not be read as one: there a penalty enters an incomplete
+social contract and changes what two parties take themselves to owe one another, so a moral
+obligation becomes a service that can be bought, which is Gneezy and Rustichini's own reading of the
+day-care fine and explicitly not a claim about self-perception. Here there is no second party and no
+bargain to revise. One person, alone, reads its own reasons off its own behaviour and concludes it
+must be drawing for the star: the mechanism is over-justification, it runs inside one head, and it
+would run just the same if nobody else existed. And it is distinct from Moral Licensing, where a good deed is banked as moral
 credit that a later lapse draws down: there the mechanism is a moral accounting across acts, a virtue funding a vice,
 whereas here the mechanism is a single act's inner motive displaced by an outer one, no ledger of credit and no later lapse
 bought, only the love of the thing quietly spent.
