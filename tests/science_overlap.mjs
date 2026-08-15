@@ -257,4 +257,59 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     console.log(`  [${p.stems.length}] ${p.pair}`);
     for (const s of p.stems) console.log(`        ${s}`);
   }
+  const opp = findOpposed();
+  const silent = opp.filter((p) => !p.aNamesB || !p.bNamesA).length;
+  console.log(`opposed pairs on a declared axis: ${opp.length}, undeclared: ${silent}\n`);
+  for (const p of opp) {
+    const state = p.aNamesB && p.bNamesA ? "declared  " : "UNDECLARED";
+    console.log(`  ${state}  [${p.axis}]  ${p.a} vs ${p.b}`);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Opposed pairs: the third question, and the one the other two cannot ask.
+//
+// The shared-work wall catches two misfits that agree so completely they are
+// nearly one, which is what A Reason Too Many and Paid to Stop Caring were. It
+// is structurally blind to the opposite failure, two misfits that contradict
+// each other, because what makes two misfits contradict is that they come from
+// different literatures, and coming from different literatures is exactly what
+// makes them pass a shared-work check. Room to Grow and Safety in Numbers make
+// opposite claims about the same intervention on the same quantity and share no
+// scholar and no work at all.
+//
+// Contradiction is not computable from prose, and a cheap proxy was tried and
+// rejected: "name at least one neighbour sharing no scholar with you" scores
+// 209 of 246 and does not catch Room to Grow, which passes it comfortably while
+// still contradicting Safety in Numbers unacknowledged.
+//
+// So the opposition is declared once and checked forever, the same shape as
+// `canon` and `contrastMarkers`: `axisPolicy` in khai-guard.config.json records
+// the quantity a misfit acts on and the sign of the outcome's response to an
+// increase in it. Two misfits on one axis with opposite signs are in conflict
+// and must name each other. The judgement happens at authoring; the check does
+// not judge anything.
+//
+// It sits in config rather than play frontmatter because the canon validator
+// owns the frontmatter schema and rejects unknown keys, and it lives in
+// khai-tests rather than in this house.
+export function findOpposed(root = ROOT) {
+  const cfg = JSON.parse(fs.readFileSync(join(root, "khai-guard.config.json"), "utf8"));
+  const declared = (cfg.axisPolicy || {}).misfits || {};
+  const titles = houseTitles(root);
+  const names = (d, other) => {
+    const t = titles.get(other);
+    return !!t && fs.readFileSync(join(root, "misfits", d, "REFERENCE.md"), "utf8").includes(t);
+  };
+  const out = [];
+  const keys = Object.keys(declared).sort();
+  for (let i = 0; i < keys.length; i++) {
+    for (let j = i + 1; j < keys.length; j++) {
+      const [a, b] = [keys[i], keys[j]];
+      if (declared[a].axis !== declared[b].axis) continue;
+      if (declared[a].sign === declared[b].sign) continue;
+      out.push({ a, b, axis: declared[a].axis, aNamesB: names(a, b), bNamesA: names(b, a) });
+    }
+  }
+  return out;
 }
