@@ -103,19 +103,33 @@ make opposite claims about the same intervention on the same quantity and share
 no scholar and no work at all.
 
 So the opposition is declared once and computed forever, the same shape as
-`canon`: `axisPolicy` (`khai-guard.config.json`) records the quantity a misfit
-acts on and the **sign** of the outcome's response to an increase in it. Two
-misfits on one axis with opposite signs are in conflict and **must name each
-other and say what sets the sign**. It lives in config rather than play
-frontmatter because the canon validator owns the frontmatter schema and rejects
-unknown keys.
+`canon`. Each misfit's **`REFERENCE.md` frontmatter** records the quantity it
+acts on and the **sign** of the outcome's response to an increase in it:
 
-**Currently a pilot** over the density-dependence family, 8 of 246. It has
-already earned itself: from those eight it found Room to Grow against Worth More
-Nearly Gone, which a hand sweep of the same family had missed, and it correctly
-declined to flag Safety in Numbers against Worth More Nearly Gone, which share an
-axis and a sign. Declaring more of the house widens the check; it does not change
-it.
+```yaml
+axis: population-density
+sign: negative # how the outcome moves as that quantity rises
+```
+
+Two misfits on one axis with opposite signs are in conflict and **must name each
+other and say what sets the sign**. The declaration sits in the warrant, not in
+`khai-guard.config.json` where it started and not in play frontmatter, for two
+reasons that decided the design: the config is the governance lane, so a misfit
+could never declare its own axis in the pull request that adds it, and the canon
+validator owns the play's frontmatter schema and rejects unknown keys. The
+warrant's frontmatter is unpoliced and rides the misfit's own lane.
+
+**Declaring is not optional for new work.** The opposition check iterates the
+misfits that declare an axis, not the house, so an undeclared misfit is not
+caught and not failed: it is invisible. Coverage is therefore ratcheted. 238 of
+246 carry no axis yet and are grandfathered; a **new** misfit without one fails.
+A malformed declaration fails outright, since there is no legacy set of those.
+
+The declared 8 are the density-dependence family, and they earned the design:
+from those eight the check found Room to Grow against Worth More Nearly Gone,
+which a hand sweep of the same family had missed, and it correctly declined to
+flag Safety in Numbers against Worth More Nearly Gone, which share an axis and a
+sign. Declaring more of the house widens the check; it does not change it.
 
 ```
 node tests/science_overlap.mjs                 # overlaps and opposed pairs

@@ -1,5 +1,11 @@
 import { describe, it, expect } from "vitest";
-import { report, findUndeclared, findOpposed } from "./science_overlap.mjs";
+import {
+  report,
+  findUndeclared,
+  findOpposed,
+  findUnaxised,
+  findMalformedAxes,
+} from "./science_overlap.mjs";
 
 // The cross-misfit warrant gate for the Misfits house. Every other gate is
 // intra-misfit: the canon validator, the cast conformance, the language policy,
@@ -118,5 +124,39 @@ describe("Misfits house: cross-misfit warrant gate", () => {
       );
     }
     expect(silent.length).toBe(0);
+  });
+
+  it("no axis declaration is malformed", () => {
+    // A half-written or misspelled declaration is worse than none, because it
+    // reads as covered and checks nothing. There is no legacy set of these to
+    // grandfather, so this fails outright rather than ratcheting.
+    expect(findMalformedAxes()).toEqual([]);
+  });
+
+  it("coverage does not slip: no new misfit ships without an axis", () => {
+    // The opposition check iterates the misfits that declare an axis, not the
+    // house, so a misfit carrying no declaration is not caught and not failed:
+    // it is invisible. That is the same "depends on somebody remembering" the
+    // rest of this gate exists to remove, so coverage is ratcheted.
+    //
+    // 238 of 246 carry no axis yet. They are grandfathered and walk down as
+    // families are declared; what the ratchet refuses is a new misfit adding
+    // to them. Because the declaration lives in the misfit's own REFERENCE.md
+    // frontmatter rather than in khai-guard.config.json, it rides the same
+    // branch as the misfit it describes, so satisfying this costs no second
+    // pull request.
+    const UNAXISED_BASELINE = 238;
+    const unaxised = findUnaxised();
+    if (unaxised.length > UNAXISED_BASELINE) {
+      const fresh = unaxised.length - UNAXISED_BASELINE;
+      throw new Error(
+        `science-overlap: ${unaxised.length} misfit(s) declare no axis, baseline ${UNAXISED_BASELINE}.\n` +
+          `${fresh} new misfit(s) shipped without one, so the opposed-pair check\n` +
+          `cannot see them. Add to the misfit's REFERENCE.md frontmatter:\n\n` +
+          `  axis: <the quantity the play acts on>\n` +
+          `  sign: positive | negative   # how the outcome moves as that quantity rises\n`,
+      );
+    }
+    expect(unaxised.length).toBeLessThanOrEqual(UNAXISED_BASELINE);
   });
 });
