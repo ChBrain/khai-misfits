@@ -1,4 +1,6 @@
 ---
+axis: protective-cover
+sign: negative
 updated: "2026-07-20"
 ---
 
