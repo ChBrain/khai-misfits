@@ -93,6 +93,34 @@ declare their neighbour inside an Origin row. Reciprocity is **not** required:
 nearest is not symmetric, and a misfit may sit closest to one that sits closest
 to something else again.
 
+### And a misfit must say when it disagrees
+
+The two rules above catch misfits that **agree** too much. Neither can see the
+opposite failure. What makes two misfits contradict is that they come from
+different literatures, and coming from different literatures is exactly what
+makes them pass a shared-work check: **Room to Grow** and **Safety in Numbers**
+make opposite claims about the same intervention on the same quantity and share
+no scholar and no work at all.
+
+So the opposition is declared once and computed forever, the same shape as
+`canon`: `axisPolicy` (`khai-guard.config.json`) records the quantity a misfit
+acts on and the **sign** of the outcome's response to an increase in it. Two
+misfits on one axis with opposite signs are in conflict and **must name each
+other and say what sets the sign**. It lives in config rather than play
+frontmatter because the canon validator owns the frontmatter schema and rejects
+unknown keys.
+
+**Currently a pilot** over the density-dependence family, 8 of 246. It has
+already earned itself: from those eight it found Room to Grow against Worth More
+Nearly Gone, which a hand sweep of the same family had missed, and it correctly
+declined to flag Safety in Numbers against Worth More Nearly Gone, which share an
+axis and a sign. Declaring more of the house widens the check; it does not change
+it.
+
+```
+node tests/science_overlap.mjs                 # overlaps and opposed pairs
+```
+
 ## Versioning
 
 The minor version IS the misfit count, computed not chosen; the **Version Packages**

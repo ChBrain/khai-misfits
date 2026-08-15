@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { report, findUndeclared } from "./science_overlap.mjs";
+import { report, findUndeclared, findOpposed } from "./science_overlap.mjs";
 
 // The cross-misfit warrant gate for the Misfits house. Every other gate is
 // intra-misfit: the canon validator, the cast conformance, the language policy,
@@ -82,5 +82,41 @@ describe("Misfits house: cross-misfit warrant gate", () => {
       );
     }
     expect(undeclared.length).toBeLessThanOrEqual(UNDECLARED_BASELINE);
+  });
+
+  it("no opposed pair goes undeclared", () => {
+    // The third question, and the one the other two cannot ask. The shared-work
+    // wall catches misfits that agree so completely they are nearly one. It is
+    // structurally blind to the opposite failure, because what makes two misfits
+    // contradict is that they come from different literatures, which is exactly
+    // what makes them pass a shared-work check: Room to Grow and Safety in
+    // Numbers share no scholar and no work at all.
+    //
+    // So the opposition is declared once in `axisPolicy` and checked forever.
+    // Two misfits on one axis with opposite signs are in conflict and must name
+    // each other. The judgement is made at authoring; nothing is judged here.
+    //
+    // This is a pilot over one family, the density-dependence misfits, and it
+    // has already earned itself: from eight declared entries it found Room to
+    // Grow against Worth More Nearly Gone, which a hand sweep of that same
+    // family had missed, and it correctly declined to flag Safety in Numbers
+    // against Worth More Nearly Gone, which share an axis and a sign. Declaring
+    // the rest of the house widens the check; it does not change it.
+    const silent = findOpposed().filter((p) => !p.aNamesB || !p.bNamesA);
+    if (silent.length) {
+      throw new Error(
+        `science-overlap: ${silent.length} opposed pair(s) not declared from both sides.\n` +
+          `Two misfits on one axis with opposite signs make contradictory claims,\n` +
+          `and a reader taking either as the general law will be wrong about the\n` +
+          `other's cases. Each must name the other and say what sets the sign.\n\n` +
+          silent
+            .map(
+              (p) =>
+                `  [${p.axis}] ${p.a} vs ${p.b} (${p.aNamesB ? "" : "a->b missing "}${p.bNamesA ? "" : "b->a missing"})`,
+            )
+            .join("\n"),
+      );
+    }
+    expect(silent.length).toBe(0);
   });
 });
