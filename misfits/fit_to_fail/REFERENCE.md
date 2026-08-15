@@ -1,4 +1,6 @@
 ---
+axis: competitive-trait
+sign: negative
 updated: "2026-07-06"
 ---
 

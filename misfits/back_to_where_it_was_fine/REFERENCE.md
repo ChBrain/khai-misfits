@@ -1,4 +1,6 @@
 ---
+axis: nutrient-load
+sign: negative
 updated: "2026-08-09"
 ---
 

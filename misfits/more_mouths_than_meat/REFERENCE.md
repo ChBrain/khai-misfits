@@ -1,4 +1,6 @@
 ---
+axis: response-lag
+sign: negative
 updated: "2026-08-03"
 ---
 

@@ -1,4 +1,6 @@
 ---
+axis: risk-pool-members
+sign: positive
 updated: "2026-07-24"
 ---
 
