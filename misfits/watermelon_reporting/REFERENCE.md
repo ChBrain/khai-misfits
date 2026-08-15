@@ -20,6 +20,11 @@ predominantly optimistic, roughly twice as often as pessimistic (Snow, Keil & Wa
 driven by incentives as much as by cognitive error (Flyvbjerg); the play stages the incentive
 gradient.
 
+It is distinct from the house's **The Frozen Middle**, where a bold change dies in the middle,
+softened on the way down and the hard truth smoothed on the way up: there the layer alters a change
+and a truth in both directions, whereas here the traffic is one way, a status climbing, and each
+rung passes on the green because its own standing is made of the green it reports.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

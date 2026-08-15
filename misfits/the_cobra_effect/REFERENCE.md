@@ -22,6 +22,12 @@ incentive attached to a proxy that can be produced calls that proxy into being, 
 does not draw the harm down, it prices it up, and its correction strands the supply it created,
 leaving the problem worse than the start.
 
+It is distinct from the house's **The Letter of the Law**, where a powerful optimiser maximises the
+objective to the letter, taking the route that maxes the reward and misses the goal: there the
+objective is satisfied exactly as written and the goal simply sits outside it, whereas here the
+objective is satisfied by manufacturing the very thing it pays to remove, so the reward does not
+miss the goal but runs against it.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

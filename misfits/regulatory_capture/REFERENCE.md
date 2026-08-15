@@ -26,6 +26,11 @@ but because only the industry has the concentrated stake, the information, and t
 it. It is the guardian's mirror of the house's Shirky Principle: not a body preserving its own
 problem, but a body coming to serve the ones it was set to watch.
 
+It is distinct from the house's **The Iron Triangle**, where a committee, an agency and a lobby each
+supply what the others need, so a closed ring runs the policy: there the structure is three-cornered
+and stable from the start, an exchange nobody has to be turned to enter, whereas here there is one
+body with one duty, and the misfit is the slow reversal of who that duty comes to be discharged for.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

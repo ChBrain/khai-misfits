@@ -20,6 +20,12 @@ load-bearing vectors of the structure, not as a tale of weak workers. The govern
 the source literature is the play's governing law: men and months are not interchangeable, so a
 schedule that buys time with headcount pays for the headcount in the very time it was buying.
 
+It is distinct from the house's **No Idle Hands**, where driving a resource to full use to erase
+idleness makes the queue behind it swell without bound as the slack runs out: there the resource is
+held constant and it is utilisation that is pushed up, whereas here the resource itself is added to,
+and the added heads bring a ramp-up and a cross-talk that consume more than they contribute, so the
+remedy is what extends the schedule.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

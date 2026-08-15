@@ -21,6 +21,12 @@ play's governing law: when quality is unobservable to buyers, price reflects the
 overpays the bad and underpays the good, so the good exit and the average falls, driving out the
 next best, and the market runs one direction, down, toward the worst it contains.
 
+It is distinct from the house's **Bad Coin**, where good and shoddy pass at the same bar, so the
+shoddy circulates and the careful work is quietly withdrawn: there nothing is hidden and a rule
+valuing visible quality equally does all the work, whereas here the quality is genuinely
+unobservable to the buyer, which is why the price must pool at the average and why the unravelling
+can take the market with it.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

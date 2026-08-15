@@ -26,6 +26,12 @@ without its cause, but a genuinely powerful tool over-reached because it is the 
 mastered, with the problem bent to fit it. Its near-neighbour, the Streetlight Effect, turns on a
 different pivot: searching where the light is easiest, not applying the tool one is expert in.
 
+It is distinct from the house's **The Streetlight Effect**, where the answer lies in the dark so the
+search works the lit patch, where looking is easy: there the ground searched is chosen and the rest
+of the ground is left untouched and intact, whereas here the problem itself is reshaped to fit the
+tool, trimmed to the shape the one mastered instrument can strike, so what falls outside is not
+skipped but cut away.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

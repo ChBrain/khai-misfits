@@ -22,6 +22,12 @@ the source literature is the play's governing law: knowledge routes to whoever a
 because that is fastest, so each use deepens its concentration instead of distributing it, and
 dependence and fragility rise together, one direction, until the holder is gone.
 
+It is distinct from the house's **The Brittle Optimum**, where each slice of slack is idle waste in
+calm, so it is trimmed away until the leanest system shatters on the first shock: there the
+redundancy is seen, costed and deliberately removed, whereas here it was never there to remove, the
+concentration built itself out of the ordinary speed of one person who knew everything, and nobody
+decided anything at any point.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

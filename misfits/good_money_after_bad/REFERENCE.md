@@ -22,6 +22,12 @@ spent, not forward at marginal value, so it is one-directional, because sunk cos
 accumulates, and a rule that funds in proportion to prior loss funds a failure in
 proportion to how badly it has failed.
 
+It is distinct from the house's **The Dollar Auction**, where a dollar goes to the top bidder and
+the runner-up pays too, so each rational raise carries both past the prize: there the structure of
+the payoff makes continuing genuinely rational at every step, whereas here continuing is not
+rational at any step and the error is in the accounting, a gate weighing what was spent instead of
+what is left to gain.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

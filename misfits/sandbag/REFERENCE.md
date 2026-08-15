@@ -23,6 +23,12 @@ standard you are held to next period rises with what you deliver this period, th
 is to hold back, so a firm that rewards good performance with a stiffer goal is training its people
 to hide how good they are.
 
+It is distinct from the house's **Metric Fixation**, where a number chosen to stand for a goal is
+hit exactly and truthfully and the goal it stood for quietly dies: there the measure is the wrong
+measure and the effort bent to it goes to the wrong place, whereas here the measure may be perfectly
+good and the effort is not misdirected but withheld, because next year's target is made out of this
+year's result.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

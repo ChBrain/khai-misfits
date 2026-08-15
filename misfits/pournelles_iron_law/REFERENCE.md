@@ -27,6 +27,12 @@ the body over service to the mission. It is a sibling of the house's Shirky Prin
 engine: not a body that preserves the problem it was built to solve, but a body whose internal
 selection hands control to the members loyal to it over the members loyal to its purpose.
 
+It is distinct from the house's **The Shirky Principle**, where the body built to cure a problem
+comes to depend on it and solves just enough to stay needed: there the mission is intact and what
+turns is the organisation's relation to the problem outside it, whereas here the problem outside is
+untouched and it is the internal contest for control that is decided, by the people who tend the
+machinery against the people who tend the purpose.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

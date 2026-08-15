@@ -20,6 +20,12 @@ vectors of the structure, not as a tale of pure talent. The governing finding of
 is the play's governing law: to those who have, more is given, because having is read as deserving and
 becomes the resource that makes the next having.
 
+It is distinct from the house's **Path Dependence**, where a lead won by accident compounds as each
+adopter picks what others picked, until a worse standard locks in: there the lock is a coordination
+problem and what locks is a standard everybody must share, whereas here nothing needs to be shared,
+the advantage accrues to one actor through the credit and resources an early lead attracts, and it
+would compound with a single observer.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

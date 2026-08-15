@@ -23,6 +23,12 @@ a body spends its scrutiny in inverse proportion to the stakes, and it runs one 
 because engagement breeds engagement on the graspable item while silence breeds silence on
 the opaque one.
 
+It is distinct from the house's **The Streetlight Effect**, where the answer lies in the dark so the
+search works the lit patch and takes what it finds for it: there one searcher looks where looking is
+easy and mistakes the found for the sought, whereas here a room of people each has something to say
+about the trivial thing and nothing to say about the vital one, so scrutiny lands by comprehension
+rather than by importance.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

@@ -22,6 +22,12 @@ literature is the play's governing law: when a sample is conditioned on survival
 survivors share is confounded with surviving, so honest analysis of the present points away from the
 truth, and only reasoning about the missing turns it back.
 
+It is distinct from the house's **The File Drawer**, where only the studies that worked reach the
+record, so science reads surer than it is: there the filter is a decision somebody makes about what
+to submit and what to publish, whereas here nobody decides anything and no record is withheld, the
+missing cases are simply absent because they did not come back, so the evidence is complete about
+the wrong population.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

@@ -26,6 +26,12 @@ governance cousin of the house's Anticommons: where the Anticommons fragments th
 resource among many owners so the resource sits idle, vetocracy fragments the power to decide among
 many actors so no decision can be made, one an underused thing and the other an unmade choice.
 
+It is distinct from the house's **The Anticommons**, where too many owners each hold a veto over one
+resource, so it sits idle: anyone can say no and no one can say yes: there the vetoes are property
+rights over a thing and what is lost is the use of that thing, whereas here they are procedural
+checks over a decision, each placed deliberately and defensibly to prevent a specific abuse, and
+what is lost is the capacity to decide at all.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.

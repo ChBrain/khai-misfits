@@ -21,6 +21,12 @@ governing finding of the source literature is the play's governing law: to win a
 auction is to learn your estimate was the highest in the field, which is bad news about your
 estimate, so a rational bidder must bid as if winning already told them they were too high.
 
+It is distinct from the house's **The Best on Paper**, where picking the highest-scoring option
+picks the one whose estimate ran luckiest, so it tends to disappoint: there the selection is made by
+one chooser over estimates it holds itself and the cost is a disappointment, whereas here it is made
+by a competitive process over many bidders' private estimates and the cost is paid in cash to a
+seller, so winning is itself the evidence of having overpaid.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.
