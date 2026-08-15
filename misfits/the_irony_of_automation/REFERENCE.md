@@ -1,4 +1,6 @@
 ---
+axis: automation-coverage
+sign: negative
 updated: "2026-07-03"
 ---
 

@@ -1,4 +1,6 @@
 ---
+axis: buffer-slack
+sign: negative
 updated: "2026-07-24"
 ---
 
@@ -50,6 +52,17 @@ a bistable overload held up by retries, here nothing retries and nothing is bist
 largely preserved and it is latency alone that balloons, so bufferbloat and congestion collapse are
 near-opposite failures of the same link, one destroying delay and the other destroying throughput,
 joined only by the active-queue-management remedy that answers both.
+
+It runs against two of the house's plays at once, **No Idle Hands** and **The Brittle Optimum**, and
+the pair of oppositions is the same opposition twice: there slack is the thing being defended, spare
+capacity trimmed away until the queue explodes or the first shock shatters the system, whereas here
+the buffer is the thing doing the harm and draining it is the cure. What sets the sign is whether
+the load is answering the queue. Slack absorbs variability that arrives regardless, so more of it is
+better against a load that does not care how full you are. A buffer deep enough never to drop sits
+inside a control loop, and the drop it refuses is the signal that would have slowed the sender, so
+its depth destroys the feedback that regulates its own input. Spare capacity helps where the load is
+exogenous and harms where the load is a reply to the queue, and the same figure of merit reads both
+ways.
 
 ## Origin
 

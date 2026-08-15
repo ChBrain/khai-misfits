@@ -1,4 +1,6 @@
 ---
+axis: alarm-sensitivity
+sign: negative
 updated: "2026-07-03"
 ---
 

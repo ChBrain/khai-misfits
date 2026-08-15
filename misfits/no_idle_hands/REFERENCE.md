@@ -1,4 +1,6 @@
 ---
+axis: buffer-slack
+sign: positive
 updated: "2026-07-03"
 ---
 
@@ -35,6 +37,14 @@ signals amplify as they travel upstream along a supply chain, each stage over-or
 the last, a distortion that propagates down a chain of nodes: here the phenomenon is a single node's non-linear
 response to its own load, the wait diverging at one server driven near full, not a signal distorting as it moves
 from station to station.
+
+It runs against the house's **Too Kind to Drop**, where a buffer that refuses to drop packets hides
+the loss that would tell the sender to slow, so it fills and the latency balloons: there spare
+capacity is the harm and draining it is the cure, whereas here spare capacity is what the queue was
+living on and erasing it is what makes the queue unbounded. What sets the sign is whether the load
+answers the queue. Arrivals here are exogenous, indifferent to how full the server is, so slack
+absorbs them; there the sender is watching, and a buffer deep enough never to drop destroys the
+signal that would have slowed it.
 
 ## Origin
 

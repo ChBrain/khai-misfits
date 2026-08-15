@@ -1,4 +1,6 @@
 ---
+axis: buffer-slack
+sign: positive
 updated: "2026-07-03"
 ---
 
@@ -28,6 +30,15 @@ idle waste, and the harm is a latent fragility, not a borrowed future. And it is
 Limits to Growth, where an engine is driven harder into a binding limit: here the system is not straining
 against a ceiling but running lean and well, and it fails not from a limit it pushes but from a shock it
 cannot absorb.
+
+It runs against the house's **Too Kind to Drop**, where a buffer deep enough never to drop hides the
+loss that would tell the sender to slow, so it fills and the latency balloons: there the slack is
+the harm and draining it is the cure, whereas here the slack is the only thing standing between an
+efficient system and the first shock. What sets the sign is whether the load answers the buffer. A
+shock that arrives regardless is absorbed by spare capacity, so trimming it is what shatters the
+system; a sender that reads the queue is regulated by the drop, so a buffer that never drops removes
+its own governor. Neither play is a general rule about slack, and there is no figure of merit that
+points the same way in both.
 
 ## Origin
 
