@@ -245,6 +245,13 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       );
     process.exit(0);
   }
+  if (args.includes("--families")) {
+    for (const f of canonFamilies()) {
+      const marked = f.misfits.map((d) => (f.declared.includes(d) ? d : d + " (no axis)"));
+      console.log(`[${f.misfits.length}] ${f.work}\n     ${marked.join(", ")}`);
+    }
+    process.exit(0);
+  }
   const r = report();
   if (args.includes("--json")) {
     console.log(JSON.stringify({ rows: r.rows, overlaps: r.overlaps, pairs: r.pairs }, null, 2));
@@ -352,4 +359,35 @@ export function findOpposed(root = ROOT) {
     }
   }
   return out;
+}
+
+// The canon list read forwards. `workPolicy.canon` exists to stop a field's
+// foundational text reading as a shared spine, so it is written as a list of
+// exceptions, but the same data says something positive: the misfits citing one
+// canon work are in one conversation. That is exactly the population where an
+// opposed pair hides, since two misfits in one literature are the ones with a
+// quantity in common to disagree about.
+//
+// It is a better candidate generator than intuition. The density-dependence and
+// safety families were both picked by hand; this hands back every family the
+// house actually has, ranked, with the undeclared members marked, so the next
+// family to declare is read off rather than guessed at.
+export function canonFamilies(root = ROOT) {
+  const policy = loadPolicy(root);
+  const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
+  const declared = axesOf(root);
+  const fam = new Map();
+  for (const r of rows) {
+    const stem = normaliseWork(r.work, policy.aliases);
+    if (!policy.canon.includes(stem)) continue;
+    if (!fam.has(stem)) fam.set(stem, new Set());
+    fam.get(stem).add(r.misfit);
+  }
+  return [...fam.entries()]
+    .map(([work, set]) => {
+      const misfits = [...set].sort();
+      return { work, misfits, declared: misfits.filter((d) => declared.has(d)) };
+    })
+    .filter((f) => f.misfits.length > 1)
+    .sort((a, b) => b.misfits.length - a.misfits.length || a.work.localeCompare(b.work));
 }

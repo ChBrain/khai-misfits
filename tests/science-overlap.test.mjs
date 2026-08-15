@@ -145,7 +145,7 @@ describe("Misfits house: cross-misfit warrant gate", () => {
     // frontmatter rather than in khai-guard.config.json, it rides the same
     // branch as the misfit it describes, so satisfying this costs no second
     // pull request.
-    const UNAXISED_BASELINE = 238;
+    const UNAXISED_BASELINE = 228;
     const unaxised = findUnaxised();
     if (unaxised.length > UNAXISED_BASELINE) {
       const fresh = unaxised.length - UNAXISED_BASELINE;
