@@ -56,6 +56,15 @@ oscillation: there the price and quantity **cycle** around an equilibrium throug
 whereas here there is no lag and no oscillation but a monotonic spiral, each loss raising the price
 permanently and irreversibly, since the stock does not grow back into the next round.
 
+It runs against the house's **Room to Grow**, and the pair is worth reading together: there thinning
+a population relieves its own crowding and the survivors overcompensate, so the number can rise,
+whereas here thinning it raises the price it commands and the exploitation intensifies, so the
+decline accelerates. Same intervention, opposite sign, and the difference is the channel: the
+response there is biological and self-limiting, running through competition at the bottleneck, and
+here it is economic and self-reinforcing, running through a market that pays more for what is nearly
+gone. A cull that a fishery survives can finish a rarity, and nothing about the population tells you
+which.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.
