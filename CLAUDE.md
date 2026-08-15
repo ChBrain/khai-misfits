@@ -41,6 +41,37 @@ the floor. The standard is the Playwright's standing plan,
 [Cut to Fit](management/plan_cut_to_fit.md); read it before authoring or
 restaging a misfit.
 
+### A work belongs to one misfit
+
+Every other gate is **intra-misfit**: the canon validator, the cast conformance,
+the language policy, the LORE check, the isolation rule, the lane and the
+changeset all ask _is this misfit well-formed?_ None asks _is this misfit already
+in the house?_ The registry build counts directories; it never compares them. So
+two misfits can stage one mechanism off one research spine and every gate passes,
+which is how **A Reason Too Many** and **Paid to Stop Caring** both came to anchor
+on Deci (1971) and on Lepper, Greene and Nisbett (1973) without either naming the
+other.
+
+The rule is computed, not judged: **the same scholar across different works is
+expected and is most of the index; the same (scholar, work) carrying the spine of
+two misfits is a finding.** It runs off `docs/SCIENCE.md`, the generated forward
+map the drift gate already holds to a fresh build, with two configured exits in
+`workPolicy` (`khai-guard.config.json`):
+
+- **`canon`**: a field's foundational text, which many misfits in one family may
+  share. Citing the canon is not sharing a spine.
+- **`contrastMarkers`**: the vocabulary that marks a work cited to hold a line
+  rather than to carry one, the convention the house already writes in prose
+  (`cited to distinguish`, `Distinction only.`).
+
+Ask **before** authoring, not at the pull request, since the cheapest place to
+find an overlap is before 31 files exist:
+
+```
+node tests/science_overlap.mjs --check "<Scholar> :: <Key Work>"
+node tests/science_overlap.mjs                 # the whole house
+```
+
 ## Versioning
 
 The minor version IS the misfit count, computed not chosen; the **Version Packages**

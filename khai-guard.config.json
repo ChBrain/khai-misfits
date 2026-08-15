@@ -104,5 +104,21 @@
   },
   "driftPolicy": {
     "scopes": ["@chbrain/"]
+  },
+  "workPolicy": {
+    "contrastMarkers": [
+      "cited to distinguish",
+      "cited to mark the line",
+      "distinction only",
+      "distinction.",
+      "the neighbour, held clear",
+      "the cousin, and the difference",
+      "the classical effect it is named against",
+      "held near",
+      "held clear",
+      "(contrast)"
+    ],
+    "canon": [],
+    "aliases": {}
   }
 }
