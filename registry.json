@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.248.0",
+  "version": "0.249.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -53394,6 +53394,198 @@
           "kind": "process",
           "title": "Shaping",
           "taxonomy": "play_you_are_the_product.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "you_have_to_mean_it",
+      "title": "You Have to Mean It",
+      "description": "A threat works only if it is meant, and if it works it is never carried out, so the meaning is all there is.",
+      "members": [
+        {
+          "file": "persona_the_act_that_never_comes.md",
+          "kind": "persona",
+          "title": "The Act That Never Comes",
+          "type": "archetype",
+          "taxonomy": "position_act_that_never_comes.md"
+        },
+        {
+          "file": "persona_the_deterred.md",
+          "kind": "persona",
+          "title": "The Deterred",
+          "type": "archetype",
+          "taxonomy": "position_deterred.md"
+        },
+        {
+          "file": "persona_the_intention.md",
+          "kind": "persona",
+          "title": "The Intention",
+          "type": "archetype",
+          "taxonomy": "position_intention.md"
+        },
+        {
+          "file": "persona_the_one_who_must_mean_it.md",
+          "kind": "persona",
+          "title": "The One Who Must Mean It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_must_mean_it.md"
+        },
+        {
+          "file": "persona_the_ones_who_judge_it.md",
+          "kind": "persona",
+          "title": "The Ones Who Judge It",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_judge_it.md"
+        },
+        {
+          "file": "piece_the_reason_that_expires.md",
+          "kind": "piece",
+          "title": "The Reason That Expires",
+          "taxonomy": "place_the_morning_after.md"
+        },
+        {
+          "file": "piece_the_signal.md",
+          "kind": "piece",
+          "title": "The Signal",
+          "taxonomy": "place_the_room_where_it_is_formed.md"
+        },
+        {
+          "file": "piece_the_standing_order.md",
+          "kind": "piece",
+          "title": "The Standing Order",
+          "taxonomy": "place_the_room_where_it_is_formed.md"
+        },
+        {
+          "file": "pitch_if_it_works_nothing_happens.md",
+          "kind": "pitch",
+          "title": "If It Works, Nothing Happens",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "place_the_morning_after.md",
+          "kind": "place",
+          "title": "The Morning After",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "place_the_room_where_it_is_formed.md",
+          "kind": "place",
+          "title": "The Room Where It Is Formed",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "plan_be_believed.md",
+          "kind": "plan",
+          "title": "Be Believed",
+          "taxonomy": "persona_the_intention.md"
+        },
+        {
+          "file": "plan_judge_the_intention.md",
+          "kind": "plan",
+          "title": "Judge the Intention",
+          "taxonomy": "persona_the_ones_who_judge_it.md"
+        },
+        {
+          "file": "plan_not_be_attacked.md",
+          "kind": "plan",
+          "title": "Not Be Attacked",
+          "taxonomy": "persona_the_one_who_must_mean_it.md"
+        },
+        {
+          "file": "play_you_have_to_mean_it.md",
+          "kind": "play",
+          "title": "You Have to Mean It"
+        },
+        {
+          "file": "plot_and_you_are_changed.md",
+          "kind": "plot",
+          "title": "And You Are Changed",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "plot_nobody_decides_on_the_day.md",
+          "kind": "plot",
+          "title": "Nobody Decides on the Day",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "plot_only_if_you_mean_it.md",
+          "kind": "plot",
+          "title": "Only If You Mean It",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "plot_the_only_part_that_exists.md",
+          "kind": "plot",
+          "title": "The Only Part That Exists",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "plot_the_reason_expires.md",
+          "kind": "plot",
+          "title": "The Reason Expires",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "plot_wrong_to_do_right_to_intend.md",
+          "kind": "plot",
+          "title": "Wrong to Do, Right to Intend",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "position_act_that_never_comes.md",
+          "kind": "position",
+          "title": "Act That Never Comes",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "position_deterred.md",
+          "kind": "position",
+          "title": "Deterred",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "position_intention.md",
+          "kind": "position",
+          "title": "Intention",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "position_one_who_must_mean_it.md",
+          "kind": "position",
+          "title": "One Who Must Mean It",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "position_ones_who_judge_it.md",
+          "kind": "position",
+          "title": "Ones Who Judge It",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "process_meaning_it.md",
+          "kind": "process",
+          "title": "Meaning It",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "process_reading_it.md",
+          "kind": "process",
+          "title": "Reading It",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "process_standing_down.md",
+          "kind": "process",
+          "title": "Standing Down",
+          "taxonomy": "play_you_have_to_mean_it.md"
+        },
+        {
+          "file": "process_tying_the_hand.md",
+          "kind": "process",
+          "title": "Tying the Hand",
+          "taxonomy": "play_you_have_to_mean_it.md"
         }
       ]
     }
