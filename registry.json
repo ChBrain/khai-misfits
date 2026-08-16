@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.250.0",
+  "version": "0.251.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -11866,6 +11866,198 @@
           "kind": "process",
           "title": "Reserving",
           "taxonomy": "play_kept_for_the_worst.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "kept_from_burning",
+      "title": "Kept From Burning",
+      "description": "Every small fire put out is the right call, and the fuel it leaves standing builds the one that cannot be put out.",
+      "members": [
+        {
+          "file": "persona_the_crew.md",
+          "kind": "persona",
+          "title": "The Crew",
+          "type": "archetype",
+          "taxonomy": "position_crew.md"
+        },
+        {
+          "file": "persona_the_land.md",
+          "kind": "persona",
+          "title": "The Land",
+          "type": "archetype",
+          "taxonomy": "position_land.md"
+        },
+        {
+          "file": "persona_the_one_that_comes.md",
+          "kind": "persona",
+          "title": "The One That Comes",
+          "type": "archetype",
+          "taxonomy": "position_one_that_comes.md"
+        },
+        {
+          "file": "persona_the_record.md",
+          "kind": "persona",
+          "title": "The Record",
+          "type": "archetype",
+          "taxonomy": "position_record.md"
+        },
+        {
+          "file": "persona_the_small_fire.md",
+          "kind": "persona",
+          "title": "The Small Fire",
+          "type": "archetype",
+          "taxonomy": "position_small_fire.md"
+        },
+        {
+          "file": "piece_the_fuel_that_stayed.md",
+          "kind": "piece",
+          "title": "The Fuel That Stayed",
+          "taxonomy": "place_the_slope.md"
+        },
+        {
+          "file": "piece_the_narrowing_window.md",
+          "kind": "piece",
+          "title": "The Narrowing Window",
+          "taxonomy": "place_the_fiftieth_year.md"
+        },
+        {
+          "file": "piece_the_threshold.md",
+          "kind": "piece",
+          "title": "The Threshold",
+          "taxonomy": "place_the_fiftieth_year.md"
+        },
+        {
+          "file": "pitch_nothing_burned_this_year.md",
+          "kind": "pitch",
+          "title": "Nothing Burned This Year",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "place_the_fiftieth_year.md",
+          "kind": "place",
+          "title": "The Fiftieth Year",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "place_the_slope.md",
+          "kind": "place",
+          "title": "The Slope",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "plan_burn_often_and_lightly.md",
+          "kind": "plan",
+          "title": "Burn Often and Lightly",
+          "taxonomy": "persona_the_land.md"
+        },
+        {
+          "file": "plan_give_the_land_back_its_fire.md",
+          "kind": "plan",
+          "title": "Give the Land Back Its Fire",
+          "taxonomy": "persona_the_record.md"
+        },
+        {
+          "file": "plan_save_what_is_there.md",
+          "kind": "plan",
+          "title": "Save What Is There",
+          "taxonomy": "persona_the_crew.md"
+        },
+        {
+          "file": "play_kept_from_burning.md",
+          "kind": "play",
+          "title": "Kept From Burning"
+        },
+        {
+          "file": "plot_and_you_cannot_stop.md",
+          "kind": "plot",
+          "title": "And You Cannot Stop",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "plot_every_one_is_right.md",
+          "kind": "plot",
+          "title": "Every One Is Right",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "plot_it_adds_with_no_steps.md",
+          "kind": "plot",
+          "title": "It Adds With No Steps",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "plot_past_what_can_be_held.md",
+          "kind": "plot",
+          "title": "Past What Can Be Held",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "plot_the_record_says_it_works.md",
+          "kind": "plot",
+          "title": "The Record Says It Works",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "plot_the_window_narrowed.md",
+          "kind": "plot",
+          "title": "The Window Narrowed",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "position_crew.md",
+          "kind": "position",
+          "title": "Crew",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "position_land.md",
+          "kind": "position",
+          "title": "Land",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "position_one_that_comes.md",
+          "kind": "position",
+          "title": "One That Comes",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "position_record.md",
+          "kind": "position",
+          "title": "Record",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "position_small_fire.md",
+          "kind": "position",
+          "title": "Small Fire",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "process_putting_fire_back.md",
+          "kind": "process",
+          "title": "Putting Fire Back",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "process_putting_it_out.md",
+          "kind": "process",
+          "title": "Putting It Out",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "process_reading_the_record.md",
+          "kind": "process",
+          "title": "Reading the Record",
+          "taxonomy": "play_kept_from_burning.md"
+        },
+        {
+          "file": "process_standing_the_fuel.md",
+          "kind": "process",
+          "title": "Standing the Fuel",
+          "taxonomy": "play_kept_from_burning.md"
         }
       ]
     },
