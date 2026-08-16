@@ -4001,3 +4001,33 @@ it would be the defect the warrant gate exists to remove. Held for the same reas
 literature's own trap, a firm that innovates and cannot capture losing to the holders of the complementary
 assets, which is Teece's own reading and belongs in the Origin table of the play above rather than in a play of
 its own.
+
+A refinement of that line, from the house, and it does two things to it rather than one. The observation is that
+the grant shifts the game from investment against a product asset to investment against a team, and that this
+works better in some markets than in others.
+
+The second half is a **scope bound**, and it makes the line stronger rather than weaker, the same way Kept From
+Burning is scoped to frequent-fire types and would have been an overreach unscoped. Opening is the right call
+where the binding constraint is credibility, developer trust and execution speed, which is developer tooling and
+infrastructure, and is the wrong call where the defensible position was regulatory standing, capital intensity,
+distribution scale, a data asset or a long sales cycle, since there the grant gives away the one thing that
+could have been held and buys a currency the market does not price. So the play is to be cut to the first
+environment and to say so, and a version that read as a general law about software companies would be claiming
+more than the record carries.
+
+The first half is an **authoring hazard, and the sharper reading**. "It becomes a team game" is the exact shape
+the no-hero standard forbids: a play that ends with the good team surviving and rebuilding has resolved the
+misfit into a costless correction and is not this house's. The honest reading closes the trap instead of
+opening an exit, because the team is not the resolution, it is the **next** asset the firm cannot own. Code is
+given away, so what is left to invest in is people, and people are not ownable either; and the environment in
+which opening was correct, fast, credibility-driven and thick with mobile developers, is the same environment
+in which that team is most easily recomposed somewhere else. The strategy that works selects for an asset that
+can walk.
+
+That is one mechanism with two instantiations, non-appropriability in the code and then in the people, and not
+two mechanisms, so it is folded into the incumbent line and its warrant runs deeper rather than a second play
+being stacked beside it. Becker's general against specific human capital is the Origin row it wants, since a
+firm underinvesting in portable capital it cannot appropriate is the same regime named forty years earlier: the
+concordance holds Gary Becker three times already, on pressure groups, on marriage and on discrimination, all
+different works, so `Human Capital` is clear and the scholar is the same person under a key that already
+resolves.
