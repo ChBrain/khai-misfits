@@ -1,7 +1,7 @@
 ---
 concept: "Secondary Salinisation (the water leaves, the salt stays)"
 field: "Ecology, evolution, and public health"
-source: 'Jacobsen & Adams, "Salt and Silt in Ancient Mesopotamian Agriculture" (Science, 1958)'
+source: 'Jacobsen & Robert McC. Adams, "Salt and Silt in Ancient Mesopotamian Agriculture" (Science, 1958)'
 updated: "2026-08-09"
 ---
 
@@ -74,7 +74,7 @@ The phenomenon in practice, and the research spine beneath it.
 
 | Source                             | Key Work / Event                                                                                                                                    | Scope                                                                                                                                                                                                  |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Jacobsen & Adams**               | "Salt and Silt in Ancient Mesopotamian Agriculture" (_Science_, 1958)                                                                               | **The long record**: progressive salinity read from the crop tallies, wheat giving way to salt-tolerant barley in southern Mesopotamia, with the earliest and most serious episode from about 2400 BC. |
+| **Jacobsen & Robert McC. Adams**   | "Salt and Silt in Ancient Mesopotamian Agriculture" (_Science_, 1958)                                                                               | **The long record**: progressive salinity read from the crop tallies, wheat giving way to salt-tolerant barley in southern Mesopotamia, with the earliest and most serious episode from about 2400 BC. |
 | **Soil science**                   | the account of secondary salinisation: irrigation without drainage, water-table rise, capillary rise and evaporative concentration in the root zone | **The mechanism**: why the salt arrives and does not leave, and why the only remedy is more water than the crop needs, applied where water is scarce.                                                  |
 | **FAO and the global assessments** | the first major global assessment of salt-affected soils in fifty years, and the earlier irrigated-land figures                                     | **The extent**: roughly a tenth of irrigated cropland salt-affected on the recent assessment, higher on other estimates, and close to half the irrigated area in some countries including Iraq.        |
 | **Powell**                         | "Salt, Seed, and Yields in Sumerian Agriculture: A Critique of the Theory of Progressive Salinization" (_Zeitschrift für Assyriologie_, 1985)       | **The dispute**: the historical reading contested, with mitigation by drainage, leaching and fallow argued to have been available and used.                                                            |
