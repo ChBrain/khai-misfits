@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.247.0",
+  "version": "0.248.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -9876,6 +9876,198 @@
           "kind": "process",
           "title": "Leveling",
           "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "held_still_to_keep_it",
+      "title": "Held Still to Keep It",
+      "description": "A living practice can be saved only as one version of itself, and fixing that version stops the making that fed it.",
+      "members": [
+        {
+          "file": "persona_the_audience_it_gains.md",
+          "kind": "persona",
+          "title": "The Audience It Gains",
+          "type": "archetype",
+          "taxonomy": "position_audience_it_gains.md"
+        },
+        {
+          "file": "persona_the_need_for_an_object.md",
+          "kind": "persona",
+          "title": "The Need for an Object",
+          "type": "archetype",
+          "taxonomy": "position_need_for_an_object.md"
+        },
+        {
+          "file": "persona_the_ones_who_carry_it.md",
+          "kind": "persona",
+          "title": "The Ones Who Carry It",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_carry_it.md"
+        },
+        {
+          "file": "persona_the_practice.md",
+          "kind": "persona",
+          "title": "The Practice",
+          "type": "archetype",
+          "taxonomy": "position_practice.md"
+        },
+        {
+          "file": "persona_the_version_written_down.md",
+          "kind": "persona",
+          "title": "The Version Written Down",
+          "type": "archetype",
+          "taxonomy": "position_version_written_down.md"
+        },
+        {
+          "file": "piece_the_entry.md",
+          "kind": "piece",
+          "title": "The Entry",
+          "taxonomy": "place_the_inventory.md"
+        },
+        {
+          "file": "piece_the_recognition.md",
+          "kind": "piece",
+          "title": "The Recognition",
+          "taxonomy": "place_the_inventory.md"
+        },
+        {
+          "file": "piece_the_variant.md",
+          "kind": "piece",
+          "title": "The Variant",
+          "taxonomy": "persona_the_practice.md"
+        },
+        {
+          "file": "pitch_which_one_do_we_keep.md",
+          "kind": "pitch",
+          "title": "Which One Do We Keep",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "place_the_hall_after.md",
+          "kind": "place",
+          "title": "The Hall After",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "place_the_inventory.md",
+          "kind": "place",
+          "title": "The Inventory",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "plan_get_it_listed.md",
+          "kind": "plan",
+          "title": "Get It Listed",
+          "taxonomy": "persona_the_practice.md"
+        },
+        {
+          "file": "plan_go_on_doing_it.md",
+          "kind": "plan",
+          "title": "Go On Doing It",
+          "taxonomy": "persona_the_ones_who_carry_it.md"
+        },
+        {
+          "file": "plan_keep_it_alive.md",
+          "kind": "plan",
+          "title": "Keep It Alive",
+          "taxonomy": "persona_the_need_for_an_object.md"
+        },
+        {
+          "file": "play_held_still_to_keep_it.md",
+          "kind": "play",
+          "title": "Held Still to Keep It"
+        },
+        {
+          "file": "plot_a_second_life_as_itself.md",
+          "kind": "plot",
+          "title": "A Second Life as Itself",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "plot_and_refusing_costs_more.md",
+          "kind": "plot",
+          "title": "And Refusing Costs More",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "plot_it_lived_by_changing.md",
+          "kind": "plot",
+          "title": "It Lived by Changing",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "plot_one_version_at_one_moment.md",
+          "kind": "plot",
+          "title": "One Version, at One Moment",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "plot_the_ones_not_chosen.md",
+          "kind": "plot",
+          "title": "The Ones Not Chosen",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "plot_you_cannot_list_a_moving_thing.md",
+          "kind": "plot",
+          "title": "You Cannot List a Moving Thing",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "position_audience_it_gains.md",
+          "kind": "position",
+          "title": "Audience It Gains",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "position_need_for_an_object.md",
+          "kind": "position",
+          "title": "Need for an Object",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "position_ones_who_carry_it.md",
+          "kind": "position",
+          "title": "Ones Who Carry It",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "position_practice.md",
+          "kind": "position",
+          "title": "Practice",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "position_version_written_down.md",
+          "kind": "position",
+          "title": "Version Written Down",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "process_fixing_it.md",
+          "kind": "process",
+          "title": "Fixing It",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "process_making_it_again.md",
+          "kind": "process",
+          "title": "Making It Again",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "process_naming_it.md",
+          "kind": "process",
+          "title": "Naming It",
+          "taxonomy": "play_held_still_to_keep_it.md"
+        },
+        {
+          "file": "process_showing_it.md",
+          "kind": "process",
+          "title": "Showing It",
+          "taxonomy": "play_held_still_to_keep_it.md"
         }
       ]
     },
