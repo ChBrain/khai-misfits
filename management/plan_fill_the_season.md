@@ -3897,10 +3897,10 @@ organisations, twenty six in ecology and public health, twenty five in collectiv
 and candour, and five in the Senge archetypes, so the sweep looked past all eight rather than deeper inside
 them. Five candidates were run through REFERENCES.md by canonical name and through
 `science_overlap.mjs --check` by source before slating; all five cleared, and two name-collisions the
-concordance threw up are recorded here so nobody re-derives them. The Kessler in the house is Friedrich Kessler
-on contracts of adhesion, not Donald Kessler on orbital debris, and the Pauly in the house is Mark Pauly on
-moral hazard, not Daniel Pauly on fisheries. A canonical-name check that stops at the surname would have struck
-both candidates wrongly.
+concordance threw up are recorded here so nobody re-derives them. The house declares two Kesslers already,
+Friedrich on contracts of adhesion and Daniel on litigation selection, and neither of them is Donald Kessler on
+orbital debris; the Pauly in the house is Mark Pauly on moral hazard, not Daniel Pauly on fisheries. A
+canonical-name check that stops at the surname would have struck both candidates wrongly.
 
 - [ ] [P1] The Fire Suppression Paradox (Pyne, Fire in America, 1982; Minnich, "Fire Mosaics in Southern California and Northern Baja California", Science 1983; the fire-deficit and fuel-accumulation literature): every small fire put out is the right call in the moment and each one leaves its fuel standing, so decades of successful protection build the load for the fire that cannot be put out, distinct from Dry Enough to Build On's levee, where protection induces the exposure and builds the town the flood finds, in that nothing is built and nobody moves in, the hazard itself grows because the small releases that used to consume it were prevented, and distinct from The Brittle Optimum's trimmed slack in that nothing is removed, something accumulates; to be cut to that prevented-release vector and never to a fire service getting it wrong
 - [ ] [P1] Language Shift (Fishman, Reversing Language Shift, 1991; Crystal, Language Death, 2000; the intergenerational-transmission literature): each parent raises the child in the dominant language because it is plainly better for that child's prospects, and the language is still spoken by the elders so nothing looks lost at the moment of choosing, but transmission runs through a channel any single decision can sever and a chain once broken cannot be rejoined by the same means, distinct from Path Dependence's compounding switching costs and The Sort's tipping threshold in that the engine is a one-way generational gate rather than a lock-in or a tip; to be cut hard to the no-villain reading, parents choosing well for their children, and never to suppression or linguicide, which is a different phenomenon with an enforcer and fails the house standard
@@ -3933,11 +3933,24 @@ another, both recorded because the corrections are the useful part.
 - Bounds to carry into the warrant: the trust moderation is a specific finding rather than a general law and is to be stated as one; the territoriality literature is largely survey and field based, so the play stages a documented tendency and not a measured constant; and the construct boundary between psychological ownership and territoriality is itself argued over in the reviews, which the play carries rather than resolves.
 
 A standing note on the method, earned across these two passes. Four surname collisions turned up in a row, and
-every one of them would have struck a good candidate had the check stopped at the surname: the house's Kessler
-is Friedrich on contracts of adhesion and not Donald on orbital debris, its Pauly is Mark on moral hazard and
-not Daniel on fisheries, its Pierce is W. David of the Cameron and Pierce meta-analyses and not Jon of
-psychological ownership, and its Robinson is Robert on naive realism and not Sandra on territoriality. Four in
-two passes is not a coincidence, it is what a two hundred and fifty misfit concordance does: at this size a
-common surname is more likely than not to be taken by somebody else. So the dedup resolves to the person and
-the work, never to the surname, and `science_overlap.mjs --check` takes the full "Scholar :: Work" string for
-exactly this reason. A name hit is the start of the check, not the end of it.
+every one of them would have struck a good candidate had the check stopped at the surname: the house's Kesslers
+are Friedrich on contracts of adhesion and Daniel on litigation selection and neither is Donald on orbital
+debris, its Pauly is Mark on moral hazard and not Daniel on fisheries, its Pierce is W. David of the Cameron
+and Pierce meta-analyses and not Jon of psychological ownership, and its Robinson is Robert on naive realism
+and not Sandra on territoriality. Four in two passes is not a coincidence, it is what a two hundred and fifty
+misfit concordance does: at this size a common surname is more likely than not to be taken by somebody else. So
+the dedup resolves to the person and the work, never to the surname, and `science_overlap.mjs --check` takes
+the full "Scholar :: Work" string for exactly this reason. A name hit is the start of the check, not the end of
+it.
+
+Asking whether that note was enforced is what found the gate. It was not: this paragraph is prose in a
+management file, and prose is exactly the memory the rest of the gate exists to replace. The check the house
+actually needed was already half built and unread. `scholarPolicy.homonyms` declares the surnames the house
+shares between two or more people, the science build keys those as `Adams (Gordon)` against `Adams (John)`, and
+where it meets a declared surname with no matching given name it leaves the bare surname deliberately, so an
+unresolved occurrence stays visible rather than being attributed to one of them silently. Nine such occurrences
+were sitting in the index across five declared surnames, one of them added the same afternoon. They are the one
+hole in the shared-work wall, since a declared surname written bare in one misfit and resolved in another is one
+person split across two keys. So the reading of this note is now a wall: a declared surname may not appear in
+the index unresolved, `--namesakes` reports it, and `npm test` fails on it. The note stays because it explains
+why the gate exists; the gate is what enforces it.
