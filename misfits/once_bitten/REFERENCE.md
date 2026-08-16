@@ -1,4 +1,7 @@
 ---
+concept: "The Experience-Sampling Asymmetry (why most people disapprove of me)"
+field: "Measurement, cognition, and inquiry"
+source: "Denrell (Psychological Review, 2005)"
 updated: "2026-07-24"
 ---
 

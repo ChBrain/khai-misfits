@@ -1,4 +1,7 @@
 ---
+concept: "The Filter Bubble (echo chamber; group polarization)"
+field: "Measurement, cognition, and inquiry"
+source: "Pariser (2011); Sunstein"
 updated: "2026-07-03"
 ---
 

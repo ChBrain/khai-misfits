@@ -1,4 +1,7 @@
 ---
+concept: "The Samaritan's Dilemma (time-inconsistent altruism)"
+field: "Markets, money, and economic equilibria"
+source: 'Buchanan, "The Samaritan''s Dilemma" (1975)'
 axis: protective-cover
 sign: negative
 updated: "2026-07-21"

@@ -1,4 +1,7 @@
 ---
+concept: "The Ecological Trap (maladaptive habitat selection; the attractive sink)"
+field: "Ecology, evolution, and public health"
+source: "Schlaepfer, Runge & Sherman (TREE, 2002); Robertson & Hutto (2006)"
 updated: "2026-07-03"
 ---
 

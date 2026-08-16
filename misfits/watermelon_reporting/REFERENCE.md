@@ -1,4 +1,7 @@
 ---
+concept: "The MUM Effect (reluctance to convey bad news)"
+field: "Groups, candour, and face"
+source: "Rosen & Tesser (Sociometry, 1970)"
 updated: "2026-07-06"
 ---
 

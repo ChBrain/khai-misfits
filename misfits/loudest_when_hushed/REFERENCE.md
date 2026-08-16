@@ -1,4 +1,7 @@
 ---
+concept: "The Streisand Effect (suppression amplifying attention)"
+field: "Measurement, cognition, and inquiry"
+source: "the coinage from Streisand's 2003 suit; Masnick"
 updated: "2026-07-24"
 ---
 

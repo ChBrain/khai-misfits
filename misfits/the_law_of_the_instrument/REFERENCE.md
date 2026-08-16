@@ -1,4 +1,7 @@
 ---
+concept: "The Law of the Instrument (Maslow's hammer)"
+field: "Measurement, cognition, and inquiry"
+source: "Kaplan (1964); Maslow"
 updated: "2026-07-02"
 ---
 

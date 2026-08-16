@@ -1,4 +1,7 @@
 ---
+concept: "The Stag Hunt (the assurance game)"
+field: "Collective action, commons, and coordination"
+source: "Rousseau (1755); Skyrms"
 updated: "2026-07-03"
 ---
 

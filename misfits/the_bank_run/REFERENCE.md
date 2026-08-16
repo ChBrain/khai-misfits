@@ -1,4 +1,7 @@
 ---
+concept: "The Bank Run (self-fulfilling panic)"
+field: "Markets, money, and economic equilibria"
+source: "Diamond & Dybvig (JPE, 1983); Nobel"
 updated: "2026-07-02"
 ---
 

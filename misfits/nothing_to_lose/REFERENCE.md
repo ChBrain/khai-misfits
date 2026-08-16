@@ -1,4 +1,7 @@
 ---
+concept: "The Judgment-Proof Problem (limited liability; under-deterrence)"
+field: "Markets, money, and economic equilibria"
+source: 'Shavell, "The Judgment-Proof Problem" (Int. Rev. Law & Econ., 1986); Summers'
 updated: "2026-07-03"
 ---
 

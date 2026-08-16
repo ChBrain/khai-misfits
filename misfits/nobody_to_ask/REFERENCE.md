@@ -1,4 +1,7 @@
 ---
+concept: "Orphan Works (the unlocatable rightsholder; formality-free copyright)"
+field: "Collective action, commons, and coordination"
+source: "Berne Convention, Article 5(2); Heald (Journal of Empirical Legal Studies, 2014)"
 updated: "2026-08-09"
 ---
 

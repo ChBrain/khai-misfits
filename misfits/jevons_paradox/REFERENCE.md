@@ -1,4 +1,7 @@
 ---
+concept: "Jevons Paradox (rebound effect)"
+field: "Markets, money, and economic equilibria"
+source: "Jevons, _The Coal Question_ (1865)"
 updated: "2026-07-02"
 ---
 

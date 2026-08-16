@@ -1,4 +1,7 @@
 ---
+concept: "Institutional Isomorphism (the iron cage; legitimacy over efficiency)"
+field: "Organisations, hierarchy, and management"
+source: "DiMaggio & Powell (ASR, 1983); Meyer & Rowan (AJS, 1977)"
 updated: "2026-07-03"
 ---
 

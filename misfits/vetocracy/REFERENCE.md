@@ -1,4 +1,7 @@
 ---
+concept: "Vetocracy (too many veto points)"
+field: "Collective action, commons, and coordination"
+source: "Fukuyama, _Political Order and Political Decay_ (2014)"
 updated: "2026-07-06"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "Immunopathology (the immune response as the agent of harm)"
+field: "Ecology, evolution, and public health"
+source: "Zinkernagel & Doherty (1974)"
 updated: "2026-07-21"
 ---
 

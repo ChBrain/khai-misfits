@@ -1,4 +1,7 @@
 ---
+concept: "Alternative Stable States and Hysteresis (the lake that will not come back)"
+field: "Ecology, evolution, and public health"
+source: "Scheffer et al. on shallow lakes; Scheffer, Critical Transitions in Nature and Society"
 axis: nutrient-load
 sign: negative
 updated: "2026-08-09"

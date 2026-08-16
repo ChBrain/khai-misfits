@@ -1,4 +1,7 @@
 ---
+concept: "Priority Inversion (priority inheritance; the Mars Pathfinder failure)"
+field: "Safety, risk, and complex systems"
+source: "Sha, Rajkumar & Lehoczky (IEEE Trans. Computers, 1990)"
 updated: "2026-07-24"
 ---
 

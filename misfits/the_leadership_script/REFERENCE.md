@@ -1,4 +1,7 @@
 ---
+concept: "The Leadership Script (leadership-as-discourse; the naturalised register)"
+field: "Organisations, hierarchy, and management"
+source: "Fairclough (1989); Bourdieu (1991); Meindl et al. (1985); Khurana (2002)"
 updated: "2026-07-03"
 ---
 

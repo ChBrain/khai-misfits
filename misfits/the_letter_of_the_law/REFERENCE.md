@@ -1,4 +1,7 @@
 ---
+concept: "Specification Gaming (reward hacking; the flip side of AI ingenuity)"
+field: "Measurement, cognition, and inquiry"
+source: "Amodei et al. (2016); Krakovna et al. (2020); Clark & Amodei (2016); Russell (2019)"
 updated: "2026-07-04"
 ---
 

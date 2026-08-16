@@ -1,4 +1,7 @@
 ---
+concept: "The Logic of Collective Action (concentrated benefits, diffuse costs)"
+field: "Collective action, commons, and coordination"
+source: "Olson, _The Logic of Collective Action_ (1965)"
 updated: "2026-07-24"
 ---
 

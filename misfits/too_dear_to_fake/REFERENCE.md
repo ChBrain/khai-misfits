@@ -1,4 +1,7 @@
 ---
+concept: "Costly Signaling (job-market signaling; the handicap principle)"
+field: "Markets, money, and economic equilibria"
+source: 'Spence, "Job Market Signaling" (QJE, 1973); Zahavi (1975)'
 updated: "2026-07-29"
 ---
 

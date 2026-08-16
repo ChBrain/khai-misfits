@@ -1,4 +1,7 @@
 ---
+concept: "Requirements/validation distance (cost-to-fix growth)"
+field: "Organisations, hierarchy, and management"
+source: "Boehm, _Software Engineering Economics_ (1981)"
 updated: "2026-07-01"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "Preference Falsification (private truths, public lies)"
+field: "Groups, candour, and face"
+source: "Kuran, _Private Truths, Public Lies_ (1995)"
 updated: "2026-07-24"
 ---
 

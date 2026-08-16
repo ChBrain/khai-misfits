@@ -1,4 +1,7 @@
 ---
+concept: "The Keynesian Beauty Contest (higher-order beliefs; the regress of expectations)"
+field: "Markets, money, and economic equilibria"
+source: "Keynes, _The General Theory_ (1936), ch. 12"
 updated: "2026-07-20"
 ---
 

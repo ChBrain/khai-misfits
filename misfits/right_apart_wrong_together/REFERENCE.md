@@ -1,4 +1,7 @@
 ---
+concept: "Galvanic Corrosion (two correct metals, one joint, one sacrificed)"
+field: "Safety, risk, and complex systems"
+source: "the galvanic series, standard in corrosion science"
 updated: "2026-08-09"
 ---
 

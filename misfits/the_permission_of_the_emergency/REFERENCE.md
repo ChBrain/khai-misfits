@@ -1,4 +1,7 @@
 ---
+concept: "Idleness Aversion (justifiable busyness)"
+field: "Organisations, hierarchy, and management"
+source: "Hsee, Yang & Wang (Psychological Science, 2010)"
 updated: "2026-07-23"
 ---
 

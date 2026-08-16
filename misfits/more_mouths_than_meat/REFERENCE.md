@@ -1,4 +1,7 @@
 ---
+concept: "Predator-Prey Lag (Lotka-Volterra; the turn taken too late)"
+field: "Ecology, evolution, and public health"
+source: "Lotka, Elements of Physical Biology (1925); Volterra (1926)"
 axis: response-lag
 sign: negative
 updated: "2026-08-03"

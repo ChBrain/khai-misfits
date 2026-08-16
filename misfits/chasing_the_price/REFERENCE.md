@@ -1,4 +1,7 @@
 ---
+concept: "The Cobweb Theorem (cobweb cycle; lagged supply and price expectations)"
+field: "Markets, money, and economic equilibria"
+source: 'Ezekiel, "The Cobweb Theorem" (QJE, 1938); Kaldor'
 updated: "2026-07-21"
 ---
 

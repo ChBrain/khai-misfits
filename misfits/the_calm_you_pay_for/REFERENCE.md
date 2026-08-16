@@ -1,4 +1,7 @@
 ---
+concept: "The Waterbed Effect (Bode's sensitivity integral; the conservation of feedback)"
+field: "Safety, risk, and complex systems"
+source: "Bode, _Network Analysis and Feedback Amplifier Design_ (1945)"
 updated: "2026-07-23"
 ---
 

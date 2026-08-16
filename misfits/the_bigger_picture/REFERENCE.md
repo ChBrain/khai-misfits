@@ -1,4 +1,7 @@
 ---
+concept: "Simpson's Paradox (the Yule-Simpson effect; aggregation reversal)"
+field: "Measurement, cognition, and inquiry"
+source: "Simpson (JRSS B, 1951); Blyth; Pearl"
 updated: "2026-07-03"
 ---
 

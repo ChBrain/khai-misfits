@@ -1,4 +1,7 @@
 ---
+concept: "The Relative Age Effect (a cutoff date read as talent)"
+field: "Measurement, cognition, and inquiry"
+source: "Barnsley, Thompson & Barnsley (1985)"
 updated: "2026-08-09"
 ---
 

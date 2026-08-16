@@ -1,4 +1,7 @@
 ---
+concept: "Growth and Underinvestment (capacity lags demand; the dropped standard reads as proof)"
+field: "Systems-dynamics archetypes (Senge)"
+source: "Forrester, Industrial Dynamics (1961); Senge"
 updated: "2026-08-03"
 ---
 

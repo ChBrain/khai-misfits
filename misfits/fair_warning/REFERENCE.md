@@ -1,4 +1,7 @@
 ---
+concept: "The Green Paradox (announced future demand cuts accelerating present extraction)"
+field: "Markets, money, and economic equilibria"
+source: 'Sinn, "Public policies against global warming: a supply side approach" (Int. Tax & Public Finance, 2008)'
 updated: "2026-07-31"
 ---
 

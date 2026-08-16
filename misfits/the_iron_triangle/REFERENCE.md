@@ -1,4 +1,7 @@
 ---
+concept: "The Iron Triangle (subgovernments; the closed policy triad)"
+field: "Markets, money, and economic equilibria"
+source: "Cater (1964); Gordon Adams (1981); Lowi"
 updated: "2026-07-03"
 ---
 

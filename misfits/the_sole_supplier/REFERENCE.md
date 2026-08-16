@@ -1,4 +1,7 @@
 ---
+concept: "The Budget-Maximizing Bureau (bureaucratic oversupply under hidden cost)"
+field: "Markets, money, and economic equilibria"
+source: "Niskanen, _Bureaucracy and Representative Government_ (1971)"
 updated: "2026-07-29"
 ---
 

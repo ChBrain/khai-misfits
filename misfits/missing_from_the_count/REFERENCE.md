@@ -1,4 +1,7 @@
 ---
+concept: "Differential Census Undercount (measurable, and barred from being used)"
+field: "Measurement, cognition, and inquiry"
+source: "the Census Clause; Department of Commerce v. United States House (1999)"
 updated: "2026-08-09"
 ---
 

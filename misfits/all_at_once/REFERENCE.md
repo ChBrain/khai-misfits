@@ -1,4 +1,7 @@
 ---
+concept: "The Cache Stampede (the dogpile effect; thundering herd on expiry)"
+field: "Safety, risk, and complex systems"
+source: "Vattani, Chierichetti & Lowenstein (PVLDB, 2015)"
 updated: "2026-07-24"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Ironies of Automation"
+field: "Safety, risk, and complex systems"
+source: 'Bainbridge, "Ironies of Automation" (Automatica, 1983)'
 axis: automation-coverage
 sign: negative
 updated: "2026-07-03"

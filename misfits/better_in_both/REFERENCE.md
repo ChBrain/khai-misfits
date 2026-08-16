@@ -1,4 +1,7 @@
 ---
+concept: "The Will Rogers Phenomenon (stage migration; reclassification lifting every group)"
+field: "Ecology, evolution, and public health"
+source: "Feinstein, Sosin & Wells (NEJM, 1985); Welch, Schwartz & Woloshin (JAMA, 2000)"
 updated: "2026-07-30"
 ---
 

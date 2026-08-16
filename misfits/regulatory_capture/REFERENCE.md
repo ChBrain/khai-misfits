@@ -1,4 +1,7 @@
 ---
+concept: "Regulatory Capture"
+field: "Markets, money, and economic equilibria"
+source: 'Stigler, "The Theory of Economic Regulation" (Bell Journal, 1971)'
 updated: "2026-07-02"
 ---
 

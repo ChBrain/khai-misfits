@@ -1,4 +1,7 @@
 ---
+concept: "Duverger's Law (the wasted-vote logic; strategic voting under plurality)"
+field: "Collective action, commons, and coordination"
+source: "Duverger, _Political Parties_ (1951)"
 updated: "2026-07-28"
 ---
 

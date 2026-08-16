@@ -1,4 +1,7 @@
 ---
+concept: "Diminishing Returns on Complexity (societal collapse; the complexity spiral)"
+field: "Safety, risk, and complex systems"
+source: "Tainter, _The Collapse of Complex Societies_ (1988)"
 updated: "2026-07-21"
 ---
 

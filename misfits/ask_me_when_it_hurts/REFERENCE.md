@@ -1,4 +1,7 @@
 ---
+concept: "Visceral Influences (the hot-cold empathy gap)"
+field: "Measurement, cognition, and inquiry"
+source: 'Loewenstein, "Out of Control" (OBHDP, 1996)'
 updated: "2026-07-29"
 ---
 

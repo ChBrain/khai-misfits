@@ -1,4 +1,7 @@
 ---
+concept: "The Cantillon Effect (non-neutral money; the first-receiver advantage)"
+field: "Markets, money, and economic equilibria"
+source: "Cantillon, _Essai sur la Nature du Commerce en Général_ (c. 1730; pub. 1755)"
 updated: "2026-07-28"
 ---
 

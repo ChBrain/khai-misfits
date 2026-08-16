@@ -1,4 +1,7 @@
 ---
+concept: "Hindsight Bias (creeping determinism; outcome bias)"
+field: "Measurement, cognition, and inquiry"
+source: "Fischhoff (JEP:HPP, 1975); Fischhoff & Beyth (1975); Baron & Hershey (JPSP, 1988)"
 updated: "2026-07-30"
 ---
 

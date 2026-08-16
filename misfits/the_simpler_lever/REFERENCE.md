@@ -1,4 +1,7 @@
 ---
+concept: "The Law of Requisite Variety (only variety absorbs variety)"
+field: "Safety, risk, and complex systems"
+source: "Ashby, _An Introduction to Cybernetics_ (1956); Conant & Ashby (1970)"
 updated: "2026-07-03"
 ---
 

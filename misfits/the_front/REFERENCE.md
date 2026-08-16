@@ -1,4 +1,7 @@
 ---
+concept: "Impression Management (the presentation of self; dramaturgy; front/back regions; face-work)"
+field: "Groups, candour, and face"
+source: "Goffman, _The Presentation of Self in Everyday Life_ (1959); Hochschild (1983)"
 updated: "2026-07-13"
 ---
 

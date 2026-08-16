@@ -1,4 +1,7 @@
 ---
+concept: "The Semmelweis Reflex (evidence rejected for want of a mechanism)"
+field: "Groups, candour, and face"
+source: "the historical record of Semmelweis, Vienna General Hospital (1847)"
 updated: "2026-07-29"
 ---
 

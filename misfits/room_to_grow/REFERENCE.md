@@ -1,4 +1,7 @@
 ---
+concept: "The Hydra Effect (overcompensation; mortality raising abundance)"
+field: "Ecology, evolution, and public health"
+source: "Abrams (Ecology Letters, 2009)"
 axis: population-density
 sign: negative
 updated: "2026-07-28"

@@ -1,4 +1,7 @@
 ---
+concept: "Diagnostic Overshadowing (a true diagnosis absorbing the new complaint)"
+field: "Measurement, cognition, and inquiry"
+source: "Reiss, Levitan & Szyszko (American Journal of Mental Deficiency, 1982)"
 updated: "2026-08-09"
 ---
 

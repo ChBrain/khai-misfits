@@ -1,4 +1,7 @@
 ---
+concept: "Limitation Periods and Latent Harm (the clock running from the act, not the injury)"
+field: "Safety, risk, and complex systems"
+source: "the standing justifications for limitation periods: evidentiary decay and repose"
 updated: "2026-08-09"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Winner's Curse (common-value auctions)"
+field: "Markets, money, and economic equilibria"
+source: "Capen, Clapp & Campbell (1971); Thaler"
 updated: "2026-07-06"
 ---
 

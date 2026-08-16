@@ -1,4 +1,7 @@
 ---
+concept: "Base-Rate Neglect (the rare-disease problem; the false-positive paradox)"
+field: "Measurement, cognition, and inquiry"
+source: "Kahneman & Tversky (1972; 1973); Casscells, Schoenberger & Grayboys (1978)"
 updated: "2026-07-29"
 ---
 

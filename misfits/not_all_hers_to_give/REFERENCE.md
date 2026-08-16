@@ -1,4 +1,7 @@
 ---
+concept: "Parent-Offspring Conflict (genomic imprinting; the parental tug-of-war)"
+field: "Ecology, evolution, and public health"
+source: "Trivers (1974); Haig (1993); Haig & Moore (1991)"
 updated: "2026-07-30"
 ---
 

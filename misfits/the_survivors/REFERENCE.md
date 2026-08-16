@@ -1,4 +1,7 @@
 ---
+concept: "Survivorship Bias"
+field: "Safety, risk, and complex systems"
+source: "Bacon, _Novum Organum_ (1620); Wald"
 updated: "2026-07-01"
 ---
 

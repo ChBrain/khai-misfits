@@ -1,4 +1,7 @@
 ---
+concept: "The Matthew Effect (cumulative advantage; winner-take-all)"
+field: "Markets, money, and economic equilibria"
+source: 'Merton, "The Matthew Effect in Science" (Science, 1968)'
 updated: "2026-07-01"
 ---
 

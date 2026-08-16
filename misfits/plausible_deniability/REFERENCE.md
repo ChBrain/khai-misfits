@@ -1,4 +1,7 @@
 ---
+concept: "Plausible Deniability (willful blindness)"
+field: "Groups, candour, and face"
+source: "Church Committee (U.S. Senate, 1975-76)"
 updated: "2026-07-02"
 ---
 

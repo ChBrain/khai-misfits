@@ -1,4 +1,7 @@
 ---
+concept: "Accidental Adversaries (systems archetype)"
+field: "Collective action, commons, and coordination"
+source: "Kemeny; Senge, _The Fifth Discipline_ (1990)"
 updated: "2026-07-02"
 ---
 

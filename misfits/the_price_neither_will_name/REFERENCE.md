@@ -1,4 +1,7 @@
 ---
+concept: "The Myerson-Satterthwaite Theorem (bilateral trading impossibility)"
+field: "Markets, money, and economic equilibria"
+source: 'Myerson & Satterthwaite, "Efficient Mechanisms for Bilateral Trading" (JET, 1983)'
 updated: "2026-07-29"
 ---
 

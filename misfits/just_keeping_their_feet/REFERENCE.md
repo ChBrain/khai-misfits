@@ -1,4 +1,7 @@
 ---
+concept: "Pedestrian-Induced Lateral Instability (synchronous lateral excitation)"
+field: "Safety, risk, and complex systems"
+source: "the London Millennium Bridge (2000); Dallard et al."
 updated: "2026-08-09"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "Boundary Objects (interpretive flexibility; coordination without consensus)"
+field: "Groups, candour, and face"
+source: "Star & Griesemer (1989); Carlile (2002); Bowker & Star (1999)"
 updated: "2026-07-03"
 ---
 

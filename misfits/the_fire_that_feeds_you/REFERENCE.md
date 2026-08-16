@@ -1,4 +1,7 @@
 ---
+concept: "The Rate-of-Living Hypothesis (metabolic and disposable-soma ageing)"
+field: "Ecology, evolution, and public health"
+source: "Pearl, _The Rate of Living_ (1928); Rubner; Kirkwood"
 updated: "2026-07-28"
 ---
 

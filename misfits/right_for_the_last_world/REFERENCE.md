@@ -1,4 +1,7 @@
 ---
+concept: "The Mechanistic Fit (structure matched to a stable market, executing on past it)"
+field: "Organisations, hierarchy, and management"
+source: "Burns & Stalker, The Management of Innovation (1961)"
 updated: "2026-08-01"
 ---
 

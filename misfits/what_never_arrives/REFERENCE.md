@@ -1,4 +1,7 @@
 ---
+concept: "Hungry Water (sediment starvation below a dam; the coast that stops being built)"
+field: "Ecology, evolution, and public health"
+source: 'Kondolf, "Hungry Water" (Environmental Management, 1997)'
 updated: "2026-08-09"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "Voltage Rise on a One-Way Feeder (distributed export reversing the design assumption)"
+field: "Safety, risk, and complex systems"
+source: "the standard treatment of voltage along a distribution feeder"
 updated: "2026-08-09"
 ---
 

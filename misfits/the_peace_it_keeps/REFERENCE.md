@@ -1,4 +1,7 @@
 ---
+concept: "Somatic Clonal Evolution (the tumour as a Darwinian population; clonal haematopoiesis)"
+field: "Ecology, evolution, and public health"
+source: "Nowell (Science, 1976)"
 updated: "2026-07-22"
 ---
 

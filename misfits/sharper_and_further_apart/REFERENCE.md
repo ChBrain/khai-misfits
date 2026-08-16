@@ -1,4 +1,7 @@
 ---
+concept: "Motivated Numeracy (identity-protective cognition; skill spent on defence)"
+field: "Measurement, cognition, and inquiry"
+source: "Kahan, Peters, Dawson & Slovic (Behavioural Public Policy, 2017); Lord, Ross & Lepper (1979)"
 updated: "2026-07-30"
 ---
 

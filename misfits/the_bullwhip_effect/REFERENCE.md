@@ -1,4 +1,7 @@
 ---
+concept: "The Bullwhip Effect (demand amplification)"
+field: "Safety, risk, and complex systems"
+source: "Forrester (HBR, 1958); Lee, Padmanabhan & Whang"
 updated: "2026-07-03"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Bystander Effect (diffusion of responsibility)"
+field: "Collective action, commons, and coordination"
+source: "Darley & Latané (JPSP, 1968)"
 updated: "2026-07-01"
 ---
 

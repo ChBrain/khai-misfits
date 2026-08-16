@@ -1,4 +1,7 @@
 ---
+concept: "Long-Term Nuclear Semiotics (a marker outlasting the literacy that reads it)"
+field: "Safety, risk, and complex systems"
+source: "Boca de Potrerillos rock art; the WIPP marker panels expert reports"
 updated: "2026-08-03"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "Thermal Runaway (thermal explosion theory; the ignition threshold)"
+field: "Safety, risk, and complex systems"
+source: "Semenov (1928); Frank-Kamenetskii"
 updated: "2026-07-23"
 ---
 

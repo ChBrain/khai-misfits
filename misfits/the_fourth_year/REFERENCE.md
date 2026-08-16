@@ -1,4 +1,7 @@
 ---
+concept: "Electoral Cycles in Sentencing (the elected judge and the approaching vote)"
+field: "Organisations, hierarchy, and management"
+source: "Berdejó & Yuchtman (Review of Economics and Statistics, 2013)"
 updated: "2026-08-09"
 ---
 

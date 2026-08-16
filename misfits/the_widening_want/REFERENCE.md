@@ -1,4 +1,7 @@
 ---
+concept: "The Tocqueville Effect (the revolution of rising expectations)"
+field: "Collective action, commons, and coordination"
+source: "Tocqueville, _The Old Regime and the Revolution_ (1856); Davies's J-curve"
 updated: "2026-07-28"
 ---
 

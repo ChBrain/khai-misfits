@@ -1,4 +1,7 @@
 ---
+concept: "Automation Bias (overtrust; automation complacency)"
+field: "Safety, risk, and complex systems"
+source: "Parasuraman & Riley (1997); Skitka, Mosier & Burdick (1999); Parasuraman & Manzey (2010)"
 axis: automation-coverage
 sign: negative
 updated: "2026-07-03"

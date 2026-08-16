@@ -1,4 +1,7 @@
 ---
+concept: "Naive Realism (construal taken for plain fact; the hostile media effect)"
+field: "Groups, candour, and face"
+source: 'Ross & Ward, "Naive Realism in Everyday Life" (1996)'
 updated: "2026-07-29"
 ---
 

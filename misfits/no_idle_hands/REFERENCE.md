@@ -1,4 +1,7 @@
 ---
+concept: "The Utilisation Trap (heavy-traffic queueing; Kingman's formula)"
+field: "Safety, risk, and complex systems"
+source: "Kingman (Proc. Camb. Phil. Soc., 1961); Hopp & Spearman, _Factory Physics_"
 axis: buffer-slack
 sign: positive
 updated: "2026-07-03"

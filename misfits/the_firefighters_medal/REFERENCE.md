@@ -1,4 +1,7 @@
 ---
+concept: "The Firefighting Trap (nobody gets credit for problems that never happened)"
+field: "Organisations, hierarchy, and management"
+source: "Repenning & Sterman (CMR, 2001); Bohn (HBR, 2000)"
 updated: "2026-07-03"
 ---
 

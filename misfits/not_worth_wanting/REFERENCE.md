@@ -1,4 +1,7 @@
 ---
+concept: "Adaptive Preferences (sour grapes)"
+field: "Measurement, cognition, and inquiry"
+source: "Elster, _Sour Grapes_ (1983)"
 updated: "2026-07-24"
 ---
 

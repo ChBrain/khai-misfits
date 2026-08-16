@@ -1,4 +1,7 @@
 ---
+concept: "Endogenous Risk (risk-model monoculture; the value-at-risk feedback)"
+field: "Markets, money, and economic equilibria"
+source: 'Daníelsson & Shin, "Endogenous Risk", in _Modern Risk Management: A History_ (Risk Books, 2003)'
 updated: "2026-07-31"
 ---
 

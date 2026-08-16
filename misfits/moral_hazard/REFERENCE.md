@@ -1,4 +1,7 @@
 ---
+concept: "Moral Hazard (hidden action; risk compensation)"
+field: "Markets, money, and economic equilibria"
+source: 'Arrow, "Uncertainty and the Welfare Economics of Medical Care" (AER, 1963)'
 axis: protective-cover
 sign: negative
 updated: "2026-07-02"

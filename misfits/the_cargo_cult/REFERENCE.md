@@ -1,4 +1,7 @@
 ---
+concept: "Cargo Cult Science (copying form, not cause)"
+field: "Organisations, hierarchy, and management"
+source: 'Feynman, "Cargo Cult Science" (1974)'
 updated: "2026-07-01"
 ---
 

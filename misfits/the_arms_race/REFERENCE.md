@@ -1,4 +1,7 @@
 ---
+concept: "The Arms Race (positional goods)"
+field: "Collective action, commons, and coordination"
+source: "Hirsch, _Social Limits to Growth_ (1976); Frank"
 updated: "2026-07-03"
 ---
 

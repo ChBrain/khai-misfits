@@ -1,4 +1,7 @@
 ---
+concept: "Boundary Critique (the planning horizon; the systems boundary)"
+field: "Safety, risk, and complex systems"
+source: "Ulrich (1983); Midgley (2000); Churchman (1979)"
 updated: "2026-07-03"
 ---
 

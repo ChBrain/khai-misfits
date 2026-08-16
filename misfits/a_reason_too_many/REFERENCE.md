@@ -1,4 +1,7 @@
 ---
+concept: "Motivation Crowding-Out (an extrinsic incentive displacing an internal reason)"
+field: "Measurement, cognition, and inquiry"
+source: "Deci (1971); Frey & Jegen; Gneezy & Rustichini"
 updated: "2026-07-24"
 ---
 

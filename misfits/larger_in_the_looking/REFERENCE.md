@@ -1,4 +1,7 @@
 ---
+concept: "The Focusing Illusion"
+field: "Measurement, cognition, and inquiry"
+source: "Schkade & Kahneman (Psychological Science, 1998)"
 updated: "2026-07-28"
 ---
 

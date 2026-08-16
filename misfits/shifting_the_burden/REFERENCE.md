@@ -1,4 +1,7 @@
 ---
+concept: "Shifting the Burden (dependence on the symptomatic fix)"
+field: "Systems-dynamics archetypes (Senge)"
+source: "Senge, _The Fifth Discipline_ (1990)"
 updated: "2026-07-02"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Decoy Effect (asymmetric dominance; the attraction effect)"
+field: "Measurement, cognition, and inquiry"
+source: "Huber, Payne & Puto (J. Consumer Research, 1982)"
 updated: "2026-07-29"
 ---
 

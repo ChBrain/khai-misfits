@@ -1,4 +1,7 @@
 ---
+concept: "The Virulence-Transmission Trade-Off (the evolution of virulence)"
+field: "Ecology, evolution, and public health"
+source: "Anderson & May (Parasitology, 1982); Ewald"
 updated: "2026-07-22"
 ---
 

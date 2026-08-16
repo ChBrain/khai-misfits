@@ -1,4 +1,7 @@
 ---
+concept: "Escalation of Commitment (sunk cost; throwing good money)"
+field: "Measurement, cognition, and inquiry"
+source: 'Staw, "Knee-Deep in the Big Muddy" (1976)'
 updated: "2026-07-01"
 ---
 

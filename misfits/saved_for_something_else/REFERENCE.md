@@ -1,4 +1,7 @@
 ---
+concept: "Competing Risks (the competing-risk censoring fault; cause-specific and subdistribution hazards)"
+field: "Measurement, cognition, and inquiry"
+source: "Fine & Gray (JASA, 1999); Prentice, Kalbfleisch et al. (Biometrics, 1978); Andersen et al. (IJE, 2012)"
 updated: "2026-07-31"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Ratchet Effect (systematic soldiering; sandbagging)"
+field: "Organisations, hierarchy, and management"
+source: "Taylor (1911); Weitzman"
 updated: "2026-07-01"
 ---
 

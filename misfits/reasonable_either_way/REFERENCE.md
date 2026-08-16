@@ -1,4 +1,7 @@
 ---
+concept: "Researcher Degrees of Freedom (undisclosed flexibility; the garden of forking paths)"
+field: "Measurement, cognition, and inquiry"
+source: 'Simmons, Nelson & Simonsohn, "False-Positive Psychology" (Psychological Science, 2011)'
 updated: "2026-08-09"
 ---
 

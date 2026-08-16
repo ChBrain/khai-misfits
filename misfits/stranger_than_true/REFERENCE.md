@@ -1,4 +1,7 @@
 ---
+concept: "The Diffusion of False News (falsehood's speed advantage)"
+field: "Measurement, cognition, and inquiry"
+source: "Vosoughi, Roy & Aral (Science, 2018)"
 updated: "2026-07-24"
 ---
 

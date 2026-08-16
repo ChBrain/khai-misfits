@@ -1,4 +1,7 @@
 ---
+concept: "The Garbage Can Model (organized anarchy; streams coupling by timing)"
+field: "Organisations, hierarchy, and management"
+source: "Cohen, March & Olsen (ASQ, 1972)"
 updated: "2026-07-29"
 ---
 

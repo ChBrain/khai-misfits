@@ -1,4 +1,7 @@
 ---
+concept: "The Identifiable Victim Effect (statistical versus identified lives)"
+field: "Collective action, commons, and coordination"
+source: 'Schelling, "The Life You Save May Be Your Own" (1968)'
 updated: "2026-07-23"
 ---
 

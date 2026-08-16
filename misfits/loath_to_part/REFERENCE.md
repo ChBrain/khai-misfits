@@ -1,4 +1,7 @@
 ---
+concept: "The Endowment Effect (mere ownership; loss aversion in exchange)"
+field: "Markets, money, and economic equilibria"
+source: 'Thaler, "Toward a Positive Theory of Consumer Choice" (JEBO, 1980); Kahneman, Knetsch & Thaler'
 updated: "2026-07-24"
 ---
 

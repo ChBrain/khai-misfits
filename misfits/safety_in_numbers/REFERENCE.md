@@ -1,4 +1,7 @@
 ---
+concept: "The Allee Effect (positive density dependence; the extinction vortex)"
+field: "Ecology, evolution, and public health"
+source: "Allee (1931; 1938); Courchamp, Berec & Gascoigne (2008)"
 axis: population-density
 sign: positive
 updated: "2026-07-03"

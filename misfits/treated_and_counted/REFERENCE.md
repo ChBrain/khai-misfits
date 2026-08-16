@@ -1,4 +1,7 @@
 ---
+concept: "The Therapeutic Misconception (care and measurement in the same hour)"
+field: "Measurement, cognition, and inquiry"
+source: "Appelbaum, Roth & Lidz (International Journal of Law and Psychiatry, 1982)"
 updated: "2026-08-08"
 ---
 

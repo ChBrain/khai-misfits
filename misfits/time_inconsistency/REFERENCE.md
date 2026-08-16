@@ -1,4 +1,7 @@
 ---
+concept: "Time Inconsistency (dynamic inconsistency)"
+field: "Markets, money, and economic equilibria"
+source: 'Kydland & Prescott, "Rules Rather than Discretion" (JPE, 1977); Nobel'
 updated: "2026-07-02"
 ---
 

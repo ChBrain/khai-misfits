@@ -1,4 +1,7 @@
 ---
+concept: "Conway's Law"
+field: "Organisations, hierarchy, and management"
+source: 'Conway, "How Do Committees Invent?" (Datamation, 1968)'
 updated: "2026-07-01"
 ---
 

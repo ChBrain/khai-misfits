@@ -1,4 +1,7 @@
 ---
+concept: "The Ostrich Effect (information avoidance)"
+field: "Measurement, cognition, and inquiry"
+source: "Galai & Sade (J. Business, 2006); Karlsson, Loewenstein & Seppi"
 updated: "2026-07-24"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Einstellung Effect (mental set; mechanization in problem-solving)"
+field: "Measurement, cognition, and inquiry"
+source: 'Luchins, "Mechanization in Problem Solving: The Effect of Einstellung" (Psych. Monographs, 1942)'
 updated: "2026-07-21"
 ---
 

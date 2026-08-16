@@ -1,4 +1,7 @@
 ---
+concept: "Genetic Adaptation to Captivity (the ark selecting for the ark)"
+field: "Ecology, evolution, and public health"
+source: 'Frankham, "Genetic adaptation to captivity in species conservation programs" (Molecular Ecology, 2008)'
 updated: "2026-08-09"
 ---
 

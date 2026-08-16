@@ -1,4 +1,7 @@
 ---
+concept: "Social Loafing (the Ringelmann effect)"
+field: "Collective action, commons, and coordination"
+source: "Ringelmann (1913); Latané"
 updated: "2026-07-06"
 ---
 

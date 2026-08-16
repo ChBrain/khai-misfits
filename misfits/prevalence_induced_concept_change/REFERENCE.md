@@ -1,4 +1,7 @@
 ---
+concept: "Prevalence-Induced Concept Change (concept creep)"
+field: "Measurement, cognition, and inquiry"
+source: "Levari et al. (Science, 2018); Haslam"
 updated: "2026-07-03"
 ---
 

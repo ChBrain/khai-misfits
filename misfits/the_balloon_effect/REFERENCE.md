@@ -1,4 +1,7 @@
 ---
+concept: "Crime Displacement (the balloon effect)"
+field: "Collective action, commons, and coordination"
+source: "Reppetto (Crime & Delinquency, 1976); Cornish & Clarke"
 updated: "2026-07-06"
 ---
 

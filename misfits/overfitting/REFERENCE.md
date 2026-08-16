@@ -1,4 +1,7 @@
 ---
+concept: "Overfitting (the bias-variance dilemma)"
+field: "Measurement, cognition, and inquiry"
+source: "Geman, Bienenstock & Doursat (Neural Computation, 1992)"
 updated: "2026-07-02"
 ---
 

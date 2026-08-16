@@ -1,4 +1,7 @@
 ---
+concept: "The Identified Patient (family scapegoat; homeostasis)"
+field: "Groups, candour, and face"
+source: "Vogel & Bell (1960); Bowen; Minuchin; Jackson"
 updated: "2026-07-03"
 ---
 

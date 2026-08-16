@@ -1,4 +1,7 @@
 ---
+concept: "The Homevoter Hypothesis (local capitalisation; the single-asset household)"
+field: "Markets, money, and economic equilibria"
+source: "Fischel, _The Homevoter Hypothesis_ (2001)"
 updated: "2026-07-23"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Repeat Player Advantage (settling to avoid precedent; the one-shotter)"
+field: "Markets, money, and economic equilibria"
+source: 'Galanter, "Why the ''Haves'' Come Out Ahead" (Law & Society Review, 1974)'
 updated: "2026-08-09"
 ---
 

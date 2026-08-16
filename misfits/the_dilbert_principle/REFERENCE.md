@@ -1,4 +1,7 @@
 ---
+concept: "The Dilbert Principle (failing upwards; kicked upstairs)"
+field: "Organisations, hierarchy, and management"
+source: "Adams, _The Dilbert Principle_ (1996)"
 updated: "2026-07-03"
 ---
 

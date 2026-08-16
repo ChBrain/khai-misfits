@@ -1,4 +1,7 @@
 ---
+concept: "The Inverse Care Law (care inversely proportional to need)"
+field: "Ecology, evolution, and public health"
+source: 'Tudor Hart, "The Inverse Care Law" (The Lancet, 1971)'
 updated: "2026-07-21"
 ---
 

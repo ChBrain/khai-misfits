@@ -1,4 +1,7 @@
 ---
+concept: "Rational Ignorance"
+field: "Measurement, cognition, and inquiry"
+source: "Downs, _An Economic Theory of Democracy_ (1957)"
 updated: "2026-07-24"
 ---
 

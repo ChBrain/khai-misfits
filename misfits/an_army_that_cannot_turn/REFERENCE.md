@@ -1,4 +1,7 @@
 ---
+concept: "Coup-Proofing (the loyalty-versus-effectiveness trade-off)"
+field: "Organisations, hierarchy, and management"
+source: 'Quinlivan, "Coup-proofing: Its Practice and Consequences in the Middle East" (International Security, 1999)'
 updated: "2026-07-31"
 ---
 

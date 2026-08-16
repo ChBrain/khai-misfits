@@ -1,4 +1,7 @@
 ---
+concept: "Design Exclusion by Remit (each mandate honest and narrow; the artefact's politics)"
+field: "Collective action, commons, and coordination"
+source: 'Winner, "Do Artifacts Have Politics?" (1980)'
 updated: "2026-08-01"
 ---
 

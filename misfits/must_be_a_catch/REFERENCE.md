@@ -1,4 +1,7 @@
 ---
+concept: "Reactive Devaluation (an offer discounted by its source)"
+field: "Groups, candour, and face"
+source: "Ross (1988); Stillinger, Epelbaum, Keltner & Ross (1990)"
 updated: "2026-07-30"
 ---
 

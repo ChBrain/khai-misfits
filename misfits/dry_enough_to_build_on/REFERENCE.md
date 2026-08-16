@@ -1,4 +1,7 @@
 ---
+concept: "The Levee Effect (protection inviting the development it then cannot protect)"
+field: "Safety, risk, and complex systems"
+source: "Gilbert F. White, Human Adjustment to Floods (1945)"
 updated: "2026-08-09"
 ---
 
