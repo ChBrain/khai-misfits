@@ -1,4 +1,7 @@
 ---
+concept: "The Bus Factor (tacit knowledge; key-person risk)"
+field: "Organisations, hierarchy, and management"
+source: "Polanyi, _The Tacit Dimension_ (1966)"
 updated: "2026-07-01"
 ---
 

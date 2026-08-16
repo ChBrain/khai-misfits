@@ -1,4 +1,7 @@
 ---
+concept: "The Tyranny of Small Decisions"
+field: "Collective action, commons, and coordination"
+source: "Kahn (1966); Schelling"
 updated: "2026-07-02"
 ---
 

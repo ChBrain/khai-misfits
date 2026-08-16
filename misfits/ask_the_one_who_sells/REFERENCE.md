@@ -1,4 +1,7 @@
 ---
+concept: "Supplier-Induced Demand"
+field: "Measurement, cognition, and inquiry"
+source: 'Evans, "Supplier-Induced Demand" (1974)'
 updated: "2026-07-24"
 ---
 

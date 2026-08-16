@@ -1,4 +1,7 @@
 ---
+concept: "Limits to Growth (the binding balancing loop)"
+field: "Systems-dynamics archetypes (Senge)"
+source: "Senge, _The Fifth Discipline_ (1990); Meadows"
 updated: "2026-07-02"
 ---
 

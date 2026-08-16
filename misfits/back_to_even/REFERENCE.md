@@ -1,4 +1,7 @@
 ---
+concept: "The Disposition Effect (get-even-itis; riding losers, realising winners)"
+field: "Markets, money, and economic equilibria"
+source: "Shefrin & Statman (J. Finance, 1985)"
 updated: "2026-07-24"
 ---
 

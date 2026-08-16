@@ -1,4 +1,7 @@
 ---
+concept: "Choice Overload (too much choice; the jam study)"
+field: "Measurement, cognition, and inquiry"
+source: "Iyengar & Lepper (JPSP, 2000)"
 updated: "2026-07-28"
 ---
 

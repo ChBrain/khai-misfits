@@ -1,4 +1,7 @@
 ---
+concept: "Hotelling's Law (the principle of minimum differentiation)"
+field: "Markets, money, and economic equilibria"
+source: 'Hotelling, "Stability in Competition" (Economic Journal, 1929)'
 updated: "2026-07-24"
 ---
 

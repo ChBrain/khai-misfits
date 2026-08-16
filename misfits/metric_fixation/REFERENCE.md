@@ -1,4 +1,7 @@
 ---
+concept: "Goodhart's Law (metric fixation; goal displacement)"
+field: "Measurement, cognition, and inquiry"
+source: "Ridgway (ASQ, 1956); Goodhart; Campbell"
 updated: "2026-07-01"
 ---
 

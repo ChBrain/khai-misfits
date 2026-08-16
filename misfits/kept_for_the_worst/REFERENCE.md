@@ -1,4 +1,7 @@
 ---
+concept: "The Broken Antibiotic Market (conservation-reward conflict; delinkage)"
+field: "Markets, money, and economic equilibria"
+source: 'Outterson et al., "Repairing The Broken Market For Antibiotic Innovation" (Health Affairs, 2015)'
 updated: "2026-07-31"
 ---
 

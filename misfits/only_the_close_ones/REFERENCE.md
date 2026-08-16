@@ -1,4 +1,7 @@
 ---
+concept: "The Priest-Klein Selection Hypothesis (selection of disputes for litigation; the fifty-percent tendency)"
+field: "Measurement, cognition, and inquiry"
+source: 'Priest & Klein, "The Selection of Disputes for Litigation" (J. Legal Studies, 1984)'
 updated: "2026-07-21"
 ---
 

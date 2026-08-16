@@ -1,4 +1,7 @@
 ---
+concept: "The Cross-Race Effect (own-race bias in face recognition)"
+field: "Measurement, cognition, and inquiry"
+source: "Malpass & Kravitz (JPSP, 1969); Meissner & Brigham (2001)"
 updated: "2026-08-09"
 ---
 

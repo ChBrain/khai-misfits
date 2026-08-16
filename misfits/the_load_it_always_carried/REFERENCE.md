@@ -1,4 +1,7 @@
 ---
+concept: "Metal Fatigue (below-yield cyclic failure; the S-N curve; Miner's rule)"
+field: "Safety, risk, and complex systems"
+source: "Wöhler (railway-axle tests, 1870); Palmgren & Miner"
 updated: "2026-07-23"
 ---
 

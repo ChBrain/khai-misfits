@@ -1,4 +1,7 @@
 ---
+concept: "Hyrum's Law (implicit interfaces; observable behaviour as the real contract)"
+field: "Organisations, hierarchy, and management"
+source: "Hyrum's law, after Hyrum Wright"
 updated: "2026-08-09"
 ---
 

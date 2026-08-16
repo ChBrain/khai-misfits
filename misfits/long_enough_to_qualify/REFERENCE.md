@@ -1,4 +1,7 @@
 ---
+concept: "Immortal Time Bias (time-dependent bias; survivor-treatment selection bias)"
+field: "Measurement, cognition, and inquiry"
+source: 'Suissa, "Immortal Time Bias in Pharmacoepidemiology" (American Journal of Epidemiology, 2008)'
 updated: "2026-07-31"
 ---
 

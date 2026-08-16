@@ -1,4 +1,7 @@
 ---
+concept: "IPO Underpricing (bookbuilding; the winner's curse for the uninformed)"
+field: "Markets, money, and economic equilibria"
+source: 'Rock, "Why New Issues Are Underpriced" (JFE, 1986); Benveniste & Spindt (JFE, 1989)'
 updated: "2026-08-15"
 ---
 

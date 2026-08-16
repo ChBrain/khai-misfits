@@ -1,4 +1,7 @@
 ---
+concept: "The IKEA Effect (effort justification in valuation)"
+field: "Measurement, cognition, and inquiry"
+source: "Norton, Mochon & Ariely (J. Consumer Psychology, 2012)"
 updated: "2026-07-29"
 ---
 

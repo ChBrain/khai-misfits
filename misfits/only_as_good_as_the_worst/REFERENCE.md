@@ -1,4 +1,7 @@
 ---
+concept: "The O-Ring Theory (complementary tasks; the weakest link in production)"
+field: "Markets, money, and economic equilibria"
+source: 'Kremer, "The O-Ring Theory of Economic Development" (QJE, 1993)'
 updated: "2026-07-24"
 ---
 

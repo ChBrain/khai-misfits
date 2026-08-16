@@ -1,4 +1,7 @@
 ---
+concept: "Model Collapse (the curse of recursion; model autophagy)"
+field: "Measurement, cognition, and inquiry"
+source: "Shumailov et al. (arXiv 2023; Nature 2024); Alemohammad et al."
 updated: "2026-07-03"
 ---
 

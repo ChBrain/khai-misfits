@@ -1,4 +1,7 @@
 ---
+concept: "Pournelle's Iron Law of Bureaucracy"
+field: "Organisations, hierarchy, and management"
+source: "Pournelle (c. 1980s)"
 updated: "2026-07-06"
 ---
 

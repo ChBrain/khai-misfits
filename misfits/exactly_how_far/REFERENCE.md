@@ -1,4 +1,7 @@
 ---
+concept: "The Alliance Security Dilemma (abandonment and entrapment; chain-ganging and buck-passing)"
+field: "Collective action, commons, and coordination"
+source: 'Glenn Snyder, "The Security Dilemma in Alliance Politics" (World Politics, 1984); Christensen & Jack Snyder (International Organization, 1990)'
 updated: "2026-07-31"
 ---
 

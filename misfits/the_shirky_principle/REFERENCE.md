@@ -1,4 +1,7 @@
 ---
+concept: "The Shirky Principle (institutions preserve the problem)"
+field: "Organisations, hierarchy, and management"
+source: "Shirky (c. 2010); Kelly"
 updated: "2026-07-02"
 ---
 

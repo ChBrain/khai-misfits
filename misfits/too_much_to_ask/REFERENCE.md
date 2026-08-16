@@ -1,4 +1,7 @@
 ---
+concept: "Administrative Burden (learning, psychological and compliance costs; ordeal mechanisms)"
+field: "Organisations, hierarchy, and management"
+source: "Moynihan, Herd & Harbage (JPART, 2015)"
 updated: "2026-07-23"
 ---
 

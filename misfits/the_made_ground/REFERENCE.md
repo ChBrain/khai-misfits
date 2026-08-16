@@ -1,4 +1,7 @@
 ---
+concept: "Niche Construction (the organism building the ground that will test its heirs)"
+field: "Ecology, evolution, and public health"
+source: "Lewontin, The Organism as the Subject and Object of Evolution (1983); Odling-Smee et al."
 updated: "2026-08-01"
 ---
 

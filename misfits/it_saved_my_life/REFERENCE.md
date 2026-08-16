@@ -1,4 +1,7 @@
 ---
+concept: "The Popularity Paradox of Screening (overdiagnosis; lead-time and length bias)"
+field: "Ecology, evolution, and public health"
+source: "Raffle & Gray, _Screening: Evidence and Practice_ (2007); Welch, Schwartz & Woloshin"
 updated: "2026-07-21"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Dunning-Kruger Effect (unskilled and unaware of it)"
+field: "Measurement, cognition, and inquiry"
+source: "Kruger & Dunning (JPSP, 1999)"
 updated: "2026-07-24"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Cobra Effect (the perverse incentive)"
+field: "Measurement, cognition, and inquiry"
+source: "Siebert, _Der Kobra-Effekt_ (2001)"
 updated: "2026-07-01"
 ---
 

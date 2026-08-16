@@ -1,4 +1,7 @@
 ---
+concept: "Hyperbolic Discounting (present bias; specious reward)"
+field: "Measurement, cognition, and inquiry"
+source: 'Ainslie, "Specious Reward" (Psychological Bulletin, 1975)'
 updated: "2026-07-24"
 ---
 

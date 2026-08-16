@@ -1,4 +1,7 @@
 ---
+concept: "Rose's Prevention Paradox (population vs individual benefit)"
+field: "Ecology, evolution, and public health"
+source: 'Rose, "Sick individuals and sick populations" (Int. J. Epidemiology, 1985)'
 updated: "2026-07-03"
 ---
 

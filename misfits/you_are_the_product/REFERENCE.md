@@ -1,4 +1,7 @@
 ---
+concept: "The Audience Commodity (the user as product; attention markets)"
+field: "Markets, money, and economic equilibria"
+source: 'Smythe, "Communications: Blindspot of Western Marxism" (1977)'
 updated: "2026-07-24"
 ---
 

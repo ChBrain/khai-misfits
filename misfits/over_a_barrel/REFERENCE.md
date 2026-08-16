@@ -1,4 +1,7 @@
 ---
+concept: "The Hold-Up Problem (appropriable quasi-rents; the fundamental transformation)"
+field: "Markets, money, and economic equilibria"
+source: "Klein, Crawford & Alchian (J. Law & Econ., 1978); Williamson"
 updated: "2026-07-24"
 ---
 

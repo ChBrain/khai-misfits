@@ -1,4 +1,7 @@
 ---
+concept: "Artefact-Standard Drift (the object that defines the unit cannot be wrong)"
+field: "Measurement, cognition, and inquiry"
+source: "the international prototype of the kilogram, sanctioned 1889; the 2019 SI redefinition"
 updated: "2026-08-09"
 ---
 

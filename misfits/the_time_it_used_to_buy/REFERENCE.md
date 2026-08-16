@@ -1,4 +1,7 @@
 ---
+concept: "Synchronous Inertia (the unbilled service of rotating mass)"
+field: "Safety, risk, and complex systems"
+source: "kinetic energy stored in synchronous machines and rate of change of frequency"
 updated: "2026-08-09"
 ---
 

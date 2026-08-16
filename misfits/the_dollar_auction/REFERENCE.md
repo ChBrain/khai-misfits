@@ -1,4 +1,7 @@
 ---
+concept: "The Dollar Auction (all-pay escalation; entrapment)"
+field: "Collective action, commons, and coordination"
+source: 'Shubik, "The Dollar Auction Game" (J. Conflict Resolution, 1971)'
 updated: "2026-07-21"
 ---
 

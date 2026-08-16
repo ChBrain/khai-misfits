@@ -1,4 +1,7 @@
 ---
+concept: "Defensive Medicine (goal displacement; blame culture)"
+field: "Groups, candour, and face"
+source: "Studdert et al. (JAMA, 2005); Merton"
 updated: "2026-07-06"
 ---
 

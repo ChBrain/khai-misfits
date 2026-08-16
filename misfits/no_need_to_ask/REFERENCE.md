@@ -1,4 +1,7 @@
 ---
+concept: "The Rentier State (resource revenue and the severed tax bargain)"
+field: "Markets, money, and economic equilibria"
+source: "Mahdavy (1970); Beblawi & Luciani"
 updated: "2026-07-24"
 ---
 

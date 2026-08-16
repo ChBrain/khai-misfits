@@ -1,4 +1,7 @@
 ---
+concept: "The Diamond Paradox (search cost collapsing price competition)"
+field: "Markets, money, and economic equilibria"
+source: 'Diamond, "A Model of Price Adjustment" (JET, 1971)'
 updated: "2026-07-29"
 ---
 

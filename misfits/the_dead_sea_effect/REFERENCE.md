@@ -1,4 +1,7 @@
 ---
+concept: "The Dead Sea Effect (talent evaporation)"
+field: "Organisations, hierarchy, and management"
+source: 'Webster, "The Wetware Crisis: the Dead Sea effect" (2008)'
 updated: "2026-07-02"
 ---
 

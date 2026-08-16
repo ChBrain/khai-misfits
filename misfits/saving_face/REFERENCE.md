@@ -1,4 +1,7 @@
 ---
+concept: "Defensive Routines (face-saving; single-loop learning)"
+field: "Groups, candour, and face"
+source: "Argyris & Schön, _Organizational Learning_ (1978)"
 updated: "2026-07-02"
 ---
 

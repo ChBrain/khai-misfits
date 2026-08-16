@@ -1,4 +1,7 @@
 ---
+concept: "The Frozen Middle (middle-management distortion)"
+field: "Organisations, hierarchy, and management"
+source: 'Huy, "In Praise of Middle Managers" (HBR, 2001)'
 updated: "2026-07-06"
 ---
 

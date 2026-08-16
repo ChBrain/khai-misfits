@@ -1,4 +1,7 @@
 ---
+concept: "Regression to the Mean"
+field: "Measurement, cognition, and inquiry"
+source: 'Galton, "Regression towards Mediocrity" (1886); Kahneman'
 updated: "2026-07-01"
 ---
 

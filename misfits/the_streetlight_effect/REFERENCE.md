@@ -1,4 +1,7 @@
 ---
+concept: "The Streetlight Effect (the drunkard's search)"
+field: "Measurement, cognition, and inquiry"
+source: "Kaplan, _The Conduct of Inquiry_ (1964)"
 updated: "2026-07-02"
 ---
 

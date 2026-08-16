@@ -1,4 +1,7 @@
 ---
+concept: "Bufferbloat (excessive buffering and latency collapse)"
+field: "Safety, risk, and complex systems"
+source: 'Gettys & Nichols, "Bufferbloat: Dark Buffers in the Internet" (ACM Queue, 2011)'
 axis: buffer-slack
 sign: negative
 updated: "2026-07-24"

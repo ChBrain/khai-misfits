@@ -1,4 +1,7 @@
 ---
+concept: "The Market-Value Decline of Variable Renewables (cannibalisation; the falling value factor)"
+field: "Markets, money, and economic equilibria"
+source: 'Hirth, "The market value of variable renewables" (Energy Economics, 2013); Sensfuss, Ragwitz & Genoese (Energy Policy, 2008)'
 updated: "2026-07-31"
 ---
 

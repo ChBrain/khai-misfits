@@ -1,4 +1,7 @@
 ---
+concept: "Statistical Discrimination (self-fulfilling group proxy)"
+field: "Markets, money, and economic equilibria"
+source: 'Phelps, "The Statistical Theory of Racism and Sexism" (AER, 1972); Arrow (1973)'
 updated: "2026-07-20"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "Normalization of Deviance"
+field: "Safety, risk, and complex systems"
+source: "Vaughan, _The Challenger Launch Decision_ (1996)"
 updated: "2026-07-01"
 ---
 

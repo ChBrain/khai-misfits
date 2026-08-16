@@ -1,4 +1,7 @@
 ---
+concept: "The Collingridge Dilemma (the pacing problem of technology control)"
+field: "Safety, risk, and complex systems"
+source: "Collingridge, _The Social Control of Technology_ (1980)"
 updated: "2026-07-27"
 ---
 

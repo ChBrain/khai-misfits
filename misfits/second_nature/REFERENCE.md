@@ -1,4 +1,7 @@
 ---
+concept: "The Curse of Knowledge (the expert-novice gap)"
+field: "Measurement, cognition, and inquiry"
+source: "Camerer, Loewenstein & Weber (JPE, 1989); Newton; Pinker"
 updated: "2026-07-03"
 ---
 

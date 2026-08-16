@@ -1,4 +1,7 @@
 ---
+concept: "Braess's Paradox (added capacity, less flow)"
+field: "Collective action, commons, and coordination"
+source: "Braess (1968)"
 updated: "2026-07-01"
 ---
 

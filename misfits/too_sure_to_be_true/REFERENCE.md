@@ -1,4 +1,7 @@
 ---
+concept: "The Overwhelming-Evidence Paradox (too good to be true)"
+field: "Measurement, cognition, and inquiry"
+source: "Gunn et al. (Proc. Royal Society A, 2016)"
 updated: "2026-07-28"
 ---
 

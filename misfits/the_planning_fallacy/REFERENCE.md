@@ -1,4 +1,7 @@
 ---
+concept: "The Planning Fallacy (the inside view)"
+field: "Measurement, cognition, and inquiry"
+source: "Kahneman & Tversky (1979); Flyvbjerg"
 updated: "2026-07-03"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Market for Lemons (adverse selection)"
+field: "Markets, money, and economic equilibria"
+source: 'Akerlof, "The Market for ''Lemons''" (QJE, 1970)'
 updated: "2026-07-01"
 ---
 

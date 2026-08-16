@@ -1,4 +1,7 @@
 ---
+concept: "Bootleggers and Baptists (dual-coalition regulation)"
+field: "Markets, money, and economic equilibria"
+source: 'Yandle, "Bootleggers and Baptists" (Regulation, 1983)'
 updated: "2026-07-21"
 ---
 

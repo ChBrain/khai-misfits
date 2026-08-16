@@ -1,4 +1,7 @@
 ---
+concept: "Chesterton's Fence (removing a forgotten safeguard)"
+field: "Safety, risk, and complex systems"
+source: "Chesterton, _The Thing_ (1929)"
 updated: "2026-07-02"
 ---
 

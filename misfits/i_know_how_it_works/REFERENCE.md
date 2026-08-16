@@ -1,4 +1,7 @@
 ---
+concept: "The Illusion of Explanatory Depth"
+field: "Measurement, cognition, and inquiry"
+source: "Rozenblit & Keil (Cognitive Science, 2002)"
 updated: "2026-07-24"
 ---
 

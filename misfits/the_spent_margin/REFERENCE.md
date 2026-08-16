@@ -1,4 +1,7 @@
 ---
+concept: "Risk Compensation (the Peltzman effect; risk homeostasis)"
+field: "Safety, risk, and complex systems"
+source: 'Peltzman, "The Effects of Automobile Safety Regulation" (JPE, 1975); Wilde'
 axis: protective-cover
 sign: negative
 updated: "2026-07-20"

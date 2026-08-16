@@ -1,4 +1,7 @@
 ---
+concept: "Debt-Deflation"
+field: "Markets, money, and economic equilibria"
+source: 'Fisher, "The Debt-Deflation Theory of Great Depressions" (Econometrica, 1933)'
 updated: "2026-07-03"
 ---
 

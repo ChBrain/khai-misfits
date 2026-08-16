@@ -1,4 +1,7 @@
 ---
+concept: "Drift into Failure (the migration model; the boundary of safe operation)"
+field: "Safety, risk, and complex systems"
+source: 'Rasmussen, "Risk Management in a Dynamic Society" (Safety Science, 1997); Dekker'
 updated: "2026-07-21"
 ---
 

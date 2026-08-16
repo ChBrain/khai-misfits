@@ -1,4 +1,7 @@
 ---
+concept: "Safeguarding as Codification (heritage inscription; the suppression of variability)"
+field: "Measurement, cognition, and inquiry"
+source: "Kirshenblatt-Gimblett (Museum International, 2004); Milroy & Milroy, Authority in Language"
 axis: codification
 sign: negative
 updated: "2026-08-16"

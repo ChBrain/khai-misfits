@@ -1,4 +1,7 @@
 ---
+concept: "The Spotlight Effect (egocentric bias in estimating one's own salience)"
+field: "Groups, candour, and face"
+source: "Gilovich, Medvec & Savitsky (JPSP, 2000)"
 updated: "2026-07-29"
 ---
 

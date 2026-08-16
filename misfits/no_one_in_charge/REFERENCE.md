@@ -1,4 +1,7 @@
 ---
+concept: "The Tyranny of Structurelessness (informal power in leaderless groups)"
+field: "Organisations, hierarchy, and management"
+source: 'Freeman, "The Tyranny of Structurelessness" (1972-73)'
 updated: "2026-07-21"
 ---
 

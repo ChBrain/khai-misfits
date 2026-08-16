@@ -1,4 +1,7 @@
 ---
+concept: "Load-Redistribution Cascade (the fiber-bundle model)"
+field: "Safety, risk, and complex systems"
+source: 'Daniels, "The Statistical Theory of the Strength of Bundles of Threads" (1945)'
 axis: risk-pool-members
 sign: positive
 updated: "2026-07-24"

@@ -1,4 +1,7 @@
 ---
+concept: "Information Cascade (rational herding)"
+field: "Measurement, cognition, and inquiry"
+source: "Bikhchandani, Hirshleifer & Welch (JPE, 1992); Banerjee"
 updated: "2026-07-02"
 ---
 

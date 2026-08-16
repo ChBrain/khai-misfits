@@ -1,4 +1,7 @@
 ---
+concept: "The CAP Theorem (split-brain; partition tolerance)"
+field: "Safety, risk, and complex systems"
+source: "Gilbert & Lynch (2002); Brewer (2000)"
 updated: "2026-07-29"
 ---
 

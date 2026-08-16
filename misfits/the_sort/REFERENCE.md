@@ -1,4 +1,7 @@
 ---
+concept: "Schelling's Tipping Model (segregation from mild preferences; micromotives)"
+field: "Collective action, commons, and coordination"
+source: 'Schelling, "Dynamic Models of Segregation" (J. Math. Sociology, 1971); _Micromotives and Macrobehavior_ (1978)'
 updated: "2026-07-21"
 ---
 

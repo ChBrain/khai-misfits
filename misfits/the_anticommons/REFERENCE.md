@@ -1,4 +1,7 @@
 ---
+concept: "The Anticommons (underuse by too many vetoes)"
+field: "Collective action, commons, and coordination"
+source: "Michelman (1982); Heller"
 updated: "2026-07-02"
 ---
 

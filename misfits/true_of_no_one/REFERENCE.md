@@ -1,4 +1,7 @@
 ---
+concept: "Heterogeneity of Treatment Effects (the trouble with averages; the average that fits no patient)"
+field: "Ecology, evolution, and public health"
+source: "Kravitz, Duan & Braslow (Milbank Quarterly, 2004); Kent, Hayward et al. (2016)"
 updated: "2026-07-30"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "Custom as the Standard of Care (the Bolam test; T.J. Hooper)"
+field: "Collective action, commons, and coordination"
+source: "Bolam v Friern HMC [1957]; The T.J. Hooper (2d Cir. 1932); Bolitho [1998]"
 updated: "2026-08-09"
 ---
 

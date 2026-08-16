@@ -1,4 +1,7 @@
 ---
+concept: "Bystander Selection (collateral selection for antibiotic resistance)"
+field: "Ecology, evolution, and public health"
+source: 'Tedijanto, Olesen, Grad & Lipsitch, "Estimating the proportion of bystander selection for antibiotic resistance" (PNAS, 2018)'
 updated: "2026-07-31"
 ---
 

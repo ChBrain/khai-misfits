@@ -1,4 +1,7 @@
 ---
+concept: "Learned Helplessness (uncontrollability; the reformulation)"
+field: "Measurement, cognition, and inquiry"
+source: "Seligman & Maier (1967); Abramson, Seligman & Teasdale (1978); Maier & Seligman (2016)"
 updated: "2026-07-03"
 ---
 

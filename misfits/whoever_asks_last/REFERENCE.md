@@ -1,4 +1,7 @@
 ---
+concept: "The Condorcet Paradox (cyclical majorities; agenda control)"
+field: "Collective action, commons, and coordination"
+source: "Condorcet, _Essai_ (1785); Arrow (1951)"
 updated: "2026-07-22"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Universal Donor Squeeze (a fungible stock spent on the non-fungible need)"
+field: "Markets, money, and economic equilibria"
+source: "the absence of A, B and RhD antigens in group O negative; transfusion-service allocation practice"
 updated: "2026-08-09"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Vaccination Free-Rider (herd-immunity free-riding)"
+field: "Ecology, evolution, and public health"
+source: "Bauch & Earn (PNAS, 2004); Fine & Clarkson (1986)"
 updated: "2026-07-03"
 ---
 

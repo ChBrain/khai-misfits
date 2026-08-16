@@ -1,4 +1,7 @@
 ---
+concept: "Metastable Failure (the retry storm; self-sustaining overload; a failure outliving its trigger)"
+field: "Safety, risk, and complex systems"
+source: "Bronson, Charapko, Aghayev & Zhu (HotOS, 2021); Huang, Magnusson et al. (OSDI, 2022)"
 updated: "2026-07-30"
 ---
 

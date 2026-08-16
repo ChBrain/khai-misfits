@@ -1,4 +1,7 @@
 ---
+concept: "Groupthink"
+field: "Groups, candour, and face"
+source: "Whyte (Fortune, 1952); Janis"
 updated: "2026-07-01"
 ---
 

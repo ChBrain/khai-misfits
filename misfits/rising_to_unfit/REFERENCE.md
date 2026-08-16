@@ -1,4 +1,7 @@
 ---
+concept: "The Peter Principle (promotion to incompetence)"
+field: "Organisations, hierarchy, and management"
+source: "Peter & Hull, _The Peter Principle_ (1969)"
 updated: "2026-07-01"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "Publication Bias (the file-drawer problem)"
+field: "Measurement, cognition, and inquiry"
+source: 'Sterling (JASA, 1959); Rosenthal, "The File Drawer Problem" (1979)'
 updated: "2026-07-21"
 ---
 

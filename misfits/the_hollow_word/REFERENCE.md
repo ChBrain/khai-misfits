@@ -1,4 +1,7 @@
 ---
+concept: "Semantic Drift (semantic bleaching; semantic change)"
+field: "Organisations, hierarchy, and management"
+source: "Traugott & Dasher (2002); Bloomfield (1933); Hopper & Traugott"
 updated: "2026-07-03"
 ---
 

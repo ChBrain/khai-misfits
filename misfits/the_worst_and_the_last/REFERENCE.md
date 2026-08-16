@@ -1,4 +1,7 @@
 ---
+concept: "The Peak-End Rule (duration neglect)"
+field: "Measurement, cognition, and inquiry"
+source: "Fredrickson & Kahneman (JPSP, 1993); Redelmeier & Kahneman"
 updated: "2026-07-28"
 ---
 

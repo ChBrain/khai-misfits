@@ -1,4 +1,7 @@
 ---
+concept: "Moral Licensing (moral credentials)"
+field: "Measurement, cognition, and inquiry"
+source: "Monin & Miller (JPSP, 2001)"
 updated: "2026-07-02"
 ---
 

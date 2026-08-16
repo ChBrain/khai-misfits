@@ -1,4 +1,7 @@
 ---
+concept: "The Availability Cascade (availability heuristic; risk regulation)"
+field: "Measurement, cognition, and inquiry"
+source: "Kuran & Sunstein (Stanford Law Review, 1999); Tversky & Kahneman"
 updated: "2026-07-03"
 ---
 

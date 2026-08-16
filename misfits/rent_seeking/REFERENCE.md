@@ -1,4 +1,7 @@
 ---
+concept: "Rent-Seeking (unproductive competition for transfers)"
+field: "Markets, money, and economic equilibria"
+source: "Tullock (1967); Krueger (1974)"
 updated: "2026-07-02"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "Gresham's Law (bad money drives out good)"
+field: "Markets, money, and economic equilibria"
+source: "Gresham (16th c.); named by Macleod"
 updated: "2026-07-01"
 ---
 

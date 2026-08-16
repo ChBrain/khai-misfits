@@ -1,4 +1,7 @@
 ---
+concept: "The Abilene Paradox (pluralistic ignorance)"
+field: "Groups, candour, and face"
+source: 'Harvey, "The Abilene Paradox" (Organizational Dynamics, 1974)'
 updated: "2026-07-01"
 ---
 

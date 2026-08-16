@@ -1,4 +1,7 @@
 ---
+concept: "The Double Bind (paradoxical injunction; metacommunication)"
+field: "Groups, candour, and face"
+source: "Bateson, Jackson, Haley & Weakland (Behavioral Science, 1956)"
 updated: "2026-07-03"
 ---
 

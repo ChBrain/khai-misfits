@@ -1,4 +1,7 @@
 ---
+concept: "Citation Distortion (unfounded authority built by citation)"
+field: "Measurement, cognition, and inquiry"
+source: "Greenberg (BMJ, 2009)"
 updated: "2026-07-28"
 ---
 

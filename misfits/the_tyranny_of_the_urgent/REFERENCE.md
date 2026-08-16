@@ -1,4 +1,7 @@
 ---
+concept: "The Mere Urgency Effect (urgent over important)"
+field: "Measurement, cognition, and inquiry"
+source: "Zhu, Yang & Hsee (JCR, 2018); Hummel; Covey"
 updated: "2026-07-03"
 ---
 

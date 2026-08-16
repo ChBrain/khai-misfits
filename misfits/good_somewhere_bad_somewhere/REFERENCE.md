@@ -1,4 +1,7 @@
 ---
+concept: "The Attractiveness Principle (relieve one shortage and it returns on an untouched gauge)"
+field: "Systems-dynamics archetypes (Senge)"
+source: "Forrester, Urban Dynamics (1969)"
 updated: "2026-08-03"
 ---
 

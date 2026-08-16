@@ -1,4 +1,7 @@
 ---
+concept: "Berkson's Paradox (collider bias; selection bias)"
+field: "Measurement, cognition, and inquiry"
+source: 'Berkson, "Limitations of the Application of Fourfold Table Analysis to Hospital Data" (Biometrics Bulletin, 1946)'
 updated: "2026-07-21"
 ---
 

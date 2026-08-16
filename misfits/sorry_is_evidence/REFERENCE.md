@@ -1,4 +1,7 @@
 ---
+concept: "Apology and Litigation (what the harmed want to hear; what counsel must forbid)"
+field: "Groups, candour, and face"
+source: 'Vincent, Young & Phillips, "Why do people sue doctors?" (Lancet, 1994)'
 updated: "2026-08-09"
 ---
 

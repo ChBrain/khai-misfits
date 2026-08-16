@@ -1,4 +1,7 @@
 ---
+concept: "The Displacement Effect (the fiscal ratchet; Peacock-Wiseman)"
+field: "Markets, money, and economic equilibria"
+source: "Peacock & Wiseman, _The Growth of Public Expenditure in the United Kingdom_ (1961)"
 updated: "2026-07-21"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "Parkinson's Law of Triviality (bikeshedding)"
+field: "Organisations, hierarchy, and management"
+source: "Parkinson, _Parkinson's Law_ (1957)"
 updated: "2026-07-01"
 ---
 

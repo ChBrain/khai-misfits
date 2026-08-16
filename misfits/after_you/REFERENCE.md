@@ -1,4 +1,7 @@
 ---
+concept: "Two-Sided Markets (the chicken-and-egg problem; platform launch)"
+field: "Markets, money, and economic equilibria"
+source: 'Rochet & Tirole, "Platform Competition in Two-Sided Markets" (JEEA, 2003)'
 updated: "2026-07-24"
 ---
 

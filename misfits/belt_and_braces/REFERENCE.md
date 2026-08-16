@@ -1,4 +1,7 @@
 ---
+concept: "The Redundancy Paradox (more backups, less reliability)"
+field: "Safety, risk, and complex systems"
+source: 'Sagan, "The Problem of Redundancy Problem" (Risk Analysis, 2004); Perrow (1984)'
 axis: redundant-elements
 sign: negative
 updated: "2026-07-03"

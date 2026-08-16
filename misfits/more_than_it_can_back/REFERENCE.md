@@ -1,4 +1,7 @@
 ---
+concept: "The Triffin Dilemma (the reserve-currency bind)"
+field: "Markets, money, and economic equilibria"
+source: "Triffin, _Gold and the Dollar Crisis_ (1960)"
 updated: "2026-07-24"
 ---
 

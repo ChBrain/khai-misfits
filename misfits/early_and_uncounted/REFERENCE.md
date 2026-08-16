@@ -1,4 +1,7 @@
 ---
+concept: "Antagonistic Pleiotropy (the evolutionary theory of senescence)"
+field: "Ecology, evolution, and public health"
+source: "Williams (Evolution, 1957); Medawar"
 updated: "2026-07-23"
 ---
 

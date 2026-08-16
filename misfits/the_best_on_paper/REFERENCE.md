@@ -1,4 +1,7 @@
 ---
+concept: "The Optimizer's Curse (post-decision surprise; selection on noisy estimates)"
+field: "Measurement, cognition, and inquiry"
+source: 'Smith & Winkler, "The Optimizer''s Curse" (Management Science, 2006)'
 updated: "2026-07-21"
 ---
 

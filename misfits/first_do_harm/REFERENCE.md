@@ -1,4 +1,7 @@
 ---
+concept: "Iatrogenesis (medical nemesis; the harm of the cure)"
+field: "Safety, risk, and complex systems"
+source: "Illich, _Medical Nemesis_ (1976); Rochon & Gurwitz (BMJ, 1997)"
 updated: "2026-07-03"
 ---
 

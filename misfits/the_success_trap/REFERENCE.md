@@ -1,4 +1,7 @@
 ---
+concept: "The Innovator's Dilemma (disruption; competency trap)"
+field: "Markets, money, and economic equilibria"
+source: "Christensen, _The Innovator's Dilemma_ (1997)"
 updated: "2026-07-06"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "The Liquidity Trap (pushing on a string)"
+field: "Markets, money, and economic equilibria"
+source: "Keynes, _The General Theory_ (1936)"
 updated: "2026-07-24"
 ---
 

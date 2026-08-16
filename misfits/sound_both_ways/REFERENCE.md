@@ -1,4 +1,7 @@
 ---
+concept: "The Antinomies of Pure Reason (transcendental illusion; reason past possible experience)"
+field: "Measurement, cognition, and inquiry"
+source: "Kant, Critique of Pure Reason (1781/1787); Grier (2001)"
 axis: inferential-reach
 sign: negative
 updated: "2026-08-15"

@@ -1,4 +1,7 @@
 ---
+concept: "Legibility and the Loss of Métis (seeing like a state; high-modernist simplification)"
+field: "Organisations, hierarchy, and management"
+source: "Scott, _Seeing Like a State_ (Yale University Press, 1998)"
 updated: "2026-07-21"
 ---
 

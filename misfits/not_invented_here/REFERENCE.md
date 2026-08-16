@@ -1,4 +1,7 @@
 ---
+concept: "Not-Invented-Here Syndrome"
+field: "Organisations, hierarchy, and management"
+source: 'Katz & Allen, "Investigating the NIH Syndrome" (R&D Management, 1982)'
 updated: "2026-07-02"
 ---
 

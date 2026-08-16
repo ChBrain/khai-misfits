@@ -1,4 +1,7 @@
 ---
+concept: "Trial Capacity and the Plea Discount (the going rate set by throughput)"
+field: "Collective action, commons, and coordination"
+source: "Santobello v. New York, 404 U.S. 257 (1971)"
 updated: "2026-08-09"
 ---
 

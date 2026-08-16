@@ -1,4 +1,7 @@
 ---
+concept: "Secondary Salinisation (the water leaves, the salt stays)"
+field: "Ecology, evolution, and public health"
+source: 'Jacobsen & Adams, "Salt and Silt in Ancient Mesopotamian Agriculture" (Science, 1958)'
 updated: "2026-08-09"
 ---
 

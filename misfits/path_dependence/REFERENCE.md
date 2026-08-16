@@ -1,4 +1,7 @@
 ---
+concept: "Path Dependence and Lock-In (QWERTY)"
+field: "Markets, money, and economic equilibria"
+source: 'David, "Clio and the Economics of QWERTY" (AER, 1985); Arthur'
 updated: "2026-07-02"
 ---
 

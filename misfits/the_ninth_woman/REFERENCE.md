@@ -1,4 +1,7 @@
 ---
+concept: "Brooks's Law (the mythical man-month)"
+field: "Organisations, hierarchy, and management"
+source: "Brooks, _The Mythical Man-Month_ (1975)"
 updated: "2026-07-01"
 ---
 

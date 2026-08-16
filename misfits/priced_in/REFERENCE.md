@@ -1,4 +1,7 @@
 ---
+concept: "The Grossman-Stiglitz Paradox (the impossibility of informationally efficient markets)"
+field: "Markets, money, and economic equilibria"
+source: "Grossman & Stiglitz (AER, 1980)"
 updated: "2026-07-24"
 ---
 

@@ -1,4 +1,7 @@
 ---
+concept: "Grandfathering in Codes (prospective standards; the stock that never has to comply)"
+field: "Safety, risk, and complex systems"
+source: "the general practice of applying building requirements to new construction"
 updated: "2026-08-09"
 ---
 

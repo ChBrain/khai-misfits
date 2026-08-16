@@ -1,4 +1,7 @@
 ---
+concept: "The Illusion of Shared Understanding (illusory transparency; grounding)"
+field: "Groups, candour, and face"
+source: "Gilovich, Savitsky & Medvec (1998); Keysar (1994); Clark & Brennan (1991)"
 updated: "2026-07-03"
 ---
 

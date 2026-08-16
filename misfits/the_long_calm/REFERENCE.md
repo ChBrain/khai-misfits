@@ -1,4 +1,7 @@
 ---
+concept: "The Financial Instability Hypothesis (the Minsky moment; stability breeds instability)"
+field: "Markets, money, and economic equilibria"
+source: "Minsky, _Stabilizing an Unstable Economy_ (1986)"
 updated: "2026-07-24"
 ---
 

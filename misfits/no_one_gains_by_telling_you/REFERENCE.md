@@ -1,4 +1,7 @@
 ---
+concept: "Shrouded Attributes (add-on pricing; information suppression)"
+field: "Markets, money, and economic equilibria"
+source: 'Gabaix & Laibson, "Shrouded Attributes, Consumer Myopia" (QJE, 2006)'
 updated: "2026-07-24"
 ---
 

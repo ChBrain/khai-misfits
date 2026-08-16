@@ -1,4 +1,7 @@
 ---
+concept: "The Race to the Bottom (regulatory competition; charter competition)"
+field: "Collective action, commons, and coordination"
+source: 'Cary, "Federalism and Corporate Law" (Yale L.J., 1974); Winter (1977)'
 updated: "2026-07-03"
 ---
 

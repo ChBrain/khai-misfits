@@ -1,4 +1,7 @@
 ---
+concept: "Exit, Voice, and Loyalty (loyalty suppresses both signals)"
+field: "Groups, candour, and face"
+source: "Hirschman, _Exit, Voice, and Loyalty_ (1970)"
 updated: "2026-07-03"
 ---
 

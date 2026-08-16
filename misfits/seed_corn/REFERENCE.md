@@ -1,4 +1,7 @@
 ---
+concept: "Managerial short-termism (eating the seed corn)"
+field: "Organisations, hierarchy, and management"
+source: 'Narayanan, "Managerial Incentives for Short-term Results" (J. Finance, 1985)'
 updated: "2026-07-01"
 ---
 

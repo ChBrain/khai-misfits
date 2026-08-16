@@ -1,4 +1,7 @@
 ---
+concept: "Dutch Disease (the exchange-rate resource curse)"
+field: "Markets, money, and economic equilibria"
+source: "_The Economist_ (1977); Corden & Neary (Economic Journal, 1982)"
 updated: "2026-07-03"
 ---
 
