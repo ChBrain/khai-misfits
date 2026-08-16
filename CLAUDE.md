@@ -186,7 +186,9 @@ All three are required, and both indexes are held to a fresh build. The prose of
 `REFERENCES.md` stays hand-written; only the tables under `## Origin` are built.
 Rebuild with `node tests/science_overlap.mjs --build-refs`. **A misfit no longer
 needs a paired governance pull request to be indexed**, which is the whole point:
-the row rides the misfit's own lane.
+the row rides the misfit's own lane, and the built file is `shared` in
+`branchScope` so it travels with the change that regenerates it, exactly as
+`registry.json` and `docs/SCIENCE.md` do.
 
 **Read the canon list forwards to pick the next family.** `workPolicy.canon` is
 written as a list of exceptions, works exempted so a field's foundational text
@@ -223,7 +225,8 @@ stays `0.x`; the numbering guard rejects a major bump.
 
 ### The generated artefacts travel with the change
 
-`registry.json`, `package.json` and `docs/SCIENCE.md` are **built, never merged**.
+`registry.json`, `package.json`, `docs/SCIENCE.md` and `REFERENCES.md` are **built,
+never merged**.
 A misfit PR carries them, and they are only valid against the `main` it will
 merge into: the moment another misfit lands first, the count moves and they are
 stale. No rebase can fix that, because git cannot resolve a computed count, so
@@ -231,8 +234,8 @@ rebasing a misfit PR means rebuilding, not merging:
 
 1. reset the branch to `main`;
 2. take **only** the content across, the misfit directory and its changeset;
-3. run `npx khai-tests registry build` and `npx khai-tests science build`
-   against the final tree;
+3. run `npx khai-tests registry build`, `npx khai-tests science build` and
+   `node tests/science_overlap.mjs --build-refs` against the final tree;
 4. **revert `CHANGELOG.md`**, see below;
 5. verify with `npm test` before pushing.
 
