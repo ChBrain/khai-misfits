@@ -250,6 +250,18 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     console.log("REFERENCES.md rebuilt from the warrants");
     process.exit(0);
   }
+  if (args.includes("--namesakes")) {
+    const loose = findUnresolvedNamesakes();
+    const homonyms = scholarHomonyms();
+    console.log(
+      `${Object.keys(homonyms).length} declared shared surname(s); ${loose.length} unresolved.`,
+    );
+    for (const r of loose)
+      console.log(
+        `  ${r.scholar}  <- ${r.misfit}\n     declared: ${r.forms.join(", ")}\n     cited as: ${r.work}`,
+      );
+    process.exit(0);
+  }
   if (args.includes("--families")) {
     for (const f of canonFamilies()) {
       const marked = f.misfits.map((d) => (f.declared.includes(d) ? d : d + " (no axis)"));
@@ -395,6 +407,59 @@ export function canonFamilies(root = ROOT) {
     })
     .filter((f) => f.misfits.length > 1)
     .sort((a, b) => b.misfits.length - a.misfits.length || a.work.localeCompare(b.work));
+}
+
+// Namesakes, and the one hole in the wall above.
+//
+// findOverlaps keys on `scholar :: workStem`, and `scholar` is whatever the
+// science build produced. The build keys on the bare surname by default, which
+// is what collates a scholar written "Kahneman" in one Origin table and "Daniel
+// Kahneman" in another, and it separates namesakes only where a maintainer has
+// declared the shared surname in `scholarPolicy.homonyms`. That default is
+// right: two given names under one surname look identical to one person written
+// two ways, and any rule that split "Oliver Hart" from "Julian Tudor Hart"
+// would also split "Buchanan" from "James M Buchanan".
+//
+// The build already emits the signal. Where a surname is declared and a Source
+// cell carries no form that matches, it leaves the bare surname deliberately,
+// "so an unresolved occurrence stays visible instead of being silently
+// attributed to one of them". Visible, and until now read by nobody: nine such
+// occurrences sat in the index across five declared surnames, one of them added
+// the same afternoon this check was written.
+//
+// They are the hole because a declared surname written bare in one misfit and
+// resolved in another is one person split across two keys, or two people merged
+// into one, and either way findOverlaps is comparing the wrong things. The
+// undeclared direction is safe by contrast: two people sharing an undeclared
+// surname collate into one key, which can only ever raise a spurious overlap,
+// and a spurious overlap fails loudly rather than passing quietly.
+//
+// So the rule is the narrow one that closes the hole, and it is computed rather
+// than judged: a surname declared in `scholarPolicy.homonyms` may not appear in
+// the index unresolved. Nothing here decides who anybody is; the maintainer's
+// declaration does that, and this only insists the declaration was applied.
+export function scholarHomonyms(root = ROOT) {
+  const path = join(root, "khai-guard.config.json");
+  if (!fs.existsSync(path)) return {};
+  try {
+    return JSON.parse(fs.readFileSync(path, "utf8"))?.scholarPolicy?.homonyms ?? {};
+  } catch {
+    return {};
+  }
+}
+
+export function findUnresolvedNamesakes(root = ROOT) {
+  const homonyms = scholarHomonyms(root);
+  const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
+  return rows
+    .filter((r) => Array.isArray(homonyms[r.scholar]) && homonyms[r.scholar].length)
+    .map((r) => ({
+      scholar: r.scholar,
+      misfit: r.misfit,
+      forms: homonyms[r.scholar],
+      work: r.work.replace(/<br>[\s\S]*$/, "").trim(),
+    }))
+    .sort((a, b) => a.scholar.localeCompare(b.scholar) || a.misfit.localeCompare(b.misfit));
 }
 
 // REFERENCES.md coverage. The house keeps two indexes and only one of them is
