@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.252.0",
+  "version": "0.253.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -8970,6 +8970,198 @@
           "kind": "process",
           "title": "Forgoing",
           "taxonomy": "play_fixes_that_fail.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "given_to_everyone",
+      "title": "Given to Everyone",
+      "description": "The licence that wins the users cannot be recalled or aimed, so it hands most to whoever is placed to use it.",
+      "members": [
+        {
+          "file": "persona_the_company.md",
+          "kind": "persona",
+          "title": "The Company",
+          "type": "archetype",
+          "taxonomy": "position_company.md"
+        },
+        {
+          "file": "persona_the_contributors.md",
+          "kind": "persona",
+          "title": "The Contributors",
+          "type": "archetype",
+          "taxonomy": "position_contributors.md"
+        },
+        {
+          "file": "persona_the_definition.md",
+          "kind": "persona",
+          "title": "The Definition",
+          "type": "archetype",
+          "taxonomy": "position_definition.md"
+        },
+        {
+          "file": "persona_the_operator.md",
+          "kind": "persona",
+          "title": "The Operator",
+          "type": "archetype",
+          "taxonomy": "position_operator.md"
+        },
+        {
+          "file": "persona_the_terms.md",
+          "kind": "persona",
+          "title": "The Terms",
+          "type": "archetype",
+          "taxonomy": "position_terms.md"
+        },
+        {
+          "file": "piece_the_fork_base.md",
+          "kind": "piece",
+          "title": "The Fork Base",
+          "taxonomy": "place_the_last_permissive_commit.md"
+        },
+        {
+          "file": "piece_the_perpetual_term.md",
+          "kind": "piece",
+          "title": "The Perpetual Term",
+          "taxonomy": "place_the_repository.md"
+        },
+        {
+          "file": "piece_the_two_clauses.md",
+          "kind": "piece",
+          "title": "The Two Clauses",
+          "taxonomy": "place_the_repository.md"
+        },
+        {
+          "file": "pitch_free_to_whoever_can_use_it.md",
+          "kind": "pitch",
+          "title": "Free to Whoever Can Use It",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "place_the_last_permissive_commit.md",
+          "kind": "place",
+          "title": "The Last Permissive Commit",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "place_the_repository.md",
+          "kind": "place",
+          "title": "The Repository",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "plan_be_chosen.md",
+          "kind": "plan",
+          "title": "Be Chosen",
+          "taxonomy": "persona_the_company.md"
+        },
+        {
+          "file": "plan_grant_without_asking_who.md",
+          "kind": "plan",
+          "title": "Grant Without Asking Who",
+          "taxonomy": "persona_the_definition.md"
+        },
+        {
+          "file": "plan_keep_what_was_given.md",
+          "kind": "plan",
+          "title": "Keep What Was Given",
+          "taxonomy": "persona_the_contributors.md"
+        },
+        {
+          "file": "play_given_to_everyone.md",
+          "kind": "play",
+          "title": "Given to Everyone"
+        },
+        {
+          "file": "plot_and_the_team_is_not_yours_either.md",
+          "kind": "plot",
+          "title": "And the Team Is Not Yours Either",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "plot_it_runs_to_everyone.md",
+          "kind": "plot",
+          "title": "It Runs to Everyone",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "plot_nobody_broke_anything.md",
+          "kind": "plot",
+          "title": "Nobody Broke Anything",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "plot_the_base_is_already_cut.md",
+          "kind": "plot",
+          "title": "The Base Is Already Cut",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "plot_the_cheapest_distribution_there_is.md",
+          "kind": "plot",
+          "title": "The Cheapest Distribution There Is",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "plot_the_terms_are_not_yours_to_change.md",
+          "kind": "plot",
+          "title": "The Terms Are Not Yours to Change",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "position_company.md",
+          "kind": "position",
+          "title": "Company",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "position_contributors.md",
+          "kind": "position",
+          "title": "Contributors",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "position_definition.md",
+          "kind": "position",
+          "title": "Definition",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "position_operator.md",
+          "kind": "position",
+          "title": "Operator",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "position_terms.md",
+          "kind": "position",
+          "title": "Terms",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "process_changing_the_terms.md",
+          "kind": "process",
+          "title": "Changing the Terms",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "process_opening_it.md",
+          "kind": "process",
+          "title": "Opening It",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "process_running_it_at_scale.md",
+          "kind": "process",
+          "title": "Running It at Scale",
+          "taxonomy": "play_given_to_everyone.md"
+        },
+        {
+          "file": "process_taking_the_base.md",
+          "kind": "process",
+          "title": "Taking the Base",
+          "taxonomy": "play_given_to_everyone.md"
         }
       ]
     },
