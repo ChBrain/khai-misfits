@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.249.0",
+  "version": "0.250.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -52976,6 +52976,198 @@
           "kind": "process",
           "title": "Sequencing",
           "taxonomy": "play_whoever_asks_last.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "whoever_comes_instead",
+      "title": "Whoever Comes Instead",
+      "description": "A choice that settles who will exist leaves no one worse off, since whoever it burdens would otherwise not be here.",
+      "members": [
+        {
+          "file": "persona_the_choice.md",
+          "kind": "persona",
+          "title": "The Choice",
+          "type": "archetype",
+          "taxonomy": "position_choice.md"
+        },
+        {
+          "file": "persona_the_ones_who_come.md",
+          "kind": "persona",
+          "title": "The Ones Who Come",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_come.md"
+        },
+        {
+          "file": "persona_the_ones_who_must_decide.md",
+          "kind": "persona",
+          "title": "The Ones Who Must Decide",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_must_decide.md"
+        },
+        {
+          "file": "persona_the_ones_who_would_have_been.md",
+          "kind": "persona",
+          "title": "The Ones Who Would Have Been",
+          "type": "archetype",
+          "taxonomy": "position_ones_who_would_have_been.md"
+        },
+        {
+          "file": "persona_the_rule.md",
+          "kind": "persona",
+          "title": "The Rule",
+          "type": "archetype",
+          "taxonomy": "position_rule.md"
+        },
+        {
+          "file": "piece_the_ledger_with_no_entry.md",
+          "kind": "piece",
+          "title": "The Ledger With No Entry",
+          "taxonomy": "place_the_committee_room.md"
+        },
+        {
+          "file": "piece_the_life_worth_living.md",
+          "kind": "piece",
+          "title": "The Life Worth Living",
+          "taxonomy": "place_two_centuries_on.md"
+        },
+        {
+          "file": "piece_the_timing.md",
+          "kind": "piece",
+          "title": "The Timing",
+          "taxonomy": "place_the_committee_room.md"
+        },
+        {
+          "file": "pitch_nobody_was_wronged.md",
+          "kind": "pitch",
+          "title": "Nobody Was Wronged",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "place_the_committee_room.md",
+          "kind": "place",
+          "title": "The Committee Room",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "place_two_centuries_on.md",
+          "kind": "place",
+          "title": "Two Centuries On",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "plan_find_who_was_wronged.md",
+          "kind": "plan",
+          "title": "Find Who Was Wronged",
+          "taxonomy": "persona_the_ones_who_must_decide.md"
+        },
+        {
+          "file": "plan_have_a_life_worth_having.md",
+          "kind": "plan",
+          "title": "Have a Life Worth Having",
+          "taxonomy": "persona_the_ones_who_come.md"
+        },
+        {
+          "file": "plan_live_better_now.md",
+          "kind": "plan",
+          "title": "Live Better Now",
+          "taxonomy": "persona_the_choice.md"
+        },
+        {
+          "file": "play_whoever_comes_instead.md",
+          "kind": "play",
+          "title": "Whoever Comes Instead"
+        },
+        {
+          "file": "plot_and_the_loss_is_real.md",
+          "kind": "plot",
+          "title": "And the Loss Is Real",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "plot_glad_to_be_here.md",
+          "kind": "plot",
+          "title": "Glad to Be Here",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "plot_no_one_to_point_at.md",
+          "kind": "plot",
+          "title": "No One to Point At",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "plot_the_choice_changes_who.md",
+          "kind": "plot",
+          "title": "The Choice Changes Who",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "plot_the_rule_is_not_optional.md",
+          "kind": "plot",
+          "title": "The Rule Is Not Optional",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "plot_widening_it_costs_more.md",
+          "kind": "plot",
+          "title": "Widening It Costs More",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "position_choice.md",
+          "kind": "position",
+          "title": "Choice",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "position_ones_who_come.md",
+          "kind": "position",
+          "title": "Ones Who Come",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "position_ones_who_must_decide.md",
+          "kind": "position",
+          "title": "Ones Who Must Decide",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "position_ones_who_would_have_been.md",
+          "kind": "position",
+          "title": "Ones Who Would Have Been",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "position_rule.md",
+          "kind": "position",
+          "title": "Rule",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "process_choosing_it.md",
+          "kind": "process",
+          "title": "Choosing It",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "process_looking_for_the_injured_party.md",
+          "kind": "process",
+          "title": "Looking for the Injured Party",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "process_shifting_who_comes.md",
+          "kind": "process",
+          "title": "Shifting Who Comes",
+          "taxonomy": "play_whoever_comes_instead.md"
+        },
+        {
+          "file": "process_widening_the_rule.md",
+          "kind": "process",
+          "title": "Widening the Rule",
+          "taxonomy": "play_whoever_comes_instead.md"
         }
       ]
     },
