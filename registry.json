@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.246.0",
+  "version": "0.247.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -26968,6 +26968,198 @@
           "kind": "process",
           "title": "Suing to Find Out",
           "taxonomy": "play_sorry_is_evidence.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "sound_both_ways",
+      "title": "Sound Both Ways",
+      "description": "Past what experience can check, one reason proves a claim and its contrary, and nothing in it marks the edge.",
+      "members": [
+        {
+          "file": "persona_the_drive_to_finish.md",
+          "kind": "persona",
+          "title": "The Drive to Finish",
+          "type": "archetype",
+          "taxonomy": "position_drive_to_finish.md"
+        },
+        {
+          "file": "persona_the_illusion_that_stays.md",
+          "kind": "persona",
+          "title": "The Illusion That Stays",
+          "type": "archetype",
+          "taxonomy": "position_illusion_that_stays.md"
+        },
+        {
+          "file": "persona_the_one_who_reasons.md",
+          "kind": "persona",
+          "title": "The One Who Reasons",
+          "type": "archetype",
+          "taxonomy": "position_one_who_reasons.md"
+        },
+        {
+          "file": "persona_the_two_proofs.md",
+          "kind": "persona",
+          "title": "The Two Proofs",
+          "type": "archetype",
+          "taxonomy": "position_two_proofs.md"
+        },
+        {
+          "file": "persona_the_unmarked_bound.md",
+          "kind": "persona",
+          "title": "The Unmarked Bound",
+          "type": "archetype",
+          "taxonomy": "position_unmarked_bound.md"
+        },
+        {
+          "file": "piece_the_complete_series.md",
+          "kind": "piece",
+          "title": "The Complete Series",
+          "taxonomy": "place_the_far_side.md"
+        },
+        {
+          "file": "piece_the_proof.md",
+          "kind": "piece",
+          "title": "The Proof",
+          "taxonomy": "place_the_court.md"
+        },
+        {
+          "file": "piece_the_question.md",
+          "kind": "piece",
+          "title": "The Question",
+          "taxonomy": "place_the_court.md"
+        },
+        {
+          "file": "pitch_no_error_to_find.md",
+          "kind": "pitch",
+          "title": "No Error to Find",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "place_the_court.md",
+          "kind": "place",
+          "title": "The Court",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "place_the_far_side.md",
+          "kind": "place",
+          "title": "The Far Side",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "plan_draw_the_bound.md",
+          "kind": "plan",
+          "title": "Draw the Bound",
+          "taxonomy": "persona_the_illusion_that_stays.md"
+        },
+        {
+          "file": "plan_finish_the_series.md",
+          "kind": "plan",
+          "title": "Finish the Series",
+          "taxonomy": "persona_the_drive_to_finish.md"
+        },
+        {
+          "file": "plan_settle_it.md",
+          "kind": "plan",
+          "title": "Settle It",
+          "taxonomy": "persona_the_one_who_reasons.md"
+        },
+        {
+          "file": "play_sound_both_ways.md",
+          "kind": "play",
+          "title": "Sound Both Ways"
+        },
+        {
+          "file": "plot_a_proof_and_then_its_contrary.md",
+          "kind": "plot",
+          "title": "A Proof, and Then Its Contrary",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "plot_and_it_comes_back.md",
+          "kind": "plot",
+          "title": "And It Comes Back",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "plot_checked_and_checked_again.md",
+          "kind": "plot",
+          "title": "Checked and Checked Again",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "plot_knowing_does_not_cure_it.md",
+          "kind": "plot",
+          "title": "Knowing Does Not Cure It",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "plot_nothing_says_stop.md",
+          "kind": "plot",
+          "title": "Nothing Says Stop",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "plot_the_question_was_the_fault.md",
+          "kind": "plot",
+          "title": "The Question Was the Fault",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "position_drive_to_finish.md",
+          "kind": "position",
+          "title": "Drive to Finish",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "position_illusion_that_stays.md",
+          "kind": "position",
+          "title": "Illusion That Stays",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "position_one_who_reasons.md",
+          "kind": "position",
+          "title": "One Who Reasons",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "position_two_proofs.md",
+          "kind": "position",
+          "title": "Two Proofs",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "position_unmarked_bound.md",
+          "kind": "position",
+          "title": "Unmarked Bound",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "process_proving_it.md",
+          "kind": "process",
+          "title": "Proving It",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "process_proving_the_contrary.md",
+          "kind": "process",
+          "title": "Proving the Contrary",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "process_reaching_past.md",
+          "kind": "process",
+          "title": "Reaching Past",
+          "taxonomy": "play_sound_both_ways.md"
+        },
+        {
+          "file": "process_throwing_out_the_question.md",
+          "kind": "process",
+          "title": "Throwing Out the Question",
+          "taxonomy": "play_sound_both_ways.md"
         }
       ]
     },
