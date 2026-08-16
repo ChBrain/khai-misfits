@@ -3864,7 +3864,7 @@ out, which is unspent, and the incumbent's row is narrowed when it is authored. 
 slated with no neighbour found by the check.
 
 - [x] [P0] Deterrence and the Wrongful Intention (Kavka, "Some Paradoxes of Deterrence", Journal of Philosophy, 1978; Gauthier), staged as **You Have to Mean It**: it can be rational to form an intention that it would be irrational to carry out, so the threat works only by removing one's own capacity to reconsider, distinct from Time Inconsistency's temptation to break a promise and from Exactly How Far's map of what was not promised
-- [ ] [P1] The Non-Identity Problem (Parfit, Reasons and Persons, 1984): the party whose consent is owed is brought into being by the very act that would need it, so no one is made worse off and the harm has no bearer, a structural trap with no staged neighbour found by the source check
+- [x] [P1] The Non-Identity Problem (Parfit, Reasons and Persons, 1984), staged as **Whoever Comes Instead**: the party whose consent is owed is brought into being by the very act that would need it, so no one is made worse off and the harm has no bearer, a structural trap with no staged neighbour found by the source check; cut to the identity-dependence vector, the choice that constitutes its own subjects evaluated by an instrument that assumes it does not, and never to a committee failing to care about the future, with the impersonal repair carried at its full price rather than taken as the resolution
 - [ ] [P2] The Anticipated Date That Still Moves Price (Field & Hanka, "The Expiration of IPO Share Lockups", Journal of Finance, 2001): slate only if cut hard to the anticipation puzzle, a perfectly known date moving price, or it stays All at Once with a calendar and is not staged
 
 Struck at two hundred and forty nine, and the first target authored from this slate rather than from a sweep
@@ -3874,3 +3874,17 @@ build instruction rather than a thing to rediscover, which is the whole of what 
 authoring table in `CLAUDE.md` had its first use on the same misfit: the incumbent had annexed the credibility
 lever, so that row was narrowed to the boundary question it stages and the prior question pointed at the new
 play, rather than the candidate being dropped.
+
+Struck again at two hundred and fifty, the P1 line above taken straight off the slate with nothing to
+rediscover: the note that it carried no staged neighbour held at authoring, and the pre-authoring check
+cleared all six sources before a file existed. What the build added back is the cut, written into the line
+itself so the next reader does not have to derive it from the play. Two things are worth recording beyond the
+strike. The warrant names five neighbours rather than the customary one, because the concept sits in a
+crowded corner of the house (Seed Corn, The Horizon Problem, The Made Ground, Missing From the Count, Sound
+Both Ways all touch it) and the line that separates it from each is different in each case: the requirement is
+one, and one would have been a worse warrant here. And the axis declaration cost no second pull request, the
+first new misfit to carry `axis` and `sign` from the start rather than have them added by a governance sweep,
+which is what moving the declaration into the warrant's own frontmatter was for.
+
+What is left on the slate is the P2 lockup cliff, still held on its narrow anticipation cut, so the next
+refill wants a research-input pass rather than a pick.
