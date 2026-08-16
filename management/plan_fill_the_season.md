@@ -6,7 +6,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-02"
+  date: "2026-08-16"
 status: active
 ---
 
@@ -15,7 +15,9 @@ status: active
 ## Taxonomy
 
 A **standing plan**: the Playwright's slate of misfits still to stage, ranked for authoring,
-worked from the top and deduped against everything already in `misfits/`.
+worked from the top and deduped against everything already in `misfits/`, **and the register of what
+has been held off and why**. A concept struck or held here is struck or held with its reason and with
+what would bring it back, so the next author inherits the judgement instead of re-deriving it.
 
 ## Owner
 
@@ -3818,3 +3820,49 @@ a spine rather than for want of a mechanism: audit concentration too few to fail
 policy literature and no named academic finding, and the arms-control verification dilemma, real and
 unstaged but pinnable only to a source the scout would have had to mark uncertain. Neither is slated,
 and both are better recorded as unfound than dressed up.
+
+The reconcile at two hundred and forty eight, and the first one to record that the plan was worked beside
+rather than from. The slate stood with all one hundred and seventy four targets struck and none open, deduped
+against the one hundred and one staged when it was last written, while the house had reached two hundred and
+forty eight: so the run that carried it there chose its candidates from a sweep made in conversation and wrote
+none of its discards back, which is the exact loss this plan exists to prevent. `CLAUDE.md` now names this
+file, so the next author is pointed at it rather than left to find it.
+
+The dedup is no longer read, it is computed, and the plan's old instruction to check a candidate by hand
+against REFERENCES.md is superseded. Ask before authoring with `node tests/science_overlap.mjs --check
+"<Scholar> :: <Key Work>"`, which answers whether a spine already anchors a misfit and whether the citation
+there carries a line or holds one; `--families` reads the canon exemptions forwards and returns the house's
+families ranked, with the members that carry no axis marked, so the next family to declare is read off rather
+than guessed at. Three gates now hold what the eye used to: no work carries the spine of two misfits, every
+warrant names a neighbour, and two misfits on one axis with opposite signs must name each other. REFERENCES.md
+is generated from each warrant's own frontmatter and can no longer fall behind, which is why a misfit needs no
+paired governance change to be indexed.
+
+Struck by the check before a file existed, and recorded so the ground is not re-swept: the antibiotic pipeline,
+already carried by Kept for the Worst; long-term nuclear markers, already carried by Longer Than Its Meaning;
+and tolerance stack-up, whose core sits inside The Tyranny of Small Decisions.
+
+Held off with the reason and what would bring each back. Nobody Reads the Prospectus is dead three ways and
+not merely adjacent: its thesis is Nobody Reads It, its parent source is The Market for Lemons, and its
+winner's curse is The Winning Bid, so there is no sliver to cut and it is retired rather than held. The
+Underwriter Conflict is retired into Sold to Find the Price, where it is staged as a position and a plot
+rather than a play of its own, because the discount is the price of the information before any conflict acts
+on it. The Lockup Cliff is held against All at Once, which already carries a restraint that expires and floods
+what it protected, and the effect is thin at a three-day abnormal return near minus one and a half per cent
+(Field and Hanka, 2001); its distinct sliver is that a perfectly anticipated date moves price at all, which is
+an efficient-markets anomaly rather than a structural trap, and it is slated only if it can be cut to that.
+The reader that dies before the record is held against Longer Than Its Meaning, which carries the decay of
+meaning while the artefact survives; its sliver is the decay of the machine rather than of the reading, too
+fine to stage until it can be cut to the format and its reader alone. The reference class that cannot contain
+you is held against The Proxy, which may already own pricing by a group average, and needs the case where no
+reference class exists rather than where the wrong one is used.
+
+Newly slated below. Deterrence and the wrongful intention moves from held to slated: Arms and Influence
+carries the spine of Exactly How Far and the credibility lever sits inside it as a supporting row, so the play
+must rest on Kavka's paradox, that it can be rational to form an intention it would be irrational to carry
+out, which is unspent, and the incumbent's row is narrowed when it is authored. The non-identity problem is
+slated with no neighbour found by the check.
+
+- [ ] [P0] Deterrence and the Wrongful Intention (Kavka, "Some Paradoxes of Deterrence", Journal of Philosophy, 1978; Gauthier): it can be rational to form an intention that it would be irrational to carry out, so the threat works only by removing one's own capacity to reconsider, distinct from Time Inconsistency's temptation to break a promise and from Exactly How Far's map of what was not promised
+- [ ] [P1] The Non-Identity Problem (Parfit, Reasons and Persons, 1984): the party whose consent is owed is brought into being by the very act that would need it, so no one is made worse off and the harm has no bearer, a structural trap with no staged neighbour found by the source check
+- [ ] [P2] The Anticipated Date That Still Moves Price (Field & Hanka, "The Expiration of IPO Share Lockups", Journal of Finance, 2001): slate only if cut hard to the anticipation puzzle, a perfectly known date moving price, or it stays All at Once with a calendar and is not staged
