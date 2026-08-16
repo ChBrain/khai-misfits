@@ -4031,3 +4031,51 @@ firm underinvesting in portable capital it cannot appropriate is the same regime
 concordance holds Gary Becker three times already, on pressure groups, on marriage and on discrimination, all
 different works, so `Human Capital` is clear and the scholar is the same person under a key that already
 resolves.
+
+A push back on that line from the house, and it lands: the reading above was smoothed where it should have been
+cut. The Origin note as written says the provider operating the software at scale is doing what the licence
+permits and that this is not villainy, and it says it as a settled aside. That is the live question, not a
+preliminary to it. The no-villain standard is analytic discipline, the requirement that the failure not be
+**authored** by anybody's wrongdoing, and it does not require that no party acts strategically. Commoditising a
+complement is a deliberate and documented playbook, not an accident of the licence, so writing it off in a
+subordinate clause flattened a real asymmetry into everybody being fine.
+
+One correction to the framing that came with the push, since the register should carry it right. Free Software
+is American, Stallman and the GPL and the Free Software Foundation from 1985, and Open Source is American too,
+the OSI and Raymond and Perens in 1998. What is genuinely European is a body of **public** practice, Linux out
+of Helsinki, MySQL out of Uppsala, Qt out of Oslo, and a policy tradition of digital sovereignty carrying the
+EUPL, public-money-public-code and the municipal migrations, which leans copyleft. So the origin claim does not
+hold and the distinction it was pointing at does: there are two traditions of **use** wearing one set of
+clothes, a commons with reciprocity attached and a market move that gives away a layer to own the next one.
+
+That distinction produces the cut the line was missing, and it is a second edge of the same unconditionality
+rather than a second mechanism, so the incumbent line deepens again and nothing is stacked beside it. The grant
+is unconditional in **time**, which is what cannot be recalled and is what the line already carried. It is also
+unconditional in **person**, and that half is constitutive rather than incidental: clauses five and six of the
+Open Source Definition forbid discrimination against persons or groups and against fields of endeavour, so a
+licence that excluded the provider best placed to use the grant against its author would not be an open source
+licence at all. The commons must hand the platform precisely what it hands the contributor, and is required to
+by the definition of being a commons. Every attempt to add the missing discrimination, the SSPL, the BUSL, the
+Commons Clause, is exactly the move that stops being open source, which is why it triggers the fork rather than
+solving the problem: the relicensing wave the line already cites is the same fact seen from the other end.
+
+So the misfit holds without a villain and holds harder than before, because the constraint is not an oversight
+anybody could patch. **A commons that could exclude would not be a commons.** The play is to be cut to that and
+must **refuse to cast the platform as predatory**, which is the nearest this house has come to a play that wants
+a villain: the party best positioned to use the grant is frequently also a substantial contributor, the
+contributor gains real distribution from the platform's adoption, and none of that softens the outcome. The one
+lever that aims the grant even partially is the licence choice itself, and the documented drift from copyleft to
+permissive terms through the twenty-tens is what widened the opening, which belongs in the Origin table as
+context and never as the spine, since the house stages mechanisms and not geopolitics.
+
+Sources to run at authoring, all cleared against the concordance already: Eisenmann, Parker and Van Alstyne on
+platform envelopment (SMJ, 2011); Parker and Van Alstyne on innovation, openness and platform control
+(Management Science, 2018); Boudreau on open platform strategies (Management Science, 2010); West on how open
+is open enough (Research Policy, 2003); and the Open Source Definition itself for clauses five and six, which is
+the constitutive fact and is a document rather than a paper. One build instruction with them: the house's
+Boudreau is **John W.** of Trevor, Gerhart and Boudreau in The Dead Sea Effect, and the platform economist is
+**Kevin**, a fifth surname collision in three passes. It is not declared in `scholarPolicy.homonyms` and must
+not be declared before the second Boudreau arrives, because the incumbent cell names no given name and
+declaring the surname early would fail the namesake wall on the incumbent. Declare it and fix that cell in the
+same pass that cites Kevin Boudreau, which is the misfit's own lane for the cell and governance for the
+declaration.
