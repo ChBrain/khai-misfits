@@ -1,3 +1,6 @@
+import fs from "node:fs";
+import { join } from "node:path";
+import { ROOT } from "./science_overlap.mjs";
 import { describe, it, expect } from "vitest";
 import {
   report,
@@ -6,6 +9,8 @@ import {
   findUnaxised,
   findMalformedAxes,
   findUnindexed,
+  findUnconcepted,
+  buildReferences,
 } from "./science_overlap.mjs";
 
 // The cross-misfit warrant gate for the Misfits house. Every other gate is
@@ -183,5 +188,37 @@ describe("Misfits house: cross-misfit warrant gate", () => {
       );
     }
     expect(unindexed.length).toBeLessThanOrEqual(UNINDEXED_BASELINE);
+  });
+
+  it("every misfit declares its concordance row", () => {
+    // concept, field and source live in the warrant's own frontmatter, so the
+    // row travels with the misfit. A warrant missing any of the three is simply
+    // absent from the built concordance, which is the failure the hand-kept
+    // file had, so this is a wall rather than a ratchet.
+    expect(findUnconcepted()).toEqual([]);
+  });
+
+  it("REFERENCES.md equals a fresh build from the warrants", () => {
+    // The last hand-kept index in the house is now generated, so it cannot fall
+    // behind the way it fell 37 misfits behind before. The prose stays written;
+    // only the tables under ## Origin are built. Rebuild with
+    // `node tests/science_overlap.mjs --build-refs`.
+    // Compared on content, not on padding: Prettier owns the column widths of a
+    // markdown table and re-pads them after a build, so a byte comparison would
+    // fail on whitespace the format:check gate is already responsible for.
+    const norm = (t) =>
+      t
+        .split("\n")
+        .map((l) => (l.startsWith("|") ? l.replace(/\s+/g, " ").trim() : l))
+        .filter((l) => !/^\|[\s|:-]+\|$/.test(l))
+        .join("\n");
+    const built = norm(buildReferences());
+    const onDisk = norm(fs.readFileSync(join(ROOT, "REFERENCES.md"), "utf8"));
+    if (built !== onDisk)
+      throw new Error(
+        "REFERENCES.md is out of date with the warrants that generate it.\n" +
+          "Run `node tests/science_overlap.mjs --build-refs` and commit the result.",
+      );
+    expect(built).toBe(onDisk);
   });
 });

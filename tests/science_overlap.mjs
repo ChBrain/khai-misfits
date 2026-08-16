@@ -245,6 +245,11 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       );
     process.exit(0);
   }
+  if (args.includes("--build-refs")) {
+    fs.writeFileSync(join(ROOT, "REFERENCES.md"), buildReferences());
+    console.log("REFERENCES.md rebuilt from the warrants");
+    process.exit(0);
+  }
   if (args.includes("--families")) {
     for (const f of canonFamilies()) {
       const marked = f.misfits.map((d) => (f.declared.includes(d) ? d : d + " (no axis)"));
@@ -407,4 +412,77 @@ export function canonFamilies(root = ROOT) {
 export function findUnindexed(root = ROOT) {
   const refs = fs.readFileSync(join(root, "REFERENCES.md"), "utf8");
   return [...houseTitles(root).keys()].filter((d) => !refs.includes("`" + d + "`")).sort();
+}
+
+// The concordance, generated. REFERENCES.md was the one house index written by
+// hand, on the reasoning that a concept's canonical name is a judgement and no
+// inversion of the warrants can supply it. That was right about the judgement
+// and wrong about where it has to live: the judgement is the author's, made
+// once at authoring, so it belongs in the warrant's own frontmatter beside axis
+// and sign, in the misfit's own lane. Which is the same correction that took
+// axis out of khai-guard.config.json, for the same reason: a fact about a
+// misfit that lives outside the misfit's lane cannot travel with it, so keeping
+// it current costs a second pull request, and the second pull request is what
+// went missing 37 times.
+//
+// The prose of the file stays hand-written. Only the tables under ## Origin are
+// built, from these three keys per warrant.
+export function conceptsOf(root = ROOT) {
+  const out = new Map();
+  // Both YAML quote styles: the migration wrote double-quoted, and Prettier
+  // normalises any value containing a double quote into the single-quoted form,
+  // where the escape is a doubled quote rather than a backslash.
+  const unq = (s) =>
+    s[0] === "'"
+      ? s.slice(1, -1).replace(/''/g, "'")
+      : s.slice(1, -1).replace(/\\"/g, '"').replace(/\\\\/g, "\\");
+  for (const d of fs.readdirSync(join(root, "misfits"))) {
+    const p = join(root, "misfits", d, "REFERENCE.md");
+    if (!fs.existsSync(p)) continue;
+    const head = fs.readFileSync(p, "utf8").split("---")[1] || "";
+    const g = (k) => {
+      const m = head.match(
+        new RegExp("^" + k + ": (\"(?:[^\"\\\\]|\\\\.)*\"|'(?:[^']|'')*')$", "m"),
+      );
+      return m ? unq(m[1]) : null;
+    };
+    out.set(d, { concept: g("concept"), field: g("field"), source: g("source") });
+  }
+  return out;
+}
+
+// A misfit missing any of the three is silently absent from the built
+// concordance, which is the failure the old hand-kept file had. A wall.
+export function findUnconcepted(root = ROOT) {
+  const bad = [];
+  for (const [d, c] of conceptsOf(root))
+    for (const k of ["concept", "field", "source"]) if (!c[k]) bad.push(`${d}: no ${k}`);
+  return bad.sort();
+}
+
+// Field order is the order the sections already stand in, so the file's shape
+// is preserved; rows sort by concept inside a field, because a generator needs
+// a deterministic order and insertion order is not one.
+export function buildReferences(root = ROOT) {
+  const src = fs.readFileSync(join(root, "REFERENCES.md"), "utf8");
+  const titles = houseTitles(root);
+  const rows = [...conceptsOf(root)].map(([dir, c]) => ({ dir, ...c, title: titles.get(dir) }));
+  const order = [...src.matchAll(/^### (.+)$/gm)].map((m) => m[1]);
+  const head = src.slice(0, src.indexOf("\n### ") + 1);
+  const tail = src.slice(src.indexOf("\n## Restrictions"));
+  const blocks = order.map((field) => {
+    const mine = rows
+      .filter((r) => r.field === field)
+      .sort((a, b) => a.concept.localeCompare(b.concept));
+    const body = mine.map((r) => `| ${r.concept} | ${r.source} | ${r.title} (\`${r.dir}\`) |`);
+    return [
+      `### ${field}`,
+      "",
+      "| Concept (canonical name, aliases) | Leading source | Staged as (`id`) |",
+      "| --- | --- | --- |",
+      ...body,
+      "",
+    ].join("\n");
+  });
+  return head + blocks.join("\n") + tail;
 }
