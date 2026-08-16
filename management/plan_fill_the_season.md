@@ -3888,3 +3888,36 @@ which is what moving the declaration into the warrant's own frontmatter was for.
 
 What is left on the slate is the P2 lockup cliff, still held on its narrow anticipation cut, so the next
 refill wants a research-input pass rather than a pick.
+
+A field-sweep research pass at the two hundred and fifty reconcile, run because the slate said it wanted one:
+not another candidate inside a covered field, but a sweep for fields whose misfit-shaped mechanisms the house
+does not reach at all. The field distribution across the two hundred and fifty warrants reads sixty in
+measurement and cognition, fifty two in markets, thirty four in safety and complex systems, twenty nine in
+organisations, twenty six in ecology and public health, twenty five in collective action, eighteen in groups
+and candour, and five in the Senge archetypes, so the sweep looked past all eight rather than deeper inside
+them. Five candidates were run through REFERENCES.md by canonical name and through
+`science_overlap.mjs --check` by source before slating; all five cleared, and two name-collisions the
+concordance threw up are recorded here so nobody re-derives them. The Kessler in the house is Friedrich Kessler
+on contracts of adhesion, not Donald Kessler on orbital debris, and the Pauly in the house is Mark Pauly on
+moral hazard, not Daniel Pauly on fisheries. A canonical-name check that stops at the surname would have struck
+both candidates wrongly.
+
+- [ ] [P1] The Fire Suppression Paradox (Pyne, Fire in America, 1982; Minnich, "Fire Mosaics in Southern California and Northern Baja California", Science 1983; the fire-deficit and fuel-accumulation literature): every small fire put out is the right call in the moment and each one leaves its fuel standing, so decades of successful protection build the load for the fire that cannot be put out, distinct from Dry Enough to Build On's levee, where protection induces the exposure and builds the town the flood finds, in that nothing is built and nobody moves in, the hazard itself grows because the small releases that used to consume it were prevented, and distinct from The Brittle Optimum's trimmed slack in that nothing is removed, something accumulates; to be cut to that prevented-release vector and never to a fire service getting it wrong
+- [ ] [P1] Language Shift (Fishman, Reversing Language Shift, 1991; Crystal, Language Death, 2000; the intergenerational-transmission literature): each parent raises the child in the dominant language because it is plainly better for that child's prospects, and the language is still spoken by the elders so nothing looks lost at the moment of choosing, but transmission runs through a channel any single decision can sever and a chain once broken cannot be rejoined by the same means, distinct from Path Dependence's compounding switching costs and The Sort's tipping threshold in that the engine is a one-way generational gate rather than a lock-in or a tip; to be cut hard to the no-villain reading, parents choosing well for their children, and never to suppression or linguicide, which is a different phenomenon with an enforcer and fails the house standard
+- [ ] [P1] The Expertise Reversal Effect (Kalyuga, Ayres, Chandler & Sweller, "The Expertise Reversal Effect", Educational Psychologist 2003; Sweller's cognitive load theory): instructional support that measurably helps novices measurably harms them once they improve, because the guidance now duplicates a schema they hold and the cross-referencing costs working memory, so a support validated on the population it was built for is undermined by its own success, distinct from Second Nature's expert who cannot model the novice in that the failing party is the intervention rather than the explainer, and from Shifting the Burden's disuse-atrophy in that no capacity withers, the learner gets better and that is the whole of what breaks it; to be cut to the intervention-whose-validity-expires vector
+- [ ] [P2] Kessler Syndrome (Kessler & Cour-Palais, "Collision Frequency of Artificial Satellites", Journal of Geophysical Research, 1978): every launch is the point of the orbit rather than a defection from it, and each collision converts assets into debris that raises the collision rate for everything else, until past a density the cascade sustains itself on its own wreckage; slated but flagged for the Held Under adjacency, which is heavy: metastable failure also sustains itself after its trigger, and the distinct sliver is that Held Under clears when something breaks the loop by force while here no available intervention breaks it, so it is to be cut to irreversibility on a timescale beyond any actor, and struck rather than stacked if that cut will not hold
+- [ ] [P2] Shifting Baseline Syndrome (Pauly, "Anecdotes and the shifting baseline syndrome of fisheries", Trends in Ecology and Evolution, 1995): each generation takes the depleted state it inherited as the natural one, so the cumulative loss is registered by nobody and every stock assessment is anchored to a floor the previous generation had already lost; slated but flagged for the Prevalence-Induced Concept Change adjacency, which is the mirror image and shares the relative-judgement root, and the distinct sliver is that the reset happens at the boundary between observers rather than inside one, so no individual's line ever moves and everybody can be perfectly calibrated for a lifetime, which the within-observer engine cannot produce; to be cut to that composition-across-observers vector or struck
+
+Triage of the rest of the field sweep, against REFERENCES.md. Held as too adjacent: the security dilemma proper
+(Herz; Jervis), whose defensive preparation read as threat is carried between The Arms Race's positional
+escalation and the staged Alliance Security Dilemma, both already citing Jervis; security theatre (Schneier),
+which is The Cargo Cult's form without mechanism where it is ritual and Metric Fixation's gamed target where it
+is measured, with no third vector of its own; and scope-of-protection candidates that resolve to the Peltzman
+effect, already staged as Risk Compensation, or to the rebound effect, already staged as Jevons Paradox. Held
+pending a settled spine, per the house standard of cited-research plays only: the hygiene hypothesis, whose
+misfit-shaped reading is a genuine public-health win producing a new disease burden, but whose mechanism is
+contested enough that the play would have to hedge away most of what makes it a trap. Fields swept and found
+already reached, recorded so the next sweep starts further out: hydrology, seismology and building codes,
+materials, software and distributed systems, aviation and human factors, political science, science studies,
+demography, metrology, and archival preservation, each of which returned only candidates the concordance
+already holds.
