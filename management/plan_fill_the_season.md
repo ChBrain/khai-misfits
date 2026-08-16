@@ -3863,6 +3863,14 @@ must rest on Kavka's paradox, that it can be rational to form an intention it wo
 out, which is unspent, and the incumbent's row is narrowed when it is authored. The non-identity problem is
 slated with no neighbour found by the check.
 
-- [ ] [P0] Deterrence and the Wrongful Intention (Kavka, "Some Paradoxes of Deterrence", Journal of Philosophy, 1978; Gauthier): it can be rational to form an intention that it would be irrational to carry out, so the threat works only by removing one's own capacity to reconsider, distinct from Time Inconsistency's temptation to break a promise and from Exactly How Far's map of what was not promised
+- [x] [P0] Deterrence and the Wrongful Intention (Kavka, "Some Paradoxes of Deterrence", Journal of Philosophy, 1978; Gauthier), staged as **You Have to Mean It**: it can be rational to form an intention that it would be irrational to carry out, so the threat works only by removing one's own capacity to reconsider, distinct from Time Inconsistency's temptation to break a promise and from Exactly How Far's map of what was not promised
 - [ ] [P1] The Non-Identity Problem (Parfit, Reasons and Persons, 1984): the party whose consent is owed is brought into being by the very act that would need it, so no one is made worse off and the harm has no bearer, a structural trap with no staged neighbour found by the source check
 - [ ] [P2] The Anticipated Date That Still Moves Price (Field & Hanka, "The Expiration of IPO Share Lockups", Journal of Finance, 2001): slate only if cut hard to the anticipation puzzle, a perfectly known date moving price, or it stays All at Once with a calendar and is not staged
+
+Struck at two hundred and forty nine, and the first target authored from this slate rather than from a sweep
+made in conversation. Its P0 line already carried the correction the check had forced, that Arms and Influence
+carries the spine of Exactly How Far and the play must rest on Kavka, so a discard written back here became a
+build instruction rather than a thing to rediscover, which is the whole of what the register is for. The
+authoring table in `CLAUDE.md` had its first use on the same misfit: the incumbent had annexed the credibility
+lever, so that row was narrowed to the boundary question it stages and the prior question pointed at the new
+play, rather than the candidate being dropped.
