@@ -169,13 +169,13 @@ describe("Misfits house: cross-misfit warrant gate", () => {
     // name is a judgement, so it cannot be generated the way docs/SCIENCE.md is,
     // and it drifted 37 misfits behind before anything noticed.
     //
-    // Ratcheted rather than walled: the 37 are grandfathered and indexed as they
-    // are worked, and what this refuses is a new misfit joining them.
-    const UNINDEXED_BASELINE = 37;
+    // A wall now: the 37 have been indexed. The pairing rule was already written
+    // in REFERENCES.md itself and was skipped anyway, which is why it is a gate.
+    const UNINDEXED_BASELINE = 0;
     const unindexed = findUnindexed();
     if (unindexed.length > UNINDEXED_BASELINE) {
       throw new Error(
-        `science-overlap: ${unindexed.length} misfit(s) absent from REFERENCES.md, baseline ${UNINDEXED_BASELINE}.\n` +
+        `science-overlap: ${unindexed.length} misfit(s) absent from REFERENCES.md, and the house holds at zero.\n` +
           `The concordance is the lookup an author dedups against, keyed by the concept's\n` +
           `scholarly name rather than the house title. A misfit missing from it can have\n` +
           `its concept restaged by somebody who checked properly.\n\n  ` +
