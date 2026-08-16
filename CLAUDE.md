@@ -168,13 +168,25 @@ node tests/science_overlap.mjs                 # overlaps and opposed pairs
 node tests/science_overlap.mjs --families      # which family to declare next
 ```
 
-The house keeps **two** indexes and only one is generated. `docs/SCIENCE.md` is
-built from every Origin table and held to a fresh build by the drift gate.
-[`REFERENCES.md`](REFERENCES.md) is the concordance keyed by a concept's
-scholarly name, which resolves the Peter Principle to Rising to Unfit and cannot
-be generated, since the canonical name of a concept is a judgement. So it drifts,
-and it had fallen **37 misfits behind** before a check existed. Every misfit must
-reach it; the gate is ratcheted while the 37 are worked.
+The house keeps **two** indexes and **both are now generated**. `docs/SCIENCE.md`
+is built from every Origin table. [`REFERENCES.md`](REFERENCES.md) is the
+concordance keyed by a concept's scholarly name, which resolves the Peter
+Principle to Rising to Unfit: that naming is a judgement no inversion of a
+warrant can supply, so the file was written by hand and fell **37 misfits
+behind**. The judgement is real but it is the **author's**, so it now lives in
+the warrant's own frontmatter beside `axis`, and the tables are built from it:
+
+```yaml
+concept: "Gresham's Law (bad money drives out good)"
+field: "Markets, money, and economic equilibria"
+source: "Gresham (16th c.); named by Macleod"
+```
+
+All three are required, and both indexes are held to a fresh build. The prose of
+`REFERENCES.md` stays hand-written; only the tables under `## Origin` are built.
+Rebuild with `node tests/science_overlap.mjs --build-refs`. **A misfit no longer
+needs a paired governance pull request to be indexed**, which is the whole point:
+the row rides the misfit's own lane.
 
 **Read the canon list forwards to pick the next family.** `workPolicy.canon` is
 written as a list of exceptions, works exempted so a field's foundational text
