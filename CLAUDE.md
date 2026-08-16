@@ -32,6 +32,38 @@ Never `--no-verify`. Never merge; open the PR and stop.
 
 ## Authoring
 
+**Read the management layer before choosing what to author.** The house keeps its
+authoring memory there, not here, and it is easy to work beside it without
+opening it:
+
+- [Fill the Season](management/plan_fill_the_season.md) is the Playwright's
+  standing backlog **and the register of what has been discarded**. It records
+  each held-off concept with its reason and what would bring it back, and it
+  records reversals. Take the next misfit from the top of it, strike what you
+  stage, and **write your discards back into it** so the next author does not
+  re-derive them. A candidate chosen from memory rather than from this plan is a
+  guess.
+- [Cut to Fit](management/plan_cut_to_fit.md) is the authoring standard below.
+- [`management/orders/**`](management/orders) records scouting passes and the
+  reading of their failures.
+
+When the pre-authoring check hits, what the hit means decides the move, and only
+one of the four is a new misfit:
+
+| The hit                                          | The move                                                   |
+| ------------------------------------------------ | ---------------------------------------------------------- |
+| Shared work, cited to hold a line                | nothing, it is already marked contrast                     |
+| Shared work, **different** mechanism             | new misfit on another spine; mark the shared work contrast |
+| **Same** mechanism, new domain or scholar        | **extend the incumbent's warrant**: an Origin row, no cast |
+| Distinct mechanism the incumbent has **annexed** | narrow the incumbent, then build                           |
+
+Never extend a misfit's **cast** to cover more ground: that is what Cut to Fit
+forbids, and a play carrying two mechanisms is the defect the warrant gate
+exists to remove. Extend the **warrant** instead, which is why Origin tables run
+five and six sources deep: a mechanism shown in four domains over sixty years is
+a finding where one paper is a claim. Adding a source goes through the same gate
+as authoring, since it rebuilds `docs/SCIENCE.md`.
+
 Cut to fit, computed not copied. A misfit is one **play**, and the play is the
 only fixed element; the pitch is the single hook. Every element below them
 (personas, positions, plans, places, processes, pieces, plots) is cast to the
@@ -135,6 +167,14 @@ sign. Declaring more of the house widens the check; it does not change it.
 node tests/science_overlap.mjs                 # overlaps and opposed pairs
 node tests/science_overlap.mjs --families      # which family to declare next
 ```
+
+The house keeps **two** indexes and only one is generated. `docs/SCIENCE.md` is
+built from every Origin table and held to a fresh build by the drift gate.
+[`REFERENCES.md`](REFERENCES.md) is the concordance keyed by a concept's
+scholarly name, which resolves the Peter Principle to Rising to Unfit and cannot
+be generated, since the canonical name of a concept is a judgement. So it drifts,
+and it had fallen **37 misfits behind** before a check existed. Every misfit must
+reach it; the gate is ratcheted while the 37 are worked.
 
 **Read the canon list forwards to pick the next family.** `workPolicy.canon` is
 written as a list of exceptions, works exempted so a field's foundational text
