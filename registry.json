@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.251.0",
+  "version": "0.252.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -17677,6 +17677,198 @@
           "kind": "process",
           "title": "Staying",
           "taxonomy": "play_nobody_shops_around.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "nobody_stopped_speaking_it",
+      "title": "Nobody Stopped Speaking It",
+      "description": "Each parent picks the language that opens more doors for the child, and the other one stops being passed on.",
+      "members": [
+        {
+          "file": "persona_the_child.md",
+          "kind": "persona",
+          "title": "The Child",
+          "type": "archetype",
+          "taxonomy": "position_child.md"
+        },
+        {
+          "file": "persona_the_dominant_language.md",
+          "kind": "persona",
+          "title": "The Dominant Language",
+          "type": "archetype",
+          "taxonomy": "position_dominant_language.md"
+        },
+        {
+          "file": "persona_the_elders.md",
+          "kind": "persona",
+          "title": "The Elders",
+          "type": "archetype",
+          "taxonomy": "position_elders.md"
+        },
+        {
+          "file": "persona_the_home_language.md",
+          "kind": "persona",
+          "title": "The Home Language",
+          "type": "archetype",
+          "taxonomy": "position_home_language.md"
+        },
+        {
+          "file": "persona_the_parent.md",
+          "kind": "persona",
+          "title": "The Parent",
+          "type": "archetype",
+          "taxonomy": "position_parent.md"
+        },
+        {
+          "file": "piece_the_falling_return.md",
+          "kind": "piece",
+          "title": "The Falling Return",
+          "taxonomy": "place_the_kitchen.md"
+        },
+        {
+          "file": "piece_the_first_years.md",
+          "kind": "piece",
+          "title": "The First Years",
+          "taxonomy": "place_the_kitchen.md"
+        },
+        {
+          "file": "piece_the_understanding.md",
+          "kind": "piece",
+          "title": "The Understanding",
+          "taxonomy": "place_the_kitchen.md"
+        },
+        {
+          "file": "pitch_it_was_never_taken_away.md",
+          "kind": "pitch",
+          "title": "It Was Never Taken Away",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "place_the_evening_class.md",
+          "kind": "place",
+          "title": "The Evening Class",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "place_the_kitchen.md",
+          "kind": "place",
+          "title": "The Kitchen",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "plan_be_spoken_to_a_child.md",
+          "kind": "plan",
+          "title": "Be Spoken to a Child",
+          "taxonomy": "persona_the_home_language.md"
+        },
+        {
+          "file": "plan_bring_it_back.md",
+          "kind": "plan",
+          "title": "Bring It Back",
+          "taxonomy": "persona_the_child.md"
+        },
+        {
+          "file": "plan_give_the_child_the_doors.md",
+          "kind": "plan",
+          "title": "Give the Child the Doors",
+          "taxonomy": "persona_the_parent.md"
+        },
+        {
+          "file": "play_nobody_stopped_speaking_it.md",
+          "kind": "play",
+          "title": "Nobody Stopped Speaking It"
+        },
+        {
+          "file": "plot_and_taught_is_not_given.md",
+          "kind": "plot",
+          "title": "And Taught Is Not Given",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "plot_nothing_looks_lost.md",
+          "kind": "plot",
+          "title": "Nothing Looks Lost",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "plot_the_gate_only_opens_one_way.md",
+          "kind": "plot",
+          "title": "The Gate Only Opens One Way",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "plot_the_right_language_for_the_child.md",
+          "kind": "plot",
+          "title": "The Right Language for the Child",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "plot_understood_and_not_spoken.md",
+          "kind": "plot",
+          "title": "Understood and Not Spoken",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "plot_worth_less_to_the_next_one.md",
+          "kind": "plot",
+          "title": "Worth Less to the Next One",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "position_child.md",
+          "kind": "position",
+          "title": "Child",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "position_dominant_language.md",
+          "kind": "position",
+          "title": "Dominant Language",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "position_elders.md",
+          "kind": "position",
+          "title": "Elders",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "position_home_language.md",
+          "kind": "position",
+          "title": "Home Language",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "position_parent.md",
+          "kind": "position",
+          "title": "Parent",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "process_choosing_at_home.md",
+          "kind": "process",
+          "title": "Choosing at Home",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "process_closing_the_channel.md",
+          "kind": "process",
+          "title": "Closing the Channel",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "process_keeping_it_alive.md",
+          "kind": "process",
+          "title": "Keeping It Alive",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
+        },
+        {
+          "file": "process_teaching_it_back.md",
+          "kind": "process",
+          "title": "Teaching It Back",
+          "taxonomy": "play_nobody_stopped_speaking_it.md"
         }
       ]
     },
