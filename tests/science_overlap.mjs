@@ -391,3 +391,20 @@ export function canonFamilies(root = ROOT) {
     .filter((f) => f.misfits.length > 1)
     .sort((a, b) => b.misfits.length - a.misfits.length || a.work.localeCompare(b.work));
 }
+
+// REFERENCES.md coverage. The house keeps two indexes and only one of them is
+// generated. docs/SCIENCE.md is built from every Origin table and held to a
+// fresh build by the drift gate, so it cannot fall behind. REFERENCES.md is the
+// concordance keyed the way a concept arrives, by its scholarly name, and it is
+// written by hand: it resolves "the Peter Principle" to Rising to Unfit, which
+// no generated inversion can do, because the canonical name of a concept is a
+// judgement and not a field in any warrant.
+//
+// That is why it cannot simply be generated, and also why it drifts. It fell 37
+// misfits behind between July and this check, which is 15 per cent of the house
+// unreachable by the lookup the plan tells an author to dedup against. So the
+// part that can be computed is: every misfit must appear in it.
+export function findUnindexed(root = ROOT) {
+  const refs = fs.readFileSync(join(root, "REFERENCES.md"), "utf8");
+  return [...houseTitles(root).keys()].filter((d) => !refs.includes("`" + d + "`")).sort();
+}

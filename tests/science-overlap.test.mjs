@@ -5,6 +5,7 @@ import {
   findOpposed,
   findUnaxised,
   findMalformedAxes,
+  findUnindexed,
 } from "./science_overlap.mjs";
 
 // The cross-misfit warrant gate for the Misfits house. Every other gate is
@@ -158,5 +159,29 @@ describe("Misfits house: cross-misfit warrant gate", () => {
       );
     }
     expect(unaxised.length).toBeLessThanOrEqual(UNAXISED_BASELINE);
+  });
+
+  it("coverage does not slip: every misfit reaches the concordance", () => {
+    // REFERENCES.md is the lookup an author is told to dedup against, keyed by
+    // the scholarly name rather than the house's title, so a misfit missing from
+    // it is invisible to the check that is supposed to prevent restaging its
+    // concept. It is hand-written because resolving a concept to its canonical
+    // name is a judgement, so it cannot be generated the way docs/SCIENCE.md is,
+    // and it drifted 37 misfits behind before anything noticed.
+    //
+    // Ratcheted rather than walled: the 37 are grandfathered and indexed as they
+    // are worked, and what this refuses is a new misfit joining them.
+    const UNINDEXED_BASELINE = 37;
+    const unindexed = findUnindexed();
+    if (unindexed.length > UNINDEXED_BASELINE) {
+      throw new Error(
+        `science-overlap: ${unindexed.length} misfit(s) absent from REFERENCES.md, baseline ${UNINDEXED_BASELINE}.\n` +
+          `The concordance is the lookup an author dedups against, keyed by the concept's\n` +
+          `scholarly name rather than the house title. A misfit missing from it can have\n` +
+          `its concept restaged by somebody who checked properly.\n\n  ` +
+          unindexed.slice(-10).join("\n  "),
+      );
+    }
+    expect(unindexed.length).toBeLessThanOrEqual(UNINDEXED_BASELINE);
   });
 });
