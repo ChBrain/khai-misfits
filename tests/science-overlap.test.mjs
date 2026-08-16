@@ -10,6 +10,7 @@ import {
   findMalformedAxes,
   findUnindexed,
   findUnconcepted,
+  findUnresolvedNamesakes,
   buildReferences,
 } from "./science_overlap.mjs";
 
@@ -188,6 +189,47 @@ describe("Misfits house: cross-misfit warrant gate", () => {
       );
     }
     expect(unindexed.length).toBeLessThanOrEqual(UNINDEXED_BASELINE);
+  });
+
+  it("no declared namesake is left unresolved in the index", () => {
+    // The one hole in the shared-work wall above. It keys on
+    // `scholar :: workStem`, and `scholar` is whatever the science build
+    // produced: the bare surname by default, which correctly collates a scholar
+    // written "Kahneman" here and "Daniel Kahneman" there, and "Surname (Form)"
+    // where a maintainer has declared the surname shared in
+    // `scholarPolicy.homonyms`.
+    //
+    // Where a surname is declared and a Source cell carries no matching form,
+    // the build leaves it bare on purpose, "so an unresolved occurrence stays
+    // visible instead of being silently attributed to one of them". That signal
+    // was emitted and read by nobody: nine such occurrences sat in the index
+    // across five declared surnames, one of them added the same afternoon.
+    //
+    // Unresolved means the key is wrong, and a wrong key compares the wrong
+    // things: one person split across two keys, or two people merged into one.
+    // The undeclared direction needs no gate, because two people sharing an
+    // undeclared surname collate into a single key and can only raise a
+    // spurious overlap, which fails loudly rather than passing quietly.
+    //
+    // A wall, not a ratchet. The nine were resolved before this landed: seven
+    // Origin cells that named no given name at all were written out, and six
+    // forms were added to the declaration. Nothing here judges who anybody is;
+    // the maintainer's declaration does that, and this insists it was applied.
+    const loose = findUnresolvedNamesakes();
+    if (loose.length)
+      throw new Error(
+        `science-overlap: ${loose.length} unresolved namesake(s), and the house holds at zero.\n` +
+          `A surname declared in scholarPolicy.homonyms is cited somewhere without a\n` +
+          `given name that matches a declared form, so the index cannot tell which\n` +
+          `person it is and the shared-work key is wrong for that row.\n` +
+          `Write the given name into the Origin table's Source cell, or add the form\n` +
+          `to scholarPolicy.homonyms if this is a namesake the house has not met.\n\n` +
+          `Run \`node tests/science_overlap.mjs --namesakes\` for the full report.\n\n  ` +
+          loose
+            .map((r) => `${r.scholar} <- ${r.misfit} (declared: ${r.forms.join(", ")})`)
+            .join("\n  "),
+      );
+    expect(loose).toEqual([]);
   });
 
   it("every misfit declares its concordance row", () => {

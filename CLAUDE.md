@@ -108,6 +108,48 @@ The house holds at **zero shared works** and the gate is a wall: nothing is
 grandfathered, and a misfit that takes a work already carrying another misfit's
 spine fails `npm test`.
 
+#### And a namesake must be resolved, or the key is wrong
+
+That check keys on `scholar :: work`, and the scholar half comes from the
+science build, which keys on the **bare surname** by default. That default is
+right and cannot be replaced by a rule: two given names under one surname look
+identical to one person written two ways, so anything that split Oliver Hart
+from Julian Tudor Hart would also split `Buchanan` from `James M Buchanan`. The
+shared surnames are therefore **declared**, in `scholarPolicy.homonyms`, and the
+build keys those as `Adams (Gordon)` against `Adams (John)`.
+
+Where a surname is declared and a citation carries no matching form, the build
+leaves it **bare on purpose**, so an unresolved occurrence stays visible rather
+than being silently attributed to one of them. It emitted that signal for a long
+time and nobody read it: **nine** unresolved occurrences sat in the index across
+five declared surnames, one added the same afternoon the gate was written. A
+declared surname left bare in one misfit and resolved in another is one person
+split across two keys, or two people merged into one, and either way the
+shared-work check is comparing the wrong things.
+
+So it is a wall, and a narrow one: **a surname declared in
+`scholarPolicy.homonyms` may not appear in the index unresolved.** The
+undeclared direction needs no gate, because two people sharing an undeclared
+surname collate into a single key and can only raise a spurious overlap, which
+fails loudly rather than passing quietly. Nothing here judges who anybody is;
+the declaration does that, and the gate insists only that it was applied.
+
+```
+node tests/science_overlap.mjs --namesakes     # declared surnames, and any left loose
+```
+
+Two moves fix a hit, and which one depends on the cause: write the given name
+into the Origin table's Source cell when the citation names no given name at
+all, which rides the misfit's own lane, or add the form to
+`scholarPolicy.homonyms` when the house has met a namesake it has not declared,
+which is governance. **A dedup that stops at the surname is not a dedup.** Four
+surname collisions turned up in two consecutive research passes and every one
+would have struck a good candidate: the house's Kessler is Daniel and Friedrich
+and not Donald, its Pauly is Mark and not Daniel, its Pierce is W. David and not
+Jon, its Robinson is Robert and not Sandra. At this size a common surname is
+more likely than not to be taken already, which is why `--check` takes the full
+`"Scholar :: Work"` string.
+
 ### And a misfit must say where it sits
 
 Every `REFERENCE.md` **names at least one other misfit by its title** and states

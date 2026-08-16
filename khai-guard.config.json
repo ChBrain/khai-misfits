@@ -84,7 +84,7 @@
   },
   "scholarPolicy": {
     "homonyms": {
-      "Adams": ["Scott", "Gordon", "John"],
+      "Adams": ["Scott", "Gordon", "John", "Robert McC", "Robert Merrihew"],
       "Black": ["Duncan", "William C"],
       "Christensen": ["Clayton", "Thomas J"],
       "Fine": ["Jason", "Paul"],
@@ -94,12 +94,12 @@
       "Kessler": ["Daniel", "Friedrich"],
       "Luchins": ["Abraham S", "Edith H"],
       "Lynch": ["Michael", "Nancy"],
-      "Martin": ["Brian", "Thomas"],
+      "Martin": ["Brian", "Thomas", "Daniel P"],
       "Rose": ["Geoffrey", "Michael R", "Todd"],
-      "Schwartz": ["Alan", "Lisa"],
+      "Schwartz": ["Alan", "Lisa", "Anna", "Barry"],
       "Snyder": ["Glenn", "Jack"],
       "Wagner": ["Adolph", "Richard"],
-      "White": ["Lawrence J", "Leslie A"],
+      "White": ["Lawrence J", "Leslie A", "Gilbert F"],
       "Wilde": ["Gerald J S", "Louis"]
     }
   },
