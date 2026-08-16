@@ -24,7 +24,8 @@
       "LICENSE-CODE",
       "SECURITY.md",
       "registry.json",
-      "docs/SCIENCE.md"
+      "docs/SCIENCE.md",
+      "REFERENCES.md"
     ],
     "riders": [
       {
