@@ -3903,7 +3903,7 @@ orbital debris; the Pauly in the house is Mark Pauly on moral hazard, not Daniel
 canonical-name check that stops at the surname would have struck both candidates wrongly.
 
 - [x] [P1] The Fire Suppression Paradox (Pyne, Fire in America, 1982; Minnich, "Fire Mosaics in Southern California and Northern Baja California", Science 1983; the fire-deficit and fuel-accumulation literature): every small fire put out is the right call in the moment and each one leaves its fuel standing, so decades of successful protection build the load for the fire that cannot be put out, distinct from Dry Enough to Build On's levee, where protection induces the exposure and builds the town the flood finds, in that nothing is built and nobody moves in, the hazard itself grows because the small releases that used to consume it were prevented, and distinct from The Brittle Optimum's trimmed slack in that nothing is removed, something accumulates; to be cut to that prevented-release vector and never to a fire service getting it wrong; staged as **Kept From Burning**, the mandated Dry Enough to Build On cut held by declining to cast the spread of houses into the wildland edge at all, and three further neighbours found close enough to earn a paragraph, The Firefighter's Medal where suppression is the starved prevention rather than the accumulating input, More to Stand Still where escalation buys a flat effect, and The New Normal where a judgement moves and here none does; hedged hard on generality, since the mechanism holds for frequent-fire types and is contested or wrong for chaparral and lodgepole
-- [ ] [P1] Language Shift (Fishman, Reversing Language Shift, 1991; Crystal, Language Death, 2000; the intergenerational-transmission literature): each parent raises the child in the dominant language because it is plainly better for that child's prospects, and the language is still spoken by the elders so nothing looks lost at the moment of choosing, but transmission runs through a channel any single decision can sever and a chain once broken cannot be rejoined by the same means, distinct from Path Dependence's compounding switching costs and The Sort's tipping threshold in that the engine is a one-way generational gate rather than a lock-in or a tip; to be cut hard to the no-villain reading, parents choosing well for their children, and never to suppression or linguicide, which is a different phenomenon with an enforcer and fails the house standard
+- [x] [P1] Language Shift (Fishman, Reversing Language Shift, 1991; Crystal, Language Death, 2000; the intergenerational-transmission literature): each parent raises the child in the dominant language because it is plainly better for that child's prospects, and the language is still spoken by the elders so nothing looks lost at the moment of choosing, but transmission runs through a channel any single decision can sever and a chain once broken cannot be rejoined by the same means, distinct from Path Dependence's compounding switching costs and The Sort's tipping threshold in that the engine is a one-way generational gate rather than a lock-in or a tip; to be cut hard to the no-villain reading, parents choosing well for their children, and never to suppression or linguicide, which is a different phenomenon with an enforcer and fails the house standard; staged as **Nobody Stopped Speaking It**, with Dorian's semi-speaker supplying the vector the slate line had not identified, that comprehension is a stable terminal state rather than a stage, and with the nearest neighbour turning out to be The Tyranny of Small Decisions rather than either named in the line, cut on irreversibility rather than on aggregation
 - [ ] [P1] The Expertise Reversal Effect (Kalyuga, Ayres, Chandler & Sweller, "The Expertise Reversal Effect", Educational Psychologist 2003; Sweller's cognitive load theory): instructional support that measurably helps novices measurably harms them once they improve, because the guidance now duplicates a schema they hold and the cross-referencing costs working memory, so a support validated on the population it was built for is undermined by its own success, distinct from Second Nature's expert who cannot model the novice in that the failing party is the intervention rather than the explainer, and from Shifting the Burden's disuse-atrophy in that no capacity withers, the learner gets better and that is the whole of what breaks it; to be cut to the intervention-whose-validity-expires vector
 - [ ] [P2] Kessler Syndrome (Kessler & Cour-Palais, "Collision Frequency of Artificial Satellites", Journal of Geophysical Research, 1978): every launch is the point of the orbit rather than a defection from it, and each collision converts assets into debris that raises the collision rate for everything else, until past a density the cascade sustains itself on its own wreckage; slated but flagged for the Held Under adjacency, which is heavy: metastable failure also sustains itself after its trigger, and the distinct sliver is that Held Under clears when something breaks the loop by force while here no available intervention breaks it, so it is to be cut to irreversibility on a timescale beyond any actor, and struck rather than stacked if that cut will not hold
 - [ ] [P2] Shifting Baseline Syndrome (Pauly, "Anecdotes and the shifting baseline syndrome of fisheries", Trends in Ecology and Evolution, 1995): each generation takes the depleted state it inherited as the natural one, so the cumulative loss is registered by nobody and every stock assessment is anchored to a floor the previous generation had already lost; slated but flagged for the Prevalence-Induced Concept Change adjacency, which is the mirror image and shares the relative-judgement root, and the distinct sliver is that the reset happens at the boundary between observers rather than inside one, so no individual's line ever moves and everybody can be perfectly calibrated for a lifetime, which the within-observer engine cannot produce; to be cut to that composition-across-observers vector or struck
@@ -3977,3 +3977,57 @@ a similarity that is not there.
 What is left on the slate: [P1] Language Shift, [P1] The Expertise Reversal Effect, [P1] Territoriality, the two
 flagged P2s (Kessler Syndrome, Shifting Baseline Syndrome) which are struck rather than stacked if their cuts
 will not hold, and the [P2] lockup cliff still held on its anticipation cut.
+
+An incoming system-level candidate at the two hundred and fifty two reconcile, researched by the house and
+brought as a description of open source as a continuity substrate: permissive licensing letting a project
+survive the collapse of the company that made it, so the developer collective can recompose under new capital.
+The sources cleared and the field is genuinely unreached, the concordance holding no Teece, no Lerner and
+Tirole, no von Hippel, no Nagle and no fork literature, with the only near hit being Not Invented Here, which
+cites Chesbrough for open innovation as context and not as a spine. But the framing as brought is **not fit and
+is not slated**, and the reason is worth recording because it will recur: it describes a capability with a
+positive valence, a continuity option that works, and the house stages traps. Locally rational, globally bad,
+no villain, no hero. A mechanism that rescues a project from a dead company is good news, and good news has no
+misfit in it.
+
+The same system does hold one, and it is the identical irrevocability read from the other side. Slated below.
+
+- [ ] [P1] The Irrevocable Grant (Teece, "Profiting from technological innovation", Research Policy 1986; Lerner & Tirole, "Some Simple Economics of Open Source", Journal of Industrial Economics 2002; von Hippel & von Krogh, Organization Science 2003; the relicensing and fork record, Elasticsearch to OpenSearch 2021, Terraform to OpenTofu 2023, Redis to Valkey 2024): a company opens its code because open is the cheapest distribution, recruitment and credibility it can buy and the evidence says it works, so every release is right on its own terms, but a permissive grant runs to everyone in perpetuity for what was released, so the position is built on an asset given away forever; when the appropriability problem arrives, a provider operating the software at scale as a service and contributing little, which the licence expressly permits and which is not villainy, the only lever left is to relicense future versions, and relicensing supplies both the motive that coordinates the community and the means that arms it, since a complete and legally clean codebase is sitting at the last permissive commit, so the correction manufactures the fork that defeats it; to be cut to the grant-that-cannot-be-recalled vector, distinct from Over a Barrel's hold-up in that nothing is sunk into a relationship and there is no counterparty to renegotiate with, the grant having run to the world with nobody to sit down with, distinct from The Commons in that the code is not rivalrous so the provider's use takes nothing from anybody and restraint is not a remedy, and distinct from Bug for Bug in that the binding constraint is a specified, deliberate, written grant rather than an unspecified behaviour that got depended on; and no hero available, since the fork wins and fragments the ecosystem, the maintenance lands on a foundation funded largely by the same providers, and the original company still holds the appropriability problem it relicensed to solve
+
+Folded into that line rather than slated beside it: the continuity framing the candidate arrived as, the
+developer collective carrying the technical core across the death of the corporate vehicle and the investors'
+claim over an asset that can no longer be owned exclusively. That is the same perpetual grant seen from the cap
+table rather than from the product, so it is a facet of the incumbent spine and not a second one, and stacking
+it would be the defect the warrant gate exists to remove. Held for the same reason: the appropriability
+literature's own trap, a firm that innovates and cannot capture losing to the holders of the complementary
+assets, which is Teece's own reading and belongs in the Origin table of the play above rather than in a play of
+its own.
+
+A refinement of that line, from the house, and it does two things to it rather than one. The observation is that
+the grant shifts the game from investment against a product asset to investment against a team, and that this
+works better in some markets than in others.
+
+The second half is a **scope bound**, and it makes the line stronger rather than weaker, the same way Kept From
+Burning is scoped to frequent-fire types and would have been an overreach unscoped. Opening is the right call
+where the binding constraint is credibility, developer trust and execution speed, which is developer tooling and
+infrastructure, and is the wrong call where the defensible position was regulatory standing, capital intensity,
+distribution scale, a data asset or a long sales cycle, since there the grant gives away the one thing that
+could have been held and buys a currency the market does not price. So the play is to be cut to the first
+environment and to say so, and a version that read as a general law about software companies would be claiming
+more than the record carries.
+
+The first half is an **authoring hazard, and the sharper reading**. "It becomes a team game" is the exact shape
+the no-hero standard forbids: a play that ends with the good team surviving and rebuilding has resolved the
+misfit into a costless correction and is not this house's. The honest reading closes the trap instead of
+opening an exit, because the team is not the resolution, it is the **next** asset the firm cannot own. Code is
+given away, so what is left to invest in is people, and people are not ownable either; and the environment in
+which opening was correct, fast, credibility-driven and thick with mobile developers, is the same environment
+in which that team is most easily recomposed somewhere else. The strategy that works selects for an asset that
+can walk.
+
+That is one mechanism with two instantiations, non-appropriability in the code and then in the people, and not
+two mechanisms, so it is folded into the incumbent line and its warrant runs deeper rather than a second play
+being stacked beside it. Becker's general against specific human capital is the Origin row it wants, since a
+firm underinvesting in portable capital it cannot appropriate is the same regime named forty years earlier: the
+concordance holds Gary Becker three times already, on pressure groups, on marriage and on discrimination, all
+different works, so `Human Capital` is clear and the scholar is the same person under a key that already
+resolves.
