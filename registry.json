@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.253.0",
+  "version": "0.254.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -45347,6 +45347,198 @@
           "kind": "process",
           "title": "Testing",
           "taxonomy": "play_the_rare_disease_test.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_scaffold_left_up",
+      "title": "The Scaffold Left Up",
+      "description": "The support that measurably helps a beginner measurably harms them once it works, and nothing shows when.",
+      "members": [
+        {
+          "file": "persona_the_beginner.md",
+          "kind": "persona",
+          "title": "The Beginner",
+          "type": "archetype",
+          "taxonomy": "position_beginner.md"
+        },
+        {
+          "file": "persona_the_designer.md",
+          "kind": "persona",
+          "title": "The Designer",
+          "type": "archetype",
+          "taxonomy": "position_designer.md"
+        },
+        {
+          "file": "persona_the_evidence.md",
+          "kind": "persona",
+          "title": "The Evidence",
+          "type": "archetype",
+          "taxonomy": "position_evidence.md"
+        },
+        {
+          "file": "persona_the_one_who_knows_it_now.md",
+          "kind": "persona",
+          "title": "The One Who Knows It Now",
+          "type": "archetype",
+          "taxonomy": "position_one_who_knows_it_now.md"
+        },
+        {
+          "file": "persona_the_support.md",
+          "kind": "persona",
+          "title": "The Support",
+          "type": "archetype",
+          "taxonomy": "position_support.md"
+        },
+        {
+          "file": "piece_the_missing_signal.md",
+          "kind": "piece",
+          "title": "The Missing Signal",
+          "taxonomy": "place_the_third_week.md"
+        },
+        {
+          "file": "piece_the_schema.md",
+          "kind": "piece",
+          "title": "The Schema",
+          "taxonomy": "place_the_third_week.md"
+        },
+        {
+          "file": "piece_the_worked_example.md",
+          "kind": "piece",
+          "title": "The Worked Example",
+          "taxonomy": "place_the_classroom.md"
+        },
+        {
+          "file": "pitch_exactly_what_they_needed.md",
+          "kind": "pitch",
+          "title": "Exactly What They Needed",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "place_the_classroom.md",
+          "kind": "place",
+          "title": "The Classroom",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "place_the_third_week.md",
+          "kind": "place",
+          "title": "The Third Week",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "plan_get_them_started.md",
+          "kind": "plan",
+          "title": "Get Them Started",
+          "taxonomy": "persona_the_designer.md"
+        },
+        {
+          "file": "plan_learn_the_thing.md",
+          "kind": "plan",
+          "title": "Learn the Thing",
+          "taxonomy": "persona_the_beginner.md"
+        },
+        {
+          "file": "plan_show_that_it_works.md",
+          "kind": "plan",
+          "title": "Show That It Works",
+          "taxonomy": "persona_the_evidence.md"
+        },
+        {
+          "file": "play_the_scaffold_left_up.md",
+          "kind": "play",
+          "title": "The Scaffold Left Up"
+        },
+        {
+          "file": "plot_and_the_trial_was_run_on_who_needed_it.md",
+          "kind": "plot",
+          "title": "And the Trial Was Run on Who Needed It",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "plot_it_works_and_the_measuring_is_honest.md",
+          "kind": "plot",
+          "title": "It Works and the Measuring Is Honest",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "plot_nobody_can_see_the_moment.md",
+          "kind": "plot",
+          "title": "Nobody Can See the Moment",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "plot_now_it_is_in_the_way.md",
+          "kind": "plot",
+          "title": "Now It Is in the Way",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "plot_taking_it_away_early_is_the_other_error.md",
+          "kind": "plot",
+          "title": "Taking It Away Early Is the Other Error",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "plot_the_schema_arrives_quietly.md",
+          "kind": "plot",
+          "title": "The Schema Arrives Quietly",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "position_beginner.md",
+          "kind": "position",
+          "title": "Beginner",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "position_designer.md",
+          "kind": "position",
+          "title": "Designer",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "position_evidence.md",
+          "kind": "position",
+          "title": "Evidence",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "position_one_who_knows_it_now.md",
+          "kind": "position",
+          "title": "One Who Knows It Now",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "position_support.md",
+          "kind": "position",
+          "title": "Support",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "process_building_the_schema.md",
+          "kind": "process",
+          "title": "Building the Schema",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "process_giving_the_support.md",
+          "kind": "process",
+          "title": "Giving the Support",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "process_reading_the_trial.md",
+          "kind": "process",
+          "title": "Reading the Trial",
+          "taxonomy": "play_the_scaffold_left_up.md"
+        },
+        {
+          "file": "process_taking_it_away.md",
+          "kind": "process",
+          "title": "Taking It Away",
+          "taxonomy": "play_the_scaffold_left_up.md"
         }
       ]
     },
