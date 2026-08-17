@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.261.0",
+  "version": "0.262.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -24210,6 +24210,198 @@
           "kind": "process",
           "title": "Scrambling",
           "taxonomy": "play_rent_seeking.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "right_about_the_big_one",
+      "title": "Right About the Big One",
+      "description": "A review held only on the extremes breaks the property that made the score honest, so the honest forecaster loses.",
+      "members": [
+        {
+          "file": "persona_the_calibrated_forecaster.md",
+          "kind": "persona",
+          "title": "The Calibrated Forecaster",
+          "type": "archetype",
+          "taxonomy": "position_calibrated_forecaster.md"
+        },
+        {
+          "file": "persona_the_noise.md",
+          "kind": "persona",
+          "title": "The Noise",
+          "type": "archetype",
+          "taxonomy": "position_noise.md"
+        },
+        {
+          "file": "persona_the_one_who_called_it.md",
+          "kind": "persona",
+          "title": "The One Who Called It",
+          "type": "archetype",
+          "taxonomy": "position_one_who_called_it.md"
+        },
+        {
+          "file": "persona_the_record.md",
+          "kind": "persona",
+          "title": "The Record",
+          "type": "archetype",
+          "taxonomy": "position_record.md"
+        },
+        {
+          "file": "persona_the_reviewer.md",
+          "kind": "persona",
+          "title": "The Reviewer",
+          "type": "archetype",
+          "taxonomy": "position_reviewer.md"
+        },
+        {
+          "file": "piece_the_extreme_subset.md",
+          "kind": "piece",
+          "title": "The Extreme Subset",
+          "taxonomy": "place_the_post_mortem.md"
+        },
+        {
+          "file": "piece_the_proper_score.md",
+          "kind": "piece",
+          "title": "The Proper Score",
+          "taxonomy": "place_the_ordinary_week.md"
+        },
+        {
+          "file": "piece_the_weight.md",
+          "kind": "piece",
+          "title": "The Weight",
+          "taxonomy": "place_the_post_mortem.md"
+        },
+        {
+          "file": "pitch_you_missed_the_big_one.md",
+          "kind": "pitch",
+          "title": "You Missed the Big One",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "place_the_ordinary_week.md",
+          "kind": "place",
+          "title": "The Ordinary Week",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "place_the_post_mortem.md",
+          "kind": "place",
+          "title": "The Post-Mortem",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "plan_be_the_one_who_called_it.md",
+          "kind": "plan",
+          "title": "Be the One Who Called It",
+          "taxonomy": "persona_the_one_who_called_it.md"
+        },
+        {
+          "file": "plan_find_out_who_was_right.md",
+          "kind": "plan",
+          "title": "Find Out Who Was Right",
+          "taxonomy": "persona_the_reviewer.md"
+        },
+        {
+          "file": "plan_forecast_honestly.md",
+          "kind": "plan",
+          "title": "Forecast Honestly",
+          "taxonomy": "persona_the_calibrated_forecaster.md"
+        },
+        {
+          "file": "play_right_about_the_big_one.md",
+          "kind": "play",
+          "title": "Right About the Big One"
+        },
+        {
+          "file": "plot_a_score_is_only_proper_over_all_of_it.md",
+          "kind": "plot",
+          "title": "A Score Is Only Proper Over All of It",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "plot_and_the_weight_has_to_be_chosen_before.md",
+          "kind": "plot",
+          "title": "And the Weight Has to Be Chosen Before",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "plot_conditioning_on_the_outcome_breaks_the_rule.md",
+          "kind": "plot",
+          "title": "Conditioning on the Outcome Breaks the Rule",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "plot_it_bites_hardest_where_the_noise_is.md",
+          "kind": "plot",
+          "title": "It Bites Hardest Where the Noise Is",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "plot_the_one_who_called_it_is_the_worse_forecaster.md",
+          "kind": "plot",
+          "title": "The One Who Called It Is the Worse Forecaster",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "plot_the_review_happens_after_the_big_one.md",
+          "kind": "plot",
+          "title": "The Review Happens After the Big One",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "position_calibrated_forecaster.md",
+          "kind": "position",
+          "title": "Calibrated Forecaster",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "position_noise.md",
+          "kind": "position",
+          "title": "Noise",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "position_one_who_called_it.md",
+          "kind": "position",
+          "title": "One Who Called It",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "position_record.md",
+          "kind": "position",
+          "title": "Record",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "position_reviewer.md",
+          "kind": "position",
+          "title": "Reviewer",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "process_leaning_toward_the_extreme.md",
+          "kind": "process",
+          "title": "Leaning Toward the Extreme",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "process_reporting_what_you_believe.md",
+          "kind": "process",
+          "title": "Reporting What You Believe",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "process_reviewing_the_big_one.md",
+          "kind": "process",
+          "title": "Reviewing the Big One",
+          "taxonomy": "play_right_about_the_big_one.md"
+        },
+        {
+          "file": "process_weighting_the_score.md",
+          "kind": "process",
+          "title": "Weighting the Score",
+          "taxonomy": "play_right_about_the_big_one.md"
         }
       ]
     },
