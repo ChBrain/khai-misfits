@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.258.0",
+  "version": "0.259.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -17692,6 +17692,198 @@
           "kind": "process",
           "title": "Recombining",
           "taxonomy": "play_no_way_back_up.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "nobody_has_to_launch_again",
+      "title": "Nobody Has to Launch Again",
+      "description": "Past a density the wreckage collides with itself, so the band keeps emptying after everyone has stopped using it.",
+      "members": [
+        {
+          "file": "persona_the_band.md",
+          "kind": "persona",
+          "title": "The Band",
+          "type": "archetype",
+          "taxonomy": "position_band.md"
+        },
+        {
+          "file": "persona_the_cascade.md",
+          "kind": "persona",
+          "title": "The Cascade",
+          "type": "archetype",
+          "taxonomy": "position_cascade.md"
+        },
+        {
+          "file": "persona_the_launch.md",
+          "kind": "persona",
+          "title": "The Launch",
+          "type": "archetype",
+          "taxonomy": "position_launch.md"
+        },
+        {
+          "file": "persona_the_operator.md",
+          "kind": "persona",
+          "title": "The Operator",
+          "type": "archetype",
+          "taxonomy": "position_operator.md"
+        },
+        {
+          "file": "persona_the_removal.md",
+          "kind": "persona",
+          "title": "The Removal",
+          "type": "archetype",
+          "taxonomy": "position_removal.md"
+        },
+        {
+          "file": "piece_the_threshold.md",
+          "kind": "piece",
+          "title": "The Threshold",
+          "taxonomy": "place_the_crowded_band.md"
+        },
+        {
+          "file": "piece_the_unowned_volume.md",
+          "kind": "piece",
+          "title": "The Unowned Volume",
+          "taxonomy": "place_the_crowded_band.md"
+        },
+        {
+          "file": "piece_the_wreckage.md",
+          "kind": "piece",
+          "title": "The Wreckage",
+          "taxonomy": "place_the_crowded_band.md"
+        },
+        {
+          "file": "pitch_the_sky_keeps_breaking_itself.md",
+          "kind": "pitch",
+          "title": "The Sky Keeps Breaking Itself",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "place_the_century_after.md",
+          "kind": "place",
+          "title": "The Century After",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "place_the_crowded_band.md",
+          "kind": "place",
+          "title": "The Crowded Band",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "plan_clear_what_is_already_there.md",
+          "kind": "plan",
+          "title": "Clear What Is Already There",
+          "taxonomy": "persona_the_removal.md"
+        },
+        {
+          "file": "plan_get_the_payload_up.md",
+          "kind": "plan",
+          "title": "Get the Payload Up",
+          "taxonomy": "persona_the_operator.md"
+        },
+        {
+          "file": "plan_keep_the_band_usable.md",
+          "kind": "plan",
+          "title": "Keep the Band Usable",
+          "taxonomy": "persona_the_band.md"
+        },
+        {
+          "file": "play_nobody_has_to_launch_again.md",
+          "kind": "play",
+          "title": "Nobody Has to Launch Again"
+        },
+        {
+          "file": "plot_and_taking_it_down_is_somebody_elses_bill.md",
+          "kind": "plot",
+          "title": "And Taking It Down Is Somebody Else's Bill",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "plot_every_launch_is_the_point.md",
+          "kind": "plot",
+          "title": "Every Launch Is the Point",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "plot_nobody_can_be_charged_for_a_fragment.md",
+          "kind": "plot",
+          "title": "Nobody Can Be Charged for a Fragment",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "plot_past_the_density_it_runs_itself.md",
+          "kind": "plot",
+          "title": "Past the Density It Runs Itself",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "plot_stopping_changes_nothing.md",
+          "kind": "plot",
+          "title": "Stopping Changes Nothing",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "plot_what_a_collision_makes.md",
+          "kind": "plot",
+          "title": "What a Collision Makes",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "position_band.md",
+          "kind": "position",
+          "title": "Band",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "position_cascade.md",
+          "kind": "position",
+          "title": "Cascade",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "position_launch.md",
+          "kind": "position",
+          "title": "Launch",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "position_operator.md",
+          "kind": "position",
+          "title": "Operator",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "position_removal.md",
+          "kind": "position",
+          "title": "Removal",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "process_avoiding_the_others.md",
+          "kind": "process",
+          "title": "Avoiding the Others",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "process_breaking_into_more.md",
+          "kind": "process",
+          "title": "Breaking Into More",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "process_putting_it_up.md",
+          "kind": "process",
+          "title": "Putting It Up",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
+        },
+        {
+          "file": "process_taking_it_down.md",
+          "kind": "process",
+          "title": "Taking It Down",
+          "taxonomy": "play_nobody_has_to_launch_again.md"
         }
       ]
     },
