@@ -12,6 +12,7 @@ import {
   findUnconcepted,
   findUnresolvedNamesakes,
   buildReferences,
+  checkCandidate,
 } from "./science_overlap.mjs";
 
 // The cross-misfit warrant gate for the Misfits house. Every other gate is
@@ -262,5 +263,35 @@ describe("Misfits house: cross-misfit warrant gate", () => {
           "Run `node tests/science_overlap.mjs --build-refs` and commit the result.",
       );
     expect(built).toBe(onDisk);
+  });
+
+  it("the pre-authoring check answers on a citation written the way an author writes it", () => {
+    // The wall and this advisory want opposite errors. findOverlaps fails this
+    // suite, so it must never cry wolf; --check is run by an author holding a
+    // candidate, so its only expensive failure is silence, and a false clear
+    // costs 31 files. It had the wall's preference and cleared all three of
+    // these, every one of which is a real spine in the index:
+    //
+    //   the title abbreviated, because normaliseWork keeps six words
+    //   the scholar's given name written, which the namesake rule asks for
+    //   the usage example printed in the tool's own header
+    //
+    // The first was caught by eye in the index after the check had passed.
+    for (const spec of [
+      "Becker :: Human Capital",
+      "Dale Miller :: Moral Credentials and the Expression of Prejudice",
+      "Deci :: Effects of Externally Mediated Rewards",
+    ]) {
+      expect(checkCandidate(spec).length, `--check "${spec}" must not clear`).toBeGreaterThan(0);
+    }
+  });
+
+  it("the pre-authoring check is loose and not useless", () => {
+    // Looseness that matched everything would be the same silence wearing the
+    // other hat: an author who is told every candidate is taken stops reading it.
+    // A work the house does not hold still clears, and a single common word does
+    // not drag the house in, which is what the two-word floor is for.
+    expect(checkCandidate("Nobody :: A Work This House Has Never Cited")).toEqual([]);
+    expect(checkCandidate("The")).toEqual([]);
   });
 });
