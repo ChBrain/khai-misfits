@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.259.0",
+  "version": "0.260.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -2124,6 +2124,198 @@
           "kind": "process",
           "title": "Hardening",
           "taxonomy": "play_anyone_can_see_it.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "as_full_as_i_remember",
+      "title": "As Full As I Remember",
+      "description": "Each generation measures against the sea it first saw, so a long decline is registered by nobody and all are right.",
+      "members": [
+        {
+          "file": "persona_the_archive.md",
+          "kind": "persona",
+          "title": "The Archive",
+          "type": "archetype",
+          "taxonomy": "position_archive.md"
+        },
+        {
+          "file": "persona_the_assessment.md",
+          "kind": "persona",
+          "title": "The Assessment",
+          "type": "archetype",
+          "taxonomy": "position_assessment.md"
+        },
+        {
+          "file": "persona_the_decline.md",
+          "kind": "persona",
+          "title": "The Decline",
+          "type": "archetype",
+          "taxonomy": "position_decline.md"
+        },
+        {
+          "file": "persona_the_newcomer.md",
+          "kind": "persona",
+          "title": "The Newcomer",
+          "type": "archetype",
+          "taxonomy": "position_newcomer.md"
+        },
+        {
+          "file": "persona_the_old_timer.md",
+          "kind": "persona",
+          "title": "The Old-Timer",
+          "type": "archetype",
+          "taxonomy": "position_old_timer.md"
+        },
+        {
+          "file": "piece_the_anecdote.md",
+          "kind": "piece",
+          "title": "The Anecdote",
+          "taxonomy": "place_the_third_career.md"
+        },
+        {
+          "file": "piece_the_first_sight.md",
+          "kind": "piece",
+          "title": "The First Sight",
+          "taxonomy": "place_the_first_season.md"
+        },
+        {
+          "file": "piece_the_short_series.md",
+          "kind": "piece",
+          "title": "The Short Series",
+          "taxonomy": "place_the_third_career.md"
+        },
+        {
+          "file": "pitch_it_was_like_this_when_i_came.md",
+          "kind": "pitch",
+          "title": "It Was Like This When I Came",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "place_the_first_season.md",
+          "kind": "place",
+          "title": "The First Season",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "place_the_third_career.md",
+          "kind": "place",
+          "title": "The Third Career",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "plan_assess_the_stock.md",
+          "kind": "plan",
+          "title": "Assess the Stock",
+          "taxonomy": "persona_the_assessment.md"
+        },
+        {
+          "file": "plan_reach_past_the_series.md",
+          "kind": "plan",
+          "title": "Reach Past the Series",
+          "taxonomy": "persona_the_archive.md"
+        },
+        {
+          "file": "plan_say_what_it_was_like.md",
+          "kind": "plan",
+          "title": "Say What It Was Like",
+          "taxonomy": "persona_the_old_timer.md"
+        },
+        {
+          "file": "play_as_full_as_i_remember.md",
+          "kind": "play",
+          "title": "As Full As I Remember"
+        },
+        {
+          "file": "plot_and_the_loss_is_only_visible_from_outside_a_lifetime.md",
+          "kind": "plot",
+          "title": "And the Loss Is Only Visible From Outside a Lifetime",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "plot_everybody_starts_somewhere.md",
+          "kind": "plot",
+          "title": "Everybody Starts Somewhere",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "plot_nobodys_line_ever_moves.md",
+          "kind": "plot",
+          "title": "Nobody's Line Ever Moves",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "plot_the_normal_is_set_once_and_held_for_life.md",
+          "kind": "plot",
+          "title": "The Normal Is Set Once and Held for Life",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "plot_the_old_mans_number_is_not_evidence.md",
+          "kind": "plot",
+          "title": "The Old Man's Number Is Not Evidence",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "plot_the_series_begins_when_the_science_did.md",
+          "kind": "plot",
+          "title": "The Series Begins When the Science Did",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "position_archive.md",
+          "kind": "position",
+          "title": "Archive",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "position_assessment.md",
+          "kind": "position",
+          "title": "Assessment",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "position_decline.md",
+          "kind": "position",
+          "title": "Decline",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "position_newcomer.md",
+          "kind": "position",
+          "title": "Newcomer",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "position_old_timer.md",
+          "kind": "position",
+          "title": "Old-Timer",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "process_discounting_the_anecdote.md",
+          "kind": "process",
+          "title": "Discounting the Anecdote",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "process_holding_the_normal.md",
+          "kind": "process",
+          "title": "Holding the Normal",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "process_reaching_back.md",
+          "kind": "process",
+          "title": "Reaching Back",
+          "taxonomy": "play_as_full_as_i_remember.md"
+        },
+        {
+          "file": "process_taking_the_first_look.md",
+          "kind": "process",
+          "title": "Taking the First Look",
+          "taxonomy": "play_as_full_as_i_remember.md"
         }
       ]
     },
