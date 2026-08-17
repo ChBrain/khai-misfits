@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.257.0",
+  "version": "0.258.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -45923,6 +45923,198 @@
           "kind": "process",
           "title": "Testing",
           "taxonomy": "play_the_rare_disease_test.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_same_print_twice",
+      "title": "The Same Print Twice",
+      "description": "The context that makes an examination possible is the context that moves it, so one expert answers twice, differently.",
+      "members": [
+        {
+          "file": "persona_the_earlier_conclusion.md",
+          "kind": "persona",
+          "title": "The Earlier Conclusion",
+          "type": "archetype",
+          "taxonomy": "position_earlier_conclusion.md"
+        },
+        {
+          "file": "persona_the_examiner.md",
+          "kind": "persona",
+          "title": "The Examiner",
+          "type": "archetype",
+          "taxonomy": "position_examiner.md"
+        },
+        {
+          "file": "persona_the_investigator.md",
+          "kind": "persona",
+          "title": "The Investigator",
+          "type": "archetype",
+          "taxonomy": "position_investigator.md"
+        },
+        {
+          "file": "persona_the_mark.md",
+          "kind": "persona",
+          "title": "The Mark",
+          "type": "archetype",
+          "taxonomy": "position_mark.md"
+        },
+        {
+          "file": "persona_the_order.md",
+          "kind": "persona",
+          "title": "The Order",
+          "type": "archetype",
+          "taxonomy": "position_order.md"
+        },
+        {
+          "file": "piece_the_ambiguous_zone.md",
+          "kind": "piece",
+          "title": "The Ambiguous Zone",
+          "taxonomy": "place_the_bench.md"
+        },
+        {
+          "file": "piece_the_briefing.md",
+          "kind": "piece",
+          "title": "The Briefing",
+          "taxonomy": "place_the_bench.md"
+        },
+        {
+          "file": "piece_the_case_manager.md",
+          "kind": "piece",
+          "title": "The Case Manager",
+          "taxonomy": "place_the_second_sitting.md"
+        },
+        {
+          "file": "pitch_told_before_looking.md",
+          "kind": "pitch",
+          "title": "Told Before Looking",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "place_the_bench.md",
+          "kind": "place",
+          "title": "The Bench",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "place_the_second_sitting.md",
+          "kind": "place",
+          "title": "The Second Sitting",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "plan_answer_the_question.md",
+          "kind": "plan",
+          "title": "Answer the Question",
+          "taxonomy": "persona_the_examiner.md"
+        },
+        {
+          "file": "plan_give_them_what_they_need.md",
+          "kind": "plan",
+          "title": "Give Them What They Need",
+          "taxonomy": "persona_the_investigator.md"
+        },
+        {
+          "file": "plan_say_it_in_the_right_order.md",
+          "kind": "plan",
+          "title": "Say It in the Right Order",
+          "taxonomy": "persona_the_order.md"
+        },
+        {
+          "file": "play_the_same_print_twice.md",
+          "kind": "play",
+          "title": "The Same Print Twice"
+        },
+        {
+          "file": "plot_and_unmasking_costs_a_person.md",
+          "kind": "plot",
+          "title": "And Unmasking Costs a Person",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "plot_the_briefing_arrives_with_the_work.md",
+          "kind": "plot",
+          "title": "The Briefing Arrives With the Work",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "plot_the_same_expert_the_other_answer.md",
+          "kind": "plot",
+          "title": "The Same Expert, the Other Answer",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "plot_the_zone_where_judgement_lives.md",
+          "kind": "plot",
+          "title": "The Zone Where Judgement Lives",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "plot_trying_harder_does_not_reach_it.md",
+          "kind": "plot",
+          "title": "Trying Harder Does Not Reach It",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "plot_you_cannot_examine_nothing.md",
+          "kind": "plot",
+          "title": "You Cannot Examine Nothing",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "position_earlier_conclusion.md",
+          "kind": "position",
+          "title": "Earlier Conclusion",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "position_examiner.md",
+          "kind": "position",
+          "title": "Examiner",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "position_investigator.md",
+          "kind": "position",
+          "title": "Investigator",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "position_mark.md",
+          "kind": "position",
+          "title": "Mark",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "position_order.md",
+          "kind": "position",
+          "title": "Order",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "process_briefing_the_bench.md",
+          "kind": "process",
+          "title": "Briefing the Bench",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "process_comparing_the_mark.md",
+          "kind": "process",
+          "title": "Comparing the Mark",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "process_ordering_what_is_told.md",
+          "kind": "process",
+          "title": "Ordering What Is Told",
+          "taxonomy": "play_the_same_print_twice.md"
+        },
+        {
+          "file": "process_reaching_the_conclusion.md",
+          "kind": "process",
+          "title": "Reaching the Conclusion",
+          "taxonomy": "play_the_same_print_twice.md"
         }
       ]
     },
