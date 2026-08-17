@@ -4445,3 +4445,36 @@ Timothy Zhu in Held Under's metastable-failures paper and Meng Zhu in The Tyrann
 undeclared, which can only raise a spurious overlap and so fails loudly rather than passing quietly. It joins
 the Johnson note. The nutrient-dilution line above would make it three, and its line says so, which is the
 whole point of writing a namesake into the slate rather than leaving it for the pull request.
+
+**A brief triaged at two hundred and sixty three, on the ontogenetic decline of divergent thinking.** The
+brief arrived anchored on Land and Jarman's NASA figures, popularised by Ken Robinson, and the triage went the
+other way from the usual one: the anchor is the weakest element in it and the mechanism worth staging is an
+aside three sections down. Worth naming, because a triage that reads a brief top-down meets the popular claim
+first and the structural trap last: **the strongest thing in a research brief is rarely its anchor.**
+
+- [ ] [P0] The Reliability Constraint on Assessment (Guilford, "Creativity", American Psychologist, 1950; Messick on validity; the constructed-response rater-variation literature and the NAEP scoring procedures; the Torrance scoring manuals): a score must be reproducible by a different marker to be defensible, because reproducibility is what makes it appealable, auditable and fair to the candidate with no advocate, and originality is precisely the property on which competent markers do not agree, since a response two markers scored identically original would by that fact be conventional; so the instrument that removes favouritism is the instrument that cannot reward the divergent, and the way divergent thinking was made markable at all was to replace "is this original" with "how rare is this answer in the reference sample", which moves the standard out of the response and into a corpus; the psychometric literature states the bind in its own voice, that constructed response is favoured for ecological validity and is restricted in standardised testing because of rater variation; to be cut hard to that definitional bind, that the measured property is defined by the disagreement disqualifying it from measurement, and never to a complaint that schools kill creativity, with the costly remedy carried at its price, portfolio and rubric assessment being real, in use, and reintroducing exactly the marker variance fairness was built to remove, at a rater-training cost falling hardest where budgets are thinnest; named clear of Metric Fixation, where a target is gamed and here nothing is gamed and the binding constraint is reliability rather than pressure, of The Straight Rows, where the simplification serves administration and what is lost is metis while here it serves fairness to the assessed individual and what is lost is a mode of that individual's own cognition, and of The Youngest in the Room, which stages the same institutional fact of age batching on an entirely different mechanism; flagged that Kyung Hee Kim would be a second Kim beside the house's Daniel H. Kim and must be declared in the same pass if cited
+- [ ] [P1] Certification Requires Individuation (the academic-integrity literature; Ringelmann and the social-loafing work, cited to hold the line): a certificate vouches for a person, so the work behind it must be attributable to that person alone, which makes one act collaboration in every workplace and cheating in every examination hall; an institution preparing people for distributed work must forbid distributed work at exactly the moment it measures them, and the forbidding is correct rather than perverse, since an unattributable result certifies nobody and the certificate is what the candidate came for; to be cut to the attribution requirement and never to a complaint about examination culture, and named clear of Social Loafing, which is the **reason** individuation is needed rather than a sibling of what it costs, so the pair is sharp rather than overlapping: one stages why individual contribution must be observable and the other what making it observable costs
+
+Held, with the cut that would bring it back. **The concurrent evaluative filter**, where generation and
+evaluation run together so novel associations are pruned before they consolidate, drawn from the dual-network
+work on default-mode and executive-control coupling and from the cognitive-inhibition literature, is held
+against The Good Move's primed solution blocking the search and The Scaffold Left Up's guidance that helps a
+novice and hinders an expert. What holds it is not an incumbent but an unestablished step: that schooling
+**trains** the simultaneity is a hypothesis in that literature rather than a finding, and a misfit resting on
+it would be staging a mechanism nobody has shown. It returns if the training step is demonstrated.
+
+Struck before slating, and one of them for a reason this register has not had to use before. **The Land and
+Jarman figures are struck as unusable rather than as already staged**: there is no published study, no NASA
+record of one, no reference given anywhere, and the commonly quoted percentages do not match the single
+paragraph on page 153 of the trade book they are attributed to. A house that writes credit-not-claim and holds
+warrants five and six sources deep cannot anchor on a number whose provenance is a citation loop, and the fact
+that it is among the most repeated statistics in education is the reason to write the strike down rather than
+a reason to soften it. **The framing is struck too**: "schooling kills creativity" names a culprit and a
+victim, which is the one thing the house forbids, so it is not a candidate at any tier however well it plays.
+The rest were struck as already staged: the overjustification half is Paid to Stop Caring and A Reason Too
+Many, twice over; the age-batching half is The Youngest in the Room. And **Kim (2011) is struck as a spine and
+kept as a row**: it is real, peer-reviewed and large, nearly three hundred thousand tests between 1968 and
+2008, and it reports a decline across **birth cohorts**, which is a secular trend, where the brief reads it as
+an ontogenetic decline within individuals; it is contested on its empirical decisions and statistics besides.
+Two different claims wearing one sentence is the failure mode to watch for in any brief that mixes a
+longitudinal design with a cross-sectional one.
