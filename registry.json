@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.263.0",
+  "version": "0.264.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -23742,6 +23742,198 @@
           "kind": "process",
           "title": "Reaching",
           "taxonomy": "play_pushing_on_a_string.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "ready_on_the_first_day",
+      "title": "Ready on the First Day",
+      "description": "The specificity that gets a leaver hired on day one is the specificity that expires, and one person carries both.",
+      "members": [
+        {
+          "file": "persona_the_employer.md",
+          "kind": "persona",
+          "title": "The Employer",
+          "type": "archetype",
+          "taxonomy": "position_employer.md"
+        },
+        {
+          "file": "persona_the_general_route.md",
+          "kind": "persona",
+          "title": "The General Route",
+          "type": "archetype",
+          "taxonomy": "position_general_route.md"
+        },
+        {
+          "file": "persona_the_later_self.md",
+          "kind": "persona",
+          "title": "The Later Self",
+          "type": "archetype",
+          "taxonomy": "position_later_self.md"
+        },
+        {
+          "file": "persona_the_leaver.md",
+          "kind": "persona",
+          "title": "The Leaver",
+          "type": "archetype",
+          "taxonomy": "position_leaver.md"
+        },
+        {
+          "file": "persona_the_trainer.md",
+          "kind": "persona",
+          "title": "The Trainer",
+          "type": "archetype",
+          "taxonomy": "position_trainer.md"
+        },
+        {
+          "file": "piece_the_closure.md",
+          "kind": "piece",
+          "title": "The Closure",
+          "taxonomy": "place_the_twentieth_year.md"
+        },
+        {
+          "file": "piece_the_opening.md",
+          "kind": "piece",
+          "title": "The Opening",
+          "taxonomy": "place_the_last_year_of_training.md"
+        },
+        {
+          "file": "piece_the_specification.md",
+          "kind": "piece",
+          "title": "The Specification",
+          "taxonomy": "place_the_last_year_of_training.md"
+        },
+        {
+          "file": "pitch_they_had_a_job_before_you_did.md",
+          "kind": "pitch",
+          "title": "They Had a Job Before You Did",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "place_the_last_year_of_training.md",
+          "kind": "place",
+          "title": "The Last Year of Training",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "place_the_twentieth_year.md",
+          "kind": "place",
+          "title": "The Twentieth Year",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "plan_get_them_into_work.md",
+          "kind": "plan",
+          "title": "Get Them Into Work",
+          "taxonomy": "persona_the_trainer.md"
+        },
+        {
+          "file": "plan_hire_someone_who_can_do_it_now.md",
+          "kind": "plan",
+          "title": "Hire Someone Who Can Do It Now",
+          "taxonomy": "persona_the_employer.md"
+        },
+        {
+          "file": "plan_start_earning.md",
+          "kind": "plan",
+          "title": "Start Earning",
+          "taxonomy": "persona_the_leaver.md"
+        },
+        {
+          "file": "play_ready_on_the_first_day.md",
+          "kind": "play",
+          "title": "Ready on the First Day"
+        },
+        {
+          "file": "plot_and_the_same_person_carries_both_signs.md",
+          "kind": "plot",
+          "title": "And the Same Person Carries Both Signs",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "plot_the_course_is_set_before_the_cohort_arrives.md",
+          "kind": "plot",
+          "title": "The Course Is Set Before the Cohort Arrives",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "plot_the_employer_is_right_to_prefer_them.md",
+          "kind": "plot",
+          "title": "The Employer Is Right to Prefer Them",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "plot_the_general_route_costs_a_worse_start.md",
+          "kind": "plot",
+          "title": "The General Route Costs a Worse Start",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "plot_the_task_moves_and_the_skill_does_not.md",
+          "kind": "plot",
+          "title": "The Task Moves and the Skill Does Not",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "plot_they_can_do_the_job_on_monday.md",
+          "kind": "plot",
+          "title": "They Can Do the Job on Monday",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "position_employer.md",
+          "kind": "position",
+          "title": "Employer",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "position_general_route.md",
+          "kind": "position",
+          "title": "General Route",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "position_later_self.md",
+          "kind": "position",
+          "title": "Later Self",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "position_leaver.md",
+          "kind": "position",
+          "title": "Leaver",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "position_trainer.md",
+          "kind": "position",
+          "title": "Trainer",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "process_hiring_on_the_day.md",
+          "kind": "process",
+          "title": "Hiring on the Day",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "process_looking_for_the_next_one.md",
+          "kind": "process",
+          "title": "Looking for the Next One",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "process_reading_the_openings.md",
+          "kind": "process",
+          "title": "Reading the Openings",
+          "taxonomy": "play_ready_on_the_first_day.md"
+        },
+        {
+          "file": "process_setting_the_course.md",
+          "kind": "process",
+          "title": "Setting the Course",
+          "taxonomy": "play_ready_on_the_first_day.md"
         }
       ]
     },
