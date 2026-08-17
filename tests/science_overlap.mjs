@@ -36,9 +36,13 @@
 //
 //   node tests/science_overlap.mjs                 the house report
 //   node tests/science_overlap.mjs --json          the same, machine-readable
-//   node tests/science_overlap.mjs --check "Deci :: Effects of Externally ..."
+//   node tests/science_overlap.mjs --check "Deci :: Effects of Externally"
 //                                                 does this spine already anchor
-//                                                 a misfit? ask before authoring
+//                                                 a misfit? ask before authoring.
+//                                                 An abbreviated title is fine:
+//                                                 this one matches loosely on
+//                                                 purpose, since a false clear is
+//                                                 what costs 31 files
 
 import fs from "node:fs";
 import { fileURLToPath } from "node:url";
@@ -214,6 +218,61 @@ export function findUndeclared(root = ROOT) {
 
 // Pre-authoring: does a proposed spine already anchor a misfit? Accepts
 // "Scholar :: Work" or a bare work, and answers before 31 files exist.
+//
+// This is the **advisory**, not the wall, and the two want opposite errors.
+// findOverlaps fails `npm test`, so it must never cry wolf and keeps strict stem
+// equality. This one is run by an author holding a candidate, so its only
+// expensive failure is **silence**: a spurious hit costs a reader ten seconds,
+// and a spurious clear costs 31 files and a warrant built on a spine another
+// misfit already holds. It was written with the wall's preference on the
+// advisory's job, and cleared three citations that are in the index:
+//
+//   Becker :: Human Capital                     normaliseWork keeps six words, so
+//                                               a shorter title is a prefix of the
+//                                               stored stem and never equal to it
+//   Dale Miller :: Moral Credentials ...        the scholar half was a substring
+//                                               test against the row, so writing
+//                                               the given name, which is exactly
+//                                               what the namesake rule tells
+//                                               authors to do, is what broke it
+//   Deci :: Effects of Externally Mediated ...  this file's own usage example
+//
+// The first was found by eye in the index after the check had already passed,
+// on a candidate whose theory floor turned out to be Given to Everyone's spine.
+// So both halves now match loosely and the CLI says which hits were loose,
+// leaving the adjudication to the author, who is the only party who can do it.
+const scholarTokens = (s) =>
+  new Set(
+    String(s)
+      .toLowerCase()
+      .replace(/[^a-z0-9 ]/g, " ")
+      .split(/\s+/)
+      .filter((t) => t.length > 2),
+  );
+
+// Any shared name token, either way round, so "Dale Miller" meets "Miller (Dale)"
+// and a bare surname still meets both. A namesake collision raises a hit rather
+// than hiding one, which is the direction this check should fail in.
+export function scholarMatches(query, rowScholar) {
+  if (!query) return true;
+  if (rowScholar.toLowerCase().includes(query.toLowerCase())) return true;
+  const want = scholarTokens(query);
+  if (!want.size) return false;
+  const have = scholarTokens(rowScholar);
+  for (const t of want) if (have.has(t)) return true;
+  return false;
+}
+
+// Equal stems, or one a word-boundary prefix of the other. The shorter side must
+// carry two words or more, so a single common word cannot drag in half the house.
+export function workMatches(queryStem, rowStem) {
+  if (queryStem === rowStem) return "exact";
+  const [short, long] =
+    queryStem.length <= rowStem.length ? [queryStem, rowStem] : [rowStem, queryStem];
+  if (short.split(" ").filter(Boolean).length < 2) return null;
+  return long.startsWith(short + " ") ? "prefix" : null;
+}
+
 export function checkCandidate(spec, root = ROOT) {
   const policy = loadPolicy(root);
   const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
@@ -221,16 +280,21 @@ export function checkCandidate(spec, root = ROOT) {
     ? spec.split("::").map((s) => s.trim())
     : [null, spec.trim()];
   const stem = normaliseWork(rhs, policy.aliases);
-  return rows
-    .filter((r) => normaliseWork(r.work, policy.aliases) === stem)
-    .filter((r) => !lhs || r.scholar.toLowerCase().includes(lhs.toLowerCase()))
-    .map((r) => ({
+  const hits = [];
+  for (const r of rows) {
+    const rowStem = normaliseWork(r.work, policy.aliases);
+    const match = workMatches(stem, rowStem);
+    if (!match || !scholarMatches(lhs, r.scholar)) continue;
+    hits.push({
       scholar: r.scholar,
       misfit: r.misfit,
       work: r.work.replace(/<br>[\s\S]*$/, "").trim(),
       contrast: isContrast(r, policy.contrastMarkers),
-      canon: policy.canon.includes(stem),
-    }));
+      canon: policy.canon.includes(rowStem),
+      match,
+    });
+  }
+  return hits;
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
@@ -241,7 +305,10 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     if (!hits.length) console.log("clear: no misfit cites this work.");
     for (const h of hits)
       console.log(
-        `${h.canon ? "canon   " : h.contrast ? "contrast" : "SPINE   "}  ${h.misfit}  <- ${h.scholar}: ${h.work}`,
+        `${h.canon ? "canon   " : h.contrast ? "contrast" : "SPINE   "}  ${h.misfit}  <- ${h.scholar}: ${h.work}` +
+          (h.match === "prefix"
+            ? "\n            (loose match: read the cell above and judge it)"
+            : ""),
       );
     process.exit(0);
   }
