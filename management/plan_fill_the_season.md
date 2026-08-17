@@ -3906,7 +3906,7 @@ canonical-name check that stops at the surname would have struck both candidates
 - [x] [P1] Language Shift (Fishman, Reversing Language Shift, 1991; Crystal, Language Death, 2000; the intergenerational-transmission literature): each parent raises the child in the dominant language because it is plainly better for that child's prospects, and the language is still spoken by the elders so nothing looks lost at the moment of choosing, but transmission runs through a channel any single decision can sever and a chain once broken cannot be rejoined by the same means, distinct from Path Dependence's compounding switching costs and The Sort's tipping threshold in that the engine is a one-way generational gate rather than a lock-in or a tip; to be cut hard to the no-villain reading, parents choosing well for their children, and never to suppression or linguicide, which is a different phenomenon with an enforcer and fails the house standard; staged as **Nobody Stopped Speaking It**, with Dorian's semi-speaker supplying the vector the slate line had not identified, that comprehension is a stable terminal state rather than a stage, and with the nearest neighbour turning out to be The Tyranny of Small Decisions rather than either named in the line, cut on irreversibility rather than on aggregation
 - [x] [P1] The Expertise Reversal Effect (Kalyuga, Ayres, Chandler & Sweller, "The Expertise Reversal Effect", Educational Psychologist 2003; Sweller's cognitive load theory): instructional support that measurably helps novices measurably harms them once they improve, because the guidance now duplicates a schema they hold and the cross-referencing costs working memory, so a support validated on the population it was built for is undermined by its own success, distinct from Second Nature's expert who cannot model the novice in that the failing party is the intervention rather than the explainer, and from Shifting the Burden's disuse-atrophy in that no capacity withers, the learner gets better and that is the whole of what breaks it; to be cut to the intervention-whose-validity-expires vector; staged as **The Scaffold Left Up**, and the two neighbours the line named were both correct and neither was the sharpest: More to Stand Still is, because there the effect decays toward zero and here it inverts, so more of the support is worse rather than weaker, and the line between decay and inversion is finer than either mandated cut and is the one a reader will test
 - [x] [P2] Kessler Syndrome (Kessler & Cour-Palais, "Collision Frequency of Artificial Satellites", Journal of Geophysical Research, 1978): every launch is the point of the orbit rather than a defection from it, and each collision converts assets into debris that raises the collision rate for everything else, until past a density the cascade sustains itself on its own wreckage; slated but flagged for the Held Under adjacency, which is heavy: metastable failure also sustains itself after its trigger, and the distinct sliver is that Held Under clears when something breaks the loop by force while here no available intervention breaks it, so it is to be cut to irreversibility on a timescale beyond any actor, and struck rather than stacked if that cut will not hold; the cut named here failed on test and a different one held, recorded above at two hundred and fifty eight; staged as **Nobody Has to Launch Again** on the loop-has-no-behaviour-in-it vector, with Liou and Johnson 2006 as the row it turns on, since the population grows under an immediate halt to all launches, which is what removes the users from the mechanism
-- [ ] [P2] Shifting Baseline Syndrome (Pauly, "Anecdotes and the shifting baseline syndrome of fisheries", Trends in Ecology and Evolution, 1995): each generation takes the depleted state it inherited as the natural one, so the cumulative loss is registered by nobody and every stock assessment is anchored to a floor the previous generation had already lost; slated but flagged for the Prevalence-Induced Concept Change adjacency, which is the mirror image and shares the relative-judgement root, and the distinct sliver is that the reset happens at the boundary between observers rather than inside one, so no individual's line ever moves and everybody can be perfectly calibrated for a lifetime, which the within-observer engine cannot produce; to be cut to that composition-across-observers vector or struck
+- [x] [P2] Shifting Baseline Syndrome (Pauly, "Anecdotes and the shifting baseline syndrome of fisheries", Trends in Ecology and Evolution, 1995): each generation takes the depleted state it inherited as the natural one, so the cumulative loss is registered by nobody and every stock assessment is anchored to a floor the previous generation had already lost; slated but flagged for the Prevalence-Induced Concept Change adjacency, which is the mirror image and shares the relative-judgement root, and the distinct sliver is that the reset happens at the boundary between observers rather than inside one, so no individual's line ever moves and everybody can be perfectly calibrated for a lifetime, which the within-observer engine cannot produce; to be cut to that composition-across-observers vector or struck; tested and held, on a narrower cut than this line specified, since the literature splits generational amnesia from personal amnesia and only the first is ours; staged as **As Full As I Remember**
 
 Triage of the rest of the field sweep, against REFERENCES.md. Held as too adjacent: the security dilemma proper
 (Herz; Jervis), whose defensive preparation read as threat is carried between The Arms Race's positional
@@ -4342,3 +4342,39 @@ What is left on the slate is two P2s, both held: Shifting Baseline Syndrome on t
 Change adjacency, and the lockup cliff on its anticipation cut. The same treatment applies, and the Kessler
 result is the reason to apply it properly: test the cut, and expect the test to correct it rather than confirm
 it.
+
+Struck at two hundred and sixty, and the flag test corrected the cut for the third time running, which stops
+being a coincidence and starts being what the procedure is for.
+
+It corrected it twice on this candidate. First by **narrowing**: the literature splits generational amnesia,
+where knowledge of the earlier state does not pass between cohorts, from personal amnesia, where an
+individual's own sense of the past updates. The second is a within-observer adaptation and is
+Prevalence-Induced Concept Change's, so the play stages the first and declines the second outright. That is the
+same move Kept From Burning made in refusing the wildland-urban edge, and it is now twice that refusing a real
+vector because a neighbour owns it is what made a mandated line true rather than asserted. Worth naming as a
+technique: **where a candidate's literature contains two mechanisms and the house holds one, the play takes the
+other and says so.**
+
+Second by **finding a neighbour the line never named**. The flag pointed at Prevalence-Induced Concept Change
+and the distinction there held, on the dynamics of the comparison class, continuous there and frozen at first
+contact here. The one nobody anticipated was Nobody Stopped Speaking It: both turn on something that passes by
+first-hand acquisition and is not replaced by a description of it, which is a shape the house had already
+staged this month. The line is that there transmission is an act somebody performs and a parent chooses, while
+here there is no act to omit, since first-hand experience of a state that no longer exists cannot be handed
+over at any price, and the casualties differ, the good itself there against the ability to register its loss
+here.
+
+That second correction is worth more than the first, because it points at a failure mode in triage rather than
+in this candidate. **A one-paragraph triage compares a candidate against the misfits it reminds the triager
+of.** The neighbour it missed was three weeks old and shares no field, no literature and no vocabulary with
+fisheries science: nothing about a language shift resembles a stock assessment until the mechanisms are laid
+side by side, and mechanisms are what authoring compares. The three flag tests have now missed a neighbour
+each, and in every case the missed one was the sharper.
+
+The namesake decision rule ran in the normal direction here and completes its pair. Pauly was undeclared, so
+cells first in the misfit lane and declaration second, which is this one, twenty three declared surnames and
+zero unresolved. Kessler was already declared and inverted. One question decides it and both answers have now
+been exercised.
+
+What is left on the slate is one line: the [P2] lockup cliff, still held on its anticipation cut and never
+tested. Everything else slated since the two hundred and fifty reconcile has been staged.
