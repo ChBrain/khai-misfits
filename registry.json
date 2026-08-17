@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.256.0",
+  "version": "0.257.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -37246,6 +37246,198 @@
           "kind": "process",
           "title": "Starving",
           "taxonomy": "play_the_firefighters_medal.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_fix_tells_them_where",
+      "title": "The Fix Tells Them Where",
+      "description": "Shipping the fix states exactly what was wrong, so protecting the fleet arms the attack on everyone not yet updated.",
+      "members": [
+        {
+          "file": "persona_the_diff.md",
+          "kind": "persona",
+          "title": "The Diff",
+          "type": "archetype",
+          "taxonomy": "position_diff.md"
+        },
+        {
+          "file": "persona_the_flaw.md",
+          "kind": "persona",
+          "title": "The Flaw",
+          "type": "archetype",
+          "taxonomy": "position_flaw.md"
+        },
+        {
+          "file": "persona_the_fleet.md",
+          "kind": "persona",
+          "title": "The Fleet",
+          "type": "archetype",
+          "taxonomy": "position_fleet.md"
+        },
+        {
+          "file": "persona_the_maintainer.md",
+          "kind": "persona",
+          "title": "The Maintainer",
+          "type": "archetype",
+          "taxonomy": "position_maintainer.md"
+        },
+        {
+          "file": "persona_the_window.md",
+          "kind": "persona",
+          "title": "The Window",
+          "type": "archetype",
+          "taxonomy": "position_window.md"
+        },
+        {
+          "file": "piece_the_advisory.md",
+          "kind": "piece",
+          "title": "The Advisory",
+          "taxonomy": "place_the_release.md"
+        },
+        {
+          "file": "piece_the_two_builds.md",
+          "kind": "piece",
+          "title": "The Two Builds",
+          "taxonomy": "place_the_release.md"
+        },
+        {
+          "file": "piece_the_update_curve.md",
+          "kind": "piece",
+          "title": "The Update Curve",
+          "taxonomy": "place_the_day_after.md"
+        },
+        {
+          "file": "pitch_here_is_what_was_wrong.md",
+          "kind": "pitch",
+          "title": "Here Is What Was Wrong",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "place_the_day_after.md",
+          "kind": "place",
+          "title": "The Day After",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "place_the_release.md",
+          "kind": "place",
+          "title": "The Release",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "plan_be_shut_before_it_is_read.md",
+          "kind": "plan",
+          "title": "Be Shut Before It Is Read",
+          "taxonomy": "persona_the_window.md"
+        },
+        {
+          "file": "plan_close_the_hole.md",
+          "kind": "plan",
+          "title": "Close the Hole",
+          "taxonomy": "persona_the_maintainer.md"
+        },
+        {
+          "file": "plan_know_what_to_patch.md",
+          "kind": "plan",
+          "title": "Know What to Patch",
+          "taxonomy": "persona_the_fleet.md"
+        },
+        {
+          "file": "play_the_fix_tells_them_where.md",
+          "kind": "play",
+          "title": "The Fix Tells Them Where"
+        },
+        {
+          "file": "plot_and_the_window_is_not_yours_to_close.md",
+          "kind": "plot",
+          "title": "And the Window Is Not Yours to Close",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "plot_most_of_the_fleet_is_still_open.md",
+          "kind": "plot",
+          "title": "Most of the Fleet Is Still Open",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "plot_saying_less_slows_the_defenders_more.md",
+          "kind": "plot",
+          "title": "Saying Less Slows the Defenders More",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "plot_ship_it_today.md",
+          "kind": "plot",
+          "title": "Ship It Today",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "plot_the_difference_is_a_specification.md",
+          "kind": "plot",
+          "title": "The Difference Is a Specification",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "plot_waiting_leaves_the_hole.md",
+          "kind": "plot",
+          "title": "Waiting Leaves the Hole",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "position_diff.md",
+          "kind": "position",
+          "title": "Diff",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "position_flaw.md",
+          "kind": "position",
+          "title": "Flaw",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "position_fleet.md",
+          "kind": "position",
+          "title": "Fleet",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "position_maintainer.md",
+          "kind": "position",
+          "title": "Maintainer",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "position_window.md",
+          "kind": "position",
+          "title": "Window",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "process_applying_it.md",
+          "kind": "process",
+          "title": "Applying It",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "process_finding_it.md",
+          "kind": "process",
+          "title": "Finding It",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "process_reading_the_difference.md",
+          "kind": "process",
+          "title": "Reading the Difference",
+          "taxonomy": "play_the_fix_tells_them_where.md"
+        },
+        {
+          "file": "process_shipping_it.md",
+          "kind": "process",
+          "title": "Shipping It",
+          "taxonomy": "play_the_fix_tells_them_where.md"
         }
       ]
     },
