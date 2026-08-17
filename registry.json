@@ -1,8 +1,200 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.262.0",
+  "version": "0.263.0",
   "misfits": [
+    {
+      "kind": "misfit",
+      "id": "a_bigger_harvest_every_year",
+      "title": "A Bigger Harvest Every Year",
+      "description": "The carbon that makes a grain bigger is what dilutes it, and the harvest is counted in the quantity that grew.",
+      "members": [
+        {
+          "file": "persona_the_agronomist.md",
+          "kind": "persona",
+          "title": "The Agronomist",
+          "type": "archetype",
+          "taxonomy": "position_agronomist.md"
+        },
+        {
+          "file": "persona_the_breeder.md",
+          "kind": "persona",
+          "title": "The Breeder",
+          "type": "archetype",
+          "taxonomy": "position_breeder.md"
+        },
+        {
+          "file": "persona_the_eater.md",
+          "kind": "persona",
+          "title": "The Eater",
+          "type": "archetype",
+          "taxonomy": "position_eater.md"
+        },
+        {
+          "file": "persona_the_fortifier.md",
+          "kind": "persona",
+          "title": "The Fortifier",
+          "type": "archetype",
+          "taxonomy": "position_fortifier.md"
+        },
+        {
+          "file": "persona_the_soil.md",
+          "kind": "persona",
+          "title": "The Soil",
+          "type": "archetype",
+          "taxonomy": "position_soil.md"
+        },
+        {
+          "file": "piece_the_carbon.md",
+          "kind": "piece",
+          "title": "The Carbon",
+          "taxonomy": "place_the_growing_season.md"
+        },
+        {
+          "file": "piece_the_grain.md",
+          "kind": "piece",
+          "title": "The Grain",
+          "taxonomy": "place_the_growing_season.md"
+        },
+        {
+          "file": "piece_the_tonnage.md",
+          "kind": "piece",
+          "title": "The Tonnage",
+          "taxonomy": "place_the_weighbridge.md"
+        },
+        {
+          "file": "pitch_the_harvest_was_up_again.md",
+          "kind": "pitch",
+          "title": "The Harvest Was Up Again",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "place_the_growing_season.md",
+          "kind": "place",
+          "title": "The Growing Season",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "place_the_weighbridge.md",
+          "kind": "place",
+          "title": "The Weighbridge",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "plan_grow_more.md",
+          "kind": "plan",
+          "title": "Grow More",
+          "taxonomy": "persona_the_breeder.md"
+        },
+        {
+          "file": "plan_put_the_zinc_back.md",
+          "kind": "plan",
+          "title": "Put the Zinc Back",
+          "taxonomy": "persona_the_fortifier.md"
+        },
+        {
+          "file": "plan_report_the_harvest.md",
+          "kind": "plan",
+          "title": "Report the Harvest",
+          "taxonomy": "persona_the_agronomist.md"
+        },
+        {
+          "file": "play_a_bigger_harvest_every_year.md",
+          "kind": "play",
+          "title": "A Bigger Harvest Every Year"
+        },
+        {
+          "file": "plot_a_bigger_grain_is_not_a_richer_one.md",
+          "kind": "plot",
+          "title": "A Bigger Grain Is Not a Richer One",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "plot_and_the_zinc_goes_back_one_variety_at_a_time.md",
+          "kind": "plot",
+          "title": "And the Zinc Goes Back One Variety at a Time",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "plot_the_carbon_is_the_bulk.md",
+          "kind": "plot",
+          "title": "The Carbon Is the Bulk",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "plot_the_person_who_eats_the_staple_carries_it.md",
+          "kind": "plot",
+          "title": "The Person Who Eats the Staple Carries It",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "plot_the_soil_does_not_keep_up.md",
+          "kind": "plot",
+          "title": "The Soil Does Not Keep Up",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "plot_yield_is_what_famine_is_counted_in.md",
+          "kind": "plot",
+          "title": "Yield Is What Famine Is Counted In",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "position_agronomist.md",
+          "kind": "position",
+          "title": "Agronomist",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "position_breeder.md",
+          "kind": "position",
+          "title": "Breeder",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "position_eater.md",
+          "kind": "position",
+          "title": "Eater",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "position_fortifier.md",
+          "kind": "position",
+          "title": "Fortifier",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "position_soil.md",
+          "kind": "position",
+          "title": "Soil",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "process_breeding_the_zinc_back.md",
+          "kind": "process",
+          "title": "Breeding the Zinc Back",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "process_fixing_the_carbon.md",
+          "kind": "process",
+          "title": "Fixing the Carbon",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "process_selecting_for_yield.md",
+          "kind": "process",
+          "title": "Selecting for Yield",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        },
+        {
+          "file": "process_weighing_the_harvest.md",
+          "kind": "process",
+          "title": "Weighing the Harvest",
+          "taxonomy": "play_a_bigger_harvest_every_year.md"
+        }
+      ]
+    },
     {
       "kind": "misfit",
       "id": "a_fence_in_a_good_street",
