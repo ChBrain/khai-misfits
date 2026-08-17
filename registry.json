@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.260.0",
+  "version": "0.261.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -46691,6 +46691,198 @@
           "kind": "process",
           "title": "Taking It Away",
           "taxonomy": "play_the_scaffold_left_up.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_shares_to_say_it_with",
+      "title": "The Shares to Say It With",
+      "description": "A lockup fixes a public date and withholds the shares that would price it, so a known fall lands on a day with no news.",
+      "members": [
+        {
+          "file": "persona_the_buyer.md",
+          "kind": "persona",
+          "title": "The Buyer",
+          "type": "archetype",
+          "taxonomy": "position_buyer.md"
+        },
+        {
+          "file": "persona_the_locked_holder.md",
+          "kind": "persona",
+          "title": "The Locked Holder",
+          "type": "archetype",
+          "taxonomy": "position_locked_holder.md"
+        },
+        {
+          "file": "persona_the_prospectus.md",
+          "kind": "persona",
+          "title": "The Prospectus",
+          "type": "archetype",
+          "taxonomy": "position_prospectus.md"
+        },
+        {
+          "file": "persona_the_short.md",
+          "kind": "persona",
+          "title": "The Short",
+          "type": "archetype",
+          "taxonomy": "position_short.md"
+        },
+        {
+          "file": "persona_the_underwriter.md",
+          "kind": "persona",
+          "title": "The Underwriter",
+          "type": "archetype",
+          "taxonomy": "position_underwriter.md"
+        },
+        {
+          "file": "piece_the_borrow.md",
+          "kind": "piece",
+          "title": "The Borrow",
+          "taxonomy": "place_the_quiet_six_months.md"
+        },
+        {
+          "file": "piece_the_free_float.md",
+          "kind": "piece",
+          "title": "The Free Float",
+          "taxonomy": "place_the_quiet_six_months.md"
+        },
+        {
+          "file": "piece_the_lockup.md",
+          "kind": "piece",
+          "title": "The Lockup",
+          "taxonomy": "place_the_quiet_six_months.md"
+        },
+        {
+          "file": "pitch_everyone_knew_the_date.md",
+          "kind": "pitch",
+          "title": "Everyone Knew the Date",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "place_the_quiet_six_months.md",
+          "kind": "place",
+          "title": "The Quiet Six Months",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "place_the_unlock_day.md",
+          "kind": "place",
+          "title": "The Unlock Day",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "plan_get_out_of_the_one_stock.md",
+          "kind": "plan",
+          "title": "Get Out of the One Stock",
+          "taxonomy": "persona_the_locked_holder.md"
+        },
+        {
+          "file": "plan_get_the_company_sold.md",
+          "kind": "plan",
+          "title": "Get the Company Sold",
+          "taxonomy": "persona_the_underwriter.md"
+        },
+        {
+          "file": "plan_sell_what_you_do_not_own.md",
+          "kind": "plan",
+          "title": "Sell What You Do Not Own",
+          "taxonomy": "persona_the_short.md"
+        },
+        {
+          "file": "play_the_shares_to_say_it_with.md",
+          "kind": "play",
+          "title": "The Shares to Say It With"
+        },
+        {
+          "file": "plot_and_nothing_happened_that_day.md",
+          "kind": "plot",
+          "title": "And Nothing Happened That Day",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "plot_somebody_has_to_promise_not_to_sell.md",
+          "kind": "plot",
+          "title": "Somebody Has to Promise Not to Sell",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "plot_the_date_is_on_page_one.md",
+          "kind": "plot",
+          "title": "The Date Is on Page One",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "plot_the_first_legal_day_is_the_first_day.md",
+          "kind": "plot",
+          "title": "The First Legal Day Is the First Day",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "plot_the_price_is_set_by_what_can_trade.md",
+          "kind": "plot",
+          "title": "The Price Is Set by What Can Trade",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "plot_you_cannot_borrow_what_is_locked.md",
+          "kind": "plot",
+          "title": "You Cannot Borrow What Is Locked",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "position_buyer.md",
+          "kind": "position",
+          "title": "Buyer",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "position_locked_holder.md",
+          "kind": "position",
+          "title": "Locked Holder",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "position_prospectus.md",
+          "kind": "position",
+          "title": "Prospectus",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "position_short.md",
+          "kind": "position",
+          "title": "Short",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "position_underwriter.md",
+          "kind": "position",
+          "title": "Underwriter",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "process_borrowing_to_sell_short.md",
+          "kind": "process",
+          "title": "Borrowing to Sell Short",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "process_pricing_the_free_float.md",
+          "kind": "process",
+          "title": "Pricing the Free Float",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "process_selling_on_the_first_legal_day.md",
+          "kind": "process",
+          "title": "Selling on the First Legal Day",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
+        },
+        {
+          "file": "process_writing_the_lockup.md",
+          "kind": "process",
+          "title": "Writing the Lockup",
+          "taxonomy": "play_the_shares_to_say_it_with.md"
         }
       ]
     },
