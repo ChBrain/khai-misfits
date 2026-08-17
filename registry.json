@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.255.0",
+  "version": "0.256.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -19522,6 +19522,198 @@
           "kind": "process",
           "title": "Surveying",
           "taxonomy": "play_not_worth_wanting.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "nothing_known_against_it",
+      "title": "Nothing Known Against It",
+      "description": "A banned substance is replaced by one with a shorter record, so the safest-looking option is the least studied.",
+      "members": [
+        {
+          "file": "persona_the_banned_one.md",
+          "kind": "persona",
+          "title": "The Banned One",
+          "type": "archetype",
+          "taxonomy": "position_banned_one.md"
+        },
+        {
+          "file": "persona_the_formulator.md",
+          "kind": "persona",
+          "title": "The Formulator",
+          "type": "archetype",
+          "taxonomy": "position_formulator.md"
+        },
+        {
+          "file": "persona_the_record.md",
+          "kind": "persona",
+          "title": "The Record",
+          "type": "archetype",
+          "taxonomy": "position_record.md"
+        },
+        {
+          "file": "persona_the_restriction.md",
+          "kind": "persona",
+          "title": "The Restriction",
+          "type": "archetype",
+          "taxonomy": "position_restriction.md"
+        },
+        {
+          "file": "persona_the_substitute.md",
+          "kind": "persona",
+          "title": "The Substitute",
+          "type": "archetype",
+          "taxonomy": "position_substitute.md"
+        },
+        {
+          "file": "piece_the_blank_column.md",
+          "kind": "piece",
+          "title": "The Blank Column",
+          "taxonomy": "place_the_table_of_alternatives.md"
+        },
+        {
+          "file": "piece_the_clock.md",
+          "kind": "piece",
+          "title": "The Clock",
+          "taxonomy": "place_the_twentieth_year.md"
+        },
+        {
+          "file": "piece_the_shared_backbone.md",
+          "kind": "piece",
+          "title": "The Shared Backbone",
+          "taxonomy": "place_the_table_of_alternatives.md"
+        },
+        {
+          "file": "pitch_no_findings_to_report.md",
+          "kind": "pitch",
+          "title": "No Findings to Report",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "place_the_table_of_alternatives.md",
+          "kind": "place",
+          "title": "The Table of Alternatives",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "place_the_twentieth_year.md",
+          "kind": "place",
+          "title": "The Twentieth Year",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "plan_get_it_off_the_market.md",
+          "kind": "plan",
+          "title": "Get It Off the Market",
+          "taxonomy": "persona_the_restriction.md"
+        },
+        {
+          "file": "plan_keep_the_product_working.md",
+          "kind": "plan",
+          "title": "Keep the Product Working",
+          "taxonomy": "persona_the_formulator.md"
+        },
+        {
+          "file": "plan_show_what_it_does.md",
+          "kind": "plan",
+          "title": "Show What It Does",
+          "taxonomy": "persona_the_record.md"
+        },
+        {
+          "file": "play_nothing_known_against_it.md",
+          "kind": "play",
+          "title": "Nothing Known Against It"
+        },
+        {
+          "file": "plot_and_the_twentieth_year_arrives.md",
+          "kind": "plot",
+          "title": "And the Twentieth Year Arrives",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "plot_read_as_a_clearance.md",
+          "kind": "plot",
+          "title": "Read as a Clearance",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "plot_something_has_to_go_in_instead.md",
+          "kind": "plot",
+          "title": "Something Has to Go In Instead",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "plot_the_case_was_made_properly.md",
+          "kind": "plot",
+          "title": "The Case Was Made Properly",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "plot_the_clock_starts_again.md",
+          "kind": "plot",
+          "title": "The Clock Starts Again",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "plot_the_nearest_molecule_is_the_nearest_answer.md",
+          "kind": "plot",
+          "title": "The Nearest Molecule Is the Nearest Answer",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "position_banned_one.md",
+          "kind": "position",
+          "title": "Banned One",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "position_formulator.md",
+          "kind": "position",
+          "title": "Formulator",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "position_record.md",
+          "kind": "position",
+          "title": "Record",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "position_restriction.md",
+          "kind": "position",
+          "title": "Restriction",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "position_substitute.md",
+          "kind": "position",
+          "title": "Substitute",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "process_building_the_case.md",
+          "kind": "process",
+          "title": "Building the Case",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "process_reaching_for_the_analogue.md",
+          "kind": "process",
+          "title": "Reaching for the Analogue",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "process_restricting_it.md",
+          "kind": "process",
+          "title": "Restricting It",
+          "taxonomy": "play_nothing_known_against_it.md"
+        },
+        {
+          "file": "process_waiting_for_the_record.md",
+          "kind": "process",
+          "title": "Waiting for the Record",
+          "taxonomy": "play_nothing_known_against_it.md"
         }
       ]
     },
