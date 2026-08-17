@@ -3927,7 +3927,7 @@ on its own merits after checking. Three sources cleared the pre-authoring check 
 territoriality entry, so the gate does not fire. The incoming triage is corrected on one point and extended on
 another, both recorded because the corrections are the useful part.
 
-- [ ] [P1] Territoriality in Organizations (Brown, Lawrence & Robinson, "Territoriality in Organizations", Academy of Management Review 2005; Pierce, Kostova & Dirks on psychological ownership, AMR 2001 and Review of General Psychology 2003; Brown, Crossley & Robinson, Personnel Psychology 2014): felt ownership of a piece of work is a genuine positive, the thing that makes somebody a committed contributor rather than a passenger, and territoriality is what that ownership does, marking and defending the object against an infringement the owner has reason to anticipate, so the marking is rational at every step; the load-bearing finding is the 2014 moderation, that territorial behaviour is rarer in a high-trust environment and judged more harshly by coworkers when it does occur there, so the defence costs most standing exactly where the environment should have made it unnecessary and the better the workplace the worse the penalty for the one behaviour commitment produces; to be cut to that ownership-produces-defence-and-defence-is-read-worst-in-trust vector, with no villain available, since the owner cannot stop owning without becoming the lesser contributor and cannot stop marking without accepting the infringement
+- [x] [P1] Territoriality in Organizations (Brown, Lawrence & Robinson, "Territoriality in Organizations", Academy of Management Review 2005; Pierce, Kostova & Dirks on psychological ownership, AMR 2001 and Review of General Psychology 2003; Brown, Crossley & Robinson, Personnel Psychology 2014): felt ownership of a piece of work is a genuine positive, the thing that makes somebody a committed contributor rather than a passenger, and territoriality is what that ownership does, marking and defending the object against an infringement the owner has reason to anticipate, so the marking is rational at every step; the load-bearing finding is the 2014 moderation, that territorial behaviour is rarer in a high-trust environment and judged more harshly by coworkers when it does occur there, so the defence costs most standing exactly where the environment should have made it unnecessary and the better the workplace the worse the penalty for the one behaviour commitment produces; to be cut to that ownership-produces-defence-and-defence-is-read-worst-in-trust vector, with no villain available, since the owner cannot stop owning without becoming the lesser contributor and cannot stop marking without accepting the infringement; staged as **A Fence in a Good Street**, with the base-rate reading, that a signal's meaning is set by its rarity rather than its size, supplied by the build as the account of why the moderation runs the way it does, and flagged in the warrant as the play's own framing rather than a claim the papers make
 - Nearest neighbour, corrected: it is **A Little Crooked and Mine**, not The Only Basket. The incoming triage put The Only Basket in the comparison table, and that is a word-match rather than a mechanism-match: the homevoter's ownership is a financial position in a single undiversifiable asset and the engine is a collective-action ratchet across many owners voting locally, which shares nothing with felt ownership of a piece of work. A Little Crooked and Mine is the real incumbent on felt ownership and already carries "the psychological-ownership and effort-justification literature" as its deeper-mechanism row. The line: there the ownership inflates **valuation** and the casualty is a trade that goes unmade with an outside party who values the object correctly; here the ownership produces **behaviour** and the casualty is the owner's standing among people who are not trading with them at all. Different output, different injured party. The incumbent's row names no Pierce work, only the literature generically, so nothing needs marking as contrast and the incumbent is left as it is; the new warrant names it.
 - Second neighbour, added: **The Front**. The 2014 result is about how the marking is read, which puts it next to impression management, and the line is that The Front's actor is curating what is shown, staging the resolved version and editing the raw away, while here the actor is not managing an impression at all. The marking is functional, aimed at the object and not at the audience, and the adverse reading is a side effect of a behaviour that was never a performance. Not Invented Here, the incoming triage's own row, stands as written: it operates on ideas crossing a group boundary, not on one person's felt possession of an object.
 - Bounds to carry into the warrant: the trust moderation is a specific finding rather than a general law and is to be stated as one; the territoriality literature is largely survey and field based, so the play stages a documented tendency and not a measured constant; and the construct boundary between psychological ownership and territoriality is itself argued over in the reviews, which the play carries rather than resolves.
@@ -4131,3 +4131,39 @@ Syndrome) which are struck rather than stacked if their cuts will not hold, and 
 on its anticipation cut. After Territoriality the P1 well is dry and the next move is a field sweep, which the
 two hundred and fifty reconcile established returns better candidates than picking inside a covered field, and
 which has now returned two.
+
+Struck at two hundred and fifty five, the third target from the field sweep and the incoming candidate whose
+triage was corrected at two hundred and fifty two. The build is worth reading back for one thing that has
+nothing to do with the concept.
+
+**It set off three namesake merges at once, which is the first time the ordering constraint recorded for
+Boudreau has actually been exercised.** Citing this literature put Jon Pierce beside the house's W. David,
+Graham Brown beside James K and Stephen J, and Thomas B. Lawrence beside Paul R, on top of the Sandra against
+Robert Robinson the eighty-three sweep had already found. Four surnames, one misfit. That is not bad luck: an
+organisational-behaviour warrant draws on the same journals as a third of the house, so a candidate from a
+crowded field should be expected to collide rather than checked in the hope that it will not.
+
+The handling is now demonstrated rather than theoretical, and it is two pull requests in two lanes, in this
+order. The **cells** ride the misfit's own lane, since three incumbents named no given name at all and could
+never have been resolved by any declaration: `Cameron and Pierce`, `Brown, Goetzmann, Ibbotson & Ross` and
+`Lawrence and Lorsch` were written out to W. David Pierce, Stephen J. Brown and Paul R. Lawrence in the same
+pull request that added the misfit. The **declaration** rides governance and lands after, which is this one.
+Declaring first would have failed the namesake wall on the incumbents, which is the constraint the register
+predicted and which held exactly as written.
+
+One mechanical detail the build caught and no reader would guess: a declared form must be written
+**period-stripped**, `W David` and not `W. David`, because `scholarKey` strips full stops and commas from the
+Source cell before matching but does not strip them from the form. The house's existing entries already read
+that way, `Lawrence J`, `Abraham S`, `J A Muir`, so the convention was there to be copied and the trial
+declaration is what surfaced it. Run a declaration against a rebuild before shipping it; the wall reports
+unresolved occurrences and not mismatched forms, so a form with a full stop in it fails silently as a bare
+surname.
+
+The homonym list now stands at twenty one surnames. It has grown by six in three passes, which is the rate a
+house this size should expect, and every one of them was found by a candidate arriving rather than by a sweep
+looking for them.
+
+What is left on the slate: the two flagged P2s, Kessler Syndrome and Shifting Baseline Syndrome, each struck
+rather than stacked if its cut will not hold, and the [P2] lockup cliff still held on its anticipation cut. **The
+P1 well is dry.** The next move is a field sweep, which has now returned three staged misfits from three
+slated candidates and is the pass to run rather than picking inside a covered field.
