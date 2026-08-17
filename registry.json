@@ -1,8 +1,200 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.254.0",
+  "version": "0.255.0",
   "misfits": [
+    {
+      "kind": "misfit",
+      "id": "a_fence_in_a_good_street",
+      "title": "A Fence in a Good Street",
+      "description": "Caring enough to guard your work is what makes you good at it, and the guarding reads worst where trust is highest.",
+      "members": [
+        {
+          "file": "persona_the_colleagues.md",
+          "kind": "persona",
+          "title": "The Colleagues",
+          "type": "archetype",
+          "taxonomy": "position_colleagues.md"
+        },
+        {
+          "file": "persona_the_encroachment.md",
+          "kind": "persona",
+          "title": "The Encroachment",
+          "type": "archetype",
+          "taxonomy": "position_encroachment.md"
+        },
+        {
+          "file": "persona_the_marking.md",
+          "kind": "persona",
+          "title": "The Marking",
+          "type": "archetype",
+          "taxonomy": "position_marking.md"
+        },
+        {
+          "file": "persona_the_owner.md",
+          "kind": "persona",
+          "title": "The Owner",
+          "type": "archetype",
+          "taxonomy": "position_owner.md"
+        },
+        {
+          "file": "persona_the_trust.md",
+          "kind": "persona",
+          "title": "The Trust",
+          "type": "archetype",
+          "taxonomy": "position_trust.md"
+        },
+        {
+          "file": "piece_the_care.md",
+          "kind": "piece",
+          "title": "The Care",
+          "taxonomy": "place_the_good_team.md"
+        },
+        {
+          "file": "piece_the_expectation.md",
+          "kind": "piece",
+          "title": "The Expectation",
+          "taxonomy": "place_the_good_team.md"
+        },
+        {
+          "file": "piece_the_fence.md",
+          "kind": "piece",
+          "title": "The Fence",
+          "taxonomy": "place_the_handover.md"
+        },
+        {
+          "file": "pitch_only_because_it_was_mine.md",
+          "kind": "pitch",
+          "title": "Only Because It Was Mine",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "place_the_good_team.md",
+          "kind": "place",
+          "title": "The Good Team",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "place_the_handover.md",
+          "kind": "place",
+          "title": "The Handover",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "plan_keep_the_team_easy.md",
+          "kind": "plan",
+          "title": "Keep the Team Easy",
+          "taxonomy": "persona_the_trust.md"
+        },
+        {
+          "file": "plan_look_after_it.md",
+          "kind": "plan",
+          "title": "Look After It",
+          "taxonomy": "persona_the_owner.md"
+        },
+        {
+          "file": "plan_read_the_room.md",
+          "kind": "plan",
+          "title": "Read the Room",
+          "taxonomy": "persona_the_colleagues.md"
+        },
+        {
+          "file": "play_a_fence_in_a_good_street.md",
+          "kind": "play",
+          "title": "A Fence in a Good Street"
+        },
+        {
+          "file": "plot_and_letting_go_costs_the_thing_that_made_you_good.md",
+          "kind": "plot",
+          "title": "And Letting Go Costs the Thing That Made You Good",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "plot_judged_hardest_where_it_was_least_expected.md",
+          "kind": "plot",
+          "title": "Judged Hardest Where It Was Least Expected",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "plot_nobody_needs_a_fence_here.md",
+          "kind": "plot",
+          "title": "Nobody Needs a Fence Here",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "plot_so_the_fence_is_the_only_thing_you_see.md",
+          "kind": "plot",
+          "title": "So the Fence Is the Only Thing You See",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "plot_the_encroachment_is_real.md",
+          "kind": "plot",
+          "title": "The Encroachment Is Real",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "plot_the_ones_who_care_do_the_marking.md",
+          "kind": "plot",
+          "title": "The Ones Who Care Do the Marking",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "position_colleagues.md",
+          "kind": "position",
+          "title": "Colleagues",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "position_encroachment.md",
+          "kind": "position",
+          "title": "Encroachment",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "position_marking.md",
+          "kind": "position",
+          "title": "Marking",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "position_owner.md",
+          "kind": "position",
+          "title": "Owner",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "position_trust.md",
+          "kind": "position",
+          "title": "Trust",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "process_coming_to_own_it.md",
+          "kind": "process",
+          "title": "Coming to Own It",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "process_letting_go.md",
+          "kind": "process",
+          "title": "Letting Go",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "process_marking_it.md",
+          "kind": "process",
+          "title": "Marking It",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        },
+        {
+          "file": "process_reading_the_fence.md",
+          "kind": "process",
+          "title": "Reading the Fence",
+          "taxonomy": "play_a_fence_in_a_good_street.md"
+        }
+      ]
+    },
     {
       "kind": "misfit",
       "id": "a_little_crooked_and_mine",

@@ -40,12 +40,12 @@ than merely locked in.
 
 The phenomenon in practice, and the research spine beneath it.
 
-| Source                  | Key Work / Event                                      | Scope                                                                                                                   |
-| ----------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Burns and Stalker**   | _The Management of Innovation_ (1961)                 | **The naming**: mechanistic and organic forms, each right for a different rate of environmental change.                 |
-| **Lawrence and Lorsch** | _Organization and Environment_ (1967)                 | **The formal treatment**: differentiation and integration set by environmental uncertainty; the coining of contingency. |
-| **Woodward**            | _Industrial Organization: Theory and Practice_ (1965) | **The technological axis**: structure fitted to production technology, with performance following the match.            |
-| **Donaldson**           | _The Contingency Theory of Organizations_ (2001)      | **The consolidation**: structural adjustment to regain fit, and the lag in which misfit is borne.                       |
+| Source                          | Key Work / Event                                      | Scope                                                                                                                   |
+| ------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Burns and Stalker**           | _The Management of Innovation_ (1961)                 | **The naming**: mechanistic and organic forms, each right for a different rate of environmental change.                 |
+| **Paul R. Lawrence and Lorsch** | _Organization and Environment_ (1967)                 | **The formal treatment**: differentiation and integration set by environmental uncertainty; the coining of contingency. |
+| **Woodward**                    | _Industrial Organization: Theory and Practice_ (1965) | **The technological axis**: structure fitted to production technology, with performance following the match.            |
+| **Donaldson**                   | _The Contingency Theory of Organizations_ (2001)      | **The consolidation**: structural adjustment to regain fit, and the lag in which misfit is borne.                       |
 
 ## Restrictions
 
