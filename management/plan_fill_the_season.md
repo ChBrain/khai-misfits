@@ -4179,7 +4179,7 @@ ecology and public health, nineteen in groups and candour, and five in the Senge
 below cleared REFERENCES.md by canonical name and `science_overlap.mjs --check` by source.
 
 - [x] [P1] Regrettable Substitution (Vandenberg et al. on bisphenol analogues; Blum et al. on the flame-retardant sequence; Fantke on substitution assessment; the REACH and TSCA record): a substance is restricted on the evidence that accumulated against it, the manufacturer complies and moves to an analogue, and the analogue carries less evidence for exactly one reason, that it has been used for less time, so a regulation that works perfectly moves use toward the least-studied compound available and absence of evidence is read as evidence of absence by the structure rather than by anybody's reasoning; distinct from Known Too Late's Collingridge, where a technology hardens beyond steering as its harms appear, in that nothing entrenches here and the substitute can be restricted in its turn, which restarts the clock on the next one, so the trap is a cycle rather than a one-way hardening, distinct from First Do Harm's iatrogenesis in that the restriction succeeds completely against its target and the new harm is unmeasured rather than inflicted, distinct from The Balloon Effect in that nothing is displaced in space and the same use continues in the same place with a different molecule, and distinct from The Cobra Effect in that nothing is farmed and nobody responds to an incentive; to be cut to the evidence-accrues-with-use-time vector and never to a chemicals industry acting in bad faith, which is a different play with an author; staged as **Nothing Known Against It**, with Rochester and Bolden supplying the measured spine the line had named only as Vandenberg, and with The Streetlight Effect turning out to be a fifth neighbour the line had not listed, since there a searcher chooses the lit ground and here nobody chooses at all, the light falling on whatever has been in use longest because use is what makes light
-- [ ] [P1] The Patch Is the Disclosure (Brumley, Poosankam, Song & Zheng, "Automatic Patch-Based Exploit Generation", IEEE Symposium on Security and Privacy, 2008): shipping a fix is the right call and shipping it fast is more right, and the diff between the patched and unpatched build states precisely what was wrong, so the act of protecting the fleet hands an attacker a specification of the flaw at the moment when almost nobody has applied it; distinct from Bug for Bug's Hyrum's Law, where an unspecified behaviour becomes a constraint through use, in that here the constraint is a deliberate disclosure the defender authored, and distinct from Alarm Fatigue in that nothing is desensitised and every party responds correctly; the remedies are all worse, since withholding the patch leaves the flaw, obscuring the diff slows the defenders more than the attacker, and staggering release picks who is exposed; to be cut to that vector and never to a vendor being careless with a release
+- [x] [P1] The Patch Is the Disclosure (Brumley, Poosankam, Song & Zheng, "Automatic Patch-Based Exploit Generation", IEEE Symposium on Security and Privacy, 2008): shipping a fix is the right call and shipping it fast is more right, and the diff between the patched and unpatched build states precisely what was wrong, so the act of protecting the fleet hands an attacker a specification of the flaw at the moment when almost nobody has applied it; distinct from Bug for Bug's Hyrum's Law, where an unspecified behaviour becomes a constraint through use, in that here the constraint is a deliberate disclosure the defender authored, and distinct from Alarm Fatigue in that nothing is desensitised and every party responds correctly; the remedies are all worse, since withholding the patch leaves the flaw, obscuring the diff slows the defenders more than the attacker, and staggering release picks who is exposed; to be cut to that vector and never to a vendor being careless with a release; staged as **The Fix Tells Them Where**, with Rescorla cited to distinguish so the dissent that disclosure may deliver less than it costs is carried rather than adopted, and with Loudest When Hushed and Only as Good as the Worst found to be two neighbours the line had not listed
 - [ ] [P2] Forensic Confirmation Bias (Dror, Charlton & Peron, "Contextual information renders experts vulnerable to making erroneous identifications", Forensic Science International, 2006): an examiner needs the case context to know what to examine and what to compare, and the same context moves the judgement, so the information that makes the examination possible is the information that biases it; slated but flagged for a crowded corner, since Sharper and Further Apart carries motivated reasoning on numbers and Anyone Can See It carries naive realism between two parties, and the distinct sliver is that here there is one examiner, no opponent, no motive and no numeracy in play, only a working procedure that requires the contaminating input; the remedy, sequential unmasking, is real and costs the examiner information they need, which is what has to carry the no-hero clause; struck rather than stacked if that sliver will not hold
 
 Triage of the rest of this sweep, against REFERENCES.md. Held as too adjacent: the loudness war in audio
@@ -4219,3 +4219,33 @@ typed.
 What is left on the slate: [P1] The Patch Is the Disclosure, [P2] Forensic Confirmation Bias flagged for a
 crowded corner, and the three older P2s, Kessler Syndrome and Shifting Baseline Syndrome each struck rather than
 stacked if its cut will not hold, and the lockup cliff still held on its anticipation cut.
+
+Struck at two hundred and fifty seven, the second target from the second field sweep, and the sweep has now
+returned two staged misfits from two P1 candidates for the second time running. Two notes, and the first is
+about a standard rather than about this play.
+
+**This is the closest the house has come to a play with a real adversary in it, and the way out was to demote
+the adversary rather than to excuse them.** A disclosure play looks as though it needs somebody using the flaw,
+and if the trap depended on that party choosing to be wicked the production would be describing a crime and not
+a structure. The move that saves it is that the trap is complete against an entirely automated scanner: the
+comparison is readable by a program, the difficulty of exploitation falls by the amount the maintainer just
+supplied, and nothing anywhere in the sequence requires an assertion about anybody's character. So the
+adversary is staged as an environmental constant, the way weather is in Kept From Burning, and the warrant says
+so in a sentence rather than leaving it to be inferred.
+
+That gives the register a third form of the no-villain test, beside the two already written here. The aside
+warning struck at two hundred and fifty three says a no-villain clause written as a subordinate clause is a
+warning sign. The symmetric-remedy note struck at two hundred and fifty four says a remedy that is wrong at
+both settings of one dial carries the no-hero clause better than a price does. **This one says: where a party
+looks like a villain, ask whether the trap survives replacing them with a machine.** If it does, they are
+weather and the play is sound. If it does not, the case has an author and is not a misfit.
+
+And the process improvement from two hundred and fifty six held. The surname matcher was sanity-checked against
+a scholar the house certainly holds before being trusted on the thirteen it was asked about, which is the cheap
+defence the bad-scan note prescribed, and all thirteen came back clear for the right reason rather than by
+accident.
+
+What is left on the slate is four P2s and every one of them is flagged or held: Forensic Confirmation Bias, on
+a crowded corner; Kessler Syndrome, on the Held Under adjacency; Shifting Baseline Syndrome, on the
+Prevalence-Induced Concept Change adjacency; and the lockup cliff, on its anticipation cut. Each is struck
+rather than stacked if its cut will not hold, so the next move is to test one rather than to author it.
