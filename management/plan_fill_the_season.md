@@ -3991,7 +3991,7 @@ misfit in it.
 
 The same system does hold one, and it is the identical irrevocability read from the other side. Slated below.
 
-- [ ] [P1] The Irrevocable Grant (Teece, "Profiting from technological innovation", Research Policy 1986; Lerner & Tirole, "Some Simple Economics of Open Source", Journal of Industrial Economics 2002; von Hippel & von Krogh, Organization Science 2003; the relicensing and fork record, Elasticsearch to OpenSearch 2021, Terraform to OpenTofu 2023, Redis to Valkey 2024): a company opens its code because open is the cheapest distribution, recruitment and credibility it can buy and the evidence says it works, so every release is right on its own terms, but a permissive grant runs to everyone in perpetuity for what was released, so the position is built on an asset given away forever; when the appropriability problem arrives, a provider operating the software at scale as a service and contributing little, which the licence expressly permits and which is not villainy, the only lever left is to relicense future versions, and relicensing supplies both the motive that coordinates the community and the means that arms it, since a complete and legally clean codebase is sitting at the last permissive commit, so the correction manufactures the fork that defeats it; to be cut to the grant-that-cannot-be-recalled vector, distinct from Over a Barrel's hold-up in that nothing is sunk into a relationship and there is no counterparty to renegotiate with, the grant having run to the world with nobody to sit down with, distinct from The Commons in that the code is not rivalrous so the provider's use takes nothing from anybody and restraint is not a remedy, and distinct from Bug for Bug in that the binding constraint is a specified, deliberate, written grant rather than an unspecified behaviour that got depended on; and no hero available, since the fork wins and fragments the ecosystem, the maintenance lands on a foundation funded largely by the same providers, and the original company still holds the appropriability problem it relicensed to solve
+- [x] [P1] The Irrevocable Grant (Teece, "Profiting from technological innovation", Research Policy 1986; Lerner & Tirole, "Some Simple Economics of Open Source", Journal of Industrial Economics 2002; von Hippel & von Krogh, Organization Science 2003; the relicensing and fork record, Elasticsearch to OpenSearch 2021, Terraform to OpenTofu 2023, Redis to Valkey 2024): a company opens its code because open is the cheapest distribution, recruitment and credibility it can buy and the evidence says it works, so every release is right on its own terms, but a permissive grant runs to everyone in perpetuity for what was released, so the position is built on an asset given away forever; when the appropriability problem arrives, a provider operating the software at scale as a service and contributing little, which the licence expressly permits and which is not villainy, the only lever left is to relicense future versions, and relicensing supplies both the motive that coordinates the community and the means that arms it, since a complete and legally clean codebase is sitting at the last permissive commit, so the correction manufactures the fork that defeats it; to be cut to the grant-that-cannot-be-recalled vector, distinct from Over a Barrel's hold-up in that nothing is sunk into a relationship and there is no counterparty to renegotiate with, the grant having run to the world with nobody to sit down with, distinct from The Commons in that the code is not rivalrous so the provider's use takes nothing from anybody and restraint is not a remedy, and distinct from Bug for Bug in that the binding constraint is a specified, deliberate, written grant rather than an unspecified behaviour that got depended on; and no hero available, since the fork wins and fragments the ecosystem, the maintenance lands on a foundation funded largely by the same providers, and the original company still holds the appropriability problem it relicensed to solve; staged as **Given to Everyone**, with The Anticommons found to be the exact inversion and named for it, and with the Open Source Definition carried as an Origin row flagged as a document maintained by a body rather than a research finding
 
 Folded into that line rather than slated beside it: the continuity framing the candidate arrived as, the
 developer collective carrying the technical core across the death of the corporate vehicle and the investors'
@@ -4079,3 +4079,30 @@ not be declared before the second Boudreau arrives, because the incumbent cell n
 declaring the surname early would fail the namesake wall on the incumbent. Declare it and fix that cell in the
 same pass that cites Kevin Boudreau, which is the misfit's own lane for the cell and governance for the
 declaration.
+
+Struck at two hundred and fifty three, and the line is worth reading back because of how it got there. It
+arrived as a candidate that was **not fit**, was declined on that ground, was rebuilt from the same system into
+one that was, was refined once by a market observation that turned into a scope bound, and was then pushed back
+on hard when the reading had gone smooth. Four passes, and only the last of them added the load-bearing half.
+
+The reason the last pass mattered is the one to carry forward. The line as first written said the provider's use
+is what the licence permits **and is not villainy**, in a subordinate clause, and that clause was doing the work
+of a whole vector without being examined. The no-villain standard is a requirement that the failure not be
+authored, not a requirement that nobody act strategically, and treating the two as the same is how a play ends
+up bland. Pushed on it, the reading that came back was harder and better: clauses five and six of the Open
+Source Definition forbid the carve-out, so the grant cannot be aimed and cannot be made aimable, and **a commons
+that could exclude would not be a commons**. That is the half the play now turns on, and it was reached by
+someone refusing an easy sentence rather than by any check the house runs.
+
+So a note for the authoring standard, since no gate reaches it. **A no-villain sentence written as an aside is a
+warning sign.** The gates catch shared spines, missing neighbours, undeclared oppositions and unresolved
+namesakes; none of them can see a play that has been smoothed into everybody being fine. Where a party's conduct
+is the live question, the play must either find the structural constraint that makes their conduct irrelevant,
+which is what carries the misfit, or admit that the case has an author and is therefore not one. The tell is a
+clause that asserts nobody is at fault without naming what makes fault unavailable.
+
+What is left on the slate: [P1] The Expertise Reversal Effect, [P1] Territoriality, the two flagged P2s (Kessler
+Syndrome, Shifting Baseline Syndrome) which are struck rather than stacked if their cuts will not hold, and the
+[P2] lockup cliff still held on its anticipation cut. The wells are thin again and the next refill wants another
+field sweep, which is the pass the two hundred and fifty reconcile showed returns better candidates than picking
+inside a covered field.
