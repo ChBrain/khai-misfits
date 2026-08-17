@@ -3865,7 +3865,7 @@ slated with no neighbour found by the check.
 
 - [x] [P0] Deterrence and the Wrongful Intention (Kavka, "Some Paradoxes of Deterrence", Journal of Philosophy, 1978; Gauthier), staged as **You Have to Mean It**: it can be rational to form an intention that it would be irrational to carry out, so the threat works only by removing one's own capacity to reconsider, distinct from Time Inconsistency's temptation to break a promise and from Exactly How Far's map of what was not promised
 - [x] [P1] The Non-Identity Problem (Parfit, Reasons and Persons, 1984), staged as **Whoever Comes Instead**: the party whose consent is owed is brought into being by the very act that would need it, so no one is made worse off and the harm has no bearer, a structural trap with no staged neighbour found by the source check; cut to the identity-dependence vector, the choice that constitutes its own subjects evaluated by an instrument that assumes it does not, and never to a committee failing to care about the future, with the impersonal repair carried at its full price rather than taken as the resolution
-- [ ] [P2] The Anticipated Date That Still Moves Price (Field & Hanka, "The Expiration of IPO Share Lockups", Journal of Finance, 2001): slate only if cut hard to the anticipation puzzle, a perfectly known date moving price, or it stays All at Once with a calendar and is not staged
+- [x] [P2] The Anticipated Date That Still Moves Price (Field & Hanka, "The Expiration of IPO Share Lockups", Journal of Finance, 2001), staged as **The Shares to Say It With**: the cut the line demanded was available and the test was decisive rather than a matter of taste, since All at Once runs on simultaneity and de-synchronising its expiry dissolves it, while here simultaneity is incidental, lockups now releasing in tranches and each tranche running the mechanism entire; what is load-bearing is that the instrument which would price the event is the object the event delivers, a share having to be borrowed before it is sold short and a locked share being no more lendable than saleable, so the lendable pool is the free float and the correction is capped by the very quantity whose release is the event
 
 Struck at two hundred and forty nine, and the first target authored from this slate rather than from a sweep
 made in conversation. Its P0 line already carried the correction the check had forced, that Arms and Influence
@@ -4378,3 +4378,70 @@ been exercised.
 
 What is left on the slate is one line: the [P2] lockup cliff, still held on its anticipation cut and never
 tested. Everything else slated since the two hundred and fifty reconcile has been staged.
+
+Struck at two hundred and sixty one, and the slate emptied. The line had been on it longer than any other and
+carried its own kill switch: stage it only on the anticipation puzzle, or it is All at Once with a calendar and
+is not staged. The kill switch is what made the test cheap, because it named the incumbent to beat and the
+beating had to be mechanical rather than tonal. All at Once runs on **simultaneity**, and the proof of that is
+that jittering a time-to-live dissolves it. Lockups are now released in tranches, and each tranche runs the
+lockup mechanism entire, because a tranche's shares cannot be borrowed before the tranche exists. A remedy that
+kills one and leaves the other running is a cleaner separation than any amount of prose about how the two feel
+different.
+
+**A slate line that names the incumbent it must beat is worth more than one that names the concept.** Every
+other line on this register describes a candidate; this one described a test, and the test could be executed in
+one paragraph rather than argued. Whoever writes the next batch of lines should write the incumbent into them.
+
+And the fourth flag test missed its neighbour, in the same direction as the other three. The line pointed at
+All at Once and the distinction held. The one nobody anticipated was **Fair Warning**, which is the candidate's
+exact inverse on the same variable: there an announced future date reaches the present and does harm by
+reaching it, so earlier and more credible is worse, while here the announcement is at least as early and at
+least as credible and reaches nothing, because the party who would act on it holds no asset to act with until
+the date arrives. Four for four, and in every case the missed one was the sharper. The triage failure named at
+two hundred and sixty holds: triage compares concepts, and authoring compares mechanisms.
+
+The namesake pass found the largest collision yet. **Miller** carried five different people: Wendi in Don't
+Look, Dale in Moral Licensing, Geoffrey in Only the Close Ones, Franklin in Treated and Counted, and Edward M.
+arriving with the new misfit. Geoffrey had been resolved incidentally when Kessler was declared, since the two
+share a cell, which is worth noticing on its own: **resolving one surname resolves whichever others sit beside
+it**, so the cells-first pass is cheaper than the count of unresolved occurrences suggests. Three cells, one
+misfit-lane pull request, then this declaration: twenty four declared surnames, zero unresolved. Six surnames
+have now been declared in three days and every one of them was already carrying two or more people.
+
+**The third sweep, and what it returned.** Run at two hundred and sixty one with the slate at zero. The method is the one the previous two used: read the
+field distribution across every warrant, then look past every field it covers rather than deeper into the
+covered ones. The distribution stands at 63 measurement and cognition, 54 markets, 37 safety and risk, 29
+organisations, 28 collective action, 26 ecology and public health, 19 groups and candour, 5 Senge archetypes.
+The fields with no misfit in them at all are education, forecasting, geology, library science, food systems,
+sport, audit and art conservation. Three candidates survive, two are held with their cut written, and the
+strikes are recorded so nobody re-derives them.
+
+- [ ] [P0] The Forecaster's Dilemma (Lerch, Thorarinsdottir, Ravazzolo & Gneiting, "Forecaster's Dilemma: Extreme Events and Forecast Evaluation", Statistical Science, 2017; Denrell & Fang, "Predicting the Next Big Thing: Success as a Signal of Poor Judgment", Management Science, 2010; Gneiting & Raftery, 2007): a proper scoring rule is proper only over all cases, and conditioning the evaluation on the realised outcome, which is the only review the public ever performs and is the right thing for it to care about, is incompatible with the assumptions that make the rule proper, so the strategy that wins the conditional evaluation is to forecast extremes more often than one believes them and the calibrated forecaster is discredited by construction, worst where the signal-to-noise ratio is lowest and forecasts matter most; to be cut hard to the propriety result and never to a complaint that the press is unfair, with the costly remedy already in the literature, proper weighted scoring rules requiring the evaluator to fix a weight function in advance and to be the sort of party who reads a weighted score; named clear of Metric Fixation, where a target is gamed by the agent and here nothing is gamed and the evaluator's own selection is the mechanism, of The False Trade-Off, whose collider opens a spurious association where the object here is a scoring rule's incentive property, and of The Firefighter's Medal, where the non-event is invisible and here the ordinary case is perfectly visible and simply not looked at; Denrell is already carried three works deep by Once Bitten, which is the expected direction and fires nothing, but the fourth work should be added knowingly
+- [ ] [P1] Nutrient Dilution Under Elevated CO2 (Loladze, "Hidden shift of the ionome of plants exposed to elevated CO2", eLife, 2014; Myers et al., Nature, 2014; Chunwu Zhu et al., Science Advances, 2018): the quantity rises, the concentration per unit falls, and the instrument is denominated in the quantity, so nobody chooses the carbon dioxide, the breeder selects for yield because yield is what feeds people, and food security is counted in calories because famine kills by calories, and every measure reports improvement while what a calorie carries declines; to be cut to that denominator vector and named clear of Best Day for It, whose value factor falls as quantity rises in the same shape from an entirely different domain and literature, and of Metric Fixation, which needs a gamer; flagged twice, first that no live scientific dispute was confirmed at the sweep, only heterogeneity by crop, by nutrient and by experiment type, so the bound must be established at authoring rather than asserted, and second that Chunwu Zhu makes a third Zhu and the surname must be declared in the same pass
+- [ ] [P1] The Lucas Critique (Lucas, "Econometric Policy Evaluation: A Critique", 1976): a relation estimated under one policy regime embeds that regime's expectations, so using it to choose a new policy invalidates it, with no agent gaming anything and every agent behaving optimally and honestly; this is the authoring table's fourth case rather than a free slate, a distinct mechanism the incumbent has annexed, since Goodhart is a measure corrupted by pressure on an agent and Lucas is a model invalidated by its own use, so **Metric Fixation must be narrowed before this is built** and that cost is on the line rather than discovered at authoring
+
+Held, each with the cut that would bring it back. **Desirable difficulties and the fluency trap** (Bjork &
+Bjork; Kornell & Bjork), where the metacognitive cue steering study is inverted, is held against I Know How It
+Works until it is cut hard to the inversion itself, that the cue is negatively coupled to retention **by
+construction** because the difficulty producing retention is the same difficulty lowering fluency; as stated it
+reads as the illusion of explanatory depth applied to study methods, and it brushes The Skill to See It and The
+Scaffold Left Up as well, and three close incumbents is one too many for a slate. **The Paradox of Enrichment**
+(Rosenzweig, 1971; May, 1972), where raising the resource base destabilises the system it improves, is held
+against More Mouths Than Meat's lag and Room to Grow's overcompensation: the same model family is not the same
+mechanism, the oscillation coming from delay there and from raised carrying capacity here, but the cut must be
+written before the slate, and the field's own puzzle, that the paradox is seldom observed, is the bound the
+play would have to carry.
+
+Struck before slating, the sweep's dedup catching each as already staged: the Matthew effect in reading is The
+Head Start; teaching to the test is Metric Fixation; the cover jinx is The Bounce; mark-to-market
+procyclicality is The Weather We Make's endogenous-risk feedback; issuer-pays audit independence is Good Enough
+to Hold; digital format obsolescence is already held on this register as too fine to stage; the winner's curse
+in genome-wide association studies is The Winning Bid with The Best on Paper; diagnostic momentum is Already
+Explained; and the tornado false-alarm ratio is Alarm Fatigue. Induced seismicity was examined and dropped for
+want of a clean no-villain cut rather than for an incumbent.
+
+And a namesake recorded rather than acted on, in the safe direction. **Zhu** carries two people already,
+Timothy Zhu in Held Under's metastable-failures paper and Meng Zhu in The Tyranny of the Urgent, both bare and
+undeclared, which can only raise a spurious overlap and so fails loudly rather than passing quietly. It joins
+the Johnson note. The nutrient-dilution line above would make it three, and its line says so, which is the
+whole point of writing a namesake into the slate rather than leaving it for the pull request.

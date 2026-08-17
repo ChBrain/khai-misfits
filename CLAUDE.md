@@ -150,6 +150,16 @@ Jon, its Robinson is Robert and not Sandra. At this size a common surname is
 more likely than not to be taken already, which is why `--check` takes the full
 `"Scholar :: Work"` string.
 
+The largest so far is **Miller**, which carried five people: Wendi in Don't Look,
+Dale in Moral Licensing, Geoffrey in Only the Close Ones, Franklin in Treated and
+Counted, and Edward M. arriving with The Shares to Say It With. Geoffrey had
+already been resolved by the pass that declared Kessler, because the two share a
+cell, which is the general case worth knowing: **resolving one surname resolves
+whichever others sit beside it**, so a cells-first pass costs less than the count
+of unresolved occurrences suggests. Declared forms carry no full stops, since the
+build strips `[.,]` from the Source cell and not from the form, so `W David` and
+`Edward M` are written bare.
+
 ### And a misfit must say where it sits
 
 Every `REFERENCE.md` **names at least one other misfit by its title** and states
@@ -160,7 +170,7 @@ Effect, Metric Fixation and Moral Licensing. Each had scanned the house and
 missed only the misfit standing next to it. Answering _which misfit is nearest,
 and why is it not this one?_ in writing is what closes that.
 
-This is a wall too: all 246 name one. The rule is deliberately loose, a real
+This is a wall too: all 261 name one. The rule is deliberately loose, a real
 house title anywhere in the file rather than a fixed phrase, because a stricter
 sentence-level form scored worse and its false negatives were the misfits that
 declare their neighbour inside an Origin row. Reciprocity is **not** required:
@@ -195,15 +205,17 @@ warrant's frontmatter is unpoliced and rides the misfit's own lane.
 
 **Declaring is not optional for new work.** The opposition check iterates the
 misfits that declare an axis, not the house, so an undeclared misfit is not
-caught and not failed: it is invisible. Coverage is therefore ratcheted. 238 of
-246 carry no axis yet and are grandfathered; a **new** misfit without one fails.
+caught and not failed: it is invisible. Coverage is therefore ratcheted. 228 of
+261 carry no axis yet and are grandfathered; a **new** misfit without one fails.
 A malformed declaration fails outright, since there is no legacy set of those.
 
-The declared 8 are the density-dependence family, and they earned the design:
-from those eight the check found Room to Grow against Worth More Nearly Gone,
-which a hand sweep of the same family had missed, and it correctly declined to
-flag Safety in Numbers against Worth More Nearly Gone, which share an axis and a
-sign. Declaring more of the house widens the check; it does not change it.
+The first declared 8 were the density-dependence family, and they earned the
+design: from those eight the check found Room to Grow against Worth More Nearly
+Gone, which a hand sweep of the same family had missed, and it correctly declined
+to flag Safety in Numbers against Worth More Nearly Gone, which share an axis and
+a sign. The declared set now stands at 33 and the check reports 4 opposed pairs,
+all of them declared and none loose. Declaring more of the house widens the
+check; it does not change it.
 
 ```
 node tests/science_overlap.mjs                 # overlaps and opposed pairs
