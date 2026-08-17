@@ -4278,3 +4278,45 @@ What is left on the slate is three P2s and every one is flagged or held: Kessler
 adjacency, Shifting Baseline Syndrome on the Prevalence-Induced Concept Change adjacency, and the lockup cliff
 on its anticipation cut. Each wants the same treatment: test the cut first, and strike the line if it will not
 hold.
+
+The Kessler flag tested at two hundred and fifty eight, and it returned a result the register has not seen
+before: **the cut the line named fails, and a different one holds.**
+
+The line said the distinction from Held Under is that metastable failure clears when something breaks the loop
+by force while here no available intervention breaks it. That is a magnitude claim, harder to clear rather than
+differently shaped, and Cut to Fit rejects a play whose only separation from an incumbent is that the same
+mechanism is worse. Read as written, the line strikes.
+
+The cut that does hold is about **where the loop's inputs come from**. Held Under is sustained by clients
+retrying, which is behaviour: every participant could stop and the state clears, which is exactly what a circuit
+breaker does. A collision cascade is sustained by objects already on ballistic trajectories, so universal
+cessation of all launching ends nothing, because there is no behaviour anywhere in the loop to withdraw. That is
+not the same mechanism made worse, it is a mechanism with the behavioural lever removed, and the same test
+separates it from The Commons, where the remedy is rules the users make and enforce upon themselves and
+restraint restores the field. Here restraint restores nothing: **past the threshold the depleting agent stops
+being the users**, and the resource is consumed by its own wreckage. It separates from Onto the Survivors too,
+where a fixed load is redistributed and the per-member share rises, since nothing here is redistributed and the
+hazard population grows.
+
+So the candidate is buildable and the line's own cut is wrong, which is a distinct outcome from the forensic
+test at two hundred and fifty eight, where the named cut held and a better vector turned up beside it. The
+register should carry both, because they say different things. **A flag buys a test, and the test's honest
+output can be that the triage guessed the wrong cut.** Striking on that basis would discard a sound candidate
+for a bookkeeping reason, so the rule is: the flag binds the author to test, not to the guess. What it does bind
+is the writing down, and the failed cut is recorded here rather than quietly replaced.
+
+And the build hit an ordering the register had backwards. The two-lane namesake pattern written at two hundred
+and fifty five and two hundred and fifty six says cells first in the misfit lane, declaration second in
+governance, because declaring early fails the wall on incumbents that name no given name. **That holds only
+where the surname is undeclared.** Kessler is already declared, Daniel and Friedrich, so a citation of Donald
+Kessler keys bare against a declared surname and fails the wall on the day it lands: the misfit cannot ship
+before the declaration exists. So the order inverts, and which order applies is decided by one question, whether
+`scholarPolicy.homonyms` already holds the surname. Declaring ahead of a citation is safe and is a no-op on the
+index, which is what makes the inverted order available at all.
+
+One observation recorded and not acted on, since it fires no gate and fixing it is a separate pass. The house
+holds at least three different Johnsons under one bare key, Wendell Johnson in The Abstraction Ladder, the
+Johnson of Balogun and Johnson in The Frozen Middle, and the Johnson of Cuellar, Keil and Johnson in Watermelon
+Reporting, with a fourth arriving if the debris candidate is authored. Undeclared surnames collate into one key
+and can only raise a spurious overlap, which fails loudly, so this is the safe direction and nothing is at risk.
+Declaring it would cost two incumbent cell fixes, since two of the three name no given name.
