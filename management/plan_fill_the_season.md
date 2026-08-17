@@ -4167,3 +4167,30 @@ What is left on the slate: the two flagged P2s, Kessler Syndrome and Shifting Ba
 rather than stacked if its cut will not hold, and the [P2] lockup cliff still held on its anticipation cut. **The
 P1 well is dry.** The next move is a field sweep, which has now returned three staged misfits from three
 slated candidates and is the pass to run rather than picking inside a covered field.
+
+A second field sweep at the two hundred and fifty five reconcile, run because the P1 well was dry and because
+the first sweep returned three slated candidates and three staged misfits. The method is the same and the
+starting point is further out, since the eighty-three and two hundred and fifty passes already recorded
+hydrology, seismology and building codes, materials, software and distributed systems, aviation and human
+factors, political science, science studies, demography, metrology and archival preservation as reached. The
+field distribution at two hundred and fifty five reads sixty one in measurement and cognition, fifty three in
+markets, thirty five in safety, twenty nine in organisations, twenty seven in collective action, twenty six in
+ecology and public health, nineteen in groups and candour, and five in the Senge archetypes. Every candidate
+below cleared REFERENCES.md by canonical name and `science_overlap.mjs --check` by source.
+
+- [ ] [P1] Regrettable Substitution (Vandenberg et al. on bisphenol analogues; Blum et al. on the flame-retardant sequence; Fantke on substitution assessment; the REACH and TSCA record): a substance is restricted on the evidence that accumulated against it, the manufacturer complies and moves to an analogue, and the analogue carries less evidence for exactly one reason, that it has been used for less time, so a regulation that works perfectly moves use toward the least-studied compound available and absence of evidence is read as evidence of absence by the structure rather than by anybody's reasoning; distinct from Known Too Late's Collingridge, where a technology hardens beyond steering as its harms appear, in that nothing entrenches here and the substitute can be restricted in its turn, which restarts the clock on the next one, so the trap is a cycle rather than a one-way hardening, distinct from First Do Harm's iatrogenesis in that the restriction succeeds completely against its target and the new harm is unmeasured rather than inflicted, distinct from The Balloon Effect in that nothing is displaced in space and the same use continues in the same place with a different molecule, and distinct from The Cobra Effect in that nothing is farmed and nobody responds to an incentive; to be cut to the evidence-accrues-with-use-time vector and never to a chemicals industry acting in bad faith, which is a different play with an author
+- [ ] [P1] The Patch Is the Disclosure (Brumley, Poosankam, Song & Zheng, "Automatic Patch-Based Exploit Generation", IEEE Symposium on Security and Privacy, 2008): shipping a fix is the right call and shipping it fast is more right, and the diff between the patched and unpatched build states precisely what was wrong, so the act of protecting the fleet hands an attacker a specification of the flaw at the moment when almost nobody has applied it; distinct from Bug for Bug's Hyrum's Law, where an unspecified behaviour becomes a constraint through use, in that here the constraint is a deliberate disclosure the defender authored, and distinct from Alarm Fatigue in that nothing is desensitised and every party responds correctly; the remedies are all worse, since withholding the patch leaves the flaw, obscuring the diff slows the defenders more than the attacker, and staggering release picks who is exposed; to be cut to that vector and never to a vendor being careless with a release
+- [ ] [P2] Forensic Confirmation Bias (Dror, Charlton & Peron, "Contextual information renders experts vulnerable to making erroneous identifications", Forensic Science International, 2006): an examiner needs the case context to know what to examine and what to compare, and the same context moves the judgement, so the information that makes the examination possible is the information that biases it; slated but flagged for a crowded corner, since Sharper and Further Apart carries motivated reasoning on numbers and Anyone Can See It carries naive realism between two parties, and the distinct sliver is that here there is one examiner, no opponent, no motive and no numeracy in play, only a working procedure that requires the contaminating input; the remedy, sequential unmasking, is real and costs the examiner information they need, which is what has to carry the no-hero clause; struck rather than stacked if that sliver will not hold
+
+Triage of the rest of this sweep, against REFERENCES.md. Held as too adjacent: the loudness war in audio
+mastering, whose each-master-louder-to-stand-out engine is The Arms Race's positional escalation with the prize
+being attention rather than rank, adding no vector the tiptoe already carries; perpetual treatment liability
+after a mine closes, which is Nothing to Lose's judgment-proof problem with a longer tail; the retreat of
+insurance from the risks that most need cover, which is The Driest Wells' inverse care law priced in premiums;
+and the parking of error just under an audit materiality threshold, which is Metric Fixation where the
+threshold is the target and Sandbag where the ratchet is the quota. Folded, not slated: the erosion of the
+reviewer pool as each journal rationally asks more reviewers, which is The Commons run on attention and sits
+beside The File Drawer and On Good Authority in a corner the house already occupies. Fields swept and found
+already reached, adding to the earlier lists: cryptography and information security beyond the disclosure
+candidate above, forensics beyond the same, audit and accounting, insurance, mining and extractive liability,
+scholarly publishing, and audio engineering.
