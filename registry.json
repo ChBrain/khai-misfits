@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.267.0",
+  "version": "0.268.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -20482,6 +20482,198 @@
           "kind": "process",
           "title": "Waiting for the Record",
           "taxonomy": "play_nothing_known_against_it.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "nothing_left_to_pool",
+      "title": "Nothing Left to Pool",
+      "description": "Insurance is the sale of a shared ignorance, so every improvement in measuring a risk removes some of it.",
+      "members": [
+        {
+          "file": "persona_the_clinician.md",
+          "kind": "persona",
+          "title": "The Clinician",
+          "type": "archetype",
+          "taxonomy": "position_clinician.md"
+        },
+        {
+          "file": "persona_the_insured.md",
+          "kind": "persona",
+          "title": "The Insured",
+          "type": "archetype",
+          "taxonomy": "position_insured.md"
+        },
+        {
+          "file": "persona_the_legislator.md",
+          "kind": "persona",
+          "title": "The Legislator",
+          "type": "archetype",
+          "taxonomy": "position_legislator.md"
+        },
+        {
+          "file": "persona_the_low_group.md",
+          "kind": "persona",
+          "title": "The Low Group",
+          "type": "archetype",
+          "taxonomy": "position_low_group.md"
+        },
+        {
+          "file": "persona_the_underwriter.md",
+          "kind": "persona",
+          "title": "The Underwriter",
+          "type": "archetype",
+          "taxonomy": "position_underwriter.md"
+        },
+        {
+          "file": "piece_the_bar.md",
+          "kind": "piece",
+          "title": "The Bar",
+          "taxonomy": "place_the_underwriting_desk.md"
+        },
+        {
+          "file": "piece_the_pool.md",
+          "kind": "piece",
+          "title": "The Pool",
+          "taxonomy": "place_the_pool_before_the_test.md"
+        },
+        {
+          "file": "piece_the_test.md",
+          "kind": "piece",
+          "title": "The Test",
+          "taxonomy": "place_the_underwriting_desk.md"
+        },
+        {
+          "file": "pitch_now_that_we_know.md",
+          "kind": "pitch",
+          "title": "Now That We Know",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "place_the_pool_before_the_test.md",
+          "kind": "place",
+          "title": "The Pool Before the Test",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "place_the_underwriting_desk.md",
+          "kind": "place",
+          "title": "The Underwriting Desk",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "plan_be_carried_if_it_lands_on_me.md",
+          "kind": "plan",
+          "title": "Be Carried If It Lands on Me",
+          "taxonomy": "persona_the_insured.md"
+        },
+        {
+          "file": "plan_find_out.md",
+          "kind": "plan",
+          "title": "Find Out",
+          "taxonomy": "persona_the_clinician.md"
+        },
+        {
+          "file": "plan_price_it_properly.md",
+          "kind": "plan",
+          "title": "Price It Properly",
+          "taxonomy": "persona_the_underwriter.md"
+        },
+        {
+          "file": "play_nothing_left_to_pool.md",
+          "kind": "play",
+          "title": "Nothing Left to Pool"
+        },
+        {
+          "file": "plot_a_measured_risk_is_not_a_shared_one.md",
+          "kind": "plot",
+          "title": "A Measured Risk Is Not a Shared One",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "plot_and_the_bar_on_using_it_restores_the_pool_and_hides_the_fact.md",
+          "kind": "plot",
+          "title": "And the Bar on Using It Restores the Pool and Hides the Fact",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "plot_nobodys_conduct_produced_it.md",
+          "kind": "plot",
+          "title": "Nobody's Conduct Produced It",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "plot_the_insurer_is_doing_its_job.md",
+          "kind": "plot",
+          "title": "The Insurer Is Doing Its Job",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "plot_the_pool_is_made_of_not_knowing.md",
+          "kind": "plot",
+          "title": "The Pool Is Made of Not Knowing",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "plot_the_test_is_good_and_is_wanted.md",
+          "kind": "plot",
+          "title": "The Test Is Good and Is Wanted",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "position_clinician.md",
+          "kind": "position",
+          "title": "Clinician",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "position_insured.md",
+          "kind": "position",
+          "title": "Insured",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "position_legislator.md",
+          "kind": "position",
+          "title": "Legislator",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "position_low_group.md",
+          "kind": "position",
+          "title": "Low Group",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "position_underwriter.md",
+          "kind": "position",
+          "title": "Underwriter",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "process_forbidding_the_question.md",
+          "kind": "process",
+          "title": "Forbidding the Question",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "process_pricing_the_risk.md",
+          "kind": "process",
+          "title": "Pricing the Risk",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "process_sharing_what_nobody_knows.md",
+          "kind": "process",
+          "title": "Sharing What Nobody Knows",
+          "taxonomy": "play_nothing_left_to_pool.md"
+        },
+        {
+          "file": "process_taking_the_test.md",
+          "kind": "process",
+          "title": "Taking the Test",
+          "taxonomy": "play_nothing_left_to_pool.md"
         }
       ]
     },
