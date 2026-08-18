@@ -42,12 +42,17 @@ opening it:
   records reversals. Take the next misfit from the top of it, strike what you
   stage, and **write your discards back into it** so the next author does not
   re-derive them. A candidate chosen from memory rather than from this plan is a
-  guess. The file is `shared` in `branchScope`, so **the strike rides the lane of
-  the change that earns it**: a misfit strikes its own line in its own pull
-  request, exactly as it carries its own `REFERENCES.md` row. It was governance
-  until a gate demanded a strike the misfit lane could not make, which is the
-  general shape worth keeping: a rule that cannot be obeyed from the branch it is
-  read on is a rule about the branch, not about the author.
+  guess. The file is a **rider** in `branchScope`, like `management/orders/**`, so
+  **the strike rides the lane of the change that earns it** and a pass that only
+  touches the register homes to `governance/`: a misfit strikes its own line in
+  its own pull request, and a sweep opens its own. It was governance until a gate
+  demanded a strike the misfit lane could not make, which is the general shape
+  worth keeping: a rule that cannot be obeyed from the branch it is read on is a
+  rule about the branch, not about the author. It was then briefly `shared`, which
+  is the wrong primitive and is worth knowing why: `shared` is for **build
+  artefacts**, which are never the whole of a change, so a shared path owns no
+  lane and a register-only pass had nowhere to go. A rider is the primitive that
+  already meant what was wanted.
 - [Cut to Fit](management/plan_cut_to_fit.md) is the authoring standard below.
 - [`management/orders/**`](management/orders) records scouting passes and the
   reading of their failures.
