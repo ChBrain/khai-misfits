@@ -4701,3 +4701,22 @@ are published separately and the difficulty survives, because civil time is the 
 recording as a triage move: **where two misfits look alike at the setup, run the incumbent's remedy on the
 candidate and see what it fails to reach.** That is the same test as removing the incumbent's engine, applied
 from the other end, and it was quicker here because the setups were genuinely similar.
+
+**Nelson declared, and a third outcome named for the surname scan.** The house's Nelson was Leif, in Reasonable
+Either Way and The File Drawer; An Angle and a Count brought Robert A, so the surname is declared and the index
+keys them apart, at 27 declared and none loose. The pass is worth recording for what else it turned up. That
+misfit's scan hit **two** surnames and only one was a namesake: Kamp came back held, and the house's Kamp is
+Poul-Henning, who coined bikeshedding, which is the same person who wrote the leap second's practitioner
+argument ten years later. One scholar across two works is expected and is most of the index, so nothing was
+owed.
+
+Naming that outcome matters, because the scan has three and the register had only written two. A surname hit is
+**the same person on another work**, in which case nothing is owed and declaring a homonym would be the error,
+since it would split one person across two keys and defeat the wall it was meant to serve; or **two people**,
+in which case the cells are resolved in the misfit's own lane and the form is declared in governance; or two
+people on one work, which cannot happen and would be a shared-work finding if it appeared. So the scan does not
+answer the question by itself: it locates a cell to read, and reading it is what decides the move. An author
+who declares on the strength of the hit alone will eventually declare a homonym for one person, which fails
+quietly rather than loudly and is the one direction the gates cannot see.
+
+**And the slate is down to one line.** Archival Appraisal is all that remains open, so a sweep is due behind it.
