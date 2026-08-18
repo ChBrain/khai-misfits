@@ -4499,12 +4499,36 @@ structure. That is a rule about what the house can stage and not a verdict on wh
 the distinction is worth keeping crisp, since the strike would be identical if the claim were established
 beyond argument.
 
-**The devaluation half is struck as a spine and is stronger than expected.** Levanon, England and Allison,
-"Occupational Feminization and Pay" (Social Forces, 2009), run fixed-effects models on 1950 to 2000 census
-data and find substantial evidence for devaluation, that feminisation lowers pay, and only scant evidence for
-the queuing view that low pay draws women in. So the arrow the brief draws is the one the best longitudinal
-test supports, which was not the expectation going in and is recorded here because the register is worth more
-when it writes down the times a scepticism did not survive contact. It is still not a misfit: the mechanism
+**The devaluation half is struck as a spine, and the first version of this entry was wrong about why.**
+Levanon, England and Allison, "Occupational Feminization and Pay" (Social Forces, 2009), run fixed-effects
+models on 1950 to 2000 census data and find substantial evidence for devaluation, that feminisation lowers
+pay, and only scant evidence for the queuing view that low pay draws women in. That was written up here as a
+scepticism that did not survive contact. It should have been written up as a contest with a competitor
+missing.
+
+**There is a third theory with the same observational signature and it was not in that contest.** Bergmann's
+occupational crowding (1974) says that an increase in the supply of labour into a field lowers its wages, and
+under it the female share is a marker of who the entrants were rather than a cause of anything. Devaluation
+against queuing is a test between two gendered stories; crowding is not gendered at all, and a design that
+separates share from headcount is what would settle it. Whether the paper controls for occupational size could
+not be verified from here, since both it and the working-paper literature around it are unreachable behind
+this environment's egress proxy, so the register records the question rather than an answer.
+
+**And in the veterinary case the two are the same event.** The 1972 federal amendment removed a legal barrier,
+which is by construction an outward shift in labour supply, and Lincoln's own third factor is the rising number
+of women earning bachelor's degrees. Nothing separates "more women" from "more entrants" in that period without
+a design built to do it. Stronger still, **the profession forecast the decline from supply before the
+feminisation completed**: a workforce analysis from the middle of the 1980s, reported in the profession's own
+later retrospective of its workforce studies, projected demand for small-animal and large-animal services
+growing by roughly a third and a quarter across 1980 to 2000 against supply growing by about three quarters,
+and predicted private practitioners' real incomes falling to around three quarters of the 1980 level. No
+gender appears in that forecast. The primary was not reachable from here and the figures are carried at the
+strength of a secondary report.
+
+**Mandel (2018, Demography) makes the finding less stable than the first version of this entry allowed**, too:
+re-examining 1960 to 2015, the negative association declines to insignificance by 2015 and reappears only once
+education is controlled. So "stronger than expected" was too strong, and the strike stands on firmer ground
+than the one it was first given. It is still not a misfit: the mechanism
 needs an evaluator whose valuation responds to who does the work, which is a bias with an agent however
 diffuse it is, and the nearest thing the house holds is The Proxy. A play here would need a villain or would
 have to pretend it did not have one.
@@ -4512,6 +4536,22 @@ have to pretend it did not have one.
 Struck as already staged, the rest of the brief's machinery: herding on an observed choice is Information
 Cascade; the coordination problem underneath is The Stag Hunt; the credential as a sorting signal is Too Dear
 to Fake; and the compounding of an early advantage is The Head Start.
+
+**And the supply reading relocates the whole brief onto incumbents rather than opening a gap, which is why the
+correction strengthens the strike instead of reversing it.** Read as supply, the veterinary case is Chasing
+the Price: a training pipeline answering a shortage that had gone by the time it delivered, forecast a decade
+and a half ahead by the profession's own analysts and arriving anyway, which is the cobweb with a workforce
+study attached. It sits directly beside Ready on the First Day, staged the same week on the pipeline being
+longer than the period of the thing it aims at, and the vet case would make a fair Origin row for one of the
+two if either is extended. Read as composition it is The Sort. Read as bias it is The Proxy. Three readings,
+three incumbents, and no gap anywhere in it.
+
+A triage move worth keeping, since it is what produced the correction. The thing that broke the devaluation
+reading was not a paper: it was one person's memory of two vets in one town, and of the same town twenty years
+later with the same animals in it and many more vets. **A local observation that holds the denominator fixed
+discriminates better than a summary of a study that does not**, because same town and roughly the same animals
+is a controlled demand side by construction, which is precisely the control the published contest was missing.
+So the move is to ask what stayed the same, and it is cheap enough to ask of every candidate.
 
 Held, with the cut written, and it is the only un-staged shape in the brief. **The recruitment that broadcasts
 the composition**: an institution watching one group's enrolment fall has one lever, which is to recruit that
