@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.269.0",
+  "version": "0.270.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -12618,6 +12618,198 @@
           "kind": "process",
           "title": "Walking On",
           "taxonomy": "play_just_keeping_their_feet.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "kept_for_the_questions_we_had",
+      "title": "Kept for the Questions We Had",
+      "description": "An archivist must select, by the questions being asked now, a record every later question will be asked of.",
+      "members": [
+        {
+          "file": "persona_the_archivist.md",
+          "kind": "persona",
+          "title": "The Archivist",
+          "type": "archetype",
+          "taxonomy": "position_archivist.md"
+        },
+        {
+          "file": "persona_the_cataloguer.md",
+          "kind": "persona",
+          "title": "The Cataloguer",
+          "type": "archetype",
+          "taxonomy": "position_cataloguer.md"
+        },
+        {
+          "file": "persona_the_latecomer.md",
+          "kind": "persona",
+          "title": "The Latecomer",
+          "type": "archetype",
+          "taxonomy": "position_latecomer.md"
+        },
+        {
+          "file": "persona_the_researcher.md",
+          "kind": "persona",
+          "title": "The Researcher",
+          "type": "archetype",
+          "taxonomy": "position_researcher.md"
+        },
+        {
+          "file": "persona_the_successor.md",
+          "kind": "persona",
+          "title": "The Successor",
+          "type": "archetype",
+          "taxonomy": "position_successor.md"
+        },
+        {
+          "file": "piece_the_discard.md",
+          "kind": "piece",
+          "title": "The Discard",
+          "taxonomy": "place_the_appraisal_room.md"
+        },
+        {
+          "file": "piece_the_finding_aid.md",
+          "kind": "piece",
+          "title": "The Finding Aid",
+          "taxonomy": "place_the_reading_room.md"
+        },
+        {
+          "file": "piece_the_schedule.md",
+          "kind": "piece",
+          "title": "The Schedule",
+          "taxonomy": "place_the_appraisal_room.md"
+        },
+        {
+          "file": "pitch_what_the_box_would_have_said.md",
+          "kind": "pitch",
+          "title": "What the Box Would Have Said",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "place_the_appraisal_room.md",
+          "kind": "place",
+          "title": "The Appraisal Room",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "place_the_reading_room.md",
+          "kind": "place",
+          "title": "The Reading Room",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "plan_ask_the_record.md",
+          "kind": "plan",
+          "title": "Ask the Record",
+          "taxonomy": "persona_the_researcher.md"
+        },
+        {
+          "file": "plan_keep_what_will_be_used.md",
+          "kind": "plan",
+          "title": "Keep What Will Be Used",
+          "taxonomy": "persona_the_archivist.md"
+        },
+        {
+          "file": "plan_make_it_findable.md",
+          "kind": "plan",
+          "title": "Make It Findable",
+          "taxonomy": "persona_the_cataloguer.md"
+        },
+        {
+          "file": "play_kept_for_the_questions_we_had.md",
+          "kind": "play",
+          "title": "Kept for the Questions We Had"
+        },
+        {
+          "file": "plot_and_the_criterion_is_a_photograph_of_the_present.md",
+          "kind": "plot",
+          "title": "And the Criterion Is a Photograph of the Present",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "plot_and_the_gap_does_not_announce_itself.md",
+          "kind": "plot",
+          "title": "And the Gap Does Not Announce Itself",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "plot_everything_cannot_be_kept.md",
+          "kind": "plot",
+          "title": "Everything Cannot Be Kept",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "plot_so_a_criterion_is_written_down.md",
+          "kind": "plot",
+          "title": "So a Criterion Is Written Down",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "plot_the_discard_is_not_recoverable.md",
+          "kind": "plot",
+          "title": "The Discard Is Not Recoverable",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "plot_the_record_improves_by_every_check_available.md",
+          "kind": "plot",
+          "title": "The Record Improves by Every Check Available",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "position_archivist.md",
+          "kind": "position",
+          "title": "Archivist",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "position_cataloguer.md",
+          "kind": "position",
+          "title": "Cataloguer",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "position_latecomer.md",
+          "kind": "position",
+          "title": "Latecomer",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "position_researcher.md",
+          "kind": "position",
+          "title": "Researcher",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "position_successor.md",
+          "kind": "position",
+          "title": "Successor",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "process_appraising_the_accession.md",
+          "kind": "process",
+          "title": "Appraising the Accession",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "process_asking_the_record.md",
+          "kind": "process",
+          "title": "Asking the Record",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "process_describing_what_is_kept.md",
+          "kind": "process",
+          "title": "Describing What Is Kept",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
+        },
+        {
+          "file": "process_destroying_the_rest.md",
+          "kind": "process",
+          "title": "Destroying the Rest",
+          "taxonomy": "play_kept_for_the_questions_we_had.md"
         }
       ]
     },
