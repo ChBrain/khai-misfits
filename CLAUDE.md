@@ -42,7 +42,12 @@ opening it:
   records reversals. Take the next misfit from the top of it, strike what you
   stage, and **write your discards back into it** so the next author does not
   re-derive them. A candidate chosen from memory rather than from this plan is a
-  guess.
+  guess. The file is `shared` in `branchScope`, so **the strike rides the lane of
+  the change that earns it**: a misfit strikes its own line in its own pull
+  request, exactly as it carries its own `REFERENCES.md` row. It was governance
+  until a gate demanded a strike the misfit lane could not make, which is the
+  general shape worth keeping: a rule that cannot be obeyed from the branch it is
+  read on is a rule about the branch, not about the author.
 - [Cut to Fit](management/plan_cut_to_fit.md) is the authoring standard below.
 - [`management/orders/**`](management/orders) records scouting passes and the
   reading of their failures.
