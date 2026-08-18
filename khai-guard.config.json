@@ -25,12 +25,15 @@
       "SECURITY.md",
       "registry.json",
       "docs/SCIENCE.md",
-      "REFERENCES.md",
-      "management/plan_fill_the_season.md"
+      "REFERENCES.md"
     ],
     "riders": [
       {
         "pattern": "management/orders/**",
+        "fallback": "governance"
+      },
+      {
+        "pattern": "management/plan_fill_the_season.md",
         "fallback": "governance"
       }
     ],
