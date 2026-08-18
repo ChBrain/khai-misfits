@@ -4478,3 +4478,52 @@ kept as a row**: it is real, peer-reviewed and large, nearly three hundred thous
 an ontogenetic decline within individuals; it is contested on its empirical decisions and statistics besides.
 Two different claims wearing one sentence is the failure mode to watch for in any brief that mixes a
 longitudinal design with a cross-sectional one.
+
+**A brief triaged at two hundred and sixty four, on male flight from higher education.** The second brief in
+a row whose headline framing has to be struck and whose usable material survives underneath it, which is now
+a pattern worth expecting rather than a coincidence. The outcome here is not a new play at all, and that is
+the finding: **three of the four moves in the authoring table are not "build one", and this brief lands on the
+third.**
+
+The tipping half **is The Sort**, in a new domain. The brief reaches for white flight as its analogy, and
+white flight is the phenomenon Schelling's model was written about, so mild individual preferences over
+composition producing complete sorting is not a mechanism the house lacks: it is the incumbent, and the
+occupational case is the same engine on a different substrate. So the move is the authoring table's third
+row, extend the warrant with an Origin row and cast nothing.
+
+- [ ] [P1] Extend **The Sort**'s warrant with Anne E. Lincoln, "The Shifting Supply of Men and Women to Occupations: Feminization in Veterinary Education" (Social Forces, 2010), which takes the tipping model out of neighbourhoods and into occupational choice on the veterinary applicant pool of 1975 to 1995; a misfit-lane change to `misfits/the_sort/REFERENCE.md` and no cast, since a mechanism shown in two domains is worth more to the incumbent than a second play would be worth to the house; **cite her three factors and not one**, since the brief compresses her to "the number of women in the classroom" and her paper gives the 1972 federal amendment ending discrimination against female students, the deterrence of male applicants, and the rising supply of women earning bachelor's degrees, of which the third is a supply-side fact that would produce much of the pattern with no preference over composition at all, so citing her while dropping two thirds of her finding is the move the brief accuses others of making
+
+Struck. **The framing is struck, for the reason the divergent-thinking brief's was**: "avoid the feminine"
+names a disposition, a culprit and a victim, and a play built on it would be describing a wrong rather than a
+structure. That is a rule about what the house can stage and not a verdict on whether the claim is true, and
+the distinction is worth keeping crisp, since the strike would be identical if the claim were established
+beyond argument.
+
+**The devaluation half is struck as a spine and is stronger than expected.** Levanon, England and Allison,
+"Occupational Feminization and Pay" (Social Forces, 2009), run fixed-effects models on 1950 to 2000 census
+data and find substantial evidence for devaluation, that feminisation lowers pay, and only scant evidence for
+the queuing view that low pay draws women in. So the arrow the brief draws is the one the best longitudinal
+test supports, which was not the expectation going in and is recorded here because the register is worth more
+when it writes down the times a scepticism did not survive contact. It is still not a misfit: the mechanism
+needs an evaluator whose valuation responds to who does the work, which is a bias with an agent however
+diffuse it is, and the nearest thing the house holds is The Proxy. A play here would need a villain or would
+have to pretend it did not have one.
+
+Struck as already staged, the rest of the brief's machinery: herding on an observed choice is Information
+Cascade; the coordination problem underneath is The Stag Hunt; the credential as a sorting signal is Too Dear
+to Fake; and the compounding of an early advantage is The Head Start.
+
+Held, with the cut written, and it is the only un-staged shape in the brief. **The recruitment that broadcasts
+the composition**: an institution watching one group's enrolment fall has one lever, which is to recruit that
+group, and any visible attempt to pull it publishes the composition that is deterring them, so the remedy
+announces the condition it is meant to cure. The shape is very close to The Fix Tells Them Where, where the
+repair is identical to a description of the flaw, with different objects. It is held because **no literature
+was found for it**, and a misfit resting on a shape the author noticed rather than on a body of work is the
+thing the Land and Jarman strike was written about a day earlier. It returns if the recruitment-signal bind is
+demonstrated somewhere.
+
+And a note on the surname scan, which is now run before every candidate. `Lincoln` and `England` both returned
+hits in the index and **neither is a scholar**: the first is the Lincoln Institute in The Only Basket's Source
+cell and the second is the New England Journal of Medicine in four separate warrants. The scan reads the cell,
+so a publisher or a journal named after a person or a place looks exactly like a scholar. It costs one look
+each and it is worth writing down, because a scan whose hits are institutions trains the reader to skim it.
