@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.270.0",
+  "version": "0.271.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -12032,6 +12032,198 @@
           "kind": "process",
           "title": "Signalling",
           "taxonomy": "play_information_cascade.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "it_has_to_start_somewhere",
+      "title": "It Has to Start Somewhere",
+      "description": "Every form has to start in some state, no state is neutral, and the state moves what people choose.",
+      "members": [
+        {
+          "file": "persona_the_analyst.md",
+          "kind": "persona",
+          "title": "The Analyst",
+          "type": "archetype",
+          "taxonomy": "position_analyst.md"
+        },
+        {
+          "file": "persona_the_chooser.md",
+          "kind": "persona",
+          "title": "The Chooser",
+          "type": "archetype",
+          "taxonomy": "position_chooser.md"
+        },
+        {
+          "file": "persona_the_legislator.md",
+          "kind": "persona",
+          "title": "The Legislator",
+          "type": "archetype",
+          "taxonomy": "position_legislator.md"
+        },
+        {
+          "file": "persona_the_reformer.md",
+          "kind": "persona",
+          "title": "The Reformer",
+          "type": "archetype",
+          "taxonomy": "position_reformer.md"
+        },
+        {
+          "file": "persona_the_registrar.md",
+          "kind": "persona",
+          "title": "The Registrar",
+          "type": "archetype",
+          "taxonomy": "position_registrar.md"
+        },
+        {
+          "file": "piece_the_blank_form.md",
+          "kind": "piece",
+          "title": "The Blank Form",
+          "taxonomy": "place_the_drafting_table.md"
+        },
+        {
+          "file": "piece_the_order_of_the_options.md",
+          "kind": "piece",
+          "title": "The Order of the Options",
+          "taxonomy": "place_the_drafting_table.md"
+        },
+        {
+          "file": "piece_the_take_up_rate.md",
+          "kind": "piece",
+          "title": "The Take-Up Rate",
+          "taxonomy": "place_the_counter.md"
+        },
+        {
+          "file": "pitch_before_anybody_arrives.md",
+          "kind": "pitch",
+          "title": "Before Anybody Arrives",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "place_the_counter.md",
+          "kind": "place",
+          "title": "The Counter",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "place_the_drafting_table.md",
+          "kind": "place",
+          "title": "The Drafting Table",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "plan_get_through_it.md",
+          "kind": "plan",
+          "title": "Get Through It",
+          "taxonomy": "persona_the_chooser.md"
+        },
+        {
+          "file": "plan_issue_the_form.md",
+          "kind": "plan",
+          "title": "Issue the Form",
+          "taxonomy": "persona_the_registrar.md"
+        },
+        {
+          "file": "plan_make_them_choose.md",
+          "kind": "plan",
+          "title": "Make Them Choose",
+          "taxonomy": "persona_the_reformer.md"
+        },
+        {
+          "file": "play_it_has_to_start_somewhere.md",
+          "kind": "play",
+          "title": "It Has to Start Somewhere"
+        },
+        {
+          "file": "plot_and_every_value_steers.md",
+          "kind": "plot",
+          "title": "And Every Value Steers",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "plot_and_the_evidence_came_from_the_last_setting.md",
+          "kind": "plot",
+          "title": "And the Evidence Came from the Last Setting",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "plot_making_them_choose_is_also_a_design.md",
+          "kind": "plot",
+          "title": "Making Them Choose Is Also a Design",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "plot_the_chooser_is_not_deceived.md",
+          "kind": "plot",
+          "title": "The Chooser Is Not Deceived",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "plot_the_order_is_a_setting_too.md",
+          "kind": "plot",
+          "title": "The Order Is a Setting Too",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "plot_the_state_has_to_have_a_value.md",
+          "kind": "plot",
+          "title": "The State Has to Have a Value",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "position_analyst.md",
+          "kind": "position",
+          "title": "Analyst",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "position_chooser.md",
+          "kind": "position",
+          "title": "Chooser",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "position_legislator.md",
+          "kind": "position",
+          "title": "Legislator",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "position_reformer.md",
+          "kind": "position",
+          "title": "Reformer",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "position_registrar.md",
+          "kind": "position",
+          "title": "Registrar",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "process_filling_it_in.md",
+          "kind": "process",
+          "title": "Filling It In",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "process_forcing_the_choice.md",
+          "kind": "process",
+          "title": "Forcing the Choice",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "process_measuring_what_people_want.md",
+          "kind": "process",
+          "title": "Measuring What People Want",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
+        },
+        {
+          "file": "process_setting_the_initial_state.md",
+          "kind": "process",
+          "title": "Setting the Initial State",
+          "taxonomy": "play_it_has_to_start_somewhere.md"
         }
       ]
     },
