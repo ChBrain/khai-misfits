@@ -147,7 +147,15 @@ Two moves fix a hit, and which one depends on the cause: write the given name
 into the Origin table's Source cell when the citation names no given name at
 all, which rides the misfit's own lane, or add the form to
 `scholarPolicy.homonyms` when the house has met a namesake it has not declared,
-which is governance. **A dedup that stops at the surname is not a dedup.** Four
+which is governance. **But a surname hit has three readings and only two of them
+are namesakes.** It may be the same person on another work, which is expected,
+is most of the index, and owes nothing: declaring a homonym there is the error,
+since it splits one person across two keys and defeats the wall. It may be two
+people, which is the case above. Or it is two people on one work, which cannot
+happen and would be a shared-work finding if it did. So the scan locates a cell
+to read and never decides by itself. An Angle and a Count hit two surnames and
+only one was a namesake: the house's Kamp coined bikeshedding and also wrote the
+leap second's practitioner argument, one scholar across two works. **A dedup that stops at the surname is not a dedup.** Four
 surname collisions turned up in two consecutive research passes and every one
 would have struck a good candidate: the house's Kessler is Daniel and Friedrich
 and not Donald, its Pauly is Mark and not Daniel, its Pierce is W. David and not
