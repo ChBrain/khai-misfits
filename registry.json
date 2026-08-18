@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.268.0",
+  "version": "0.269.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -1880,6 +1880,198 @@
           "kind": "process",
           "title": "Weighing Light",
           "taxonomy": "play_already_explained.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "an_angle_and_a_count",
+      "title": "An Angle and a Count",
+      "description": "Civil time must be the Earth's angle and a uniform count of seconds at once, and those are not one thing.",
+      "members": [
+        {
+          "file": "persona_the_delegate.md",
+          "kind": "persona",
+          "title": "The Delegate",
+          "type": "archetype",
+          "taxonomy": "position_delegate.md"
+        },
+        {
+          "file": "persona_the_navigator.md",
+          "kind": "persona",
+          "title": "The Navigator",
+          "type": "archetype",
+          "taxonomy": "position_navigator.md"
+        },
+        {
+          "file": "persona_the_operator.md",
+          "kind": "persona",
+          "title": "The Operator",
+          "type": "archetype",
+          "taxonomy": "position_operator.md"
+        },
+        {
+          "file": "persona_the_scheduler.md",
+          "kind": "persona",
+          "title": "The Scheduler",
+          "type": "archetype",
+          "taxonomy": "position_scheduler.md"
+        },
+        {
+          "file": "persona_the_timekeeper.md",
+          "kind": "persona",
+          "title": "The Timekeeper",
+          "type": "archetype",
+          "taxonomy": "position_timekeeper.md"
+        },
+        {
+          "file": "piece_the_extra_second.md",
+          "kind": "piece",
+          "title": "The Extra Second",
+          "taxonomy": "place_the_log.md"
+        },
+        {
+          "file": "piece_the_rotation.md",
+          "kind": "piece",
+          "title": "The Rotation",
+          "taxonomy": "place_the_bureau.md"
+        },
+        {
+          "file": "piece_the_second.md",
+          "kind": "piece",
+          "title": "The Second",
+          "taxonomy": "place_the_bureau.md"
+        },
+        {
+          "file": "pitch_ask_the_sun_ask_the_clock.md",
+          "kind": "pitch",
+          "title": "Ask the Sun, Ask the Clock",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "place_the_bureau.md",
+          "kind": "place",
+          "title": "The Bureau",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "place_the_log.md",
+          "kind": "place",
+          "title": "The Log",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "plan_know_where_the_earth_is.md",
+          "kind": "plan",
+          "title": "Know Where the Earth Is",
+          "taxonomy": "persona_the_navigator.md"
+        },
+        {
+          "file": "plan_publish_one_time.md",
+          "kind": "plan",
+          "title": "Publish One Time",
+          "taxonomy": "persona_the_timekeeper.md"
+        },
+        {
+          "file": "plan_subtract_two_times.md",
+          "kind": "plan",
+          "title": "Subtract Two Times",
+          "taxonomy": "persona_the_scheduler.md"
+        },
+        {
+          "file": "play_an_angle_and_a_count.md",
+          "kind": "play",
+          "title": "An Angle and a Count"
+        },
+        {
+          "file": "plot_and_the_count_was_assumed_to_be_a_count.md",
+          "kind": "plot",
+          "title": "And the Count Was Assumed to Be a Count",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "plot_both_requirements_are_real.md",
+          "kind": "plot",
+          "title": "Both Requirements Are Real",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "plot_every_remedy_pays_in_a_different_currency.md",
+          "kind": "plot",
+          "title": "Every Remedy Pays in a Different Currency",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "plot_so_the_extra_second_is_inserted.md",
+          "kind": "plot",
+          "title": "So the Extra Second Is Inserted",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "plot_the_earth_does_not_keep_a_steady_beat.md",
+          "kind": "plot",
+          "title": "The Earth Does Not Keep a Steady Beat",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "plot_the_second_cannot_bend.md",
+          "kind": "plot",
+          "title": "The Second Cannot Bend",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "position_delegate.md",
+          "kind": "position",
+          "title": "Delegate",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "position_navigator.md",
+          "kind": "position",
+          "title": "Navigator",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "position_operator.md",
+          "kind": "position",
+          "title": "Operator",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "position_scheduler.md",
+          "kind": "position",
+          "title": "Scheduler",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "position_timekeeper.md",
+          "kind": "position",
+          "title": "Timekeeper",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "process_inserting_the_second.md",
+          "kind": "process",
+          "title": "Inserting the Second",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "process_measuring_the_rotation.md",
+          "kind": "process",
+          "title": "Measuring the Rotation",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "process_smearing_the_second.md",
+          "kind": "process",
+          "title": "Smearing the Second",
+          "taxonomy": "play_an_angle_and_a_count.md"
+        },
+        {
+          "file": "process_subtracting_two_timestamps.md",
+          "kind": "process",
+          "title": "Subtracting Two Timestamps",
+          "taxonomy": "play_an_angle_and_a_count.md"
         }
       ]
     },
