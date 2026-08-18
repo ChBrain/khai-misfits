@@ -13,6 +13,8 @@ import {
   findUnresolvedNamesakes,
   buildReferences,
   checkCandidate,
+  findStagedButOpen,
+  slateLineConcept,
 } from "./science_overlap.mjs";
 
 // The cross-misfit warrant gate for the Misfits house. Every other gate is
@@ -284,6 +286,38 @@ describe("Misfits house: cross-misfit warrant gate", () => {
     ]) {
       expect(checkCandidate(spec).length, `--check "${spec}" must not clear`).toBeGreaterThan(0);
     }
+  });
+
+  it("no open slate line names a concept the house already holds", () => {
+    // The register cannot be generated, because a discard and its reason are
+    // judgements. This part of it can be checked: a slate line opens with its
+    // candidate's concept name, a staged misfit declares its concept in
+    // frontmatter, and an open line naming a concept in the house is a line
+    // somebody forgot to strike after staging it.
+    //
+    // A wall rather than an advisory, because a concept in the house makes the
+    // line stale with no reading required. The strike had lagged three times
+    // before this existed, and twice the response was a note telling the next
+    // author to try harder.
+    expect(findStagedButOpen()).toEqual([]);
+  });
+
+  it("the slate check reads a line the way the register writes one", () => {
+    // Recall is about a half: the line is written before the misfit exists and
+    // the concept is often renamed during authoring, which no key survives. So
+    // the check is pinned to what it can do rather than assumed to work, and
+    // "Extend" lines are skipped because they are supposed to name an incumbent.
+    expect(
+      slateLineConcept(
+        '- [ ] [P1] The Lucas Critique (Lucas, "Econometric Policy", 1976): a relation',
+      ),
+    ).toBe("the lucas critique");
+    expect(
+      slateLineConcept("- [ ] [P0] The Forecaster's Dilemma (Lerch et al): conditioning"),
+    ).toBe("the forecaster s dilemma");
+    expect(
+      slateLineConcept("- [ ] [P1] Extend **The Sort**'s warrant with Lincoln (2010)"),
+    ).toBeNull();
   });
 
   it("the pre-authoring check is loose and not useless", () => {

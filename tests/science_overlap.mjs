@@ -36,6 +36,8 @@
 //
 //   node tests/science_overlap.mjs                 the house report
 //   node tests/science_overlap.mjs --json          the same, machine-readable
+//   node tests/science_overlap.mjs --slate         open register lines naming a
+//                                                 concept the house already holds
 //   node tests/science_overlap.mjs --check "Deci :: Effects of Externally"
 //                                                 does this spine already anchor
 //                                                 a misfit? ask before authoring.
@@ -312,6 +314,13 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       );
     process.exit(0);
   }
+  if (args.includes("--slate")) {
+    const stale = findStagedButOpen();
+    if (!stale.length) console.log("slate: no open line names a concept the house already holds.");
+    for (const x of stale)
+      console.log(`STALE   "${x.concept}" is staged as ${x.misfit}: strike the line.`);
+    process.exit(0);
+  }
   if (args.includes("--build-refs")) {
     fs.writeFileSync(join(ROOT, "REFERENCES.md"), buildReferences());
     console.log("REFERENCES.md rebuilt from the warrants");
@@ -527,6 +536,59 @@ export function findUnresolvedNamesakes(root = ROOT) {
       work: r.work.replace(/<br>[\s\S]*$/, "").trim(),
     }))
     .sort((a, b) => a.scholar.localeCompare(b.scholar) || a.misfit.localeCompare(b.misfit));
+}
+
+// A slate line for a concept the house already holds.
+//
+// The rule in CLAUDE.md is one line long: take the next misfit from the top of
+// the register and **strike what you stage**. The second half is the half that
+// gets skipped, every time, because striking is the only step in the sequence
+// that produces nothing. It has now been skipped three times, and twice the
+// response was a prose note telling the next author to try harder, which is what
+// a house writes when it has not worked out how to compute something.
+//
+// An unstruck line is not a neutral omission. The register is the authoring
+// memory and the next author trusts it, so a line left open is a live
+// instruction to build something that already exists.
+//
+// The register itself cannot be generated: a discard and its reason are
+// judgements, and no inversion of a warrant supplies them. This part of it can
+// be checked. A slate line opens with the candidate's concept name, and a
+// staged misfit declares its concept in frontmatter, so a line whose name
+// matches a concept in the house is a line that should have been struck.
+//
+// **It catches about half, and the half it misses is worth knowing.** A line is
+// written before the misfit exists, and the concept is often renamed during
+// authoring once the cut is settled: "The Lucas Critique" stayed and was caught,
+// "Certification Requires Individuation" became "Certification and the
+// Attribution Requirement" and was not. No key fixes that, because the drift is
+// the author changing their mind, which is the thing authoring is for. What the
+// check has instead is **no false positives**: if the concept is in the house,
+// the line is stale, so it can be a wall rather than an advisory.
+//
+// Lines that begin "Extend" are skipped, since those direct an Origin row onto
+// an incumbent and are supposed to name a concept the house holds.
+export function slateLineConcept(line) {
+  const body = line.replace(/^-\s*\[\s?\]\s*(\[P\d\]\s*)?/, "");
+  if (/^Extend\b/i.test(body)) return null;
+  return normaliseWork(body.split(/\s*[(:]/)[0]);
+}
+
+export function findStagedButOpen(root = ROOT) {
+  const heads = new Map();
+  for (const dir of fs.readdirSync(join(root, "misfits"))) {
+    const src = fs.readFileSync(join(root, "misfits", dir, "REFERENCE.md"), "utf8");
+    const concept = (src.match(/^concept:\s*"(.+?)"$/m) || [])[1];
+    if (concept) heads.set(normaliseWork(concept.split(" (")[0]), dir);
+  }
+  const register = fs.readFileSync(join(root, "management", "plan_fill_the_season.md"), "utf8");
+  const stale = [];
+  for (const line of register.split("\n")) {
+    if (!line.startsWith("- [ ]")) continue;
+    const head = slateLineConcept(line);
+    if (head && heads.has(head)) stale.push({ concept: head, misfit: heads.get(head) });
+  }
+  return stale.sort((a, b) => a.concept.localeCompare(b.concept));
 }
 
 // REFERENCES.md coverage. The house keeps two indexes and only one of them is
