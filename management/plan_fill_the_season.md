@@ -4625,3 +4625,33 @@ particular sitting. Striking is the only step in the sequence that produces noth
 lane from the work that earns it, and it competes with the next candidate at exactly the moment the next
 candidate is most interesting. Any one of those is survivable and the three together are not, which is why
 this needed a gate rather than a resolution.
+
+**The fourth sweep, run at two hundred and sixty seven with the slate at zero.** Same method: read the field
+distribution across every warrant, then look past every field it covers rather than deeper into the covered
+ones. The distribution stands at 65 measurement and cognition, 55 markets, 37 safety and risk, 30
+organisations, 28 collective action, 27 ecology and public health, 20 groups and candour, 5 Senge archetypes.
+The third sweep listed eight fields with no misfit in them at all; three of those have since been staged, and
+the ones still empty are geology, library science, sport, audit and art conservation. Three candidates survive,
+one is held, and the strikes are recorded.
+
+- [ ] [P0] The Hirshleifer Effect in Insurance (Hirshleifer, "The Private and Social Value of Information and the Reward to Inventive Activity", American Economic Review, 1971; Arrow, 1963, which the house already carries as canon in Moral Hazard and may therefore be cited): insurance is the sale of a pooled ignorance, so a risk everybody can measure precisely is a risk nobody needs to pool, and each improvement in the precision of measurement removes some of what there was to insure; the party who wanted the test wanted it for good reasons, the insurer who prices on it is doing its job, and the casualty is the person whose risk is now known and high, who is uninsurable for a fact about themselves that no conduct of theirs produced; to be cut hard to the **symmetric** case, where the information is available to both sides and the pool dissolves anyway, and never to a story about an insurer hiding behind a test; **named clear of The Market for Lemons**, which is the nearest incumbent and stages the asymmetric case, the seller knowing what the buyer does not, and which carries Rothschild and Stiglitz's spine so that work is unavailable here, a constraint that sharpens the boundary rather than weakening the candidate; the costly remedy is a legal bar on using the information, which works, is in force in several countries, and reintroduces the asymmetry the incumbent stages, so the two misfits are the two halves of one bind and should say so; flagged that the axis must not be `risk-pool-members`, which Onto the Survivors declares with a positive sign, since the quantity here is the precision of the measurement rather than the size of the pool
+- [ ] [P1] The Two Requirements on Civil Time (the leap second; the ITU debate and the 2022 decision to abandon leap seconds by 2035; the smear as practised): civil time must track the rotation of the Earth, which is irregular and slowing unevenly, and must also be a uniform count with no discontinuities in it, because that is what every computer and every interval measurement needs; both requirements are correct, they are incompatible in principle, and one quantity has to satisfy both; to be cut to that incompatibility and never to a complaint about standards bodies, with the remedies carried at their real prices, since the leap second breaks software that assumed monotonic time, abandoning it lets civil noon drift from the sun forever, and smearing the second across a day makes a second briefly not a second; named clear of Exactly One Kilogram, where the object defining a unit cannot by construction be wrong so the drift is undetectable from inside, while here nothing drifts undetected and the difficulty is that two requirements are both known and both binding, and of Both Take the Crown, whose CAP result forces a choice among three properties during a partition, where this is two properties in permanent conflict with no partition and no event to trigger it
+- [ ] [P1] Archival Appraisal (Schellenberg, Modern Archives, 1956; Jenkinson; the appraisal-theory literature after Cook and Booms): an archivist must select, because keeping everything makes nothing findable and cataloguing is the binding cost rather than storage, and the criterion available is a description of what present researchers ask, applied to a record every future question will have to be asked of; the selection is irreversible, and the error is structurally invisible, since nobody ever learns what the discarded box would have answered; to be cut to the deliberate criterion and its invisible counterfactual, and named clear of The Survivors, whose sample is thinned by **passive** attrition nobody chose, where here somebody chooses, by stated criteria, in good faith, and the record is better for it in every way anybody can check
+
+Held, with the cut written. **Mandatory auditor rotation**, where the independence that makes an audit
+trustworthy is bought by removing the client-specific knowledge that makes it competent, is held not against a
+single incumbent but against a **shape the house has just taken three times**: Ready on the First Day, Marked
+the Same by Anyone and One Name on the Paper all stage one property whose two effects cannot be separated. A
+fourth on the same shape in one week would be a mould rather than a cut, which is what Cut to Fit forbids
+whatever the domain. It returns when the house has moved on, or when somebody finds the vector that is not
+one-property-two-effects.
+
+Struck before slating, the sweep's dedup catching each as already staged: talent identification in sport is The
+Proxy compounded by The Head Start, on the cutoff The Youngest in the Room already holds; the cadastral
+monument that legally is the boundary even when it has moved is Exactly One Kilogram's object that cannot be
+wrong; restoration that removes the evidence of an object's history is Held Still to Keep It; rare harms
+findable only after approval at scale are Nothing Known Against It's absence of data read as clearance; and the
+paleoseismic record shorter than the recurrence interval it estimates is As Full As I Remember's series whose
+zero is already a reduced state. Induced seismicity was examined for the second sweep running and dropped again
+for want of a clean no-villain cut, which is now worth recording as a probable dead end rather than a
+recurring maybe.
