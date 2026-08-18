@@ -4738,3 +4738,18 @@ to both sides is not on the held shape. **Ask what is left when the two effects 
 
 The pass also turned up a live undeclared namesake with a silent failure in it, recorded with the declaration
 that follows.
+
+**Cook and Greene declared, and the quiet direction found at last.** Kept for the Questions We Had brought Terry
+Cook against the house's Richard, and Mark Greene against a **Greene that was already two people**: David the
+psychologist in A Reason Too Many and Paid to Stop Caring, and David L the transport economist in Jevons
+Paradox. That pair had sat undeclared and invisible, which is the safe direction and cost nothing, but writing
+the declaration exposed something that is not safe. The build resolves a cell to the **first** declared form
+matching `given === form` or `given.startsWith(form + " ")`, so `["David", "David L"]` keys `David L Greene` as
+`Greene (David)` and merges two people, while `["David L", "David"]` is correct. Both orderings pass the
+namesake wall, because under the wrong one nothing is left bare: every cell resolves, to the wrong person.
+
+That is the failure the whole namesake apparatus exists to prevent, arriving through the apparatus itself, so
+it now has a wall of its own and a `--forms` mode beside it. The general shape is worth more than the fix: **a
+gate that reports a clean count is evidence about the question it asks and about nothing else.** The namesake
+wall asks whether an occurrence is unresolved. It was never asked whether a resolution is the right one, and it
+answered zero either way for as long as it has existed.

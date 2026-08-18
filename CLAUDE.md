@@ -173,6 +173,23 @@ of unresolved occurrences suggests. Declared forms carry no full stops, since th
 build strips `[.,]` from the Source cell and not from the form, so `W David` and
 `Edward M` are written bare.
 
+**And a declared form can be unreachable, which nothing else catches.** The build
+resolves a citation to the **first** declared form matching `given === form` or
+`given.startsWith(form + " ")`. The prefix arm is deliberate and cannot go: it is
+what lets one declared `James` absorb a cell written `James M Buchanan`. But
+where one form is a space-prefix of another, the **array order decides the
+answer**. `Greene` carries three people, David the psychologist, David L the
+transport economist and Mark the archivist, and written
+`["David", "David L", "Mark"]` it keys `David L Greene` as `Greene (David)`,
+merging two of them. The namesake wall cannot see it, because under the wrong
+order nothing is left bare: every cell resolves, to the wrong person. So it is
+its own wall, and the fix is always a reordering and never a deletion, longest
+form first.
+
+```
+node tests/science_overlap.mjs --forms       # declared forms, and any left unreachable
+```
+
 **And a rare surname is not a safe one.** The heuristic above says a common
 surname is more likely than not to be taken already, which is true and is the
 reason to run the full `"Scholar :: Work"` string. It does not run the other way.
