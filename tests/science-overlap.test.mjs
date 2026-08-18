@@ -15,6 +15,7 @@ import {
   checkCandidate,
   findStagedButOpen,
   slateLineConcept,
+  findShadowedForms,
 } from "./science_overlap.mjs";
 
 // The cross-misfit warrant gate for the Misfits house. Every other gate is
@@ -300,6 +301,18 @@ describe("Misfits house: cross-misfit warrant gate", () => {
     // before this existed, and twice the response was a note telling the next
     // author to try harder.
     expect(findStagedButOpen()).toEqual([]);
+  });
+
+  it("no declared form is unreachable behind a form it starts with", () => {
+    // scholarKey takes the FIRST declared form matching `given === form ||
+    // given.startsWith(form + " ")`, so where one form is a space-prefix of
+    // another the array order decides the answer. ["David", "David L"] keys a
+    // cell written "David L Greene" as Greene (David) and merges two people.
+    //
+    // A wall, and the quiet direction is why: the namesake check asks whether
+    // any occurrence is left bare, and under the wrong order none is. Every
+    // cell resolves, to the wrong person. The fix is always a reordering.
+    expect(findShadowedForms()).toEqual([]);
   });
 
   it("the slate check reads a line the way the register writes one", () => {

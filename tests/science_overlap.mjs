@@ -338,6 +338,18 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       );
     process.exit(0);
   }
+  if (args.includes("--forms")) {
+    const shadowed = findShadowedForms();
+    const homonyms = scholarHomonyms();
+    console.log(
+      `${Object.keys(homonyms).length} declared surname(s); ${shadowed.length} unreachable form(s).`,
+    );
+    for (const s of shadowed)
+      console.log(
+        `  ${s.surname} (${s.form}) is unreachable: "${s.shadowedBy}" is listed first and matches it.\n     move "${s.form}" before "${s.shadowedBy}".`,
+      );
+    process.exit(0);
+  }
   if (args.includes("--families")) {
     for (const f of canonFamilies()) {
       const marked = f.misfits.map((d) => (f.declared.includes(d) ? d : d + " (no axis)"));
@@ -679,4 +691,33 @@ export function buildReferences(root = ROOT) {
     ].join("\n");
   });
   return head + blocks.join("\n") + tail;
+}
+
+// A declared form can be **unreachable**, and the namesake wall cannot see it.
+//
+// `scholarKey` in the science build resolves a citation to a declared form with
+// `given === form || given.startsWith(form + " ")`, taking the **first** form in
+// the array that matches. The prefix arm is deliberate and is what lets one
+// declared "James" absorb a cell written "James M Buchanan", so it cannot be
+// removed. But where one declared form is a space-prefix of another, the array
+// order decides the answer: `["David", "David L"]` keys a cell written
+// "David L Greene" as `Greene (David)`, silently merging two people, while
+// `["David L", "David"]` keys both correctly.
+//
+// Nothing else catches this. The namesake wall asks whether any occurrence is
+// left bare, and under the wrong order none is: every cell resolves, to the
+// wrong person. It is the quiet direction, so it gets a wall of its own, and a
+// narrow one: **a declared form may not be preceded by a form it starts with.**
+// The fix is always a reordering, never a deletion.
+export function findShadowedForms(root = ROOT) {
+  const shadowed = [];
+  for (const [surname, forms] of Object.entries(scholarHomonyms(root))) {
+    if (!Array.isArray(forms)) continue;
+    forms.forEach((form, j) => {
+      for (let i = 0; i < j; i++) {
+        if (form.startsWith(`${forms[i]} `)) shadowed.push({ surname, form, shadowedBy: forms[i] });
+      }
+    });
+  }
+  return shadowed.sort((a, b) => a.surname.localeCompare(b.surname));
 }
