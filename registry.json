@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.264.0",
+  "version": "0.265.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -14302,6 +14302,198 @@
           "kind": "process",
           "title": "Suppressing",
           "taxonomy": "play_loudest_when_hushed.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "marked_the_same_by_anyone",
+      "title": "Marked the Same by Anyone",
+      "description": "A mark must survive a second marker to be fair, and what two markers agree on is not what was worth judging.",
+      "members": [
+        {
+          "file": "persona_the_candidate.md",
+          "kind": "persona",
+          "title": "The Candidate",
+          "type": "archetype",
+          "taxonomy": "position_candidate.md"
+        },
+        {
+          "file": "persona_the_examiner.md",
+          "kind": "persona",
+          "title": "The Examiner",
+          "type": "archetype",
+          "taxonomy": "position_examiner.md"
+        },
+        {
+          "file": "persona_the_marker.md",
+          "kind": "persona",
+          "title": "The Marker",
+          "type": "archetype",
+          "taxonomy": "position_marker.md"
+        },
+        {
+          "file": "persona_the_norm_sample.md",
+          "kind": "persona",
+          "title": "The Norm Sample",
+          "type": "archetype",
+          "taxonomy": "position_norm_sample.md"
+        },
+        {
+          "file": "persona_the_second_marker.md",
+          "kind": "persona",
+          "title": "The Second Marker",
+          "type": "archetype",
+          "taxonomy": "position_second_marker.md"
+        },
+        {
+          "file": "piece_the_ceiling.md",
+          "kind": "piece",
+          "title": "The Ceiling",
+          "taxonomy": "place_the_marking_room.md"
+        },
+        {
+          "file": "piece_the_rubric.md",
+          "kind": "piece",
+          "title": "The Rubric",
+          "taxonomy": "place_the_marking_room.md"
+        },
+        {
+          "file": "piece_the_unusual_script.md",
+          "kind": "piece",
+          "title": "The Unusual Script",
+          "taxonomy": "place_the_marking_room.md"
+        },
+        {
+          "file": "pitch_two_markers_one_answer.md",
+          "kind": "pitch",
+          "title": "Two Markers, One Answer",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "place_the_appeal.md",
+          "kind": "place",
+          "title": "The Appeal",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "place_the_marking_room.md",
+          "kind": "place",
+          "title": "The Marking Room",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "plan_get_the_mark_changed.md",
+          "kind": "plan",
+          "title": "Get the Mark Changed",
+          "taxonomy": "persona_the_candidate.md"
+        },
+        {
+          "file": "plan_make_it_defensible.md",
+          "kind": "plan",
+          "title": "Make It Defensible",
+          "taxonomy": "persona_the_examiner.md"
+        },
+        {
+          "file": "plan_mark_it_right.md",
+          "kind": "plan",
+          "title": "Mark It Right",
+          "taxonomy": "persona_the_marker.md"
+        },
+        {
+          "file": "play_marked_the_same_by_anyone.md",
+          "kind": "play",
+          "title": "Marked the Same by Anyone"
+        },
+        {
+          "file": "plot_a_mark_has_to_survive_a_second_marker.md",
+          "kind": "plot",
+          "title": "A Mark Has to Survive a Second Marker",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "plot_and_the_rubric_buys_agreement_with_the_thing_it_was_measuring.md",
+          "kind": "plot",
+          "title": "And the Rubric Buys Agreement With the Thing It Was Measuring",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "plot_rare_is_markable_and_good_is_not.md",
+          "kind": "plot",
+          "title": "Rare Is Markable and Good Is Not",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "plot_reliability_is_a_ceiling_and_not_a_preference.md",
+          "kind": "plot",
+          "title": "Reliability Is a Ceiling and Not a Preference",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "plot_the_judgement_worth_having_is_the_one_they_split_on.md",
+          "kind": "plot",
+          "title": "The Judgement Worth Having Is the One They Split On",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "plot_the_protection_is_the_appeal.md",
+          "kind": "plot",
+          "title": "The Protection Is the Appeal",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "position_candidate.md",
+          "kind": "position",
+          "title": "Candidate",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "position_examiner.md",
+          "kind": "position",
+          "title": "Examiner",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "position_marker.md",
+          "kind": "position",
+          "title": "Marker",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "position_norm_sample.md",
+          "kind": "position",
+          "title": "Norm Sample",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "position_second_marker.md",
+          "kind": "position",
+          "title": "Second Marker",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "process_checking_the_second_marker.md",
+          "kind": "process",
+          "title": "Checking the Second Marker",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "process_hearing_the_appeal.md",
+          "kind": "process",
+          "title": "Hearing the Appeal",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "process_marking_to_the_rubric.md",
+          "kind": "process",
+          "title": "Marking to the Rubric",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
+        },
+        {
+          "file": "process_setting_the_paper.md",
+          "kind": "process",
+          "title": "Setting the Paper",
+          "taxonomy": "play_marked_the_same_by_anyone.md"
         }
       ]
     },
