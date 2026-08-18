@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 264 misfits, 1204 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 264 misfits, 1205 scholars.
 
 ## By science
 
@@ -874,6 +874,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | **Liebig** | `limits_to_growth` | The Law of the Minimum (agricultural chemistry, 1840s) | The binding factor: growth is governed by the scarcest necessary input, not the most abundant, so the constraint rules. The Limit. |
 | **Liebowitz** | `path_dependence` | "The Fable of the Keys", Journal of Law and Economics (1990); "Path Dependence, Lock-In, and History" (1995) <br><sub>Liebowitz & Margolis</sub> | The honest counter: QWERTY may not be inferior, and markets rarely lock into a truly remediable worse standard, so the parable overreaches. The Chronicler, the Inferior Standard. |
 | **Lin** | `anyone_can_see_it` | "The Bias Blind Spot: Perceptions of Bias in Self Versus Others" (Personality and Social Psychology Bulletin, 2002) <br><sub>Emily Pronin, Daniel Lin, Lee Ross</sub> | The one-way attribution: people readily see the influence of bias on others' judgements and deny it in their own, so the bias-read runs outward from each seat and is never turned inward. The Blind Spot. |
+| **Lincoln** | `the_sort` | "The Shifting Supply of Men and Women to Occupations: Feminization in Veterinary Education" (Social Forces, 2010) <br><sub>Anne E. Lincoln</sub> | The sort off a residential board and into a career: the veterinary applicant pool of 1975 to 1995 read as the same tipping dynamic working on occupational choice rather than on a neighbourhood, where applicants respond to the composition they observe and the response reshapes it, the mechanism shown to run on a substrate with no streets in it. Carried with the paper's own three factors, the 1972 federal amendment ending discrimination against female students, the deterrence of applicants by an observed composition, and the rising supply of women earning bachelor's degrees, of which only the second is this misfit's mechanism: the first is a barrier removed and the third a supply of entrants, and both would move the numbers with no preference over composition running at all. The Threshold, The Mix. |
 | **Liou** | `nobody_has_to_launch_again` | "A sensitivity study of the effectiveness of active debris removal in LEO" (Acta Astronautica, 2009) <br><sub>J.-C. Liou & Nicholas L. Johnson</sub> | The remedy, and its size: removal of a small number of large derelicts each year modelled as enough to hold the population steady, which establishes the repair as feasible in principle and continuous in practice. |
 | ↳ | `nobody_has_to_launch_again` | "Risks in Space from Orbiting Debris" (Science, 2006) <br><sub>J.-C. Liou & Nicholas L. Johnson</sub> | The finding the play turns on: simulations in which the debris population in low Earth orbit continues to grow even under an immediate halt to all launches, which is what removes the users from the mechanism. |
 | ↳ | `nobody_has_to_launch_again` | "The Kessler Syndrome: Implications to Future Space Operations" (Advances in the Astronautical Sciences, 2010) <br><sub>Donald J. Kessler, Nicholas L. Johnson, J.-C. Liou & Mark Matney</sub> | The restatement, thirty years on: the mechanism revisited against the observed population, including what the intervening decades changed and what they did not. |
@@ -1718,7 +1719,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `bred_for_the_ark` | The mechanism; Why it transfers badly; The dependence on time held; What management can and cannot do; The habitat meanwhile |
 | `bug_for_bug` | The law of the thing; Why the contract cannot help; The compliant implementation's problem; The specification rewritten to reality; The permanent second road |
 | `built_before_the_rule` | Prospective codes and grandfathering; The substantial improvement threshold; The deterrent effect; The known hazard; The mandate that reaches it |
-| `chasing_the_price` | Mordecai Ezekiel; Nicholas Kaldor; Arthur Hanau; Marc Nerlove; John F. Muth |
+| `chasing_the_price` | Mordecai Ezekiel; Nicholas Kaldor; Arthur Hanau; Marc Nerlove; John F. Muth; The veterinary workforce record |
 | `cheaper_not_to_know` | Anthony Downs; Ilya Somin; Practitioner |
 | `chestertons_fence` | Chesterton; Merton; Polanyi; Hayek; Burke; Practitioner |
 | `clear_from_here` | Baruch Fischhoff; Baruch Fischhoff, Ruth Beyth; Jonathan Baron, John Hershey; Practitioner |
@@ -1917,7 +1918,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `the_simpler_lever` | W. Ross Ashby; W. Ross Ashby; Conant & Ashby; Stafford Beer; Boundary of the effect |
 | `the_skill_to_see_it` | Kruger & Dunning; Ehrlinger et al.; Dunning; Krueger & Mueller; Gignac & Zajenkowski |
 | `the_sole_supplier` | William Niskanen; Gordon Tullock; Jean-Luc Migue, Gerard Belanger; Anthony Downs; Andre Blais, Stephane Dion (critique); Practitioner |
-| `the_sort` | Thomas C. Schelling; Morton Grodzins; James M. Sakoda; Mark Granovetter; W. A. V. Clark |
+| `the_sort` | Thomas C. Schelling; Morton Grodzins; James M. Sakoda; Mark Granovetter; W. A. V. Clark; Anne E. Lincoln |
 | `the_spent_margin` | Sam Peltzman; Gerald J. S. Wilde; John Adams; Aschenbrenner & Biehl; Crandall & Graham; Robertson |
 | `the_stag_hunt` | Rousseau; Skyrms; Harsanyi and Selten; Nash; Sen; Practitioner |
 | `the_straight_rows` | James C. Scott; Detienne & Vernant; Friedrich Hayek; Jane Jacobs; Henry Lowood |
