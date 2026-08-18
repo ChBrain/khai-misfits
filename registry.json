@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.265.0",
+  "version": "0.266.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -21103,6 +21103,198 @@
           "kind": "process",
           "title": "Shunning",
           "taxonomy": "play_once_bitten.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "one_name_on_the_paper",
+      "title": "One Name on the Paper",
+      "description": "A certificate vouches for one person, so the way work is really done must be forbidden while it is measured.",
+      "members": [
+        {
+          "file": "persona_the_awarder.md",
+          "kind": "persona",
+          "title": "The Awarder",
+          "type": "archetype",
+          "taxonomy": "position_awarder.md"
+        },
+        {
+          "file": "persona_the_candidate.md",
+          "kind": "persona",
+          "title": "The Candidate",
+          "type": "archetype",
+          "taxonomy": "position_candidate.md"
+        },
+        {
+          "file": "persona_the_employer.md",
+          "kind": "persona",
+          "title": "The Employer",
+          "type": "archetype",
+          "taxonomy": "position_employer.md"
+        },
+        {
+          "file": "persona_the_peer_rater.md",
+          "kind": "persona",
+          "title": "The Peer Rater",
+          "type": "archetype",
+          "taxonomy": "position_peer_rater.md"
+        },
+        {
+          "file": "persona_the_team.md",
+          "kind": "persona",
+          "title": "The Team",
+          "type": "archetype",
+          "taxonomy": "position_team.md"
+        },
+        {
+          "file": "piece_the_certificate.md",
+          "kind": "piece",
+          "title": "The Certificate",
+          "taxonomy": "place_the_hall.md"
+        },
+        {
+          "file": "piece_the_coupling.md",
+          "kind": "piece",
+          "title": "The Coupling",
+          "taxonomy": "place_the_project.md"
+        },
+        {
+          "file": "piece_the_weighting.md",
+          "kind": "piece",
+          "title": "The Weighting",
+          "taxonomy": "place_the_project.md"
+        },
+        {
+          "file": "pitch_do_your_own_work.md",
+          "kind": "pitch",
+          "title": "Do Your Own Work",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "place_the_hall.md",
+          "kind": "place",
+          "title": "The Hall",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "place_the_project.md",
+          "kind": "place",
+          "title": "The Project",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "plan_certify_somebody.md",
+          "kind": "plan",
+          "title": "Certify Somebody",
+          "taxonomy": "persona_the_awarder.md"
+        },
+        {
+          "file": "plan_get_the_certificate.md",
+          "kind": "plan",
+          "title": "Get the Certificate",
+          "taxonomy": "persona_the_candidate.md"
+        },
+        {
+          "file": "plan_split_the_mark_fairly.md",
+          "kind": "plan",
+          "title": "Split the Mark Fairly",
+          "taxonomy": "persona_the_peer_rater.md"
+        },
+        {
+          "file": "play_one_name_on_the_paper.md",
+          "kind": "play",
+          "title": "One Name on the Paper"
+        },
+        {
+          "file": "plot_a_certificate_is_a_claim_about_one_person.md",
+          "kind": "plot",
+          "title": "A Certificate Is a Claim About One Person",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "plot_and_the_ones_who_know_least_are_asked_to_split_it.md",
+          "kind": "plot",
+          "title": "And the Ones Who Know Least Are Asked to Split It",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "plot_forbidding_it_is_correct.md",
+          "kind": "plot",
+          "title": "Forbidding It Is Correct",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "plot_the_group_mark_certifies_nobody.md",
+          "kind": "plot",
+          "title": "The Group Mark Certifies Nobody",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "plot_the_same_act_is_collaboration_and_is_cheating.md",
+          "kind": "plot",
+          "title": "The Same Act Is Collaboration and Is Cheating",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "plot_the_work_is_done_by_the_coupling.md",
+          "kind": "plot",
+          "title": "The Work Is Done by the Coupling",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "position_awarder.md",
+          "kind": "position",
+          "title": "Awarder",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "position_candidate.md",
+          "kind": "position",
+          "title": "Candidate",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "position_employer.md",
+          "kind": "position",
+          "title": "Employer",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "position_peer_rater.md",
+          "kind": "position",
+          "title": "Peer Rater",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "position_team.md",
+          "kind": "position",
+          "title": "Team",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "process_suspending_the_coupling.md",
+          "kind": "process",
+          "title": "Suspending the Coupling",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "process_vouching_for_a_person.md",
+          "kind": "process",
+          "title": "Vouching for a Person",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "process_weighting_the_contributions.md",
+          "kind": "process",
+          "title": "Weighting the Contributions",
+          "taxonomy": "play_one_name_on_the_paper.md"
+        },
+        {
+          "file": "process_working_the_way_work_is_done.md",
+          "kind": "process",
+          "title": "Working the Way Work Is Done",
+          "taxonomy": "play_one_name_on_the_paper.md"
         }
       ]
     },
