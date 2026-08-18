@@ -4563,7 +4563,8 @@ thing the Land and Jarman strike was written about a day earlier. It returns if 
 demonstrated somewhere.
 
 And a note on the surname scan, which is now run before every candidate. `Lincoln` and `England` both returned
-hits in the index and **neither is a scholar**: the first is the Lincoln Institute in The Only Basket's Source
-cell and the second is the New England Journal of Medicine in four separate warrants. The scan reads the cell,
-so a publisher or a journal named after a person or a place looks exactly like a scholar. It costs one look
+hits in the index and **neither is a scholar**: the first is the Lincoln Institute and the second the New England
+Journal of Medicine, and both sit in a **Key Work** cell rather than a Source cell, which is the detail worth
+having: the scan reads the whole row, so a publisher or a journal named after a person or a place looks
+exactly like a scholar even though the science build would never key it as one. It costs one look
 each and it is worth writing down, because a scan whose hits are institutions trains the reader to skim it.
