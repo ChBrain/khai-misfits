@@ -165,6 +165,16 @@ of unresolved occurrences suggests. Declared forms carry no full stops, since th
 build strips `[.,]` from the Source cell and not from the form, so `W David` and
 `Edward M` are written bare.
 
+**And a rare surname is not a safe one.** The heuristic above says a common
+surname is more likely than not to be taken already, which is true and is the
+reason to run the full `"Scholar :: Work"` string. It does not run the other way.
+`Hirshleifer` is rare, was already held by **David** in Information Cascade, and
+was taken again by **Jack** in Nothing Left to Pool: they are son and father. A
+rare surname is rare because it belongs to a family, and academic families
+produce academics, so the very thing that makes a name look safe is what
+concentrates it. Scan the surname whatever it looks like: the scan costs one
+command and the collision costs a misfit.
+
 ### And a misfit must say where it sits
 
 Every `REFERENCE.md` **names at least one other misfit by its title** and states
@@ -175,7 +185,7 @@ Effect, Metric Fixation and Moral Licensing. Each had scanned the house and
 missed only the misfit standing next to it. Answering _which misfit is nearest,
 and why is it not this one?_ in writing is what closes that.
 
-This is a wall too: all 261 name one. The rule is deliberately loose, a real
+This is a wall too: all 268 name one. The rule is deliberately loose, a real
 house title anywhere in the file rather than a fixed phrase, because a stricter
 sentence-level form scored worse and its false negatives were the misfits that
 declare their neighbour inside an Origin row. Reciprocity is **not** required:
@@ -211,14 +221,14 @@ warrant's frontmatter is unpoliced and rides the misfit's own lane.
 **Declaring is not optional for new work.** The opposition check iterates the
 misfits that declare an axis, not the house, so an undeclared misfit is not
 caught and not failed: it is invisible. Coverage is therefore ratcheted. 228 of
-261 carry no axis yet and are grandfathered; a **new** misfit without one fails.
+261 carried no axis when the ratchet was set and are grandfathered; a **new** misfit without one fails.
 A malformed declaration fails outright, since there is no legacy set of those.
 
 The first declared 8 were the density-dependence family, and they earned the
 design: from those eight the check found Room to Grow against Worth More Nearly
 Gone, which a hand sweep of the same family had missed, and it correctly declined
 to flag Safety in Numbers against Worth More Nearly Gone, which share an axis and
-a sign. The declared set now stands at 33 and the check reports 4 opposed pairs,
+a sign. The declared set now stands at 40 and the check reports 4 opposed pairs,
 all of them declared and none loose. Declaring more of the house widens the
 check; it does not change it.
 

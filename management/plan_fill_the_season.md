@@ -4678,3 +4678,12 @@ rather than `risk-pool-members`, since the quantity acted on is how precisely th
 many people are in the pool. The unavailability of Rothschild and Stiglitz, whose spine The Market for Lemons
 carries, cost nothing and did the boundary work for free: a constraint that forces the distinction into prose
 is worth more than the citation it withholds.
+
+**Hirshleifer declared, and a heuristic corrected.** The house's Hirshleifer was David, in Information Cascade;
+Nothing Left to Pool brought Jack, his father, so the surname is now declared and the index keys them apart.
+Worth recording because it cuts against the rule the earlier passes wrote. Those found four collisions on
+common surnames and concluded that a common surname is more likely than not to be taken already, which is true
+and is why `--check` takes the full string. It does not run the other way. Hirshleifer is rare and was taken
+anyway, because a rare surname is rare by belonging to a family, and academic families produce academics: the
+property that makes a name look safe is the property that concentrates it. So the surname scan is
+unconditional, not reserved for names that look crowded.
