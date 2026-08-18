@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.266.0",
+  "version": "0.267.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -54568,6 +54568,198 @@
           "kind": "process",
           "title": "Stratifying",
           "taxonomy": "play_true_of_no_one.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "true_until_it_was_used",
+      "title": "True Until It Was Used",
+      "description": "An estimated relation is made of rules people formed under a regime, so using it to change the regime ends it.",
+      "members": [
+        {
+          "file": "persona_the_deep_parameter.md",
+          "kind": "persona",
+          "title": "The Deep Parameter",
+          "type": "archetype",
+          "taxonomy": "position_deep_parameter.md"
+        },
+        {
+          "file": "persona_the_econometrician.md",
+          "kind": "persona",
+          "title": "The Econometrician",
+          "type": "archetype",
+          "taxonomy": "position_econometrician.md"
+        },
+        {
+          "file": "persona_the_household.md",
+          "kind": "persona",
+          "title": "The Household",
+          "type": "archetype",
+          "taxonomy": "position_household.md"
+        },
+        {
+          "file": "persona_the_policymaker.md",
+          "kind": "persona",
+          "title": "The Policymaker",
+          "type": "archetype",
+          "taxonomy": "position_policymaker.md"
+        },
+        {
+          "file": "persona_the_regime.md",
+          "kind": "persona",
+          "title": "The Regime",
+          "type": "archetype",
+          "taxonomy": "position_regime.md"
+        },
+        {
+          "file": "piece_the_data.md",
+          "kind": "piece",
+          "title": "The Data",
+          "taxonomy": "place_the_old_regime.md"
+        },
+        {
+          "file": "piece_the_relation.md",
+          "kind": "piece",
+          "title": "The Relation",
+          "taxonomy": "place_the_old_regime.md"
+        },
+        {
+          "file": "piece_the_rule.md",
+          "kind": "piece",
+          "title": "The Rule",
+          "taxonomy": "place_the_old_regime.md"
+        },
+        {
+          "file": "pitch_the_number_was_real.md",
+          "kind": "pitch",
+          "title": "The Number Was Real",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "place_the_first_year_after.md",
+          "kind": "place",
+          "title": "The First Year After",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "place_the_old_regime.md",
+          "kind": "place",
+          "title": "The Old Regime",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "plan_choose_well.md",
+          "kind": "plan",
+          "title": "Choose Well",
+          "taxonomy": "persona_the_policymaker.md"
+        },
+        {
+          "file": "plan_do_the_sensible_thing.md",
+          "kind": "plan",
+          "title": "Do the Sensible Thing",
+          "taxonomy": "persona_the_household.md"
+        },
+        {
+          "file": "plan_get_the_best_estimate.md",
+          "kind": "plan",
+          "title": "Get the Best Estimate",
+          "taxonomy": "persona_the_econometrician.md"
+        },
+        {
+          "file": "play_true_until_it_was_used.md",
+          "kind": "play",
+          "title": "True Until It Was Used"
+        },
+        {
+          "file": "plot_and_the_deep_parameters_are_deep_only_until_somebody_checks.md",
+          "kind": "plot",
+          "title": "And the Deep Parameters Are Deep Only Until Somebody Checks",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "plot_it_is_made_of_rules_people_formed_under_a_regime.md",
+          "kind": "plot",
+          "title": "It Is Made of Rules People Formed Under a Regime",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "plot_the_household_revises_and_nobody_games_anything.md",
+          "kind": "plot",
+          "title": "The Household Revises, and Nobody Games Anything",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "plot_the_policy_is_chosen_with_the_best_model_there_is.md",
+          "kind": "plot",
+          "title": "The Policy Is Chosen With the Best Model There Is",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "plot_the_relation_is_real_and_was_measured_correctly.md",
+          "kind": "plot",
+          "title": "The Relation Is Real and Was Measured Correctly",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "plot_the_relation_stops_holding_at_the_moment_it_is_used.md",
+          "kind": "plot",
+          "title": "The Relation Stops Holding at the Moment It Is Used",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "position_deep_parameter.md",
+          "kind": "position",
+          "title": "Deep Parameter",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "position_econometrician.md",
+          "kind": "position",
+          "title": "Econometrician",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "position_household.md",
+          "kind": "position",
+          "title": "Household",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "position_policymaker.md",
+          "kind": "position",
+          "title": "Policymaker",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "position_regime.md",
+          "kind": "position",
+          "title": "Regime",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "process_choosing_the_policy.md",
+          "kind": "process",
+          "title": "Choosing the Policy",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "process_estimating_the_relation.md",
+          "kind": "process",
+          "title": "Estimating the Relation",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "process_going_after_the_deep_parameters.md",
+          "kind": "process",
+          "title": "Going After the Deep Parameters",
+          "taxonomy": "play_true_until_it_was_used.md"
+        },
+        {
+          "file": "process_revising_the_rule.md",
+          "kind": "process",
+          "title": "Revising the Rule",
+          "taxonomy": "play_true_until_it_was_used.md"
         }
       ]
     },

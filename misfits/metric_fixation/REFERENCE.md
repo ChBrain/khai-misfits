@@ -2,7 +2,7 @@
 concept: "Goodhart's Law (metric fixation; goal displacement)"
 field: "Measurement, cognition, and inquiry"
 source: "Ridgway (ASQ, 1956); Goodhart; Campbell"
-updated: "2026-07-01"
+updated: "2026-08-18"
 ---
 
 # Metric Fixation: Reference
@@ -24,6 +24,21 @@ the play's governing law: the distortion is a structural property of measurement
 incentive, one-directional and predictable, so the failure is a property of honest
 measurement, not a lapse from it. This is not its neighbour, misreporting: here the
 number is not a false account of reality, it is a true account of the wrong thing.
+
+**And the mechanism requires an agent optimising against the measure, which is the
+boundary of this play.** Everything above runs on somebody with an interest in the
+number and a way to move it: the pressure is real, the response is a response to the
+pressure, and relieving the pressure or changing the proxy reaches the failure. That
+is a narrower claim than the one Goodhart's name is often stretched to cover, and it
+is deliberately narrower, because a second and unrelated failure wears the same
+sentence. A relation estimated from history can stop holding the moment it is used
+to choose a policy, with **nobody gaming anything**: the relation is a summary of
+decision rules that were optimal against the regime that generated the data, so
+changing the regime changes the rules and the summary is no longer of anything. No
+pressure is applied, no proxy is corrupted, and no participant has an interest in
+the number at all. The house stages that separately, as **True Until It Was Used**,
+and this production declines it: what is measured here is a target somebody is
+pushing on, and what fails there is a model invalidated by its own use.
 
 ## Origin
 
