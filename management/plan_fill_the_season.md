@@ -4655,3 +4655,14 @@ paleoseismic record shorter than the recurrence interval it estimates is As Full
 zero is already a reduced state. Induced seismicity was examined for the second sweep running and dropped again
 for want of a clean no-villain cut, which is now worth recording as a probable dead end rather than a
 recurring maybe.
+
+**And the strike now rides the lane of the thing it strikes.** The gate written in the previous pass fired for
+the first time on a live misfit branch, and it failed the misfit rather than the author: it demands that a
+staged concept's line be struck, and the register is `management/**`, which the misfit lane may not touch. So
+the gate as shipped was half a fix, and it made every misfit pull request red. The other half is that
+`management/plan_fill_the_season.md` is now `shared` in `branchScope`, beside `registry.json`,
+`docs/SCIENCE.md` and `REFERENCES.md`, which are shared for the same reason: the change that stages a thing is
+the only change that can compute what the file should say about it. This removes the structural cause of the
+lag rather than the symptom. The strike had lagged three times, two prose notes had told the next author to try
+harder, and neither note could have worked, because the edit they asked for could not be made from the branch
+they were read on. A misfit may now strike its own line, and record its own discards, in its own pull request.
