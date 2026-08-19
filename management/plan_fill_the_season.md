@@ -5276,7 +5276,7 @@ being written down, and the house is dense enough that the checking is most of t
 anticommons, vetocracy, shifting baseline syndrome and fire suppression were all raised and all already staged,
 each in a field the candidate's own subject would not have suggested.
 
-- [ ] [P0] Mesopredator Release (Soulé and colleagues on chaparral canyons, 1988; Crooks & Soulé, "Mesopredator
+- [x] [P0] Mesopredator Release (Soulé and colleagues on chaparral canyons, 1988; Crooks & Soulé, "Mesopredator
       release and avifaunal extinctions in a fragmented system", Nature, 1999; Prugh, Stoner, Epps, Bean, Ripple,
       Laliberte & Brashares, "The Rise of the Mesopredator", BioScience, 2009, which reports 60% of mesopredator
       ranges expanding while every apex range contracted over two centuries): removing an apex predator, for
@@ -5293,7 +5293,7 @@ each in a field the candidate's own subject would not have suggested.
       and what reaches it is the absence of a competitor; **Johnson is a namesake owed and it is the expensive
       direction**, the house holding five forms already, so if Ritchie & Johnson (2009) is cited the declaration
       must land **before** the misfit by the rule the cosmology pass established, and the cheaper route is to
-      build on Crooks, Soulé and Prugh and cite Ritchie & Johnson only if the warrant needs it
+      build on Crooks, Soulé and Prugh and cite Ritchie & Johnson only if the warrant needs it, staged as **Who Else It Was Holding Down**: the Hydra test passed and the shape of the pass is worth keeping, since the incumbent is **one species and its own regulation** while this is a **chain of three**, the target staying removed as the premise, the rise landing in a second species nobody acted on and the cost in a third that was never in the sequence; the cheaper route held and Ritchie & Johnson was not needed, so the expensive Johnson declaration was avoided **on the merits** rather than routed around, the mechanism row going to Polis, Myers and Robert D Holt on intraguild predation instead, which is the better citation anyway because it is what makes the suppression and the offence one act rather than two; **Holt was a second namesake found in the writing and not in the scan**, Charles the experimental economist in Information Cascade against Robert D here, undeclared so the order was free, and the incumbent cell rides this same misfit lane with the declaration owed as one governance pull request after; the cut moved during the build, from the backfiring intervention the line described to **the ledger having no column for the party that pays**, which is sharper and is what keeps it clear of The Cobra Effect, since nothing here is gamed and the programme simply succeeds; and the contested generality is heavier than the line knew, most of the evidence being correlative, reviews finding about half of studied pairings behaving as predicted and one large fenced dingo removal finding no release at all, so the warrant stages a structure demonstrated in specific systems and makes no claim that predator control generally backfires
 - [ ] [P1] The Paradox of Enrichment (Rosenzweig, "Paradox of Enrichment: Destabilization of Exploitation
       Ecosystems in Ecological Time", Science, 1971, which found the result in six separate models of two-species
       exploitation): increasing the food available to a prey population destabilises the predator-prey

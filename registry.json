@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.281.0",
+  "version": "0.282.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -58762,6 +58762,198 @@
           "kind": "process",
           "title": "Structuring",
           "taxonomy": "play_whatevers_in_the_can.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "who_else_it_was_holding_down",
+      "title": "Who Else It Was Holding Down",
+      "description": "Removing a predator that really does take stock releases the ones it suppressed, and a third species pays.",
+      "members": [
+        {
+          "file": "persona_the_apex.md",
+          "kind": "persona",
+          "title": "The Apex",
+          "type": "archetype",
+          "taxonomy": "position_apex.md"
+        },
+        {
+          "file": "persona_the_controller.md",
+          "kind": "persona",
+          "title": "The Controller",
+          "type": "archetype",
+          "taxonomy": "position_controller.md"
+        },
+        {
+          "file": "persona_the_middle_hunter.md",
+          "kind": "persona",
+          "title": "The Middle Hunter",
+          "type": "archetype",
+          "taxonomy": "position_middle_hunter.md"
+        },
+        {
+          "file": "persona_the_restorer.md",
+          "kind": "persona",
+          "title": "The Restorer",
+          "type": "archetype",
+          "taxonomy": "position_restorer.md"
+        },
+        {
+          "file": "persona_the_stockman.md",
+          "kind": "persona",
+          "title": "The Stockman",
+          "type": "archetype",
+          "taxonomy": "position_stockman.md"
+        },
+        {
+          "file": "piece_the_missing_column.md",
+          "kind": "piece",
+          "title": "The Missing Column",
+          "taxonomy": "place_the_ledger.md"
+        },
+        {
+          "file": "piece_the_released_middle.md",
+          "kind": "piece",
+          "title": "The Released Middle",
+          "taxonomy": "place_the_fragment.md"
+        },
+        {
+          "file": "piece_the_suppression.md",
+          "kind": "piece",
+          "title": "The Suppression",
+          "taxonomy": "place_the_fragment.md"
+        },
+        {
+          "file": "pitch_the_ground_does_not_stay_empty.md",
+          "kind": "pitch",
+          "title": "The Ground Does Not Stay Empty",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "place_the_fragment.md",
+          "kind": "place",
+          "title": "The Fragment",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "place_the_ledger.md",
+          "kind": "place",
+          "title": "The Ledger",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "plan_put_the_apex_back.md",
+          "kind": "plan",
+          "title": "Put the Apex Back",
+          "taxonomy": "position_restorer.md"
+        },
+        {
+          "file": "plan_show_the_programme_worked.md",
+          "kind": "plan",
+          "title": "Show the Programme Worked",
+          "taxonomy": "position_controller.md"
+        },
+        {
+          "file": "plan_stop_the_losses.md",
+          "kind": "plan",
+          "title": "Stop the Losses",
+          "taxonomy": "position_stockman.md"
+        },
+        {
+          "file": "play_who_else_it_was_holding_down.md",
+          "kind": "play",
+          "title": "Who Else It Was Holding Down"
+        },
+        {
+          "file": "plot_and_putting_it_back_does_not_simply_reverse.md",
+          "kind": "plot",
+          "title": "And Putting It Back Does Not Simply Reverse",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "plot_and_the_apex_was_also_holding_something_down.md",
+          "kind": "plot",
+          "title": "And the Apex Was Also Holding Something Down",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "plot_and_the_cost_lands_on_a_third_party.md",
+          "kind": "plot",
+          "title": "And the Cost Lands on a Third Party",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "plot_so_the_ground_it_held_is_filled.md",
+          "kind": "plot",
+          "title": "So the Ground It Held Is Filled",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "plot_the_loss_is_real_and_the_removal_works.md",
+          "kind": "plot",
+          "title": "The Loss Is Real and the Removal Works",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "plot_which_no_ledger_has_a_column_for.md",
+          "kind": "plot",
+          "title": "Which No Ledger Has a Column For",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "position_apex.md",
+          "kind": "position",
+          "title": "Apex",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "position_controller.md",
+          "kind": "position",
+          "title": "Controller",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "position_middle_hunter.md",
+          "kind": "position",
+          "title": "Middle Hunter",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "position_restorer.md",
+          "kind": "position",
+          "title": "Restorer",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "position_stockman.md",
+          "kind": "position",
+          "title": "Stockman",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "process_counting_what_was_removed.md",
+          "kind": "process",
+          "title": "Counting What Was Removed",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "process_filling_the_ground.md",
+          "kind": "process",
+          "title": "Filling the Ground",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "process_putting_it_back.md",
+          "kind": "process",
+          "title": "Putting It Back",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
+        },
+        {
+          "file": "process_removing_the_apex.md",
+          "kind": "process",
+          "title": "Removing the Apex",
+          "taxonomy": "play_who_else_it_was_holding_down.md"
         }
       ]
     },
