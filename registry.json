@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.271.0",
+  "version": "0.272.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -20454,6 +20454,198 @@
           "kind": "process",
           "title": "Staling",
           "taxonomy": "play_not_invented_here.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "not_while_you_are_watching",
+      "title": "Not While You Are Watching",
+      "description": "The behaviour wanted is the unobserved kind, and the only way to obtain it is to observe.",
+      "members": [
+        {
+          "file": "persona_the_fieldworker.md",
+          "kind": "persona",
+          "title": "The Fieldworker",
+          "type": "archetype",
+          "taxonomy": "position_fieldworker.md"
+        },
+        {
+          "file": "persona_the_insider.md",
+          "kind": "persona",
+          "title": "The Insider",
+          "type": "archetype",
+          "taxonomy": "position_insider.md"
+        },
+        {
+          "file": "persona_the_reviewer.md",
+          "kind": "persona",
+          "title": "The Reviewer",
+          "type": "archetype",
+          "taxonomy": "position_reviewer.md"
+        },
+        {
+          "file": "persona_the_sceptic.md",
+          "kind": "persona",
+          "title": "The Sceptic",
+          "type": "archetype",
+          "taxonomy": "position_sceptic.md"
+        },
+        {
+          "file": "persona_the_speaker.md",
+          "kind": "persona",
+          "title": "The Speaker",
+          "type": "archetype",
+          "taxonomy": "position_speaker.md"
+        },
+        {
+          "file": "piece_the_consent_form.md",
+          "kind": "piece",
+          "title": "The Consent Form",
+          "taxonomy": "place_the_interview.md"
+        },
+        {
+          "file": "piece_the_recorder.md",
+          "kind": "piece",
+          "title": "The Recorder",
+          "taxonomy": "place_the_interview.md"
+        },
+        {
+          "file": "piece_the_vernacular.md",
+          "kind": "piece",
+          "title": "The Vernacular",
+          "taxonomy": "place_the_kitchen.md"
+        },
+        {
+          "file": "pitch_with_the_recorder_on_the_table.md",
+          "kind": "pitch",
+          "title": "With the Recorder on the Table",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "place_the_interview.md",
+          "kind": "place",
+          "title": "The Interview",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "place_the_kitchen.md",
+          "kind": "place",
+          "title": "The Kitchen",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "plan_get_inside_first.md",
+          "kind": "plan",
+          "title": "Get Inside First",
+          "taxonomy": "persona_the_insider.md"
+        },
+        {
+          "file": "plan_record_it_as_it_is.md",
+          "kind": "plan",
+          "title": "Record It as It Is",
+          "taxonomy": "persona_the_fieldworker.md"
+        },
+        {
+          "file": "plan_speak_to_whoever_is_here.md",
+          "kind": "plan",
+          "title": "Speak to Whoever Is Here",
+          "taxonomy": "persona_the_speaker.md"
+        },
+        {
+          "file": "play_not_while_you_are_watching.md",
+          "kind": "play",
+          "title": "Not While You Are Watching"
+        },
+        {
+          "file": "plot_and_the_only_way_in_is_to_be_present.md",
+          "kind": "plot",
+          "title": "And the Only Way In Is to Be Present",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "plot_and_the_residue_cannot_be_sized.md",
+          "kind": "plot",
+          "title": "And the Residue Cannot Be Sized",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "plot_becoming_part_of_it_is_the_best_remedy.md",
+          "kind": "plot",
+          "title": "Becoming Part of It Is the Best Remedy",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "plot_nobody_is_performing.md",
+          "kind": "plot",
+          "title": "Nobody Is Performing",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "plot_the_method_that_works_is_barred.md",
+          "kind": "plot",
+          "title": "The Method That Works Is Barred",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "plot_the_quantity_is_defined_by_your_absence.md",
+          "kind": "plot",
+          "title": "The Quantity Is Defined by Your Absence",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "position_fieldworker.md",
+          "kind": "position",
+          "title": "Fieldworker",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "position_insider.md",
+          "kind": "position",
+          "title": "Insider",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "position_reviewer.md",
+          "kind": "position",
+          "title": "Reviewer",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "position_sceptic.md",
+          "kind": "position",
+          "title": "Sceptic",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "position_speaker.md",
+          "kind": "position",
+          "title": "Speaker",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "process_coming_in_as_a_friend_of_a_friend.md",
+          "kind": "process",
+          "title": "Coming In as a Friend of a Friend",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "process_speaking_to_the_person_present.md",
+          "kind": "process",
+          "title": "Speaking to the Person Present",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "process_turning_on_the_recorder.md",
+          "kind": "process",
+          "title": "Turning On the Recorder",
+          "taxonomy": "play_not_while_you_are_watching.md"
+        },
+        {
+          "file": "process_weighing_whether_the_effect_is_real.md",
+          "kind": "process",
+          "title": "Weighing Whether the Effect Is Real",
+          "taxonomy": "play_not_while_you_are_watching.md"
         }
       ]
     },
