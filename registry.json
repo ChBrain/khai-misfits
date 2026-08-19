@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.278.0",
+  "version": "0.279.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -46089,6 +46089,198 @@
           "kind": "process",
           "title": "Reorganizing",
           "taxonomy": "play_the_mirror.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_name_does_not_move",
+      "title": "The Name Does Not Move",
+      "description": "A name is anchored to one specimen and one date, and stays there when the biology says otherwise.",
+      "members": [
+        {
+          "file": "persona_the_commission.md",
+          "kind": "persona",
+          "title": "The Commission",
+          "type": "archetype",
+          "taxonomy": "position_commission.md"
+        },
+        {
+          "file": "persona_the_keeper.md",
+          "kind": "persona",
+          "title": "The Keeper",
+          "type": "archetype",
+          "taxonomy": "position_keeper.md"
+        },
+        {
+          "file": "persona_the_reformer.md",
+          "kind": "persona",
+          "title": "The Reformer",
+          "type": "archetype",
+          "taxonomy": "position_reformer.md"
+        },
+        {
+          "file": "persona_the_reviser.md",
+          "kind": "persona",
+          "title": "The Reviser",
+          "type": "archetype",
+          "taxonomy": "position_reviser.md"
+        },
+        {
+          "file": "persona_the_user.md",
+          "kind": "persona",
+          "title": "The User",
+          "type": "archetype",
+          "taxonomy": "position_user.md"
+        },
+        {
+          "file": "piece_the_holotype.md",
+          "kind": "piece",
+          "title": "The Holotype",
+          "taxonomy": "place_the_type_drawer.md"
+        },
+        {
+          "file": "piece_the_priority_rule.md",
+          "kind": "piece",
+          "title": "The Priority Rule",
+          "taxonomy": "place_the_literature.md"
+        },
+        {
+          "file": "piece_the_ruling.md",
+          "kind": "piece",
+          "title": "The Ruling",
+          "taxonomy": "place_the_literature.md"
+        },
+        {
+          "file": "pitch_the_jar_in_the_drawer.md",
+          "kind": "pitch",
+          "title": "The Jar in the Drawer",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "place_the_literature.md",
+          "kind": "place",
+          "title": "The Literature",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "place_the_type_drawer.md",
+          "kind": "place",
+          "title": "The Type Drawer",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "plan_cite_it_and_move_on.md",
+          "kind": "plan",
+          "title": "Cite It and Move On",
+          "taxonomy": "persona_the_user.md"
+        },
+        {
+          "file": "plan_get_the_biology_right.md",
+          "kind": "plan",
+          "title": "Get the Biology Right",
+          "taxonomy": "persona_the_reviser.md"
+        },
+        {
+          "file": "plan_keep_the_name_usable.md",
+          "kind": "plan",
+          "title": "Keep the Name Usable",
+          "taxonomy": "persona_the_commission.md"
+        },
+        {
+          "file": "play_the_name_does_not_move.md",
+          "kind": "play",
+          "title": "The Name Does Not Move"
+        },
+        {
+          "file": "plot_a_name_has_to_be_anchored_to_something.md",
+          "kind": "plot",
+          "title": "A Name Has to Be Anchored to Something",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "plot_and_anchoring_to_the_biology_moves_the_anchor_into_the_argument.md",
+          "kind": "plot",
+          "title": "And Anchoring to the Biology Moves the Anchor Into the Argument",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "plot_and_the_individual_may_be_atypical_visibly.md",
+          "kind": "plot",
+          "title": "And the Individual May Be Atypical, Visibly",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "plot_and_the_older_name_may_be_one_nobody_has_used.md",
+          "kind": "plot",
+          "title": "And the Older Name May Be One Nobody Has Used",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "plot_so_it_is_anchored_to_one_individual_and_one_date.md",
+          "kind": "plot",
+          "title": "So It Is Anchored to One Individual and One Date",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "plot_the_commission_can_move_it_case_by_case.md",
+          "kind": "plot",
+          "title": "The Commission Can Move It, Case by Case",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "position_commission.md",
+          "kind": "position",
+          "title": "Commission",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "position_keeper.md",
+          "kind": "position",
+          "title": "Keeper",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "position_reformer.md",
+          "kind": "position",
+          "title": "Reformer",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "position_reviser.md",
+          "kind": "position",
+          "title": "Reviser",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "position_user.md",
+          "kind": "position",
+          "title": "User",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "process_citing_the_name.md",
+          "kind": "process",
+          "title": "Citing the Name",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "process_designating_the_type.md",
+          "kind": "process",
+          "title": "Designating the Type",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "process_petitioning_the_commission.md",
+          "kind": "process",
+          "title": "Petitioning the Commission",
+          "taxonomy": "play_the_name_does_not_move.md"
+        },
+        {
+          "file": "process_revising_the_group.md",
+          "kind": "process",
+          "title": "Revising the Group",
+          "taxonomy": "play_the_name_does_not_move.md"
         }
       ]
     },
