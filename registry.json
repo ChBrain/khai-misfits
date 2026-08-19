@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.274.0",
+  "version": "0.275.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -2305,6 +2305,198 @@
           "kind": "process",
           "title": "Weighing",
           "taxonomy": "play_an_army_that_cannot_turn.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "and_then_who_makes_them",
+      "title": "And Then Who Makes Them",
+      "description": "Enforcing a rule is itself a public good, so it under-supplies for the same reason the rule did.",
+      "members": [
+        {
+          "file": "persona_the_contributor.md",
+          "kind": "persona",
+          "title": "The Contributor",
+          "type": "archetype",
+          "taxonomy": "position_contributor.md"
+        },
+        {
+          "file": "persona_the_convenor.md",
+          "kind": "persona",
+          "title": "The Convenor",
+          "type": "archetype",
+          "taxonomy": "position_convenor.md"
+        },
+        {
+          "file": "persona_the_experimenter.md",
+          "kind": "persona",
+          "title": "The Experimenter",
+          "type": "archetype",
+          "taxonomy": "position_experimenter.md"
+        },
+        {
+          "file": "persona_the_neighbour.md",
+          "kind": "persona",
+          "title": "The Neighbour",
+          "type": "archetype",
+          "taxonomy": "position_neighbour.md"
+        },
+        {
+          "file": "persona_the_witness.md",
+          "kind": "persona",
+          "title": "The Witness",
+          "type": "archetype",
+          "taxonomy": "position_witness.md"
+        },
+        {
+          "file": "piece_the_decay_curve.md",
+          "kind": "piece",
+          "title": "The Decay Curve",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "piece_the_levy.md",
+          "kind": "piece",
+          "title": "The Levy",
+          "taxonomy": "place_the_meeting.md"
+        },
+        {
+          "file": "piece_the_rota.md",
+          "kind": "piece",
+          "title": "The Rota",
+          "taxonomy": "place_the_stair.md"
+        },
+        {
+          "file": "pitch_somebody_ought_to.md",
+          "kind": "pitch",
+          "title": "Somebody Ought To",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "place_the_meeting.md",
+          "kind": "place",
+          "title": "The Meeting",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "place_the_stair.md",
+          "kind": "place",
+          "title": "The Stair",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "plan_do_my_week.md",
+          "kind": "plan",
+          "title": "Do My Week",
+          "taxonomy": "persona_the_contributor.md"
+        },
+        {
+          "file": "plan_go_home_without_a_row.md",
+          "kind": "plan",
+          "title": "Go Home Without a Row",
+          "taxonomy": "persona_the_witness.md"
+        },
+        {
+          "file": "plan_set_up_a_warden.md",
+          "kind": "plan",
+          "title": "Set Up a Warden",
+          "taxonomy": "persona_the_convenor.md"
+        },
+        {
+          "file": "play_and_then_who_makes_them.md",
+          "kind": "play",
+          "title": "And Then Who Makes Them"
+        },
+        {
+          "file": "plot_and_nobody_reproaches_the_silence.md",
+          "kind": "plot",
+          "title": "And Nobody Reproaches the Silence",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "plot_people_punish_anyway_and_it_is_not_enough.md",
+          "kind": "plot",
+          "title": "People Punish Anyway, and It Is Not Enough",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "plot_somebody_would_have_to_say_something.md",
+          "kind": "plot",
+          "title": "Somebody Would Have to Say Something",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "plot_the_one_who_declines_is_the_one_harmed.md",
+          "kind": "plot",
+          "title": "The One Who Declines Is the One Harmed",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "plot_the_rota_slips.md",
+          "kind": "plot",
+          "title": "The Rota Slips",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "plot_the_warden_has_to_be_paid_for.md",
+          "kind": "plot",
+          "title": "The Warden Has to Be Paid For",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "position_contributor.md",
+          "kind": "position",
+          "title": "Contributor",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "position_convenor.md",
+          "kind": "position",
+          "title": "Convenor",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "position_experimenter.md",
+          "kind": "position",
+          "title": "Experimenter",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "position_neighbour.md",
+          "kind": "position",
+          "title": "Neighbour",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "position_witness.md",
+          "kind": "position",
+          "title": "Witness",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "process_funding_the_warden.md",
+          "kind": "process",
+          "title": "Funding the Warden",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "process_letting_the_silence_pass.md",
+          "kind": "process",
+          "title": "Letting the Silence Pass",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "process_paying_in.md",
+          "kind": "process",
+          "title": "Paying In",
+          "taxonomy": "play_and_then_who_makes_them.md"
+        },
+        {
+          "file": "process_saying_something.md",
+          "kind": "process",
+          "title": "Saying Something",
+          "taxonomy": "play_and_then_who_makes_them.md"
         }
       ]
     },
