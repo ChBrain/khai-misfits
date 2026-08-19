@@ -216,6 +216,29 @@ every other gate, report clean counts, and were each caught by eye. When a fourt
 appears it will look like those: quiet, arithmetically fine, and wrong about who
 somebody is.
 
+**The fourth arrived as predicted, and it is not a wall: it is the order of the
+pass.** `Campbell` was scanned before authoring and reported **one cell against
+one, both certain**, the cheapest kind. Declaring it turned up **five more**
+unresolved cells and **three** people: Donald T in Metric Fixation, More to Stand
+Still, The Bounce and The Cobra Effect; W M, with Capen and Clapp, in The Best on
+Paper and The Winning Bid; Lyle in Erased by What Divided Them. The scan was not
+misread. It was **correct about the index, and the index was not yet about
+people**, because an undeclared surname collates: six rows under one bare key
+read as one scholar across several works, which is the expected case this file
+already says owes nothing, and nothing in that output tells one person with six
+works from three people with six between them.
+
+So **the declaration is the instrument, not the last step of the pass**, and the
+count of cells owed is knowable only after it. Declare locally, read the wall,
+then decide what the pass costs. And where the cells and the declaration are both
+needed, **the cells go first**: a bare cell is valid without the declaration,
+since it merely collates, while the declaration is not valid without the cell,
+which is the wall's whole point. `khai-guard advise` names the opposite order,
+governance before solution. That is right about lanes and wrong here, and the
+distinction is worth keeping: **the advisor orders lanes, not dependencies.** It
+answers which lanes a change spans, which is the question it was built for; it
+does not answer which half can stand alone on `main`, and nothing does.
+
 **And a rare surname is not a safe one.** The heuristic above says a common
 surname is more likely than not to be taken already, which is true and is the
 reason to run the full `"Scholar :: Work"` string. It does not run the other way.
