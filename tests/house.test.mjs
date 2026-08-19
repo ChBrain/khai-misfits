@@ -13,7 +13,18 @@ const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 // type and the wiring the installed engines declare. The house holds; the
 // misfits are written in khai-playwright mode.
 describe("Misfits house: misfits conform to the canon", () => {
-  it("every misfit validates against the canon (zero findings)", () => {
+  // The timeout is raised because this assertion's **cost grows with the
+  // house**: measured at ~1.0s fixed plus ~4.8ms per misfit, so it sits at
+  // roughly half of vitest's default 5s at 282 misfits and crosses it at rest
+  // somewhere near 840. That is not what made it fail. Load did: anything that
+  // doubles wall-clock puts today's 2.4s over the wall, which reads as a flaky
+  // gate and is a fixed wall the house is walking toward.
+  //
+  // A timeout here fails red, so it never passed a bad tree; it failed a good
+  // one, which is the failure worth removing, because a gate that cries wolf
+  // teaches people to re-run it. 60s is clear of the count for the life of the
+  // house and still catches a genuine hang.
+  it("every misfit validates against the canon (zero findings)", { timeout: 60_000 }, () => {
     const misfitsDir = join(root, "misfits");
     // Green on an empty house: until the first misfit lands on a `misfit/*`
     // branch the content dir does not exist yet, so there is nothing to validate.

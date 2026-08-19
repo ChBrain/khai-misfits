@@ -5312,3 +5312,41 @@ each in a field the candidate's own subject would not have suggested.
       a P1 and not a P0 for that reason alone. The Luckinbill enrichment experiment and the Jensen and Ginzburg
       critique were both raised from recollection and **neither was confirmed by lookup**, so both are leads and
       not citations.
+
+**A gate failed without finding anything, and the shape of that is worth carrying.** The canon validator
+went red once during the Holt pass, passed on a re-run with nothing changed in the tree, and was written off in
+the pull request as transient. It was not transient and it was not a flake: there is no randomness, no ordering
+and no async race in that test. It is vitest's default **5 second timeout**, and the assertion under it is the
+one whose cost **grows with the house**, measured at about 1.0s fixed plus **4.8ms per misfit**.
+
+| Misfits | Validation |
+| ------- | ---------- |
+| 50      | 1418 ms    |
+| 100     | 1499 ms    |
+| 200     | 1963 ms    |
+| 282     | 2366 ms    |
+
+So at 282 the gate runs at roughly **half its budget** at rest and would not cross five seconds on an idle
+machine until somewhere near **840 misfits**. The count is not what failed it. **Load is**: anything that
+doubles wall-clock puts today's 2.4s over the wall, which was reproduced deliberately by running the suite
+against six busy cores and produced the identical failure, `Test timed out in 5000ms` on the identical test.
+
+Three things follow, and the third is the one that generalises.
+
+**A timeout fails red, so this gate never passed a bad tree.** It failed a good one. That is the safe direction
+and it is still the failure worth removing, because a gate that goes red on correct work teaches the author to
+re-run it, and the next re-run might be hiding something real. **A wall the house trusts has to be a wall that
+only fires when something is wrong.**
+
+**It had not reached CI, and that is luck rather than headroom.** The conformance step runs the whole suite in
+about four seconds on the runner, comparable to local rather than worse, and the last thirteen runs are green.
+But a shared runner is exactly the load condition that reproduces it, so this could have turned a good pull
+request red with nothing in the diff to explain it.
+
+**And the general shape is that a fixed budget meets a growing house.** Every other wall in this file guards
+against an author's mistake. This one guards nothing and was simply sized before the house was this size, which
+is a category the register did not have: **a gate can be wrong about the house without being wrong about any
+misfit.** When a second one appears it will look the same, quiet and intermittent and blamed on the machine.
+The check is to ask whether the failing thing has a fixed limit and a cost that grows, and the fix is to move
+the limit rather than the work. The candidate already visible is **`prettier --check`, which takes 64 seconds
+on CI**, sixteen times the entire test suite, and grows with every file the house adds.
