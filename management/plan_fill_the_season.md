@@ -4862,3 +4862,18 @@ Set beside the Johnson hit two passes ago, which stays undeclared with five peop
 rule legible: **what decides whether a namesake is cheap is not how many people share the surname but whether
 every existing cell can be attributed with confidence.** Johnson has more people and two cells nobody here can
 attribute; Levitt had three people and every cell certain. The count is the wrong number to look at.
+
+**Johnson declared at last, and the hold was the right call.** Five people now key apart: Eric J in It Has to
+Start Somewhere, Nicholas L in Nobody Has to Launch Again, Wendell in The Abstraction Ladder, Gerry in The
+Frozen Middle and Roy D in Watermelon Reporting, at 31 declared surnames with none loose and no unreachable
+forms. The two bare cells were attributed off the papers' own author lines rather than from recollection, and
+the check earned itself: confidence going in was high on Gerry and only moderate on Roy D, the moderate one is
+the one that needed looking up, and the recollection that came with it placed him at the wrong institution
+while getting the name right. **A memory that is right about the name and wrong about the affiliation feels
+exactly like a memory that is right**, which is the whole reason the hold was correct and the reason to look
+rather than to declare.
+
+So the sequence is worth writing down as the standard shape for an expensive namesake: **hold it undeclared,
+which costs nothing; record it here so it is not rediscovered; and declare it only when somebody has actually
+read the author lines.** Two passes ago this surname was recorded as too uncertain to declare, and that entry
+is what made this pass a lookup rather than a rediscovery.
