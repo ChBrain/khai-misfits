@@ -4854,3 +4854,11 @@ which stays undeclared: the difference is not the number of people but whether t
 existing cell with confidence, and here both sat in one file and both were unambiguous. **A namesake is cheap
 when its cells are few and certain, and the count is not what decides it.** Milroy and List were the first
 reading again, the same people the house already holds on other works, and owed nothing.
+
+**Levitt declared, at 30 surnames.** Barbara in The Success Trap's organizational learning row, Theodore in its
+marketing myopia row, Steven arriving with Not While You Are Watching. Both incumbent cells sat in one file and
+both were unambiguous, so the misfit resolved them on its own lane and this pass only writes the declaration.
+Set beside the Johnson hit two passes ago, which stays undeclared with five people in it, the pair makes the
+rule legible: **what decides whether a namesake is cheap is not how many people share the surname but whether
+every existing cell can be attributed with confidence.** Johnson has more people and two cells nobody here can
+attribute; Levitt had three people and every cell certain. The count is the wrong number to look at.
