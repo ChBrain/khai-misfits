@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.277.0",
+  "version": "0.278.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -785,6 +785,198 @@
           "kind": "process",
           "title": "Comparing",
           "taxonomy": "play_a_little_crooked_and_mine.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "a_lower_bar_set_by_a_higher_one",
+      "title": "A Lower Bar Set by a Higher One",
+      "description": "A procedure cannot be tested against a sham without cutting somebody for nothing, so it is held to less.",
+      "members": [
+        {
+          "file": "persona_the_committee.md",
+          "kind": "persona",
+          "title": "The Committee",
+          "type": "archetype",
+          "taxonomy": "position_committee.md"
+        },
+        {
+          "file": "persona_the_patient.md",
+          "kind": "persona",
+          "title": "The Patient",
+          "type": "archetype",
+          "taxonomy": "position_patient.md"
+        },
+        {
+          "file": "persona_the_regulator.md",
+          "kind": "persona",
+          "title": "The Regulator",
+          "type": "archetype",
+          "taxonomy": "position_regulator.md"
+        },
+        {
+          "file": "persona_the_surgeon.md",
+          "kind": "persona",
+          "title": "The Surgeon",
+          "type": "archetype",
+          "taxonomy": "position_surgeon.md"
+        },
+        {
+          "file": "persona_the_trialist.md",
+          "kind": "persona",
+          "title": "The Trialist",
+          "type": "archetype",
+          "taxonomy": "position_trialist.md"
+        },
+        {
+          "file": "piece_the_improvement.md",
+          "kind": "piece",
+          "title": "The Improvement",
+          "taxonomy": "place_the_operating_theatre.md"
+        },
+        {
+          "file": "piece_the_licence.md",
+          "kind": "piece",
+          "title": "The Licence",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "piece_the_sham_incision.md",
+          "kind": "piece",
+          "title": "The Sham Incision",
+          "taxonomy": "place_the_committee_room.md"
+        },
+        {
+          "file": "pitch_cut_for_nothing.md",
+          "kind": "pitch",
+          "title": "Cut for Nothing",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "place_the_committee_room.md",
+          "kind": "place",
+          "title": "The Committee Room",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "place_the_operating_theatre.md",
+          "kind": "place",
+          "title": "The Operating Theatre",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "plan_do_the_operation.md",
+          "kind": "plan",
+          "title": "Do the Operation",
+          "taxonomy": "persona_the_surgeon.md"
+        },
+        {
+          "file": "plan_get_an_answer.md",
+          "kind": "plan",
+          "title": "Get an Answer",
+          "taxonomy": "persona_the_trialist.md"
+        },
+        {
+          "file": "plan_protect_the_volunteer.md",
+          "kind": "plan",
+          "title": "Protect the Volunteer",
+          "taxonomy": "persona_the_committee.md"
+        },
+        {
+          "file": "play_a_lower_bar_set_by_a_higher_one.md",
+          "kind": "play",
+          "title": "A Lower Bar Set by a Higher One"
+        },
+        {
+          "file": "plot_a_pill_costs_its_control_arm_nothing.md",
+          "kind": "plot",
+          "title": "A Pill Costs Its Control Arm Nothing",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "plot_and_a_procedures_control_costs_them_an_operation.md",
+          "kind": "plot",
+          "title": "And a Procedure's Control Costs Them an Operation",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "plot_and_the_improvement_is_real_and_says_nothing.md",
+          "kind": "plot",
+          "title": "And the Improvement Is Real and Says Nothing",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "plot_and_the_substitutes_cannot_reach_it.md",
+          "kind": "plot",
+          "title": "And the Substitutes Cannot Reach It",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "plot_so_the_committee_refuses_correctly.md",
+          "kind": "plot",
+          "title": "So the Committee Refuses, Correctly",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "plot_when_the_trial_does_run_it_sometimes_overturns_the_practice.md",
+          "kind": "plot",
+          "title": "When the Trial Does Run It Sometimes Overturns the Practice",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "position_committee.md",
+          "kind": "position",
+          "title": "Committee",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "position_patient.md",
+          "kind": "position",
+          "title": "Patient",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "position_regulator.md",
+          "kind": "position",
+          "title": "Regulator",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "position_surgeon.md",
+          "kind": "position",
+          "title": "Surgeon",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "position_trialist.md",
+          "kind": "position",
+          "title": "Trialist",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "process_getting_better_afterwards.md",
+          "kind": "process",
+          "title": "Getting Better Afterwards",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "process_licensing_on_what_there_is.md",
+          "kind": "process",
+          "title": "Licensing on What There Is",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "process_operating.md",
+          "kind": "process",
+          "title": "Operating",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
+        },
+        {
+          "file": "process_reviewing_the_protocol.md",
+          "kind": "process",
+          "title": "Reviewing the Protocol",
+          "taxonomy": "play_a_lower_bar_set_by_a_higher_one.md"
         }
       ]
     },
