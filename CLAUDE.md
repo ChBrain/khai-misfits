@@ -239,6 +239,32 @@ distinction is worth keeping: **the advisor orders lanes, not dependencies.** It
 answers which lanes a change spans, which is the question it was built for; it
 does not answer which half can stand alone on `main`, and nothing does.
 
+**And that order reverses when the surname is already declared, which is the
+other half of the same rule.** Cells-first is right for `Campbell`, and it is
+right because `Campbell` was **undeclared**: an undeclared surname collates, so
+the bare cells sit on `main` harmlessly and only the declaration would expose
+them. A surname the house has **already** declared is under the wall now. The
+cosmology misfit cites Martin White against a `White` declared with three other
+forms, so the moment it lands the occurrence is unresolved and `npm test` fails:
+there the **declaration goes first**, and the misfit cannot be written into the
+house until it does. The same pass carried both directions at once, since its
+`Scott` and `Schwarz` were undeclared and owed cells before anything, and its
+`White` was declared and owed a form before the misfit.
+
+So the question that fixes the order is not which lane a change is in and not
+which came first, but **which side is already under the wall**:
+
+| The surname                    | The order                                                     |
+| ------------------------------ | ------------------------------------------------------------- |
+| Not yet declared               | cells first, then the declaration                             |
+| Already declared, new namesake | **declaration first**, then the misfit that cites the new one |
+
+The pre-authoring probe answers this too, and costs one build: declare the
+candidate surnames locally and read `--namesakes`. Where the misfit is not yet
+in the tree, an already-declared surname reports **zero** owed, which is the
+answer, because the wall has long since forced every existing cell to resolve.
+That is the one case where a count taken before the pass is trustworthy.
+
 **And a rare surname is not a safe one.** The heuristic above says a common
 surname is more likely than not to be taken already, which is true and is the
 reason to run the full `"Scholar :: Work"` string. It does not run the other way.
