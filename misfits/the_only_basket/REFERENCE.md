@@ -2,7 +2,9 @@
 concept: "The Homevoter Hypothesis (local capitalisation; the single-asset household)"
 field: "Markets, money, and economic equilibria"
 source: "Fischel, _The Homevoter Hypothesis_ (2001)"
-updated: "2026-07-23"
+axis: owner-diversification
+sign: positive
+updated: "2026-08-19"
 ---
 
 # The Only Basket: Reference
@@ -42,6 +44,21 @@ asset-insurance motive of an undiversifiable home and the disenfranchisement of 
 the cost, a sincere portfolio defence by the enfranchised falling on the unenfranchised, not merely an
 unmanaged sum. The house stages the sincere equity-protection core and refuses any reading of the
 homeowner as a NIMBY acting from malice.
+
+And it stands **opposed** to the house's **Nobody Votes for the Plant**, on the same axis and with the
+opposite sign, which is the pairing that makes both legible. There the parties who cannot spread their
+stake, the worker whose capability is worth what it is worth in one building and the supplier who
+retooled for one customer, hold **no vote at all**, while the party that does hold it is a fund
+diversified by duty across several hundred companies, so the decision under-weights a concentration
+nobody voted for. Here the concentrated holder **is** the voter, and uses the ballot to defend the one
+asset it cannot spread. So the quantity is the same, the diversification of whoever holds the decision
+right, and the outcomes move in opposite directions: raising it relieves this misfit and causes that one.
+**What sets the sign is whether the concentrated exposure and the decision right sit in the same hands.**
+Where they do, as here, the concentration produces over-defence of the single asset and the cost falls on
+people who were never at the ballot; where they do not, the diversification produces under-weighting of
+the stake with no seat in the room. Neither misfit argues for the other's arrangement, and the pair is
+the point: moving a vote toward an exposure and away from one are the same lever, and it has a failure at
+each end.
 
 ## Origin
 

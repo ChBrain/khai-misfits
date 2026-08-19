@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.272.0",
+  "version": "0.273.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -19789,6 +19789,198 @@
           "kind": "process",
           "title": "Searching Diligently",
           "taxonomy": "play_nobody_to_ask.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "nobody_votes_for_the_plant",
+      "title": "Nobody Votes for the Plant",
+      "description": "Control goes to the party bearing residual risk, and that party is the one whose exposure is least concentrated.",
+      "members": [
+        {
+          "file": "persona_the_co_owner.md",
+          "kind": "persona",
+          "title": "The Co-owner",
+          "type": "archetype",
+          "taxonomy": "position_co_owner.md"
+        },
+        {
+          "file": "persona_the_director.md",
+          "kind": "persona",
+          "title": "The Director",
+          "type": "archetype",
+          "taxonomy": "position_director.md"
+        },
+        {
+          "file": "persona_the_specialist.md",
+          "kind": "persona",
+          "title": "The Specialist",
+          "type": "archetype",
+          "taxonomy": "position_specialist.md"
+        },
+        {
+          "file": "persona_the_trustee.md",
+          "kind": "persona",
+          "title": "The Trustee",
+          "type": "archetype",
+          "taxonomy": "position_trustee.md"
+        },
+        {
+          "file": "persona_the_valuer.md",
+          "kind": "persona",
+          "title": "The Valuer",
+          "type": "archetype",
+          "taxonomy": "position_valuer.md"
+        },
+        {
+          "file": "piece_the_firm_specific_skill.md",
+          "kind": "piece",
+          "title": "The Firm-Specific Skill",
+          "taxonomy": "place_the_shop_floor.md"
+        },
+        {
+          "file": "piece_the_share.md",
+          "kind": "piece",
+          "title": "The Share",
+          "taxonomy": "place_the_board_room.md"
+        },
+        {
+          "file": "piece_the_valuation.md",
+          "kind": "piece",
+          "title": "The Valuation",
+          "taxonomy": "place_the_board_room.md"
+        },
+        {
+          "file": "pitch_everything_here_a_fraction_there.md",
+          "kind": "pitch",
+          "title": "Everything Here, a Fraction There",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "place_the_board_room.md",
+          "kind": "place",
+          "title": "The Board Room",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "place_the_shop_floor.md",
+          "kind": "place",
+          "title": "The Shop Floor",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "plan_answer_to_one.md",
+          "kind": "plan",
+          "title": "Answer to One",
+          "taxonomy": "persona_the_director.md"
+        },
+        {
+          "file": "plan_learn_this_place.md",
+          "kind": "plan",
+          "title": "Learn This Place",
+          "taxonomy": "persona_the_specialist.md"
+        },
+        {
+          "file": "plan_spread_the_risk.md",
+          "kind": "plan",
+          "title": "Spread the Risk",
+          "taxonomy": "persona_the_trustee.md"
+        },
+        {
+          "file": "play_nobody_votes_for_the_plant.md",
+          "kind": "play",
+          "title": "Nobody Votes for the Plant"
+        },
+        {
+          "file": "plot_and_the_residual_claimant_is_the_right_answer.md",
+          "kind": "plot",
+          "title": "And the Residual Claimant Is the Right Answer",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "plot_and_the_skill_is_not.md",
+          "kind": "plot",
+          "title": "And the Skill Is Not",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "plot_and_what_is_lost_was_never_priced.md",
+          "kind": "plot",
+          "title": "And What Is Lost Was Never Priced",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "plot_but_the_share_is_made_to_be_divided.md",
+          "kind": "plot",
+          "title": "But the Share Is Made to Be Divided",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "plot_giving_the_exposed_a_vote_costs_more_than_it_saves.md",
+          "kind": "plot",
+          "title": "Giving the Exposed a Vote Costs More Than It Saves",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "plot_somebody_has_to_be_answerable.md",
+          "kind": "plot",
+          "title": "Somebody Has to Be Answerable",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "position_co_owner.md",
+          "kind": "position",
+          "title": "Co-owner",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "position_director.md",
+          "kind": "position",
+          "title": "Director",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "position_specialist.md",
+          "kind": "position",
+          "title": "Specialist",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "position_trustee.md",
+          "kind": "position",
+          "title": "Trustee",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "position_valuer.md",
+          "kind": "position",
+          "title": "Valuer",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "process_deciding_for_the_residual_claimant.md",
+          "kind": "process",
+          "title": "Deciding for the Residual Claimant",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "process_holding_a_fraction_of_everything.md",
+          "kind": "process",
+          "title": "Holding a Fraction of Everything",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "process_learning_what_only_works_here.md",
+          "kind": "process",
+          "title": "Learning What Only Works Here",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
+        },
+        {
+          "file": "process_putting_a_price_on_it.md",
+          "kind": "process",
+          "title": "Putting a Price on It",
+          "taxonomy": "play_nobody_votes_for_the_plant.md"
         }
       ]
     },
