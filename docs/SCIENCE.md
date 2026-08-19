@@ -1971,7 +1971,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `the_last_layer` | Joseph A. Tainter; Leslie A. White; Turgot & Ricardo; Elman R. Service; Colin Renfrew |
 | `the_law_of_the_instrument` | Kaplan; Maslow; Duncker; Abraham S. Luchins; Twain (attr.); Practitioner |
 | `the_leadership_script` | Fairclough; Bourdieu; Meindl, Ehrlich & Dukerich; Khurana; Alvesson & Sveningsson; Boundary of the effect |
-| `the_letter_of_the_law` | Amodei, Olah, Steinhardt, Christiano, Schulman & Mané; Krakovna and colleagues; Clark & Amodei; Lehman and colleagues; Russell; Boundary of the effect |
+| `the_letter_of_the_law` | Amodei, Olah, Steinhardt, Christiano, Schulman & Mané; Krakovna and colleagues; Clark & Amodei; Lehman and colleagues; Russell; The online controlled experiment; Boundary of the effect |
 | `the_lie_of_the_land` | Schlaepfer, Runge & Sherman; Robertson & Hutto; Battin; Dwernychuk & Boag; Boundary of the effect |
 | `the_load_it_always_carried` | August Wöhler; Palmgren and Miner; Paris and Erdogan; Fractography / practice; Practitioner |
 | `the_long_calm` | Hyman Minsky; Paul McCulley (PIMCO); Practitioner |
