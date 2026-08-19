@@ -5421,7 +5421,7 @@ looks.** It killed patent examination before any lookup, because the honest vers
 rejection costs the examiner more effort than grant, which names a culprit rather than a casualty and is the
 framing the house forbids.
 
-- [ ] [P0] The Court Interpreter's Bind (Berk-Seligson, _The Bilingual Courtroom_, 1990, on more than a hundred
+- [x] [P0] The Court Interpreter's Bind (Berk-Seligson, _The Bilingual Courtroom_, 1990, on more than a hundred
       hours of Spanish and English proceedings plus mock-juror experiments on a matched-guise design; Hale on
       the discourse of court interpreting; Wadensjö on interpreting as interaction; Conley and O'Barr on
       powerless speech style): an interpreter is required to render faithfully **and** to be invisible, and the
@@ -5439,7 +5439,23 @@ framing the house forbids.
       explains rather than contradicts; **Morris is a namesake that is avoidable on the merits**, the house
       holding Stephen in The Beauty Contest against Ruth the interpreting scholar, whose contribution on role
       conflict is carried by Hale and Wadensjö anyway; Hale is clear, the house's only near match being Haley in
-      The Double Bind
+      The Double Bind, staged as **In Somebody Else's Words**: the occupational-bind generator paid on its first
+      candidate and the line held, but the sharpest thing in the build was not in the line, which is that **the
+      monolingual baseline is what makes this a substitution rather than an invention**, since Conley, O'Barr
+      and Lind had already shown that hedges and hesitation lower ratings of a witness with the evidence held
+      fixed, so the interpreter is not introducing an effect but unavoidably authoring a variable already known
+      to move verdict-relevant judgements; the second thing the build added is **the record**, which outlasts
+      the hearing, keeps only the language the court acts in, and is therefore the one durable artefact that
+      cannot show the substitution, so the question of whose hedge it was cannot be asked on appeal either;
+      **the ninth sweep's own scan-again rule paid immediately and would have cost the misfit without it**,
+      because the obvious citation for the baseline is Erickson, Lind, Johnson and O'Barr in JESP and it
+      carries a **Johnson**, the declared surname with five forms, which would have forced a governance pull
+      request before the misfit could land; the Duke Law Journal paper by Conley, O'Barr and Lind is the same
+      research programme stated for a courtroom audience and carries no namesake, so the swap is on the merits
+      and is the better citation for a play about court procedure; nearest neighbour turned out to be **Marked
+      the Same by Anyone** rather than The Same Print Twice, since both stage a family where the requirement
+      that makes a process fair is the requirement that damages what it handles, the line between them being
+      that consistency **suppresses** a property there while a second speaker **re-authors** it here
 - [ ] [P1] The Conservator's Reversibility Rule (the conservation profession's principle that an intervention
       should be reversible; the documented cases where it was not; the preservation-in-situ and minimal-
       intervention debates): a treatment must be reversible so a later conservator with better knowledge is not
