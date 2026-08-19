@@ -5294,7 +5294,7 @@ each in a field the candidate's own subject would not have suggested.
       direction**, the house holding five forms already, so if Ritchie & Johnson (2009) is cited the declaration
       must land **before** the misfit by the rule the cosmology pass established, and the cheaper route is to
       build on Crooks, Soulé and Prugh and cite Ritchie & Johnson only if the warrant needs it, staged as **Who Else It Was Holding Down**: the Hydra test passed and the shape of the pass is worth keeping, since the incumbent is **one species and its own regulation** while this is a **chain of three**, the target staying removed as the premise, the rise landing in a second species nobody acted on and the cost in a third that was never in the sequence; the cheaper route held and Ritchie & Johnson was not needed, so the expensive Johnson declaration was avoided **on the merits** rather than routed around, the mechanism row going to Polis, Myers and Robert D Holt on intraguild predation instead, which is the better citation anyway because it is what makes the suppression and the offence one act rather than two; **Holt was a second namesake found in the writing and not in the scan**, which is the general finding the pass produced and is not about Holt: **the pre-authoring scan covers the sources you planned, and the best row in a warrant is often chosen during the build.** The Polis, Myers and Holt citation did not exist when the surnames were scanned, because the mechanism row was going to Ritchie and Johnson and was moved when a better source was found, so the scan was complete against a plan the writing then changed. Nothing catches that except scanning again at the end, which costs one command, and the cost of not doing it is a silent merge of two people under one key that no wall can see while the surname is undeclared, Charles the experimental economist in Information Cascade against Robert D here, undeclared so the order was free, and the incumbent cell rides this same misfit lane with the declaration owed as one governance pull request after; the cut moved during the build, from the backfiring intervention the line described to **the ledger having no column for the party that pays**, which is sharper and is what keeps it clear of The Cobra Effect, since nothing here is gamed and the programme simply succeeds; and the contested generality is heavier than the line knew, most of the evidence being correlative, reviews finding about half of studied pairings behaving as predicted and one large fenced dingo removal finding no release at all, so the warrant stages a structure demonstrated in specific systems and makes no claim that predator control generally backfires
-- [ ] [P1] The Paradox of Enrichment (Rosenzweig, "Paradox of Enrichment: Destabilization of Exploitation
+- [x] [P1] The Paradox of Enrichment (Rosenzweig, "Paradox of Enrichment: Destabilization of Exploitation
       Ecosystems in Ecological Time", Science, 1971, which found the result in six separate models of two-species
       exploitation): increasing the food available to a prey population destabilises the predator-prey
       equilibrium rather than enlarging it, so the oscillations grow until a trough reaches zero and enriching a
@@ -5311,7 +5311,21 @@ each in a field the candidate's own subject would not have suggested.
       this candidate has to be cut either to the models and their agreement, stated as such, or abandoned. It is
       a P1 and not a P0 for that reason alone. The Luckinbill enrichment experiment and the Jensen and Ginzburg
       critique were both raised from recollection and **neither was confirmed by lookup**, so both are leads and
-      not citations.
+      not citations. **Held rather than staged, and the line's own reason for holding it was
+      wrong.** The lookup that the line demanded was run and it went the other way: the paradox **is**
+      demonstrated, twice and cleanly, by Luckinbill (1973) stabilising a Didinium and Paramecium culture by
+      **lowering** the prey carrying capacity, and by Fussmann and colleagues (Science, 2000) shifting a rotifer
+      and algae chemostat out of consistent predator extinction by **reducing** nutrient input. So the
+      demonstrated-error standard is met and was never the obstacle. What the candidate has no answer to is the
+      other test, and it fails on it flatly: **there is no party who pays.** In the laboratory the culture
+      crashes on purpose, in an experiment built to make it crash, and the experimenters obtained the result
+      they were testing for. In the field the instances are eutrophication, which has a culprit and is therefore
+      the framing the house forbids, and where the mechanism is contested anyway. Cut instead to the modelling
+      reading, that the abstraction which makes a system tractable removes exactly the features that stabilise
+      it, and it is **The Abstraction Ladder's mechanism in a new domain**, which by the house's own table is an
+      Origin row and not a play, and it would land back in the field the eighth sweep was run to leave. It
+      returns if somebody finds a management decision taken **because** of the enrichment result that cost
+      somebody something
 
 **A gate failed without finding anything, and the shape of that is worth carrying.** The canon validator
 went red once during the Holt pass, passed on a re-run with nothing changed in the tree, and was written off in
@@ -5350,3 +5364,32 @@ misfit.** When a second one appears it will look the same, quiet and intermitten
 The check is to ask whether the failing thing has a fixed limit and a cost that grows, and the fix is to move
 the limit rather than the work. The candidate already visible is **`prettier --check`, which takes 64 seconds
 on CI**, sixteen times the entire test suite, and grows with every file the house adds.
+
+**And the enrichment hold separated two tests the register has been running as one.** Every triage in this file
+has asked whether a candidate's failure is **demonstrated**, and that standard was set when A Lower Bar Set by a
+Higher One was built, correctly, because a gap that carries only a theoretical error is a gap the house cannot
+stage without asserting something nobody has shown. The enrichment candidate was held at P1 on exactly that
+ground and the ground was wrong: two laboratory demonstrations exist and are clean, and the lookup that the line
+itself demanded is what turned them up.
+
+What the candidate actually lacks is a **casualty**. The house's other standing requirement is a failure
+authored by nobody **that somebody bears**, and the two are independent:
+
+| The candidate                       | The verdict                                   |
+| ----------------------------------- | --------------------------------------------- |
+| Demonstrated, and somebody pays     | a misfit                                      |
+| Demonstrated, and nobody pays       | a research result, and this is the new case   |
+| Theoretical, and somebody would pay | held until it is shown, which A Lower Bar set |
+| Theoretical, and nobody pays        | not a candidate at all                        |
+
+Enrichment sits in the second row and the register had no name for it. A protist culture crashing in an
+apparatus built to make it crash is a successful experiment, not a cost, and the field cases carry a culprit,
+which is the framing the house forbids rather than a casualty it can stage. **So "is it demonstrated" and "who
+pays" are two questions, and a candidate can pass the first cleanly and fail the second flatly.** Ask the second
+one first: it is cheaper, it needs no lookup, and it is the one that decides.
+
+**The slate now carries one line, [P2] The Only Instrument Is the Report, and that line is in Measurement.** So
+the eighth sweep bought the house exactly one misfit outside the over-concentrated field and the concentration
+reasserts itself the moment the slate is worked down. A ninth sweep is owed before or beside that line rather
+than after it, and the eighth pass's instrument still stands: read the field count first, and remember that the
+thinnest field is not automatically the opportunity.
