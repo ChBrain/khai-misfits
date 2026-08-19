@@ -5393,3 +5393,68 @@ the eighth sweep bought the house exactly one misfit outside the over-concentrat
 reasserts itself the moment the slate is worked down. A ninth sweep is owed before or beside that line rather
 than after it, and the eighth pass's instrument still stands: read the field count first, and remember that the
 thinnest field is not automatically the opportunity.
+
+**The ninth field sweep, and it changed the generator rather than the field.** The eighth pass built an
+instrument for choosing _where_ to look and it still stands, but it does not generate candidates, and this pass
+found out what does not. Working from **named effects** recalled against the thin fields, every single candidate
+was already held: Triffin by More Than It Can Back, Cantillon by Nearest the Spring, the volunteer's dilemma by
+Cheaper Not to Know, the bystander effect by Everybody's Business, normalisation of deviance by The New Normal
+and three others, regulatory capture by its own misfit, the Shirky principle by Pournelle's Iron Law, the bus
+factor by Only as Good as the Worst. **Eight for eight.** At 282 the house has the named-effect space in these
+fields densely covered, and a generator that produces famous names produces incumbents.
+
+**So the pass switched to occupational binds, and that ground is open.** Court interpreting, conservation
+treatment, harbour pilotage, patent examination, sworn translation: none of it is in the house, and the words
+that did match are ordinary English rather than the professions. The distinction is not about domains, since
+the fifth pass's seam was methodological constraints of **disciplines**, which is research method. This is what
+a **practitioner** is required to do by a standard that cannot be met, which is a different question and returns
+different work.
+
+**And that corrects the eighth pass's reading of Groups, candour and face.** That pass reported the field
+covered and it was right about the candidates it raised, all of which were named psychological effects, and
+wrong about the field: the incumbent set is dense in named effects and empty of occupational binds. **A field
+is only as covered as the generator that surveyed it**, so "thin but covered" should be read as a fact about
+the last sweep rather than about the house.
+
+**The who-pays test from the enrichment hold was applied first on every candidate, and it is cheaper than it
+looks.** It killed patent examination before any lookup, because the honest version of that bind is that
+rejection costs the examiner more effort than grant, which names a culprit rather than a casualty and is the
+framing the house forbids.
+
+- [ ] [P0] The Court Interpreter's Bind (Berk-Seligson, _The Bilingual Courtroom_, 1990, on more than a hundred
+      hours of Spanish and English proceedings plus mock-juror experiments on a matched-guise design; Hale on
+      the discourse of court interpreting; Wadensjö on interpreting as interaction; Conley and O'Barr on
+      powerless speech style): an interpreter is required to render faithfully **and** to be invisible, and the
+      two cannot both be done, because hesitation, hedging, register and politeness carry the information a
+      fact-finder uses to judge credibility, so a fluent rendering smooths away what the witness signalled and a
+      literal one makes a competent speaker sound incoherent; the experiments show the alterations move
+      mock-juror judgements of the witness, which makes this **demonstrated rather than argued**; to be cut to
+      **the standard that cannot be met**, since the interpreter is highly trained, is following a code that is
+      correct, and is the only party in the room who can see the problem, and never to a story about a bad
+      interpreter or an indifferent court; **who pays is the clearest of any candidate this pass**, being the
+      witness or defendant, whose credibility is assessed on a rendering they did not produce and cannot check;
+      named clear of **The Same Print Twice**, where an examiner is contaminated by context and the repair is to
+      withhold it, since here nothing is withheld from anybody and the distortion is produced by rendering
+      itself; the field is **Groups, candour, and face** and it is the thinnest, which the previous paragraph
+      explains rather than contradicts; **Morris is a namesake that is avoidable on the merits**, the house
+      holding Stephen in The Beauty Contest against Ruth the interpreting scholar, whose contribution on role
+      conflict is carried by Hale and Wadensjö anyway; Hale is clear, the house's only near match being Haley in
+      The Double Bind
+- [ ] [P1] The Conservator's Reversibility Rule (the conservation profession's principle that an intervention
+      should be reversible; the documented cases where it was not; the preservation-in-situ and minimal-
+      intervention debates): a treatment must be reversible so a later conservator with better knowledge is not
+      foreclosed, no treatment is fully reversible, and doing nothing is itself a choice with a cost, since the
+      object decays while the rule is being honoured; **to be tested for annexation against Taken Apart to Be
+      Read and against Kept for the Questions We Had before authoring**, and the distinguishing claim to be
+      established or abandoned is that nothing here is destroyed to be measured and nothing is selected against
+      today's questions: the object survives, is altered, and the alteration is the act of saving it; if the
+      test fails the move is an Origin row on whichever incumbent takes it
+- [ ] [P2] The Pilot Aboard (the maritime pilot who has the local knowledge and not the command; the master who
+      has the command and not the local knowledge; the master-pilot exchange and the groundings that turn on
+      it): authority and knowledge are held by two different people by design, and the design is right, since a
+      pilot cannot be given command of a ship they do not know and a master cannot be given knowledge of a
+      channel they transit twice a year; **this is the weakest of the three and the line should say so**: the
+      shape is an authority gradient, which the register has already warned is close to a mould, and it must be
+      tested against The MUM Effect and against the house's other deference misfits before anybody writes a
+      cast; what would save it is that nothing here is unsaid, since the pilot speaks and is heard, and the
+      split is contractual rather than psychological
