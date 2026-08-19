@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.279.0",
+  "version": "0.280.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -8523,6 +8523,198 @@
           "kind": "process",
           "title": "Weighing",
           "taxonomy": "play_early_and_uncounted.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "erased_by_what_divided_them",
+      "title": "Erased by What Divided Them",
+      "description": "The divergence that makes a language family is the same process that erases the evidence it exists.",
+      "members": [
+        {
+          "file": "persona_the_borrower.md",
+          "kind": "persona",
+          "title": "The Borrower",
+          "type": "archetype",
+          "taxonomy": "position_borrower.md"
+        },
+        {
+          "file": "persona_the_comparativist.md",
+          "kind": "persona",
+          "title": "The Comparativist",
+          "type": "archetype",
+          "taxonomy": "position_comparativist.md"
+        },
+        {
+          "file": "persona_the_long_ranger.md",
+          "kind": "persona",
+          "title": "The Long Ranger",
+          "type": "archetype",
+          "taxonomy": "position_long_ranger.md"
+        },
+        {
+          "file": "persona_the_referee.md",
+          "kind": "persona",
+          "title": "The Referee",
+          "type": "archetype",
+          "taxonomy": "position_referee.md"
+        },
+        {
+          "file": "persona_the_shuffler.md",
+          "kind": "persona",
+          "title": "The Shuffler",
+          "type": "archetype",
+          "taxonomy": "position_shuffler.md"
+        },
+        {
+          "file": "piece_the_chance_match.md",
+          "kind": "piece",
+          "title": "The Chance Match",
+          "taxonomy": "place_the_deep_field.md"
+        },
+        {
+          "file": "piece_the_correspondence.md",
+          "kind": "piece",
+          "title": "The Correspondence",
+          "taxonomy": "place_the_wordlist.md"
+        },
+        {
+          "file": "piece_the_replacement_rate.md",
+          "kind": "piece",
+          "title": "The Replacement Rate",
+          "taxonomy": "place_the_wordlist.md"
+        },
+        {
+          "file": "pitch_as_many_by_accident.md",
+          "kind": "pitch",
+          "title": "As Many by Accident",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "place_the_deep_field.md",
+          "kind": "place",
+          "title": "The Deep Field",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "place_the_wordlist.md",
+          "kind": "place",
+          "title": "The Wordlist",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "plan_reach_further_back.md",
+          "kind": "plan",
+          "title": "Reach Further Back",
+          "taxonomy": "persona_the_long_ranger.md"
+        },
+        {
+          "file": "plan_reconstruct_the_ancestor.md",
+          "kind": "plan",
+          "title": "Reconstruct the Ancestor",
+          "taxonomy": "persona_the_comparativist.md"
+        },
+        {
+          "file": "plan_rule_on_the_claim.md",
+          "kind": "plan",
+          "title": "Rule on the Claim",
+          "taxonomy": "persona_the_referee.md"
+        },
+        {
+          "file": "play_erased_by_what_divided_them.md",
+          "kind": "play",
+          "title": "Erased by What Divided Them"
+        },
+        {
+          "file": "plot_and_contact_supplies_the_rest.md",
+          "kind": "plot",
+          "title": "And Contact Supplies the Rest",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "plot_and_the_regularity_is_made_by_the_divergence.md",
+          "kind": "plot",
+          "title": "And the Regularity Is Made by the Divergence",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "plot_below_the_floor_chance_supplies_as_many.md",
+          "kind": "plot",
+          "title": "Below the Floor, Chance Supplies as Many",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "plot_so_the_region_beyond_answers_neither_way.md",
+          "kind": "plot",
+          "title": "So the Region Beyond Answers Neither Way",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "plot_the_evidence_is_a_regularity.md",
+          "kind": "plot",
+          "title": "The Evidence Is a Regularity",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "plot_which_also_consumes_it_at_a_rate.md",
+          "kind": "plot",
+          "title": "Which Also Consumes It, at a Rate",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "position_borrower.md",
+          "kind": "position",
+          "title": "Borrower",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "position_comparativist.md",
+          "kind": "position",
+          "title": "Comparativist",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "position_long_ranger.md",
+          "kind": "position",
+          "title": "Long Ranger",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "position_referee.md",
+          "kind": "position",
+          "title": "Referee",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "position_shuffler.md",
+          "kind": "position",
+          "title": "Shuffler",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "process_finding_the_correspondences.md",
+          "kind": "process",
+          "title": "Finding the Correspondences",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "process_reaching_past_the_horizon.md",
+          "kind": "process",
+          "title": "Reaching Past the Horizon",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "process_refereeing_the_claim.md",
+          "kind": "process",
+          "title": "Refereeing the Claim",
+          "taxonomy": "play_erased_by_what_divided_them.md"
+        },
+        {
+          "file": "process_shuffling_the_lists.md",
+          "kind": "process",
+          "title": "Shuffling the Lists",
+          "taxonomy": "play_erased_by_what_divided_them.md"
         }
       ]
     },
