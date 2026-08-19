@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.273.0",
+  "version": "0.274.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -48419,6 +48419,198 @@
           "kind": "process",
           "title": "Testing",
           "taxonomy": "play_the_rare_disease_test.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_same_name_on_both_registers",
+      "title": "The Same Name on Both Registers",
+      "description": "One fund is on the register of every rival, so competing hard moves value between its own holdings.",
+      "members": [
+        {
+          "file": "persona_the_chief_executive.md",
+          "kind": "persona",
+          "title": "The Chief Executive",
+          "type": "archetype",
+          "taxonomy": "position_chief_executive.md"
+        },
+        {
+          "file": "persona_the_econometrician.md",
+          "kind": "persona",
+          "title": "The Econometrician",
+          "type": "archetype",
+          "taxonomy": "position_econometrician.md"
+        },
+        {
+          "file": "persona_the_fund_manager.md",
+          "kind": "persona",
+          "title": "The Fund Manager",
+          "type": "archetype",
+          "taxonomy": "position_fund_manager.md"
+        },
+        {
+          "file": "persona_the_regulator.md",
+          "kind": "persona",
+          "title": "The Regulator",
+          "type": "archetype",
+          "taxonomy": "position_regulator.md"
+        },
+        {
+          "file": "persona_the_saver.md",
+          "kind": "persona",
+          "title": "The Saver",
+          "type": "archetype",
+          "taxonomy": "position_saver.md"
+        },
+        {
+          "file": "piece_the_index.md",
+          "kind": "piece",
+          "title": "The Index",
+          "taxonomy": "place_the_register.md"
+        },
+        {
+          "file": "piece_the_overlap.md",
+          "kind": "piece",
+          "title": "The Overlap",
+          "taxonomy": "place_the_register.md"
+        },
+        {
+          "file": "piece_the_pay_package.md",
+          "kind": "piece",
+          "title": "The Pay Package",
+          "taxonomy": "place_the_route.md"
+        },
+        {
+          "file": "pitch_no_meeting_took_place.md",
+          "kind": "pitch",
+          "title": "No Meeting Took Place",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "place_the_register.md",
+          "kind": "place",
+          "title": "The Register",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "place_the_route.md",
+          "kind": "place",
+          "title": "The Route",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "plan_own_a_little_of_everything.md",
+          "kind": "plan",
+          "title": "Own a Little of Everything",
+          "taxonomy": "persona_the_fund_manager.md"
+        },
+        {
+          "file": "plan_retire_on_this.md",
+          "kind": "plan",
+          "title": "Retire on This",
+          "taxonomy": "persona_the_saver.md"
+        },
+        {
+          "file": "plan_run_the_airline.md",
+          "kind": "plan",
+          "title": "Run the Airline",
+          "taxonomy": "persona_the_chief_executive.md"
+        },
+        {
+          "file": "play_the_same_name_on_both_registers.md",
+          "kind": "play",
+          "title": "The Same Name on Both Registers"
+        },
+        {
+          "file": "plot_and_holding_both_makes_it_indifferent.md",
+          "kind": "plot",
+          "title": "And Holding Both Makes It Indifferent",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "plot_and_whether_it_happened_cannot_be_settled.md",
+          "kind": "plot",
+          "title": "And Whether It Happened Cannot Be Settled",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "plot_nobody_instructs_anybody.md",
+          "kind": "plot",
+          "title": "Nobody Instructs Anybody",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "plot_the_fund_must_hold_them_all.md",
+          "kind": "plot",
+          "title": "The Fund Must Hold Them All",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "plot_the_signal_travels_through_ordinary_pay_design.md",
+          "kind": "plot",
+          "title": "The Signal Travels Through Ordinary Pay Design",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "plot_there_is_nothing_to_detect.md",
+          "kind": "plot",
+          "title": "There Is Nothing to Detect",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "position_chief_executive.md",
+          "kind": "position",
+          "title": "Chief Executive",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "position_econometrician.md",
+          "kind": "position",
+          "title": "Econometrician",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "position_fund_manager.md",
+          "kind": "position",
+          "title": "Fund Manager",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "position_regulator.md",
+          "kind": "position",
+          "title": "Regulator",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "position_saver.md",
+          "kind": "position",
+          "title": "Saver",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "process_buying_the_whole_market.md",
+          "kind": "process",
+          "title": "Buying the Whole Market",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "process_not_starting_the_price_war.md",
+          "kind": "process",
+          "title": "Not Starting the Price War",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "process_setting_the_pay.md",
+          "kind": "process",
+          "title": "Setting the Pay",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
+        },
+        {
+          "file": "process_testing_whether_it_happened.md",
+          "kind": "process",
+          "title": "Testing Whether It Happened",
+          "taxonomy": "play_the_same_name_on_both_registers.md"
         }
       ]
     },
