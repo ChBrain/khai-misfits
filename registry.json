@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.275.0",
+  "version": "0.276.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -31819,6 +31819,198 @@
           "kind": "process",
           "title": "Surprising",
           "taxonomy": "play_stranger_than_true.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "taken_apart_to_be_read",
+      "title": "Taken Apart to Be Read",
+      "description": "A site can be read once, because reading it is taking it apart, and every later method would read it better.",
+      "members": [
+        {
+          "file": "persona_the_curator.md",
+          "kind": "persona",
+          "title": "The Curator",
+          "type": "archetype",
+          "taxonomy": "position_curator.md"
+        },
+        {
+          "file": "persona_the_excavator.md",
+          "kind": "persona",
+          "title": "The Excavator",
+          "type": "archetype",
+          "taxonomy": "position_excavator.md"
+        },
+        {
+          "file": "persona_the_later_hand.md",
+          "kind": "persona",
+          "title": "The Later Hand",
+          "type": "archetype",
+          "taxonomy": "position_later_hand.md"
+        },
+        {
+          "file": "persona_the_planner.md",
+          "kind": "persona",
+          "title": "The Planner",
+          "type": "archetype",
+          "taxonomy": "position_planner.md"
+        },
+        {
+          "file": "persona_the_recorder.md",
+          "kind": "persona",
+          "title": "The Recorder",
+          "type": "archetype",
+          "taxonomy": "position_recorder.md"
+        },
+        {
+          "file": "piece_the_method_not_yet_invented.md",
+          "kind": "piece",
+          "title": "The Method Not Yet Invented",
+          "taxonomy": "place_the_scheduled_field.md"
+        },
+        {
+          "file": "piece_the_section.md",
+          "kind": "piece",
+          "title": "The Section",
+          "taxonomy": "place_the_trench.md"
+        },
+        {
+          "file": "piece_the_site_report.md",
+          "kind": "piece",
+          "title": "The Site Report",
+          "taxonomy": "place_the_trench.md"
+        },
+        {
+          "file": "pitch_better_hands_next_century.md",
+          "kind": "pitch",
+          "title": "Better Hands Next Century",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "place_the_scheduled_field.md",
+          "kind": "place",
+          "title": "The Scheduled Field",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "place_the_trench.md",
+          "kind": "place",
+          "title": "The Trench",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "plan_leave_it_where_it_is.md",
+          "kind": "plan",
+          "title": "Leave It Where It Is",
+          "taxonomy": "persona_the_curator.md"
+        },
+        {
+          "file": "plan_open_the_trench.md",
+          "kind": "plan",
+          "title": "Open the Trench",
+          "taxonomy": "persona_the_excavator.md"
+        },
+        {
+          "file": "plan_write_down_everything.md",
+          "kind": "plan",
+          "title": "Write Down Everything",
+          "taxonomy": "persona_the_recorder.md"
+        },
+        {
+          "file": "play_taken_apart_to_be_read.md",
+          "kind": "play",
+          "title": "Taken Apart to Be Read"
+        },
+        {
+          "file": "plot_and_every_later_method_would_do_better.md",
+          "kind": "plot",
+          "title": "And Every Later Method Would Do Better",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "plot_and_the_timetable_belongs_to_somebody_else.md",
+          "kind": "plot",
+          "title": "And the Timetable Belongs to Somebody Else",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "plot_but_the_ground_does_not_wait.md",
+          "kind": "plot",
+          "title": "But the Ground Does Not Wait",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "plot_leaving_it_is_a_decision_too.md",
+          "kind": "plot",
+          "title": "Leaving It Is a Decision Too",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "plot_reading_it_is_taking_it_apart.md",
+          "kind": "plot",
+          "title": "Reading It Is Taking It Apart",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "plot_the_record_is_only_as_good_as_the_questions.md",
+          "kind": "plot",
+          "title": "The Record Is Only As Good As the Questions",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "position_curator.md",
+          "kind": "position",
+          "title": "Curator",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "position_excavator.md",
+          "kind": "position",
+          "title": "Excavator",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "position_later_hand.md",
+          "kind": "position",
+          "title": "Later Hand",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "position_planner.md",
+          "kind": "position",
+          "title": "Planner",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "position_recorder.md",
+          "kind": "position",
+          "title": "Recorder",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "process_digging_to_somebody_elses_timetable.md",
+          "kind": "process",
+          "title": "Digging to Somebody Else's Timetable",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "process_leaving_it_in_the_ground.md",
+          "kind": "process",
+          "title": "Leaving It in the Ground",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "process_lifting_the_layer.md",
+          "kind": "process",
+          "title": "Lifting the Layer",
+          "taxonomy": "play_taken_apart_to_be_read.md"
+        },
+        {
+          "file": "process_recording_what_is_removed.md",
+          "kind": "process",
+          "title": "Recording What Is Removed",
+          "taxonomy": "play_taken_apart_to_be_read.md"
         }
       ]
     },
