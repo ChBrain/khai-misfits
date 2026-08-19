@@ -350,6 +350,15 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       );
     process.exit(0);
   }
+  if (args.includes("--suffixes")) {
+    const bad = findSuffixKeys();
+    if (!bad.length) console.log("no index key is a generational suffix.");
+    for (const b of bad)
+      console.log(
+        `SUFFIX  "${b.key}" is keyed from ${b.misfit}: the Source cell ends in a suffix,\n     so the build took it for the surname. Drop the suffix from the cell.`,
+      );
+    process.exit(0);
+  }
   if (args.includes("--families")) {
     for (const f of canonFamilies()) {
       const marked = f.misfits.map((d) => (f.declared.includes(d) ? d : d + " (no axis)"));
@@ -720,4 +729,32 @@ export function findShadowedForms(root = ROOT) {
     });
   }
   return shadowed.sort((a, b) => a.surname.localeCompare(b.surname));
+}
+
+// A generational suffix is not a surname, and the build cannot tell.
+//
+// The science build takes the **last token** of an author part as the surname,
+// which is right for every name the house holds and wrong for the handful that
+// carry a suffix: "Robert E. Lucas Jr." keyed under `Jr` and "John C. Bailar
+// III" under `III`, so neither scholar was findable under their own name and a
+// pre-authoring scan for Lucas returned a false clear.
+//
+// This is the third instance of one shape. A declared form ordered wrongly, a
+// surname resolved to the wrong person, and a suffix taken for a surname are all
+// the index key being computed from a cell an author wrote, with nothing checking
+// that the computation found a person. Each was caught by eye and none by a gate.
+//
+// So this is a gate, and a narrow one: the suffixes are a closed list, they are
+// never surnames anywhere, and asserting it costs nothing. The fix is always to
+// drop the suffix from the Source cell, never to add it to a policy.
+export function findSuffixKeys(root = ROOT) {
+  const GENERATIONAL = new Set(["jr", "sr", "ii", "iii", "iv", "v", "jnr", "snr"]);
+  const bad = [];
+  const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
+  for (const row of rows) {
+    const bare = row.scholar.replace(/\s*\(.*\)$/, "");
+    if (GENERATIONAL.has(bare.toLowerCase().replace(/[.,]/g, "")))
+      bad.push({ key: row.scholar, misfit: row.misfit, work: row.work });
+  }
+  return bad;
 }

@@ -5092,3 +5092,19 @@ are three faces of one thing, which is that the index key is computed from a cel
 nothing checks that the computation found a person. Each was caught by eye and none by a gate. The gate that
 would have caught this one is narrow and is owed with the declaration: **no index key may be a generational
 suffix**, which is a closed list and costs nothing to assert.
+
+**Lucas declared and the suffix walled, at 33 surnames and 21 tests.** Gavin in Taken Apart to Be Read against
+Robert E in True Until It Was Used, both certain and one cell each, so the cheap kind again. The wall is the
+narrow one the previous pass said was owed: **no index key may be a generational suffix**, verified in both
+directions against the real shape of the defect, which is a bare `Jr` key and not a `Lucas Jr` one. The first
+attempt at that verification injected the wrong shape and passed, which is worth a line of its own: **a gate
+tested against a defect you have reconstructed from memory is tested against your memory.** The real key was
+still in the previous build and could have been read instead of imagined.
+
+The three walls now standing on the scholar key are one shape seen three times, and the register should stop
+treating each as a surprise. `--forms` catches a declared form ordered so that another form absorbs it.
+`--namesakes` catches a declared surname left bare. `--suffixes` catches a key that is not a name at all. What
+they have in common is that **the index key is computed from a cell an author wrote and nothing checks that the
+computation found a person**, and in each case every other gate passed, the counts read clean, and a person
+found it by eye. A fourth will look like those three: quiet, arithmetically fine, and wrong about who somebody
+is. The place to look is anywhere the surname is not the last token of the Source cell.

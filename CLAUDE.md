@@ -195,6 +195,27 @@ form first.
 node tests/science_overlap.mjs --forms       # declared forms, and any left unreachable
 ```
 
+**And a suffix is not a surname.** The build takes the **last token** of an author
+part as the surname, which is right for every name the house holds and wrong for
+the few carrying a generational suffix: `Robert E. Lucas Jr.` keyed under `Jr`
+and `John C. Bailar III` under `III`, so neither scholar was findable under their
+own name and a pre-authoring scan for `Lucas` returned a **false clear**. The
+suffixes are a closed list and are never surnames anywhere, so this is its own
+wall, and the fix is always to drop the suffix from the Source cell and never to
+add it to a policy.
+
+```
+node tests/science_overlap.mjs --suffixes    # index keys that are generational suffixes
+```
+
+Those three walls are one shape seen three times, and the shape is worth carrying
+forward: **the index key is computed from a cell an author wrote, and nothing
+checks that the computation found a person.** A declared form ordered wrongly, a
+surname resolved to the wrong person and a suffix taken for a surname all pass
+every other gate, report clean counts, and were each caught by eye. When a fourth
+appears it will look like those: quiet, arithmetically fine, and wrong about who
+somebody is.
+
 **And a rare surname is not a safe one.** The heuristic above says a common
 surname is more likely than not to be taken already, which is true and is the
 reason to run the full `"Scholar :: Work"` string. It does not run the other way.

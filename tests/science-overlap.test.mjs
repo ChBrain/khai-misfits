@@ -16,6 +16,7 @@ import {
   findStagedButOpen,
   slateLineConcept,
   findShadowedForms,
+  findSuffixKeys,
 } from "./science_overlap.mjs";
 
 // The cross-misfit warrant gate for the Misfits house. Every other gate is
@@ -313,6 +314,19 @@ describe("Misfits house: cross-misfit warrant gate", () => {
     // any occurrence is left bare, and under the wrong order none is. Every
     // cell resolves, to the wrong person. The fix is always a reordering.
     expect(findShadowedForms()).toEqual([]);
+  });
+
+  it("no index key is a generational suffix", () => {
+    // The build takes the last token of an author part as the surname, which is
+    // right for every name the house holds and wrong for the few carrying a
+    // suffix: "Robert E. Lucas Jr." keyed under Jr and "John C. Bailar III"
+    // under III, so neither was findable under their own name and a scan for
+    // Lucas returned a false clear.
+    //
+    // Third instance of one shape, and the quiet direction each time: the key is
+    // computed from a cell an author wrote and nothing checked it found a
+    // person. The suffixes are a closed list, so the assertion is free.
+    expect(findSuffixKeys()).toEqual([]);
   });
 
   it("the slate check reads a line the way the register writes one", () => {
