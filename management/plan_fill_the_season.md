@@ -4956,3 +4956,19 @@ declared apart rather than shared.
 Dennis was the cheap namesake again by the rule two passes ago: the house holds Brian in Safety in Numbers,
 this misfit brings Patrick, one cell and both certain, resolved on the misfit's own lane. Salop was the first
 reading, the same Steven the house already carries in Nobody Reads It, and owed nothing.
+
+**Dennis declared, at 32 surnames, and a caution about routing around one.** Brian in Safety in Numbers against
+Patrick in The Same Name on Both Registers: one cell, both certain, the cheap kind by the rule set two passes
+ago. Third consecutive cheap namesake, and the rule is holding.
+
+The caution is about a hit that never became a declaration. That misfit's scan also raised **Rock**, the house
+holding Kevin in Sold to Find the Price against the Edward Rock of the common ownership commentary, and no
+declaration was owed because the citation was not made: the dissent row went to Dennis, Gerardi and Schenone
+instead. That was the right call **on the merits**, since a direct rebuttal in the same journal on the same
+industry is a stronger dissent than a general antitrust commentary, and it would have been the choice with no
+namesake anywhere in view. But it is worth writing down that the two reasons look identical from outside, and
+only one of them is legitimate: **routing around a namesake is sound when the substitute is better on the
+merits and is a corruption of the warrant when the substitute is merely cheaper.** The test is whether the
+citation would still have been chosen had the surname been free, and an author who cannot answer that has
+already been moved by the wrong thing. This register earlier refused to drop Greene and Meissner for exactly
+this reason and paid three cells for it, which is the standing precedent.
