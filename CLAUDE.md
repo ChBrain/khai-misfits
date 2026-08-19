@@ -54,6 +54,21 @@ opening it:
   lane and a register-only pass had nowhere to go. A rider is the primitive that
   already meant what was wanted.
 - [Cut to Fit](management/plan_cut_to_fit.md) is the authoring standard below.
+- **The field count is computable, so read it before choosing the candidate.** Every
+  warrant declares its `field`, and the distribution is lopsided: measurement is
+  more than a quarter of the house, and six consecutive misfits went into it before
+  anybody noticed, from memory rather than from the register.
+
+  ```
+  for f in misfits/*/REFERENCE.md; do awk '/^---$/{n++;next} n==1 && /^field:/{print}' "$f"; done | sort | uniq -c | sort -rn
+  ```
+
+  But a thin field is not automatically an opportunity, and the thinnest is the
+  proof: every candidate the eighth sweep raised in **Groups, candour, and face**
+  was already held, most of them by one incumbent. A field can be small because its
+  phenomena are few and well covered, so **the count tells you where to look and
+  never what is there**. It orders the search; the dedup still decides.
+
 - [`management/orders/**`](management/orders) records scouting passes and the
   reading of their failures.
 

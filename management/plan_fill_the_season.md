@@ -5235,3 +5235,80 @@ stronger: the private-report line names the concession that will decide it, that
 comparable in expectation and is a good answer, so the candidate lives or dies on whether the individual
 decision survives granting that. **Writing the concession into the line, and not only the test, is the sharper
 version of the device**, because it names what the author must beat rather than only what they must be clear of.
+
+**The eighth field sweep, run because the slate emptied to one line and that line was in the wrong field.** The
+seventh pass warned the seam was thinning; this one did not work the seam at all. It was run off a different
+instrument, and the instrument is the finding: **the register can compute where the house is thin, and it never
+had**. The field a warrant declares in frontmatter is a count away, and the counts are lopsided.
+
+| Field                                        | Misfits |
+| -------------------------------------------- | ------- |
+| Measurement, cognition, and inquiry          | 75      |
+| Markets, money, and economic equilibria      | 58      |
+| Safety, risk, and complex systems            | 37      |
+| Organisations, hierarchy, and management     | 30      |
+| Collective action, commons, and coordination | 29      |
+| Ecology, evolution, and public health        | 27      |
+| Groups, candour, and face                    | 20      |
+| Systems-dynamics archetypes (Senge)          | 5       |
+
+```
+for f in misfits/*/REFERENCE.md; do awk '/^---$/{n++;next} n==1 && /^field:/{print}' "$f"; done | sort | uniq -c | sort -rn
+```
+
+**Measurement is more than a quarter of the house, and six of the last six misfits went into it.** That was
+noticed while building The Only Sky There Is, from memory rather than from the register, which is exactly the
+kind of thing a register exists to stop. It is now computable, and the instruction that follows is: **read the
+field count before choosing the next candidate, not after.**
+
+**But a thin field is not automatically an opportunity, and Groups, candour and face is the proof.** It is the
+thinnest real field at 20, and every candidate this pass raised in it was already held: emotional labour and
+context collapse are both carried by **The Front**, which annexes Hochschild and Goffman together and is
+correctly the incumbent for anything about managing a presented self; the spiral of silence is Preference
+Falsification; deference in the room is Groupthink and The Abilene Paradox; mitigated speech is The MUM Effect
+plus a one-property-two-effects shape the register has already warned against taking a fourth time. So the field
+is small because the phenomena in it are few and well covered rather than because it is unworked, and **a count
+tells you where to look and not what is there.** Zero candidates slated from the thinnest field is the pass
+working, not failing.
+
+**Ecology paid instead, at 27 and with two clean territories.** Both were checked against the whole house before
+being written down, and the house is dense enough that the checking is most of the work: Braess's paradox, the
+anticommons, vetocracy, shifting baseline syndrome and fire suppression were all raised and all already staged,
+each in a field the candidate's own subject would not have suggested.
+
+- [ ] [P0] Mesopredator Release (Soulé and colleagues on chaparral canyons, 1988; Crooks & Soulé, "Mesopredator
+      release and avifaunal extinctions in a fragmented system", Nature, 1999; Prugh, Stoner, Epps, Bean, Ripple,
+      Laliberte & Brashares, "The Rise of the Mesopredator", BioScience, 2009, which reports 60% of mesopredator
+      ranges expanding while every apex range contracted over two centuries): removing an apex predator, for
+      reasons that are real and documented, releases the mid-sized predators it suppressed, and those take more
+      of the small vertebrates than the apex ever did, so **the count that the removal was meant to protect
+      moves the wrong way and the removal is why**; to be cut to the **release of a competitor** and never to a
+      complaint about ranchers or agencies, since the apex predator does take stock, the harm is not imagined,
+      and the mesopredator is doing nothing but occupying ground that opened; **to be tested for annexation
+      against The Hydra Effect before authoring**, and the distinguishing claim to be established or abandoned
+      is that the culled species does **not** rebound here at all, the mechanism being release of a _different_
+      species rather than density-dependent overcompensation within the target, so removing the incumbent's
+      engine should leave this standing entire; also to be named clear of **Never Aimed at You**, where an agent
+      aimed at one organism selects on another by exposure, since nothing here is applied to the mesopredator
+      and what reaches it is the absence of a competitor; **Johnson is a namesake owed and it is the expensive
+      direction**, the house holding five forms already, so if Ritchie & Johnson (2009) is cited the declaration
+      must land **before** the misfit by the rule the cosmology pass established, and the cheaper route is to
+      build on Crooks, Soulé and Prugh and cite Ritchie & Johnson only if the warrant needs it
+- [ ] [P1] The Paradox of Enrichment (Rosenzweig, "Paradox of Enrichment: Destabilization of Exploitation
+      Ecosystems in Ecological Time", Science, 1971, which found the result in six separate models of two-species
+      exploitation): increasing the food available to a prey population destabilises the predator-prey
+      equilibrium rather than enlarging it, so the oscillations grow until a trough reaches zero and enriching a
+      system can extinguish it; to be cut to **a stability property changing as a parameter rises** and never to
+      a story about anybody feeding anything carelessly; **to be tested for annexation against Predator-Prey
+      Lag**, and the distinguishing claim is that the incumbent stages the phase lag inside an oscillation while
+      this stages the equilibrium ceasing to be stable at all, which is a different object; also against
+      **Alternative Stable States and Hysteresis**, where a system flips between two attractors and will not come
+      back, since here there is one equilibrium and it loses stability rather than competing with another.
+      **The honest difficulty is carried at the top rather than discovered in the writing**: the paradox is a
+      theoretical result that is rarely observed in nature, and the literature since 1971 is substantially a
+      literature of proposed resolutions explaining why. The house's standard, set when A Lower Bar Set by a
+      Higher One was built, is that a gap must carry **demonstrated** error rather than a theoretical one, so
+      this candidate has to be cut either to the models and their agreement, stated as such, or abandoned. It is
+      a P1 and not a P0 for that reason alone. The Luckinbill enrichment experiment and the Jensen and Ginzburg
+      critique were both raised from recollection and **neither was confirmed by lookup**, so both are leads and
+      not citations.
