@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.280.0",
+  "version": "0.281.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -47675,6 +47675,198 @@
           "kind": "process",
           "title": "Preempting",
           "taxonomy": "play_the_only_basket.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_only_sky_there_is",
+      "title": "The Only Sky There Is",
+      "description": "The uncertainty on the largest scales is set by there being one sky, so a perfect measurement does not lower it.",
+      "members": [
+        {
+          "file": "persona_the_ensemble_theorist.md",
+          "kind": "persona",
+          "title": "The Ensemble Theorist",
+          "type": "archetype",
+          "taxonomy": "position_ensemble_theorist.md"
+        },
+        {
+          "file": "persona_the_mode_counter.md",
+          "kind": "persona",
+          "title": "The Mode Counter",
+          "type": "archetype",
+          "taxonomy": "position_mode_counter.md"
+        },
+        {
+          "file": "persona_the_pattern_finder.md",
+          "kind": "persona",
+          "title": "The Pattern Finder",
+          "type": "archetype",
+          "taxonomy": "position_pattern_finder.md"
+        },
+        {
+          "file": "persona_the_reacher.md",
+          "kind": "persona",
+          "title": "The Reacher",
+          "type": "archetype",
+          "taxonomy": "position_reacher.md"
+        },
+        {
+          "file": "persona_the_sky_surveyor.md",
+          "kind": "persona",
+          "title": "The Sky Surveyor",
+          "type": "archetype",
+          "taxonomy": "position_sky_surveyor.md"
+        },
+        {
+          "file": "piece_the_alignment.md",
+          "kind": "piece",
+          "title": "The Alignment",
+          "taxonomy": "place_the_last_scattering_surface.md"
+        },
+        {
+          "file": "piece_the_mode_count.md",
+          "kind": "piece",
+          "title": "The Mode Count",
+          "taxonomy": "place_the_last_scattering_surface.md"
+        },
+        {
+          "file": "piece_the_one_realisation.md",
+          "kind": "piece",
+          "title": "The One Realisation",
+          "taxonomy": "place_the_ensemble.md"
+        },
+        {
+          "file": "pitch_measured_perfectly_known_no_better.md",
+          "kind": "pitch",
+          "title": "Measured Perfectly, Known No Better",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "place_the_ensemble.md",
+          "kind": "place",
+          "title": "The Ensemble",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "place_the_last_scattering_surface.md",
+          "kind": "place",
+          "title": "The Last Scattering Surface",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "plan_measure_the_sky_exactly.md",
+          "kind": "plan",
+          "title": "Measure the Sky Exactly",
+          "taxonomy": "persona_the_sky_surveyor.md"
+        },
+        {
+          "file": "plan_predict_the_distribution.md",
+          "kind": "plan",
+          "title": "Predict the Distribution",
+          "taxonomy": "persona_the_ensemble_theorist.md"
+        },
+        {
+          "file": "plan_reach_for_more_draws.md",
+          "kind": "plan",
+          "title": "Reach for More Draws",
+          "taxonomy": "persona_the_reacher.md"
+        },
+        {
+          "file": "play_the_only_sky_there_is.md",
+          "kind": "play",
+          "title": "The Only Sky There Is"
+        },
+        {
+          "file": "plot_and_there_is_one_draw_from_it.md",
+          "kind": "plot",
+          "title": "And There Is One Draw From It",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "plot_and_what_is_found_cannot_be_tested_again.md",
+          "kind": "plot",
+          "title": "And What Is Found Cannot Be Tested Again",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "plot_so_the_extra_draws_must_come_from_inside.md",
+          "kind": "plot",
+          "title": "So the Extra Draws Must Come From Inside",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "plot_so_the_floor_is_arithmetic_not_optical.md",
+          "kind": "plot",
+          "title": "So the Floor Is Arithmetic, Not Optical",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "plot_the_measurement_reaches_it_and_keeps_going.md",
+          "kind": "plot",
+          "title": "The Measurement Reaches It and Keeps Going",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "plot_the_prediction_is_about_an_ensemble.md",
+          "kind": "plot",
+          "title": "The Prediction Is About an Ensemble",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "position_ensemble_theorist.md",
+          "kind": "position",
+          "title": "Ensemble Theorist",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "position_mode_counter.md",
+          "kind": "position",
+          "title": "Mode Counter",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "position_pattern_finder.md",
+          "kind": "position",
+          "title": "Pattern Finder",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "position_reacher.md",
+          "kind": "position",
+          "title": "Reacher",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "position_sky_surveyor.md",
+          "kind": "position",
+          "title": "Sky Surveyor",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "process_borrowing_another_vantage.md",
+          "kind": "process",
+          "title": "Borrowing Another Vantage",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "process_counting_the_modes.md",
+          "kind": "process",
+          "title": "Counting the Modes",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "process_measuring_past_the_point.md",
+          "kind": "process",
+          "title": "Measuring Past the Point",
+          "taxonomy": "play_the_only_sky_there_is.md"
+        },
+        {
+          "file": "process_testing_what_was_already_seen.md",
+          "kind": "process",
+          "title": "Testing What Was Already Seen",
+          "taxonomy": "play_the_only_sky_there_is.md"
         }
       ]
     },
