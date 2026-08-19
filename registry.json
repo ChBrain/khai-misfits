@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.276.0",
+  "version": "0.277.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -384,6 +384,198 @@
           "kind": "process",
           "title": "Reading the Fence",
           "taxonomy": "play_a_fence_in_a_good_street.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "a_hundred_years_to_vouch_for_a_thousand",
+      "title": "A Hundred Years to Vouch for a Thousand",
+      "description": "A proxy can only be checked against instruments where both exist, which is never the period it is used for.",
+      "members": [
+        {
+          "file": "persona_the_critic.md",
+          "kind": "persona",
+          "title": "The Critic",
+          "type": "archetype",
+          "taxonomy": "position_critic.md"
+        },
+        {
+          "file": "persona_the_meteorologist.md",
+          "kind": "persona",
+          "title": "The Meteorologist",
+          "type": "archetype",
+          "taxonomy": "position_meteorologist.md"
+        },
+        {
+          "file": "persona_the_reconstructor.md",
+          "kind": "persona",
+          "title": "The Reconstructor",
+          "type": "archetype",
+          "taxonomy": "position_reconstructor.md"
+        },
+        {
+          "file": "persona_the_ring_reader.md",
+          "kind": "persona",
+          "title": "The Ring Reader",
+          "type": "archetype",
+          "taxonomy": "position_ring_reader.md"
+        },
+        {
+          "file": "persona_the_statistician.md",
+          "kind": "persona",
+          "title": "The Statistician",
+          "type": "archetype",
+          "taxonomy": "position_statistician.md"
+        },
+        {
+          "file": "piece_the_divergence.md",
+          "kind": "piece",
+          "title": "The Divergence",
+          "taxonomy": "place_the_overlap.md"
+        },
+        {
+          "file": "piece_the_instrumental_record.md",
+          "kind": "piece",
+          "title": "The Instrumental Record",
+          "taxonomy": "place_the_overlap.md"
+        },
+        {
+          "file": "piece_the_transfer_function.md",
+          "kind": "piece",
+          "title": "The Transfer Function",
+          "taxonomy": "place_the_overlap.md"
+        },
+        {
+          "file": "pitch_where_the_two_records_touch.md",
+          "kind": "pitch",
+          "title": "Where the Two Records Touch",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "place_the_long_before.md",
+          "kind": "place",
+          "title": "The Long Before",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "place_the_overlap.md",
+          "kind": "place",
+          "title": "The Overlap",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "plan_publish_the_series.md",
+          "kind": "plan",
+          "title": "Publish the Series",
+          "taxonomy": "persona_the_reconstructor.md"
+        },
+        {
+          "file": "plan_read_the_rings.md",
+          "kind": "plan",
+          "title": "Read the Rings",
+          "taxonomy": "persona_the_ring_reader.md"
+        },
+        {
+          "file": "plan_split_the_record.md",
+          "kind": "plan",
+          "title": "Split the Record",
+          "taxonomy": "persona_the_statistician.md"
+        },
+        {
+          "file": "play_a_hundred_years_to_vouch_for_a_thousand.md",
+          "kind": "play",
+          "title": "A Hundred Years to Vouch for a Thousand"
+        },
+        {
+          "file": "plot_and_can_only_be_checked_against_them.md",
+          "kind": "plot",
+          "title": "And Can Only Be Checked Against Them",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "plot_convergence_is_the_real_answer_and_is_bounded.md",
+          "kind": "plot",
+          "title": "Convergence Is the Real Answer and Is Bounded",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "plot_splitting_the_record_does_not_leave_the_window.md",
+          "kind": "plot",
+          "title": "Splitting the Record Does Not Leave the Window",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "plot_stationarity_is_the_assumption_and_is_not_in_the_data.md",
+          "kind": "plot",
+          "title": "Stationarity Is the Assumption and Is Not in the Data",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "plot_the_one_edge_that_could_be_checked_came_apart.md",
+          "kind": "plot",
+          "title": "The One Edge That Could Be Checked Came Apart",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "plot_the_proxy_exists_to_reach_past_the_thermometers.md",
+          "kind": "plot",
+          "title": "The Proxy Exists to Reach Past the Thermometers",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "position_critic.md",
+          "kind": "position",
+          "title": "Critic",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "position_meteorologist.md",
+          "kind": "position",
+          "title": "Meteorologist",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "position_reconstructor.md",
+          "kind": "position",
+          "title": "Reconstructor",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "position_ring_reader.md",
+          "kind": "position",
+          "title": "Ring Reader",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "position_statistician.md",
+          "kind": "position",
+          "title": "Statistician",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "process_extending_backwards.md",
+          "kind": "process",
+          "title": "Extending Backwards",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "process_fitting_to_the_thermometers.md",
+          "kind": "process",
+          "title": "Fitting to the Thermometers",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "process_measuring_the_rings.md",
+          "kind": "process",
+          "title": "Measuring the Rings",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
+        },
+        {
+          "file": "process_verifying_on_the_held_back_half.md",
+          "kind": "process",
+          "title": "Verifying on the Held-Back Half",
+          "taxonomy": "play_a_hundred_years_to_vouch_for_a_thousand.md"
         }
       ]
     },
