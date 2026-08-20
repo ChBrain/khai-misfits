@@ -5480,7 +5480,7 @@ framing the house forbids.
       namesake that the pre-authoring scan could not have seen, which is no longer a coincidence: **the second
       source set is where the namesakes are**, because the first one is chosen from what the author already
       knows and the second from what the subject actually needs
-- [ ] [P2] The Pilot Aboard (the maritime pilot who has the local knowledge and not the command; the master who
+- [x] [P2] The Pilot Aboard (the maritime pilot who has the local knowledge and not the command; the master who
       has the command and not the local knowledge; the master-pilot exchange and the groundings that turn on
       it): authority and knowledge are held by two different people by design, and the design is right, since a
       pilot cannot be given command of a ship they do not know and a master cannot be given knowledge of a
@@ -5488,7 +5488,21 @@ framing the house forbids.
       shape is an authority gradient, which the register has already warned is close to a mould, and it must be
       tested against The MUM Effect and against the house's other deference misfits before anybody writes a
       cast; what would save it is that nothing here is unsaid, since the pilot speaks and is heard, and the
-      split is contractual rather than psychological
+      split is contractual rather than psychological. **Held, and the thing that would have saved it is not what the
+      accidents turn on.** The candidate clears the dedup completely, since authority gradient, crew resource
+      management, dual command and advisory role return nothing and the nearest incumbents are all distinct:
+      Everybody's Business diffuses among many where this is exactly two and the split is explicit and
+      contractual, and Watermelon Reporting is the MUM Effect where the pilot speaks and is heard. It also
+      passes who-pays, the crew and the coast, and passes demonstrated, since groundings under pilotage are
+      investigated and reported. **It fails the no-villain test, and it fails it in the source material rather
+      than in the staging.** The investigation findings are conduct findings: the pilot was navigating by eye
+      and **his advice was not challenged by the master**, who **relied solely on the pilot**, and the
+      master-pilot exchange **did not establish clear roles** for monitoring and cross-checking. Those are
+      lapses with an agreed repair, and a candidate whose own literature names what somebody should have done
+      is not a structure. What remains after the conduct is removed is a master deferring to a more capable
+      agent and ceasing to monitor, which is **The Empty Seat's mechanism with a person in place of the
+      automation**, so it is an Origin row on that misfit if anybody wants it. It returns only if somebody finds
+      a grounding where the master monitored, challenged and was right, and could still not act in time
 
 **A thesis arrived from the author rather than a sweep, and the honest answer is that the house already agrees
 with it eleven times over.** The thesis: _democracy is a misfit, and the biggest danger to democracy is
@@ -5562,3 +5576,35 @@ chose.
       difficulty; a third neighbour was found in the writing, **The Name Does Not Move**, where an anchor is
       chosen for being uncontestable rather than right and excludes nobody, against a clause chosen for being
       right whose cost falls on a party and its voters
+
+**Two findings from the pass itself, and the second is about where the house's difficulty now sits.**
+
+**The guard computes the lane and never the base, and nothing else does either.** The self-amendment misfit was
+built on a branch cut from the governance branch that declared its namesake rather than from `main`, so it
+carried a `khai-guard.config.json` change into a `misfit/` lane and `branch-check` rejected it, correctly. The
+rejection is the gate working. What is worth writing down is that **nothing warned before the work**: `khai-guard
+branch` reads the diff and picks the lane, which is the question it answers well, and it has no opinion about
+what the diff is being taken against. A three-part pass is exactly where this bites, because each part is merged
+between the parts and the working tree is sitting on the branch that just landed. The fix is the documented
+rebuild rather than a merge, which cost one reset and one artefact rebuild here, and the habit that avoids it is
+one line: **after any merge, `git checkout main && git pull` before `khai-guard branch`.** This is the same shape
+as the advisor ordering lanes and not dependencies: the tools answer the question they were built for, and the
+question next to it has no owner.
+
+**And the judgement tests are now doing the work the computed ones used to.** Every wall in this house passed
+cleanly through this run: zero shared works across 1804 index rows, zero unresolved namesakes across 39 declared
+surnames, zero unreachable forms, zero suffix keys, five opposed pairs all declared. Not one candidate was
+decided by a computed gate. What decided them was the pair that cannot be computed:
+
+| Candidate                 | Decided by                                                                       |
+| ------------------------- | -------------------------------------------------------------------------------- |
+| The Paradox of Enrichment | **who pays**: a culture crashing in an apparatus built to crash it is not a cost |
+| Patent examination        | **no villain**: the honest version names an examiner who finds rejection dearer  |
+| The Conservator's Rule    | annexation, which is judgement about mechanism rather than about sources         |
+| The Pilot Aboard          | **no villain**: the investigation findings are conduct findings                  |
+
+That is a change in where the binding constraint sits. The walls were built when the danger was a second misfit
+on one spine, and they have made that danger rare enough to be uninteresting. The danger now is a candidate that
+is **well sourced, unheld, and not a misfit**, and no gate can see it, because both questions are about what a
+structure is rather than about what a file contains. So the cheap order stands and should be written at the top
+of any triage: **ask who pays, then ask whether the literature blames anybody, and only then spend a lookup.**
