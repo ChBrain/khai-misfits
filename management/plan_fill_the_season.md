@@ -5649,7 +5649,7 @@ listener is not a casualty. It is the enrichment case again, in a different cent
 order.** Neither has had a lookup spent on it, because the cheap questions had to be passed first and the
 expensive one belongs to whoever authors them.
 
-- [ ] [P0] The Certificate's Date (hygiene and safety inspection regimes and the grades they post; the
+- [x] [P0] The Certificate's Date (hygiene and safety inspection regimes and the grades they post; the
       literature on score decay between inspections; the announced against unannounced inspection argument): an
       inspection establishes a state at a moment and is displayed as a standing claim, so the grade is equally
       authoritative and equally visible on the day it was earned and three hundred days later, and nothing on
@@ -5661,7 +5661,18 @@ expensive one belongs to whoever authors them.
       demonstrated rather than assumed**, and if the literature turns out to measure only regression toward a
       mean the candidate is The Bounce and should be abandoned; named clear of A Hundred Years to Vouch for a
       Thousand, where a fitted relation is carried outside its window, since nothing here is fitted and the
-      claim is about the same object at a later time
+      claim is about the same object at a later time. **Held, and the line closed itself.** The precondition lookup was
+      run and the abandonment condition it named fired exactly as written: the measured movement between
+      inspections **is** regression toward the mean. Establishments scoring above sixty are stable, with a mean
+      drop of two points on the next inspection, so for most of the population there is no decay to stage at all;
+      establishments scoring below sixty improve by a mean of sixteen points, and by a further five on the one
+      after, which is the selected extreme reverting and is **The Bounce** by name. There is no thinning signal
+      to build a play on, and the premise that the grade goes stale is not what the data show.
+      **What remains after the regression is removed is conduct, and it is held twice over**: repeated
+      interaction between inspectors and the same establishments is associated with higher grades, which is
+      Regulatory Capture, and the re-inspection route by which a poor initial result is cleaned up and replaced
+      with a good posted grade is gaming a disclosed measure, which is Metric Fixation. Neither is available and
+      neither is a structure
 - [ ] [P1] Sorted by Who Cannot Wait (clinical triage as emergency departments practise it): triage orders a
       queue by urgency, which is correct and is the only defensible ordering, and the consequence is that the
       least urgent wait longest, that waiting is itself a clinical exposure, and that a condition can cross into
@@ -5672,3 +5683,22 @@ expensive one belongs to whoever authors them.
       and of The Inverse Care Law, both of which are about who receives care rather than about the order they
       receive it in; the field's own hits on triage are Idleness Aversion and the Mere Urgency Effect, neither
       of which is clinical, so the ground is genuinely open
+
+**And the way that line died is worth more than the line was.** The certificate candidate was written with its
+own abandonment condition in it: _if the literature turns out to measure only regression toward a mean the
+candidate is The Bounce and should be abandoned._ One lookup fired it, and the close took no judgement at all.
+Compare the four candidates before it, each of which needed somebody to weigh a structure: whether a crashing
+culture is a cost, whether an investigation's findings are conduct, whether a mechanism is a domain. Those are
+the expensive closes, they are the ones that can be argued with, and they are where a tired author talks
+themselves round.
+
+So the device is worth making standard rather than occasional. A slate line already carries **what the candidate
+must be tested against**, which the annexation preconditions supply. It should also carry **the observation that
+would end it**, stated so that a single lookup settles the matter. The two are different: an annexation test
+names a rival, and an abandonment condition names a fact about the world that the candidate cannot survive. The
+enrichment line had one and did not know it, which is why that hold cost a full research pass and a reversal of
+the line's own stated reason. The certificate line had one on purpose and cost a single search.
+
+**Write the abandonment condition into the line at slating time, while the candidate is still cheap to doubt.**
+The author who slates it is the one who can see what would kill it; the author who builds it three passes later
+is the one who wants it to live.
