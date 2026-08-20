@@ -5456,7 +5456,7 @@ framing the house forbids.
       the Same by Anyone** rather than The Same Print Twice, since both stage a family where the requirement
       that makes a process fair is the requirement that damages what it handles, the line between them being
       that consistency **suppresses** a property there while a second speaker **re-authors** it here
-- [ ] [P1] The Conservator's Reversibility Rule (the conservation profession's principle that an intervention
+- [x] [P1] The Conservator's Reversibility Rule (the conservation profession's principle that an intervention
       should be reversible; the documented cases where it was not; the preservation-in-situ and minimal-
       intervention debates): a treatment must be reversible so a later conservator with better knowledge is not
       foreclosed, no treatment is fully reversible, and doing nothing is itself a choice with a cost, since the
@@ -5464,7 +5464,22 @@ framing the house forbids.
       Read and against Kept for the Questions We Had before authoring**, and the distinguishing claim to be
       established or abandoned is that nothing here is destroyed to be measured and nothing is selected against
       today's questions: the object survives, is altered, and the alteration is the act of saving it; if the
-      test fails the move is an Origin row on whichever incumbent takes it
+      test fails the move is an Origin row on whichever incumbent takes it. **The test failed and the move was taken.** Taken Apart to Be Read is not
+      about destruction, which is what the slate line assumed from its title: its governing law is that the case
+      for waiting is correct and never expires while the decay it is weighed against never stops, so the two
+      curves do not cross. That engine is **entirely present in conservation**, since technique improves
+      monotonically and the object decays whether or not anybody treats it, and removing the engine leaves
+      nothing distinctive behind, because a conservator facing no improvement in technique simply treats when
+      treatment is needed. The distinguishing claim the line named, that the object survives and is altered
+      rather than consumed, is **true and not load-bearing**: it changes what is lost and not the shape of the
+      trade. So Barbara Appelbaum on reversibility and retreatability is a seventh Origin row on that misfit
+      and not a play, which is the house's own table applied to its own register. **The scan-again rule caught a
+      third namesake**, since Appelbaum is a surname the house already holds in Treated and Counted for Paul S
+      the psychiatrist against Barbara the conservator, and the surname is undeclared so the cells could ride
+      the same lane as the row with the declaration owed after. Three passes in a row have now turned up a
+      namesake that the pre-authoring scan could not have seen, which is no longer a coincidence: **the second
+      source set is where the namesakes are**, because the first one is chosen from what the author already
+      knows and the second from what the subject actually needs
 - [ ] [P2] The Pilot Aboard (the maritime pilot who has the local knowledge and not the command; the master who
       has the command and not the local knowledge; the master-pilot exchange and the groundings that turn on
       it): authority and knowledge are held by two different people by design, and the design is right, since a
