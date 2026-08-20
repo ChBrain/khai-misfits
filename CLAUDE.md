@@ -290,6 +290,26 @@ produce academics, so the very thing that makes a name look safe is what
 concentrates it. Scan the surname whatever it looks like: the scan costs one
 command and the collision costs a misfit.
 
+**And scan again at the end, because the second source set is where the namesakes
+are.** The pre-authoring scan covers the sources you **planned**, and the best row
+in a warrant is routinely chosen during the build: the cut moves, a better
+citation turns up, and the citation list moves with it. That list is what the
+dedup runs on. Three consecutive passes each turned up a namesake the first scan
+could not have seen, which is not a run of bad luck but the shape of the work:
+**Holt** arrived when the mechanism row moved to intraguild predation, **Johnson**
+when the baseline for interpreted testimony was traced to its source paper, and
+**Appelbaum** when a conservation row was added to an archaeology warrant. The
+first source set is chosen from what the author already knows, and the second from
+what the subject actually needs, so the second is the one that reaches outside the
+author's own reading.
+
+The re-scan is one command and it decides the shape of the pass, since an
+already-declared surname forces its declaration to land **before** the misfit. The
+Johnson case is the one to remember: the obvious citation carried a sixth Johnson
+and would have blocked the misfit, and the same research group's other paper
+carried none. Swapping there is legitimate **only on the merits**, and it was,
+since the paper taken is the one written for the audience the play is about.
+
 ### And a misfit must say where it sits
 
 Every `REFERENCE.md` **names at least one other misfit by its title** and states
