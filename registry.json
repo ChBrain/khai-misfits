@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.283.0",
+  "version": "0.284.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -38882,6 +38882,198 @@
           "kind": "process",
           "title": "Fitting",
           "taxonomy": "play_the_done_thing.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_door_opens_both_ways",
+      "title": "The Door Opens Both Ways",
+      "description": "A constitution must be amendable, and an amendable one can be amended to end amendment.",
+      "members": [
+        {
+          "file": "persona_the_court.md",
+          "kind": "persona",
+          "title": "The Court",
+          "type": "archetype",
+          "taxonomy": "position_court.md"
+        },
+        {
+          "file": "persona_the_framer.md",
+          "kind": "persona",
+          "title": "The Framer",
+          "type": "archetype",
+          "taxonomy": "position_framer.md"
+        },
+        {
+          "file": "persona_the_jurist.md",
+          "kind": "persona",
+          "title": "The Jurist",
+          "type": "archetype",
+          "taxonomy": "position_jurist.md"
+        },
+        {
+          "file": "persona_the_party.md",
+          "kind": "persona",
+          "title": "The Party",
+          "type": "archetype",
+          "taxonomy": "position_party.md"
+        },
+        {
+          "file": "persona_the_voter.md",
+          "kind": "persona",
+          "title": "The Voter",
+          "type": "archetype",
+          "taxonomy": "position_voter.md"
+        },
+        {
+          "file": "piece_the_door.md",
+          "kind": "piece",
+          "title": "The Door",
+          "taxonomy": "place_the_text.md"
+        },
+        {
+          "file": "piece_the_lock.md",
+          "kind": "piece",
+          "title": "The Lock",
+          "taxonomy": "place_the_text.md"
+        },
+        {
+          "file": "piece_the_mandate.md",
+          "kind": "piece",
+          "title": "The Mandate",
+          "taxonomy": "place_the_bench.md"
+        },
+        {
+          "file": "pitch_nobody_broke_the_rules.md",
+          "kind": "pitch",
+          "title": "Nobody Broke the Rules",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "place_the_bench.md",
+          "kind": "place",
+          "title": "The Bench",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "place_the_text.md",
+          "kind": "place",
+          "title": "The Text",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "plan_leave_it_open_to_change.md",
+          "kind": "plan",
+          "title": "Leave It Open to Change",
+          "taxonomy": "position_framer.md"
+        },
+        {
+          "file": "plan_put_it_beyond_change.md",
+          "kind": "plan",
+          "title": "Put It Beyond Change",
+          "taxonomy": "position_framer.md"
+        },
+        {
+          "file": "plan_rule_on_the_party.md",
+          "kind": "plan",
+          "title": "Rule on the Party",
+          "taxonomy": "position_court.md"
+        },
+        {
+          "file": "play_the_door_opens_both_ways.md",
+          "kind": "play",
+          "title": "The Door Opens Both Ways"
+        },
+        {
+          "file": "plot_and_a_door_opens_both_ways.md",
+          "kind": "plot",
+          "title": "And a Door Opens Both Ways",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "plot_and_the_bench_cannot_abstain.md",
+          "kind": "plot",
+          "title": "And the Bench Cannot Abstain",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "plot_and_the_lock_binds_whoever_comes_after.md",
+          "kind": "plot",
+          "title": "And the Lock Binds Whoever Comes After",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "plot_so_the_lock_is_fitted_from_inside.md",
+          "kind": "plot",
+          "title": "So the Lock Is Fitted From Inside",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "plot_the_door_has_to_be_there.md",
+          "kind": "plot",
+          "title": "The Door Has to Be There",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "plot_the_party_arrives_lawfully_and_wins.md",
+          "kind": "plot",
+          "title": "The Party Arrives Lawfully and Wins",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "position_court.md",
+          "kind": "position",
+          "title": "Court",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "position_framer.md",
+          "kind": "position",
+          "title": "Framer",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "position_jurist.md",
+          "kind": "position",
+          "title": "Jurist",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "position_party.md",
+          "kind": "position",
+          "title": "Party",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "position_voter.md",
+          "kind": "position",
+          "title": "Voter",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "process_fitting_the_lock.md",
+          "kind": "process",
+          "title": "Fitting the Lock",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "process_ruling_on_the_party.md",
+          "kind": "process",
+          "title": "Ruling on the Party",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "process_standing_for_election.md",
+          "kind": "process",
+          "title": "Standing for Election",
+          "taxonomy": "play_the_door_opens_both_ways.md"
+        },
+        {
+          "file": "process_writing_the_door.md",
+          "kind": "process",
+          "title": "Writing the Door",
+          "taxonomy": "play_the_door_opens_both_ways.md"
         }
       ]
     },

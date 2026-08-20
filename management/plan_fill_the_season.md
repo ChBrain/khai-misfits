@@ -5524,7 +5524,7 @@ chose.
 
 **One piece of ground is genuinely open, and it is the sharpest thing the thesis points at.**
 
-- [ ] [P0] The Self-Amendment Bind (Loewenstein, "Militant Democracy and Fundamental Rights" I and II,
+- [x] [P0] The Self-Amendment Bind (Loewenstein, "Militant Democracy and Fundamental Rights" I and II,
       American Political Science Review, 1937, which named it; the German Basic Law's eternity clause at
       Article 79(3), written specifically to close the pathway the Enabling Act of 1933 used; the European
       Court of Human Rights in _Refah Partisi v Turkey_, 2003): a constitution must be amendable, because one
@@ -5548,4 +5548,17 @@ chose.
       Second Nature and The One in Front of You, against Karl the constitutional lawyer here; the surname is
       undeclared so the order is free and the cells can ride one misfit-lane pull request, but the pass is
       three parts and should be planned as three; **routing around him is not available on the merits**, since
-      he coined the term the candidate is about
+      he coined the term the candidate is about, staged as **The Door Opens Both Ways**: the three-part pass ran exactly
+      as planned, which is the first time a namesake pass has been costed before it started rather than during it,
+      and the count held at seven cells; the cut the line demanded held and the build added the sentence the line
+      had not reached, which is that **no procedure can be drafted to admit improvements and refuse
+      replacements**, since a majority threshold measures agreement rather than merit and a required delay
+      measures patience, so the route out is not a loophole but the same door used by somebody with the votes;
+      the second thing the build found is that **the entrenched clause commits the objection that produced the
+      amendment article**, the case for amendability being that the dead should not govern the living and an
+      eternity clause being exactly that at one point on purpose, so both sides are right at once and the
+      framers knew it when they wrote it; both annexation tests passed and the Time Inconsistency one **inverts**,
+      since there a government cannot bind its successor and here it can and the device works, which is the
+      difficulty; a third neighbour was found in the writing, **The Name Does Not Move**, where an anchor is
+      chosen for being uncontestable rather than right and excludes nobody, against a clause chosen for being
+      right whose cost falls on a party and its voters
