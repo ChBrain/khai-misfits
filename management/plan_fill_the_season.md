@@ -5489,3 +5489,63 @@ framing the house forbids.
       tested against The MUM Effect and against the house's other deference misfits before anybody writes a
       cast; what would save it is that nothing here is unsaid, since the pilot speaks and is heard, and the
       split is contractual rather than psychological
+
+**A thesis arrived from the author rather than a sweep, and the honest answer is that the house already agrees
+with it eleven times over.** The thesis: _democracy is a misfit, and the biggest danger to democracy is
+democracy itself._ It is not one candidate. It names a **family**, and the dedup finds the family already
+staged, each member on a different mechanism.
+
+| The mechanism the thesis points at                            | The incumbent                            |
+| ------------------------------------------------------------- | ---------------------------------------- |
+| No aggregation rule is fair, and majorities cycle             | **Whoever Asks Last** (Condorcet; Arrow) |
+| Competitors converge on the middle and stop differing         | **The Crowded Middle** (Hotelling)       |
+| A vote that cannot matter, and the strategy that follows      | **The Wasted Vote** (Duverger)           |
+| It is rational not to inform yourself                         | **Cheaper Not to Know**; **Don't Look**  |
+| The organisation comes to serve its own officials             | **Pournelle's Iron Law**                 |
+| Removing the formal hierarchy does not remove the power       | **No One in Charge**                     |
+| Each new veto point is defensible and they sum                | **Vetocracy**                            |
+| The regulator ends up held by the regulated                   | **Regulatory Capture**                   |
+| Effort spent competing for a transfer rather than making one  | **Rent-Seeking**                         |
+| No government can bind its successor, so promises are not     | **Time Inconsistency**                   |
+| The horizon that decides is shorter than the one that matters | **Seed Corn**                            |
+
+**Arrow was the one to check hardest and it is held.** The impossibility theorem is not merely cited: it is
+_Whoever Asks Last_'s governing law, written out in full, with "A Difficulty in the Concept of Social Welfare"
+as an Origin row. Anybody bringing the thesis back should start there, because it is the strongest purely
+structural member of the family and the house has it.
+
+**The slogan is not a cut, and the reason is the one the register has already used once.** "The biggest danger
+to democracy is democracy itself" names **democracy as the culprit**, which is a framing with a villain and a
+casualty rather than a structure, and is the exact shape struck when the shareholder-value candidate was cut
+away from _shareholders against stakeholders_. A misfit cannot stage an arrangement as its own antagonist. It
+stages a mechanism in which every seat acts correctly, and the eleven above are what that looks like when the
+thesis is done properly: the failure is never democracy, it is a rule that is right and a consequence nobody
+chose.
+
+**One piece of ground is genuinely open, and it is the sharpest thing the thesis points at.**
+
+- [ ] [P0] The Self-Amendment Bind (Loewenstein, "Militant Democracy and Fundamental Rights" I and II,
+      American Political Science Review, 1937, which named it; the German Basic Law's eternity clause at
+      Article 79(3), written specifically to close the pathway the Enabling Act of 1933 used; the European
+      Court of Human Rights in _Refah Partisi v Turkey_, 2003): a constitution must be amendable, because one
+      that is not binds generations who never consented and cannot adapt, and an amendable constitution can be
+      amended to end amendment; the defence against that is to entrench clauses beyond amendment and to dissolve
+      parties before they govern, which requires the state to do to its opponents the thing it exists to
+      prevent; to be cut to **the defence being the same act as the offence** and never to a claim about any
+      party, any country or any judgment, since the play must be able to run with the parties unnamed;
+      **who pays is documented and unusually concrete**, since Refah Partisi held the largest number of seats
+      and was polling near two thirds when it was dissolved, and a human rights court held that a state need
+      not wait until an anti-democratic party has taken power, so the franchise of that party's voters was
+      removed by the institutions that exist to protect the franchise; **the no-villain is available and must
+      be held hard**, because the framers who made a constitution amendable were right, the framers who
+      entrenched a clause against amendment were answering Weimar rather than theorising, the court applying
+      it is doing something openly illiberal and says so, and the voters are exercising the franchise;
+      **to be tested for annexation against Vetocracy** and against **Time Inconsistency**, the distinguishing
+      claim being that nothing here accumulates and no successor is being bound by a bargain: the bind is
+      present in a single amendment clause read once; **Loewenstein is a namesake and it is the expensive
+      kind, and the cost is known in advance because it was probed**, being **seven bare cells across six
+      misfits**, all George the behavioural economist in Ask Me When It Hurts, Don't Look, More to Stand Still,
+      Second Nature and The One in Front of You, against Karl the constitutional lawyer here; the surname is
+      undeclared so the order is free and the cells can ride one misfit-lane pull request, but the pass is
+      three parts and should be planned as three; **routing around him is not available on the merits**, since
+      he coined the term the candidate is about
