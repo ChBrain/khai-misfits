@@ -5608,3 +5608,67 @@ on one spine, and they have made that danger rare enough to be uninteresting. Th
 is **well sourced, unheld, and not a misfit**, and no gate can see it, because both questions are about what a
 structure is rather than about what a file contains. So the cheap order stands and should be written at the top
 of any triage: **ask who pays, then ask whether the literature blames anybody, and only then spend a lookup.**
+
+**The tenth field sweep, run to the order the last pass established, and the order paid before a single lookup
+was spent.** The rule written in the pilot hold is: ask who pays, then ask whether the literature blames
+anybody, and only then spend a lookup. This pass ran that way deliberately, and two candidates died in the
+first two questions at a cost of nothing.
+
+| Field                                        | Misfits |
+| -------------------------------------------- | ------- |
+| Measurement, cognition, and inquiry          | 75      |
+| Markets, money, and economic equilibria      | 58      |
+| Safety, risk, and complex systems            | 37      |
+| Organisations, hierarchy, and management     | 30      |
+| Collective action, commons, and coordination | 30      |
+| Ecology, evolution, and public health        | 28      |
+| Groups, candour, and face                    | 21      |
+| Systems-dynamics archetypes (Senge)          | 5       |
+
+**The kills, in the order they died.**
+
+**The notary's attestation** looked like the strongest thing on the list: an officer certifies identity and
+voluntariness, can establish identity, presence and signature, and cannot establish that nobody is being
+coerced, while the seal is what makes the document hard to challenge. It died on **no villain**, and it died
+before any source was opened. Nothing goes wrong in that structure unless somebody is coercing, so the play
+would need a bad actor inside the sequence to have anything happen at all, and a misfit whose events require a
+culprit is a crime with a diagram. The general form is worth carrying: **a candidate that needs a wrongdoer to
+produce its outcome is not a structure, however elegant the bind looks**, and this is the first time that has
+been caught in advance rather than in the drafting.
+
+**Sworn translation** died on annexation: it is In Somebody Else's Words in writing, with the same two duties
+and the same absent neutral rendering, so it is an Origin row at most.
+
+**Equal temperament** died on **who pays**. No keyboard can be in tune in every key and the compromise is exact
+and beautiful, but nobody bears a cost: the interval that cannot be played is a fact about arithmetic, and the
+listener is not a casualty. It is the enrichment case again, in a different century.
+
+**The differential census undercount** was raised and is held by Missing from the Count.
+
+**Two lines survive, and both carry their precondition rather than their proof, which is the point of the
+order.** Neither has had a lookup spent on it, because the cheap questions had to be passed first and the
+expensive one belongs to whoever authors them.
+
+- [ ] [P0] The Certificate's Date (hygiene and safety inspection regimes and the grades they post; the
+      literature on score decay between inspections; the announced against unannounced inspection argument): an
+      inspection establishes a state at a moment and is displayed as a standing claim, so the grade is equally
+      authoritative and equally visible on the day it was earned and three hundred days later, and nothing on
+      the notice tells a reader how much of its information has expired; **who pays is the reader**, who relies
+      on a true statement about a moment as though it were a statement about a period; **no villain is available
+      and must be checked hard**, since the inspector records what is there when they are there, the
+      establishment need not be misbehaving because staffing, volume and supply vary on their own, and no
+      inspection can sample continuously; **the precondition is a lookup establishing that the decay is
+      demonstrated rather than assumed**, and if the literature turns out to measure only regression toward a
+      mean the candidate is The Bounce and should be abandoned; named clear of A Hundred Years to Vouch for a
+      Thousand, where a fitted relation is carried outside its window, since nothing here is fitted and the
+      claim is about the same object at a later time
+- [ ] [P1] Sorted by Who Cannot Wait (clinical triage as emergency departments practise it): triage orders a
+      queue by urgency, which is correct and is the only defensible ordering, and the consequence is that the
+      least urgent wait longest, that waiting is itself a clinical exposure, and that a condition can cross into
+      urgency while queued behind the ordering that put it last; **to be tested for annexation against The
+      Utilisation Trap before authoring**, since that misfit holds heavy-traffic queueing and the distinguishing
+      claim to be established or abandoned is that nothing here turns on utilisation approaching capacity and
+      the same inversion is present in a quiet department; also to be named clear of Rose's Prevention Paradox
+      and of The Inverse Care Law, both of which are about who receives care rather than about the order they
+      receive it in; the field's own hits on triage are Idleness Aversion and the Mere Urgency Effect, neither
+      of which is clinical, so the ground is genuinely open
