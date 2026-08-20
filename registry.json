@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.282.0",
+  "version": "0.283.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -12566,6 +12566,198 @@
           "kind": "process",
           "title": "Ravaging",
           "taxonomy": "play_in_its_own_defence.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "in_somebody_elses_words",
+      "title": "In Somebody Else's Words",
+      "description": "A witness is judged for credibility on hesitation and register the interpreter chose, not the ones they produced.",
+      "members": [
+        {
+          "file": "persona_the_advocate.md",
+          "kind": "persona",
+          "title": "The Advocate",
+          "type": "archetype",
+          "taxonomy": "position_advocate.md"
+        },
+        {
+          "file": "persona_the_fact_finder.md",
+          "kind": "persona",
+          "title": "The Fact-Finder",
+          "type": "archetype",
+          "taxonomy": "position_fact_finder.md"
+        },
+        {
+          "file": "persona_the_interpreter.md",
+          "kind": "persona",
+          "title": "The Interpreter",
+          "type": "archetype",
+          "taxonomy": "position_interpreter.md"
+        },
+        {
+          "file": "persona_the_researcher.md",
+          "kind": "persona",
+          "title": "The Researcher",
+          "type": "archetype",
+          "taxonomy": "position_researcher.md"
+        },
+        {
+          "file": "persona_the_witness.md",
+          "kind": "persona",
+          "title": "The Witness",
+          "type": "archetype",
+          "taxonomy": "position_witness.md"
+        },
+        {
+          "file": "piece_the_pragmatic_layer.md",
+          "kind": "piece",
+          "title": "The Pragmatic Layer",
+          "taxonomy": "place_the_witness_box.md"
+        },
+        {
+          "file": "piece_the_single_language_record.md",
+          "kind": "piece",
+          "title": "The Single-Language Record",
+          "taxonomy": "place_the_record.md"
+        },
+        {
+          "file": "piece_the_two_duties.md",
+          "kind": "piece",
+          "title": "The Two Duties",
+          "taxonomy": "place_the_witness_box.md"
+        },
+        {
+          "file": "pitch_nothing_was_mistranslated.md",
+          "kind": "pitch",
+          "title": "Nothing Was Mistranslated",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "place_the_record.md",
+          "kind": "place",
+          "title": "The Record",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "place_the_witness_box.md",
+          "kind": "place",
+          "title": "The Witness Box",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "plan_read_the_witness.md",
+          "kind": "plan",
+          "title": "Read the Witness",
+          "taxonomy": "position_fact_finder.md"
+        },
+        {
+          "file": "plan_render_it_faithfully.md",
+          "kind": "plan",
+          "title": "Render It Faithfully",
+          "taxonomy": "position_interpreter.md"
+        },
+        {
+          "file": "plan_test_it_with_a_guise.md",
+          "kind": "plan",
+          "title": "Test It With a Guise",
+          "taxonomy": "position_researcher.md"
+        },
+        {
+          "file": "play_in_somebody_elses_words.md",
+          "kind": "play",
+          "title": "In Somebody Else's Words"
+        },
+        {
+          "file": "plot_and_the_guise_shows_it_moves_the_verdict.md",
+          "kind": "plot",
+          "title": "And the Guise Shows It Moves the Verdict",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "plot_and_the_manner_is_where_credibility_lives.md",
+          "kind": "plot",
+          "title": "And the Manner Is Where Credibility Lives",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "plot_and_the_room_reads_the_choice_as_the_witness.md",
+          "kind": "plot",
+          "title": "And the Room Reads the Choice as the Witness",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "plot_so_every_rendering_chooses.md",
+          "kind": "plot",
+          "title": "So Every Rendering Chooses",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "plot_the_code_requires_two_things.md",
+          "kind": "plot",
+          "title": "The Code Requires Two Things",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "plot_the_record_keeps_only_one_language.md",
+          "kind": "plot",
+          "title": "The Record Keeps Only One Language",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "position_advocate.md",
+          "kind": "position",
+          "title": "Advocate",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "position_fact_finder.md",
+          "kind": "position",
+          "title": "Fact-Finder",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "position_interpreter.md",
+          "kind": "position",
+          "title": "Interpreter",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "position_researcher.md",
+          "kind": "position",
+          "title": "Researcher",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "position_witness.md",
+          "kind": "position",
+          "title": "Witness",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "process_making_the_record.md",
+          "kind": "process",
+          "title": "Making the Record",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "process_reading_the_credibility.md",
+          "kind": "process",
+          "title": "Reading the Credibility",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "process_rendering_the_answer.md",
+          "kind": "process",
+          "title": "Rendering the Answer",
+          "taxonomy": "play_in_somebody_elses_words.md"
+        },
+        {
+          "file": "process_running_the_guise.md",
+          "kind": "process",
+          "title": "Running the Guise",
+          "taxonomy": "play_in_somebody_elses_words.md"
         }
       ]
     },
