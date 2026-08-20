@@ -5673,7 +5673,7 @@ expensive one belongs to whoever authors them.
       Regulatory Capture, and the re-inspection route by which a poor initial result is cleaned up and replaced
       with a good posted grade is gaming a disclosed measure, which is Metric Fixation. Neither is available and
       neither is a structure
-- [ ] [P1] Sorted by Who Cannot Wait (clinical triage as emergency departments practise it): triage orders a
+- [x] [P1] Sorted by Who Cannot Wait (clinical triage as emergency departments practise it): triage orders a
       queue by urgency, which is correct and is the only defensible ordering, and the consequence is that the
       least urgent wait longest, that waiting is itself a clinical exposure, and that a condition can cross into
       urgency while queued behind the ordering that put it last; **to be tested for annexation against The
@@ -5682,7 +5682,15 @@ expensive one belongs to whoever authors them.
       the same inversion is present in a quiet department; also to be named clear of Rose's Prevention Paradox
       and of The Inverse Care Law, both of which are about who receives care rather than about the order they
       receive it in; the field's own hits on triage are Idleness Aversion and the Mere Urgency Effect, neither
-      of which is clinical, so the ground is genuinely open
+      of which is clinical, so the ground is genuinely open. **Held, and the annexation test failed on the exact claim the line
+      named.** The incumbent is **No Idle Hands**, whose governing law is that a loaded resource driven toward
+      full utilisation queues without bound and that the idle capacity which looks like waste is the buffer.
+      Remove that engine, by supposing a department with real slack, and the candidate does not stand: the
+      lowest-acuity patient is still last in the order, waits twenty minutes, and nothing happens to them. The
+      distinguishing claim was that the same inversion is present in a quiet department, and the inversion is,
+      but **the harm is not**, and the harm is the misfit. Left-without-being-seen and deterioration while
+      queued are studied against crowding, which is utilisation, which is the incumbent's quantity. The ground
+      was genuinely open and the mechanism was not
 
 **And the way that line died is worth more than the line was.** The certificate candidate was written with its
 own abandonment condition in it: _if the literature turns out to measure only regression toward a mean the
