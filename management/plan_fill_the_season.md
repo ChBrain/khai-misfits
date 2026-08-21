@@ -5982,11 +5982,20 @@ prey-trap hypothesis is poorly supported, and that recollection was **not looked
 pending a lookup and not struck, because a candidate discarded on memory is exactly what this register exists to
 prevent, and writing it down as a kill would have laundered a guess into a finding.
 
-- [ ] [P2] The Crossing That Concentrates Them (wildlife crossing structures and the prey-trap hypothesis): a
+- [x] [P2] The Crossing That Concentrates Them (wildlife crossing structures and the prey-trap hypothesis): a
       structure built to stop road mortality funnels prey into a predictable place, which is what an ambush needs.
       **The precondition is a lookup establishing that the prey-trap effect is measured rather than hypothesised**,
       and the line should be dropped if the literature finds it unsupported, which is what one unverified memory
-      says and which is exactly why the lookup is owed rather than assumed.
+      says and which is exactly why the lookup is owed rather than assumed. **The lookup was run and the
+      precondition fired, so the line is struck.** The memory was directionally right and was not right enough to
+      record, which is the point: the finding is not that the prey-trap effect is unsupported but that **only a
+      handful of studies have tested it and they offer insufficient evidence to establish any generality**, with
+      one titled outright as providing no evidence of a prey trap, one finding predator activity coinciding with
+      vulnerable prey activity less than expected, and the literature describing what effect there is as
+      species-specific, situation-specific and mostly the opportunism of individual predators. That is a
+      different fact from the one memory supplied, and it is the one a future author needs, because it names what
+      would revive the line: a body of work large enough to establish generality, which does not exist yet and
+      might.
 
 **The comparator test got its first use before authoring, and it nearly killed the candidate that survived.**
 Asked of the market-making play, _worse than what?_, the first answer is the wrong one: against a world with no
@@ -6007,3 +6016,27 @@ measured against a promise rather than against a void, and the test only works w
 **And a note on what the sweep did not have to do.** No namesake work was owed. The candidate's Milgrom is the
 house's own Paul Milgrom, already carried in Metric Fixation on the multitask paper, which is the expected case
 this file says owes nothing: one scholar across two works, and declaring a homonym there would be the error.
+
+**And the practice earned itself on the first use, which is worth stating because the outcome looks like a
+wasted step.** The crossing line was slated rather than struck because the reason for striking it was a memory,
+and the lookup then confirmed the memory's direction. A reader could conclude the slating was ceremony. It was
+not, and the difference is the whole value: memory said _the prey-trap hypothesis is poorly supported_, which
+reads as settled, and the literature says **only a handful of studies have tested it and they cannot establish
+generality**, which reads as open. A future author meeting the first sentence stops. Meeting the second, they
+know exactly what would revive the line and can judge whether it has arrived. **A kill recorded without its
+reason is a kill that cannot be reversed**, and this register exists as much to record reversals as discards.
+
+**The slate now holds one line, and it is the flagged one**, so a fourteenth sweep is owed. The standing
+constraints for it, both set by earlier passes and both still binding:
+
+- **Field**: measurement took three consecutive misfits and the twelfth sweep bound the next pass to look
+  outside it or say why not. The thirteenth honoured that and went to markets. The constraint does not expire
+  after one obedience, and markets at 58 is the second fattest: the next pass should reach the thinner end,
+  which is groups and candour at 21, ecology at 29 or organisations at 30, and record what it finds there rather
+  than what it hoped to.
+- **Instruments**: four now, and they fail differently. Annexation asks whether the mechanism is an incumbent's.
+  The comparator test asks whether there is a gap, against the baseline the payer relied on rather than against
+  the structure's absence. The precondition lookup asks whether the effect is measured, and can confirm, kill,
+  **or rewrite the mechanism**. The abandonment condition asks where the candidate is most likely to be a system
+  working as designed, and returns either the kill or the **No hero** row. Run them in that order and the
+  expensive judgement happens last.
