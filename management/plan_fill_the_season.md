@@ -5710,3 +5710,46 @@ the line's own stated reason. The certificate line had one on purpose and cost a
 **Write the abandonment condition into the line at slating time, while the candidate is still cheap to doubt.**
 The author who slates it is the one who can see what would kill it; the author who builds it three passes later
 is the one who wants it to live.
+
+**The eleventh field sweep, and it opens with a generator that was tried and not made to work.** Named effects
+are exhausted, the field count orders a search without generating one, and the occupational-bind seam has now
+returned one built misfit and four kills. The obvious next generator is the house's own text: **every warrant's
+No hero section lists remedies that fail, and a remedy that fails in one misfit may be a mechanism in its own
+right somewhere else.** It generates from the corpus rather than from an author's memory, which is exactly the
+failure the ninth pass diagnosed. It was attempted here and the extraction did not pay: the sections are prose
+rather than a list, the house has no fixed phrasing for naming a remedy, and the two patterns tried returned
+two sentences out of 285 warrants. **Recorded as untested rather than as failed**, because what was shown is
+that a crude grep does not reach it, not that the idea is empty. It wants a proper pass over the No hero
+sections, one that reads them rather than matching them, and it is the most promising thing on the list.
+
+**One kill, on the cheap test, before any lookup.** The **clinical handover** was raised and died on no villain,
+for the same reason the pilot did and recognisably so: the investigation literature on handover is a literature
+of conduct findings, about structured tools not used and checklists not followed, with an agreed repair. That is
+now twice in two passes that a safety-investigation subject has failed the same way, which is worth stating as a
+warning rather than rediscovering a third time. **An accident literature is written to assign preventability**,
+because that is what it is for, so a candidate drawn from one arrives pre-loaded with somebody who should have
+done otherwise. It can still yield a misfit, but only where the structure survives the removal of every finding
+about conduct, and the burden is on the candidate.
+
+**One line survives, and it carries all four things a line should now carry**: what it must be tested against,
+what it must beat, who pays, and what would end it.
+
+- [ ] [P0] No Original to Return To (the equally authentic language versions of a multilingual legal order, and
+      the case law reconciling them when they diverge): a law is enacted simultaneously in every official
+      language and **each version is equally authentic**, which is right and is the only defensible arrangement,
+      since a person should be bound by a text in a language they read. Languages do not map one to one, so
+      competent translation produces versions that differ, and when the difference is material a court must
+      reconcile them by purpose and scheme. **Who pays is the party who read the version that loses**, having
+      relied on an authentic text and been held to another. **No villain is available and is the candidate's
+      strength**: the translators are expert, the requirement of equal authenticity is correct, the divergence
+      arises from competent work rather than from carelessness, and the court reconciling it must choose
+      something. **To be tested for annexation against An Angle and a Count**, where two definitions of one
+      quantity drift apart at a physical rate so a seat must keep inserting corrections: remove that engine and
+      this stands, because there is no drift and no rate, and the versions are simultaneously authentic and
+      simultaneously different on the day of enactment. **And against Right Apart Wrong Together**, where two
+      correct metals joined destroy one of themselves: remove the electrochemical engine and this stands,
+      because nothing degrades, neither version is consumed, and the harm falls on a **third party** who relied
+      rather than on either of the two joined things. **The abandonment condition**: if the reconciliation
+      doctrine turns out to resolve divergences without ever disturbing a party's settled reliance, the
+      candidate is a doctrine working as designed and not a misfit, and should be dropped rather than argued
+      for.
