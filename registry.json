@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.292.0",
+  "version": "0.293.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -61650,6 +61650,198 @@
           "kind": "process",
           "title": "Shaping",
           "taxonomy": "play_you_are_the_product.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "you_have_to_know_it_to_learn_it",
+      "title": "You Have to Know It to Learn It",
+      "description": "The capacity to use knowledge from outside is a by-product of doing the work yourself.",
+      "members": [
+        {
+          "file": "persona_the_buyer.md",
+          "kind": "persona",
+          "title": "The Buyer",
+          "type": "archetype",
+          "taxonomy": "position_buyer.md"
+        },
+        {
+          "file": "persona_the_engineer.md",
+          "kind": "persona",
+          "title": "The Engineer",
+          "type": "archetype",
+          "taxonomy": "position_engineer.md"
+        },
+        {
+          "file": "persona_the_funder.md",
+          "kind": "persona",
+          "title": "The Funder",
+          "type": "archetype",
+          "taxonomy": "position_funder.md"
+        },
+        {
+          "file": "persona_the_incumbent.md",
+          "kind": "persona",
+          "title": "The Incumbent",
+          "type": "archetype",
+          "taxonomy": "position_incumbent.md"
+        },
+        {
+          "file": "persona_the_supplier.md",
+          "kind": "persona",
+          "title": "The Supplier",
+          "type": "archetype",
+          "taxonomy": "position_supplier.md"
+        },
+        {
+          "file": "piece_the_complete_documentation.md",
+          "kind": "piece",
+          "title": "The Complete Documentation",
+          "taxonomy": "place_the_handover.md"
+        },
+        {
+          "file": "piece_the_prior_related_knowledge.md",
+          "kind": "piece",
+          "title": "The Prior Related Knowledge",
+          "taxonomy": "place_the_bench.md"
+        },
+        {
+          "file": "piece_the_second_face_of_research.md",
+          "kind": "piece",
+          "title": "The Second Face of Research",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "pitch_everything_delivered_nothing_absorbed.md",
+          "kind": "pitch",
+          "title": "Everything Delivered, Nothing Absorbed",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "place_the_bench.md",
+          "kind": "place",
+          "title": "The Bench",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "place_the_handover.md",
+          "kind": "place",
+          "title": "The Handover",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "plan_buy_the_capability.md",
+          "kind": "plan",
+          "title": "Buy the Capability",
+          "taxonomy": "position_buyer.md"
+        },
+        {
+          "file": "plan_fund_the_transfer.md",
+          "kind": "plan",
+          "title": "Fund the Transfer",
+          "taxonomy": "position_funder.md"
+        },
+        {
+          "file": "plan_hand_it_over_completely.md",
+          "kind": "plan",
+          "title": "Hand It Over Completely",
+          "taxonomy": "position_supplier.md"
+        },
+        {
+          "file": "play_you_have_to_know_it_to_learn_it.md",
+          "kind": "play",
+          "title": "You Have to Know It to Learn It"
+        },
+        {
+          "file": "plot_and_the_firm_that_is_behind_buys_instead_correctly.md",
+          "kind": "plot",
+          "title": "And the Firm That Is Behind Buys Instead, Correctly",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "plot_and_using_it_needs_knowledge_you_already_have.md",
+          "kind": "plot",
+          "title": "And Using It Needs Knowledge You Already Have",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "plot_so_it_looks_like_refusal_and_is_inability.md",
+          "kind": "plot",
+          "title": "So It Looks Like Refusal and Is Inability",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "plot_so_the_capacity_is_a_by_product_of_doing_the_work.md",
+          "kind": "plot",
+          "title": "So the Capacity Is a By-Product of Doing the Work",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "plot_the_delivery_is_complete_and_the_bench_is_silent.md",
+          "kind": "plot",
+          "title": "The Delivery Is Complete and the Bench Is Silent",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "plot_the_knowledge_is_out_there_and_is_cheap.md",
+          "kind": "plot",
+          "title": "The Knowledge Is Out There and Is Cheap",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "position_buyer.md",
+          "kind": "position",
+          "title": "Buyer",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "position_engineer.md",
+          "kind": "position",
+          "title": "Engineer",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "position_funder.md",
+          "kind": "position",
+          "title": "Funder",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "position_incumbent.md",
+          "kind": "position",
+          "title": "Incumbent",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "position_supplier.md",
+          "kind": "position",
+          "title": "Supplier",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "process_choosing_to_buy_rather_than_build.md",
+          "kind": "process",
+          "title": "Choosing to Buy Rather Than Build",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "process_delivering_everything_asked_for.md",
+          "kind": "process",
+          "title": "Delivering Everything Asked For",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "process_measuring_whether_it_worked.md",
+          "kind": "process",
+          "title": "Measuring Whether It Worked",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
+        },
+        {
+          "file": "process_reading_what_arrived.md",
+          "kind": "process",
+          "title": "Reading What Arrived",
+          "taxonomy": "play_you_have_to_know_it_to_learn_it.md"
         }
       ]
     },

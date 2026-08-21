@@ -6139,3 +6139,40 @@ play as making a much larger claim than it does.
 **The slate holds one line, the flagged one, so a sixteenth sweep is owed.** By the field count it should reach
 **Organisations, hierarchy and management at 30**, and it should use the enumerate-and-read-for-shape method
 above rather than generating candidates, since that is the one thing this pass established works.
+
+**The sixteenth sweep**, run against Organisations at 30 with the enumerate-and-read-for-shape method the
+fifteenth established, and the method worked a second time.
+
+**The shape of the field is that every incumbent is an organisation that is functioning.** Losing talent, promoting
+badly, distorting reports upward, ossifying into legitimacy, preserving the problem it solves, drifting in its
+language, forgetting what one person knew: thirty concepts, and all of them describe an organisation that works
+and works wrongly. **None is cast from the seat of an organisation that is simply behind and trying to catch up.**
+That is a seat rather than a topic, which is what the method is for, and absorptive capacity sits exactly in it.
+
+**Two hits on one pre-authoring scan, and only one of them a namesake**, which is the case CLAUDE.md describes and
+which had not been met cleanly in one pass before. The house's `Cohen` is **Michael**, on the Garbage Can Model
+with March and Olsen; the candidate cites **Wesley M**. Two people, and the declaration landed first in its own
+governance pull request. The house's `Levinthal` is **Daniel**, with March on the myopia of learning; the
+candidate cites **the same Daniel Levinthal** on a different work, which is one scholar across two works,
+expected, and owes nothing. Declaring it would have been the error, and the temptation to declare both because
+both are hits is exactly what the three-readings rule exists to stop.
+
+**And the probe priced that pass at zero, which produced a rule the ordering table did not have.** `Cohen` was
+undeclared and therefore looked like the cells-first case. Declaring it locally and reading `--namesakes`
+returned **zero unresolved**, because the existing cell was already written `Michael Cohen, James March, Johan
+Olsen`. No cells were owed, so the declaration went straight in with nothing preceding it. **Undeclared does not
+mean bare**, and the question is not whether a surname is declared but whether declaring it would leave any cell
+unresolved. That is now the middle row of the table in CLAUDE.md.
+
+**The abandonment condition is at six passes and has never once fired.** That is now long enough to say something
+about the instrument rather than about the candidates. The condition asks where a candidate is most likely to be
+a system working as designed, and a candidate that has already survived who-pays and no-villain has had its weak
+version filtered out before the condition ever runs. So its yield is not the exit but the **No hero** row, every
+time, and the honest way to hold it is as a **warrant-building instrument that occasionally kills** rather than a
+filter that occasionally teaches. Write it to be answerable and run it first, and expect prose rather than a
+verdict.
+
+**The slate holds one line, the flagged one, so a seventeenth sweep is owed.** By the field count it should reach
+**Collective action, commons and coordination at 31**, and it should use the enumerate-and-read-for-shape method,
+which has now produced a candidate twice from two different fields and is the only instrument the house has that
+runs before a candidate exists.
