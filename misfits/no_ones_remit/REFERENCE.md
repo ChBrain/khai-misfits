@@ -50,7 +50,7 @@ The phenomenon in practice, and the research spine beneath it.
 | --------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Winner**            | _Do Artifacts Have Politics?_ (1980)   | **The naming**: technical arrangements as forms of order; artifacts that settle who may pass.                         |
 | **Joerges**           | _Do Politics Have Artefacts?_ (1999)   | **The correction**: the Moses bridge account is contested, and the play carries the dispute rather than the anecdote. |
-| **Davis**             | _City of Quartz_ (1990)                | **The field record**: bumproof benches and sprinklered doorways described as deliberate urban practice.               |
+| **Mike Davis**        | _City of Quartz_ (1990)                | **The field record**: bumproof benches and sprinklered doorways described as deliberate urban practice.               |
 | **Savičić and Savić** | _Unpleasant Design_ (2013)             | **The catalogue**: the design vocabulary of discouragement, treated as a genre with its own conventions.              |
 | **Petty**             | _The London spikes controversy_ (2016) | **The public reckoning**: an installation defended remit by remit, with no actor claiming the exclusion as an aim.    |
 
