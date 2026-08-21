@@ -6176,3 +6176,56 @@ verdict.
 **Collective action, commons and coordination at 31**, and it should use the enumerate-and-read-for-shape method,
 which has now produced a candidate twice from two different fields and is the only instrument the house has that
 runs before a candidate exists.
+
+**The seventeenth sweep**, run against Collective action at 31 with the enumerate-and-read-for-shape method, which
+has now produced a candidate three times from three fields and can be treated as the house's default opening move
+rather than as an experiment.
+
+**The shape of this field is that every incumbent is about too little.** Free-riding, loafing, bystanders,
+under-provision of a public good, the enforcement recursion, the wasted vote, too many vetoes; and where the
+failure is over-use, as in the commons, it is over-use of something scarce by people taking rather than giving.
+**Thirty-one concepts and not one is cast from the seat where collective action over-supplies and the surplus is
+the harm.** That is the seat material convergence sits in, and the inversion is exact enough that the neighbours
+section writes itself: the house held three misfits about people not helping and none about people helping.
+
+**The abandonment condition returned the No hero row for the seventh pass running, and this is the strongest
+instance yet.** The condition was: _if asking donors to send money instead reliably prevents the surge, this is a
+communications problem and not a structure_. The answer is that the appeal has been made professionally in every
+large disaster for decades, is correct, and does not work, and the reason it does not work is the finding: the
+documented drivers of giving are the wish for a tangible effect, a personal connection, and doubt that cash
+reaches anybody. **The tangibility being argued against is what produces the gift**, so the remedy is an argument
+against its own precondition. A condition written to ask whether a remedy works returned the reason it cannot.
+
+**One thing worth recording about the method, because it is now testable rather than hopeful.** Three passes, three
+fields, three candidates, and in each case the gap was a **seat** rather than a topic: the field had almost nothing
+on what it costs to listen, nothing cast from an organisation that is behind, and nothing where the collective
+does too much. A topic gap is a prompt to go and read; a seat gap is a claim about the house that can be checked
+from a list in one command and argued with. **The method's output is not a candidate but a sentence about the
+field**, and the candidate follows from it, which is why it survives the dedup: a seat nobody has cast is by
+construction not already staged.
+
+**The slate holds one line, the flagged one, so an eighteenth sweep is owed.** By the field count it should reach
+**Safety, risk and complex systems at 37**, which is the last field the method has not been run against, and the
+sentence it produces should be written into this register whether or not it yields a candidate. A field that
+answers _no gap_ is worth as much as one that answers with a misfit, and costs the same command.
+
+**And the neighbour wall caught this pass, which is worth recording because it caught a slip no other gate would
+have.** The warrant's neighbours section was written naming **concepts** rather than **house titles**: the
+bystander effect, the logic of collective action, the identifiable victim effect, Braess's paradox. Every line of
+reasoning in it was correct and every annexation test was run properly, and the misfit still named no neighbour
+by the only measure the wall accepts, because the house calls those four **Everybody's Business**, **The Loud
+Few**, **The One in Front of You** and **The Extra Road**.
+
+The lesson is small and exact: **the neighbours section is about the house and not about the literature**, so it
+must be written from the registry rather than from the science. A concept name is what an author reaches for
+after a day spent in the sources, and it reads as a neighbour and is not one. The check is one command and
+belongs beside the dedup:
+
+```
+grep -rl 'concept: "<the concept>' misfits/*/REFERENCE.md | sed 's|misfits/||;s|/.*||' | xargs -I{} grep -m1 '^title:' misfits/{}/play_*.md
+```
+
+That the wall fires loudly rather than passing quietly is the whole design working, and it is the second time a
+gate has caught something the author's own care did not: the first was the namesake wall, and both failures had
+the same shape, which is a name computed from a cell the author wrote without the author checking what the
+computation would find.
