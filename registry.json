@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.291.0",
+  "version": "0.292.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -56968,6 +56968,198 @@
           "kind": "process",
           "title": "Getting the Coaching",
           "taxonomy": "play_the_youngest_in_the_room.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "they_heard_their_own_effort",
+      "title": "They Heard Their Own Effort",
+      "description": "A listener's own effort in understanding is felt as a fact about what was said.",
+      "members": [
+        {
+          "file": "persona_the_listener.md",
+          "kind": "persona",
+          "title": "The Listener",
+          "type": "archetype",
+          "taxonomy": "position_listener.md"
+        },
+        {
+          "file": "persona_the_native_colleague.md",
+          "kind": "persona",
+          "title": "The Native Colleague",
+          "type": "archetype",
+          "taxonomy": "position_native_colleague.md"
+        },
+        {
+          "file": "persona_the_source.md",
+          "kind": "persona",
+          "title": "The Source",
+          "type": "archetype",
+          "taxonomy": "position_source.md"
+        },
+        {
+          "file": "persona_the_speaker.md",
+          "kind": "persona",
+          "title": "The Speaker",
+          "type": "archetype",
+          "taxonomy": "position_speaker.md"
+        },
+        {
+          "file": "persona_the_warned_listener.md",
+          "kind": "persona",
+          "title": "The Warned Listener",
+          "type": "archetype",
+          "taxonomy": "position_warned_listener.md"
+        },
+        {
+          "file": "piece_the_extra_effort.md",
+          "kind": "piece",
+          "title": "The Extra Effort",
+          "taxonomy": "place_the_half_second.md"
+        },
+        {
+          "file": "piece_the_fluency_cue.md",
+          "kind": "piece",
+          "title": "The Fluency Cue",
+          "taxonomy": "place_the_half_second.md"
+        },
+        {
+          "file": "piece_the_warning.md",
+          "kind": "piece",
+          "title": "The Warning",
+          "taxonomy": "process_correcting_for_it.md"
+        },
+        {
+          "file": "pitch_the_pause_was_yours.md",
+          "kind": "pitch",
+          "title": "The Pause Was Yours",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "place_the_half_second.md",
+          "kind": "place",
+          "title": "The Half Second",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "place_the_meeting.md",
+          "kind": "place",
+          "title": "The Meeting",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "plan_correct_for_the_accent.md",
+          "kind": "plan",
+          "title": "Correct for the Accent",
+          "taxonomy": "position_warned_listener.md"
+        },
+        {
+          "file": "plan_say_the_true_thing.md",
+          "kind": "plan",
+          "title": "Say the True Thing",
+          "taxonomy": "position_speaker.md"
+        },
+        {
+          "file": "plan_work_out_whether_it_is_true.md",
+          "kind": "plan",
+          "title": "Work Out Whether It Is True",
+          "taxonomy": "position_listener.md"
+        },
+        {
+          "file": "play_they_heard_their_own_effort.md",
+          "kind": "play",
+          "title": "They Heard Their Own Effort"
+        },
+        {
+          "file": "plot_and_an_accent_costs_the_listener_effort.md",
+          "kind": "plot",
+          "title": "And an Accent Costs the Listener Effort",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "plot_and_it_is_not_prejudice_which_is_the_hard_part.md",
+          "kind": "plot",
+          "title": "And It Is Not Prejudice, Which Is the Hard Part",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "plot_ease_is_a_truth_cue_and_it_usually_works.md",
+          "kind": "plot",
+          "title": "Ease Is a Truth Cue, and It Usually Works",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "plot_so_the_effort_arrives_with_no_label_on_it.md",
+          "kind": "plot",
+          "title": "So the Effort Arrives With No Label On It",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "plot_so_the_true_thing_is_believed_less.md",
+          "kind": "plot",
+          "title": "So the True Thing Is Believed Less",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "plot_the_warning_helps_where_it_is_least_needed.md",
+          "kind": "plot",
+          "title": "The Warning Helps Where It Is Least Needed",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "position_listener.md",
+          "kind": "position",
+          "title": "Listener",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "position_native_colleague.md",
+          "kind": "position",
+          "title": "Native Colleague",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "position_source.md",
+          "kind": "position",
+          "title": "Source",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "position_speaker.md",
+          "kind": "position",
+          "title": "Speaker",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "position_warned_listener.md",
+          "kind": "position",
+          "title": "Warned Listener",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "process_correcting_for_it.md",
+          "kind": "process",
+          "title": "Correcting for It",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "process_reading_the_effort_as_the_claim.md",
+          "kind": "process",
+          "title": "Reading the Effort as the Claim",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "process_saying_it_in_the_second_language.md",
+          "kind": "process",
+          "title": "Saying It in the Second Language",
+          "taxonomy": "play_they_heard_their_own_effort.md"
+        },
+        {
+          "file": "process_understanding_it_with_effort.md",
+          "kind": "process",
+          "title": "Understanding It, With Effort",
+          "taxonomy": "play_they_heard_their_own_effort.md"
         }
       ]
     },

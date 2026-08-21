@@ -6089,3 +6089,53 @@ alike. No permit in the river describes the product, and that gap is where the m
 now name its own target rather than a prohibition: **Groups, candour and face at 21** is the thinnest real
 field, was swept once at the eighth pass and found wholly held, and is therefore either genuinely exhausted or
 the one place a fresh generator would pay. Either answer is worth having in writing.
+
+**The fifteenth sweep**, run against the target the fourteenth named rather than against a prohibition, and the
+target answered.
+
+**Groups, candour and face is not exhausted, and the eighth sweep's finding was true and was about a method
+rather than about the field.** That pass swept the field from memory, raised candidates, and found every one held
+by an incumbent, which the register recorded as evidence the field might be full. This pass did something cheaper
+and different: it **enumerated the twenty-one concepts actually in the field and read them for shape** rather
+than generating candidates and testing them one at a time. The shape is legible immediately and is the finding:
+**almost every incumbent is the speaker's problem.** The MUM Effect, Preference Falsification, the Abilene
+Paradox, Defensive Routines, Plausible Deniability, Exit Voice and Loyalty and Apology and Litigation are all
+about what somebody cannot say. Impression Management, the Spotlight Effect and the Court Interpreter's Bind are
+about how a speaker is read. Only Reactive Devaluation and the Semmelweis Reflex sit on the **hearer's** side,
+and both are about rejecting a claim's source or its mechanism rather than about the act of hearing.
+
+So the gap was structural rather than topical, and it was visible from a list: **the field had almost nothing on
+what it costs to listen.** The staged misfit sits exactly there.
+
+**The method is the transferable part, and it is cheap.** Generating candidates and checking each against the
+index is how the eighth sweep worked and how most of these have worked; it costs one lookup per candidate and it
+finds what the author already thought of. Enumerating a field's concepts and reading them for **what kind of seat
+they all sit in** costs one command, finds what the author did not think of, and produces a claim that can be
+written down and checked:
+
+```
+for f in misfits/*/REFERENCE.md; do awk '/^---$/{n++;next} n==1 && /^field:/{fld=$0} n==1 && /^concept:/{c=$0} n==2{if(fld ~ /<field>/) print c; exit}' "$f"; done | sort
+```
+
+**Read the field for the seat it keeps casting, and look for the seat it never casts.** That is a different
+instrument from the four already listed, because it runs before any candidate exists: the others all take a
+candidate and test it, and this one produces candidates from a gap in the house's own coverage.
+
+**The abandonment condition returned the No hero row for the fifth pass running, and this one is the cleanest
+example yet.** The condition was: _if telling listeners about the effect removes it, this is an awareness problem
+and not a structure_. The lookup found that warned listeners **do** correct, for a mild accent, and **do not**
+correct for a heavy one. So the remedy exists, works, and is available in inverse proportion to the need for it,
+which is not a kill and is the play's fifth plot.
+
+**One thing to be careful about, and it is recorded because the next author will meet it.** This candidate looks
+from a distance like a play about prejudice, and it is the opposite: the study's design removed every motive to
+distrust the speaker, by having speakers recite statements written by a native speaker, and the discount remained.
+That is what makes it a misfit rather than a documented wrong. The warrant says in terms that prejudice against
+non-native speakers is real, separate, and neither modelled nor denied here. **A candidate adjacent to a genuine
+injustice needs the bound written before the cast, not after**, because the play's whole claim is that the
+residue survives when the injustice is designed out, and a reader who arrives without that sentence will read the
+play as making a much larger claim than it does.
+
+**The slate holds one line, the flagged one, so a sixteenth sweep is owed.** By the field count it should reach
+**Organisations, hierarchy and management at 30**, and it should use the enumerate-and-read-for-shape method
+above rather than generating candidates, since that is the one thing this pass established works.
