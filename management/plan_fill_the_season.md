@@ -6323,3 +6323,49 @@ cell most dangerous. It was found by this pass and is not owed by it: the sweep'
 Peng, Ellison and Davis on the merits, 15,000 specimen records over 120 years against a simulation reporting a
 range under model assumptions, so no Price citation landed. Recorded here so the next author does not re-derive
 it, and so the next one who cites any Price knows the cell goes first.
+
+**The twentieth sweep ran the corpus generator, which had been recorded as untested rather than failed, and it
+works.** The instrument: every misfit's **No hero** section lists remedies that do not take, so mine all 296 of
+them and look for a remedy whose failure is a mechanism the house has not staged. It runs off the corpus rather
+than off the author's memory, which is the whole point at this size.
+
+Its signature turned out to be a **count**, not a reading. Two misfits naming the same failed remedy for the same
+reason is a hit worth following, and the sharpest signal was blunter than that: the word **training** appears in
+**43 of the 296** No hero sections. The house says _training does not fix this_ forty-three times and has never
+once staged why. The scan that follows is a clean zero:
+
+```
+hierarchy of controls    0
+personal protective      0
+administrative control   0
+engineering control      0
+```
+
+**And that zero sits inside Safety at 39, the field the eighteenth sweep had already declared answered.** This is
+the sweep's real finding and it is worth more than the misfit: **a field is answered by an instrument, not in
+general.** The seat method reads a field for the actors it casts and never for the _choices_ those actors face,
+so a gap in the shape of _which option gets picked_ was invisible to it in a field it had swept and closed. The
+previous entry's conclusion, that the seat method is exhausted, was correct. The inference anybody would draw
+from it, that the eight fields are therefore worked out, is not. Exhausting an instrument retires the
+instrument.
+
+**Gloves by Friday** is the answer, and the annexation tests hold cleanly, chiefly against The Unmarked Edge
+(nothing here drifts: the control is chosen explicitly and correctly on the first day) and Regrettable
+Substitution (that one is about which substance, this one about which tier, and it stands even with perfect
+toxicological data).
+
+**One candidate from the same corpus was killed, and the kill is the more useful half.** Two No hero sections
+independently name **spreading a harm thin** as a remedy that protects nobody, which read as a candidate about
+the de minimis threshold: harm below the level at which any bearer can detect or bring it. It fails the
+annexation test against **Ninety Six Times Eight**. Set that misfit's quantity to zero, one instance rather than
+many in series, and a single de minimis harm is by definition negligible, so the candidate **goes quiet** where a
+misfit would stand. It is an Origin row at best. The version that survives requires an actor deliberately holding
+their conduct under a threshold, which buys survival at the price of a villain, and the house does not trade that
+way. Recorded so it is not re-derived: **de minimis is held, and what would bring it back is a mechanism in which
+the threshold does the harm with nobody aiming at it.**
+
+**The twenty-first sweep needs its own instrument, and the corpus generator has one more pass in it before it
+is spent.** Its remaining unmined seam is the **Restrictions** bounds rather than the No hero remedies: every
+warrant names what its research does not settle, and a bound that several misfits carry independently is a
+contested question the house has repeatedly declined to stage. That is a different question again from _which
+remedy fails_ and from _which seat is uncast_, and it should be run before reaching for a fourth.
