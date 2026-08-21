@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.284.0",
+  "version": "0.285.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -58764,6 +58764,198 @@
           "kind": "process",
           "title": "Taking It Back",
           "taxonomy": "play_what_never_arrives.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "what_seven_means_now",
+      "title": "What Seven Means Now",
+      "description": "The adaptation that makes a condition bearable is what makes the before and after numbers incomparable.",
+      "members": [
+        {
+          "file": "persona_the_clinician.md",
+          "kind": "persona",
+          "title": "The Clinician",
+          "type": "archetype",
+          "taxonomy": "position_clinician.md"
+        },
+        {
+          "file": "persona_the_committee.md",
+          "kind": "persona",
+          "title": "The Committee",
+          "type": "archetype",
+          "taxonomy": "position_committee.md"
+        },
+        {
+          "file": "persona_the_methodologist.md",
+          "kind": "persona",
+          "title": "The Methodologist",
+          "type": "archetype",
+          "taxonomy": "position_methodologist.md"
+        },
+        {
+          "file": "persona_the_reporter.md",
+          "kind": "persona",
+          "title": "The Reporter",
+          "type": "archetype",
+          "taxonomy": "position_reporter.md"
+        },
+        {
+          "file": "persona_the_trialist.md",
+          "kind": "persona",
+          "title": "The Trialist",
+          "type": "archetype",
+          "taxonomy": "position_trialist.md"
+        },
+        {
+          "file": "piece_the_change_score.md",
+          "kind": "piece",
+          "title": "The Change Score",
+          "taxonomy": "place_the_consulting_room.md"
+        },
+        {
+          "file": "piece_the_moving_standard.md",
+          "kind": "piece",
+          "title": "The Moving Standard",
+          "taxonomy": "place_the_trial.md"
+        },
+        {
+          "file": "piece_the_number.md",
+          "kind": "piece",
+          "title": "The Number",
+          "taxonomy": "place_the_consulting_room.md"
+        },
+        {
+          "file": "pitch_the_scale_moved_with_them.md",
+          "kind": "pitch",
+          "title": "The Scale Moved With Them",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "place_the_consulting_room.md",
+          "kind": "place",
+          "title": "The Consulting Room",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "place_the_trial.md",
+          "kind": "place",
+          "title": "The Trial",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "plan_estimate_the_effect.md",
+          "kind": "plan",
+          "title": "Estimate the Effect",
+          "taxonomy": "position_trialist.md"
+        },
+        {
+          "file": "plan_read_one_persons_change.md",
+          "kind": "plan",
+          "title": "Read One Person's Change",
+          "taxonomy": "position_clinician.md"
+        },
+        {
+          "file": "plan_say_the_number.md",
+          "kind": "plan",
+          "title": "Say the Number",
+          "taxonomy": "position_reporter.md"
+        },
+        {
+          "file": "play_what_seven_means_now.md",
+          "kind": "play",
+          "title": "What Seven Means Now"
+        },
+        {
+          "file": "plot_and_the_report_is_the_whole_of_the_access.md",
+          "kind": "plot",
+          "title": "And the Report Is the Whole of the Access",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "plot_and_the_standard_moves_inside_one.md",
+          "kind": "plot",
+          "title": "And the Standard Moves Inside One",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "plot_and_the_then_test_asks_for_a_standard_nobody_holds.md",
+          "kind": "plot",
+          "title": "And the Then-Test Asks for a Standard Nobody Holds",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "plot_randomisation_repairs_the_comparison_between_people.md",
+          "kind": "plot",
+          "title": "Randomisation Repairs the Comparison Between People",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "plot_so_the_change_score_is_two_scales_subtracted.md",
+          "kind": "plot",
+          "title": "So the Change Score Is Two Scales Subtracted",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "plot_the_quantity_is_private.md",
+          "kind": "plot",
+          "title": "The Quantity Is Private",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "position_clinician.md",
+          "kind": "position",
+          "title": "Clinician",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "position_committee.md",
+          "kind": "position",
+          "title": "Committee",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "position_methodologist.md",
+          "kind": "position",
+          "title": "Methodologist",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "position_reporter.md",
+          "kind": "position",
+          "title": "Reporter",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "position_trialist.md",
+          "kind": "position",
+          "title": "Trialist",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "process_giving_the_number.md",
+          "kind": "process",
+          "title": "Giving the Number",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "process_randomising_the_arms.md",
+          "kind": "process",
+          "title": "Randomising the Arms",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "process_recalibrating_the_standard.md",
+          "kind": "process",
+          "title": "Recalibrating the Standard",
+          "taxonomy": "play_what_seven_means_now.md"
+        },
+        {
+          "file": "process_running_the_then_test.md",
+          "kind": "process",
+          "title": "Running the Then-Test",
+          "taxonomy": "play_what_seven_means_now.md"
         }
       ]
     },
