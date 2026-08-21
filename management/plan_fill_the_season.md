@@ -5734,7 +5734,7 @@ about conduct, and the burden is on the candidate.
 **One line survives, and it carries all four things a line should now carry**: what it must be tested against,
 what it must beat, who pays, and what would end it.
 
-- [ ] [P0] No Original to Return To (the equally authentic language versions of a multilingual legal order, and
+- [x] [P0] No Original to Return To (the equally authentic language versions of a multilingual legal order, and
       the case law reconciling them when they diverge): a law is enacted simultaneously in every official
       language and **each version is equally authentic**, which is right and is the only defensible arrangement,
       since a person should be bound by a text in a language they read. Languages do not map one to one, so
@@ -5752,4 +5752,34 @@ what it must beat, who pays, and what would end it.
       rather than on either of the two joined things. **The abandonment condition**: if the reconciliation
       doctrine turns out to resolve divergences without ever disturbing a party's settled reliance, the
       candidate is a doctrine working as designed and not a misfit, and should be dropped rather than argued
-      for.
+      for, staged as **Read It in All of Them**: the abandonment condition was run first and did not fire,
+      and
+      what it returned made the candidate sharper rather than merely surviving, since the doctrine reconciling a
+      divergence declares single-version reliance to be the **wrong method** and not merely an unlucky one, which
+      is the only method almost every reader has; both annexation tests passed as the line predicted and are
+      written into the warrant; the build added the sentence the line had not reached, which is that **the
+      comparison duty binds the reader's own national court**, so the seat charged with applying the rule
+      correctly is not resourced for the method that defines correct application, and the settlement is then
+      reached by purpose and general scheme, a route that passes through **no reader's text at all**; the source
+      re-scan at the end returned clean on every surname, the first pass in four to owe no namesake work, which
+      is a datum and not a trend.
+
+**And the slate is empty again, which is the state a twelfth sweep is owed from.** The eleventh raised one line
+and that line is now staged, so the next author has no candidate to take from the top of this file and must run
+a pass before authoring. That is the ordinary rhythm rather than a defect, and it is worth naming so the empty
+slate is not read as permission to choose from memory, which is the one move this register exists to prevent.
+
+**The abandonment condition earned its place, and not in the way it was written to.** It was added as a cheap
+kill: a line should carry the observation that closes it, so one lookup can end a candidate without judgement.
+Run here, it did not kill and it did not merely fail to kill. What it returned was the sentence the play now
+turns on, because asking _could this doctrine resolve divergences without ever disturbing settled reliance_ is
+the same question as _what does the doctrine say a reader should have done_, and the answer is that they should
+have read the other versions. So the condition is **not only a kill switch**: it names the point where the
+candidate is most likely to be a doctrine working as designed, and that point is where the misfit lives if there
+is one. Write the condition to be answerable, and run it first whether or not the candidate looks safe.
+
+**One datum on the namesake re-scan, recorded because it runs against the last three passes.** The final scan
+returned clean on every surname in the finished source set, which is the first pass in four to owe no namesake
+work. Three consecutive namesake findings made the re-scan look like a near-certainty; it is not, and one clean
+pass is not a reversal either. The rule stands unchanged for the reason it was written: the scan costs one
+command and the collision costs a misfit, so its value never depended on how often it fires.

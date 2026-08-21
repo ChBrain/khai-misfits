@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.285.0",
+  "version": "0.286.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -26238,6 +26238,198 @@
           "kind": "process",
           "title": "Reaching",
           "taxonomy": "play_pushing_on_a_string.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "read_it_in_all_of_them",
+      "title": "Read It in All of Them",
+      "description": "Every language version of a law is equally authentic, so reading the one written for you is not enough.",
+      "members": [
+        {
+          "file": "persona_the_court_of_justice.md",
+          "kind": "persona",
+          "title": "The Court of Justice",
+          "type": "archetype",
+          "taxonomy": "position_court_of_justice.md"
+        },
+        {
+          "file": "persona_the_drafter.md",
+          "kind": "persona",
+          "title": "The Drafter",
+          "type": "archetype",
+          "taxonomy": "position_drafter.md"
+        },
+        {
+          "file": "persona_the_national_court.md",
+          "kind": "persona",
+          "title": "The National Court",
+          "type": "archetype",
+          "taxonomy": "position_national_court.md"
+        },
+        {
+          "file": "persona_the_reader.md",
+          "kind": "persona",
+          "title": "The Reader",
+          "type": "archetype",
+          "taxonomy": "position_reader.md"
+        },
+        {
+          "file": "persona_the_translator.md",
+          "kind": "persona",
+          "title": "The Translator",
+          "type": "archetype",
+          "taxonomy": "position_translator.md"
+        },
+        {
+          "file": "piece_the_comparison_duty.md",
+          "kind": "piece",
+          "title": "The Comparison Duty",
+          "taxonomy": "place_the_referral.md"
+        },
+        {
+          "file": "piece_the_divergence.md",
+          "kind": "piece",
+          "title": "The Divergence",
+          "taxonomy": "place_the_referral.md"
+        },
+        {
+          "file": "piece_the_equal_authenticity.md",
+          "kind": "piece",
+          "title": "The Equal Authenticity",
+          "taxonomy": "place_the_official_journal.md"
+        },
+        {
+          "file": "pitch_every_version_is_the_original.md",
+          "kind": "pitch",
+          "title": "Every Version Is the Original",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "place_the_official_journal.md",
+          "kind": "place",
+          "title": "The Official Journal",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "place_the_referral.md",
+          "kind": "place",
+          "title": "The Referral",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "plan_comply_with_what_it_says.md",
+          "kind": "plan",
+          "title": "Comply With What It Says",
+          "taxonomy": "position_reader.md"
+        },
+        {
+          "file": "plan_publish_it_in_every_language.md",
+          "kind": "plan",
+          "title": "Publish It in Every Language",
+          "taxonomy": "position_drafter.md"
+        },
+        {
+          "file": "plan_rule_on_the_divergence.md",
+          "kind": "plan",
+          "title": "Rule on the Divergence",
+          "taxonomy": "position_court_of_justice.md"
+        },
+        {
+          "file": "play_read_it_in_all_of_them.md",
+          "kind": "play",
+          "title": "Read It in All of Them"
+        },
+        {
+          "file": "plot_and_competent_translation_still_diverges.md",
+          "kind": "plot",
+          "title": "And Competent Translation Still Diverges",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "plot_and_the_duty_falls_on_the_readers_own_court.md",
+          "kind": "plot",
+          "title": "And the Duty Falls on the Reader's Own Court",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "plot_every_version_is_authentic_and_that_is_right.md",
+          "kind": "plot",
+          "title": "Every Version Is Authentic, and That Is Right",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "plot_so_no_version_may_be_read_alone.md",
+          "kind": "plot",
+          "title": "So No Version May Be Read Alone",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "plot_so_the_one_written_for_you_is_authentic_and_not_enough.md",
+          "kind": "plot",
+          "title": "So the One Written for You Is Authentic and Not Enough",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "plot_the_text_stops_deciding_and_the_purpose_decides.md",
+          "kind": "plot",
+          "title": "The Text Stops Deciding and the Purpose Decides",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "position_court_of_justice.md",
+          "kind": "position",
+          "title": "Court of Justice",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "position_drafter.md",
+          "kind": "position",
+          "title": "Drafter",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "position_national_court.md",
+          "kind": "position",
+          "title": "National Court",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "position_reader.md",
+          "kind": "position",
+          "title": "Reader",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "position_translator.md",
+          "kind": "position",
+          "title": "Translator",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "process_comparing_the_versions.md",
+          "kind": "process",
+          "title": "Comparing the Versions",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "process_enacting_in_every_language.md",
+          "kind": "process",
+          "title": "Enacting in Every Language",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "process_reading_the_one_you_have.md",
+          "kind": "process",
+          "title": "Reading the One You Have",
+          "taxonomy": "play_read_it_in_all_of_them.md"
+        },
+        {
+          "file": "process_reconciling_by_purpose.md",
+          "kind": "process",
+          "title": "Reconciling by Purpose",
+          "taxonomy": "play_read_it_in_all_of_them.md"
         }
       ]
     },
