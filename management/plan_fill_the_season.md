@@ -5838,7 +5838,7 @@ Court Interpreter's Bind** and **Forensic Confirmation Bias** without clearing e
       moving as the world outside acquires more tables; and the warrant carries its own headline figure being
       revised downward, from 87 per cent to about 63, because a bound the play would rather not have is exactly
       the bound it has to print.
-- [ ] [P1] The Accession That Stops Moving (ex situ conservation; seed and gene banks; the regeneration cycle):
+- [x] [P1] The Accession That Stops Moving (ex situ conservation; seed and gene banks; the regeneration cycle):
       a landrace is banked because it is adapted to a place, and banking suspends the adaptation while the place
       keeps changing, so the longer the material is conserved the less it fits the ground it was saved for.
       **Who pays is the restoration**, decades later. **To be tested for annexation against Genetic Adaptation to
@@ -5846,13 +5846,34 @@ Court Interpreter's Bind** and **Forensic Confirmation Bias** without clearing e
       selection whatever, and this should stand, because the mismatch here comes from the world moving rather
       than from the ark choosing. **The abandonment condition**: if periodic regeneration turns out to track the
       changing environment closely enough that banked material stays field-competitive, the bank is working as
-      designed and this is not a misfit.
-- [ ] [P1] The Only Ones Who Could Judge It (peer review in narrow specialisms; reviewer conflict; the small-field
+      designed and this is not a misfit. **Killed, and not by the condition as written.** Regeneration is
+      designed to maintain viability with minimum selection and does not track anything, so that condition did
+      not fire. What killed it is that **the comparison class moved too**: the misfit needs the banked accession
+      to be worse off than the alternative, and the alternative is a wild population that is **also** lagging,
+      because climate has already induced local maladaptation in wild plant populations and local adaptation is
+      being outpaced. The bank's holdings are no staler than the field's. And the second kill is independent of
+      the first: for the largest actual use of a gene bank, allele mining for breeding, **the stasis is the
+      product**, since the breeder wants the allele precisely because the field lost it, which is what the
+      conservation literature says ex situ snapshots are for. Nobody pays.
+- [x] [P1] The Only Ones Who Could Judge It (peer review in narrow specialisms; reviewer conflict; the small-field
       problem): the competence to assess a claim and the interest in its outcome are produced by the same
       quantity, closeness to the work, so a field small enough to need expert review is small enough that the
       experts are the rivals. **Who pays is the author and the field's record.** **The precondition is a lookup
       establishing that this is measured rather than merely complained about**, and the line should be dropped if
-      the evidence is anecdote, because a candidate whose warrant is a grievance is not a warrant.
+      the evidence is anecdote, because a candidate whose warrant is a grievance is not a warrant. **The
+      precondition passed, and it passed by destroying the line's own framing**, staged as **Near Enough to
+      Doubt It**: the effect is measured twice over, once under **randomised** assignment of evaluators to
+      proposals across more than two thousand pairings and once across 1,450 unblinded evaluations, and both
+      readings say the harshness is **not** competitor bias, the randomisation removing the competitive relation
+      outright and the second study's authors favouring bounded rationality over social influence. The line as
+      written said **competence and conflict of interest** come from one quantity, which has a rival hidden in
+      it and would have been a villain the evidence does not support; what is actually there is that **a
+      better-informed reader sees more that could go wrong**, so the expert's lower score is correct and is
+      still the lower score. That is a stronger play and a cleaner one, and the lesson is that **a precondition
+      lookup can pass and still refute the line it was attached to**, which is a third outcome neither the
+      abandonment condition nor the annexation test produces. The build then found the payer: the penalty
+      concentrates on **novel** proposals, which are the ones that most need a close reader to be understood at
+      all, so the process is hardest on the work it exists to find.
 - [ ] [P2] The Channel That Closes (mandatory reporting regimes and disclosure deterrence): a duty to report
       exists so that harm is detected, and its existence is a reason not to disclose to the person who holds it,
       so the detection channel is narrowed by the rule that was meant to open it. **Who pays is the person who
@@ -5900,3 +5921,47 @@ this and takes the 288th, which is the outcome the field-count rule exists to ma
 it: the rule says the count orders the search and the dedup decides, and this candidate came off the slate rather
 than out of memory, which is the distinction that actually matters. The count is a prompt to look elsewhere first,
 and looking elsewhere first is what the twelfth sweep did.
+
+**The comparator test, which this pass had to invent and should have had.** The accession candidate died on a
+question nobody had written down: **worse than what?** Its harm was of the form _X gets worse over time_, and
+every candidate of that form is a comparison, so it is only a harm if the thing X is compared against is holding
+still. Here it was not: the wild population is lagging the climate too, for the same reason and at a similar
+rate, so the bank's stasis costs almost nothing relative to the only available alternative. The test is one
+question, needs no lookup, and would have killed this before the slate line was ever written:
+
+> **Name what the harmed thing is being compared against, and check that the comparator is not drifting the same
+> way.**
+
+It belongs beside the annexation test rather than inside it, because the two ask different questions. Annexation
+asks _is this some incumbent's engine in new clothes?_ The comparator test asks _is there a gap at all?_ A
+candidate can pass annexation cleanly and have no gap, which is what happened.
+
+**And a precondition lookup has a third outcome, which is the pass's other finding.** The peer-review line
+carried a precondition rather than an abandonment condition: establish that the effect is measured rather than
+complained about, and drop the line if the evidence is anecdote. It passed, and in passing it **refuted the
+line's own framing**. The line said competence and conflict of interest are produced by one quantity, which
+smuggles a rival into a house that does not stage rivals; the evidence says the opposite, since the effect
+survives randomised assignment and tracks self-assessed expertise rather than any competitive relation. So the
+lookup did not confirm the candidate and did not kill it: it **replaced its mechanism with a better one**, and
+the better one is the reason the play works, because a lower score that is correct is a far harder thing than a
+lower score that is motivated.
+
+Three instruments now, and they fail differently, which is the point of having three:
+
+| The instrument          | The question it asks                              | What a pass means                                         |
+| ----------------------- | ------------------------------------------------- | --------------------------------------------------------- |
+| The annexation test     | is this an incumbent's engine in new clothes?     | the mechanism is the candidate's own                      |
+| The comparator test     | is there a gap at all, or is the baseline moving? | somebody is actually worse off                            |
+| The precondition lookup | is this measured or merely complained about?      | **the mechanism may still not be the one you wrote down** |
+
+**The fattest field took a second consecutive misfit, and this time it is worth stopping on.** Measurement,
+cognition and inquiry stood at 76 of 287, took the 288th, and takes the 289th. The last entry recorded the first
+of those deliberately and noted the candidate came off the slate rather than out of memory, which is the
+distinction the rule cares about, and that defence holds for this one too. It does not hold twice more. **The
+next pass should take its candidate from outside measurement or say in writing why it could not**, which is the
+narrow, checkable form of a rule that is otherwise just an intention.
+
+**The slate is down to one line, and that line is the flagged one.** Only The Channel That Closes remains, and it
+carries a subject-sensitivity flag saying it stands only if a version exists whose payer is structural rather
+than a person in distress, and should be dropped rather than softened if not. So a thirteenth sweep is owed
+before the next misfit, and it is owed under the field constraint above.
