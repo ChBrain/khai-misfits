@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.290.0",
+  "version": "0.291.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -18840,6 +18840,198 @@
           "kind": "process",
           "title": "Surfacing",
           "taxonomy": "play_never_aimed_at_you.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "ninety_six_times_eight",
+      "title": "Ninety-Six Times Eight",
+      "description": "Each fishway passes nearly all of them, and the run has to cross eight of them.",
+      "members": [
+        {
+          "file": "persona_the_counter.md",
+          "kind": "persona",
+          "title": "The Counter",
+          "type": "archetype",
+          "taxonomy": "position_counter.md"
+        },
+        {
+          "file": "persona_the_dam_operator.md",
+          "kind": "persona",
+          "title": "The Dam Operator",
+          "type": "archetype",
+          "taxonomy": "position_dam_operator.md"
+        },
+        {
+          "file": "persona_the_fishery_manager.md",
+          "kind": "persona",
+          "title": "The Fishery Manager",
+          "type": "archetype",
+          "taxonomy": "position_fishery_manager.md"
+        },
+        {
+          "file": "persona_the_fishway_engineer.md",
+          "kind": "persona",
+          "title": "The Fishway Engineer",
+          "type": "archetype",
+          "taxonomy": "position_fishway_engineer.md"
+        },
+        {
+          "file": "persona_the_regulator.md",
+          "kind": "persona",
+          "title": "The Regulator",
+          "type": "archetype",
+          "taxonomy": "position_regulator.md"
+        },
+        {
+          "file": "piece_the_passage_efficiency.md",
+          "kind": "piece",
+          "title": "The Passage Efficiency",
+          "taxonomy": "place_the_ladder.md"
+        },
+        {
+          "file": "piece_the_permit.md",
+          "kind": "piece",
+          "title": "The Permit",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "piece_the_product.md",
+          "kind": "piece",
+          "title": "The Product",
+          "taxonomy": "place_the_reach.md"
+        },
+        {
+          "file": "pitch_no_weak_link_anywhere_in_it.md",
+          "kind": "pitch",
+          "title": "No Weak Link Anywhere in It",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "place_the_ladder.md",
+          "kind": "place",
+          "title": "The Ladder",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "place_the_reach.md",
+          "kind": "place",
+          "title": "The Reach",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "plan_get_them_past_this_dam.md",
+          "kind": "plan",
+          "title": "Get Them Past This Dam",
+          "taxonomy": "position_fishway_engineer.md"
+        },
+        {
+          "file": "plan_permit_what_is_in_front_of_you.md",
+          "kind": "plan",
+          "title": "Permit What Is in Front of You",
+          "taxonomy": "position_regulator.md"
+        },
+        {
+          "file": "plan_set_the_harvest_from_the_escapement.md",
+          "kind": "plan",
+          "title": "Set the Harvest From the Escapement",
+          "taxonomy": "position_fishery_manager.md"
+        },
+        {
+          "file": "play_ninety_six_times_eight.md",
+          "kind": "play",
+          "title": "Ninety-Six Times Eight"
+        },
+        {
+          "file": "plot_a_dam_needs_a_ladder_and_the_ladder_is_built_well.md",
+          "kind": "plot",
+          "title": "A Dam Needs a Ladder, and the Ladder Is Built Well",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "plot_and_it_passes_nearly_all_of_them.md",
+          "kind": "plot",
+          "title": "And It Passes Nearly All of Them",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "plot_and_the_run_crosses_eight_of_them.md",
+          "kind": "plot",
+          "title": "And the Run Crosses Eight of Them",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "plot_nobody_owns_the_product.md",
+          "kind": "plot",
+          "title": "Nobody Owns the Product",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "plot_so_every_gate_was_good_and_a_third_did_not_arrive.md",
+          "kind": "plot",
+          "title": "So Every Gate Was Good and a Third Did Not Arrive",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "plot_so_the_number_is_among_the_best_ever_recorded.md",
+          "kind": "plot",
+          "title": "So the Number Is Among the Best Ever Recorded",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "position_counter.md",
+          "kind": "position",
+          "title": "Counter",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "position_dam_operator.md",
+          "kind": "position",
+          "title": "Dam Operator",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "position_fishery_manager.md",
+          "kind": "position",
+          "title": "Fishery Manager",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "position_fishway_engineer.md",
+          "kind": "position",
+          "title": "Fishway Engineer",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "position_regulator.md",
+          "kind": "position",
+          "title": "Regulator",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "process_counting_what_arrives.md",
+          "kind": "process",
+          "title": "Counting What Arrives",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "process_designing_it_to_the_standard.md",
+          "kind": "process",
+          "title": "Designing It to the Standard",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "process_doing_it_again_seven_times.md",
+          "kind": "process",
+          "title": "Doing It Again, Seven Times",
+          "taxonomy": "play_ninety_six_times_eight.md"
+        },
+        {
+          "file": "process_passing_one_dam.md",
+          "kind": "process",
+          "title": "Passing One Dam",
+          "taxonomy": "play_ninety_six_times_eight.md"
         }
       ]
     },
