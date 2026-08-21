@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.287.0",
+  "version": "0.288.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -23808,6 +23808,198 @@
           "kind": "process",
           "title": "Stranding",
           "taxonomy": "play_only_as_good_as_the_worst.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "only_one_person_fits",
+      "title": "Only One Person Fits",
+      "description": "What makes a released record answer a question is what narrows it to one person.",
+      "members": [
+        {
+          "file": "persona_the_custodian.md",
+          "kind": "persona",
+          "title": "The Custodian",
+          "type": "archetype",
+          "taxonomy": "position_custodian.md"
+        },
+        {
+          "file": "persona_the_de_identifier.md",
+          "kind": "persona",
+          "title": "The De-identifier",
+          "type": "archetype",
+          "taxonomy": "position_de_identifier.md"
+        },
+        {
+          "file": "persona_the_demonstrator.md",
+          "kind": "persona",
+          "title": "The Demonstrator",
+          "type": "archetype",
+          "taxonomy": "position_demonstrator.md"
+        },
+        {
+          "file": "persona_the_researcher.md",
+          "kind": "persona",
+          "title": "The Researcher",
+          "type": "archetype",
+          "taxonomy": "position_researcher.md"
+        },
+        {
+          "file": "persona_the_subject.md",
+          "kind": "persona",
+          "title": "The Subject",
+          "type": "archetype",
+          "taxonomy": "position_subject.md"
+        },
+        {
+          "file": "piece_the_privacy_budget.md",
+          "kind": "piece",
+          "title": "The Privacy Budget",
+          "taxonomy": "process_spending_the_budget.md"
+        },
+        {
+          "file": "piece_the_quasi_identifier.md",
+          "kind": "piece",
+          "title": "The Quasi-Identifier",
+          "taxonomy": "place_the_release.md"
+        },
+        {
+          "file": "piece_the_unique_row.md",
+          "kind": "piece",
+          "title": "The Unique Row",
+          "taxonomy": "place_the_linkage.md"
+        },
+        {
+          "file": "pitch_no_name_on_it_and_only_you_in_it.md",
+          "kind": "pitch",
+          "title": "No Name on It, and Only You in It",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "place_the_linkage.md",
+          "kind": "place",
+          "title": "The Linkage",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "place_the_release.md",
+          "kind": "place",
+          "title": "The Release",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "plan_answer_the_question_in_the_data.md",
+          "kind": "plan",
+          "title": "Answer the Question in the Data",
+          "taxonomy": "position_researcher.md"
+        },
+        {
+          "file": "plan_release_what_was_asked_for.md",
+          "kind": "plan",
+          "title": "Release What Was Asked For",
+          "taxonomy": "position_custodian.md"
+        },
+        {
+          "file": "plan_show_that_it_is_not_safe.md",
+          "kind": "plan",
+          "title": "Show That It Is Not Safe",
+          "taxonomy": "position_demonstrator.md"
+        },
+        {
+          "file": "play_only_one_person_fits.md",
+          "kind": "play",
+          "title": "Only One Person Fits"
+        },
+        {
+          "file": "plot_and_the_names_come_off_correctly.md",
+          "kind": "plot",
+          "title": "And the Names Come Off, Correctly",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "plot_and_what_answers_the_question_is_what_narrows_it_to_one.md",
+          "kind": "plot",
+          "title": "And What Answers the Question Is What Narrows It to One",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "plot_so_the_row_is_anonymous_and_is_you.md",
+          "kind": "plot",
+          "title": "So the Row Is Anonymous and Is You",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "plot_so_what_is_left_is_what_answers_the_question.md",
+          "kind": "plot",
+          "title": "So What Is Left Is What Answers the Question",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "plot_the_record_must_be_released_and_that_is_right.md",
+          "kind": "plot",
+          "title": "The Record Must Be Released, and That Is Right",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "plot_the_remedy_prices_the_trade_and_cannot_end_it.md",
+          "kind": "plot",
+          "title": "The Remedy Prices the Trade and Cannot End It",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "position_custodian.md",
+          "kind": "position",
+          "title": "Custodian",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "position_de_identifier.md",
+          "kind": "position",
+          "title": "De-identifier",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "position_demonstrator.md",
+          "kind": "position",
+          "title": "Demonstrator",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "position_researcher.md",
+          "kind": "position",
+          "title": "Researcher",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "position_subject.md",
+          "kind": "position",
+          "title": "Subject",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "process_joining_it_to_something_else.md",
+          "kind": "process",
+          "title": "Joining It to Something Else",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "process_keeping_what_answers_the_question.md",
+          "kind": "process",
+          "title": "Keeping What Answers the Question",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "process_spending_the_budget.md",
+          "kind": "process",
+          "title": "Spending the Budget",
+          "taxonomy": "play_only_one_person_fits.md"
+        },
+        {
+          "file": "process_stripping_the_names.md",
+          "kind": "process",
+          "title": "Stripping the Names",
+          "taxonomy": "play_only_one_person_fits.md"
         }
       ]
     },
