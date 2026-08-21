@@ -322,6 +322,34 @@ produce academics, so the very thing that makes a name look safe is what
 concentrates it. Scan the surname whatever it looks like: the scan costs one
 command and the collision costs a misfit.
 
+**And there is no such command, which is the trap that last sentence sets.**
+`--check` takes a `"Scholar :: Work"` string and answers the shared-work wall.
+Given a bare surname it matches no work and reports `clear: no misfit cites this
+work`, which is true, and is not the question that was asked. So a surname the
+house already holds returns a **false clear from the sanctioned instrument**, and
+the other three flags are no help either: `--namesakes`, `--forms` and
+`--suffixes` all read the index _after_ a declaration and none of them scans for
+one. The surname scan is therefore hand-rolled against `docs/SCIENCE.md`, and it
+has to match that file's own shape, which is a table and not a set of headings:
+
+```
+grep -c "^| \*\*<Surname>\*\* \|^| \*\*<Surname> (" docs/SCIENCE.md
+```
+
+Both arms are needed, since a declared surname keys as `Adams (Gordon)` and an
+undeclared one stays bare. A pattern anchored on anything else returns zero for
+every name in the house, which is how `Davis` and `Cooper` were first scanned
+with a heading-anchored grep against a file that contains no headings: it swept
+twenty-eight surnames, reported all of them clear, and was wrong about every one.
+Both were in fact taken, and only the missing hit gave it away.
+
+This one belongs beside the three walls above rather than among them, because it
+is not something the index gets wrong. The index was right and the question was
+never put to it. A wall could close it, and a `--surname` flag is the obvious
+shape, but until one exists the instruction to _scan the surname_ is a rule with
+no command behind it, and a reader who obeys it literally with `--check` gets
+told the name is free.
+
 **And scan again at the end, because the second source set is where the namesakes
 are.** The pre-authoring scan covers the sources you **planned**, and the best row
 in a warrant is routinely chosen during the build: the cut moves, a better
