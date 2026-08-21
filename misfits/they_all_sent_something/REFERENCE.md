@@ -61,14 +61,15 @@ coordinating. One set of people, trucks and hours does both jobs, so every carto
 and deferring the sorting is unavailable because perishables set the clock and the queue is outside now.
 
 It is distinct from the house's **Everybody's Business**, which is the nearest incumbent by inversion and stages
-the bystander effect, where diffusion of responsibility, where the presence of others makes each person less likely to act so nobody does.
+the bystander effect, in which the presence of others makes each person less likely to act, so nobody does.
 Remove that engine entirely, by stipulating a population in which every single person acts, and this misfit is not
 weakened but produced: **everybody acting is the cause here**, and the harm scales with how many people helped.
 The two are the same collective-action axis read in opposite directions, and the house had three misfits about
 people not helping and none about people helping.
 
-It is distinct from the house's **The Loud Few**, which stages the logic of collective action, where concentrated benefits and diffuse costs
-leave a public good under-provided because no individual's contribution is decisive. Remove that engine, by
+It is distinct from the house's **The Loud Few**, which stages the logic of collective action, where
+concentrated benefits and diffuse costs leave a public good under-provided because no individual's
+contribution is decisive. Remove that engine, by
 stipulating contributors who all give regardless of pivotality, and this stands: the difficulty is
 over-provision, arriving unsolicited and in the wrong composition, which that misfit's mechanism does not reach.
 
@@ -78,8 +79,8 @@ donors perfectly indifferent between identified and statistical victims, and thi
 converges on the announced disaster for the ordinary reason that it is where the need was announced, and the
 congestion is a matter of timing and composition rather than of selection between causes.
 
-It is distinct from the house's **The Extra Road**, which stages Braess's paradox, where adding a road makes every journey worse because
-self-interested drivers re-route to a new equilibrium. Remove that engine, by stipulating agents who make no
+It is distinct from the house's **The Extra Road**, which stages Braess's paradox, where adding a road makes
+every journey worse because self-interested drivers re-route to a new equilibrium. Remove that engine, by stipulating agents who make no
 routing choice at all, and this stands: donors are not choosing between paths, are not self-interested, and the
 loss is a processing bottleneck rather than an equilibrium shift.
 
