@@ -5608,3 +5608,105 @@ on one spine, and they have made that danger rare enough to be uninteresting. Th
 is **well sourced, unheld, and not a misfit**, and no gate can see it, because both questions are about what a
 structure is rather than about what a file contains. So the cheap order stands and should be written at the top
 of any triage: **ask who pays, then ask whether the literature blames anybody, and only then spend a lookup.**
+
+**The tenth field sweep, run to the order the last pass established, and the order paid before a single lookup
+was spent.** The rule written in the pilot hold is: ask who pays, then ask whether the literature blames
+anybody, and only then spend a lookup. This pass ran that way deliberately, and two candidates died in the
+first two questions at a cost of nothing.
+
+| Field                                        | Misfits |
+| -------------------------------------------- | ------- |
+| Measurement, cognition, and inquiry          | 75      |
+| Markets, money, and economic equilibria      | 58      |
+| Safety, risk, and complex systems            | 37      |
+| Organisations, hierarchy, and management     | 30      |
+| Collective action, commons, and coordination | 30      |
+| Ecology, evolution, and public health        | 28      |
+| Groups, candour, and face                    | 21      |
+| Systems-dynamics archetypes (Senge)          | 5       |
+
+**The kills, in the order they died.**
+
+**The notary's attestation** looked like the strongest thing on the list: an officer certifies identity and
+voluntariness, can establish identity, presence and signature, and cannot establish that nobody is being
+coerced, while the seal is what makes the document hard to challenge. It died on **no villain**, and it died
+before any source was opened. Nothing goes wrong in that structure unless somebody is coercing, so the play
+would need a bad actor inside the sequence to have anything happen at all, and a misfit whose events require a
+culprit is a crime with a diagram. The general form is worth carrying: **a candidate that needs a wrongdoer to
+produce its outcome is not a structure, however elegant the bind looks**, and this is the first time that has
+been caught in advance rather than in the drafting.
+
+**Sworn translation** died on annexation: it is In Somebody Else's Words in writing, with the same two duties
+and the same absent neutral rendering, so it is an Origin row at most.
+
+**Equal temperament** died on **who pays**. No keyboard can be in tune in every key and the compromise is exact
+and beautiful, but nobody bears a cost: the interval that cannot be played is a fact about arithmetic, and the
+listener is not a casualty. It is the enrichment case again, in a different century.
+
+**The differential census undercount** was raised and is held by Missing from the Count.
+
+**Two lines survive, and both carry their precondition rather than their proof, which is the point of the
+order.** Neither has had a lookup spent on it, because the cheap questions had to be passed first and the
+expensive one belongs to whoever authors them.
+
+- [x] [P0] The Certificate's Date (hygiene and safety inspection regimes and the grades they post; the
+      literature on score decay between inspections; the announced against unannounced inspection argument): an
+      inspection establishes a state at a moment and is displayed as a standing claim, so the grade is equally
+      authoritative and equally visible on the day it was earned and three hundred days later, and nothing on
+      the notice tells a reader how much of its information has expired; **who pays is the reader**, who relies
+      on a true statement about a moment as though it were a statement about a period; **no villain is available
+      and must be checked hard**, since the inspector records what is there when they are there, the
+      establishment need not be misbehaving because staffing, volume and supply vary on their own, and no
+      inspection can sample continuously; **the precondition is a lookup establishing that the decay is
+      demonstrated rather than assumed**, and if the literature turns out to measure only regression toward a
+      mean the candidate is The Bounce and should be abandoned; named clear of A Hundred Years to Vouch for a
+      Thousand, where a fitted relation is carried outside its window, since nothing here is fitted and the
+      claim is about the same object at a later time. **Held, and the line closed itself.** The precondition lookup was
+      run and the abandonment condition it named fired exactly as written: the measured movement between
+      inspections **is** regression toward the mean. Establishments scoring above sixty are stable, with a mean
+      drop of two points on the next inspection, so for most of the population there is no decay to stage at all;
+      establishments scoring below sixty improve by a mean of sixteen points, and by a further five on the one
+      after, which is the selected extreme reverting and is **The Bounce** by name. There is no thinning signal
+      to build a play on, and the premise that the grade goes stale is not what the data show.
+      **What remains after the regression is removed is conduct, and it is held twice over**: repeated
+      interaction between inspectors and the same establishments is associated with higher grades, which is
+      Regulatory Capture, and the re-inspection route by which a poor initial result is cleaned up and replaced
+      with a good posted grade is gaming a disclosed measure, which is Metric Fixation. Neither is available and
+      neither is a structure
+- [x] [P1] Sorted by Who Cannot Wait (clinical triage as emergency departments practise it): triage orders a
+      queue by urgency, which is correct and is the only defensible ordering, and the consequence is that the
+      least urgent wait longest, that waiting is itself a clinical exposure, and that a condition can cross into
+      urgency while queued behind the ordering that put it last; **to be tested for annexation against The
+      Utilisation Trap before authoring**, since that misfit holds heavy-traffic queueing and the distinguishing
+      claim to be established or abandoned is that nothing here turns on utilisation approaching capacity and
+      the same inversion is present in a quiet department; also to be named clear of Rose's Prevention Paradox
+      and of The Inverse Care Law, both of which are about who receives care rather than about the order they
+      receive it in; the field's own hits on triage are Idleness Aversion and the Mere Urgency Effect, neither
+      of which is clinical, so the ground is genuinely open. **Held, and the annexation test failed on the exact claim the line
+      named.** The incumbent is **No Idle Hands**, whose governing law is that a loaded resource driven toward
+      full utilisation queues without bound and that the idle capacity which looks like waste is the buffer.
+      Remove that engine, by supposing a department with real slack, and the candidate does not stand: the
+      lowest-acuity patient is still last in the order, waits twenty minutes, and nothing happens to them. The
+      distinguishing claim was that the same inversion is present in a quiet department, and the inversion is,
+      but **the harm is not**, and the harm is the misfit. Left-without-being-seen and deterioration while
+      queued are studied against crowding, which is utilisation, which is the incumbent's quantity. The ground
+      was genuinely open and the mechanism was not
+
+**And the way that line died is worth more than the line was.** The certificate candidate was written with its
+own abandonment condition in it: _if the literature turns out to measure only regression toward a mean the
+candidate is The Bounce and should be abandoned._ One lookup fired it, and the close took no judgement at all.
+Compare the four candidates before it, each of which needed somebody to weigh a structure: whether a crashing
+culture is a cost, whether an investigation's findings are conduct, whether a mechanism is a domain. Those are
+the expensive closes, they are the ones that can be argued with, and they are where a tired author talks
+themselves round.
+
+So the device is worth making standard rather than occasional. A slate line already carries **what the candidate
+must be tested against**, which the annexation preconditions supply. It should also carry **the observation that
+would end it**, stated so that a single lookup settles the matter. The two are different: an annexation test
+names a rival, and an abandonment condition names a fact about the world that the candidate cannot survive. The
+enrichment line had one and did not know it, which is why that hold cost a full research pass and a reversal of
+the line's own stated reason. The certificate line had one on purpose and cost a single search.
+
+**Write the abandonment condition into the line at slating time, while the candidate is still cheap to doubt.**
+The author who slates it is the one who can see what would kill it; the author who builds it three passes later
+is the one who wants it to live.

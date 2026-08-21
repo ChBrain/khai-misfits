@@ -89,6 +89,25 @@ five and six sources deep: a mechanism shown in four domains over sixty years is
 a finding where one paper is a claim. Adding a source goes through the same gate
 as authoring, since it rebuilds `docs/SCIENCE.md`.
 
+**The table says which move to make and not how to tell, so here is the test:
+name the incumbent's quantity, set it to zero, and ask whether anybody is still
+hurt.** A different domain is not a different mechanism, and a candidate whose
+harm scales with a quantity another misfit already stages **is** that misfit, in
+new clothes. Clinical triage was slated on the claim that the same inversion is
+present in a quiet emergency department. The inversion is: the lowest-acuity
+patient is last in the order at any load. But remove **No Idle Hands**'s
+quantity, by supposing real slack, and that patient waits twenty minutes and
+nothing happens to them, because deterioration and leaving without being seen are
+studied against crowding, which is utilisation. The inversion survived the test
+and **the harm did not**, and the harm is the misfit.
+
+Run it the other way to confirm a candidate stands: mesopredator release keeps
+its whole cost when the culled species is stipulated never to rebound, which is
+Room to Grow's quantity removed, and cosmic variance binds an estimator
+stipulated to have no capacity to overfit. **A candidate that survives its
+incumbent's engine being switched off is a misfit; one that goes quiet is an
+Origin row.**
+
 Cut to fit, computed not copied. A misfit is one **play**, and the play is the
 only fixed element; the pitch is the single hook. Every element below them
 (personas, positions, plans, places, processes, pieces, plots) is cast to the
