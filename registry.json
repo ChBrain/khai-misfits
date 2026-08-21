@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.289.0",
+  "version": "0.290.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -60656,6 +60656,198 @@
           "kind": "process",
           "title": "Widening the Rule",
           "taxonomy": "play_whoever_comes_instead.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "widest_when_you_need_it",
+      "title": "Widest When You Need It",
+      "description": "A quote is a defence against knowing less, so it widens exactly when everybody wants to sell.",
+      "members": [
+        {
+          "file": "persona_the_central_bank.md",
+          "kind": "persona",
+          "title": "The Central Bank",
+          "type": "archetype",
+          "taxonomy": "position_central_bank.md"
+        },
+        {
+          "file": "persona_the_forced_seller.md",
+          "kind": "persona",
+          "title": "The Forced Seller",
+          "type": "archetype",
+          "taxonomy": "position_forced_seller.md"
+        },
+        {
+          "file": "persona_the_informed_seller.md",
+          "kind": "persona",
+          "title": "The Informed Seller",
+          "type": "archetype",
+          "taxonomy": "position_informed_seller.md"
+        },
+        {
+          "file": "persona_the_quoter.md",
+          "kind": "persona",
+          "title": "The Quoter",
+          "type": "archetype",
+          "taxonomy": "position_quoter.md"
+        },
+        {
+          "file": "persona_the_risk_officer.md",
+          "kind": "persona",
+          "title": "The Risk Officer",
+          "type": "archetype",
+          "taxonomy": "position_risk_officer.md"
+        },
+        {
+          "file": "piece_the_balance_sheet.md",
+          "kind": "piece",
+          "title": "The Balance Sheet",
+          "taxonomy": "place_the_day_everyone_sells.md"
+        },
+        {
+          "file": "piece_the_measured_depth.md",
+          "kind": "piece",
+          "title": "The Measured Depth",
+          "taxonomy": "place_the_calm_market.md"
+        },
+        {
+          "file": "piece_the_spread.md",
+          "kind": "piece",
+          "title": "The Spread",
+          "taxonomy": "process_widening_as_the_odds_change.md"
+        },
+        {
+          "file": "pitch_a_price_for_anybody_but_you.md",
+          "kind": "pitch",
+          "title": "A Price for Anybody but You",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "place_the_calm_market.md",
+          "kind": "place",
+          "title": "The Calm Market",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "place_the_day_everyone_sells.md",
+          "kind": "place",
+          "title": "The Day Everyone Sells",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "plan_quote_both_sides_and_survive.md",
+          "kind": "plan",
+          "title": "Quote Both Sides and Survive",
+          "taxonomy": "position_quoter.md"
+        },
+        {
+          "file": "plan_raise_the_cash_by_friday.md",
+          "kind": "plan",
+          "title": "Raise the Cash by Friday",
+          "taxonomy": "position_forced_seller.md"
+        },
+        {
+          "file": "plan_restore_the_function.md",
+          "kind": "plan",
+          "title": "Restore the Function",
+          "taxonomy": "position_central_bank.md"
+        },
+        {
+          "file": "play_widest_when_you_need_it.md",
+          "kind": "play",
+          "title": "Widest When You Need It"
+        },
+        {
+          "file": "plot_and_the_spread_is_a_defence_and_not_a_fee.md",
+          "kind": "plot",
+          "title": "And the Spread Is a Defence and Not a Fee",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "plot_and_those_odds_peak_when_everybody_sells.md",
+          "kind": "plot",
+          "title": "And Those Odds Peak When Everybody Sells",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "plot_so_it_widens_with_the_odds_that_the_seller_knows_more.md",
+          "kind": "plot",
+          "title": "So It Widens With the Odds That the Seller Knows More",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "plot_so_the_price_was_there_until_it_was_needed.md",
+          "kind": "plot",
+          "title": "So the Price Was There Until It Was Needed",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "plot_somebody_must_quote_both_sides_and_that_is_what_a_market_is.md",
+          "kind": "plot",
+          "title": "Somebody Must Quote Both Sides, and That Is What a Market Is",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "plot_the_depth_everyone_sized_against_was_measured_in_the_calm.md",
+          "kind": "plot",
+          "title": "The Depth Everyone Sized Against Was Measured in the Calm",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "position_central_bank.md",
+          "kind": "position",
+          "title": "Central Bank",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "position_forced_seller.md",
+          "kind": "position",
+          "title": "Forced Seller",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "position_informed_seller.md",
+          "kind": "position",
+          "title": "Informed Seller",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "position_quoter.md",
+          "kind": "position",
+          "title": "Quoter",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "position_risk_officer.md",
+          "kind": "position",
+          "title": "Risk Officer",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "process_buying_what_nobody_will_quote.md",
+          "kind": "process",
+          "title": "Buying What Nobody Will Quote",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "process_measuring_the_liquidity.md",
+          "kind": "process",
+          "title": "Measuring the Liquidity",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "process_posting_a_price_to_whoever_comes.md",
+          "kind": "process",
+          "title": "Posting a Price to Whoever Comes",
+          "taxonomy": "play_widest_when_you_need_it.md"
+        },
+        {
+          "file": "process_widening_as_the_odds_change.md",
+          "kind": "process",
+          "title": "Widening as the Odds Change",
+          "taxonomy": "play_widest_when_you_need_it.md"
         }
       ]
     },
