@@ -6275,3 +6275,51 @@ remain**, which are Measurement at 78, Markets at 59, Ecology at 30 and the syst
 the sentence for each whether or not it yields a candidate. Measurement is the interesting one, because a field
 that large should have no uncast seat left, and if it does the method has found something the count could never
 show.
+
+**The nineteenth sweep ran the four, and the method is now exhausted.** Three of them read saturated and one did
+not, which is the answer the previous entry asked for:
+
+| Field              | Count | The seat it never cast                                                                    |
+| ------------------ | ----- | ----------------------------------------------------------------------------------------- |
+| Measurement        | 78    | none: reasoner, researcher, measured party, archivist, spreader and evaluator all held    |
+| Markets            | 59    | none: buyer, seller, entrant, incumbent, regulator, lender, quoter all held               |
+| Systems archetypes | 5     | none, and not a field: a labelling artefact, its members held elsewhere under other names |
+| Ecology            | 30    | **cooperation**: all 30 interactions are antagonistic                                     |
+
+Measurement was the one the entry above flagged, and it came out as predicted rather than as a surprise: a field
+that large has no uncast seat, and the method returns nothing rather than returning a weak candidate, which is
+the result that makes it trustworthy. **So the seat method's record across all eight fields is four candidates
+from the four thinner ones and nothing from the three fattest**, which is the shape a working instrument should
+have. It is done, and the next sweep needs a different question.
+
+Ecology was the gap: 30 misfits, every one of them predator and prey, host and pathogen, parent and offspring, or
+competitor and competitor. The field stages cooperation zero times. **Both of Them on Time** is the answer,
+phenological mismatch in a mutualism, and it went in.
+
+**The precondition lookup rewrote the mechanism for the second time, and this is now its normal third outcome
+rather than a curiosity.** The candidate was framed as warming pulling two partners apart. Renner and Zohner
+report the opposite: mismatch is clearest in **antagonistic** interactions with limited evidence in mutualistic
+ones, and across 27 pairs the shifts had no consistent direction, 31 moving closer and 23 further apart. Read as a
+verdict on the framing that is a kill. Read as evidence it is the premise: **a synchrony held by an agreement
+would not drift in either direction.** So the misfit is not that the partners are pulled apart, it is that
+**nothing was ever holding them together**, and the no-consistent-direction finding is the signature of an absent
+mechanism rather than a refutation of a present one. The rule to carry: when a lookup contradicts the framing,
+check whether it contradicts the mechanism or only the story told about it, because those come apart more often
+than they look like they should.
+
+**And the pre-authoring surname scan has no command behind it, which nearly cost this pass a misfit.** That is
+written up in CLAUDE.md beside the three walls, and the short version belongs here too: `--check` takes a
+`"Scholar :: Work"` string and answers the shared-work wall, so a bare surname matches no work and comes back
+`clear` for a name the house holds. The scan is hand-rolled against `docs/SCIENCE.md` and must match that file's
+table shape, `grep -c "^| \*\*<Surname>\*\* \|^| \*\*<Surname> ("`. This pass first ran it heading-anchored
+against a file with no headings, swept 28 surnames, reported every one clear, and was wrong about all of them.
+Only a hit that should have been there and was not gave it away. **A `--surname` flag is the obvious fix and was
+not built**, because it is tooling and the sweep was not for tooling; it is the cheapest governance job on the
+slate and should be taken by whoever next wants one.
+
+**One cell is owed and is left standing on purpose.** `Price` in The Head Start is Derek de Solla Price, written
+bare, and Price is a common surname carrying a heavily cited scholar, which is the combination that makes a bare
+cell most dangerous. It was found by this pass and is not owed by it: the sweep's own Memmott row was dropped for
+Peng, Ellison and Davis on the merits, 15,000 specimen records over 120 years against a simulation reporting a
+range under model assumptions, so no Price citation landed. Recorded here so the next author does not re-derive
+it, and so the next one who cites any Price knows the cell goes first.

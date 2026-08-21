@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.295.0",
+  "version": "0.296.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -5657,6 +5657,234 @@
           "kind": "process",
           "title": "Weighing",
           "taxonomy": "play_borrowed_immunity.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "both_of_them_on_time",
+      "title": "Both of Them on Time",
+      "description": "A flower and its bee each keep their own clock perfectly, and the two clocks stop agreeing.",
+      "members": [
+        {
+          "file": "persona_the_canopy.md",
+          "kind": "persona",
+          "title": "The Canopy",
+          "type": "archetype",
+          "taxonomy": "position_closer.md"
+        },
+        {
+          "file": "persona_the_cover.md",
+          "kind": "persona",
+          "title": "The Cover",
+          "type": "archetype",
+          "taxonomy": "position_coupler.md"
+        },
+        {
+          "file": "persona_the_flower.md",
+          "kind": "persona",
+          "title": "The Flower",
+          "type": "archetype",
+          "taxonomy": "position_bloomer.md"
+        },
+        {
+          "file": "persona_the_queen.md",
+          "kind": "persona",
+          "title": "The Queen",
+          "type": "archetype",
+          "taxonomy": "position_emerger.md"
+        },
+        {
+          "file": "persona_the_recorder.md",
+          "kind": "persona",
+          "title": "The Recorder",
+          "type": "archetype",
+          "taxonomy": "position_witness.md"
+        },
+        {
+          "file": "piece_the_gap.md",
+          "kind": "piece",
+          "title": "The Gap",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "piece_the_lag.md",
+          "kind": "piece",
+          "title": "The Lag",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "piece_the_long_series.md",
+          "kind": "piece",
+          "title": "The Long Series",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "piece_the_seed_count.md",
+          "kind": "piece",
+          "title": "The Seed Count",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "piece_the_surface_sum.md",
+          "kind": "piece",
+          "title": "The Surface Sum",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "piece_the_threshold.md",
+          "kind": "piece",
+          "title": "The Threshold",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "pitch_two_right_clocks.md",
+          "kind": "pitch",
+          "title": "Two Right Clocks",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "place_the_forest_floor.md",
+          "kind": "place",
+          "title": "The Forest Floor",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "place_the_quadrat.md",
+          "kind": "place",
+          "title": "The Quadrat",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "place_the_soil_column.md",
+          "kind": "place",
+          "title": "The Soil Column",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "plan_close_over_on_schedule.md",
+          "kind": "plan",
+          "title": "Close Over on Schedule",
+          "taxonomy": "position_closer.md"
+        },
+        {
+          "file": "plan_hold_them_both_under.md",
+          "kind": "plan",
+          "title": "Hold Them Both Under",
+          "taxonomy": "position_coupler.md"
+        },
+        {
+          "file": "plan_keep_the_count_long_enough.md",
+          "kind": "plan",
+          "title": "Keep the Count Long Enough",
+          "taxonomy": "position_witness.md"
+        },
+        {
+          "file": "plan_open_on_the_warmth_i_can_feel.md",
+          "kind": "plan",
+          "title": "Open on the Warmth I Can Feel",
+          "taxonomy": "position_bloomer.md"
+        },
+        {
+          "file": "plan_wait_for_the_ground_to_turn.md",
+          "kind": "plan",
+          "title": "Wait for the Ground to Turn",
+          "taxonomy": "position_emerger.md"
+        },
+        {
+          "file": "play_both_of_them_on_time.md",
+          "kind": "play",
+          "title": "Both of Them on Time"
+        },
+        {
+          "file": "plot_neither_of_them_is_late.md",
+          "kind": "plot",
+          "title": "Neither of Them Is Late",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "plot_nineteen_years_to_see_it.md",
+          "kind": "plot",
+          "title": "Nineteen Years to See It",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "plot_nothing_comes_to_the_flowers.md",
+          "kind": "plot",
+          "title": "Nothing Comes to the Flowers",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "plot_the_melt_comes_early.md",
+          "kind": "plot",
+          "title": "The Melt Comes Early",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "plot_the_snow_holds_both.md",
+          "kind": "plot",
+          "title": "The Snow Holds Both",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "position_bloomer.md",
+          "kind": "position",
+          "title": "Bloomer",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "position_closer.md",
+          "kind": "position",
+          "title": "Closer",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "position_coupler.md",
+          "kind": "position",
+          "title": "Coupler",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "position_emerger.md",
+          "kind": "position",
+          "title": "Emerger",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "position_witness.md",
+          "kind": "position",
+          "title": "Witness",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "process_conducting.md",
+          "kind": "process",
+          "title": "Conducting",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "process_emerging.md",
+          "kind": "process",
+          "title": "Emerging",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "process_flowering.md",
+          "kind": "process",
+          "title": "Flowering",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "process_melting.md",
+          "kind": "process",
+          "title": "Melting",
+          "taxonomy": "play_both_of_them_on_time.md"
+        },
+        {
+          "file": "process_warming.md",
+          "kind": "process",
+          "title": "Warming",
+          "taxonomy": "play_both_of_them_on_time.md"
         }
       ]
     },
