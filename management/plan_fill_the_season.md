@@ -5965,3 +5965,45 @@ narrow, checkable form of a rule that is otherwise just an intention.
 carries a subject-sensitivity flag saying it stands only if a version exists whose payer is structural rather
 than a person in distress, and should be dropped rather than softened if not. So a thirteenth sweep is owed
 before the next misfit, and it is owed under the field constraint above.
+
+**The thirteenth sweep**, run from a slate holding one flagged line, and run under the field constraint the
+twelfth wrote against itself. **The constraint is honoured**: the candidate staged is in **Markets, money, and
+economic equilibria**, not in measurement, and it was reached by ordering the search that way rather than by
+finding it first and justifying it after.
+
+**Four kills, and only three of them are honest.** The index fund that must not research and whose growth removes
+the researchers whose prices it copies is **Priced In**, the Grossman-Stiglitz impossibility, already held. The
+exit interview, where the only candid account comes from somebody who has no stake in it being acted on, is
+**Exit, Voice, and Loyalty**. The reference letter that counsel correctly reduces to dates of employment dies on
+annexation rather than the index: remove **Apology and Litigation**'s engine, the litigation exposure that forbids
+the useful sentence, and the reference works fine, so it goes quiet and is an Origin row at most. The fourth is
+recorded as **not killed**: the wildlife crossing read as a predator trap was set aside on a recollection that the
+prey-trap hypothesis is poorly supported, and that recollection was **not looked up**. It is therefore held
+pending a lookup and not struck, because a candidate discarded on memory is exactly what this register exists to
+prevent, and writing it down as a kill would have laundered a guess into a finding.
+
+- [ ] [P2] The Crossing That Concentrates Them (wildlife crossing structures and the prey-trap hypothesis): a
+      structure built to stop road mortality funnels prey into a predictable place, which is what an ambush needs.
+      **The precondition is a lookup establishing that the prey-trap effect is measured rather than hypothesised**,
+      and the line should be dropped if the literature finds it unsupported, which is what one unverified memory
+      says and which is exactly why the lookup is owed rather than assumed.
+
+**The comparator test got its first use before authoring, and it nearly killed the candidate that survived.**
+Asked of the market-making play, _worse than what?_, the first answer is the wrong one: against a world with no
+quoter at all, the forced seller is plainly better off, and on that comparator there is no gap and no misfit. The
+gap appears only when the comparator is the one the payer **actually relied on**, which is the depth measured in
+the calm and used to size the position. So the test has a second half it did not have when it was written:
+
+> **Name the comparator the payer relied on, not the abstract counterfactual.** A structure almost always beats
+> its own absence, which is why the absence is never the right baseline: the harm is measured against what the
+> payer was entitled to expect, and what they were entitled to expect is usually something that was measured and
+> published.
+
+That refinement is worth more than the kill it came from. Run naively, the comparator test would strike most of
+the house: **Heavy Enough to Cross** is better than an unseaworthy ship, **Only One Person Fits** is better than a
+sealed registry, **Read It in All of Them** is better than a law in one language. Every one of those misfits is
+measured against a promise rather than against a void, and the test only works when the baseline is the promise.
+
+**And a note on what the sweep did not have to do.** No namesake work was owed. The candidate's Milgrom is the
+house's own Paul Milgrom, already carried in Metric Fixation on the multitask paper, which is the expected case
+this file says owes nothing: one scholar across two works, and declaring a homonym there would be the error.
