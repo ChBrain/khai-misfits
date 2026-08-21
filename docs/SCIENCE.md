@@ -3,7 +3,7 @@
 
 # misfits science index
 
-The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 294 misfits, 1342 scholars.
+The forward map: **science → misfit**. Inverted from the Origin table every misfit's `REFERENCE.md` carries, so navigation and the per-misfit warrant share one source and cannot drift. 295 misfits, 1342 scholars.
 
 ## By science
 
@@ -2009,6 +2009,7 @@ The forward map: **science → misfit**. Inverted from the Origin table every mi
 | `spoiled_for_choice` | Iyengar and Lepper; Barry Schwartz; Scheibehenne, Greifeneder and Todd; Chernev, Bockenholt and Goodman |
 | `starting_tomorrow` | Ainslie; Laibson; O'Donoghue & Rabin; Andreoni & Sprenger |
 | `stopped_for_benefit` | The obligation to monitor; The pre-specified boundary; The measured inflation; Why the rigour does not rescue it; Why it cannot be repaired later |
+| `stopping_is_the_hard_part` | The IChemE incident study; The comparison against normal running; The design envelope; The start-up override; The profession's own answer; Whether the residue is procedural |
 | `stranger_than_true` | Vosoughi, Roy & Aral; Vosoughi, Roy & Aral; Berger & Milkman; The folk saying; Brandolini |
 | `taken_apart_to_be_read` | Gavin Lucas; Colin Renfrew & Paul Bahn; The Valletta Convention; The advance of technique; Barbara Appelbaum; Developer-funded rescue archaeology; The preservation-in-situ dispute |
 | `the_abstraction_ladder` | Hayakawa; Wendell Johnson; Korzybski; Trope & Liberman; James C Scott; Boundary of the effect |
