@@ -288,10 +288,23 @@ house until it does. The same pass carried both directions at once, since its
 So the question that fixes the order is not which lane a change is in and not
 which came first, but **which side is already under the wall**:
 
-| The surname                    | The order                                                     |
-| ------------------------------ | ------------------------------------------------------------- |
-| Not yet declared               | cells first, then the declaration                             |
-| Already declared, new namesake | **declaration first**, then the misfit that cites the new one |
+| The surname                       | The order                                                     |
+| --------------------------------- | ------------------------------------------------------------- |
+| Not yet declared, cells bare      | cells first, then the declaration                             |
+| Not yet declared, cells **named** | **declaration first**: no cells are owed                      |
+| Already declared, new namesake    | **declaration first**, then the misfit that cites the new one |
+
+**The middle row is the case the table first missed, and the probe is what found
+it.** `Cohen` was undeclared and looked like the cells-first case, so the pass
+was costed as cells plus a declaration. Declaring it locally and reading
+`--namesakes` returned **zero unresolved**, because the existing cell in
+Whatever's in the Can was already written `Michael Cohen, James March, Johan
+Olsen`: an author who happens to have written their given name in owes nothing
+later. So no cells were due, nothing had to land on the misfit lane first, and
+the declaration could go straight in. **Undeclared does not mean bare**, and the
+question the table is really asking is not whether a surname is declared but
+whether any cell would be left unresolved by declaring it. The probe answers
+that directly and is the only thing that does.
 
 The pre-authoring probe answers this too, and costs one build: declare the
 candidate surnames locally and read `--namesakes`. Where the misfit is not yet
