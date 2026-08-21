@@ -6040,3 +6040,52 @@ constraints for it, both set by earlier passes and both still binding:
   **or rewrite the mechanism**. The abandonment condition asks where the candidate is most likely to be a system
   working as designed, and returns either the kill or the **No hero** row. Run them in that order and the
   expensive judgement happens last.
+
+**The fourteenth sweep**, run from a slate holding only the flagged line, and run under both standing
+constraints.
+
+**The field constraint is honoured, and this time it reached the thin end.** The thirteenth went to markets at
+58, which obeyed the letter of the rule and not much of its spirit. This one is in **Ecology, evolution and
+public health** at 29, the second thinnest field the house keeps, and it was reached by ordering the search
+there first.
+
+**Two kills, both on annexation rather than on the index, which is a change worth noting.** The recent passes
+have been killing candidates by reading the concept list, and neither of these was in it.
+
+- The **protected disclosure that identifies its author**, where the specificity that makes a report actionable
+  is the specificity that names who filed it, is **Only One Person Fits** wearing different clothes. Remove that
+  misfit's engine, utility and identifiability being one quantity, and the whistleblower case goes silent: there
+  is nothing left but a person who told somebody something. The domain is new, the harm is retaliation rather
+  than exposure, and the mechanism is identical, so it is an Origin row at most and never a play.
+- The **conservation translocation that moves a pathogen with the animal** is nearer to **Heavy Enough to
+  Cross** than it first looks. There a safety requirement is the transport mechanism; here a conservation action
+  is. That is a different driver attached to the same shape of harm, which the table in CLAUDE.md calls _same
+  mechanism, new domain_, and the move it names is to extend the warrant rather than to build.
+
+**The abandonment condition returned material rather than a kill for the fourth pass running, and this time it
+returned the play's whole argument.** The condition was: _if modern fishways reliably achieve passage
+efficiencies high enough that cumulative loss is negligible over realistic barrier counts, this is engineering
+working as designed and not a misfit_. The lookup found efficiencies that are not merely high but **among the
+highest recorded for any migratory species anywhere**, credited to decades of sustained adaptive management. On
+a naive reading that is the kill. It is the opposite: **it is engineering working as designed, and a third of
+the run still does not arrive**, because 0.966 is an excellent number and eight of them multiplied is not. So
+the condition did what it always does, which is to ask where the candidate is most likely to be a system working
+as intended, and the answer here was _everywhere, and it does not help_.
+
+**Four for four is no longer a run of luck, so the practice should be stated as a rule rather than a
+observation.** The abandonment condition has now fired zero times in four passes and produced the **No hero**
+row or the play's hinge in all four. That is not evidence the condition is toothless: it is evidence that a
+candidate which survives the who-pays and no-villain tests has usually already had its weak version filtered
+out, and what remains is the question of whether the system is merely working. **Write the condition to be
+answerable, run it first, and expect the answer to be the warrant rather than the exit.**
+
+**One more instrument note, because this pass exercised the comparator test correctly at the first attempt.**
+The baseline is not the free-flowing river, which is the structure's absence and the wrong comparator by the
+rule the thirteenth sweep wrote. It is **the per-structure passage standard each fishway was permitted and
+evaluated against**, which is measured, published, and relied on by the regulator, the operator and the fishery
+alike. No permit in the river describes the product, and that gap is where the misfit lives.
+
+**The slate is down to the flagged line alone again**, so a fifteenth sweep is owed. The field constraint should
+now name its own target rather than a prohibition: **Groups, candour and face at 21** is the thinnest real
+field, was swept once at the eighth pass and found wholly held, and is therefore either genuinely exhausted or
+the one place a fresh generator would pay. Either answer is worth having in writing.
