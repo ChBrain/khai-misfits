@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.288.0",
+  "version": "0.289.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -18206,6 +18206,198 @@
           "kind": "process",
           "title": "Relaying",
           "taxonomy": "play_must_be_a_catch.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "near_enough_to_doubt_it",
+      "title": "Near Enough to Doubt It",
+      "description": "The reviewer who can judge a novel proposal is the one who can see how it might fail.",
+      "members": [
+        {
+          "file": "persona_the_applicant.md",
+          "kind": "persona",
+          "title": "The Applicant",
+          "type": "archetype",
+          "taxonomy": "position_applicant.md"
+        },
+        {
+          "file": "persona_the_chair.md",
+          "kind": "persona",
+          "title": "The Chair",
+          "type": "archetype",
+          "taxonomy": "position_chair.md"
+        },
+        {
+          "file": "persona_the_far_reviewer.md",
+          "kind": "persona",
+          "title": "The Far Reviewer",
+          "type": "archetype",
+          "taxonomy": "position_far_reviewer.md"
+        },
+        {
+          "file": "persona_the_near_reviewer.md",
+          "kind": "persona",
+          "title": "The Near Reviewer",
+          "type": "archetype",
+          "taxonomy": "position_near_reviewer.md"
+        },
+        {
+          "file": "persona_the_programme_officer.md",
+          "kind": "persona",
+          "title": "The Programme Officer",
+          "type": "archetype",
+          "taxonomy": "position_programme_officer.md"
+        },
+        {
+          "file": "piece_the_common_scale.md",
+          "kind": "piece",
+          "title": "The Common Scale",
+          "taxonomy": "place_the_ranked_list.md"
+        },
+        {
+          "file": "piece_the_difficulty_seen.md",
+          "kind": "piece",
+          "title": "The Difficulty Seen",
+          "taxonomy": "process_reading_it_closely_enough_to_doubt_it.md"
+        },
+        {
+          "file": "piece_the_intellectual_distance.md",
+          "kind": "piece",
+          "title": "The Intellectual Distance",
+          "taxonomy": "place_the_assignment.md"
+        },
+        {
+          "file": "pitch_judged_by_the_only_person_who_could.md",
+          "kind": "pitch",
+          "title": "Judged by the Only Person Who Could",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "place_the_assignment.md",
+          "kind": "place",
+          "title": "The Assignment",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "place_the_ranked_list.md",
+          "kind": "place",
+          "title": "The Ranked List",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "plan_rank_them_and_draw_the_line.md",
+          "kind": "plan",
+          "title": "Rank Them and Draw the Line",
+          "taxonomy": "position_programme_officer.md"
+        },
+        {
+          "file": "plan_report_what_you_can_see.md",
+          "kind": "plan",
+          "title": "Report What You Can See",
+          "taxonomy": "position_near_reviewer.md"
+        },
+        {
+          "file": "plan_say_what_you_will_try.md",
+          "kind": "plan",
+          "title": "Say What You Will Try",
+          "taxonomy": "position_applicant.md"
+        },
+        {
+          "file": "play_near_enough_to_doubt_it.md",
+          "kind": "play",
+          "title": "Near Enough to Doubt It"
+        },
+        {
+          "file": "plot_a_proposal_must_be_judged_by_somebody_who_understands_it.md",
+          "kind": "plot",
+          "title": "A Proposal Must Be Judged by Somebody Who Understands It",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "plot_and_the_far_reader_cannot_also_correctly.md",
+          "kind": "plot",
+          "title": "And the Far Reader Cannot, Also Correctly",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "plot_and_understanding_it_means_seeing_how_it_could_fail.md",
+          "kind": "plot",
+          "title": "And Understanding It Means Seeing How It Could Fail",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "plot_so_the_closest_reader_marks_it_down_correctly.md",
+          "kind": "plot",
+          "title": "So the Closest Reader Marks It Down, Correctly",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "plot_so_the_work_that_most_needed_a_reader_is_what_a_reader_costs.md",
+          "kind": "plot",
+          "title": "So the Work That Most Needed a Reader Is What a Reader Costs",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "plot_the_two_numbers_go_on_one_scale.md",
+          "kind": "plot",
+          "title": "The Two Numbers Go on One Scale",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "position_applicant.md",
+          "kind": "position",
+          "title": "Applicant",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "position_chair.md",
+          "kind": "position",
+          "title": "Chair",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "position_far_reviewer.md",
+          "kind": "position",
+          "title": "Far Reviewer",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "position_near_reviewer.md",
+          "kind": "position",
+          "title": "Near Reviewer",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "position_programme_officer.md",
+          "kind": "position",
+          "title": "Programme Officer",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "process_matching_readers_to_proposals.md",
+          "kind": "process",
+          "title": "Matching Readers to Proposals",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "process_reading_it_closely_enough_to_doubt_it.md",
+          "kind": "process",
+          "title": "Reading It Closely Enough to Doubt It",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "process_reading_it_from_outside.md",
+          "kind": "process",
+          "title": "Reading It From Outside",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
+        },
+        {
+          "file": "process_turning_scores_into_an_order.md",
+          "kind": "process",
+          "title": "Turning Scores Into an Order",
+          "taxonomy": "play_near_enough_to_doubt_it.md"
         }
       ]
     },
