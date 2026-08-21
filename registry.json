@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.294.0",
+  "version": "0.295.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -33338,6 +33338,198 @@
           "kind": "process",
           "title": "Stopping It",
           "taxonomy": "play_stopped_for_benefit.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "stopping_is_the_hard_part",
+      "title": "Stopping Is the Hard Part",
+      "description": "The protection is specified for the state a plant runs in, so leaving it is when there is least.",
+      "members": [
+        {
+          "file": "persona_the_control_engineer.md",
+          "kind": "persona",
+          "title": "The Control Engineer",
+          "type": "archetype",
+          "taxonomy": "position_control_engineer.md"
+        },
+        {
+          "file": "persona_the_designer.md",
+          "kind": "persona",
+          "title": "The Designer",
+          "type": "archetype",
+          "taxonomy": "position_designer.md"
+        },
+        {
+          "file": "persona_the_neighbour.md",
+          "kind": "persona",
+          "title": "The Neighbour",
+          "type": "archetype",
+          "taxonomy": "position_neighbour.md"
+        },
+        {
+          "file": "persona_the_operator.md",
+          "kind": "persona",
+          "title": "The Operator",
+          "type": "archetype",
+          "taxonomy": "position_operator.md"
+        },
+        {
+          "file": "persona_the_shift_supervisor.md",
+          "kind": "persona",
+          "title": "The Shift Supervisor",
+          "type": "archetype",
+          "taxonomy": "position_shift_supervisor.md"
+        },
+        {
+          "file": "piece_the_authorised_bypass.md",
+          "kind": "piece",
+          "title": "The Authorised Bypass",
+          "taxonomy": "place_the_transition.md"
+        },
+        {
+          "file": "piece_the_design_envelope.md",
+          "kind": "piece",
+          "title": "The Design Envelope",
+          "taxonomy": "place_the_steady_state.md"
+        },
+        {
+          "file": "piece_the_tenth_of_the_time.md",
+          "kind": "piece",
+          "title": "The Tenth of the Time",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "pitch_least_protected_on_the_way_out.md",
+          "kind": "pitch",
+          "title": "Least Protected on the Way Out",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "place_the_steady_state.md",
+          "kind": "place",
+          "title": "The Steady State",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "place_the_transition.md",
+          "kind": "place",
+          "title": "The Transition",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "plan_design_for_the_operating_point.md",
+          "kind": "plan",
+          "title": "Design for the Operating Point",
+          "taxonomy": "position_designer.md"
+        },
+        {
+          "file": "plan_get_it_running_again.md",
+          "kind": "plan",
+          "title": "Get It Running Again",
+          "taxonomy": "position_operator.md"
+        },
+        {
+          "file": "plan_stop_it_if_you_are_worried.md",
+          "kind": "plan",
+          "title": "Stop It If You Are Worried",
+          "taxonomy": "position_shift_supervisor.md"
+        },
+        {
+          "file": "play_stopping_is_the_hard_part.md",
+          "kind": "play",
+          "title": "Stopping Is the Hard Part"
+        },
+        {
+          "file": "plot_a_plant_is_designed_for_one_state_and_that_is_right.md",
+          "kind": "plot",
+          "title": "A Plant Is Designed for One State, and That Is Right",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "plot_and_the_interlocks_are_bypassed_by_procedure_correctly.md",
+          "kind": "plot",
+          "title": "And the Interlocks Are Bypassed by Procedure, Correctly",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "plot_and_the_protection_is_specified_for_that_state_too.md",
+          "kind": "plot",
+          "title": "And the Protection Is Specified for That State Too",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "plot_so_getting_there_passes_through_states_it_is_not_designed_for.md",
+          "kind": "plot",
+          "title": "So Getting There Passes Through States It Is Not Designed For",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "plot_so_the_safest_thing_to_do_is_the_most_dangerous_operation.md",
+          "kind": "plot",
+          "title": "So the Safest Thing to Do Is the Most Dangerous Operation",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "plot_the_response_to_a_worry_is_a_shutdown.md",
+          "kind": "plot",
+          "title": "The Response to a Worry Is a Shutdown",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "position_control_engineer.md",
+          "kind": "position",
+          "title": "Control Engineer",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "position_designer.md",
+          "kind": "position",
+          "title": "Designer",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "position_neighbour.md",
+          "kind": "position",
+          "title": "Neighbour",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "position_operator.md",
+          "kind": "position",
+          "title": "Operator",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "position_shift_supervisor.md",
+          "kind": "position",
+          "title": "Shift Supervisor",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "process_bypassing_what_would_trip.md",
+          "kind": "process",
+          "title": "Bypassing What Would Trip",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "process_deciding_to_stop.md",
+          "kind": "process",
+          "title": "Deciding to Stop",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "process_passing_through_the_range.md",
+          "kind": "process",
+          "title": "Passing Through the Range",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
+        },
+        {
+          "file": "process_specifying_the_protection.md",
+          "kind": "process",
+          "title": "Specifying the Protection",
+          "taxonomy": "play_stopping_is_the_hard_part.md"
         }
       ]
     },

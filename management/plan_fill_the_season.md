@@ -6229,3 +6229,49 @@ That the wall fires loudly rather than passing quietly is the whole design worki
 gate has caught something the author's own care did not: the first was the namesake wall, and both failures had
 the same shape, which is a name computed from a cell the author wrote without the author checking what the
 computation would find.
+
+**The eighteenth sweep**, run against Safety, risk and complex systems at 37, the last field the method had not
+been run against. It has now been run against all eight.
+
+**The shape of this field is that everything is cast in a steady state or in a slow drift.** The physics misfits
+are steady-state instabilities and overload dynamics; the operator misfits are about attention, trust and
+practice under continuous running; the designer and regulator misfits are about envelopes, codes and horizons; and
+where time enters, it enters slowly, as normalisation, migration or accumulation. **Thirty-seven concepts and not
+one is cast at a transition, the moment of changing state.** That is the seat process-safety statistics point
+straight at, and it was invisible from inside the field's own vocabulary because a transition is not a topic: it
+is a phase of operation that every topic passes through.
+
+**Four passes now, four fields, four candidates, and the same shape each time.** The gap was a **seat** and never
+a topic: nothing on what it costs to listen, nothing from an organisation that is behind, nothing where the
+collective does too much, nothing at a transition. The method's output remains a sentence about a field rather
+than a candidate, and the candidate falls out of it. That is why it survives the dedup by construction, and it is
+also why it should be run even when the answer is _no gap_: a field with no uncast seat is a fact about the house
+worth writing down, and it costs the same command as a field with one.
+
+**The accident-literature warning applied and the candidate cleared it, which is the first time.** This register
+records two candidates killed on it, the pilot and the clinical handover, and the rule that an accident literature
+is written to assign preventability, so a candidate drawn from one arrives pre-loaded with somebody who should
+have done otherwise. That is true here too: the transient-mode literature cites deficiencies in procedures and
+training as root causes. What clears it is that the residue survives the removal of every conduct finding.
+Stipulate a perfect procedure, perfectly trained operators and flawless execution, and the plant still traverses
+its flammable range because that is what changing state means, the trips are still specified for a condition it is
+not in, the overrides are still correctly applied because a plant without them cannot start, and the count of
+manual actions per hour is still many times what steady running demands, so exposure rises at an unchanged rate of
+error per action. **The burden the earlier rule set is meetable, and this is what meeting it looks like**: the
+warrant says in terms that the literature's conduct findings are not disputed, and stages what is left.
+
+**The eighth field is done, so the next constraint is not a field but a question.** With the method run
+everywhere, the register should say what it found rather than where to go next:
+
+| Field                            | The seat it never cast                |
+| -------------------------------- | ------------------------------------- |
+| Groups, candour and face         | what it costs to **listen**           |
+| Organisations, hierarchy         | the organisation that is **behind**   |
+| Collective action and commons    | the collective that does **too much** |
+| Safety, risk and complex systems | the moment of **changing state**      |
+
+Four of the eight are now answered and struck. **The nineteenth sweep should run the method against the four that
+remain**, which are Measurement at 78, Markets at 59, Ecology at 30 and the systems archetypes at 5, and record
+the sentence for each whether or not it yields a candidate. Measurement is the interesting one, because a field
+that large should have no uncast seat left, and if it does the method has found something the count could never
+show.
