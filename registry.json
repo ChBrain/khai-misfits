@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.293.0",
+  "version": "0.294.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -56968,6 +56968,198 @@
           "kind": "process",
           "title": "Getting the Coaching",
           "taxonomy": "play_the_youngest_in_the_room.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "they_all_sent_something",
+      "title": "They All Sent Something",
+      "description": "Aid arrives in proportion to how much people care, and the capacity to sort it does not.",
+      "members": [
+        {
+          "file": "persona_the_affected_person.md",
+          "kind": "persona",
+          "title": "The Affected Person",
+          "type": "archetype",
+          "taxonomy": "position_affected_person.md"
+        },
+        {
+          "file": "persona_the_broadcaster.md",
+          "kind": "persona",
+          "title": "The Broadcaster",
+          "type": "archetype",
+          "taxonomy": "position_broadcaster.md"
+        },
+        {
+          "file": "persona_the_donor.md",
+          "kind": "persona",
+          "title": "The Donor",
+          "type": "archetype",
+          "taxonomy": "position_donor.md"
+        },
+        {
+          "file": "persona_the_logistician.md",
+          "kind": "persona",
+          "title": "The Logistician",
+          "type": "archetype",
+          "taxonomy": "position_logistician.md"
+        },
+        {
+          "file": "persona_the_mayor.md",
+          "kind": "persona",
+          "title": "The Mayor",
+          "type": "archetype",
+          "taxonomy": "position_mayor.md"
+        },
+        {
+          "file": "piece_the_five_per_cent.md",
+          "kind": "piece",
+          "title": "The Five Per Cent",
+          "taxonomy": "place_the_warehouse.md"
+        },
+        {
+          "file": "piece_the_handling_capacity.md",
+          "kind": "piece",
+          "title": "The Handling Capacity",
+          "taxonomy": "place_the_warehouse.md"
+        },
+        {
+          "file": "piece_the_tangible_gift.md",
+          "kind": "piece",
+          "title": "The Tangible Gift",
+          "taxonomy": "place_the_airstrip.md"
+        },
+        {
+          "file": "pitch_nobody_did_nothing.md",
+          "kind": "pitch",
+          "title": "Nobody Did Nothing",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "place_the_airstrip.md",
+          "kind": "place",
+          "title": "The Airstrip",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "place_the_warehouse.md",
+          "kind": "place",
+          "title": "The Warehouse",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "plan_accept_what_arrives.md",
+          "kind": "plan",
+          "title": "Accept What Arrives",
+          "taxonomy": "position_mayor.md"
+        },
+        {
+          "file": "plan_send_something_that_helps.md",
+          "kind": "plan",
+          "title": "Send Something That Helps",
+          "taxonomy": "position_donor.md"
+        },
+        {
+          "file": "plan_sort_it_before_it_rots.md",
+          "kind": "plan",
+          "title": "Sort It Before It Rots",
+          "taxonomy": "position_logistician.md"
+        },
+        {
+          "file": "play_they_all_sent_something.md",
+          "kind": "play",
+          "title": "They All Sent Something"
+        },
+        {
+          "file": "plot_a_disaster_is_announced_and_people_give.md",
+          "kind": "plot",
+          "title": "A Disaster Is Announced and People Give",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "plot_and_everything_must_be_opened_before_anything_can_be_used.md",
+          "kind": "plot",
+          "title": "And Everything Must Be Opened Before Anything Can Be Used",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "plot_and_what_they_give_is_things_not_money.md",
+          "kind": "plot",
+          "title": "And What They Give Is Things, Not Money",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "plot_nobody_can_refuse_it.md",
+          "kind": "plot",
+          "title": "Nobody Can Refuse It",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "plot_so_it_all_arrives_at_once_at_the_one_airstrip.md",
+          "kind": "plot",
+          "title": "So It All Arrives at Once, at the One Airstrip",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "plot_so_the_help_is_what_delays_the_help.md",
+          "kind": "plot",
+          "title": "So the Help Is What Delays the Help",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "position_affected_person.md",
+          "kind": "position",
+          "title": "Affected Person",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "position_broadcaster.md",
+          "kind": "position",
+          "title": "Broadcaster",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "position_donor.md",
+          "kind": "position",
+          "title": "Donor",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "position_logistician.md",
+          "kind": "position",
+          "title": "Logistician",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "position_mayor.md",
+          "kind": "position",
+          "title": "Mayor",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "process_asking_for_money_instead.md",
+          "kind": "process",
+          "title": "Asking for Money Instead",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "process_hearing_about_it.md",
+          "kind": "process",
+          "title": "Hearing About It",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "process_sending_something.md",
+          "kind": "process",
+          "title": "Sending Something",
+          "taxonomy": "play_they_all_sent_something.md"
+        },
+        {
+          "file": "process_sorting_what_came.md",
+          "kind": "process",
+          "title": "Sorting What Came",
+          "taxonomy": "play_they_all_sent_something.md"
         }
       ]
     },
