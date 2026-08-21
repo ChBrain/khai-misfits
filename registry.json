@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.286.0",
+  "version": "0.287.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -11604,6 +11604,198 @@
           "kind": "process",
           "title": "Leveling",
           "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "heavy_enough_to_cross",
+      "title": "Heavy Enough to Cross",
+      "description": "A ship with no cargo must take on seawater to be safe, and that water is a living cargo of its own.",
+      "members": [
+        {
+          "file": "persona_the_charterer.md",
+          "kind": "persona",
+          "title": "The Charterer",
+          "type": "archetype",
+          "taxonomy": "position_charterer.md"
+        },
+        {
+          "file": "persona_the_fisher.md",
+          "kind": "persona",
+          "title": "The Fisher",
+          "type": "archetype",
+          "taxonomy": "position_fisher.md"
+        },
+        {
+          "file": "persona_the_master.md",
+          "kind": "persona",
+          "title": "The Master",
+          "type": "archetype",
+          "taxonomy": "position_master.md"
+        },
+        {
+          "file": "persona_the_naval_architect.md",
+          "kind": "persona",
+          "title": "The Naval Architect",
+          "type": "archetype",
+          "taxonomy": "position_naval_architect.md"
+        },
+        {
+          "file": "persona_the_port_state_inspector.md",
+          "kind": "persona",
+          "title": "The Port State Inspector",
+          "type": "archetype",
+          "taxonomy": "position_port_state_inspector.md"
+        },
+        {
+          "file": "piece_the_ballast.md",
+          "kind": "piece",
+          "title": "The Ballast",
+          "taxonomy": "place_the_ballast_leg.md"
+        },
+        {
+          "file": "piece_the_living_freight.md",
+          "kind": "piece",
+          "title": "The Living Freight",
+          "taxonomy": "place_the_ballast_leg.md"
+        },
+        {
+          "file": "piece_the_safety_exemption.md",
+          "kind": "piece",
+          "title": "The Safety Exemption",
+          "taxonomy": "process_treating_it_on_the_way.md"
+        },
+        {
+          "file": "pitch_the_emptier_the_ship_the_more_it_carries.md",
+          "kind": "pitch",
+          "title": "The Emptier the Ship, the More It Carries",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "place_the_ballast_leg.md",
+          "kind": "place",
+          "title": "The Ballast Leg",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "place_the_loading_port.md",
+          "kind": "place",
+          "title": "The Loading Port",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "plan_cross_safely_with_no_cargo.md",
+          "kind": "plan",
+          "title": "Cross Safely With No Cargo",
+          "taxonomy": "position_master.md"
+        },
+        {
+          "file": "plan_fish_the_same_ground.md",
+          "kind": "plan",
+          "title": "Fish the Same Ground",
+          "taxonomy": "position_fisher.md"
+        },
+        {
+          "file": "plan_verify_what_is_discharged.md",
+          "kind": "plan",
+          "title": "Verify What Is Discharged",
+          "taxonomy": "position_port_state_inspector.md"
+        },
+        {
+          "file": "play_heavy_enough_to_cross.md",
+          "kind": "play",
+          "title": "Heavy Enough to Cross"
+        },
+        {
+          "file": "plot_an_empty_ship_must_be_made_heavy_and_that_is_right.md",
+          "kind": "plot",
+          "title": "An Empty Ship Must Be Made Heavy, and That Is Right",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "plot_and_something_stays.md",
+          "kind": "plot",
+          "title": "And Something Stays",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "plot_and_the_weight_is_taken_from_a_living_ocean.md",
+          "kind": "plot",
+          "title": "And the Weight Is Taken From a Living Ocean",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "plot_so_it_is_released_where_the_cargo_is.md",
+          "kind": "plot",
+          "title": "So It Is Released Where the Cargo Is",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "plot_so_the_hull_is_sound_and_the_bay_is_not.md",
+          "kind": "plot",
+          "title": "So the Hull Is Sound and the Bay Is Not",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "plot_the_remedy_is_waived_where_it_is_unsafe.md",
+          "kind": "plot",
+          "title": "The Remedy Is Waived Where It Is Unsafe",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "position_charterer.md",
+          "kind": "position",
+          "title": "Charterer",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "position_fisher.md",
+          "kind": "position",
+          "title": "Fisher",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "position_master.md",
+          "kind": "position",
+          "title": "Master",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "position_naval_architect.md",
+          "kind": "position",
+          "title": "Naval Architect",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "position_port_state_inspector.md",
+          "kind": "position",
+          "title": "Port State Inspector",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "process_carrying_it_across.md",
+          "kind": "process",
+          "title": "Carrying It Across",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "process_releasing_it_to_load.md",
+          "kind": "process",
+          "title": "Releasing It to Load",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "process_taking_on_the_weight.md",
+          "kind": "process",
+          "title": "Taking On the Weight",
+          "taxonomy": "play_heavy_enough_to_cross.md"
+        },
+        {
+          "file": "process_treating_it_on_the_way.md",
+          "kind": "process",
+          "title": "Treating It on the Way",
+          "taxonomy": "play_heavy_enough_to_cross.md"
         }
       ]
     },

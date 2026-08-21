@@ -5783,3 +5783,85 @@ returned clean on every surname in the finished source set, which is the first p
 work. Three consecutive namesake findings made the re-scan look like a near-certainty; it is not, and one clean
 pass is not a reversal either. The rule stands unchanged for the reason it was written: the scan costs one
 command and the collision costs a misfit, so its value never depended on how often it fires.
+
+**The twelfth sweep**, run from an empty slate, which is the state the eleventh left and the state this file said
+a sweep is owed from. Eleven candidates raised, five killed by the concept index alone, two killed by annexation,
+four slated, one staged.
+
+**The finding, and it revises an order this register wrote itself.** An earlier pass established that the
+who-pays test should run first, because it is cheaper than a lookup and needs no tool. That is still true and it
+is no longer the first move. Five of the eleven candidates here were killed by reading the house's own concept
+list, and **every one of the five had passed the judgement tests cleanly**: a rare-phenotype donor who is the
+only source for others and the least serviceable recipient, a trial stopped early for benefit whose stopping rule
+removes the evidence about what it stopped for, fuel accumulating under fire suppression, a levee drawing
+development into the ground it protects, and an antibiotic reserved into unprofitability. Each has a definite
+payer, no villain, and a clean structure. Each is already in the house, as **The Universal Donor Squeeze**,
+**Truncation Bias in Stopped Trials**, **The Fire Suppression Paradox**, **The Levee Effect** and **The Broken
+Antibiotic Market**. At 286 the prior that a well-formed structure is already staged is high enough that
+judgement is the expensive instrument and the index is the cheap one, so **read the concept list before thinking,
+not after**. The command is one line and it is in this file already; what was wrong was the order.
+
+```
+for f in misfits/*/REFERENCE.md; do awk '/^---$/{n++;next} n==1 && /^concept:/{print}' "$f"; done | sort
+```
+
+**Two more died on annexation rather than on the index.** A pilot study's effect estimate is biased upward
+precisely because it is the estimate that triggered the main trial, which is **The Optimizer's Curse** with a
+new subject: remove selection on noisy estimates and nothing is left. And witness preparation, where competent
+representation requires the rehearsal that reshapes the confidence a court reads as accuracy, sits between **The
+Court Interpreter's Bind** and **Forensic Confirmation Bias** without clearing either.
+
+**Four are slated and carry what a line should carry.**
+
+- [ ] [P0] The Useful Record (statistical disclosure control; the re-identification literature; the utility-privacy
+      formalisations): a body holds records it is obliged to release and must de-identify them first, which it
+      does competently. The attributes that make a dataset answer a question are the attributes that make a row
+      unique, so **utility and identifiability are one quantity read two ways** and no technique separates them,
+      only trades them. **Who pays is the data subject**, who is party to the release, consented to nothing about
+      it, and cannot tell whether they are the unique row. **No villain is available**: the release is mandated
+      or is plainly in the public interest, the de-identification meets the standard of the day, and the
+      re-identifier is often a researcher demonstrating the risk. **To be tested for annexation against
+      Differential Census Undercount**, where a quantity is measurable and barred from being used: remove that
+      engine, the legal bar on use, and this should stand, because nothing here is forbidden and the difficulty
+      is that the data works. **The abandonment condition**: if formal privacy guarantees turn out to hold
+      utility at the levels that actually get published, the candidate is a solved engineering problem and should
+      be dropped rather than argued for.
+- [ ] [P1] The Accession That Stops Moving (ex situ conservation; seed and gene banks; the regeneration cycle):
+      a landrace is banked because it is adapted to a place, and banking suspends the adaptation while the place
+      keeps changing, so the longer the material is conserved the less it fits the ground it was saved for.
+      **Who pays is the restoration**, decades later. **To be tested for annexation against Genetic Adaptation to
+      Captivity**, the ark selecting for the ark: remove that engine, by stipulating cryogenic storage with no
+      selection whatever, and this should stand, because the mismatch here comes from the world moving rather
+      than from the ark choosing. **The abandonment condition**: if periodic regeneration turns out to track the
+      changing environment closely enough that banked material stays field-competitive, the bank is working as
+      designed and this is not a misfit.
+- [ ] [P1] The Only Ones Who Could Judge It (peer review in narrow specialisms; reviewer conflict; the small-field
+      problem): the competence to assess a claim and the interest in its outcome are produced by the same
+      quantity, closeness to the work, so a field small enough to need expert review is small enough that the
+      experts are the rivals. **Who pays is the author and the field's record.** **The precondition is a lookup
+      establishing that this is measured rather than merely complained about**, and the line should be dropped if
+      the evidence is anecdote, because a candidate whose warrant is a grievance is not a warrant.
+- [ ] [P2] The Channel That Closes (mandatory reporting regimes and disclosure deterrence): a duty to report
+      exists so that harm is detected, and its existence is a reason not to disclose to the person who holds it,
+      so the detection channel is narrowed by the rule that was meant to open it. **Who pays is the person who
+      would have disclosed.** **Flagged for subject sensitivity**: most of this literature is about children and
+      about domestic violence, and a play that cannot be staged without a real victim in the room should not be
+      staged. The line stands only if a version exists whose payer is structural rather than a person in
+      distress, and it should be dropped rather than softened if not.
+
+**And the abandonment condition returned the no-hero row for the second pass running, which stops being a datum.**
+Last pass it was recorded as a surprise: written as a cheap kill, it did not fire and instead produced the play's
+hinge. Here the condition was _if a ballast-free hull works, this is an engineering problem and not a structure_,
+and the answer is that the hull exists, has been drawn at Michigan and by Japanese and Korean yards, and buys its
+freedom with beam, cargo capacity, build cost, drag and framing a classification society may decline to permit.
+That is the **No hero** section, written by the lookup. Two for two is a pattern worth acting on rather than
+noting: **the abandonment condition asks where the candidate is most likely to be a system working as designed,
+and the honest answer to that is either the kill or the no-hero row.** There is no wasted outcome, which is why
+it should run first regardless of how safe the candidate looks.
+
+**One datum extended.** The end-of-build namesake re-scan returned clean again, the second consecutive pass
+owing no namesake work after three that did. The house's `Lin` is Daniel Lin of the bias blind spot, and a
+chlorination paper by another Lin was available and was **not taken**, on the merits rather than to dodge the
+wall: the propagule-pressure argument is the better row for a dispute about whether a concentration standard maps
+onto establishment. That is the Johnson case again and the rule it set holds: swapping a citation to avoid a
+collision is legitimate only when the paper taken is the better paper.
