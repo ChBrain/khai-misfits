@@ -5813,7 +5813,7 @@ Court Interpreter's Bind** and **Forensic Confirmation Bias** without clearing e
 
 **Four are slated and carry what a line should carry.**
 
-- [ ] [P0] The Useful Record (statistical disclosure control; the re-identification literature; the utility-privacy
+- [x] [P0] The Useful Record (statistical disclosure control; the re-identification literature; the utility-privacy
       formalisations): a body holds records it is obliged to release and must de-identify them first, which it
       does competently. The attributes that make a dataset answer a question are the attributes that make a row
       unique, so **utility and identifiability are one quantity read two ways** and no technique separates them,
@@ -5825,7 +5825,19 @@ Court Interpreter's Bind** and **Forensic Confirmation Bias** without clearing e
       engine, the legal bar on use, and this should stand, because nothing here is forbidden and the difficulty
       is that the data works. **The abandonment condition**: if formal privacy guarantees turn out to hold
       utility at the levels that actually get published, the candidate is a solved engineering problem and should
-      be dropped rather than argued for.
+      be dropped rather than argued for, staged as **Only One Person Fits**: the condition was run first
+      and did not fire, and it returned the no-hero row for the third pass running, since the largest deployment of
+      a formal guarantee yet attempted put the accuracy it gave up on the **smallest geographies and the smallest
+      populations**, which is where the data was least substitutable, so the remedy's cost lands closest to the
+      reason for releasing at all; the annexation test passed exactly as the line predicted; the build added two
+      things the line had not reached, the first being that **the person who establishes the risk is the person
+      who performs it**, because a claim that a file could be re-identified is answered by the observation that
+      nobody has and only a re-identification refutes that, which makes the demonstrator a seat with no villainous
+      reading available at all, and the second being that **identifiability is a property of the file against
+      everything else and not of the file**, so no inspection by a custodian can settle it and the answer keeps
+      moving as the world outside acquires more tables; and the warrant carries its own headline figure being
+      revised downward, from 87 per cent to about 63, because a bound the play would rather not have is exactly
+      the bound it has to print.
 - [ ] [P1] The Accession That Stops Moving (ex situ conservation; seed and gene banks; the regeneration cycle):
       a landrace is banked because it is adapted to a place, and banking suspends the adaptation while the place
       keeps changing, so the longer the material is conserved the less it fits the ground it was saved for.
@@ -5865,3 +5877,26 @@ chlorination paper by another Lin was available and was **not taken**, on the me
 wall: the propagule-pressure argument is the better row for a dispute about whether a concentration standard maps
 onto establishment. That is the Johnson case again and the rule it set holds: swapping a citation to avoid a
 collision is legitimate only when the paper taken is the better paper.
+
+**The re-scan reported clean for the third pass running, and the count is now misleading if it is read as an
+absence.** It is not. This pass found **two** namesake collisions in the **pre-authoring** scan and routed around
+both: the house's `Narayanan` is M P, on managerial short-termism in Seed Corn, and the candidate row was Arvind
+on the Netflix de-anonymisation; the house's `Kenny` is David A, with Donald T Campbell on regression artifacts in
+The Bounce, and the candidate row was Christopher T on the census disclosure system. Neither is declared, so
+neither would have failed a wall: an undeclared surname collates, and two people under one key with two different
+works raises no overlap and passes quietly, which is the failure mode this file already names as the worst kind.
+
+So the honest reading of three clean passes is **not** that the collisions stopped. It is that the first scan is
+now catching them, which is what it was written for, and that **a clean end-of-build re-scan is evidence about the
+pass and not about the house**. Both were routed on the merits, which is the only legitimate reason: the mobility
+result is the better row than the Netflix one for a play about ordinary records rather than a prize dataset,
+because a transit card and a phone are what the subject actually carries; and the disclosure system belongs in the
+warrant as an **event** rather than as a paper, which is the row type the house already uses for a convention or a
+line of case law. Neither swap cost anything, and had either paper been the only one that would do, the pass would
+have owed a declaration first.
+
+**The fattest field took another one, deliberately.** Measurement, cognition and inquiry stood at 76 of 287 before
+this and takes the 288th, which is the outcome the field-count rule exists to make visible. It is not a breach of
+it: the rule says the count orders the search and the dedup decides, and this candidate came off the slate rather
+than out of memory, which is the distinction that actually matters. The count is a prompt to look elsewhere first,
+and looking elsewhere first is what the twelfth sweep did.
