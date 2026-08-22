@@ -2,7 +2,7 @@
 concept: "The Experience-Sampling Asymmetry (why most people disapprove of me)"
 field: "Measurement, cognition, and inquiry"
 source: "Denrell (Psychological Review, 2005)"
-updated: "2026-07-24"
+updated: "2026-08-22"
 ---
 
 # Once Bitten: Reference
@@ -61,16 +61,30 @@ Overfitting's fit to the noise in a given sample and The Streetlight Effect's se
 that here the defect is neither a model that mistakes noise for signal nor a search drawn to the convenient
 place, but a sample the learner itself truncates by declining to revisit what once went badly.
 
+**And two conditions the mechanism was stated under can each fail in a direction that sharpens it rather than
+softening it, which is what the online case shows.** The warrant holds that the effect needs a genuinely variable
+outcome, so that a bad draw may be merely unlucky. Where the draw is a judgement about a person rather than a payoff,
+it need not even be unlucky: the same disagreement is read as more or less uncivil according to the group relation
+between the parties and, in the experiments, regardless of the comment's content features (Liang and Zhang), so the
+sampling can be ended by a reading that carried no information about the option at all. And the warrant holds that the
+flinch is a decision not to repeat, which in ordinary life still leaves the chance of an accidental second meeting.
+Where the avoidance is a block or an unfriend, that residue is gone: the act is explicit, recorded and complete, and
+16 per cent of one surveyed population performed it inside a single conflict (John and Dvir-Gvirsman). **The online
+case is not a new mechanism. It is this mechanism with its two leaks sealed**, the draw needing no bad luck and the
+flinch admitting no accident, which is why it belongs in this warrant rather than beside it.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.
 
-| Source              | Key Work / Event                                                                                               | Scope                                                                                                                                                                                                                                                                                                                                       |
-| ------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Jerker Denrell**  | "Why Most People Disapprove of Me: Experience Sampling in Impression Formation" (_Psychological Review_, 2005) | **The spine**: when impressions are formed by sampling and a bad experience ends the sampling, negative impressions are not corrected while positive ones are, so beliefs from experience are biased low, and people of variable quality are systematically underrated. The Bad Draw, the Untested, the Censored Sample, the Downward Bias. |
-| **Denrell & March** | "Adaptation as Information Restriction: The Hot Stove Effect" (_Organization Science_, 2001)                   | **The naming and the mechanism**: adaptive choice restricts the information gathered, because an option that yields a poor result is chosen less and so sampled less, and the reduced sampling prevents the correction of the error; the organisational-learning form, options abandoned after early poor returns and never re-explored.    |
-| **Jerker Denrell**  | "Adaptive Learning and Risk Taking" (_Psychological Review_, 2007)                                             | **The risk corollary**: because variable options are the ones most likely to produce an early bad draw that ends sampling, adaptive learning makes an agent avoid variability with no intrinsic risk preference at all, so risk aversion emerges from the sampling asymmetry itself.                                                        |
-| **Mark Twain**      | the cat and the hot stove-lid, _Following the Equator_ (1897); the folk saying "once bitten, twice shy"        | **The image and the antecedent**: the cat that sits on a hot stove-lid will never sit on a stove-lid again, hot or cold, and so never learns the cold one is safe; the folk picture of the sealed negative error, credited as the image, and Thorndike's law of effect (1911) as the reinforcement antecedent the effect turns into a bias. |
+| Source                                    | Key Work / Event                                                                                                                                                                                                                | Scope                                                                                                                                                                                                                                                                                                                                                         |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Jerker Denrell**                        | "Why Most People Disapprove of Me: Experience Sampling in Impression Formation" (_Psychological Review_, 2005)                                                                                                                  | **The spine**: when impressions are formed by sampling and a bad experience ends the sampling, negative impressions are not corrected while positive ones are, so beliefs from experience are biased low, and people of variable quality are systematically underrated. The Bad Draw, the Untested, the Censored Sample, the Downward Bias.                   |
+| **Denrell & March**                       | "Adaptation as Information Restriction: The Hot Stove Effect" (_Organization Science_, 2001)                                                                                                                                    | **The naming and the mechanism**: adaptive choice restricts the information gathered, because an option that yields a poor result is chosen less and so sampled less, and the reduced sampling prevents the correction of the error; the organisational-learning form, options abandoned after early poor returns and never re-explored.                      |
+| **Jerker Denrell**                        | "Adaptive Learning and Risk Taking" (_Psychological Review_, 2007)                                                                                                                                                              | **The risk corollary**: because variable options are the ones most likely to produce an early bad draw that ends sampling, adaptive learning makes an agent avoid variability with no intrinsic risk preference at all, so risk aversion emerges from the sampling asymmetry itself.                                                                          |
+| **Mark Twain**                            | the cat and the hot stove-lid, _Following the Equator_ (1897); the folk saying "once bitten, twice shy"                                                                                                                         | **The image and the antecedent**: the cat that sits on a hot stove-lid will never sit on a stove-lid again, hot or cold, and so never learns the cold one is safe; the folk picture of the sealed negative error, credited as the image, and Thorndike's law of effect (1911) as the reinforcement antecedent the effect turns into a bias.                   |
+| **Hai Liang & Xinzhi Zhang**              | "Partisan Bias of Perceived Incivility and its Political Consequences: Evidence from Survey Experiments in Hong Kong" (_Journal of Communication_, 2021): two population-based online survey experiments, N = 1,207 and N = 611 | **The draw that need not be bad**: perceived incivility tracks the group relation between the parties rather than the comment, disagreement aimed at in-group members being read as more uncivil regardless of content features. So the outcome that ends the sampling need not even be unlucky, which extends the spine's reach without changing its engine. |
+| **Nicholas A John & Shira Dvir-Gvirsman** | "'I Don't Like You Any More': Facebook Unfriending by Israelis during the Israel-Gaza Conflict of 2014" (_Journal of Communication_, 2015): a survey of 1,013 Jewish Israeli Facebook users                                     | **The flinch as a button**: 16 per cent unfriended or unfollowed during the fighting, which makes the avoidance explicit, recorded and complete rather than a drift, and removes the ordinary residual chance that the option is re-sampled by accident.                                                                                                      |
 
 ## Restrictions
 
@@ -93,10 +107,15 @@ What the house refuses to model, and how it credits what it stages.
   the house's. The staging is the house's; the hot-stove effect, the sampling asymmetry, the impression-formation
   bias, and the endogenous risk aversion are Denrell's, with Denrell and March for the information-restriction
   form, the cat and the hot stove are Twain's image, and the law of effect is Thorndike's, credited as the
-  reinforcement antecedent the effect extends into a bias. The mechanism is carried as carefully as the finding:
-  that the bias requires outcomes to be variable and sampling to be the agent's own choice, that it softens where
-  outcomes are near-deterministic so a bad draw truly means bad, where sampling is forced or exogenous, or where
-  others' experience can be observed, and that most avoided options really are poor, so only the variable and
+  reinforcement antecedent the effect extends into a bias, while the partisan reading of incivility is Liang and
+  Zhang's and the unfriending survey is John and Dvir-Gvirsman's, both credited narrowly to the conditions of the
+  draw and the flinch rather than to the sampling asymmetry itself. The mechanism is carried as carefully as the
+  finding: that the bias requires outcomes to be variable and sampling to be the agent's own choice, that it softens
+  where outcomes are near-deterministic so a bad draw truly means bad, where sampling is forced or exogenous, or
+  where others' experience can be observed, that the perceived-incivility result comes from survey experiments in a
+  single polity and is offered as evidence that a draw can be misread rather than as a measure of how often it is,
+  that the unfriending figure is one population in one conflict and is offered as the shape of the act rather than
+  as a rate, and that most avoided options really are poor, so only the variable and
   unluckily-sampled are misjudged. The scope is held to learning by adaptive sampling under noise, and not
   stretched into a claim that all avoidance is error or all first impressions wrong.
 
@@ -104,7 +123,8 @@ What the house refuses to model, and how it credits what it stages.
 
 Source to constraint, per element, one per load-bearing vector, no filler.
 
-- **The Bad Draw**: carries the trigger (Denrell), the early negative outcome, real or merely unlucky, that turns
+- **The Bad Draw**: carries the trigger (Denrell), the early negative outcome, real or merely unlucky or, where the
+  option is a person, merely read that way (Liang and Zhang), that turns
   the agent away from an option before its true worth is known.
 - **The Flinch**: carries the rational avoidance (Denrell & March), the sound decision not to repeat what hurt,
   which is also the decision that stops the sampling and so censors the record the agent will learn from.
