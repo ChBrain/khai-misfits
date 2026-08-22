@@ -6454,3 +6454,43 @@ note. It was introduced by the append in the journalism pass and survived the on
 prettier reflows without reading, and the canon validator checks the plan's H2 sections rather than its prose. **An
 anchored append is verified against the anchor and never against the paragraph it lands in**, which the house already
 learned once about anchored replacements and has now learned twice.
+
+**The twenty-second sweep needed a fourth question and the house's own shape supplied one.** Every warrant names at
+least one other misfit, so the house is a directed graph. Ask not which seat is uncast, which remedy fails or which
+bound is confessed, but **which misfit nothing has ever needed to define itself against**, since that marks a region
+entered exactly once.
+
+Raw isolation is too weak to use: 65 of 299 have in-degree zero and 43 per cent of the house sits at one or below. Two
+checks make it sharp, and both are worth keeping.
+
+**It measures topology rather than fame.** Median in-degree 2, out-degree median 3, and the top ten hold only 17.7 per
+cent of all in-edges. Preferential attachment is real, The Commons at 25 and Metric Fixation at 24, and it does not
+dominate, so a zero is not simply the shadow of a hub.
+
+**And isolation has to be weighed against opportunity.** The founding cohort of 4 July 2026 holds **101 misfits and 3
+isolates**, against 22 per cent house-wide: the oldest misfits are almost always named, so the three that never were
+are anomalies with 199 to 229 later chances each. They are **The Loyalty Trap** (Hirschman), **The Ninth Woman**
+(Brooks) and **The Lowest Bar** (the race to the bottom), and all three stage **famous named laws**, which is a
+finding on its own and unexplained.
+
+The neighbourhood around The Lowest Bar was empty (`regulatory arbitrage`, `forum shopping`, `flag of convenience`,
+`tax competition`, `treaty shopping`, `domicile` all zero), and it yielded **Everybody Passed**.
+
+**The pass's real lesson is about a search that agrees with you.** The Playwright's framing was selection over an
+uncoordinated distribution rather than a race to the bottom. A first search returned the conventional account of flags
+of convenience, light controls and low standards, and it was read as a refutation and the framing was dropped. It was
+not a refutation. **It was the standard account of the phenomenon, which is not a test of a non-standard reading of
+it**, and the difference is invisible because both are about the same subject and the summary sounds responsive. The
+Playwright asked for a retest and the retest reversed it: the Paris MoU lists put Panama, Liberia and the Marshall
+Islands all on the white list, with the leading flag of all an offshore registry and the black list holding small
+registries carrying very little. **If tonnage chased laxity it would be at the bottom of the table and it is at the
+top.** So the rule to carry: a lookup refutes a framing only when it addresses the framing, and a summary of the
+orthodox view addresses the subject instead. Ask what would have to be true for the reading to be wrong, and search
+for that.
+
+**And a mechanism that moves three times is a warning.** This candidate went race-to-the-bottom, then selection over
+non-coordination, then a safeguard binding and undefined, then criterion collapse. Twice this session a lookup
+rewriting a mechanism produced a better misfit, so movement is not itself a fault, but the third hop had left shipping
+for constitutional theory, which is chasing rather than converging. The pass was stopped and put back to the
+Playwright, and the retest of the **first** framing is what produced the misfit. **Where the mechanism has moved more
+than twice, go back to the original rather than forward to the next.**
