@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.297.0",
+  "version": "0.298.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -21028,6 +21028,234 @@
           "kind": "process",
           "title": "Taking It Down",
           "taxonomy": "play_nobody_has_to_launch_again.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "nobody_paid_for_the_cut",
+      "title": "Nobody Paid for the Cut",
+      "description": "A contract can only name what it can count, and the day is spent on whatever it named.",
+      "members": [
+        {
+          "file": "persona_the_editor.md",
+          "kind": "persona",
+          "title": "The Editor",
+          "type": "archetype",
+          "taxonomy": "position_shaper.md"
+        },
+        {
+          "file": "persona_the_publisher.md",
+          "kind": "persona",
+          "title": "The Publisher",
+          "type": "archetype",
+          "taxonomy": "position_payer.md"
+        },
+        {
+          "file": "persona_the_reader.md",
+          "kind": "persona",
+          "title": "The Reader",
+          "type": "archetype",
+          "taxonomy": "position_receiver.md"
+        },
+        {
+          "file": "persona_the_source.md",
+          "kind": "persona",
+          "title": "The Source",
+          "type": "archetype",
+          "taxonomy": "position_uncalled.md"
+        },
+        {
+          "file": "persona_the_writer.md",
+          "kind": "persona",
+          "title": "The Writer",
+          "type": "archetype",
+          "taxonomy": "position_filer.md"
+        },
+        {
+          "file": "piece_the_countable.md",
+          "kind": "piece",
+          "title": "The Countable",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "piece_the_fixed_day.md",
+          "kind": "piece",
+          "title": "The Fixed Day",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "piece_the_flat_wage.md",
+          "kind": "piece",
+          "title": "The Flat Wage",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "piece_the_intensity.md",
+          "kind": "piece",
+          "title": "The Intensity",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "piece_the_negative_line.md",
+          "kind": "piece",
+          "title": "The Negative Line",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "piece_the_rest_of_the_job.md",
+          "kind": "piece",
+          "title": "The Rest of the Job",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "pitch_the_countable_half.md",
+          "kind": "pitch",
+          "title": "The Countable Half",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "place_the_phone.md",
+          "kind": "place",
+          "title": "The Phone",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "place_the_rate_card.md",
+          "kind": "place",
+          "title": "The Rate Card",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "place_the_wire.md",
+          "kind": "place",
+          "title": "The Wire",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "plan_buy_what_can_be_verified.md",
+          "kind": "plan",
+          "title": "Buy What Can Be Verified",
+          "taxonomy": "position_payer.md"
+        },
+        {
+          "file": "plan_file_what_the_rate_counts.md",
+          "kind": "plan",
+          "title": "File What the Rate Counts",
+          "taxonomy": "position_filer.md"
+        },
+        {
+          "file": "plan_make_it_tight_anyway.md",
+          "kind": "plan",
+          "title": "Make It Tight Anyway",
+          "taxonomy": "position_shaper.md"
+        },
+        {
+          "file": "plan_read_what_arrived.md",
+          "kind": "plan",
+          "title": "Read What Arrived",
+          "taxonomy": "position_receiver.md"
+        },
+        {
+          "file": "plan_wait_for_a_call_that_pays_nothing.md",
+          "kind": "plan",
+          "title": "Wait for a Call That Pays Nothing",
+          "taxonomy": "position_uncalled.md"
+        },
+        {
+          "file": "play_nobody_paid_for_the_cut.md",
+          "kind": "play",
+          "title": "Nobody Paid for the Cut"
+        },
+        {
+          "file": "plot_a_penny_a_line_and_a_word_for_it.md",
+          "kind": "plot",
+          "title": "A Penny a Line, and a Word for It",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "plot_less_is_not_a_billable_quantity.md",
+          "kind": "plot",
+          "title": "Less Is Not a Billable Quantity",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "plot_the_day_is_twelve_hours_long.md",
+          "kind": "plot",
+          "title": "The Day Is Twelve Hours Long",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "plot_turn_the_dial_and_it_moves_somewhere_else.md",
+          "kind": "plot",
+          "title": "Turn the Dial and It Moves Somewhere Else",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "plot_what_can_be_counted_from_a_distance.md",
+          "kind": "plot",
+          "title": "What Can Be Counted from a Distance",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "position_filer.md",
+          "kind": "position",
+          "title": "Filer",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "position_payer.md",
+          "kind": "position",
+          "title": "Payer",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "position_receiver.md",
+          "kind": "position",
+          "title": "Receiver",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "position_shaper.md",
+          "kind": "position",
+          "title": "Shaper",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "position_uncalled.md",
+          "kind": "position",
+          "title": "Uncalled",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "process_allocating.md",
+          "kind": "process",
+          "title": "Allocating",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "process_checking.md",
+          "kind": "process",
+          "title": "Checking",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "process_cutting.md",
+          "kind": "process",
+          "title": "Cutting",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "process_filing.md",
+          "kind": "process",
+          "title": "Filing",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
+        },
+        {
+          "file": "process_rating.md",
+          "kind": "process",
+          "title": "Rating",
+          "taxonomy": "play_nobody_paid_for_the_cut.md"
         }
       ]
     },
