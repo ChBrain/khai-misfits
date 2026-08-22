@@ -6494,3 +6494,28 @@ rewriting a mechanism produced a better misfit, so movement is not itself a faul
 for constitutional theory, which is chasing rather than converging. The pass was stopped and put back to the
 Playwright, and the retest of the **first** framing is what produced the misfit. **Where the mechanism has moved more
 than twice, go back to the original rather than forward to the next.**
+
+**The twenty-third sweep used the fourth instrument again, and the instrument now has a record.** Two of the three
+founding isolates have been opened and both yielded: The Lowest Bar gave **Everybody Passed**, and The Ninth Woman
+gives **Five, or a Layer**. That is two for two, which is a better rate than the seat method managed at its best, and
+it is worth being careful about why: an isolate is not a promise of a misfit, it is a region entered once, and a
+region entered once may be thin because it is genuinely small.
+
+**The third isolate is the evidence for that caution, and the neighbourhood scan is what separates them.** The Loyalty
+Trap was scanned alongside The Ninth Woman and its region is **not** empty: `switching cost` 8, `complaint` 7,
+`lock-in` 4, `grievance` 4, against The Ninth Woman's `span of control` 0, `Dunbar` 0, `meeting cost` 0. So a misfit
+can be unnamed while the space around it is well trafficked, and the instrument's real output is a **shortlist to
+scan** rather than a list of candidates. Isolation says look here; the neighbourhood scan says whether there is
+anything.
+
+**And the dedup that decided Five, or a Layer is worth carrying, because it separates two kinds of information loss
+the house had only one of.** The Frozen Middle runs on a middle **measured on continuity while charged with change**,
+which damps to protect the delivery it answers for: a motivational engine. Switch it off entirely, stipulating a
+middle with no delivery to protect, no continuity target and no career at stake, and the harm is untouched, because
+**honest compression is still compression**. A summary shorter than its source has dropped something whatever the
+writer wants, and the shortening is what makes it worth reading, so value and loss are one quantity. The house now
+holds the interested version and the arithmetic version, and the test that tells them apart is: remove every motive,
+and see whether anything is still lost.
+
+**Two isolates down, one scanned and held.** The Loyalty Trap stays on the list with its reason recorded: unnamed, but
+its neighbourhood is occupied, so the next author should expect an Origin row rather than a misfit if they open it.

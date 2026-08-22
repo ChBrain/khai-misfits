@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.300.0",
+  "version": "0.301.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -10734,6 +10734,234 @@
           "kind": "process",
           "title": "Spreading",
           "taxonomy": "play_fit_to_fail.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "five_or_a_layer",
+      "title": "Five, or a Layer",
+      "description": "Widen the span and nobody is supervised; narrow it and you add a layer whose whole function is that less arrives.",
+      "members": [
+        {
+          "file": "persona_the_executive.md",
+          "kind": "persona",
+          "title": "The Executive",
+          "type": "archetype",
+          "taxonomy": "position_attender.md"
+        },
+        {
+          "file": "persona_the_manager.md",
+          "kind": "persona",
+          "title": "The Manager",
+          "type": "archetype",
+          "taxonomy": "position_relay.md"
+        },
+        {
+          "file": "persona_the_reorganisation.md",
+          "kind": "persona",
+          "title": "The Reorganisation",
+          "type": "archetype",
+          "taxonomy": "position_redesign.md"
+        },
+        {
+          "file": "persona_the_report.md",
+          "kind": "persona",
+          "title": "The Report",
+          "type": "archetype",
+          "taxonomy": "position_supervised.md"
+        },
+        {
+          "file": "persona_the_summary.md",
+          "kind": "persona",
+          "title": "The Summary",
+          "type": "archetype",
+          "taxonomy": "position_compression.md"
+        },
+        {
+          "file": "piece_graicunass_number.md",
+          "kind": "piece",
+          "title": "Graicunas's Number",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "piece_the_finite_hour.md",
+          "kind": "piece",
+          "title": "The Finite Hour",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "piece_the_layer.md",
+          "kind": "piece",
+          "title": "The Layer",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "piece_the_shorter_version.md",
+          "kind": "piece",
+          "title": "The Shorter Version",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "piece_the_span.md",
+          "kind": "piece",
+          "title": "The Span",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "piece_the_swap.md",
+          "kind": "piece",
+          "title": "The Swap",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "pitch_sixty_minutes_and_a_page.md",
+          "kind": "pitch",
+          "title": "Sixty Minutes and a Page",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "place_the_floor_below.md",
+          "kind": "place",
+          "title": "The Floor Below",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "place_the_one_to_one.md",
+          "kind": "place",
+          "title": "The One-to-One",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "place_the_org_chart.md",
+          "kind": "place",
+          "title": "The Org Chart",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "plan_attend_to_what_i_can_attend_to.md",
+          "kind": "plan",
+          "title": "Attend to What I Can Attend To",
+          "taxonomy": "position_attender.md"
+        },
+        {
+          "file": "plan_be_seen_often_enough.md",
+          "kind": "plan",
+          "title": "Be Seen Often Enough",
+          "taxonomy": "position_supervised.md"
+        },
+        {
+          "file": "plan_be_shorter_than_the_source.md",
+          "kind": "plan",
+          "title": "Be Shorter Than the Source",
+          "taxonomy": "position_compression.md"
+        },
+        {
+          "file": "plan_fix_whichever_one_is_hurting.md",
+          "kind": "plan",
+          "title": "Fix Whichever One Is Hurting",
+          "taxonomy": "position_redesign.md"
+        },
+        {
+          "file": "plan_pass_up_what_matters.md",
+          "kind": "plan",
+          "title": "Pass Up What Matters",
+          "taxonomy": "position_relay.md"
+        },
+        {
+          "file": "play_five_or_a_layer.md",
+          "kind": "play",
+          "title": "Five, or a Layer"
+        },
+        {
+          "file": "plot_four_or_five_he_said.md",
+          "kind": "plot",
+          "title": "Four or Five, He Said",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "plot_so_you_add_a_layer.md",
+          "kind": "plot",
+          "title": "So You Add a Layer",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "plot_so_you_take_the_layer_out.md",
+          "kind": "plot",
+          "title": "So You Take the Layer Out",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "plot_the_shorter_version_is_the_point.md",
+          "kind": "plot",
+          "title": "The Shorter Version Is the Point",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "plot_whichever_one_is_hurting.md",
+          "kind": "plot",
+          "title": "Whichever One Is Hurting",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "position_attender.md",
+          "kind": "position",
+          "title": "Attender",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "position_compression.md",
+          "kind": "position",
+          "title": "Compression",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "position_redesign.md",
+          "kind": "position",
+          "title": "Redesign",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "position_relay.md",
+          "kind": "position",
+          "title": "Relay",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "position_supervised.md",
+          "kind": "position",
+          "title": "Supervised",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "process_attending.md",
+          "kind": "process",
+          "title": "Attending",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "process_layering.md",
+          "kind": "process",
+          "title": "Layering",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "process_reorganising.md",
+          "kind": "process",
+          "title": "Reorganising",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "process_spanning.md",
+          "kind": "process",
+          "title": "Spanning",
+          "taxonomy": "play_five_or_a_layer.md"
+        },
+        {
+          "file": "process_summarising.md",
+          "kind": "process",
+          "title": "Summarising",
+          "taxonomy": "play_five_or_a_layer.md"
         }
       ]
     },
