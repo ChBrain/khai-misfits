@@ -1,5 +1,289 @@
 # @chbrain/khai-misfits
 
+## 0.299.0
+
+### Minor Changes
+
+- 54baf70: Add the misfit A Bigger Harvest Every Year: the carbon that makes a grain bigger is what dilutes it, and the harvest is counted in the quantity that grew.
+- 67effa9: Add the misfit **A Fence in a Good Street**: caring enough to guard your work is what makes you good at it, and the guarding reads worst where trust is highest.
+- bffb2cb: Add the misfit **A Hundred Years to Vouch for a Thousand**: proxy calibration,
+  where the instrument can only be tested against thermometers on the span where
+  both exist, which is never the span it is used for.
+- 8150eed: Add the misfit **A Lower Bar Set by a Higher One**: the surgical placebo problem,
+  where the standard of evidence a class of treatment is held to is set by the price
+  of its control arm rather than by anything about the treatment.
+- 01fe707: Add the misfit Already Explained: diagnostic overshadowing staged as a correct prior closing the only door the exception could come through, where a true diagnosis accounts for the new complaint nearly every time and the separate ordinary illness beneath it is never looked for.
+- 2f9b448: Add the misfit **An Angle and a Count**: the leap second, where civil time must be
+  the Earth's angle and a uniform count of seconds at once. Resolves the house's
+  Nelson cells to Leif in Reasonable Either Way and The File Drawer, since this
+  misfit brings Robert A.
+- 84174f9: Add the misfit **And Then Who Makes Them**: second-order free-riding, where the
+  repair for an under-supplied public good is itself an under-supplied public good,
+  and so is the repair for that.
+- aa9d2b5: Add the misfit **As Full As I Remember**: each generation measures against the sea it first saw, so a long decline is registered by nobody and all are right.
+- e5bdfe6: Add the misfit Back to Where It Was Fine: ecological hysteresis staged as a repair specified from a record that contains only the way in, where a shallow lake holds two self-maintaining states, the loading that preceded the change is not the loading that reverses it, and a catchment meets its target in full while the lake supplies itself from the bed.
+- c75c96b: Both of Them on Time: phenological mismatch in a mutualism, where two accurate cues stop agreeing.
+
+  A spring ephemeral opens on accumulated warmth at the surface, correctly, because it must finish
+  before the canopy takes the light. An overwintered bumble bee queen emerges when the soil around
+  her reaches the temperature at which her body can fly, correctly, because coming up into cold kills
+  a whole colony. Neither can take the other's reading: a queen at depth cannot sense the air and a
+  shoot at the surface cannot sense the soil. Their meeting was never an agreement, only one blanket
+  of snow lying over both signals and lifting off both at once. An early melt over cold ground parts
+  the two sums, and seed set falls from about 60 per cent to about 30 at a gap of seven days.
+
+  The nineteenth sweep's output, and the first misfit in the house to stage cooperation in ecology:
+  all 30 of that field's incumbents are antagonistic.
+
+- 390fab0: Add the misfit Bred for the Ark: ex situ conservation staged as preservation that cannot hold a living thing still, where an enclosure is an environment rather than a pause, the keepers' correct discharge of duty is what does the selecting, genetic management reaches the rate and not the harm, and the range goes on changing while the population is held.
+- 71be4d8: Add the misfit Bug for Bug: interface compatibility staged as a promise overtaken by everything else the system does, where callers build against what they observe rather than what was contracted, a compliant second implementation is the one users call broken, and repairing the accident is indistinguishable from an outage.
+- 96f66e4: Add the misfit Built Before the Rule: code grandfathering staged as an exemption granted by the same fact that predicts the hazard, where a requirement written after a disaster applies only forward, relief is handed out by date of construction, and the improvement threshold that was meant to bring buildings up is the reason nobody touches them.
+- cc1d94a: Add the misfit Dry Enough to Build On: the levee effect staged as a protection that recruits its own exposure, where the wall that stops the small floods erases the memory keeping people off the plain and gathers a town where the water will go.
+- 39d2616: Add the misfit **Erased by What Divided Them**: the comparative method's horizon in
+  historical linguistics, where the divergence that manufactures the evidence of a language
+  family is the same process that consumes it, so below a certain depth chance and ancient
+  contact supply as many correspondences as descent would, and neither a deep proposal nor
+  its denial can be established.
+- b6e2ad6: Add the misfit Exactly One Kilogram: the artefact kilogram staged as a reference with no outside, where an object defined to be the unit cannot be measured to be in error, so its century of drift was exported silently to every mass on Earth, the custody that preserved it is why only three observations exist, and the cleaning written into the definition removes about a third of the signal it is hunting.
+- d333207: Add the misfit **Given to Everyone**: the licence that wins the users cannot be recalled or aimed, so it hands most to whoever is placed to use it.
+- 8562394: Gloves by Friday: the hierarchy of controls, inverted in practice.
+
+  The profession ranks controls by effectiveness, elimination first and equipment on the person
+  last, and the ranking is right: the upper rungs work without needing continuous human action and
+  the lower ones work only while somebody keeps performing them. What the ladder does not carry is
+  a second ordering running very nearly the reverse of it, because a control that works without
+  human effort has to be built into the thing, so it needs the design office, the capital cycle and
+  a shutdown, while a control that needs human effort needs only a purchase order and a person who
+  is already there. Something happened on Tuesday and the answer is due on Friday.
+
+  In 107 days of field observation with 12 coordinators selected as successful, 280 measures went
+  in at 53.6 per cent administrative and 35 per cent engineering, and the coordinators were
+  prevented 71 times.
+
+  The twentieth sweep's output, found by the corpus generator in a field the seat method had
+  already declared answered.
+
+- cdfe918: Add the misfit Good for Anyone: the universal donor shortage staged as scarcity produced by fungibility, where blood compatible with every patient is correctly reached for whenever nobody knows who a patient is, so most of a fixed supply goes to people who turn out to have alternatives and the few who can receive nothing else compete with the entire population.
+- 9b1e88a: Add the misfit Good Somewhere, Bad Somewhere: the attractiveness principle staged as an equilibrating system, where improving one dimension does not raise the total but moves the shortfall to whichever gauge nobody touched.
+- 8e16be3: Heavy Enough to Cross: a ship that has discharged its cargo must take on seawater to be seaworthy, and that water is a living piece of the coast it left.
+- 75e8734: Add the misfit Held Still to Keep It: a living practice can be saved only as one version of itself, and fixing that version stops the making that fed it.
+- 5df82af: Add the misfit I Would Know Him Anywhere: the other-race effect staged as an error rate belonging to a pair rather than to a person, where face recognition built by a lifetime of exposure leaves an honest witness worse across the line and exactly as certain, and every safeguard in the room is aimed at the outside of a witness while the variable that governs the outcome arrived years earlier, inside.
+- eec3134: Add the misfit **In Somebody Else's Words**: the court interpreter's bind, where a code
+  rightly demands both accuracy and invisibility, the manner a room reads credibility from
+  cannot be rendered neutrally, and the witness is weighed on hesitation and register a
+  second speaker authored.
+- 03ea9e0: Add the misfit **It Has to Start Somewhere**: the default effect, where a question
+  has to arrive in some condition, every condition moves the answer, and there is no
+  null condition to fall back on.
+- fa37bf3: Add the misfit Just Keeping Their Feet: pedestrian-induced lateral instability staged as a load that is a function of the response, where the deck couples a crowd to itself through their own sense of balance, each walker only avoids a stumble, and the excitation cannot be tabulated before the structure and the people are put together.
+- 8d743b1: Add the misfit **Kept for the Questions We Had**: archival appraisal, where the
+  criterion is built from the present's questions and the evidence that would show
+  it was wrong is what the decision destroys. Resolves the house's Greene cells to
+  David and David L, since this misfit brings Mark.
+- 1b3a211: Add the misfit **Kept From Burning**: every small fire put out is the right call, and the fuel it leaves standing builds the one that cannot be put out.
+- 5a99035: Add the misfit Longer Than Its Meaning: the message to an unmeetable reader staged as a system with no return channel, where every property that buys a carrier its life costs the message its legibility.
+- 701d193: Add the misfit Marked the Same by Anyone: a mark must survive a second marker to be fair, and what two markers agree on is not what was worth judging.
+- 1147f48: Add the misfit Missing From the Count: the census undercount staged as a measured error the law requires to be carried, where the count is wrong in a stable direction about the same people every decade, demographic analysis establishes the gap to a decimal place, and the statute barring statistical sampling keeps that measurement out of the one room where it becomes seats and money.
+- a503157: Add the misfit More Mouths Than Meat: the predator-prey cycle staged as a coupled system with a reproductive lag in it, where each population is the other's control and each responds to a state that has already passed.
+- 0e575bf: Near Enough to Doubt It: the reviewer who can judge a novel proposal is the one who can see how it might fail, and a score is a rank.
+- 2bca6ad: Ninety-Six Times Eight: every fishway on the river is among the best ever built, and the run still has to cross all of them.
+- 0cba1a6: Add the misfit **Nobody Has to Launch Again**: past a density the wreckage collides with itself, so the band keeps emptying after everyone has stopped using it.
+- 46ab438: Nobody Paid for the Cut: the multitask distortion, staged on a journalism commission.
+
+  A publisher who will never see a writer work cannot buy carefulness, because carefulness leaves
+  no artefact a stranger can verify. They can buy words. So the rate card names words, and the
+  writer's finite day goes where the rate points: an hour writing produces four hundred words, an
+  hour ringing a source back produces none, and cutting two hundred words at the editor's correct
+  request produces a negative quantity and comes off the invoice.
+
+  No proxy decayed, nothing was gamed and nobody was fooled. Word count is a flawless measure of
+  word count and every party knows exactly what is being bought. The mechanism needs only a priced
+  dimension and a day that ends.
+
+  And it is not about quantity: in a randomised trial at a Kenyan outlet, moving writers from a
+  piece rate to pay per click tripled per-article pageviews and cut published articles by 74 per
+  cent, moving coverage off local news. The dial relocates the loss rather than lifting it.
+
+- 4a828cf: Add the misfit **Nobody Stopped Speaking It**: each parent picks the language that opens more doors for the child, and the other one stops being passed on.
+- f05ed82: Add the misfit Nobody to Ask: orphan works staged as a deadlock with no disagreement in it, where copyright attaches without formalities and therefore without any register, a term of life plus seventy outlives every record that could locate the holder, and a willing licensee's offer fails for want of a counterparty rather than for want of agreement.
+- 5d09203: Add the misfit **Nobody Votes for the Plant**: the corporate control right placed
+  with the residual claimant because that party is exposed to the outcome, and an
+  instrument built so that no holder need be. Declares an opposed axis against
+  The Only Basket, which now declares it too.
+- 01a5bc6: Add the misfit **Not While You Are Watching**: the observer's paradox, where the
+  target quantity is specified by the absence of an observer and observation is the
+  only access to it. Resolves the house's Levitt cells to Barbara and Theodore,
+  since this misfit brings Steven.
+- 233bb54: Add the misfit **Nothing Known Against It**: a banned substance is replaced by one with a shorter record, so the safest-looking option is the least studied.
+- 6c16140: Add the misfit **Nothing Left to Pool**: the Hirshleifer effect in insurance, where a
+  pool rests on an ignorance every party shares and an accurate test consumes the good
+  being sold. Resolves the house's Hirshleifer cells to David in Information Cascade,
+  since this misfit brings Jack.
+- d8ddb7a: Add the misfit One Name on the Paper: a certificate vouches for one person, so the way work is really done must be forbidden while it is measured.
+- 3d9a0c4: Only One Person Fits: the detail that makes a released record worth releasing is the detail that narrows it to one person.
+- 9ceae24: Proved on Somebody Else: the efficacy-effectiveness gap, staged on a clinical trial.
+
+  To show a treatment causes an improvement you must hold every other cause still, which is what an
+  experiment is. So the protocol excludes the patient with three other conditions, the one on four
+  other medicines and the one at eighty-six, and supports the rest with monitoring and reminders,
+  because wandering adherence is one more thing that could explain the difference. Every exclusion has
+  a reason and most are protective: heterogeneity spends statistical power, and a study that exposes
+  participants while answering nothing is unethical rather than merely weak, so the ethics committee
+  that protects the enrolled is what removes the treated from the evidence.
+
+  Then comorbidity, polypharmacy and age turn out to be the commonest grounds for exclusion from a
+  trial and the commonest grounds for being prescribed something, so the people held furthest from the
+  evidence are the ones it is most often used on.
+
+  The twenty-first sweep's output, found by reading the Restrictions bounds for a limitation six
+  warrants confess independently.
+
+- eb5c6f5: Read It in All of Them: the guarantee that a rule is published in every official language, each version equally authentic, is the same provision that leaves no version able to settle a question by itself.
+- f598b15: Add the misfit Ready on the First Day: the specificity that gets a leaver hired on day one is the specificity that expires, and one person carries both.
+- 1d63258: Add the misfit Reasonable Either Way: the garden of forking paths staged as a multiplicity made of routes never walked, where one honest analysis carries the debt of every defensible choice the data would have prompted instead.
+- 1194665: Add the misfit Right About the Big One: a review held only on the extremes breaks the property that made the score honest, so the honest forecaster loses.
+- 7f0d58d: Add the misfit Right Apart, Wrong Together: galvanic corrosion staged as a harm belonging to the joint and to neither part, where two correct material choices form a cell at their junction and the less noble member is consumed to preserve the other.
+- ed0555d: Add the misfit Room for Three in a Hundred: the trial penalty staged as a throughput number wearing the clothes of a sentence, where the discount that clears a list the buildings cannot try is priced by capacity rather than by guilt, offered most generously where the evidence is weakest, and collected in an admission spoken by the one person who could have contradicted it.
+- aa92fdb: Add the misfit Sold to Find the Price: the price is known only to the buyers, who will say it only for a discount, so it is found by selling under it.
+- 0732cfc: Add the misfit Sorry Is Evidence: the withheld explanation staged as a request that costs nothing in money and everything in liability, where the account and the admission are one sentence, the willing clinician is not the constraint, litigation becomes the only instrument that compels an answer, and the apology statute protects the words while leaving the information they carry exposed.
+- dc91676: Add the misfit Sound Both Ways: past what experience can check, one reason proves a claim and its contrary, and nothing in it marks the edge.
+- 3ba8a42: Add the misfit Stopped for Benefit: early stopping of randomised trials staged as a measurement interrupted for the best reason there is, where the crossing that halts a trial is selected partly on luck, the board best equipped to see the damage is the one least free to avoid it, and the crossover to the control arm ends the comparison permanently.
+- 5624f8a: Stopping Is the Hard Part: the protection is specified for the state a plant runs in, so leaving that state is the operation performed with least of it.
+- 94a07d5: Add the misfit **Taken Apart to Be Read**: archaeological excavation as a method
+  that consumes the object it reads, where the case for waiting never expires and
+  neither does the decay it is weighed against. Also repairs two Origin cells whose
+  generational suffixes were keying their scholars under "Jr" and "III".
+- 848dbb4: Add the misfit The Case It Destroys: growth and underinvestment staged as a loop that eats its own evidence, where the performance that follows a declined investment destroys the demand that would have made the case for it.
+- 9ee00c4: Add the misfit **The Door Opens Both Ways**: the self-amendment bind, where a constitution
+  must be amendable to last, an amendable one can be amended to end amendment, and the clause
+  that closes that route binds every later generation including one that is unanimous.
+- 7750a84: Add the misfit The Far End of the Wire: voltage rise under reverse power flow staged as a relationship that inverts its sign while everything holding it stays correct, so the compensation protecting the last house on a feeder becomes the pressure that cuts it off.
+- 1fc4bfa: Add the misfit **The Fix Tells Them Where**: shipping the fix states exactly what was wrong, so protecting the fleet arms the attack on everyone not yet updated.
+- b4f8277: Add the misfit The Fourth Year: judicial electoral sentencing cycles staged as one wire with a virtue at one end and a defect at the other, where the answerability that carries a community's standards to the bench carries them hardest in the year the term expires, and the cost falls on whichever defendant the listing diary happened to place there.
+- 3d25f45: Add the misfit **The Name Does Not Move**: biological nomenclature, where a name is
+  anchored to one specimen and one date because those cannot be argued about, and
+  stays there when the biology says otherwise.
+- f0c5a28: Add the misfit The Next One Pays: the composition of case law staged as a population one side selected and paid for, where a party who litigates once needs the money and a party who litigates constantly needs the rule, so the cases that would settle the law are bought out of the record at a premium and the cost lands on a stranger who was never in the room.
+- 21008fe: Add the misfit **The Only Sky There Is**: cosmic variance on the largest angular scales,
+  where the theory predicts a distribution, one sky was drawn from it, and the dominant
+  uncertainty is fixed by how many independent patterns a sphere admits rather than by how
+  well anybody saw them, so it survives a measurement that could not be improved.
+- 0f65df4: Add the misfit **The Same Name on Both Registers**: common ownership, where a
+  proprietor of two rivals gains nothing from the contest between them and nobody
+  had to say so. Resolves the house's Dennis cell to Brian in Safety in Numbers,
+  since this misfit brings Patrick.
+- 0ef7d24: Add the misfit **The Same Print Twice**: the context that makes an examination possible is the context that moves it, so one expert answers twice, differently.
+- 1bb36c2: Add the misfit **The Scaffold Left Up**: the support that measurably helps a beginner measurably harms them once it works, and nothing shows when.
+- cf03b3b: Add the misfit The Shares to Say It With: a lockup fixes a public date and withholds the shares that would price it, so a known fall lands on a day with no news.
+- f2631d0: Add the misfit The Time It Used to Buy: the loss of grid inertia staged as a buffer that was never anyone's to give, where spinning mass bought for electricity was also holding the frequency steady and its departure appears on no ledger.
+- 8545b50: Add the misfit The Youngest in the Room: the relative age effect staged as an accurate judgement taken against the wrong comparison group, where an administrative cutoff makes one child eleven months older, every selector and assessor compares them with the room rather than with their age, and the coaching that follows selection converts a transient gap into a real one.
+- de02bda: They All Sent Something: aid arrives in proportion to how much people care, and the capacity to sort it does not, so the caring is what buries the response.
+- 28e3a26: They Heard Their Own Effort: a listener's own cost in understanding a sentence is felt as a fact about the sentence, so a true claim said in a second language is believed less.
+- e837ec1: Add the misfit Time Ran While You Were Well: the limitation bar on latent harm staged as a filter that sorts by latency rather than by merit, where a period measured from the defendant's act extinguishes claims in proportion to how long the injury took to become knowable, the claimant who did not delay by a day is barred anyway, and the discovery rule that corrects it hands the stale evidence back to the defendant while the statute of repose runs on beneath, immune by construction.
+- 24cc68b: Add the misfit Treated and Counted: the therapeutic misconception staged as one hour with two true accounts, where the care and the measurement are both honest and only the person consenting has to hold both.
+- 27f6ac0: Add the misfit True Until It Was Used, and narrow Metric Fixation to the agent-optimising mechanism it actually stages.
+- 71e63fd: Add the misfit What Everyone Else Does: the customary standard of care staged as a ruler made of the thing it measures, where a court rightly defers to what a responsible body of practitioners accepts, so a method nobody uses is not required and a method everybody uses cannot be negligent, and the early adopter funds a protection that will never cover them.
+- 6ace714: Add the misfit What Never Arrives: sediment starvation below dams staged as a harm made of an absence delivered somewhere else, where the works are rated on water alone and the coast the river was building stops being built.
+- 8084f42: Add the misfit **What Seven Means Now**: response shift in self-reported outcomes, where
+  the quantity is private by definition, randomisation genuinely repairs the comparison
+  between people, and the adaptation that makes a condition bearable moves the scale inside
+  one person so the before and after cannot be subtracted.
+- 9d642d7: Add the misfit What the Water Leaves: secondary salinisation staged as a medium consumed by the act that uses it, where every correct watering deposits salt the ground cannot give back and the field is ruined by being farmed well.
+- 6773ff0: Add the misfit **Who Else It Was Holding Down**: mesopredator release, where removing an
+  apex predator that really does take stock releases the smaller predators it had been
+  suppressing, so total predation rises and the cost lands on a third species the
+  programme's accounting has no column for.
+
+  Also names the Charles Holt in Information Cascade, ahead of the Robert D Holt this
+  misfit brings in.
+
+- e616b52: Add the misfit **Whoever Comes Instead**: a choice that settles who will exist leaves no one worse off, since whoever it burdens would otherwise not be here.
+- 9b41181: Widest When You Need It: the spread is a defence against the counterparty who knows more, so it is widest exactly when the greatest number of people need to trade.
+- 463c909: You Have to Know It to Learn It: the capacity to use knowledge from outside is a by-product of doing the work yourself, so the organisation that most needs to buy is the one least able to use what it buys.
+- 7a59281: Add the misfit You Have to Mean It: a threat works only if it is meant, and if it works it is never carried out, so the meaning is all there is. Narrows Exactly How Far's credibility row to the boundary question it stages.
+
+### Patch Changes
+
+- 86f000b: Move the eight axis and sign declarations from khai-guard.config.json into each misfit's own REFERENCE.md frontmatter, so a misfit declares the quantity it acts on beside the warrant that argues it, and so a new misfit can declare its axis in the pull request that adds it.
+- 256df35: Record each misfit's concordance row in its own REFERENCE.md frontmatter: the concept's scholarly name, the field it is filed under, and the leading source. Extracted from REFERENCES.md and verified to reconstruct all 248 rows exactly. Inert until the generator lands.
+- 40028fd: Write neighbour declarations for the 37 misfits that named none, almost all of them early ones staged before the convention existed. Every REFERENCE.md in the house now names at least one other misfit by title and states the line between them.
+- d9d6e87: Declare the contradiction between Room to Grow and Safety in Numbers from both sides. The two make opposite claims about the same intervention on the same quantity, share no source, and neither named the other.
+- 328da59: Declare the safety and slack family on the axis schema, ten misfits, and write the opposition it found: Too Kind to Drop against both No Idle Hands and The Brittle Optimum. Spare capacity helps where the load is exogenous and harms where the load is a reply to the queue.
+- e79efd2: Declare the contradiction between Room to Grow and Worth More Nearly Gone. Both act on population density with opposite signs, found by the axis pilot rather than by hand.
+- 86b10df: Extend Once Bitten's warrant to the online case: the draw that need not be bad, and the flinch as a button.
+
+  Two Origin rows and the prose that earns them. Liang & Zhang (Journal of Communication, 2021) find
+  perceived incivility tracking the group relation between the parties regardless of the comment's content
+  features, so the outcome that ends the sampling need not even be unlucky. John & Dvir-Gvirsman (Journal
+  of Communication, 2015) find 16 per cent of surveyed Israeli Facebook users unfriending or unfollowing
+  during the 2014 conflict, which makes the avoidance explicit and complete rather than a drift and removes
+  the ordinary residual chance of an accidental second meeting.
+
+  No cast is added. The online case is not a new mechanism: it is this one with its two leaks sealed.
+
+- 7c86bc4: Extend **Taken Apart to Be Read** with a seventh Origin row: conservation's reversibility
+  principle, where a treatment must be reversible so a later conservator is not foreclosed,
+  none fully is, and the object decays while the rule is honoured. The annexation test the
+  slate line demanded was run and failed, so the candidate lands as a row rather than a play.
+
+  Also names the Paul S Appelbaum in Treated and Counted, ahead of the Barbara Appelbaum this
+  row brings in.
+
+- aed27a7: Extend **The Letter of the Law** with the online controlled experiment, and correct
+  an over-claim its own warrant carried: the search that finds a degenerate maximum
+  need not be an optimiser at all. Resolves the slate's [P2] as an extension rather
+  than a play, which is what its annexation test required.
+- c54e778: They All Sent Something: repair a doubled clause in the neighbours section, introduced when the concept names were replaced with house titles.
+- 29ec6fc: Mark fourteen neighbour citations as contrasts across thirteen misfits, naming the misfit that owns each work and the line between them. Takes the cross-misfit warrant baseline from 29 shared works to 4.
+- 51712c2: Name Mike Davis in the No One's Remit warrant, so the index key resolves to a person.
+
+  `City of Quartz` was cited under a bare surname. Davis is a common surname and the
+  science index keys on the bare form, so the cell collated silently and would have
+  merged Mike Davis with any other Davis the house later cited. Writing the given
+  name into the Source cell is the cells-first half of a namesake pass: the cell is
+  valid on its own, and the declaration that follows is not valid without it.
+
+- ac3db94: Name Ross Mueller in The Skill to See It's warrant, so the index key resolves to a person.
+
+  The 2002 JPSP paper was cited as "Krueger & Mueller", with Mueller bare. Mueller is a
+  common surname and the science index keys on the bare form, so the cell collated silently
+  and would merge Ross Mueller with any other Mueller the house later cited. This is the
+  cells-first half of a namesake pass: the cell is valid on its own, and the declaration
+  that follows is not valid without it.
+
+- 85063d1: Write the given names into three Source cells: **James C Scott** in The Abstraction Ladder
+  and The Decision Travels, **Norbert Schwarz** in Larger in the Looking. Both surnames are
+  about to be declared, and a declared surname may not appear in the index unresolved.
+- 8aff68f: Write the given name into Metric Fixation's Campbell row: **Donald T Campbell**, so
+  the cell can be keyed apart from the Lyle Campbell carried by Erased by What Divided
+  Them when the surname is declared.
+- 29c65f7: Name the remaining Campbells in their Source cells: **Donald T** in More to Stand Still,
+  The Bounce and The Cobra Effect, **W M** in The Best on Paper and The Winning Bid. Three
+  people carry the surname and every cell can now be keyed to one of them.
+- cab825c: Name **George Loewenstein** in seven Source cells across five misfits: Ask Me When It Hurts,
+  Don't Look, Second Nature and The One in Front of You. The surname is about to be declared,
+  because a constitutional-law candidate cites Karl Loewenstein, and a declared surname may
+  not appear in the index unresolved.
+- 825fe93: Write given names into the seven Origin cells whose surname the house shares between two or more people, so the index resolves each citation to a person rather than to a surname.
+- afa79ee: Narrow Metric Fixation off the multitask result, and mark Holmström & Milgrom as contrast.
+
+  The warrant held "Multitask Principal-Agent Analyses" (1991) as a spine row and described its
+  own piece The Unmeasured as that result "formalised". They are different mechanisms. Goodhart
+  needs a proxy that decays because it is targeted; the multitask result needs only a fixed
+  effort budget split across dimensions of differing measurability, and it binds where every
+  measure is perfectly valid and nobody has mistaken anything for anything.
+
+  The Unmeasured is re-scoped to what it should always have carried: the part of the goal the
+  proxy was never defined over, which a target on the proxy therefore never reaches.
+
+- 3c8deb4: Resolve the two unattributed Johnson cells: **Gerry Johnson** in The Frozen Middle
+  and **Roy D Johnson** in Watermelon Reporting, both verified against the papers'
+  author lines. This is the precondition for declaring the surname, which the index
+  currently collates across five people.
+- 96deae4: Write the given names into three Origin cells carrying Miller, so the surname can be declared: Wendi Miller in Don't Look, Dale Miller in Moral Licensing, Franklin Miller in Treated and Counted.
+- 7e538c9: Restage the boundary between A Reason Too Many and Paid to Stop Caring. The first keeps the norm-to-price line, a penalty entering an incomplete social contract between two parties; the second keeps the self-perception line, one person inferring its own motive from being paid. Each now names the other. Takes the cross-misfit warrant baseline to zero.
+- 4976a65: Extend two warrants from the veterinary case: Lincoln (2010) to The Sort, and the profession's own workforce forecasts to Chasing the Price. No new play and no cast.
+
 ## 0.214.0
 
 ### Minor Changes
