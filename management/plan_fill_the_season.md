@@ -6365,7 +6365,10 @@ way. Recorded so it is not re-derived: **de minimis is held, and what would brin
 the threshold does the harm with nobody aiming at it.**
 
 **The twenty-first sweep needs its own instrument, and the corpus generator has one more pass in it before it
-is spent.
+is spent.** Its remaining unmined seam is the **Restrictions** bounds rather than the No hero remedies: every
+warrant names what its research does not settle, and a bound that several misfits carry independently is a
+contested question the house has repeatedly declined to stage. That is a different question again from _which
+remedy fails_ and from _which seat is uncast_, and it should be run before reaching for a fourth.
 
 **A commissioned candidate exercised the pre-authoring table's fourth row, which nothing in the record shows having
 been used before.** The Playwright brought journalism paid by the word, line, article or photo. The scan said the
@@ -6416,7 +6419,38 @@ row does not go in, and the pass gets smaller rather than the warrant getting we
 **And the running score on commissioned candidates is now one built, one extended.** At this size that is the
 expected shape rather than a disappointment: a plausible candidate arriving from outside the register is more likely
 to be an incumbent in new clothes than a new mechanism, and the two scans that decide it are cheap. Neither pass was
-wasted, since each bought rows the incumbent did not have.** Its remaining unmined seam is the **Restrictions** bounds rather than the No hero remedies: every
-warrant names what its research does not settle, and a bound that several misfits carry independently is a
-contested question the house has repeatedly declined to stage. That is a different question again from _which
-remedy fails_ and from _which seat is uncast_, and it should be run before reaching for a fourth.
+wasted, since each bought rows the incumbent did not have.
+
+**The twenty-first sweep ran the Restrictions seam, and the counting half of the instrument failed outright.** Term
+frequency over the 297 bounds sections is useless: they are written in a house register that swamps every substantive
+word, so the ranking comes back `carries` 252, `constraint` 215, `element` 212. A topic regex was worse than useless,
+matching the boilerplate _packaged and attributed here_ and reporting **297 of 297** on attribution.
+
+**What worked was reading rather than counting.** The house marks each live dispute in bold, so the 47 declared ones
+extract cleanly and are short enough to read in one pass. Read for a recurring **subject** rather than a recurring
+**form**, one shape appears six times independently: _does the clean demonstration hold in the field?_ Marked the Same
+by Anyone on trained raters, In Somebody Else's Words on mock jurors against real juries, They Heard Their Own Effort
+on generalising across listeners, Only One Person Fits on realistic adversaries, The Same Print Twice on ordinary
+casework, and Ready on the First Day on whether the later penalty generalises. Six warrants confessing one limitation,
+and the house had never staged it: `internal validity` 0, `pragmatic trial` 0, `external validity` 1.
+
+Staged as **Proved on Somebody Else**, and the ethics committee is where the misfit is manufactured: heterogeneity
+spends statistical power, a study that exposes participants and answers nothing is unethical rather than merely weak,
+so **the protective act and the unrepresentative act are the same act** and no approval does both. The dedup against
+True of No One turns on a point worth keeping: **half the gap is not about patients at all**, since monitoring and
+adherence support are conditions of the estimate rather than properties of the people, so it survives stipulating
+perfectly uniform patients.
+
+**The instrument note is that a bound is a confession, so the file worth mining is the one where authors record what
+they could not settle.** That is a different question from _which remedy fails_ and from _which seat is uncast_, and it
+found a candidate the other two could not, in the largest field in the house. The seam is now used. **A twenty-second
+sweep needs a fourth question, and nothing in the register names one**, which is the first time that has been true
+since the seat method was invented.
+
+**And this pass repaired a defect the register itself carried.** The paragraph opening _the twenty-first sweep needs
+its own instrument_ had been split by a later append: its closing marker and second half were stranded at the end of
+the file, eighty lines from the sentence they belonged to, where they read as a dangling continuation of an unrelated
+note. It was introduced by the append in the journalism pass and survived the one after it. Nothing catches this:
+prettier reflows without reading, and the canon validator checks the plan's H2 sections rather than its prose. **An
+anchored append is verified against the anchor and never against the paragraph it lands in**, which the house already
+learned once about anchored replacements and has now learned twice.

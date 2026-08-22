@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.298.0",
+  "version": "0.299.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -27481,6 +27481,234 @@
           "kind": "process",
           "title": "Withering",
           "taxonomy": "play_priced_in.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "proved_on_somebody_else",
+      "title": "Proved on Somebody Else",
+      "description": "What makes a demonstration decisive is what makes it unlike the place the answer will be used.",
+      "members": [
+        {
+          "file": "persona_the_clinician.md",
+          "kind": "persona",
+          "title": "The Clinician",
+          "type": "archetype",
+          "taxonomy": "position_prescriber.md"
+        },
+        {
+          "file": "persona_the_committee.md",
+          "kind": "persona",
+          "title": "The Committee",
+          "type": "archetype",
+          "taxonomy": "position_guardian.md"
+        },
+        {
+          "file": "persona_the_excluded.md",
+          "kind": "persona",
+          "title": "The Excluded",
+          "type": "archetype",
+          "taxonomy": "position_outside.md"
+        },
+        {
+          "file": "persona_the_regulator.md",
+          "kind": "persona",
+          "title": "The Regulator",
+          "type": "archetype",
+          "taxonomy": "position_approver.md"
+        },
+        {
+          "file": "persona_the_trialist.md",
+          "kind": "persona",
+          "title": "The Trialist",
+          "type": "archetype",
+          "taxonomy": "position_prover.md"
+        },
+        {
+          "file": "piece_the_absent_trial.md",
+          "kind": "piece",
+          "title": "The Absent Trial",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "piece_the_clean_result.md",
+          "kind": "piece",
+          "title": "The Clean Result",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "piece_the_criteria.md",
+          "kind": "piece",
+          "title": "The Criteria",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "piece_the_distance.md",
+          "kind": "piece",
+          "title": "The Distance",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "piece_the_power.md",
+          "kind": "piece",
+          "title": "The Power",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "piece_the_support.md",
+          "kind": "piece",
+          "title": "The Support",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "pitch_clean_enough_to_be_about_nobody.md",
+          "kind": "pitch",
+          "title": "Clean Enough to Be About Nobody",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "place_the_clinic.md",
+          "kind": "place",
+          "title": "The Clinic",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "place_the_label.md",
+          "kind": "place",
+          "title": "The Label",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "place_the_trial_site.md",
+          "kind": "place",
+          "title": "The Trial Site",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "plan_be_protected_out_of_the_evidence.md",
+          "kind": "plan",
+          "title": "Be Protected Out of the Evidence",
+          "taxonomy": "position_outside.md"
+        },
+        {
+          "file": "plan_do_not_enrol_who_cannot_be_answered_for.md",
+          "kind": "plan",
+          "title": "Do Not Enrol Who Cannot Be Answered For",
+          "taxonomy": "position_guardian.md"
+        },
+        {
+          "file": "plan_licence_on_a_clean_signal.md",
+          "kind": "plan",
+          "title": "Licence on a Clean Signal",
+          "taxonomy": "position_approver.md"
+        },
+        {
+          "file": "plan_remove_everything_that_could_explain_it.md",
+          "kind": "plan",
+          "title": "Remove Everything That Could Explain It",
+          "taxonomy": "position_prover.md"
+        },
+        {
+          "file": "plan_treat_the_person_in_front_of_me.md",
+          "kind": "plan",
+          "title": "Treat the Person in Front of Me",
+          "taxonomy": "position_prescriber.md"
+        },
+        {
+          "file": "play_proved_on_somebody_else.md",
+          "kind": "play",
+          "title": "Proved on Somebody Else"
+        },
+        {
+          "file": "plot_a_decisive_answer_about_a_population_nobody_treats.md",
+          "kind": "plot",
+          "title": "A Decisive Answer About a Population Nobody Treats",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "plot_everything_else_is_what_the_field_is_made_of.md",
+          "kind": "plot",
+          "title": "Everything Else Is What the Field Is Made Of",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "plot_the_label_does_not_say_who.md",
+          "kind": "plot",
+          "title": "The Label Does Not Say Who",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "plot_the_trial_that_would_answer_it.md",
+          "kind": "plot",
+          "title": "The Trial That Would Answer It",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "plot_you_cannot_consent_somebody_to_a_question_you_cannot_answer.md",
+          "kind": "plot",
+          "title": "You Cannot Consent Somebody to a Question You Cannot Answer",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "position_approver.md",
+          "kind": "position",
+          "title": "Approver",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "position_guardian.md",
+          "kind": "position",
+          "title": "Guardian",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "position_outside.md",
+          "kind": "position",
+          "title": "Outside",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "position_prescriber.md",
+          "kind": "position",
+          "title": "Prescriber",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "position_prover.md",
+          "kind": "position",
+          "title": "Prover",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "process_demonstrating.md",
+          "kind": "process",
+          "title": "Demonstrating",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "process_licensing.md",
+          "kind": "process",
+          "title": "Licensing",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "process_narrowing.md",
+          "kind": "process",
+          "title": "Narrowing",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "process_prescribing.md",
+          "kind": "process",
+          "title": "Prescribing",
+          "taxonomy": "play_proved_on_somebody_else.md"
+        },
+        {
+          "file": "process_supporting.md",
+          "kind": "process",
+          "title": "Supporting",
+          "taxonomy": "play_proved_on_somebody_else.md"
         }
       ]
     },
