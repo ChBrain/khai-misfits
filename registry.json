@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.299.0",
+  "version": "0.300.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -8943,6 +8943,234 @@
           "kind": "process",
           "title": "Shuffling the Lists",
           "taxonomy": "play_erased_by_what_divided_them.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "everybody_passed",
+      "title": "Everybody Passed",
+      "description": "The inspection worked, every serious flag converged, and the column stopped telling anyone anything.",
+      "members": [
+        {
+          "file": "persona_the_inspector.md",
+          "kind": "persona",
+          "title": "The Inspector",
+          "type": "archetype",
+          "taxonomy": "position_ranker.md"
+        },
+        {
+          "file": "persona_the_list.md",
+          "kind": "persona",
+          "title": "The List",
+          "type": "archetype",
+          "taxonomy": "position_signal.md"
+        },
+        {
+          "file": "persona_the_owner.md",
+          "kind": "persona",
+          "title": "The Owner",
+          "type": "archetype",
+          "taxonomy": "position_chooser.md"
+        },
+        {
+          "file": "persona_the_registry.md",
+          "kind": "persona",
+          "title": "The Registry",
+          "type": "archetype",
+          "taxonomy": "position_flag.md"
+        },
+        {
+          "file": "persona_the_seafarer.md",
+          "kind": "persona",
+          "title": "The Seafarer",
+          "type": "archetype",
+          "taxonomy": "position_bearer.md"
+        },
+        {
+          "file": "piece_the_converged_column.md",
+          "kind": "piece",
+          "title": "The Converged Column",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "piece_the_detention_rate.md",
+          "kind": "piece",
+          "title": "The Detention Rate",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "piece_the_genuine_link.md",
+          "kind": "piece",
+          "title": "The Genuine Link",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "piece_the_tonnage.md",
+          "kind": "piece",
+          "title": "The Tonnage",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "piece_the_unranked_rest.md",
+          "kind": "piece",
+          "title": "The Unranked Rest",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "piece_the_white_list.md",
+          "kind": "piece",
+          "title": "The White List",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "pitch_the_column_with_no_variance.md",
+          "kind": "pitch",
+          "title": "The Column With No Variance",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "place_the_open_sea.md",
+          "kind": "place",
+          "title": "The Open Sea",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "place_the_port.md",
+          "kind": "place",
+          "title": "The Port",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "place_the_register.md",
+          "kind": "place",
+          "title": "The Register",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "plan_choose_on_what_still_differs.md",
+          "kind": "plan",
+          "title": "Choose on What Still Differs",
+          "taxonomy": "position_chooser.md"
+        },
+        {
+          "file": "plan_inspect_what_can_be_inspected.md",
+          "kind": "plan",
+          "title": "Inspect What Can Be Inspected",
+          "taxonomy": "position_ranker.md"
+        },
+        {
+          "file": "plan_publish_the_one_column.md",
+          "kind": "plan",
+          "title": "Publish the One Column",
+          "taxonomy": "position_signal.md"
+        },
+        {
+          "file": "plan_sail_under_whichever_it_is.md",
+          "kind": "plan",
+          "title": "Sail Under Whichever It Is",
+          "taxonomy": "position_bearer.md"
+        },
+        {
+          "file": "plan_stay_on_the_white_list.md",
+          "kind": "plan",
+          "title": "Stay on the White List",
+          "taxonomy": "position_flag.md"
+        },
+        {
+          "file": "play_everybody_passed.md",
+          "kind": "play",
+          "title": "Everybody Passed"
+        },
+        {
+          "file": "plot_a_column_that_cannot_choose.md",
+          "kind": "plot",
+          "title": "A Column That Cannot Choose",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "plot_so_it_is_decided_by_everything_else.md",
+          "kind": "plot",
+          "title": "So It Is Decided by Everything Else",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "plot_the_column_that_works.md",
+          "kind": "plot",
+          "title": "The Column That Works",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "plot_the_line_nobody_defined.md",
+          "kind": "plot",
+          "title": "The Line Nobody Defined",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "plot_where_the_tonnage_actually_is.md",
+          "kind": "plot",
+          "title": "Where the Tonnage Actually Is",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "position_bearer.md",
+          "kind": "position",
+          "title": "Bearer",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "position_chooser.md",
+          "kind": "position",
+          "title": "Chooser",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "position_flag.md",
+          "kind": "position",
+          "title": "Flag",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "position_ranker.md",
+          "kind": "position",
+          "title": "Ranker",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "position_signal.md",
+          "kind": "position",
+          "title": "Signal",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "process_choosing.md",
+          "kind": "process",
+          "title": "Choosing",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "process_converging.md",
+          "kind": "process",
+          "title": "Converging",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "process_inspecting.md",
+          "kind": "process",
+          "title": "Inspecting",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "process_ranking.md",
+          "kind": "process",
+          "title": "Ranking",
+          "taxonomy": "play_everybody_passed.md"
+        },
+        {
+          "file": "process_sailing.md",
+          "kind": "process",
+          "title": "Sailing",
+          "taxonomy": "play_everybody_passed.md"
         }
       ]
     },
