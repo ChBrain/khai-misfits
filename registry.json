@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.296.0",
+  "version": "0.297.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -10926,6 +10926,234 @@
           "kind": "process",
           "title": "Taking the Base",
           "taxonomy": "play_given_to_everyone.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "gloves_by_friday",
+      "title": "Gloves by Friday",
+      "description": "The control that protects most takes two years; the one that can be issued this week protects least.",
+      "members": [
+        {
+          "file": "persona_the_auditor.md",
+          "kind": "persona",
+          "title": "The Auditor",
+          "type": "archetype",
+          "taxonomy": "position_verifier.md"
+        },
+        {
+          "file": "persona_the_board.md",
+          "kind": "persona",
+          "title": "The Board",
+          "type": "archetype",
+          "taxonomy": "position_principal.md"
+        },
+        {
+          "file": "persona_the_coordinator.md",
+          "kind": "persona",
+          "title": "The Coordinator",
+          "type": "archetype",
+          "taxonomy": "position_fixer.md"
+        },
+        {
+          "file": "persona_the_designer.md",
+          "kind": "persona",
+          "title": "The Designer",
+          "type": "archetype",
+          "taxonomy": "position_origin.md"
+        },
+        {
+          "file": "persona_the_worker.md",
+          "kind": "persona",
+          "title": "The Worker",
+          "type": "archetype",
+          "taxonomy": "position_bearer.md"
+        },
+        {
+          "file": "piece_the_block.md",
+          "kind": "piece",
+          "title": "The Block",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "piece_the_ladder.md",
+          "kind": "piece",
+          "title": "The Ladder",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "piece_the_lead_time.md",
+          "kind": "piece",
+          "title": "The Lead Time",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "piece_the_reach.md",
+          "kind": "piece",
+          "title": "The Reach",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "piece_the_residue.md",
+          "kind": "piece",
+          "title": "The Residue",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "piece_the_tally.md",
+          "kind": "piece",
+          "title": "The Tally",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "pitch_the_rung_within_reach.md",
+          "kind": "pitch",
+          "title": "The Rung Within Reach",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "place_the_action_log.md",
+          "kind": "place",
+          "title": "The Action Log",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "place_the_drawing_board.md",
+          "kind": "place",
+          "title": "The Drawing Board",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "place_the_floor.md",
+          "kind": "place",
+          "title": "The Floor",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "plan_be_seen_to_have_answered.md",
+          "kind": "plan",
+          "title": "Be Seen to Have Answered",
+          "taxonomy": "position_principal.md"
+        },
+        {
+          "file": "plan_count_what_can_be_counted.md",
+          "kind": "plan",
+          "title": "Count What Can Be Counted",
+          "taxonomy": "position_verifier.md"
+        },
+        {
+          "file": "plan_do_it_right_every_time.md",
+          "kind": "plan",
+          "title": "Do It Right Every Time",
+          "taxonomy": "position_bearer.md"
+        },
+        {
+          "file": "plan_put_something_in_place_this_week.md",
+          "kind": "plan",
+          "title": "Put Something in Place This Week",
+          "taxonomy": "position_fixer.md"
+        },
+        {
+          "file": "plan_settle_it_at_the_drawing_board.md",
+          "kind": "plan",
+          "title": "Settle It at the Drawing Board",
+          "taxonomy": "position_origin.md"
+        },
+        {
+          "file": "play_gloves_by_friday.md",
+          "kind": "play",
+          "title": "Gloves by Friday"
+        },
+        {
+          "file": "plot_counted_as_closed.md",
+          "kind": "plot",
+          "title": "Counted as Closed",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "plot_nobody_in_the_building_can_do_that.md",
+          "kind": "plot",
+          "title": "Nobody in the Building Can Do That",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "plot_something_happened_on_tuesday.md",
+          "kind": "plot",
+          "title": "Something Happened on Tuesday",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "plot_the_ladder_says_eliminate.md",
+          "kind": "plot",
+          "title": "The Ladder Says Eliminate",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "plot_the_two_rungs_that_fit.md",
+          "kind": "plot",
+          "title": "The Two Rungs That Fit",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "position_bearer.md",
+          "kind": "position",
+          "title": "Bearer",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "position_fixer.md",
+          "kind": "position",
+          "title": "Fixer",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "position_origin.md",
+          "kind": "position",
+          "title": "Origin",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "position_principal.md",
+          "kind": "position",
+          "title": "Principal",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "position_verifier.md",
+          "kind": "position",
+          "title": "Verifier",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "process_assessing.md",
+          "kind": "process",
+          "title": "Assessing",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "process_costing.md",
+          "kind": "process",
+          "title": "Costing",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "process_issuing.md",
+          "kind": "process",
+          "title": "Issuing",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "process_ranking.md",
+          "kind": "process",
+          "title": "Ranking",
+          "taxonomy": "play_gloves_by_friday.md"
+        },
+        {
+          "file": "process_sustaining.md",
+          "kind": "process",
+          "title": "Sustaining",
+          "taxonomy": "play_gloves_by_friday.md"
         }
       ]
     },
