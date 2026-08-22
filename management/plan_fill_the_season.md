@@ -6365,7 +6365,35 @@ way. Recorded so it is not re-derived: **de minimis is held, and what would brin
 the threshold does the harm with nobody aiming at it.**
 
 **The twenty-first sweep needs its own instrument, and the corpus generator has one more pass in it before it
-is spent.** Its remaining unmined seam is the **Restrictions** bounds rather than the No hero remedies: every
+is spent.
+
+**A commissioned candidate exercised the pre-authoring table's fourth row, which nothing in the record shows having
+been used before.** The Playwright brought journalism paid by the word, line, article or photo. The scan said the
+domain was empty (`journalis`, `newsroom`, `freelance`, `piece rate`, `pay for performance` all zero across 297) and
+the mechanism was **not**: Metric Fixation held Holmström & Milgrom's multitask paper as a spine row and described
+its own piece The Unmeasured as that result formalised. So the move was neither _new misfit_ nor _Origin row_ but
+**narrow the incumbent, then build**, and the shared-work wall made it compulsory rather than tidy, since the new
+misfit's spine was the annexed work and `npm test` would have failed on it.
+
+The annexation test is worth keeping because the separation is unusually clean in both directions. Set Goodhart's
+engine to zero, stipulating every measure flawlessly valid, nothing decayed, nothing gamed and nobody mistaking the
+measure for the goal, and the multitask harm is untouched: **there is no proxy in it.** Nobody thinks word count is
+quality, least of all the payer, who names it because it is the only term enforceable against somebody they cannot
+watch. Set the multitask engine to zero, stipulating an unlimited effort budget, and Metric Fixation stands whole.
+Two mechanisms that had been sharing one row for as long as the row existed.
+
+**And the folk version of the candidate was wrong in a way the lookup corrected.** _Pays for quantity not quality_ is
+not the law. The randomised trial at a Kenyan outlet moved writers from a piece rate to pay per click and **published
+articles fell 74 per cent** while pageviews per article tripled and coverage left local news: quantity collapsed. The
+law is that a contract buys the dimension it can name and the rest is funded from the residue of a finite day, so
+moving the dial **relocates** the loss rather than lifting it. Staged as **Nobody Paid for the Cut**, whose sharpest
+term is that verification pays zero and cutting pays less than zero, so the most reliable improvement to a piece of
+writing is the one act the arrangement charges the writer for making.
+
+**The instrument note: a candidate that arrives from outside still needs the house scan run in both halves.** The
+domain scan was clean and would have licensed building immediately; it was the mechanism scan that found the
+incumbent. A domain nobody has staged is not evidence that its mechanism is free, and the two are cheap to confuse
+because the first is the one an author naturally runs.** Its remaining unmined seam is the **Restrictions** bounds rather than the No hero remedies: every
 warrant names what its research does not settle, and a bound that several misfits carry independently is a
 contested question the house has repeatedly declined to stage. That is a different question again from _which
 remedy fails_ and from _which seat is uncast_, and it should be run before reaching for a fourth.
