@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-[Metric Fixation](play_metric_fixation.md). The part of the goal no column counts, spent to make the number.
+[Metric Fixation](play_metric_fixation.md). The part of the goal no column counts, and that a target on the proxy therefore never reaches.
 
 ## Owner
 
@@ -26,8 +26,8 @@ The care taken off the slow case to clear the fast one, the teaching dropped for
 
 ## Load Bearing
 
-Without it the goal and the proxy stay close, and hitting one roughly serves the other.
-With it the two come apart on purpose: a target on one dimension is met by drawing effort off every dimension it does not measure, and the goal lived in those other dimensions too. The Unmeasured is the goal's silent account, drawn down to fund the visible one, and it is silent precisely because measuring it was the hard part the proxy was invented to avoid.
+Without it the proxy covers enough of the goal that hitting one roughly serves the other.
+With it the two come apart on purpose: the stand-in was only ever defined over the countable part, so a target on it can be met entire while the rest of the goal goes unserved, and that rest is silent precisely because measuring it was the hard part the proxy was invented to avoid. The Unmeasured is the goal's silent account, and it never nets against the number because nothing ever put the two on one page.
 
 ## Apparent
 
@@ -36,5 +36,5 @@ It does not appear, which is the point. There is no column for it, no line that 
 
 ## Yearbook
 
-Spent by [the hitter](persona_the_hitter.md), counted by no one.
-It is the true cost of [the made number](piece_the_made_number.md), and it never nets against the number because the two are kept on different books: one measured and rewarded, one unmeasured and therefore, officially, free.
+Left outside the definition [the hitter](persona_the_hitter.md) is working to, and counted by no one.
+It is the true cost of [the made number](piece_the_made_number.md), kept on a different book: one measured and rewarded, one unmeasured and therefore, officially, free.
