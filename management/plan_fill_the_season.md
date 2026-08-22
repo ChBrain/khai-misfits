@@ -6393,7 +6393,30 @@ writing is the one act the arrangement charges the writer for making.
 **The instrument note: a candidate that arrives from outside still needs the house scan run in both halves.** The
 domain scan was clean and would have licensed building immediately; it was the mechanism scan that found the
 incumbent. A domain nobody has staged is not evidence that its mechanism is free, and the two are cheap to confuse
-because the first is the one an author naturally runs.** Its remaining unmined seam is the **Restrictions** bounds rather than the No hero remedies: every
+because the first is the one an author naturally runs.
+
+**A second commissioned candidate landed on an incumbent, and this one did not survive it.** The Playwright brought
+public posting, trolls against reasonable critics, taking it personally, blocking, and the bubble that follows. The
+domain scan was clean again. The mechanism scan found **Once Bitten**, whose warrant already stages the case in its
+own words: _a person met once at their worst is disapproved of ever after because the meeting is never repeated._
+Set its engine to zero, stipulating forced sampling, and the candidate goes silent, because a block that does not
+stop future contact is corrected the next time that person posts reasonably. Once Bitten's own bound names that
+switch-off condition verbatim. **Origin row, not a misfit**, and the research still bought two rows the incumbent
+lacked: the draw need not be bad, only read that way, and the flinch as a button admits no accidental second meeting.
+
+**The instrument that failed is worth more than the two that worked.** A first search returned, in its synthesised
+summary, that the Spot the Troll Quiz made participants **worse** at identifying genuine accounts, a criterion shift
+rather than better discrimination. That would have been the best row of the three and a no-hero of unusual quality.
+It could not be confirmed: PubMed, PMC, Oxford Academic, ProQuest and the Groningen repository are all blocked from
+here, and every later search returned only the headline finding, with one explicitly declining to confirm the detail.
+The row was dropped. **A search engine's synthesised summary is a lead and not a source**, and the tell is that it
+answers the question in the question's own words. Where a claim is load-bearing and only a summary supports it, the
+row does not go in, and the pass gets smaller rather than the warrant getting weaker.
+
+**And the running score on commissioned candidates is now one built, one extended.** At this size that is the
+expected shape rather than a disappointment: a plausible candidate arriving from outside the register is more likely
+to be an incumbent in new clothes than a new mechanism, and the two scans that decide it are cheap. Neither pass was
+wasted, since each bought rows the incumbent did not have.** Its remaining unmined seam is the **Restrictions** bounds rather than the No hero remedies: every
 warrant names what its research does not settle, and a bound that several misfits carry independently is a
 contested question the house has repeatedly declined to stage. That is a different question again from _which
 remedy fails_ and from _which seat is uncast_, and it should be run before reaching for a fourth.
