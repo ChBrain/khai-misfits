@@ -6519,3 +6519,45 @@ and see whether anything is still lost.
 
 **Two isolates down, one scanned and held.** The Loyalty Trap stays on the list with its reason recorded: unnamed, but
 its neighbourhood is occupied, so the next author should expect an Origin row rather than a misfit if they open it.
+
+**The twenty-fourth sweep was commissioned, not swept, and the field it was pointed at was education.** The
+Playwright asked what the house holds there. The cluster is real and scattered across fields rather than gathered in
+one: Rising to Unfit, The Head Start, A Reason Too Many, Paid to Stop Caring, Metric Fixation, Ready on the First Day.
+Two gaps were scanned on the Playwright's authority and one of them was empty **and had a mechanism in it**:
+`class size` 0, `pupil-teacher` 0, `student-teacher ratio` 0, `teacher quality` 0, `teacher shortage` 0,
+`teaching to the middle` 0, `pedagog` 0, `lesson plan` 0. That produced **Nobody Was Left Out**.
+
+**The teacher's own position is the other gap and it stays open and empty-handed.** `pedagog` 0 and `lesson plan` 0
+say nobody has staged the work of teaching from the front of the room, and no mechanism was found there. An empty
+region is not a candidate. It is recorded here so the next author does not re-derive the emptiness and mistake it for
+an opportunity, which is the same caution the twenty-third sweep wrote about the High-Water Mark region.
+
+**The dedup that decided Nobody Was Left Out ran against five incumbents and the nearest was not the obvious one.**
+The obvious neighbours were Proved on Somebody Else and The Dead Sea Effect, and neither is close. The actual nearest
+is **The Driest Wells**, which already holds Le Grand's finding that universal provision is drawn on further by the
+advantaged, and the separation is worth carrying because it is not about domain at all: Le Grand's mechanism is
+**differential take-up** of a universal service, and here the take-up was uniform and full, because a class of twenty
+is consumed by whoever is enrolled. What differed was not the service delivered but **the input the service had to be
+built out of**. Switch off Tudor Hart's engine, stipulating no standing inverse relation between need and provision,
+and this stands, because the record says the gradient began at approximately zero: under four per cent of early-grade
+teachers lacked a full credential in even the state's hardest-served schools before the programme, and more than
+twenty-one per cent did by its third year against four point three in the wealthiest. **The reform did not reveal the
+gradient, it made it, out of equal treatment.**
+
+**And All at Once was the closest call, which is the test worth recording.** A cache stampede and a state hiring at
+once are the same picture: synchronised demand on a fixed shared resource. Switching off synchronisation looked
+fatal, since phasing the scheme over a decade would have relieved the shortage. But phasing changes the **size** of
+the shortfall and not **who bears it**, because a shortage rations by order rather than by margin, and the finding
+here is the incidence. So the quantity is not the rate at which the claim arrives, it is the **universality** of the
+claim, declared as `entitlement-universality`. The general shape: where a candidate and an incumbent share a picture,
+ask which of the two numbers in it the finding is about, the size or the distribution.
+
+**The Krueger cell is a latent trap and is recorded rather than repaired.** Scanning for the class-size sources found
+`Krueger` at one index key, which reads as the cheapest kind of hit, and it is the Campbell case again: the key is
+bare and carries **three people**, Alan B in Larger in the Looking, Joachim I in The Skill to See It and Anne O in
+Rent Seeking. Nothing fails, because an undeclared surname collates and can only raise a spurious overlap, and the
+misfit avoided the question entirely by keying its live-dispute row on `Whether smaller classes are worth it`, which
+is the house's own convention for that row. But the cells are bare, so the pass is cells-first across three misfits
+and then a declaration, which is a governance job of its own and belongs beside the bare `Price` cell in The Head
+Start. **The scan pattern also undercounts**: `grep -c "^| \*\*Krueger\*\* "` returns one because continuation rows
+key on the arrow, so the count answers whether a surname is taken and never how many people are under it.
