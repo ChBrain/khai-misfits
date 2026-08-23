@@ -6694,3 +6694,45 @@ Rent Seeking, and the bare `Price` cell in The Head Start, are still open and ar
 did not go looking for scholars cited nowhere in a table at all, and there was one: **Just Keeping Their Feet named
 Dallard in its frontmatter and in no Origin row**, so the fix there was an addition rather than a move. Where a
 warrant's `source:` names somebody the table does not, the table is the thing that is wrong.
+
+**The twenty-seventh pass was commissioned, and the region it was pointed at was the emptiest the house has had.** The
+Playwright asked what the house holds on animals, and on dogs. On wild animals it holds a great deal: thirty-four
+misfits in Ecology, evolution, and public health, all of them wild populations, disease or ecosystems. On **domestic**
+animals it held nothing at all: `domestication` 0, `inbreeding` 0, `founder effect` 0, `studbook` 0, `popular sire` 0,
+`selective breeding` 0, `puppy` 0, `kennel` 0, `horse` 0. Every dog-shaped hit in the house was a false one, the
+cry-wolf effect in Alarm Fatigue and the dogpile in All at Once. That produced **The One Everybody Used**.
+
+**The nearest incumbent was not in the region and was found by shape rather than by subject.** The obvious neighbours
+were Bred for the Ark and Information Cascade, and neither is closest. **Nothing Left to Pool** is, because it stages
+the Hirshleifer effect: better public information about individual risk destroys the ability to pool it. That is the
+same family, **better information destroying something that depended on not knowing**, and the house now holds two of
+them. They separate on the quantity: there it is how precisely an individual's **risk** can be measured, here it is
+how precisely the **best individual** can be identified, and stipulating no pool at all leaves this one untouched.
+Worth carrying: **when a candidate's engine is information, scan by shape and not by domain**, because the sibling will
+be in a literature that shares no vocabulary with it.
+
+**And the Information Cascade test is the one that decided the play's centre.** A popular sire looks exactly like
+herding, and it is not. Switch off the cascade entirely, stipulating that no breeder can observe any other's choice,
+that reputation carries nothing and that every judgement comes from the published evidence alone, and **they still
+converge**, because the evidence is public and correct and there is one best answer in it. A hundred people who never
+speak arrive where a hundred imitators would and arrive faster. So the play cannot be corrected by telling anybody to
+think for themselves: thinking for themselves is what produces it. That is the general shape to keep: **a convergence
+that survives the removal of all observation is not herding**, and dedup'ing it against a cascade misfit would have
+been the error.
+
+**The eight declarations are still owed and the debt is now at its cheapest.** The cells-first pass landed with the
+Origin Source repair, so `Fisher`, `Kravitz`, `Meissner`, `Huber`, `Gordon`, `Friedman`, `Thompson` and `Hicks` all
+carry named cells on every occurrence and can be declared in one governance pass owing nothing: probed at 54 declared
+surnames with **0 unresolved, 0 unreachable forms, 0 shared works**. `Krueger`, three people bare, and the bare `Price`
+cell in The Head Start are the remaining ones and are the same shape.
+
+**One source was declined on the merits and the reason is worth recording, because it looks like avoidance.** The
+obvious review for the domestic-animal region is Farrell, Schoenebeck, Wiener, Clements and Summers (2015), which
+carries the count of recognised breeds and inherited disorders. Citing it costs **three** namesakes at once, `Farrell`
+against Joseph Farrell in Path Dependence, `Wiener` against Earl Wiener in The Irony of Automation, `Summers` against
+the Summers in Nothing to Lose. That is not why it was declined. It was declined because the facts it would have
+carried are already carried better by Lewis and colleagues on the same register, and because the concrete disease case
+it would have anchored, a recessive at high frequency in one breed, could not be traced to a source specific enough to
+cite: the search that offered it answered in the question's own words, which is the tell this register already
+records. **A row that cannot be traced is dropped whatever it would have added**, and the namesake cost is a reason to
+check the merits rather than a reason on its own.

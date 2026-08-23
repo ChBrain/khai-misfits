@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.304.0",
+  "version": "0.305.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -50914,6 +50914,253 @@
           "kind": "process",
           "title": "Staffing",
           "taxonomy": "play_the_ninth_woman.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_one_everybody_used",
+      "title": "The One Everybody Used",
+      "description": "Everyone breeds to the best-documented animal: the better he can be identified, the fewer ancestors the breed has.",
+      "members": [
+        {
+          "file": "persona_the_breeder.md",
+          "kind": "persona",
+          "title": "The Breeder",
+          "type": "archetype",
+          "taxonomy": "position_chooser.md"
+        },
+        {
+          "file": "persona_the_health_scheme.md",
+          "kind": "persona",
+          "title": "The Health Scheme",
+          "type": "archetype",
+          "taxonomy": "position_evaluation.md"
+        },
+        {
+          "file": "persona_the_outcross.md",
+          "kind": "persona",
+          "title": "The Outcross",
+          "type": "archetype",
+          "taxonomy": "position_reopening.md"
+        },
+        {
+          "file": "persona_the_sire.md",
+          "kind": "persona",
+          "title": "The Sire",
+          "type": "archetype",
+          "taxonomy": "position_chosen.md"
+        },
+        {
+          "file": "persona_the_studbook.md",
+          "kind": "persona",
+          "title": "The Studbook",
+          "type": "archetype",
+          "taxonomy": "position_closed.md"
+        },
+        {
+          "file": "persona_the_untested_variant.md",
+          "kind": "persona",
+          "title": "The Untested Variant",
+          "type": "archetype",
+          "taxonomy": "position_unseen.md"
+        },
+        {
+          "file": "piece_the_carried_variant.md",
+          "kind": "piece",
+          "title": "The Carried Variant",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "piece_the_census_count.md",
+          "kind": "piece",
+          "title": "The Census Count",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "piece_the_closed_register.md",
+          "kind": "piece",
+          "title": "The Closed Register",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "piece_the_cost_of_reopening.md",
+          "kind": "piece",
+          "title": "The Cost of Reopening",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "piece_the_effective_number.md",
+          "kind": "piece",
+          "title": "The Effective Number",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "piece_the_published_result.md",
+          "kind": "piece",
+          "title": "The Published Result",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "pitch_nobody_chose_badly.md",
+          "kind": "pitch",
+          "title": "Nobody Chose Badly",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "place_the_litter.md",
+          "kind": "place",
+          "title": "The Litter",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "place_the_register.md",
+          "kind": "place",
+          "title": "The Register",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "place_the_ring.md",
+          "kind": "place",
+          "title": "The Ring",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "plan_admit_only_the_registered.md",
+          "kind": "plan",
+          "title": "Admit Only the Registered",
+          "taxonomy": "position_closed.md"
+        },
+        {
+          "file": "plan_be_available_to_everyone_who_asks.md",
+          "kind": "plan",
+          "title": "Be Available to Everyone Who Asks",
+          "taxonomy": "position_chosen.md"
+        },
+        {
+          "file": "plan_be_carried_without_being_looked_for.md",
+          "kind": "plan",
+          "title": "Be Carried Without Being Looked For",
+          "taxonomy": "position_unseen.md"
+        },
+        {
+          "file": "plan_bring_something_in_from_outside.md",
+          "kind": "plan",
+          "title": "Bring Something In From Outside",
+          "taxonomy": "position_reopening.md"
+        },
+        {
+          "file": "plan_tell_them_which_one_is_best.md",
+          "kind": "plan",
+          "title": "Tell Them Which One Is Best",
+          "taxonomy": "position_evaluation.md"
+        },
+        {
+          "file": "plan_use_the_best_one_i_can_find.md",
+          "kind": "plan",
+          "title": "Use the Best One I Can Find",
+          "taxonomy": "position_chooser.md"
+        },
+        {
+          "file": "play_the_one_everybody_used.md",
+          "kind": "play",
+          "title": "The One Everybody Used"
+        },
+        {
+          "file": "plot_fifty_ancestors.md",
+          "kind": "plot",
+          "title": "Fifty Ancestors",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "plot_now_you_can_tell_which_one_is_best.md",
+          "kind": "plot",
+          "title": "Now You Can Tell Which One Is Best",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "plot_only_the_registered.md",
+          "kind": "plot",
+          "title": "Only the Registered",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "plot_so_everybody_used_him.md",
+          "kind": "plot",
+          "title": "So Everybody Used Him",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "plot_two_carriers_meet.md",
+          "kind": "plot",
+          "title": "Two Carriers Meet",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "position_chooser.md",
+          "kind": "position",
+          "title": "Chooser",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "position_chosen.md",
+          "kind": "position",
+          "title": "Chosen",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "position_closed.md",
+          "kind": "position",
+          "title": "Closed",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "position_evaluation.md",
+          "kind": "position",
+          "title": "Evaluation",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "position_reopening.md",
+          "kind": "position",
+          "title": "Reopening",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "position_unseen.md",
+          "kind": "position",
+          "title": "Unseen",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "process_closing.md",
+          "kind": "process",
+          "title": "Closing",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "process_concentrating.md",
+          "kind": "process",
+          "title": "Concentrating",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "process_converging.md",
+          "kind": "process",
+          "title": "Converging",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "process_publishing.md",
+          "kind": "process",
+          "title": "Publishing",
+          "taxonomy": "play_the_one_everybody_used.md"
+        },
+        {
+          "file": "process_surfacing.md",
+          "kind": "process",
+          "title": "Surfacing",
+          "taxonomy": "play_the_one_everybody_used.md"
         }
       ]
     },
