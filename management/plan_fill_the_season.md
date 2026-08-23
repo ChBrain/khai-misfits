@@ -6648,3 +6648,49 @@ and its solution safer left to the future; Carl Düsing of Jena gave the mathema
 Edwards traced and translated it in 2000. Fisher's own addition is real and is what makes the account exact, that the
 balance is struck in **investment at the age of independence** rather than in numbers. The warrant credits all four
 rather than the name, which is the Origin table doing the job it exists for.
+
+**The fifth wall-shaped defect is not a wall at all: the index only sees the Source column, and a scholar written
+anywhere else is invisible to it.** The shared-work check runs off `docs/SCIENCE.md`, which is built from the **first
+cell** of each Origin row. A warrant whose Source cells are descriptive role labels, `The mechanism`, `The founding
+study`, `The measured hole`, contributes **no scholar at all**, however many it cites in the Key Work column. **22 of
+304 misfits were in that state.** Twelve of them correctly: statutes, cases, physical constants, industry standards,
+which name no scholar because none is owed. Ten of them named real people the wall could not see, and the count was
+worse than the frontmatter suggested, because the frontmatter names the spine and the table carried more: The Next One
+Pays cited Galanter, Wheeler and colleagues, and Songer and colleagues, all three invisible; The Youngest in the Room
+cited Barnsley and colleagues and Layton and colleagues; Sorry Is Evidence cited Vincent and colleagues and McMichael
+and colleagues; I Would Know Him Anywhere cited three groups. **Another misfit could have taken Galanter (1974) or
+Frankham (2008) as its spine and `npm test` would have passed.**
+
+The repair is mechanical and is now done: the author moves into the Source cell, the work stays in the Key Work cell,
+which is the house's own dominant convention and what every recent warrant already does. The index went from 1901 rows
+to **1943**, and the count of misfits contributing no scholar went from 22 to **12**, which is the correct terminal
+state because those twelve owe none.
+
+**The diagnostic is one command and belongs beside the four flags, though it is not one of them yet:**
+
+```
+node -e 'const fs=require("fs"),s=fs.readFileSync("docs/SCIENCE.md","utf8"),c=new Set();for(const m of s.matchAll(/^\| (?:\*\*[^|]*\*\*|↳) \| `([a-z0-9_]+)`/gm))c.add(m[1]);console.log(fs.readdirSync("misfits").filter(d=>!c.has(d)))'
+```
+
+It cannot be a wall, because the twelve are legitimate and there is no computable test for _does this subject owe a
+scholar_. It is a list to read, like `--families`.
+
+**And the pass proved the Krueger undercount, which had been recorded one sweep earlier and not believed hard enough.**
+The register already noted that `grep -c "^| \*\*<Surname>\*\* "` counts **index keys** and not people, because
+continuation rows key on the arrow. Scanning the thirty-two surnames this repair would add reported eight taken. That
+was right about the keys and wrong about the cost. **Declaring the eight locally and reading `--namesakes` turned up
+three more people the scan could not have seen**: a third **Friedman**, Jerome in Overfitting, beside Lawrence M and
+Milton; a third **Gordon**, David B in Time Inconsistency, beside H Scott and Sanford C; a third **Thompson**, Matthew
+P in Kept from Burning, already written in and merely undeclared. Two of those owed cells and one owed only a form.
+**The declaration is the instrument. The scan orders the work and never prices it.**
+
+**So the state after this pass is the cheapest one a namesake debt can be in.** Eight surnames now carry named cells on
+every occurrence, so `Fisher`, `Kravitz`, `Meissner`, `Huber`, `Gordon`, `Friedman`, `Thompson` and `Hicks` can be
+declared in a governance pass that owes nothing: probed locally at 54 declared surnames, **0 unresolved, 0 unreachable
+forms, 0 shared works**. The `Krueger` debt, three people bare across Larger in the Looking, The Skill to See It and
+Rent Seeking, and the bare `Price` cell in The Head Start, are still open and are the same shape.
+
+**One thing the repair did not do, and should be said plainly.** It moved the scholars the warrants already cited. It
+did not go looking for scholars cited nowhere in a table at all, and there was one: **Just Keeping Their Feet named
+Dallard in its frontmatter and in no Origin row**, so the fix there was an addition rather than a move. Where a
+warrant's `source:` names somebody the table does not, the table is the thing that is wrong.
