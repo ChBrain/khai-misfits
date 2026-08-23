@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.305.0",
+  "version": "0.306.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -47273,6 +47273,253 @@
           "kind": "process",
           "title": "Shedding",
           "taxonomy": "play_the_last_layer.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_last_one_to_answer",
+      "title": "The Last One to Answer",
+      "description": "Every component is fast and the service is slow, because one request waits on all of them and only the slowest counts.",
+      "members": [
+        {
+          "file": "persona_the_average.md",
+          "kind": "persona",
+          "title": "The Average",
+          "type": "archetype",
+          "taxonomy": "position_reported.md"
+        },
+        {
+          "file": "persona_the_compaction.md",
+          "kind": "persona",
+          "title": "The Compaction",
+          "type": "archetype",
+          "taxonomy": "position_interruption.md"
+        },
+        {
+          "file": "persona_the_hedge.md",
+          "kind": "persona",
+          "title": "The Hedge",
+          "type": "archetype",
+          "taxonomy": "position_duplicate.md"
+        },
+        {
+          "file": "persona_the_last_reply.md",
+          "kind": "persona",
+          "title": "The Last Reply",
+          "type": "archetype",
+          "taxonomy": "position_pacer.md"
+        },
+        {
+          "file": "persona_the_request.md",
+          "kind": "persona",
+          "title": "The Request",
+          "type": "archetype",
+          "taxonomy": "position_assembler.md"
+        },
+        {
+          "file": "persona_the_server.md",
+          "kind": "persona",
+          "title": "The Server",
+          "type": "archetype",
+          "taxonomy": "position_component.md"
+        },
+        {
+          "file": "piece_the_arithmetic.md",
+          "kind": "piece",
+          "title": "The Arithmetic",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "piece_the_extra_two_per_cent.md",
+          "kind": "piece",
+          "title": "The Extra Two Per Cent",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "piece_the_fan_out.md",
+          "kind": "piece",
+          "title": "The Fan-Out",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "piece_the_legitimate_pause.md",
+          "kind": "piece",
+          "title": "The Legitimate Pause",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "piece_the_ninety_ninth_percentile.md",
+          "kind": "piece",
+          "title": "The Ninety-Ninth Percentile",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "piece_the_tail.md",
+          "kind": "piece",
+          "title": "The Tail",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "pitch_every_one_of_them_was_fast.md",
+          "kind": "pitch",
+          "title": "Every One of Them Was Fast",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "place_the_dashboard.md",
+          "kind": "place",
+          "title": "The Dashboard",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "place_the_fleet.md",
+          "kind": "place",
+          "title": "The Fleet",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "place_the_wait.md",
+          "kind": "place",
+          "title": "The Wait",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "plan_answer_in_ten_milliseconds.md",
+          "kind": "plan",
+          "title": "Answer in Ten Milliseconds",
+          "taxonomy": "position_component.md"
+        },
+        {
+          "file": "plan_ask_twice_and_take_the_first.md",
+          "kind": "plan",
+          "title": "Ask Twice and Take the First",
+          "taxonomy": "position_duplicate.md"
+        },
+        {
+          "file": "plan_be_the_number_everybody_looks_at.md",
+          "kind": "plan",
+          "title": "Be the Number Everybody Looks At",
+          "taxonomy": "position_reported.md"
+        },
+        {
+          "file": "plan_do_the_necessary_work_now.md",
+          "kind": "plan",
+          "title": "Do the Necessary Work Now",
+          "taxonomy": "position_interruption.md"
+        },
+        {
+          "file": "plan_set_the_time_by_myself_alone.md",
+          "kind": "plan",
+          "title": "Set the Time by Myself Alone",
+          "taxonomy": "position_pacer.md"
+        },
+        {
+          "file": "plan_wait_for_all_of_them.md",
+          "kind": "plan",
+          "title": "Wait for All of Them",
+          "taxonomy": "position_assembler.md"
+        },
+        {
+          "file": "play_the_last_one_to_answer.md",
+          "kind": "play",
+          "title": "The Last One to Answer"
+        },
+        {
+          "file": "plot_ask_twice.md",
+          "kind": "plot",
+          "title": "Ask Twice",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "plot_nothing_went_wrong_anywhere.md",
+          "kind": "plot",
+          "title": "Nothing Went Wrong Anywhere",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "plot_one_in_a_hundred_every_hundred.md",
+          "kind": "plot",
+          "title": "One in a Hundred, Every Hundred",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "plot_ten_milliseconds_almost_always.md",
+          "kind": "plot",
+          "title": "Ten Milliseconds, Almost Always",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "plot_the_average_was_fine.md",
+          "kind": "plot",
+          "title": "The Average Was Fine",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "position_assembler.md",
+          "kind": "position",
+          "title": "Assembler",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "position_component.md",
+          "kind": "position",
+          "title": "Component",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "position_duplicate.md",
+          "kind": "position",
+          "title": "Duplicate",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "position_interruption.md",
+          "kind": "position",
+          "title": "Interruption",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "position_pacer.md",
+          "kind": "position",
+          "title": "Pacer",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "position_reported.md",
+          "kind": "position",
+          "title": "Reported",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "process_amplifying.md",
+          "kind": "process",
+          "title": "Amplifying",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "process_answering.md",
+          "kind": "process",
+          "title": "Answering",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "process_collecting.md",
+          "kind": "process",
+          "title": "Collecting",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "process_hedging.md",
+          "kind": "process",
+          "title": "Hedging",
+          "taxonomy": "play_the_last_one_to_answer.md"
+        },
+        {
+          "file": "process_reporting.md",
+          "kind": "process",
+          "title": "Reporting",
+          "taxonomy": "play_the_last_one_to_answer.md"
         }
       ]
     },
