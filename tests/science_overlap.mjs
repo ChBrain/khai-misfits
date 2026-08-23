@@ -13,8 +13,21 @@
 // across different works is expected and fine, and is most of the index. What
 // is not fine is the same (scholar, work) carrying the spine of two misfits.
 //
-// Two exits keep the rule honest, and both are configured rather than judged,
-// in `workPolicy` in khai-guard.config.json:
+// This is the same question every khai surface resting on a body of research
+// has to ask, so from @chbrain/khai-tests 0.2.6 the kit owns the shape-agnostic
+// half of the answer: `loadWorkPolicy`, `normaliseWork`, `isContrast`,
+// `collectUnits`, `findOverlaps`, `pairsOf`, `checkCandidate`, `scanSurname`,
+// `findUnresolvedNamesakes`, `scholarMatches` and `workMatches` all run off the
+// same collector the science build itself runs on (docs/SCIENCE.md is a
+// render of it, not the source of truth), for a collection house exactly as
+// for the engine monorepo. This module now delegates every one of those to the
+// kit rather than reimplementing them, and keeps only what is genuinely
+// house-specific: the neighbours wall, the axis/opposition wall, the canon
+// family finder, the register-slate check, and the REFERENCES.md concordance
+// build, none of which the kit has any way to know about.
+//
+// Two exits keep the shared-work rule honest, and both are configured rather
+// than judged, in `workPolicy` in khai-guard.config.json:
 //
 //   canon    -- a field's foundational work, which many misfits may share.
 //               Kahneman & Tversky on prospect theory, Forrester and Sterman on
@@ -25,11 +38,11 @@
 //               only."); `contrastMarkers` turns that convention into a term the
 //               check can read.
 //
-// Source of truth is docs/SCIENCE.md, the generated forward map (science ->
-// misfit) that `khai-tests science build` inverts out of every misfit's
-// REFERENCE.md Origin table. Reading the index rather than the 246 files means
-// this check and the per-misfit warrant cannot drift apart, and the drift gate
-// in science-drift.test.mjs already holds the index to a fresh build.
+// Source of truth is the same collector `khai-tests science build` runs to
+// produce docs/SCIENCE.md, the generated forward map (science -> misfit).
+// Reading off that collector rather than the rendered markdown means this
+// check and the per-misfit warrant cannot drift apart, and the drift gate in
+// science-drift.test.mjs already holds the rendered index to a fresh build.
 //
 // Runnable directly, which is the point: the cheapest place to catch an overlap
 // is before 31 files exist, not at the pull request.
@@ -55,34 +68,35 @@
 import fs from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import {
+  loadWorkPolicy,
+  normaliseWork,
+  isContrast,
+  collectUnits,
+  findOverlaps as kitFindOverlaps,
+  pairsOf,
+  scholarMatches,
+  workMatches,
+  checkCandidate as kitCheckCandidate,
+  scanSurname as kitScanSurname,
+  findUnresolvedNamesakes as kitFindUnresolvedNamesakes,
+} from "@chbrain/khai-tests";
 
 export const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
-const DEFAULT_CONTRAST_MARKERS = [
-  "cited to distinguish",
-  "cited to mark the line",
-  "distinction only",
-  "distinction.",
-  "the neighbour, held clear",
-  "the cousin, and the difference",
-  "the classical effect it is named against",
-  "held near",
-  "held clear",
-  "(contrast)",
-];
+export { normaliseWork, isContrast, scholarMatches, workMatches, pairsOf };
 
+/** The declared work policy for this house: a thin, root-defaulted wrapper. */
 export function loadPolicy(root = ROOT) {
-  const cfg = JSON.parse(fs.readFileSync(join(root, "khai-guard.config.json"), "utf8"));
-  const wp = cfg.workPolicy || {};
-  return {
-    contrastMarkers: (wp.contrastMarkers || DEFAULT_CONTRAST_MARKERS).map((m) => m.toLowerCase()),
-    canon: (wp.canon || []).map(normaliseWork),
-    aliases: wp.aliases || {},
-  };
+  return loadWorkPolicy(root);
 }
 
-// A row of the index: one scholar, one misfit, one work, one scope.
+// A row of the rendered index: one scholar, one misfit, one work, one scope.
 // Scholar rows open with the bolded name; continuation rows carry the turnstile.
+// Kept for the house-specific instruments below (canonFamilies, findSuffixKeys)
+// that read the rendered markdown rather than the kit's collector, since they
+// have no counterpart in the kit and this is the simplest honest read of the
+// index they need.
 export function parseScience(src) {
   const rows = [];
   let scholar = null;
@@ -98,83 +112,20 @@ export function parseScience(src) {
   return rows;
 }
 
-// Work identity. The Key Work cell is free text and the same paper is written
-// several ways across the house ("Undermining Children's Intrinsic Interest
-// with Extrinsic Reward" against the same title carrying its subtitle), so the
-// string is reduced to a stem: the first work named, without its parenthetical
-// journal and year, without punctuation, capped at six words. `aliases` is the
-// escape hatch for the pairs the stem does not catch.
-export function normaliseWork(work, aliases = {}) {
-  let s = String(work)
-    .replace(/<br>[\s\S]*$/, "") // the <sub> author annotation is not the title
-    .replace(/\([^)]*\)/g, " ") // journal and year
-    .split(";")[0] // the first work named
-    .toLowerCase()
-    .replace(/[^a-z0-9 ]/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-  s = s.split(" a test of the ")[0];
-  s = s.split(" ").slice(0, 6).join(" ");
-  return aliases[s] || s;
-}
-
-export function isContrast(row, markers) {
-  const hay = (row.scope + " " + row.work).toLowerCase();
-  return markers.some((m) => hay.includes(m));
-}
-
-export function keyOf(row, aliases) {
-  return row.scholar + " :: " + normaliseWork(row.work, aliases);
-}
-
-// Every (scholar, work) carrying a spine in more than one misfit, canon and
-// contrast citations removed.
-export function findOverlaps(rows, policy) {
-  const byKey = new Map();
-  for (const row of rows) {
-    if (isContrast(row, policy.contrastMarkers)) continue;
-    const stem = normaliseWork(row.work, policy.aliases);
-    if (policy.canon.includes(stem)) continue;
-    const key = row.scholar + " :: " + stem;
-    if (!byKey.has(key)) byKey.set(key, new Map());
-    byKey.get(key).set(row.misfit, row.work.replace(/<br>[\s\S]*$/, "").trim());
-  }
-  return [...byKey.entries()]
-    .filter(([, misfits]) => misfits.size > 1)
-    .map(([key, misfits]) => ({
-      key,
-      scholar: key.split(" :: ")[0],
-      stem: key.split(" :: ")[1],
-      misfits: [...misfits.keys()].sort(),
-      forms: [...new Set(misfits.values())],
-    }))
-    .sort((a, b) => a.key.localeCompare(b.key));
-}
-
-// The same overlaps grouped by the misfit pair they implicate, which is the
-// view that ranks: a pair sharing four works is a different problem from a pair
-// sharing one.
-export function pairsOf(overlaps) {
-  const pairs = new Map();
-  for (const o of overlaps) {
-    for (let i = 0; i < o.misfits.length; i++) {
-      for (let j = i + 1; j < o.misfits.length; j++) {
-        const pk = o.misfits[i] + " + " + o.misfits[j];
-        if (!pairs.has(pk)) pairs.set(pk, []);
-        pairs.get(pk).push(o.stem);
-      }
-    }
-  }
-  return [...pairs.entries()]
-    .map(([pair, stems]) => ({ pair, stems: [...new Set(stems)] }))
-    .sort((a, b) => b.stems.length - a.stems.length || a.pair.localeCompare(b.pair));
+/**
+ * findOverlaps, root-defaulted for this house. The house's wall is
+ * `expect(report().overlaps).toEqual([])`: the kit computes off the same
+ * collector the science build runs on, this house holds the line.
+ */
+export function findOverlaps(root = ROOT) {
+  return kitFindOverlaps(root);
 }
 
 export function report(root = ROOT) {
   const policy = loadPolicy(root);
-  const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
-  const overlaps = findOverlaps(rows, policy);
-  return { rows: rows.length, policy, overlaps, pairs: pairsOf(overlaps) };
+  const { records } = collectUnits(root);
+  const overlaps = findOverlaps(root);
+  return { rows: records.length, policy, overlaps, pairs: pairsOf(overlaps) };
 }
 
 // The house's misfits by directory and display title, read from each play's
@@ -206,6 +157,8 @@ export function houseTitles(root = ROOT) {
 // A robust weak check that ratchets beats a fragile strong one that cries wolf.
 // Titles of seven characters or fewer are skipped, since a short one can appear
 // in ordinary prose by accident.
+//
+// House-specific: the kit has no notion of a misfit "naming" another one.
 export function findUndeclared(root = ROOT) {
   const titles = houseTitles(root);
   const undeclared = [];
@@ -224,123 +177,66 @@ export function findUndeclared(root = ROOT) {
   return undeclared.sort();
 }
 
-// Pre-authoring: does a proposed spine already anchor a misfit? Accepts
-// "Scholar :: Work" or a bare work, and answers before 31 files exist.
-//
-// This is the **advisory**, not the wall, and the two want opposite errors.
-// findOverlaps fails `npm test`, so it must never cry wolf and keeps strict stem
-// equality. This one is run by an author holding a candidate, so its only
-// expensive failure is **silence**: a spurious hit costs a reader ten seconds,
-// and a spurious clear costs 31 files and a warrant built on a spine another
-// misfit already holds. It was written with the wall's preference on the
-// advisory's job, and cleared three citations that are in the index:
-//
-//   Becker :: Human Capital                     normaliseWork keeps six words, so
-//                                               a shorter title is a prefix of the
-//                                               stored stem and never equal to it
-//   Dale Miller :: Moral Credentials ...        the scholar half was a substring
-//                                               test against the row, so writing
-//                                               the given name, which is exactly
-//                                               what the namesake rule tells
-//                                               authors to do, is what broke it
-//   Deci :: Effects of Externally Mediated ...  this file's own usage example
-//
-// The first was found by eye in the index after the check had already passed,
-// on a candidate whose theory floor turned out to be Given to Everyone's spine.
-// So both halves now match loosely and the CLI says which hits were loose,
-// leaving the adjudication to the author, who is the only party who can do it.
-const scholarTokens = (s) =>
-  new Set(
-    String(s)
-      .toLowerCase()
-      .replace(/[^a-z0-9 ]/g, " ")
-      .split(/\s+/)
-      .filter((t) => t.length > 2),
-  );
-
-// Any shared name token, either way round, so "Dale Miller" meets "Miller (Dale)"
-// and a bare surname still meets both. A namesake collision raises a hit rather
-// than hiding one, which is the direction this check should fail in.
-export function scholarMatches(query, rowScholar) {
-  if (!query) return true;
-  if (rowScholar.toLowerCase().includes(query.toLowerCase())) return true;
-  const want = scholarTokens(query);
-  if (!want.size) return false;
-  const have = scholarTokens(rowScholar);
-  for (const t of want) if (have.has(t)) return true;
-  return false;
-}
-
-// Equal stems, or one a word-boundary prefix of the other. The shorter side must
-// carry two words or more, so a single common word cannot drag in half the house.
-export function workMatches(queryStem, rowStem) {
-  if (queryStem === rowStem) return "exact";
-  const [short, long] =
-    queryStem.length <= rowStem.length ? [queryStem, rowStem] : [rowStem, queryStem];
-  if (short.split(" ").filter(Boolean).length < 2) return null;
-  return long.startsWith(short + " ") ? "prefix" : null;
-}
-
-// The surname scan: the question `--check` cannot answer, and the command the
-// rule "scan the surname whatever it looks like" had no instrument behind.
-//
-// `--check` takes a "Scholar :: Work" string and answers the shared-work wall;
-// given a bare surname it matches no work and reports `clear`, which is true
-// and is not the question that was asked, so a surname the house already held
-// returned a false clear from the sanctioned instrument. The interim was a
-// hand-rolled grep against docs/SCIENCE.md, and it had to match that file's
-// exact row shape: anchored wrongly once, it swept twenty-eight surnames,
-// reported all clear, and was wrong about every one (`Davis`, `Cooper`).
-//
-// So the scan is computed here, off the same parse the walls use. It matches
-// the index key exactly -- the bare surname, or any of its declared
-// `Surname (Form)` resolutions -- case-insensitively and never as a substring:
-// "Adams" must not hit "Adamson". A hit is a cell to read, not a verdict: the
-// same person on another work is expected and owes nothing, and the readings
-// of a surname hit are the three the namesake rule already names.
-export function scanSurname(name, root = ROOT) {
-  const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
-  const want = String(name).trim().toLowerCase();
-  const byKey = new Map();
-  for (const r of rows) {
-    const bare = r.scholar.replace(/\s*\(.*\)$/, "");
-    if (bare.toLowerCase() !== want) continue;
-    if (!byKey.has(r.scholar)) byKey.set(r.scholar, []);
-    byKey
-      .get(r.scholar)
-      .push({ misfit: r.misfit, work: r.work.replace(/<br>[\s\S]*$/, "").trim() });
-  }
-  return [...byKey.entries()]
-    .map(([key, hits]) => ({
-      key,
-      resolved: /\(.*\)$/.test(key),
-      hits: hits.sort((a, b) => a.misfit.localeCompare(b.misfit) || a.work.localeCompare(b.work)),
-    }))
-    .sort((a, b) => a.key.localeCompare(b.key));
-}
-
+// Pre-authoring: does a proposed spine already anchor a misfit? Delegates to the
+// kit's checkCandidate(root, spec), which runs off the same collector as the
+// science build and matches both halves loosely on purpose (the advisory's only
+// expensive failure is a false clear, not a spurious hit). This wrapper keeps
+// the house's own call shape (`spec` first, `root` defaulted) and the field
+// name (`misfit`) the CLI output below and the house's callers already use --
+// the kit's hits carry `unit`, since it is shape-agnostic across an engine
+// monorepo and a collection house alike.
 export function checkCandidate(spec, root = ROOT) {
-  const policy = loadPolicy(root);
-  const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
-  const [lhs, rhs] = spec.includes("::")
-    ? spec.split("::").map((s) => s.trim())
-    : [null, spec.trim()];
-  const stem = normaliseWork(rhs, policy.aliases);
-  const hits = [];
-  for (const r of rows) {
-    const rowStem = normaliseWork(r.work, policy.aliases);
-    const match = workMatches(stem, rowStem);
-    if (!match || !scholarMatches(lhs, r.scholar)) continue;
-    hits.push({
-      scholar: r.scholar,
-      misfit: r.misfit,
+  return kitCheckCandidate(root, spec).map((h) => ({
+    scholar: h.scholar,
+    misfit: h.unit,
+    work: h.work.replace(/<br>[\s\S]*$/, "").trim(),
+    contrast: h.contrast,
+    canon: h.canon,
+    match: h.match,
+  }));
+}
+
+// The surname scan: is this surname anywhere in the index, bare or resolved?
+// Delegates to the kit's scanSurname(root, name); same field-name adaptation as
+// checkCandidate above (`unit` -> `misfit`, in a `hits` array rather than `rows`,
+// matching what this house's CLI output already prints).
+export function scanSurname(name, root = ROOT) {
+  return kitScanSurname(root, name).map((k) => ({
+    key: k.key,
+    resolved: k.resolved,
+    hits: k.rows.map((r) => ({
+      misfit: r.unit,
       work: r.work.replace(/<br>[\s\S]*$/, "").trim(),
-      contrast: isContrast(r, policy.contrastMarkers),
-      canon: policy.canon.includes(rowStem),
-      match,
-    });
+    })),
+  }));
+}
+
+// The declared shared-surname policy for this house. Not re-exported from the
+// kit's public entry point (only `scholarCollisions`, which answers a different
+// question, is), so this stays a small local read of the same declared config
+// the kit's own build resolves against -- the simplest honest implementation
+// for the one piece the kit does not expose.
+export function scholarHomonyms(root = ROOT) {
+  const path = join(root, "khai-guard.config.json");
+  if (!fs.existsSync(path)) return {};
+  try {
+    return JSON.parse(fs.readFileSync(path, "utf8"))?.scholarPolicy?.homonyms ?? {};
+  } catch {
+    return {};
   }
-  return hits;
+}
+
+// The namesake wall: a surname declared in scholarPolicy.homonyms may not
+// appear in the index unresolved. Delegates to the kit's
+// findUnresolvedNamesakes(root); same field-name adaptation (`unit` ->
+// `misfit`) as the two wrappers above.
+export function findUnresolvedNamesakes(root = ROOT) {
+  return kitFindUnresolvedNamesakes(root).map((r) => ({
+    scholar: r.scholar,
+    misfit: r.unit,
+    forms: r.forms,
+    work: r.work.replace(/<br>[\s\S]*$/, "").trim(),
+  }));
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
@@ -445,8 +341,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     for (const s of p.stems) console.log(`        ${s}`);
   }
   const opp = findOpposed();
-  const silent = opp.filter((p) => !p.aNamesB || !p.bNamesA).length;
-  console.log(`opposed pairs on a declared axis: ${opp.length}, undeclared: ${silent}\n`);
+  const silent = opp.filter((p) => !p.aNamesB || !p.bNamesA);
+  console.log(`opposed pairs on a declared axis: ${opp.length}, undeclared: ${silent.length}\n`);
   for (const p of opp) {
     const state = p.aNamesB && p.bNamesA ? "declared  " : "UNDECLARED";
     console.log(`  ${state}  [${p.axis}]  ${p.a} vs ${p.b}`);
@@ -485,6 +381,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
 // is not in play frontmatter either, because the canon validator owns that
 // schema and rejects unknown keys. The warrant's frontmatter is unpoliced and
 // is in the misfit's own lane, so the declaration can travel with the misfit.
+//
+// House-specific: the kit has no notion of a play's axis or sign.
 export function axesOf(root = ROOT) {
   const out = new Map();
   for (const d of fs.readdirSync(join(root, "misfits"))) {
@@ -552,6 +450,9 @@ export function findOpposed(root = ROOT) {
 // safety families were both picked by hand; this hands back every family the
 // house actually has, ranked, with the undeclared members marked, so the next
 // family to declare is read off rather than guessed at.
+//
+// House-specific: ranking canon families against this house's own axis
+// declarations is not a question the kit's generic policy loader can answer.
 export function canonFamilies(root = ROOT) {
   const policy = loadPolicy(root);
   const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
@@ -570,59 +471,6 @@ export function canonFamilies(root = ROOT) {
     })
     .filter((f) => f.misfits.length > 1)
     .sort((a, b) => b.misfits.length - a.misfits.length || a.work.localeCompare(b.work));
-}
-
-// Namesakes, and the one hole in the wall above.
-//
-// findOverlaps keys on `scholar :: workStem`, and `scholar` is whatever the
-// science build produced. The build keys on the bare surname by default, which
-// is what collates a scholar written "Kahneman" in one Origin table and "Daniel
-// Kahneman" in another, and it separates namesakes only where a maintainer has
-// declared the shared surname in `scholarPolicy.homonyms`. That default is
-// right: two given names under one surname look identical to one person written
-// two ways, and any rule that split "Oliver Hart" from "Julian Tudor Hart"
-// would also split "Buchanan" from "James M Buchanan".
-//
-// The build already emits the signal. Where a surname is declared and a Source
-// cell carries no form that matches, it leaves the bare surname deliberately,
-// "so an unresolved occurrence stays visible instead of being silently
-// attributed to one of them". Visible, and until now read by nobody: nine such
-// occurrences sat in the index across five declared surnames, one of them added
-// the same afternoon this check was written.
-//
-// They are the hole because a declared surname written bare in one misfit and
-// resolved in another is one person split across two keys, or two people merged
-// into one, and either way findOverlaps is comparing the wrong things. The
-// undeclared direction is safe by contrast: two people sharing an undeclared
-// surname collate into one key, which can only ever raise a spurious overlap,
-// and a spurious overlap fails loudly rather than passing quietly.
-//
-// So the rule is the narrow one that closes the hole, and it is computed rather
-// than judged: a surname declared in `scholarPolicy.homonyms` may not appear in
-// the index unresolved. Nothing here decides who anybody is; the maintainer's
-// declaration does that, and this only insists the declaration was applied.
-export function scholarHomonyms(root = ROOT) {
-  const path = join(root, "khai-guard.config.json");
-  if (!fs.existsSync(path)) return {};
-  try {
-    return JSON.parse(fs.readFileSync(path, "utf8"))?.scholarPolicy?.homonyms ?? {};
-  } catch {
-    return {};
-  }
-}
-
-export function findUnresolvedNamesakes(root = ROOT) {
-  const homonyms = scholarHomonyms(root);
-  const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
-  return rows
-    .filter((r) => Array.isArray(homonyms[r.scholar]) && homonyms[r.scholar].length)
-    .map((r) => ({
-      scholar: r.scholar,
-      misfit: r.misfit,
-      forms: homonyms[r.scholar],
-      work: r.work.replace(/<br>[\s\S]*$/, "").trim(),
-    }))
-    .sort((a, b) => a.scholar.localeCompare(b.scholar) || a.misfit.localeCompare(b.misfit));
 }
 
 // A slate line for a concept the house already holds.
@@ -655,6 +503,8 @@ export function findUnresolvedNamesakes(root = ROOT) {
 //
 // Lines that begin "Extend" are skipped, since those direct an Origin row onto
 // an incumbent and are supposed to name a concept the house holds.
+//
+// House-specific: the register is a house document; the kit has no notion of it.
 export function slateLineConcept(line) {
   const body = line.replace(/^-\s*\[\s?\]\s*(\[P\d\]\s*)?/, "");
   if (/^Extend\b/i.test(body)) return null;
@@ -690,6 +540,8 @@ export function findStagedButOpen(root = ROOT) {
 // misfits behind between July and this check, which is 15 per cent of the house
 // unreachable by the lookup the plan tells an author to dedup against. So the
 // part that can be computed is: every misfit must appear in it.
+//
+// House-specific: the kit has no notion of REFERENCES.md.
 export function findUnindexed(root = ROOT) {
   const refs = fs.readFileSync(join(root, "REFERENCES.md"), "utf8");
   return [...houseTitles(root).keys()].filter((d) => !refs.includes("`" + d + "`")).sort();
@@ -770,20 +622,16 @@ export function buildReferences(root = ROOT) {
 
 // A declared form can be **unreachable**, and the namesake wall cannot see it.
 //
-// `scholarKey` in the science build resolves a citation to a declared form with
-// `given === form || given.startsWith(form + " ")`, taking the **first** form in
-// the array that matches. The prefix arm is deliberate and is what lets one
-// declared "James" absorb a cell written "James M Buchanan", so it cannot be
-// removed. But where one declared form is a space-prefix of another, the array
-// order decides the answer: `["David", "David L"]` keys a cell written
-// "David L Greene" as `Greene (David)`, silently merging two people, while
-// `["David L", "David"]` keys both correctly.
-//
-// Nothing else catches this. The namesake wall asks whether any occurrence is
-// left bare, and under the wrong order none is: every cell resolves, to the
-// wrong person. It is the quiet direction, so it gets a wall of its own, and a
-// narrow one: **a declared form may not be preceded by a form it starts with.**
-// The fix is always a reordering, never a deletion.
+// The build resolves a citation to a declared form by longest-match rather than
+// first-match from @chbrain/khai-tests 0.2.6 onward, which makes the array
+// order in scholarPolicy.homonyms irrelevant to resolution: `["David",
+// "David L"]` and `["David L", "David"]` now resolve a cell written "David L
+// Greene" the same way. This check reads the declared config directly (not the
+// kit, which does not expose it) and stays as documented config hygiene: an
+// order the old first-match build would have mis-resolved is still worth
+// flagging as confusing to a reader, even though it can no longer merge two
+// people. Kept as a flag so the documented command does not break; it reports
+// the now-always-clean result under the current build.
 export function findShadowedForms(root = ROOT) {
   const shadowed = [];
   for (const [surname, forms] of Object.entries(scholarHomonyms(root))) {
@@ -799,20 +647,12 @@ export function findShadowedForms(root = ROOT) {
 
 // A generational suffix is not a surname, and the build cannot tell.
 //
-// The science build takes the **last token** of an author part as the surname,
-// which is right for every name the house holds and wrong for the handful that
-// carry a suffix: "Robert E. Lucas Jr." keyed under `Jr` and "John C. Bailar
-// III" under `III`, so neither scholar was findable under their own name and a
-// pre-authoring scan for Lucas returned a false clear.
-//
-// This is the third instance of one shape. A declared form ordered wrongly, a
-// surname resolved to the wrong person, and a suffix taken for a surname are all
-// the index key being computed from a cell an author wrote, with nothing checking
-// that the computation found a person. Each was caught by eye and none by a gate.
-//
-// So this is a gate, and a narrow one: the suffixes are a closed list, they are
-// never surnames anywhere, and asserting it costs nothing. The fix is always to
-// drop the suffix from the Source cell, never to add it to a policy.
+// From @chbrain/khai-tests 0.2.6 the build itself drops a generational suffix
+// before taking the last token of an author part as the surname, so "Robert E.
+// Lucas Jr." keys under `Lucas` rather than `Jr`. This check reads the rendered
+// index directly and stays as documented config hygiene; it reports the
+// now-always-clean result under the current build, kept as a flag so the
+// documented command does not break.
 export function findSuffixKeys(root = ROOT) {
   const GENERATIONAL = new Set(["jr", "sr", "ii", "iii", "iv", "v", "jnr", "snr"]);
   const bad = [];
