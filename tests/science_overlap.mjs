@@ -45,6 +45,12 @@
 //                                                 this one matches loosely on
 //                                                 purpose, since a false clear is
 //                                                 what costs 31 files
+//   node tests/science_overlap.mjs --surname Miller
+//                                                 is this surname anywhere in the
+//                                                 index, bare or resolved? The
+//                                                 question --check cannot answer:
+//                                                 handed a bare surname it reports
+//                                                 a true clear to the wrong question
 
 import fs from "node:fs";
 import { fileURLToPath } from "node:url";
@@ -275,6 +281,44 @@ export function workMatches(queryStem, rowStem) {
   return long.startsWith(short + " ") ? "prefix" : null;
 }
 
+// The surname scan: the question `--check` cannot answer, and the command the
+// rule "scan the surname whatever it looks like" had no instrument behind.
+//
+// `--check` takes a "Scholar :: Work" string and answers the shared-work wall;
+// given a bare surname it matches no work and reports `clear`, which is true
+// and is not the question that was asked, so a surname the house already held
+// returned a false clear from the sanctioned instrument. The interim was a
+// hand-rolled grep against docs/SCIENCE.md, and it had to match that file's
+// exact row shape: anchored wrongly once, it swept twenty-eight surnames,
+// reported all clear, and was wrong about every one (`Davis`, `Cooper`).
+//
+// So the scan is computed here, off the same parse the walls use. It matches
+// the index key exactly -- the bare surname, or any of its declared
+// `Surname (Form)` resolutions -- case-insensitively and never as a substring:
+// "Adams" must not hit "Adamson". A hit is a cell to read, not a verdict: the
+// same person on another work is expected and owes nothing, and the readings
+// of a surname hit are the three the namesake rule already names.
+export function scanSurname(name, root = ROOT) {
+  const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
+  const want = String(name).trim().toLowerCase();
+  const byKey = new Map();
+  for (const r of rows) {
+    const bare = r.scholar.replace(/\s*\(.*\)$/, "");
+    if (bare.toLowerCase() !== want) continue;
+    if (!byKey.has(r.scholar)) byKey.set(r.scholar, []);
+    byKey
+      .get(r.scholar)
+      .push({ misfit: r.misfit, work: r.work.replace(/<br>[\s\S]*$/, "").trim() });
+  }
+  return [...byKey.entries()]
+    .map(([key, hits]) => ({
+      key,
+      resolved: /\(.*\)$/.test(key),
+      hits: hits.sort((a, b) => a.misfit.localeCompare(b.misfit) || a.work.localeCompare(b.work)),
+    }))
+    .sort((a, b) => a.key.localeCompare(b.key));
+}
+
 export function checkCandidate(spec, root = ROOT) {
   const policy = loadPolicy(root);
   const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
@@ -312,6 +356,28 @@ if (import.meta.url === `file://${process.argv[1]}`) {
             ? "\n            (loose match: read the cell above and judge it)"
             : ""),
       );
+    process.exit(0);
+  }
+  const si = args.indexOf("--surname");
+  if (si !== -1) {
+    const name = args[si + 1] || "";
+    if (!name) {
+      console.log("usage: node tests/science_overlap.mjs --surname <Surname>");
+      process.exit(2);
+    }
+    const keys = scanSurname(name);
+    if (!keys.length) {
+      console.log(`clear: no index key is the surname "${name}", bare or resolved.`);
+      process.exit(0);
+    }
+    console.log(
+      `taken: ${keys.length} index key(s) carry the surname "${name}". ` +
+        `A hit is a cell to read, not a verdict: the same person on another work is expected.`,
+    );
+    for (const k of keys) {
+      console.log(`  ${k.key}${k.resolved ? "" : "  (bare)"}`);
+      for (const h of k.hits) console.log(`      ${h.misfit}  <- ${h.work}`);
+    }
     process.exit(0);
   }
   if (args.includes("--slate")) {
