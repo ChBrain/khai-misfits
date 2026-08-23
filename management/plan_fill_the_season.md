@@ -6648,3 +6648,112 @@ and its solution safer left to the future; Carl Düsing of Jena gave the mathema
 Edwards traced and translated it in 2000. Fisher's own addition is real and is what makes the account exact, that the
 balance is struck in **investment at the age of independence** rather than in numbers. The warrant credits all four
 rather than the name, which is the Origin table doing the job it exists for.
+
+**The fifth wall-shaped defect is not a wall at all: the index only sees the Source column, and a scholar written
+anywhere else is invisible to it.** The shared-work check runs off `docs/SCIENCE.md`, which is built from the **first
+cell** of each Origin row. A warrant whose Source cells are descriptive role labels, `The mechanism`, `The founding
+study`, `The measured hole`, contributes **no scholar at all**, however many it cites in the Key Work column. **22 of
+304 misfits were in that state.** Twelve of them correctly: statutes, cases, physical constants, industry standards,
+which name no scholar because none is owed. Ten of them named real people the wall could not see, and the count was
+worse than the frontmatter suggested, because the frontmatter names the spine and the table carried more: The Next One
+Pays cited Galanter, Wheeler and colleagues, and Songer and colleagues, all three invisible; The Youngest in the Room
+cited Barnsley and colleagues and Layton and colleagues; Sorry Is Evidence cited Vincent and colleagues and McMichael
+and colleagues; I Would Know Him Anywhere cited three groups. **Another misfit could have taken Galanter (1974) or
+Frankham (2008) as its spine and `npm test` would have passed.**
+
+The repair is mechanical and is now done: the author moves into the Source cell, the work stays in the Key Work cell,
+which is the house's own dominant convention and what every recent warrant already does. The index went from 1901 rows
+to **1943**, and the count of misfits contributing no scholar went from 22 to **12**, which is the correct terminal
+state because those twelve owe none.
+
+**The diagnostic is one command and belongs beside the four flags, though it is not one of them yet:**
+
+```
+node -e 'const fs=require("fs"),s=fs.readFileSync("docs/SCIENCE.md","utf8"),c=new Set();for(const m of s.matchAll(/^\| (?:\*\*[^|]*\*\*|↳) \| `([a-z0-9_]+)`/gm))c.add(m[1]);console.log(fs.readdirSync("misfits").filter(d=>!c.has(d)))'
+```
+
+It cannot be a wall, because the twelve are legitimate and there is no computable test for _does this subject owe a
+scholar_. It is a list to read, like `--families`.
+
+**And the pass proved the Krueger undercount, which had been recorded one sweep earlier and not believed hard enough.**
+The register already noted that `grep -c "^| \*\*<Surname>\*\* "` counts **index keys** and not people, because
+continuation rows key on the arrow. Scanning the thirty-two surnames this repair would add reported eight taken. That
+was right about the keys and wrong about the cost. **Declaring the eight locally and reading `--namesakes` turned up
+three more people the scan could not have seen**: a third **Friedman**, Jerome in Overfitting, beside Lawrence M and
+Milton; a third **Gordon**, David B in Time Inconsistency, beside H Scott and Sanford C; a third **Thompson**, Matthew
+P in Kept from Burning, already written in and merely undeclared. Two of those owed cells and one owed only a form.
+**The declaration is the instrument. The scan orders the work and never prices it.**
+
+**So the state after this pass is the cheapest one a namesake debt can be in.** Eight surnames now carry named cells on
+every occurrence, so `Fisher`, `Kravitz`, `Meissner`, `Huber`, `Gordon`, `Friedman`, `Thompson` and `Hicks` can be
+declared in a governance pass that owes nothing: probed locally at 54 declared surnames, **0 unresolved, 0 unreachable
+forms, 0 shared works**. The `Krueger` debt, three people bare across Larger in the Looking, The Skill to See It and
+Rent Seeking, and the bare `Price` cell in The Head Start, are still open and are the same shape.
+
+**One thing the repair did not do, and should be said plainly.** It moved the scholars the warrants already cited. It
+did not go looking for scholars cited nowhere in a table at all, and there was one: **Just Keeping Their Feet named
+Dallard in its frontmatter and in no Origin row**, so the fix there was an addition rather than a move. Where a
+warrant's `source:` names somebody the table does not, the table is the thing that is wrong.
+
+**The twenty-seventh pass was commissioned, and the region it was pointed at was the emptiest the house has had.** The
+Playwright asked what the house holds on animals, and on dogs. On wild animals it holds a great deal: thirty-four
+misfits in Ecology, evolution, and public health, all of them wild populations, disease or ecosystems. On **domestic**
+animals it held nothing at all: `domestication` 0, `inbreeding` 0, `founder effect` 0, `studbook` 0, `popular sire` 0,
+`selective breeding` 0, `puppy` 0, `kennel` 0, `horse` 0. Every dog-shaped hit in the house was a false one, the
+cry-wolf effect in Alarm Fatigue and the dogpile in All at Once. That produced **The One Everybody Used**.
+
+**The nearest incumbent was not in the region and was found by shape rather than by subject.** The obvious neighbours
+were Bred for the Ark and Information Cascade, and neither is closest. **Nothing Left to Pool** is, because it stages
+the Hirshleifer effect: better public information about individual risk destroys the ability to pool it. That is the
+same family, **better information destroying something that depended on not knowing**, and the house now holds two of
+them. They separate on the quantity: there it is how precisely an individual's **risk** can be measured, here it is
+how precisely the **best individual** can be identified, and stipulating no pool at all leaves this one untouched.
+Worth carrying: **when a candidate's engine is information, scan by shape and not by domain**, because the sibling will
+be in a literature that shares no vocabulary with it.
+
+**And the Information Cascade test is the one that decided the play's centre.** A popular sire looks exactly like
+herding, and it is not. Switch off the cascade entirely, stipulating that no breeder can observe any other's choice,
+that reputation carries nothing and that every judgement comes from the published evidence alone, and **they still
+converge**, because the evidence is public and correct and there is one best answer in it. A hundred people who never
+speak arrive where a hundred imitators would and arrive faster. So the play cannot be corrected by telling anybody to
+think for themselves: thinking for themselves is what produces it. That is the general shape to keep: **a convergence
+that survives the removal of all observation is not herding**, and dedup'ing it against a cascade misfit would have
+been the error.
+
+**The eight declarations are still owed and the debt is now at its cheapest.** The cells-first pass landed with the
+Origin Source repair, so `Fisher`, `Kravitz`, `Meissner`, `Huber`, `Gordon`, `Friedman`, `Thompson` and `Hicks` all
+carry named cells on every occurrence and can be declared in one governance pass owing nothing: probed at 54 declared
+surnames with **0 unresolved, 0 unreachable forms, 0 shared works**. `Krueger`, three people bare, and the bare `Price`
+cell in The Head Start are the remaining ones and are the same shape.
+
+**One source was declined on the merits and the reason is worth recording, because it looks like avoidance.** The
+obvious review for the domestic-animal region is Farrell, Schoenebeck, Wiener, Clements and Summers (2015), which
+carries the count of recognised breeds and inherited disorders. Citing it costs **three** namesakes at once, `Farrell`
+against Joseph Farrell in Path Dependence, `Wiener` against Earl Wiener in The Irony of Automation, `Summers` against
+the Summers in Nothing to Lose. That is not why it was declined. It was declined because the facts it would have
+carried are already carried better by Lewis and colleagues on the same register, and because the concrete disease case
+it would have anchored, a recessive at high frequency in one breed, could not be traced to a source specific enough to
+cite: the search that offered it answered in the question's own words, which is the tell this register already
+records. **A row that cannot be traced is dropped whatever it would have added**, and the namesake cost is a reason to
+check the merits rather than a reason on its own.
+
+**The eight declarations are in, and eight surnames became nineteen people.** The cells-first pass landed with the
+Origin Source repair, so this pass owed nothing and cost one edit: `Fisher` splits into Irving and Ronald; `Kravitz`
+into J and Richard; `Meissner` into Christian and Dennis; `Huber` into Gregory A and Joel; `Hicks` into John and
+Tanner R; and three of them carry three people each, `Gordon` as David B, H Scott and Sanford C, `Friedman` as Jerome,
+Lawrence M and Milton, `Thompson` as A H, Dennis and Matthew P. The house now declares **54** shared surnames, with 0
+unresolved, 0 unreachable forms and 0 shared works across 1943 index rows.
+
+**And the shape of the whole debt is now visible, which is worth stating once.** Every one of these was invisible until
+somebody asked the index a question it had not been asked. `Fisher` surfaced because a misfit needed R A Fisher and the
+house held Irving. Seven more surfaced because the Origin Source repair put forty-two new rows into the index at once.
+Three of those seven, the third Friedman, the third Gordon and the third Thompson, surfaced only because the
+declaration itself was written and `--namesakes` was read afterwards. **Nothing found any of them by looking.** The
+instrument that finds a namesake is always a change that forces the index to resolve, and the scan only decides where
+to point it.
+
+**Two are left and they are the same shape.** `Krueger` carries three people bare, Alan B in Larger in the Looking,
+Joachim I in The Skill to See It and Anne O in Rent Seeking, so it is a three-cell pass and then a declaration. The
+bare `Price` cell in The Head Start is Derek de Solla Price and is one cell. Neither fails anything today, and the
+reason to clear them is that a bare key holding three people reports as `1` to the surname scan and reads like the
+cheapest possible hit.
