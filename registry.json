@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.303.0",
+  "version": "0.304.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -25178,6 +25178,253 @@
           "kind": "process",
           "title": "Shunning",
           "taxonomy": "play_once_bitten.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "one_father_each",
+      "title": "One Father Each",
+      "description": "One mother and one father each, so the rarer sex returns more per head and equal investment is the only stable ratio.",
+      "members": [
+        {
+          "file": "persona_the_better_ratio.md",
+          "kind": "persona",
+          "title": "The Better Ratio",
+          "type": "archetype",
+          "taxonomy": "position_unreachable.md"
+        },
+        {
+          "file": "persona_the_parent.md",
+          "kind": "persona",
+          "title": "The Parent",
+          "type": "archetype",
+          "taxonomy": "position_allocator.md"
+        },
+        {
+          "file": "persona_the_rare_sex.md",
+          "kind": "persona",
+          "title": "The Rare Sex",
+          "type": "archetype",
+          "taxonomy": "position_premium.md"
+        },
+        {
+          "file": "persona_the_son_who_never_breeds.md",
+          "kind": "persona",
+          "title": "The Son Who Never Breeds",
+          "type": "archetype",
+          "taxonomy": "position_unreturned.md"
+        },
+        {
+          "file": "persona_the_tally.md",
+          "kind": "persona",
+          "title": "The Tally",
+          "type": "archetype",
+          "taxonomy": "position_ledger.md"
+        },
+        {
+          "file": "persona_the_wasp_on_the_fig.md",
+          "kind": "persona",
+          "title": "The Wasp on the Fig",
+          "type": "archetype",
+          "taxonomy": "position_structured.md"
+        },
+        {
+          "file": "piece_equal_investment.md",
+          "kind": "piece",
+          "title": "Equal Investment",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "piece_the_broken_assumption.md",
+          "kind": "piece",
+          "title": "The Broken Assumption",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "piece_the_identity.md",
+          "kind": "piece",
+          "title": "The Identity",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "piece_the_rare_sex_premium.md",
+          "kind": "piece",
+          "title": "The Rare-Sex Premium",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "piece_the_restoring_force.md",
+          "kind": "piece",
+          "title": "The Restoring Force",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "piece_the_unspent_sons.md",
+          "kind": "piece",
+          "title": "The Unspent Sons",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "pitch_worth_more_for_being_fewer.md",
+          "kind": "pitch",
+          "title": "Worth More for Being Fewer",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "place_the_lek.md",
+          "kind": "place",
+          "title": "The Lek",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "place_the_next_generation.md",
+          "kind": "place",
+          "title": "The Next Generation",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "place_the_patch.md",
+          "kind": "place",
+          "title": "The Patch",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "plan_balance_every_generation.md",
+          "kind": "plan",
+          "title": "Balance Every Generation",
+          "taxonomy": "position_ledger.md"
+        },
+        {
+          "file": "plan_be_the_best_ratio_and_be_unstable.md",
+          "kind": "plan",
+          "title": "Be the Best Ratio and Be Unstable",
+          "taxonomy": "position_unreachable.md"
+        },
+        {
+          "file": "plan_be_worth_more_for_being_fewer.md",
+          "kind": "plan",
+          "title": "Be Worth More for Being Fewer",
+          "taxonomy": "position_premium.md"
+        },
+        {
+          "file": "plan_mate_where_you_hatched.md",
+          "kind": "plan",
+          "title": "Mate Where You Hatched",
+          "taxonomy": "position_structured.md"
+        },
+        {
+          "file": "plan_put_it_where_it_returns_most.md",
+          "kind": "plan",
+          "title": "Put It Where It Returns Most",
+          "taxonomy": "position_allocator.md"
+        },
+        {
+          "file": "plan_wait_for_a_mating_that_does_not_come.md",
+          "kind": "plan",
+          "title": "Wait for a Mating That Does Not Come",
+          "taxonomy": "position_unreturned.md"
+        },
+        {
+          "file": "play_one_father_each.md",
+          "kind": "play",
+          "title": "One Father Each"
+        },
+        {
+          "file": "plot_darwin_left_it_to_the_future.md",
+          "kind": "plot",
+          "title": "Darwin Left It to the Future",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "plot_half_the_effort_into_sons_who_never_breed.md",
+          "kind": "plot",
+          "title": "Half the Effort into Sons Who Never Breed",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "plot_one_mother_one_father.md",
+          "kind": "plot",
+          "title": "One Mother, One Father",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "plot_unless_they_mate_where_they_hatched.md",
+          "kind": "plot",
+          "title": "Unless They Mate Where They Hatched",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "plot_whichever_is_rarer_is_worth_more.md",
+          "kind": "plot",
+          "title": "Whichever Is Rarer Is Worth More",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "position_allocator.md",
+          "kind": "position",
+          "title": "Allocator",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "position_ledger.md",
+          "kind": "position",
+          "title": "Ledger",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "position_premium.md",
+          "kind": "position",
+          "title": "Premium",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "position_structured.md",
+          "kind": "position",
+          "title": "Structured",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "position_unreachable.md",
+          "kind": "position",
+          "title": "Unreachable",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "position_unreturned.md",
+          "kind": "position",
+          "title": "Unreturned",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "process_allocating.md",
+          "kind": "process",
+          "title": "Allocating",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "process_balancing.md",
+          "kind": "process",
+          "title": "Balancing",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "process_pricing.md",
+          "kind": "process",
+          "title": "Pricing",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "process_restoring.md",
+          "kind": "process",
+          "title": "Restoring",
+          "taxonomy": "play_one_father_each.md"
+        },
+        {
+          "file": "process_structuring.md",
+          "kind": "process",
+          "title": "Structuring",
+          "taxonomy": "play_one_father_each.md"
         }
       ]
     },
