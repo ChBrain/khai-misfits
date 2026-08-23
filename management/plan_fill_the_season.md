@@ -6604,3 +6604,47 @@ two stages and found juvenile survival correlated **positively** across the sexe
 **negatively**, with the genome equally shared at both. So the conflict has a start, and the start is the divergence
 of the phenotypes. That is the mechanism supplying its own control, which is worth wanting in a candidate: **a finding
 that includes the case where it does not hold is stronger than one that does not.**
+
+**The twenty-sixth sweep took the shortlist the twenty-fifth left, and it was there.** Sex ratio was one of the three
+regions named as unstaged and unscanned, and scanning it produced **One Father Each**. Two of the three remain:
+siblicide and brood reduction, and haplodiploidy with worker policing. Neither has been scanned for a mechanism, so
+they stay on the list in the same condition, which is a shortlist and not a promise.
+
+**And the Fisher cells were paid, which is the first instalment on a debt this register has been recording rather than
+discharging.** `Fisher` in the index was **Irving** Fisher, in Debt Deflation and The Paradox of Thrift, both cells
+bare. Citing R. A. Fisher is the classic namesake, and the ordering table's first row applies: not yet declared, cells
+bare, so **cells first, then the declaration**. Both cells are now written `Irving Fisher` and the new misfit's is
+written `Ronald A. Fisher`, all three riding the misfit lane together, since `misfits/**` is one lane and does not fan
+out per misfit. Nothing fails in the meantime because an undeclared surname collates. **The declaration
+`Fisher: ["Irving", "Ronald"]` is now owed as a governance pass and owes no cells**, which is the cheapest state a
+namesake can be left in.
+
+**Two more debts of the same kind are still open and should be taken in the same shape.** The bare `Krueger` key
+carries **three** people, Alan B in Larger in the Looking, Joachim I in The Skill to See It and Anne O in Rent
+Seeking, and all three cells are bare, so it is a three-cell pass then a declaration. The bare `Price` cell in The
+Head Start is Derek de Solla Price and is a one-cell pass. Neither fails anything today. **The reason to clear them is
+that the surname scan reports a count of index keys and not a count of people**, so a bare key holding three people
+reports as `1` and reads like the cheapest possible hit.
+
+**The dedup that decided One Father Each ran against a cooperation problem and is worth carrying, because the house
+now holds both halves.** The Stag Hunt is the assurance game: the good outcome **is** an equilibrium, and the whole
+difficulty is trusting your way to it. Switch that engine off entirely, stipulating perfect trust, perfect
+communication and a universal agreement kept without exception, and this misfit is untouched, because **the good
+outcome here is not an equilibrium at all**. Reaching it is trivial; holding it is impossible; and the individual who
+leaves it is not defecting, gains nothing at anybody's expense, and simply produces the offspring that returns more.
+So the test that separates them is: **ask whether the good outcome would survive everybody wanting it.** Where it
+would, the misfit is about trust. Where it would not, the misfit is about the arithmetic, and nothing that repairs
+cooperation reaches it.
+
+**And the sign of the restoring force is the part worth remembering.** It is stronger the better the ratio is, since a
+son's value rises exactly with the female bias, so **the quality of the outcome and the strength of the force
+destroying it are one quantity**. That shape has not appeared in the house before and is worth watching for: a
+candidate whose remedy is undone in proportion to how well it works is not a coordination failure and should not be
+dedup'd against one.
+
+**A note on the sources, because the house's own standard applied to itself.** The principle carries Fisher's name and
+the argument is older: Darwin published it in 1871 and **withdrew it in 1874**, saying the problem was too intricate
+and its solution safer left to the future; Carl Düsing of Jena gave the mathematics in 1884 and it passed out of view;
+Edwards traced and translated it in 2000. Fisher's own addition is real and is what makes the account exact, that the
+balance is struck in **investment at the age of independence** rather than in numbers. The warrant credits all four
+rather than the name, which is the Origin table doing the job it exists for.
