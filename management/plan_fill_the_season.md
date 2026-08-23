@@ -6757,3 +6757,43 @@ Joachim I in The Skill to See It and Anne O in Rent Seeking, so it is a three-ce
 bare `Price` cell in The Head Start is Derek de Solla Price and is one cell. Neither fails anything today, and the
 reason to clear them is that a bare key holding three people reports as `1` to the surname scan and reads like the
 cheapest possible hit.
+
+**The twenty-eighth pass moved out of Ecology deliberately, which is the field count doing its job for once.** Three
+consecutive misfits had gone into Ecology, evolution and public health, and the register's own oldest lesson is that
+six went into measurement before anybody noticed. So the isolate list was read for the **non-Ecology** July entries and
+the region around **Outranked from Below** was scanned: `head-of-line` 0, `convoy effect` 0, `livelock` 0,
+`backpressure` 0, `tail latency` 0, `straggler` 0, `fair queueing` 0, `fan-out` 0, `service level` 0. That produced
+**The Last One to Answer**.
+
+**The dedup here is the sharpest arithmetic distinction the house has had to make, and it is worth carrying as a
+general test.** Three incumbents look like this candidate because all four say _excellent parts, poor whole_:
+Ninety-Six Times Eight (efficiency multiplied along a chain), Only as Good as the Worst (value as the product of task
+qualities), and this one. They are **not the same operation**:
+
+| The shape                          | What it does to the parts        | What breaks it                                  |
+| ---------------------------------- | -------------------------------- | ----------------------------------------------- |
+| Product along a chain              | removes a fraction at each stage | stipulate no attenuation                        |
+| Weakest link, product of qualities | one bad part cuts the whole      | stipulate every part identical and perfect      |
+| **Maximum over a set**             | **removes nothing at all**       | stipulate zero variability, not zero difference |
+
+So the test that separates them is: **ask what the whole does to the parts.** A product destroys something at every
+stage. A maximum destroys nothing and merely waits. Stipulating no attenuation anywhere leaves this misfit untouched,
+because no request fails and no fraction is lost: the service is only late. And stipulating identical perfect parts
+leaves it untouched too, which is the sharper half, because **a hundred identical excellent components produce it** and
+more of them makes it worse. A weakest-link account cannot say that sentence.
+
+**And the No Idle Hands test is the one that could have gone wrong.** Queueing is one of the enumerated causes of
+per-machine variability, so the candidate looks like a utilisation story. Switch utilisation off entirely, stipulating
+real slack and no queueing delay anywhere, and the amplification is unchanged: a fleet at ten per cent utilisation
+whose machines pause for garbage collection produces the identical arithmetic. **The mechanism is the fan-out, and the
+source of the variability is interchangeable.** Where an incumbent supplies one of several possible inputs to a
+candidate rather than the candidate's engine, it is a neighbour and not a parent.
+
+**A note on what was verified and what was declined.** The headline figure is checkable rather than citable, which is
+the best kind: ninety-nine hundredths raised to the hundredth is about thirty-seven per cent, so sixty-three per cent
+follows by arithmetic anybody can redo, and the warrant states it that way on purpose. The enumeration of causes was
+corroborated independently in different wording. A second worked example at a larger fan-out was **not** confirmed at
+source and was dropped, and the reported before-and-after latencies of a specific hedged lookup were left out of the
+warrant in favour of the structural claim they illustrate, that a few per cent of duplicated work buys back most of the
+tail. Every route to the paper itself was egress-blocked, so the pass leaned on corroboration across independent
+summaries and on arithmetic that needs no source at all.
