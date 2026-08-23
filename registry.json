@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.302.0",
+  "version": "0.303.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -30233,6 +30233,253 @@
           "kind": "process",
           "title": "Hardening",
           "taxonomy": "play_right_for_the_last_world.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "right_in_half_of_them",
+      "title": "Right in Half of Them",
+      "description": "One allele, two bodies that need opposite things from it: selection pulls both ways at once and neither sex arrives.",
+      "members": [
+        {
+          "file": "persona_the_allele.md",
+          "kind": "persona",
+          "title": "The Allele",
+          "type": "archetype",
+          "taxonomy": "position_shared.md"
+        },
+        {
+          "file": "persona_the_calf.md",
+          "kind": "persona",
+          "title": "The Calf",
+          "type": "archetype",
+          "taxonomy": "position_undifferentiated.md"
+        },
+        {
+          "file": "persona_the_compromise.md",
+          "kind": "persona",
+          "title": "The Compromise",
+          "type": "archetype",
+          "taxonomy": "position_displaced.md"
+        },
+        {
+          "file": "persona_the_hind.md",
+          "kind": "persona",
+          "title": "The Hind",
+          "type": "archetype",
+          "taxonomy": "position_burdened.md"
+        },
+        {
+          "file": "persona_the_stag.md",
+          "kind": "persona",
+          "title": "The Stag",
+          "type": "archetype",
+          "taxonomy": "position_selected.md"
+        },
+        {
+          "file": "persona_the_switch.md",
+          "kind": "persona",
+          "title": "The Switch",
+          "type": "archetype",
+          "taxonomy": "position_resolution.md"
+        },
+        {
+          "file": "piece_the_juvenile_agreement.md",
+          "kind": "piece",
+          "title": "The Juvenile Agreement",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "piece_the_load.md",
+          "kind": "piece",
+          "title": "The Load",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "piece_the_negative_correlation.md",
+          "kind": "piece",
+          "title": "The Negative Correlation",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "piece_the_sex_limited_switch.md",
+          "kind": "piece",
+          "title": "The Sex-Limited Switch",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "piece_the_shared_locus.md",
+          "kind": "piece",
+          "title": "The Shared Locus",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "piece_the_two_optima.md",
+          "kind": "piece",
+          "title": "The Two Optima",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "pitch_the_half_it_suits.md",
+          "kind": "pitch",
+          "title": "The Half It Suits",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "place_the_genome.md",
+          "kind": "place",
+          "title": "The Genome",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "place_the_pedigree.md",
+          "kind": "place",
+          "title": "The Pedigree",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "place_the_rut.md",
+          "kind": "place",
+          "title": "The Rut",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "plan_do_the_best_i_can_with_it.md",
+          "kind": "plan",
+          "title": "Do the Best I Can With It",
+          "taxonomy": "position_burdened.md"
+        },
+        {
+          "file": "plan_do_the_same_thing_in_both.md",
+          "kind": "plan",
+          "title": "Do the Same Thing in Both",
+          "taxonomy": "position_shared.md"
+        },
+        {
+          "file": "plan_leave_more_than_the_others.md",
+          "kind": "plan",
+          "title": "Leave More Than the Others",
+          "taxonomy": "position_selected.md"
+        },
+        {
+          "file": "plan_need_the_same_things_for_now.md",
+          "kind": "plan",
+          "title": "Need the Same Things for Now",
+          "taxonomy": "position_undifferentiated.md"
+        },
+        {
+          "file": "plan_sit_where_the_pull_balances.md",
+          "kind": "plan",
+          "title": "Sit Where the Pull Balances",
+          "taxonomy": "position_displaced.md"
+        },
+        {
+          "file": "plan_turn_it_off_in_one_of_them.md",
+          "kind": "plan",
+          "title": "Turn It Off in One of Them",
+          "taxonomy": "position_resolution.md"
+        },
+        {
+          "file": "play_right_in_half_of_them.md",
+          "kind": "play",
+          "title": "Right in Half of Them"
+        },
+        {
+          "file": "plot_as_calves_they_agree.md",
+          "kind": "plot",
+          "title": "As Calves They Agree",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "plot_neither_of_them_is_right.md",
+          "kind": "plot",
+          "title": "Neither of Them Is Right",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "plot_one_locus_two_bodies.md",
+          "kind": "plot",
+          "title": "One Locus, Two Bodies",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "plot_only_in_the_one_it_suits.md",
+          "kind": "plot",
+          "title": "Only in the One It Suits",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "plot_the_best_stags_had_the_worst_daughters.md",
+          "kind": "plot",
+          "title": "The Best Stags Had the Worst Daughters",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "position_burdened.md",
+          "kind": "position",
+          "title": "Burdened",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "position_displaced.md",
+          "kind": "position",
+          "title": "Displaced",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "position_resolution.md",
+          "kind": "position",
+          "title": "Resolution",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "position_selected.md",
+          "kind": "position",
+          "title": "Selected",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "position_shared.md",
+          "kind": "position",
+          "title": "Shared",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "position_undifferentiated.md",
+          "kind": "position",
+          "title": "Undifferentiated",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "process_diverging.md",
+          "kind": "process",
+          "title": "Diverging",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "process_limiting.md",
+          "kind": "process",
+          "title": "Limiting",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "process_pulling.md",
+          "kind": "process",
+          "title": "Pulling",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "process_settling.md",
+          "kind": "process",
+          "title": "Settling",
+          "taxonomy": "play_right_in_half_of_them.md"
+        },
+        {
+          "file": "process_sharing.md",
+          "kind": "process",
+          "title": "Sharing",
+          "taxonomy": "play_right_in_half_of_them.md"
         }
       ]
     },

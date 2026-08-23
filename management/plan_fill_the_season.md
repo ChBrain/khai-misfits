@@ -6561,3 +6561,46 @@ is the house's own convention for that row. But the cells are bare, so the pass 
 and then a declaration, which is a governance job of its own and belongs beside the bare `Price` cell in The Head
 Start. **The scan pattern also undercounts**: `grep -c "^| \*\*Krueger\*\* "` returns one because continuation rows
 key on the arrow, so the count answers whether a surname is taken and never how many people are under it.
+
+**The twenty-fifth sweep ran the fourth instrument across the whole house for the first time, and the count is not
+three.** Earlier passes described the isolates as a set of three, which was the **founding cohort's** isolates and not
+the house's: read over all 302 misfits, **64** are named by nothing. That is 21 per cent, which matches the
+house-wide figure the twenty-third sweep already computed, so nothing is wrong with the instrument. What was wrong was
+the scope of the sentence.
+
+**And the opportunity weighting is the whole of how to read that list.** None of the 64 is from the founding cohort
+any more, and most are recent: a misfit authored last week has had no opportunity to be cited by anything, so its
+isolation measures the calendar. Sorting the isolates by their warrant's `updated` date is therefore not a
+convenience, it is the correction, and the informative end is the **old** one. The July isolates are the shortlist:
+The Loyalty Trap, The High-Water Mark, Whoever Asks Last, Faster Than It Can Cool, Back to Even, No One Gains by
+Telling You, Outranked from Below, Stranger Than True, Nearest the Spring, The Fire That Feeds You, The Widening Want,
+Ask Me When It Hurts, The Sole Supplier, Whatever's in the Can, Not All Hers to Give, An Army That Cannot Turn, Good
+Enough to Hold, Kept for the Worst, Saved for Something Else.
+
+**Not All Hers to Give was the one opened, and its neighbourhood was empty in every direction scanned**: `sexual
+conflict` 0, `sexually antagonist` 0, `intralocus` 0, `sex ratio` 0, `siblicide` 0, `brood reduction` 0, `kin
+selection` 0, `haplodiploid` 0, `sperm competition` 0, `balancing selection` 0, `heterozygote` 0, `genetic load` 0,
+`dimorphism` 0, `genetic correlation` 0. That produced **Right in Half of Them**. The region is still largely open
+after it: sex ratio, siblicide and haplodiploidy were all found unstaged and none was scanned for a mechanism, so the
+next author entering evolutionary genetics has a shortlist rather than a blank page.
+
+**The dedup ran against four incumbents and the sharpest test was The Arms Race.** Sexual conflict is two phenomena
+and the house should hold only one of them: **interlocus** conflict is antagonistic coevolution, an escalation with
+harm inflicted and countered, which is The Arms Race's shape; **intralocus** conflict has no antagonist at all,
+because the two selection pressures do not act on each other, they act on the same locus. Switch off escalation
+entirely, stipulating that no party ever responds to another's move, and this misfit is unchanged in every quantity.
+The warrant says so explicitly and declines the escalating version. **Where a literature carries two mechanisms under
+one name, the dedup is against the sibling and not against the house.**
+
+**And the second-best test was The Fire That Feeds You, which is the same shape on another axis.** Antagonistic
+pleiotropy is one allele good early and bad late in **one body**; sexual antagonism is one allele good in one body and
+bad in another **at the same age**. Both are a single locus with two opposed effects, and the difference decides
+which misfit it is: under pleiotropy the individual bears the whole of the cost itself, and under sexual antagonism
+an individual in the favoured sex bears none of it. **Ask where the cost lands, not what shape the trade is.**
+
+**A caution the pass turned up and did not need: the shared-genome framing very nearly annexed the juvenile stage.**
+The obvious reading is that a shared genome causes the conflict, and it does not: the fruit fly work read fitness at
+two stages and found juvenile survival correlated **positively** across the sexes and adult reproductive success
+**negatively**, with the genome equally shared at both. So the conflict has a start, and the start is the divergence
+of the phenotypes. That is the mechanism supplying its own control, which is worth wanting in a candidate: **a finding
+that includes the case where it does not hold is stronger than one that does not.**
