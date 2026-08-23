@@ -6736,3 +6736,24 @@ it would have anchored, a recessive at high frequency in one breed, could not be
 cite: the search that offered it answered in the question's own words, which is the tell this register already
 records. **A row that cannot be traced is dropped whatever it would have added**, and the namesake cost is a reason to
 check the merits rather than a reason on its own.
+
+**The eight declarations are in, and eight surnames became nineteen people.** The cells-first pass landed with the
+Origin Source repair, so this pass owed nothing and cost one edit: `Fisher` splits into Irving and Ronald; `Kravitz`
+into J and Richard; `Meissner` into Christian and Dennis; `Huber` into Gregory A and Joel; `Hicks` into John and
+Tanner R; and three of them carry three people each, `Gordon` as David B, H Scott and Sanford C, `Friedman` as Jerome,
+Lawrence M and Milton, `Thompson` as A H, Dennis and Matthew P. The house now declares **54** shared surnames, with 0
+unresolved, 0 unreachable forms and 0 shared works across 1943 index rows.
+
+**And the shape of the whole debt is now visible, which is worth stating once.** Every one of these was invisible until
+somebody asked the index a question it had not been asked. `Fisher` surfaced because a misfit needed R A Fisher and the
+house held Irving. Seven more surfaced because the Origin Source repair put forty-two new rows into the index at once.
+Three of those seven, the third Friedman, the third Gordon and the third Thompson, surfaced only because the
+declaration itself was written and `--namesakes` was read afterwards. **Nothing found any of them by looking.** The
+instrument that finds a namesake is always a change that forces the index to resolve, and the scan only decides where
+to point it.
+
+**Two are left and they are the same shape.** `Krueger` carries three people bare, Alan B in Larger in the Looking,
+Joachim I in The Skill to See It and Anne O in Rent Seeking, so it is a three-cell pass and then a declaration. The
+bare `Price` cell in The Head Start is Derek de Solla Price and is one cell. Neither fails anything today, and the
+reason to clear them is that a bare key holding three people reports as `1` to the surname scan and reads like the
+cheapest possible hit.
