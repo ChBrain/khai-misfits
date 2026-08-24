@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.308.1",
+  "version": "0.308.2",
   "misfits": [
     {
       "kind": "misfit",
