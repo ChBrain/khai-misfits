@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.308.2",
+  "version": "0.309.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -62471,6 +62471,234 @@
           "kind": "process",
           "title": "Vetoing",
           "taxonomy": "play_vetocracy.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "wait_your_turn",
+      "title": "Wait Your Turn",
+      "description": "One queue served in the order people joined it, and a free counter nobody behind the front may walk to.",
+      "members": [
+        {
+          "file": "persona_the_first_in_line.md",
+          "kind": "persona",
+          "title": "The First in Line",
+          "type": "archetype",
+          "taxonomy": "position_head.md"
+        },
+        {
+          "file": "persona_the_matcher.md",
+          "kind": "persona",
+          "title": "The Matcher",
+          "type": "archetype",
+          "taxonomy": "position_matched.md"
+        },
+        {
+          "file": "persona_the_one_behind.md",
+          "kind": "persona",
+          "title": "The One Behind",
+          "type": "archetype",
+          "taxonomy": "position_held.md"
+        },
+        {
+          "file": "persona_the_open_door.md",
+          "kind": "persona",
+          "title": "The Open Door",
+          "type": "archetype",
+          "taxonomy": "position_available.md"
+        },
+        {
+          "file": "persona_the_utilisation.md",
+          "kind": "persona",
+          "title": "The Utilisation",
+          "type": "archetype",
+          "taxonomy": "position_measured.md"
+        },
+        {
+          "file": "piece_the_fifty_eight_per_cent.md",
+          "kind": "piece",
+          "title": "The Fifty-Eight Per Cent",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "piece_the_idle_reading.md",
+          "kind": "piece",
+          "title": "The Idle Reading",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "piece_the_independent_streams.md",
+          "kind": "piece",
+          "title": "The Independent Streams",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "piece_the_legitimate_wait.md",
+          "kind": "piece",
+          "title": "The Legitimate Wait",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "piece_the_order_they_came_in.md",
+          "kind": "piece",
+          "title": "The Order They Came In",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "piece_the_permission.md",
+          "kind": "piece",
+          "title": "The Permission",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "pitch_everybody_kept_the_rule.md",
+          "kind": "pitch",
+          "title": "Everybody Kept the Rule",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "place_the_doors.md",
+          "kind": "place",
+          "title": "The Doors",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "place_the_line.md",
+          "kind": "place",
+          "title": "The Line",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "place_the_meter.md",
+          "kind": "place",
+          "title": "The Meter",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "plan_finish_what_i_am_waiting_for.md",
+          "kind": "plan",
+          "title": "Finish What I Am Waiting For",
+          "taxonomy": "position_head.md"
+        },
+        {
+          "file": "plan_go_now_i_am_ready.md",
+          "kind": "plan",
+          "title": "Go Now, I Am Ready",
+          "taxonomy": "position_held.md"
+        },
+        {
+          "file": "plan_pair_every_line_to_a_free_door.md",
+          "kind": "plan",
+          "title": "Pair Every Line to a Free Door",
+          "taxonomy": "position_matched.md"
+        },
+        {
+          "file": "plan_report_what_is_being_used.md",
+          "kind": "plan",
+          "title": "Report What Is Being Used",
+          "taxonomy": "position_measured.md"
+        },
+        {
+          "file": "plan_stand_open.md",
+          "kind": "plan",
+          "title": "Stand Open",
+          "taxonomy": "position_available.md"
+        },
+        {
+          "file": "play_wait_your_turn.md",
+          "kind": "play",
+          "title": "Wait Your Turn"
+        },
+        {
+          "file": "plot_a_line_for_every_door.md",
+          "kind": "plot",
+          "title": "A Line for Every Door",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "plot_first_come_first_served.md",
+          "kind": "plot",
+          "title": "First Come, First Served",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "plot_nothing_is_busy.md",
+          "kind": "plot",
+          "title": "Nothing Is Busy",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "plot_the_door_was_open.md",
+          "kind": "plot",
+          "title": "The Door Was Open",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "plot_waiting_on_something_real.md",
+          "kind": "plot",
+          "title": "Waiting on Something Real",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "position_available.md",
+          "kind": "position",
+          "title": "Available",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "position_head.md",
+          "kind": "position",
+          "title": "Head",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "position_held.md",
+          "kind": "position",
+          "title": "Held",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "position_matched.md",
+          "kind": "position",
+          "title": "Matched",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "position_measured.md",
+          "kind": "position",
+          "title": "Measured",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "process_blocking.md",
+          "kind": "process",
+          "title": "Blocking",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "process_matching.md",
+          "kind": "process",
+          "title": "Matching",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "process_measuring.md",
+          "kind": "process",
+          "title": "Measuring",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "process_ordering.md",
+          "kind": "process",
+          "title": "Ordering",
+          "taxonomy": "play_wait_your_turn.md"
+        },
+        {
+          "file": "process_stalling.md",
+          "kind": "process",
+          "title": "Stalling",
+          "taxonomy": "play_wait_your_turn.md"
         }
       ]
     },
