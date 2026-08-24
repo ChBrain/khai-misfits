@@ -6901,3 +6901,157 @@ cell in The Winning Bid rides this misfit's lane, as the previous pass required.
 cells-first pass and both existing cells were already written `John List`, in Loath to Part and Not While You Are
 Watching, so it is the table's middle row: **undeclared does not mean bare**, and no cells were owed. Declaring
 `Wilson: ["James Q", "Robert", "Timothy"]` and `List: ["Christian", "John"]` is one governance pass owing nothing.
+
+**The thirty-first pass is a refill, because the season ran dry and nobody had said so.** The slate stands at
+222 struck and **one** unstruck, and that one is The Channel That Closes, which carries its own kill condition
+for subject sensitivity and is to be dropped rather than softened. So there has been no next candidate at the
+top of this plan for some passes, and the last several were taken from the isolate shortlist and from the field
+count instead. That is the register working as designed, but a backlog of one is not a backlog, and a pass that
+authors without refilling leaves the next author reading a struck list.
+
+**The isolate instrument was recomputed first and it agrees with itself across six misfits of growth**: over
+308 misfits, **63** are named by nothing, against 64 at 302, so the share is steady at 20 per cent and the
+instrument has not drifted. Sorted by warrant date, the informative end is unchanged and the oldest isolate is
+**The Loyalty Trap**, at 2026-07-03, a clear **three weeks** older than the next, and it sits in **Groups,
+candour, and face**, at 22 the thinnest substantial field. Two instruments pointing at one misfit is as strong
+a signal as this register produces.
+
+**They pointed at nothing, and that is the finding worth carrying.** The probe around The Loyalty Trap
+returned seven zeros: `organizational silence` 0, `ostracism` 0, `shooting the messenger` 0, `black sheep` 0,
+`face-threatening` 0, `politeness theory` 0, `code of silence` 0. Read as a region that reads empty, it is the
+best opening the pass found. Read against what the incumbents actually **hold**, every one of them is already
+staged under another name: the spiral of silence is in **The Trip to Abilene**, the MUM effect is in
+**Watermelon Reporting**, exit and voice are in **The Loyalty Trap** itself, and the face family is split
+between **Saving Face** and **Closing Ranks**. Seven zeros, seven mechanisms held. **A zero in the vocabulary
+is not a zero in the mechanism**, and the probe has to be read against the incumbents' engines rather than
+against their prose, which is the same dedup rule this file already states and is easy to drop when the
+instrument is a `grep -c`.
+
+**And the two instruments agreeing was not corroboration, because they were measuring one thing.** A misfit is
+an old isolate and sits in a small field for a single reason: the region was worked early and closed. The
+oldest isolate in the thinnest field is therefore the **most** likely to be exhausted, not the least, and the
+signal reads backwards from how the twenty-fifth sweep set it up. That does not retire the instrument, which
+found Not All Hers to Give and Whoever Asks Last on the same reading. It qualifies it: **the isolate list
+locates an unopened neighbourhood, and a neighbourhood can be unopened because it is empty.** CLAUDE.md
+already says this about the field count, that the count orders the search and never says what is there, and
+the eighth sweep already found every candidate in this exact field held by an incumbent. This pass found it
+again from the other direction, which is a second reading of a rule the house had one reading of.
+
+**Moved to Organisations, hierarchy, and management, the thinnest substantial field after Groups at 33, and
+to the systems regions, the same probe returned zeros that survive the reading.** Three of them are strong
+enough to lead, and every one was cleared through all three sanctioned instruments before slating: the
+shared-work wall on each candidate work, the surname scan on each leading author, and the mechanism dedup
+against the named incumbents by switching each incumbent's engine off.
+
+**Head-of-line blocking is the cleanest candidate the pass found, and its dedup is unusually sharp because
+the harm happens where the nearest incumbent has none.** A single stalled item at the front of a
+first-come queue blocks every item behind it that could otherwise be served, and the discipline that causes
+it is the fair one. The core is checkable without reaching a source, which the last several passes have made
+a practical requirement: an input-queued switch with first-come ports saturates at **2 − √2 ≈ 58.6 per cent**
+of throughput under uniform traffic, so more than two fifths of the capacity is lost to the ordering alone,
+with the outputs those packets want sitting free. Who pays is everyone behind the head. There is no free hero:
+virtual output queueing buys the throughput back at N queues per port and a matching algorithm, and the
+protocol answer of independent streams, which is what QUIC took over TCP, spends the single ordered byte
+stream that made the transport simple. Four incumbents, each switched off in turn:
+
+- **No Idle Hands** stages the utilisation trap, so stipulate real slack, a server idle almost all the time.
+  Head-of-line blocking is untouched, and this is the sharp one: **the blocked packet is not waiting for a
+  busy server, it is waiting for a free one it is not permitted to reach.** The harm here is at its purest
+  at low load, which is where the utilisation trap has no harm at all.
+- **Outranked from Below** stages priority inversion, so stipulate every task at one priority. Priority
+  inversion is definitionally gone and this is unchanged, because nothing here turns on rank.
+- **The Last One to Answer** stages the tail at scale, so set the fan-out to one. Untouched: one queue, one
+  stalled head, and no slowest-of-N anywhere in it.
+- **Too Kind to Drop** stages bufferbloat, whose quantity is buffer depth, so stipulate the shallowest queue
+  that can hold two. Untouched, and that is the point: **a queue of depth two already carries the whole
+  defect**, where bufferbloat needs a deep one.
+
+**Structural inertia is the pass's hard call, and it is slated on a cut rather than on a concept.** Hannan and
+Freeman's argument is that selection favours organisations that are reliable and accountable; those properties
+require reproducible structure; reproducible structure **is** inertia; and attempting to reorganise destroys
+the reliability record and returns the organisation to the mortality hazard of a new one. The nearest
+incumbent is **Right for the Last World** and it very nearly annexes this. That misfit's hinge is that nobody
+inside is positioned to see the environment turn, so stipulate an organisation that sees the turn perfectly,
+immediately, and agrees on the form it now needs: Right for the Last World is defused entirely and this stands
+at full strength, because **seeing was never the problem here**. Run it the other way for the confirmation
+this register asks for, and the answer is the cut: set **this** candidate's own quantity to zero, stipulating
+that reorganising is free and costs no reliability, and the trap collapses, because the organisation would
+simply adapt. So the load-bearing quantity is the **hazard of the attempt**, and a version of this written as
+a structure overtaken by a changed world is Right for the Last World in new clothes and must not be authored.
+**The cut is the whole of whether this is a misfit**, which is why it is slated with the cut attached.
+
+**Threat rigidity is open on every reading and its scholar is the useful case.** Under threat, individuals,
+groups and organisations restrict information processing and constrict control, narrowing the channels and
+centralising the authority at the moment that calls for more information and a wider range of response, and
+there is no villain in it, because falling back on the well-learned response is what has always worked. The
+vocabulary probe returned zero on every term in the region, `threat rigidity`, `tunnel vision`, `attentional
+narrowing`, `restriction of information` and `well-learned`, and unlike the seven zeros above **these survive
+the reading**, because no incumbent holds the mechanism under any name. Stating the probe both ways in one
+pass is what makes either half of it evidence. The mechanism dedup runs against **Good Money After Bad**,
+whose quantity is the prior investment being defended: stipulate a body that has spent nothing and has no
+commitment to justify, meeting a threat on its first day, and threat rigidity fires at full strength, because
+the response is to the threat and not to the sunk cost.
+
+**Two of the three leads carry a surname the index already holds, and they are in opposite rows of the
+namesake table, which is the cheapest demonstration of it the house has had.** `Freeman` is **already
+declared**, at `["J Leiper", "Jo"]`, Jo Freeman carrying The Tyranny of Structurelessness in No One in Charge;
+Hannan and Freeman's Freeman is **John**, a third person. That is the table's bottom row, so **the declaration
+goes first**, in its own governance pass, before the structural-inertia misfit can be written into the house
+at all: the moment that Origin row lands the occurrence is unresolved and `npm test` fails. The form is safe
+in any order here, since the prefix arm requires a trailing space and `Jo` therefore does not absorb `John`,
+but it is written longest-first by the house convention, `["J Leiper", "John", "Jo"]`. `Staw`, by contrast, is
+**undeclared and owes nothing and must stay undeclared**: Barry Staw carries the Shoreham escalation paper in
+Good Money After Bad and the threat-rigidity paper is the same person on another work, which is the expected
+case and most of the index, and declaring it would be exactly the error the rule names, splitting one scholar
+across two keys and defeating the wall.
+
+**And the middle row turned up twice more, in passing, which is now the second pass running to find it.**
+Taking the organizational-ecology literature further would bring a `Barnett` and a `Kelly` against the house's
+Michael L. Barnett in The Youngest in the Room and Kevin Kelly in The Shirky Principle. Both existing cells
+are **already written with given names**, so neither owes a cell and both declarations, if they are ever
+needed, are free. Undeclared does not mean bare. The given names on the incoming side are **not** verified
+here and are not written down as though they were; they are checked at authoring, when the citation is fixed.
+
+**The end-of-pass note the last three passes have earned: this scan is the first source set, not the second.**
+Every candidate below was cleared against the sources the pass **planned**, and this register's own record is
+that the namesakes arrive with the sources the subject turns out to need. The re-scan at the end of each build
+is owed and is not discharged here.
+
+- [ ] [P1] Head-of-Line Blocking (Karol, Hluchyj & Morgan, IEEE Trans. Communications, 1987): one stalled item at
+      the front of a first-come queue blocks every item behind it that could be served now, and the fair discipline
+      is the cause. **Who pays is everyone behind the head.** The hard number is checkable without a source: 2 − √2,
+      about 58.6 per cent saturation throughput for first-come input queueing. **Distinct from No Idle Hands
+      (bites at low load, where the utilisation trap has no harm), Outranked from Below (no priorities in it),
+      The Last One to Answer (no fan-out in it), and Too Kind to Drop (a queue of depth two already has it).**
+- [ ] [P1] Structural Inertia (Hannan & Freeman, _American Sociological Review_, 1984): selection favours the
+      reliable and accountable, those properties require reproducible structure, and reorganising destroys the
+      reliability record and restores the mortality hazard of a new organisation, so **the adaptive move is the
+      dangerous one**. **Who pays is the organisation that tries to change.** **Slated on its cut and not
+      otherwise: the quantity is the hazard of the attempt, never the overtaken form**, which is Right for the
+      Last World. **Blocked on governance**: `Freeman` is declared and needs `John` added before this can land.
+- [ ] [P1] Threat Rigidity (Staw, Sandelands & Dutton, _Administrative Science Quarterly_, 1981): under threat,
+      information processing narrows and control centralises, at exactly the moment more information and a wider
+      response range are called for, and the narrowing is the well-learned response that has always worked.
+      **Who pays is the body already in trouble.** **Distinct from Good Money After Bad**: no prior investment is
+      needed, it fires on a body that has spent nothing. `Staw` is one scholar on two works and must stay undeclared.
+- [ ] [P2] The Boiling Crisis (departure from nucleate boiling; Nukiyama 1934, Kutateladze 1948, Zuber 1959):
+      raise the heat flux on a boiling surface and transfer improves, up to a critical flux at which the bubbles
+      merge into an insulating vapour film and transfer collapses, so the surface temperature jumps by hundreds of
+      degrees **at the moment more cooling is being asked of it**. **Distinct from Faster Than It Can Cool**, whose
+      quantity is a self-accelerating exotherm: stipulate no reaction at all, a plain electric heater, and this is
+      unchanged, because nothing here generates heat and it is the **removal** that fails. **The precondition is an
+      operator**: the house standard wants locally rational conduct, and this needs the reasonable act, turning the
+      power up because the surface still reads cool, to be the act that crosses the threshold. **Drop the line if
+      the literature does not carry that operator**, rather than casting one to fit.
+- [ ] [P2] Sequential Attention to Goals (Cyert & March, _A Behavioral Theory of the Firm_, 1963): an organisation
+      with conflicting goals does not trade them off, it attends to them one at a time as each becomes pressing,
+      so it oscillates between them and never rests at a compromise either faction would have signed.
+      **Who pays is both factions.** **The cut against Fixes that Fail and Accidental Adversaries must be written
+      before authoring**, and the canon exit checked, since the source is a foundational text of its field.
+
+**One candidate is recorded as held rather than slated, and the reason is the annexation test.** The **convoy
+effect**, a slow lock-holder gathering a train behind it that persists after the holder has released, probed
+at zero and looks like a separate play. It is not: it is head-of-line blocking's own consequence in another
+domain, and its harm scales with exactly the quantity the P1 candidate stages. If that candidate is authored
+the convoy is an **Origin row** in it and never a play beside it. **Competency trap** was raised by the same
+probe and struck outright, already carried by The Success Trap and You Have to Know It to Learn It.
