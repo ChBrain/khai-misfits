@@ -498,10 +498,32 @@ rebasing a misfit PR means rebuilding, not merging:
 3. run `npx khai-tests registry build`, `npx khai-tests science build` and
    `node tests/science_overlap.mjs --build-refs` against the final tree;
 4. **revert `CHANGELOG.md`**, see below;
-5. verify with `npm test` before pushing.
+5. run `npm run format`, see below;
+6. verify with **both** `npm test` and `npm run format:check` before pushing.
 
 The count is read from the directories on disk, so an untracked misfit left in
 the tree inflates it: build with only the misfit you are shipping present.
+
+**And `npm test` is not the `khai-tests` job.** That job runs
+`npm run format:check` **first** and exits on failure, so a formatting fault
+fails CI having never reached the suite: the report reads `khai-tests` red while
+`npm test` is green locally, and both statements are true at once. Reading the
+job name as the suite is what makes it cost a cycle.
+
+**The fault has exactly one source, and the reason it is missed is that the
+other two builders do not have it.** `npx khai-tests registry build` and
+`npx khai-tests science build` emit `registry.json` and `docs/SCIENCE.md`
+Prettier-clean, every time. `--build-refs` does not: it writes its Origin tables
+**compact** where Prettier wants them column-aligned, so **a rebuilt
+`REFERENCES.md` is unformatted every time**, and a pass that formats the misfit
+directory never reaches it, because it is not in the misfit directory. Three
+builds run, one file comes back dirty, and it is the one furthest from what was
+being authored.
+
+Formatting it does not put it at odds with the build: the drift gate normalises
+whitespace, so the formatted file still equals a fresh build from the warrants.
+**The two gates are satisfiable together and always were**, and the only way to
+fail is to check one of them.
 
 **Do not carry `CHANGELOG.md` in a misfit PR.** From `khai-tests` 0.2.4 the
 registry build heals the top CHANGELOG heading to the manifest. That is right in
