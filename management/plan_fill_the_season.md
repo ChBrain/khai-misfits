@@ -6866,3 +6866,38 @@ seven surnames by the Origin Source repair putting forty-two rows in at once, a 
 `Thompson` by writing the declaration and reading `--namesakes`, and now a third `Wilson` by the same move. **The scan
 says where to point the instrument and the declaration is the instrument.** A pass that scans, finds the cells named,
 and skips the local declaration will keep missing exactly this.
+
+**The thirtieth pass went to Collective action, one of the two thinnest substantial fields, and found judgment
+aggregation wholly unstaged**: `doctrinal paradox` 0, `discursive dilemma` 0, `judgment aggregation` 0,
+`impossibility theorem` 0, `en banc` 0, `appellate` 0. That produced **Which Question First**. The region around
+Whoever Asks Last had been on the isolate list since the twenty-fifth sweep and had not been opened.
+
+**The dedup ran against two Condorcet incumbents and separated on what breaks rather than on subject.** Whoever Asks
+Last stages the Condorcet **paradox**: majority preferences over three or more options cycle, and agenda control
+exploits the cycle. Switch that engine off entirely, stipulating transitive individual preferences **and** a
+transitive majority relation with no cycle anywhere, and this misfit is untouched, because **there is no cycle here
+and there are only two options**. What fails is not transitivity but consistency: the set of propositions a majority
+supports cannot all be true together. And Too Sure to Be True stages the Condorcet **jury theorem**, which is about
+accuracy; switch off every assumption about who is likely to be right and this stands, because the contradiction would
+arise among three infallible judges who merely saw different evidence. **Three misfits now sit in one literature and
+break three different things**, which is the useful shape: the family is the search space and the broken property is
+the dedup.
+
+**And the load-bearing thing is the part everybody agrees on, which is worth watching for.** Without a logical link
+between the two questions, majorities on each compose into nothing and there is no difficulty at all. It is precisely
+because all three judges accept that liability requires a contract **and** a breach that a majority-backed set can be
+inconsistent. **The one uncontested element is the cause**, and being uncontested is exactly why nobody examines it
+when the contradiction appears. A candidate whose engine is the agreed premise rather than the disputed one is rare
+and is worth taking.
+
+**The arithmetic is stated in the open again, for the second pass running.** Contract yes by two to one, breach yes by
+two to one, so the agreed rule gives liable; ask the same three for verdicts and it is not liable by two to one. Both
+counts are genuine and neither is a trick. **A candidate whose core the reader can check without a source is worth
+more than one that needs a citation nobody can reach**, which the egress conditions of the last several passes have
+made a practical rule and not only an aesthetic one.
+
+**`Wilson` is paid and `List` turns out to owe nothing, so both declarations are now free.** The bare Robert Wilson
+cell in The Winning Bid rides this misfit's lane, as the previous pass required. `List` was scanned expecting a
+cells-first pass and both existing cells were already written `John List`, in Loath to Part and Not While You Are
+Watching, so it is the table's middle row: **undeclared does not mean bare**, and no cells were owed. Declaring
+`Wilson: ["James Q", "Robert", "Timothy"]` and `List: ["Christian", "John"]` is one governance pass owing nothing.
