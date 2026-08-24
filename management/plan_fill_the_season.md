@@ -7055,3 +7055,76 @@ at zero and looks like a separate play. It is not: it is head-of-line blocking's
 domain, and its harm scales with exactly the quantity the P1 candidate stages. If that candidate is authored
 the convoy is an **Origin row** in it and never a play beside it. **Competency trap** was raised by the same
 probe and struck outright, already carried by The Success Trap and You Have to Know It to Learn It.
+
+**The thirty-second pass was pointed by a persona rather than by the field count, and that is the part worth
+keeping.** The instrument was the maverick: search for the people who saw the abandoned end of the street,
+broke for the edge, and paid the centre's mass to stand there, then run what they turn up against the house.
+It is a different probe from the ones this register usually runs, because it enters through a **figure** and
+not through a literature, and it produced one slated candidate from eleven lives, with nine of the eleven
+recorded below as Origin rows rather than plays. The ratio is the point: the probe is generative precisely
+because most of what it finds belongs to an incumbent, and the register is cheaper than the rediscovery.
+
+**The maverick's business half is an Origin campaign for The Crowded Middle and never a play.** Herb Kelleher
+at Southwest, A.P. Giannini banking the immigrant depositor, Mary Kay Ash, Cyrus McCormick, Kemmons Wilson at
+Holiday Inn, and Theodore Roosevelt's 1912 split all serve an abandoned end while the rivals converge. Probed
+at zero they go quiet together: **name Hotelling's quantity, the pull to the centre, set it to zero, and the
+differentiator is only a firm serving a market.** The break for the edge means something _because_ the middle
+is crowded, so the harm is the incumbent's and these are its Origin rows. That is worth doing on its own
+terms, since The Crowded Middle rests on Hotelling alone and this would run it across six domains from 1912
+to 1971, and the register's own standard is that a mechanism shown in four domains over sixty years is a
+finding where one paper is a claim.
+
+**The science half splits on the incumbent's own quantity, and that is where the pass earned its candidate.**
+No Place in the Theory stages the Semmelweis reflex and scopes itself tightly: evidence rejected **for want of
+a mechanism the theory recognises**, by rejection that is "not malice but ordinary and usually correct
+inference". Run the maverick's scientists against that quantity and they separate cleanly. Shechtman is the
+incumbent's own case, quasicrystals violating the crystallographic restriction with no accepted mechanism.
+Zwicky is not rejection at all but neglect, forty years of being ignored, and the register should not stage
+neglect as rejection. Goddard's ridicule was lay and press, not a field's, and the incumbent's mechanism is a
+field's inference. **Chandrasekhar is the one that survives**, and he survives on the incumbent's own test.
+
+**Slated: the eminent's veto, and it is slated because the switch-off test cuts the other way.** Chandrasekhar
+had the mechanism. Relativistic degeneracy was derived, complete and correct, and Eddington destroyed it in
+public at the Royal Astronomical Society in 1935 on authority and aesthetic conviction rather than on any
+missing account. **Set No Place in the Theory's quantity to zero, stipulate a mechanism the theory fully
+recognises, and Chandrasekhar is still destroyed**, which is this register's own rule for a play rather than
+an Origin row. It survives in reverse too: **remove every eminent gatekeeper and Semmelweis is still
+destroyed**, by a whole profession and no single occupant. Two quantities, two plays, and **the incumbent
+needs no narrowing** - its warrant never claimed the authority case, so this is built beside it and the two
+name each other.
+
+- [ ] [P1] The Eminent's Veto (Planck, _Scientific Autobiography_ (1950), for the claim; Azoulay, Fons-Rosen &
+      Graff Zivin, "Does Science Advance One Funeral at a Time?", _American Economic Review_ 109(8), 2889-2920
+      (2019), for the test; Barber, "Resistance by Scientists to Scientific Discovery", _Science_ (1961), for
+      the survey; Eddington against Chandrasekhar, Royal Astronomical Society (1935), for the case): a field's
+      living eminence occupies its frontier, and outsiders decline to enter against a star who is still there,
+      so a correct result that contradicts the occupant waits for a funeral rather than for evidence. **The
+      quantity is the star being alive**, which is why the warrant is unusually hard: Azoulay and colleagues
+      measure premature deaths of eminent life scientists and find non-collaborator entry rising afterwards,
+      drawing on a different corpus and disproportionately highly cited. **Who pays is the outsider with the
+      right answer, and the field that waits.** **Distinct from No Place in the Theory on the switch-off test**:
+      stipulate a mechanism the theory fully accepts and this is unchanged, because nothing here turns on the
+      account being missing and everything turns on who is standing there. **Distinct from The Loud Few and
+      Vetocracy**, which stage a blocking minority in a decision procedure: this needs no procedure and no vote,
+      only occupancy. **The axis is declarable and should be**, since the quantity is measurable and the
+      register's standing weakness is that most of the house declares none. **Dedup at the time of scanning**:
+      `Azoulay`, `Planck`, `Barber`, `Stent`, `Eddington`, `Chandrasekhar`, `Zwicky`, `Shechtman` and `Goddard`
+      all returned clear on `--surname`, and no work is shared. **The AER citation is verified**; the other
+      three are from the scanning author's reading and are **not** written down as though checked, and are
+      fixed at authoring.
+
+**Nine of the eleven lives are recorded as Origin rows or struck, so the next pass does not re-derive them.**
+Kelleher, Giannini, Ash, McCormick, Wilson and Roosevelt are **Origin rows in The Crowded Middle**, on the
+zero-probe above. Shechtman is an **Origin row in No Place in the Theory**, being its own case in another
+decade. Zwicky is **struck**: neglect is not rejection, and staging it as rejection would annex a mechanism
+the house has not established. Goddard is **held, not slated**: the ridicule is real and the vindication is
+real, but the ridiculing body is the press and not the field, and until a literature carries lay ridicule of
+correct technical work as its own mechanism there is no spine to build on. **Samuel Maverick himself is
+struck, and the reason is worth keeping**: he never chose the edge at all, he simply failed to brand his
+cattle, and a play whose persona is indifferent rather than differentiated has no locally rational conduct to
+stage. The word outran the man.
+
+**The end-of-pass note this register now writes every time: this scan is the first source set, not the
+second.** The candidate above was cleared against the sources the pass planned. The re-scan at the end of the
+build is owed and is not discharged here, and on this candidate it is likelier than usual to bite, because
+the history-of-science literature the subject will actually need is not the literature the pass entered by.
