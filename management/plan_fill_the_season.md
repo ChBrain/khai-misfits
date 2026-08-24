@@ -6797,3 +6797,54 @@ source and was dropped, and the reported before-and-after latencies of a specifi
 warrant in favour of the structural claim they illustrate, that a few per cent of duplicated work buys back most of the
 tail. Every route to the paper itself was egress-blocked, so the pass leaned on corroboration across independent
 summaries and on arithmetic that needs no source at all.
+
+**The twenty-ninth pass discarded its first candidate, and the discard is the more useful half of it.** Organisations
+is one of the two thinnest substantial fields, so the region around The Sole Supplier and Whatever's in the Can was
+scanned. Most of it is occupied (`competency trap` 2, `isomorphism` 3, `Parkinson` 4, `escalation of commitment` 2),
+but **common agency** was wholly empty: `multiple principals` 0, `common agency` 0, `role conflict` 0,
+`competing priorities` 0. The candidate was: one agent serving several principals cannot be given a strong incentive
+for anything, because each principal's scheme is set non-cooperatively against the others. Every surname was clear
+except two.
+
+**It was dropped because the theory said closer to the opposite of the framing.** Dixit, Grossman and Helpman (1997)
+is the paper the mechanism would rest on, and its headline result is that the principals' Nash equilibrium **in
+truthful strategies implements an efficient action**. The dilution story is real in the applied literature, where
+Voorn and colleagues (2019) find principals free-riding on steering and monitoring, but that is a **collective-action
+problem among principals**, which is a different mechanism and runs straight into The Commons and Everybody's Business.
+So the candidate's engine moved once, from _incentives diluted_ to _principals free-ride on oversight_, and the second
+version has strong incumbents. Every route to a primary source was egress-blocked. **The mechanism moved and the
+sources could not settle it, so it goes back on the list rather than forward into a play.**
+
+Two rules the register already holds did the work, and both held: _a row that cannot be traced is dropped whatever it
+would have added_, and _where the mechanism has moved, go back to the original rather than forward to the next_. The
+thing worth adding is narrower: **when a candidate's spine is a theoretical result rather than a measurement, check
+what the result actually concludes before designing the play around what the result is famous for.** The famous thing
+about common agency is that many principals are a problem; the theorem is about when they are not.
+
+**What was built instead came off the register's own shortlist.** The twenty-fifth sweep recorded siblicide and brood
+reduction as unstaged and unscanned, and the region is still empty: `siblicide` 0, `brood reduction` 0, `insurance egg`
+0, `clutch size` 0, `hatching asynchrony` 0, `booby` 0. That produced **The Spare Has to Eat**. One region of that
+shortlist remains, haplodiploidy and worker policing, in the same condition.
+
+**The dedup that decided it is a one-line inversion of an incumbent, which is the cleanest kind.** Belt and Braces
+stages the redundancy paradox: adding backups lowers reliability. Switch that engine off entirely, stipulating
+redundancy that is perfectly effective with no common-mode failure and no complacency, and this misfit is untouched,
+because **the redundancy here works**: the second egg really does produce a fledgling in the four seasons in ten the
+first fails. The difficulty is that it consumes the resource it was held against. **There redundancy fails; here it
+succeeds and is killed.** Where a candidate and an incumbent share a subject, look for the inversion before looking
+for the overlap.
+
+**And the comparative row is what makes the account evidence rather than a story, which is worth wanting in a
+candidate.** Per-egg investment is similar across species, so the cost of an insurance egg is near constant and only
+the benefit varies with how often first eggs fail. The prediction is therefore that the trait sits where the failure
+rate is high, and the colonies show first-egg hatching of about fifty-one to sixty-one per cent where the spare is
+laid against at least eighty-five per cent where it is not. **A candidate that carries the case where it does not hold
+is stronger than one that does not**, which the register first noted at the juvenile correlation in Right in Half of
+Them and has now seen twice.
+
+**Two more namesake debts were found and put at their cheapest, which cost three cells.** `Anderson` carries **three**
+people: Roy in Borrowed Immunity, Saved to Spread and Sick Enough to Spread, Lisa in Information Cascade, and David J
+arriving with this misfit. `Wilson` carries **two**: Timothy in Larger in the Looking and James Q in The Loud Few. Most
+of those cells were already named, so only three were owed and all three ride this misfit's lane. **Both surnames can
+now be declared in a governance pass owing nothing.** The `Krueger` debt, three people bare across three misfits, and
+the bare `Price` cell in The Head Start, are the ones still outstanding.

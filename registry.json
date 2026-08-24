@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.306.0",
+  "version": "0.307.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -55673,6 +55673,253 @@
           "kind": "process",
           "title": "Tipping",
           "taxonomy": "play_the_sort.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_spare_has_to_eat",
+      "title": "The Spare Has to Eat",
+      "description": "A spare that consumes the supply it insures has to be destroyed the moment it turns out not to be needed.",
+      "members": [
+        {
+          "file": "persona_the_elder_chick.md",
+          "kind": "persona",
+          "title": "The Elder Chick",
+          "type": "archetype",
+          "taxonomy": "position_survivor.md"
+        },
+        {
+          "file": "persona_the_first_egg.md",
+          "kind": "persona",
+          "title": "The First Egg",
+          "type": "archetype",
+          "taxonomy": "position_primary.md"
+        },
+        {
+          "file": "persona_the_foraging.md",
+          "kind": "persona",
+          "title": "The Foraging",
+          "type": "archetype",
+          "taxonomy": "position_constraint.md"
+        },
+        {
+          "file": "persona_the_parent.md",
+          "kind": "persona",
+          "title": "The Parent",
+          "type": "archetype",
+          "taxonomy": "position_underwriter.md"
+        },
+        {
+          "file": "persona_the_second_egg.md",
+          "kind": "persona",
+          "title": "The Second Egg",
+          "type": "archetype",
+          "taxonomy": "position_spare.md"
+        },
+        {
+          "file": "persona_the_single_egg_cousin.md",
+          "kind": "persona",
+          "title": "The Single-Egg Cousin",
+          "type": "archetype",
+          "taxonomy": "position_control.md"
+        },
+        {
+          "file": "piece_the_claim.md",
+          "kind": "piece",
+          "title": "The Claim",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "piece_the_days_old_window.md",
+          "kind": "piece",
+          "title": "The Days-Old Window",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "piece_the_eighty_five_per_cent.md",
+          "kind": "piece",
+          "title": "The Eighty-Five Per Cent",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "piece_the_failure_rate.md",
+          "kind": "piece",
+          "title": "The Failure Rate",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "piece_the_premium.md",
+          "kind": "piece",
+          "title": "The Premium",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "piece_the_unknowable_year.md",
+          "kind": "piece",
+          "title": "The Unknowable Year",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "pitch_bought_every_year_needed_in_four.md",
+          "kind": "pitch",
+          "title": "Bought Every Year, Needed in Four",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "place_the_colony_record.md",
+          "kind": "place",
+          "title": "The Colony Record",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "place_the_foraging_range.md",
+          "kind": "place",
+          "title": "The Foraging Range",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "place_the_scrape.md",
+          "kind": "place",
+          "title": "The Scrape",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "plan_be_there_in_case.md",
+          "kind": "plan",
+          "title": "Be There in Case",
+          "taxonomy": "position_spare.md"
+        },
+        {
+          "file": "plan_bring_back_what_there_is.md",
+          "kind": "plan",
+          "title": "Bring Back What There Is",
+          "taxonomy": "position_constraint.md"
+        },
+        {
+          "file": "plan_fail_four_times_in_ten.md",
+          "kind": "plan",
+          "title": "Fail Four Times in Ten",
+          "taxonomy": "position_primary.md"
+        },
+        {
+          "file": "plan_lay_one_because_one_is_enough.md",
+          "kind": "plan",
+          "title": "Lay One, Because One Is Enough",
+          "taxonomy": "position_control.md"
+        },
+        {
+          "file": "plan_lay_two_and_raise_one.md",
+          "kind": "plan",
+          "title": "Lay Two and Raise One",
+          "taxonomy": "position_underwriter.md"
+        },
+        {
+          "file": "plan_remove_the_competition.md",
+          "kind": "plan",
+          "title": "Remove the Competition",
+          "taxonomy": "position_survivor.md"
+        },
+        {
+          "file": "play_the_spare_has_to_eat.md",
+          "kind": "play",
+          "title": "The Spare Has to Eat"
+        },
+        {
+          "file": "plot_four_times_in_ten.md",
+          "kind": "plot",
+          "title": "Four Times in Ten",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "plot_the_ones_that_lay_only_one.md",
+          "kind": "plot",
+          "title": "The Ones That Lay Only One",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "plot_the_premium_was_paid_anyway.md",
+          "kind": "plot",
+          "title": "The Premium Was Paid Anyway",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "plot_two_eggs_one_chick.md",
+          "kind": "plot",
+          "title": "Two Eggs, One Chick",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "plot_within_days_of_hatching.md",
+          "kind": "plot",
+          "title": "Within Days of Hatching",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "position_constraint.md",
+          "kind": "position",
+          "title": "Constraint",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "position_control.md",
+          "kind": "position",
+          "title": "Control",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "position_primary.md",
+          "kind": "position",
+          "title": "Primary",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "position_spare.md",
+          "kind": "position",
+          "title": "Spare",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "position_survivor.md",
+          "kind": "position",
+          "title": "Survivor",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "position_underwriter.md",
+          "kind": "position",
+          "title": "Underwriter",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "process_comparing.md",
+          "kind": "process",
+          "title": "Comparing",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "process_culling.md",
+          "kind": "process",
+          "title": "Culling",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "process_hatching.md",
+          "kind": "process",
+          "title": "Hatching",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "process_provisioning.md",
+          "kind": "process",
+          "title": "Provisioning",
+          "taxonomy": "play_the_spare_has_to_eat.md"
+        },
+        {
+          "file": "process_underwriting.md",
+          "kind": "process",
+          "title": "Underwriting",
+          "taxonomy": "play_the_spare_has_to_eat.md"
         }
       ]
     },
