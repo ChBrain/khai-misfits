@@ -40,7 +40,7 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "science": "npx khai-tests science build",
-    "version": "changeset version && npx khai-tests registry build && npx khai-tests science build",
+    "version": "changeset version && npx khai-tests registry build && npx khai-tests science build && npm install --package-lock-only",
     "release": "changeset publish"
   },
   "devDependencies": {
