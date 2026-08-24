@@ -7017,12 +7017,16 @@ Every candidate below was cleared against the sources the pass **planned**, and 
 that the namesakes arrive with the sources the subject turns out to need. The re-scan at the end of each build
 is owed and is not discharged here.
 
-- [ ] [P1] Head-of-Line Blocking (Karol, Hluchyj & Morgan, IEEE Trans. Communications, 1987): one stalled item at
+- [x] [P1] Head-of-Line Blocking (Karol, Hluchyj & Morgan, IEEE Trans. Communications, 1987): one stalled item at
       the front of a first-come queue blocks every item behind it that could be served now, and the fair discipline
       is the cause. **Who pays is everyone behind the head.** The hard number is checkable without a source: 2 − √2,
       about 58.6 per cent saturation throughput for first-come input queueing. **Distinct from No Idle Hands
       (bites at low load, where the utilisation trap has no harm), Outranked from Below (no priorities in it),
       The Last One to Answer (no fan-out in it), and Too Kind to Drop (a queue of depth two already has it).**
+      Staged as **Wait Your Turn**, and the dedup held on the build: the four cuts went into the warrant as
+      switch-off tests and the No Idle Hands one sharpened, since the two are **opposite in their relation to
+      load** rather than merely separable, the utilisation trap arriving with load and this one displayed in its
+      purest form at the lowest demand the system ever sees.
 - [ ] [P1] Structural Inertia (Hannan & Freeman, _American Sociological Review_, 1984): selection favours the
       reliable and accountable, those properties require reproducible structure, and reorganising destroys the
       reliability record and restores the mortality hazard of a new organisation, so **the adaptive move is the
