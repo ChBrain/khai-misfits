@@ -6848,3 +6848,21 @@ arriving with this misfit. `Wilson` carries **two**: Timothy in Larger in the Lo
 of those cells were already named, so only three were owed and all three ride this misfit's lane. **Both surnames can
 now be declared in a governance pass owing nothing.** The `Krueger` debt, three people bare across three misfits, and
 the bare `Price` cell in The Head Start, are the ones still outstanding.
+
+**`Anderson` is declared and `Wilson` turned out to have a third person, which is the fifth time the declaration has
+found what the scan could not.** Declaring both locally reported `Anderson` clean at three people, David J, Lisa and
+Roy, and left `Wilson` unresolved in **The Winning Bid**, which cites "Competitive Bidding with Disparate Information"
+(1969): **Robert B Wilson**, beside Timothy in Larger in the Looking and James Q in The Loud Few. The previous pass had
+checked two cells, found both named, and concluded the declaration owed nothing. It owed one.
+
+So the ordering rule bit in the ordinary way and was obeyed: the bare cell is `misfits/**` and the declaration is
+governance, cells first, so **`Anderson` goes in alone** and `Wilson` waits for its cell to ride the next misfit lane.
+Splitting the pair rather than holding both is the cheaper move, since a clean declaration held hostage to an unrelated
+cell is a debt kept open for no reason.
+
+**The tally is now worth stating, because the pattern has not varied once.** Every namesake this house has found was
+found by a change that forced the index to resolve, and never by looking: `Fisher` by a misfit needing R A Fisher,
+seven surnames by the Origin Source repair putting forty-two rows in at once, a third `Friedman`, `Gordon` and
+`Thompson` by writing the declaration and reading `--namesakes`, and now a third `Wilson` by the same move. **The scan
+says where to point the instrument and the declaration is the instrument.** A pass that scans, finds the cells named,
+and skips the local declaration will keep missing exactly this.
