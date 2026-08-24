@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.307.0",
+  "version": "0.308.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -63724,6 +63724,253 @@
           "kind": "process",
           "title": "Structuring",
           "taxonomy": "play_whatevers_in_the_can.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "which_question_first",
+      "title": "Which Question First",
+      "description": "Every judge is consistent, both majorities are real, and the verdict turns on whether you count issues or verdicts.",
+      "members": [
+        {
+          "file": "persona_the_chair.md",
+          "kind": "persona",
+          "title": "The Chair",
+          "type": "archetype",
+          "taxonomy": "position_procedure.md"
+        },
+        {
+          "file": "persona_the_issue_count.md",
+          "kind": "persona",
+          "title": "The Issue Count",
+          "type": "archetype",
+          "taxonomy": "position_issue.md"
+        },
+        {
+          "file": "persona_the_judge.md",
+          "kind": "persona",
+          "title": "The Judge",
+          "type": "archetype",
+          "taxonomy": "position_coherent.md"
+        },
+        {
+          "file": "persona_the_losing_party.md",
+          "kind": "persona",
+          "title": "The Losing Party",
+          "type": "archetype",
+          "taxonomy": "position_bound.md"
+        },
+        {
+          "file": "persona_the_rule.md",
+          "kind": "persona",
+          "title": "The Rule",
+          "type": "archetype",
+          "taxonomy": "position_binding.md"
+        },
+        {
+          "file": "persona_the_verdict_count.md",
+          "kind": "persona",
+          "title": "The Verdict Count",
+          "type": "archetype",
+          "taxonomy": "position_outcome.md"
+        },
+        {
+          "file": "piece_the_connective.md",
+          "kind": "piece",
+          "title": "The Connective",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "piece_the_consistent_individual.md",
+          "kind": "piece",
+          "title": "The Consistent Individual",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "piece_the_route.md",
+          "kind": "piece",
+          "title": "The Route",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "piece_the_silent_record.md",
+          "kind": "piece",
+          "title": "The Silent Record",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "piece_the_three_views.md",
+          "kind": "piece",
+          "title": "The Three Views",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "piece_the_two_majorities.md",
+          "kind": "piece",
+          "title": "The Two Majorities",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "pitch_two_counts_one_panel.md",
+          "kind": "pitch",
+          "title": "Two Counts, One Panel",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "place_the_conference_room.md",
+          "kind": "place",
+          "title": "The Conference Room",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "place_the_judgment.md",
+          "kind": "place",
+          "title": "The Judgment",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "place_the_tally.md",
+          "kind": "place",
+          "title": "The Tally",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "plan_be_bound_by_whichever_it_was.md",
+          "kind": "plan",
+          "title": "Be Bound by Whichever It Was",
+          "taxonomy": "position_bound.md"
+        },
+        {
+          "file": "plan_be_the_law_they_all_agree_on.md",
+          "kind": "plan",
+          "title": "Be the Law They All Agree On",
+          "taxonomy": "position_binding.md"
+        },
+        {
+          "file": "plan_count_each_question_on_its_own.md",
+          "kind": "plan",
+          "title": "Count Each Question on Its Own",
+          "taxonomy": "position_issue.md"
+        },
+        {
+          "file": "plan_count_the_verdicts.md",
+          "kind": "plan",
+          "title": "Count the Verdicts",
+          "taxonomy": "position_outcome.md"
+        },
+        {
+          "file": "plan_decide_what_we_vote_on.md",
+          "kind": "plan",
+          "title": "Decide What We Vote On",
+          "taxonomy": "position_procedure.md"
+        },
+        {
+          "file": "plan_vote_my_view_on_every_question.md",
+          "kind": "plan",
+          "title": "Vote My View on Every Question",
+          "taxonomy": "position_coherent.md"
+        },
+        {
+          "file": "play_which_question_first.md",
+          "kind": "play",
+          "title": "Which Question First"
+        },
+        {
+          "file": "plot_both_majorities_are_real.md",
+          "kind": "plot",
+          "title": "Both Majorities Are Real",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "plot_it_does_not_say_which_way_we_counted.md",
+          "kind": "plot",
+          "title": "It Does Not Say Which Way We Counted",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "plot_nobody_was_inconsistent.md",
+          "kind": "plot",
+          "title": "Nobody Was Inconsistent",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "plot_three_judges_two_questions.md",
+          "kind": "plot",
+          "title": "Three Judges, Two Questions",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "plot_whichever_we_vote_on_first.md",
+          "kind": "plot",
+          "title": "Whichever We Vote On First",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "position_binding.md",
+          "kind": "position",
+          "title": "Binding",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "position_bound.md",
+          "kind": "position",
+          "title": "Bound",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "position_coherent.md",
+          "kind": "position",
+          "title": "Coherent",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "position_issue.md",
+          "kind": "position",
+          "title": "Issue",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "position_outcome.md",
+          "kind": "position",
+          "title": "Outcome",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "position_procedure.md",
+          "kind": "position",
+          "title": "Procedure",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "process_choosing_the_route.md",
+          "kind": "process",
+          "title": "Choosing the Route",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "process_judging.md",
+          "kind": "process",
+          "title": "Judging",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "process_publishing.md",
+          "kind": "process",
+          "title": "Publishing",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "process_tallying_by_issue.md",
+          "kind": "process",
+          "title": "Tallying by Issue",
+          "taxonomy": "play_which_question_first.md"
+        },
+        {
+          "file": "process_tallying_by_verdict.md",
+          "kind": "process",
+          "title": "Tallying by Verdict",
+          "taxonomy": "play_which_question_first.md"
         }
       ]
     },
