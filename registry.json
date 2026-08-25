@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.315.0",
+  "version": "0.316.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -14516,6 +14516,228 @@
           "kind": "process",
           "title": "Setting the Initial State",
           "taxonomy": "play_it_has_to_start_somewhere.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "it_learns_when_you_stop",
+      "title": "It Learns When You Stop",
+      "description": "The pressure asks and the release teaches, so a rider who asks harder holds through the try and punishes it.",
+      "members": [
+        {
+          "file": "persona_the_firmer_ask.md",
+          "kind": "persona",
+          "title": "The Firmer Ask",
+          "type": "archetype",
+          "taxonomy": "position_escalation.md"
+        },
+        {
+          "file": "persona_the_pressure.md",
+          "kind": "persona",
+          "title": "The Pressure",
+          "type": "archetype",
+          "taxonomy": "position_signal.md"
+        },
+        {
+          "file": "persona_the_release.md",
+          "kind": "persona",
+          "title": "The Release",
+          "type": "archetype",
+          "taxonomy": "position_reinforcer.md"
+        },
+        {
+          "file": "persona_the_try.md",
+          "kind": "persona",
+          "title": "The Try",
+          "type": "archetype",
+          "taxonomy": "position_attempt.md"
+        },
+        {
+          "file": "persona_the_verdict.md",
+          "kind": "persona",
+          "title": "The Verdict",
+          "type": "archetype",
+          "taxonomy": "position_diagnosis.md"
+        },
+        {
+          "file": "piece_the_continuum.md",
+          "kind": "piece",
+          "title": "The Continuum",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "piece_the_feel.md",
+          "kind": "piece",
+          "title": "The Feel",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "piece_the_lower_tension.md",
+          "kind": "piece",
+          "title": "The Lower Tension",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "piece_the_shift_before_the_movement.md",
+          "kind": "piece",
+          "title": "The Shift Before the Movement",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "piece_the_word_stubborn.md",
+          "kind": "piece",
+          "title": "The Word Stubborn",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "pitch_half_a_pound_now_there.md",
+          "kind": "pitch",
+          "title": "Half a Pound, Now, There",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "place_the_arena.md",
+          "kind": "place",
+          "title": "The Arena",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "place_the_contact.md",
+          "kind": "place",
+          "title": "The Contact",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "place_the_long_apprenticeship.md",
+          "kind": "place",
+          "title": "The Long Apprenticeship",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "plan_ask_again_and_mean_it.md",
+          "kind": "plan",
+          "title": "Ask Again, and Mean It",
+          "taxonomy": "position_escalation.md"
+        },
+        {
+          "file": "plan_be_the_only_thing_that_teaches.md",
+          "kind": "plan",
+          "title": "Be the Only Thing That Teaches",
+          "taxonomy": "position_reinforcer.md"
+        },
+        {
+          "file": "plan_explain_everything_that_happened.md",
+          "kind": "plan",
+          "title": "Explain Everything That Happened",
+          "taxonomy": "position_diagnosis.md"
+        },
+        {
+          "file": "plan_make_the_question_unmistakable.md",
+          "kind": "plan",
+          "title": "Make the Question Unmistakable",
+          "taxonomy": "position_signal.md"
+        },
+        {
+          "file": "plan_offer_something_and_see.md",
+          "kind": "plan",
+          "title": "Offer Something and See",
+          "taxonomy": "position_attempt.md"
+        },
+        {
+          "file": "play_it_learns_when_you_stop.md",
+          "kind": "play",
+          "title": "It Learns When You Stop"
+        },
+        {
+          "file": "plot_held_through_the_try.md",
+          "kind": "plot",
+          "title": "Held Through the Try",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "plot_only_the_stopping_teaches.md",
+          "kind": "plot",
+          "title": "Only the Stopping Teaches",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "plot_release_at_the_try.md",
+          "kind": "plot",
+          "title": "Release at the Try",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "plot_stubborn_explains_everything.md",
+          "kind": "plot",
+          "title": "Stubborn Explains Everything",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "plot_the_rein_is_a_question.md",
+          "kind": "plot",
+          "title": "The Rein Is a Question",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "position_attempt.md",
+          "kind": "position",
+          "title": "Attempt",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "position_diagnosis.md",
+          "kind": "position",
+          "title": "Diagnosis",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "position_escalation.md",
+          "kind": "position",
+          "title": "Escalation",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "position_reinforcer.md",
+          "kind": "position",
+          "title": "Reinforcer",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "position_signal.md",
+          "kind": "position",
+          "title": "Signal",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "process_asking.md",
+          "kind": "process",
+          "title": "Asking",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "process_concluding.md",
+          "kind": "process",
+          "title": "Concluding",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "process_escalating.md",
+          "kind": "process",
+          "title": "Escalating",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "process_offering.md",
+          "kind": "process",
+          "title": "Offering",
+          "taxonomy": "play_it_learns_when_you_stop.md"
+        },
+        {
+          "file": "process_releasing.md",
+          "kind": "process",
+          "title": "Releasing",
+          "taxonomy": "play_it_learns_when_you_stop.md"
         }
       ]
     },
