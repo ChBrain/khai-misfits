@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.314.0",
+  "version": "0.315.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -65291,6 +65291,228 @@
           "kind": "process",
           "title": "Removing the Apex",
           "taxonomy": "play_who_else_it_was_holding_down.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "who_took_it_out",
+      "title": "Who Took It Out",
+      "description": "Every step in the process was added for a real reason, none is ever removed, and only removal has a signature on it.",
+      "members": [
+        {
+          "file": "persona_the_control.md",
+          "kind": "persona",
+          "title": "The Control",
+          "type": "archetype",
+          "taxonomy": "position_added.md"
+        },
+        {
+          "file": "persona_the_incident.md",
+          "kind": "persona",
+          "title": "The Incident",
+          "type": "archetype",
+          "taxonomy": "position_warrant.md"
+        },
+        {
+          "file": "persona_the_question.md",
+          "kind": "persona",
+          "title": "The Question",
+          "type": "archetype",
+          "taxonomy": "position_hindsight.md"
+        },
+        {
+          "file": "persona_the_remover.md",
+          "kind": "persona",
+          "title": "The Remover",
+          "type": "archetype",
+          "taxonomy": "position_signatory.md"
+        },
+        {
+          "file": "persona_the_total.md",
+          "kind": "persona",
+          "title": "The Total",
+          "type": "archetype",
+          "taxonomy": "position_aggregate.md"
+        },
+        {
+          "file": "piece_one_more_line.md",
+          "kind": "piece",
+          "title": "One More Line",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "piece_the_asymmetry.md",
+          "kind": "piece",
+          "title": "The Asymmetry",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "piece_the_cause_that_went_away.md",
+          "kind": "piece",
+          "title": "The Cause That Went Away",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "piece_the_signature.md",
+          "kind": "piece",
+          "title": "The Signature",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "piece_the_weight.md",
+          "kind": "piece",
+          "title": "The Weight",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "pitch_added_following_the_incident_of_march.md",
+          "kind": "pitch",
+          "title": "Added Following the Incident of March",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "place_the_inquiry.md",
+          "kind": "place",
+          "title": "The Inquiry",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "place_the_procedure.md",
+          "kind": "place",
+          "title": "The Procedure",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "place_the_review.md",
+          "kind": "place",
+          "title": "The Review",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "plan_ask_it_only_in_one_direction.md",
+          "kind": "plan",
+          "title": "Ask It Only in One Direction",
+          "taxonomy": "position_hindsight.md"
+        },
+        {
+          "file": "plan_be_a_reason_nobody_can_argue_with.md",
+          "kind": "plan",
+          "title": "Be a Reason Nobody Can Argue With",
+          "taxonomy": "position_warrant.md"
+        },
+        {
+          "file": "plan_be_what_nobody_chose.md",
+          "kind": "plan",
+          "title": "Be What Nobody Chose",
+          "taxonomy": "position_aggregate.md"
+        },
+        {
+          "file": "plan_catch_what_was_missed_last_time.md",
+          "kind": "plan",
+          "title": "Catch What Was Missed Last Time",
+          "taxonomy": "position_added.md"
+        },
+        {
+          "file": "plan_propose_that_we_stop_doing_this.md",
+          "kind": "plan",
+          "title": "Propose That We Stop Doing This",
+          "taxonomy": "position_signatory.md"
+        },
+        {
+          "file": "play_who_took_it_out.md",
+          "kind": "play",
+          "title": "Who Took It Out"
+        },
+        {
+          "file": "plot_it_would_have_caught_that_one.md",
+          "kind": "plot",
+          "title": "It Would Have Caught That One",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "plot_judged_more_gently_for_leaving_it.md",
+          "kind": "plot",
+          "title": "Judged More Gently for Leaving It",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "plot_name_the_one_you_are_removing.md",
+          "kind": "plot",
+          "title": "Name the One You Are Removing",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "plot_nobody_signed_for_ninety_pages.md",
+          "kind": "plot",
+          "title": "Nobody Signed for Ninety Pages",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "plot_the_system_it_protected_is_gone.md",
+          "kind": "plot",
+          "title": "The System It Protected Is Gone",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "position_added.md",
+          "kind": "position",
+          "title": "Added",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "position_aggregate.md",
+          "kind": "position",
+          "title": "Aggregate",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "position_hindsight.md",
+          "kind": "position",
+          "title": "Hindsight",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "position_signatory.md",
+          "kind": "position",
+          "title": "Signatory",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "position_warrant.md",
+          "kind": "position",
+          "title": "Warrant",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "process_accumulating.md",
+          "kind": "process",
+          "title": "Accumulating",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "process_adding.md",
+          "kind": "process",
+          "title": "Adding",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "process_asking.md",
+          "kind": "process",
+          "title": "Asking",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "process_justifying.md",
+          "kind": "process",
+          "title": "Justifying",
+          "taxonomy": "play_who_took_it_out.md"
+        },
+        {
+          "file": "process_proposing.md",
+          "kind": "process",
+          "title": "Proposing",
+          "taxonomy": "play_who_took_it_out.md"
         }
       ]
     },

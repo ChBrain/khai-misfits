@@ -7386,7 +7386,7 @@ proposing to take a control out: leaving it is an omission and removing it is an
 weighed alike even when they are identical. That is a studied effect with a name, and it supplies the reason the
 asymmetry survives people noticing it.
 
-- [ ] [P1] The Control Nobody Can Remove (process accretion; the removal asymmetry): a defined process accumulates
+- [x] [P1] The Control Nobody Can Remove (process accretion; the removal asymmetry): a defined process accumulates
       practices, each added for a real reason at the time, and none is ever taken out. **Who pays is everybody
       working under the process, and nobody chose the total.** **The mechanism is the accounting, not the
       attachment**: an addition is distributed across many small justified increments that nobody signs for, and a
@@ -7414,3 +7414,13 @@ the house cites, it is a record of who the house cites in one column**, and the 
 wall the house has, since the walls all check consistency within the index rather than the index against the
 warrants. Whether that is worth a gate, a build change, or nothing at all is a decision for the kit. It is
 recorded here so that the next author reading a clear `--surname` result knows what it does and does not mean.
+
+      Staged as **Who Took It Out**, and the build found a third leg the slate had named only as accounting: the
+      **enquiry supplies the asymmetry without intending to**, since a removal leaves a name, a date and a form
+      while a non-addition leaves no record at all, so an honest investigation conducted identically reaches a
+      person in one case and an absence in the other. That is a property of what records contain rather than of
+      how the question is asked, which is why no fairness in the asking evens it out. **The obsolete control is
+      the case that removes every excuse**: there is no uncertainty about whether it is needed, nobody defends it
+      and nobody is asked to, and complying is cheaper than signing. And the cast was named deliberately against
+      the gerund clash the previous pass recorded, positions taking nouns and processes the gerunds, which cost
+      nothing and produced no collision for the first time in five misfits.
