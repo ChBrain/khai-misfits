@@ -525,6 +525,20 @@ whitespace, so the formatted file still equals a fresh build from the warrants.
 **The two gates are satisfiable together and always were**, and the only way to
 fail is to check one of them.
 
+**And the rule above is not about the misfit count, which is the reading that
+makes it look inapplicable.** It is written for misfit pull requests and justified
+by the count moving, so a governance pass reads it and concludes it is exempt. It
+is not: the rule is about **any branch that regenerates a shared artefact**, and
+the count is only the most familiar reason one gets regenerated. A homonym
+declaration ships no package content, never touches the count, lives wholly in the
+governance lane, and still rebuilds `docs/SCIENCE.md`, because changing a scholar
+key changes the index. Two such branches conflict on that file exactly as two
+misfits do, and merging `main` in produces a file matching neither build, which
+then fails the drift gate. `Kelly` and `Barnett` were declared against one `main`
+and a misfit landed first; the fix was the procedure above applied unchanged to a
+governance branch, reset and rebuild rather than merge. **The lane does not decide
+it. Touching a built file does.**
+
 **Do not carry `CHANGELOG.md` in a misfit PR.** From `khai-tests` 0.2.4 the
 registry build heals the top CHANGELOG heading to the manifest. That is right in
 a release, where the top heading is the pending version `changeset version` just
