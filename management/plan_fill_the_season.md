@@ -7182,3 +7182,69 @@ and this pass named their hinge plot with the play's own title, which the canon 
 names one element and two kinds may not carry it. It costs one rename and the gate never misses it. It is
 recorded only so the next author expects it: the instinct to name the central plot after the play is strong and
 the check is free.
+
+**The thirty-fourth pass was pointed at the canon list read forwards, which CLAUDE.md names and no pass had used,
+and the instrument turned out to say less than the file implies.** All **32** canon works are shared by two or more
+misfits, so the list is a complete family map, and read forwards it is supposed to show the house's conversations,
+since two misfits in one literature are the ones with a quantity in common to disagree about. Run over 312 misfits
+the **largest family is three**, and most are two. So the conversations are not deep, they are pairs, and the
+opposed-pair search space the canon list opens is far smaller than the twenty-seventh pass's framing suggests.
+That is not an argument against `--families`, which correctly reports what is there; it is a correction to what
+the file leads an author to expect from it. **Axis coverage stands at 85 of 312**, and the check still reports 5
+opposed pairs with none undeclared, so declaring more of the house remains the only way to widen it.
+
+**The probe was then run wide rather than deep: ten domains, roughly seventy terms, chosen for regions the house
+has barely entered.** Law and procedure, language and translation, demography and migration, infrastructure and
+transport, security and adversarial systems, agriculture and food, energy and grid, clinical care, culture and
+media, and sport. Dozens of terms returned zero.
+
+**And the yield is the finding, which is worth stating plainly rather than apologising for.** Of everything the
+probe raised, the mechanism test killed almost all of it, and the kills were not close calls. Language shift,
+diglossia and language death are **Nobody Stopped Speaking It**, which stages the one-way acquisition gate.
+Software, crop and model monoculture are **The Weather We Make**, which stages risk-model monoculture and takes
+correlated failure from independently rational identical choices. Format obsolescence and bit rot are an Origin
+row in **Longer Than Its Meaning**, a marker outlasting the literacy that reads it, and are the same mechanism in
+another domain rather than another mechanism. The litigation selection effect is **Only the Close Ones**. Tanking
+for a draft pick is **The Cobra Effect**, a reward paid for a producible proxy. Doping is **The Arms Race**.
+Pesticide resistance is the antibiotic family. **At 312 misfits the binding constraint is no longer finding
+unstaged vocabulary, which is everywhere, but finding an unstaged mechanism, and the two have come apart far
+enough that a probe returning thirty zeros can yield one candidate.** A pass that reports a large list of
+zeros has not found a large opportunity, and the next author should cost the dedup rather than the probe.
+
+**One candidate survived cleanly and it survived on the sharpest available test.** Reference rot: a citation
+points at something that has moved or gone, so the pointer decays while the document that carries it persists,
+and the reader of a judgement or a paper follows a reference to nothing. **Who pays is the future reader and the
+record.** No villain is available, since no host is obliged to keep a URL alive and every reorganisation of a site
+is a reasonable act. The cut that matters is against **Longer Than Its Meaning**, which looks like the same play
+and is not: stipulate a literacy that persists for ever, so that anything found can be read perfectly, and that
+misfit is defused entirely while this one is untouched, **because nothing here is unreadable and the target is
+simply gone**. Run it the other way and it holds: stipulate every target persists for ever at its original
+address, and reference rot has no harm at all while the nuclear marker still cannot be read. The two separate on
+**whether the thing survives and cannot be understood, or is understood perfectly and is not there**.
+
+- [ ] [P1] Reference Rot (link rot; the decay of citation targets): a citation points at something that has moved
+      or gone, so the pointer fails while the document carrying it persists, and the reader of a judgement or a
+      paper follows a reference to nothing. Zittrain, Albert & Lessig, "Perma: Scoping and Addressing the Problem
+      of Link and Reference Rot in Legal Citations" (2014), for the measurement in judicial opinions and law
+      reviews. **Who pays is the future reader and the record.** **Distinct from Longer Than Its Meaning on the
+      switch-off test**: stipulate an eternal literacy and this is unchanged, because the failure is absence and
+      not illegibility. **A namesake is already owed and was found before authoring**: `Albert` in the index is
+      Réka Albert, of preferential attachment, in The Head Start, and Zittrain's co-author is a different person,
+      so the declaration is due and the cells must be read before the misfit is written.
+- [ ] [P2] The Standard of Review (appellate deference to findings of fact): the appeal court declines to
+      re-decide facts because the trial court saw the witnesses, which is correct, so an error of fact is in
+      practice unreviewable while an error of law is not, and each level behaves properly throughout.
+      **Who pays is the litigant who lost on the facts.** **The cut against Which Question First and Whoever Asks
+      Last must be written before authoring**: both stage a defect in aggregating judgements, and this stages a
+      division of labour between levels, so the line is that nothing here is aggregated and nobody votes.
+      **Drop the line if the deference turns out to be reviewable in practice**, since a trap with an available
+      remedy is not a trap.
+- [ ] [P2] The Fertility Externality (children as a public good; the private cost of a collective benefit):
+      raising the next generation is privately costly and collectively beneficial, so each decision is rational
+      and the aggregate under-provides the cohort that everybody's old age depends on. Folbre, "Children as Public
+      Goods" (1994). **Who pays is the working cohort and the old.** **The precondition is the cut against the
+      house's public-goods family, which is thirty-two files deep**, and in particular against And Then Who Makes
+      Them, which stages the sanctioning system as a public good: the line is that nothing here is enforcement and
+      the recursion is absent. **Drop the line rather than argue for it if that cut cannot be made cleanly**,
+      because free-riding is the most heavily worked family in the house and a fourth version of it is not a
+      misfit.
