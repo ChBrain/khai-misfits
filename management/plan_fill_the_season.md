@@ -7255,3 +7255,76 @@ address, and reference rot has no harm at all while the nuclear marker still can
       the recursion is absent. **Drop the line rather than argue for it if that cut cannot be made cleanly**,
       because free-riding is the most heavily worked family in the house and a fourth version of it is not a
       misfit.
+
+**The thirty-fifth pass was pointed by the author rather than by an instrument, and that is the finding before any
+candidate is.** The last two passes ran the house's own instruments, the isolate list at the thirty-first and the
+canon families at the thirty-fourth, and **both came back qualified**: the oldest isolate sat in an exhausted
+neighbourhood, and the canon map turned out to be pairs rather than conversations. The thirty-fourth then swept ten
+domains and roughly seventy terms for a single candidate. This pass was one domain, named by somebody who works in
+it, and it produced a P1 in a single probe. **At 313 misfits an instrument tells you where the house is thin and a
+practitioner tells you where the world is lumpy, and the second is now the better yield.** The instruments are not
+retired by this: they are what keeps a pointed probe honest, since the pointing supplies the candidate and the
+walls supply the dedup.
+
+**The domain is IT service management, and its framework vocabulary is wholly unstaged**: `ITIL` 0, `SIAM` 0,
+`CMDB` 0, `change advisory` 0, `problem management` 0, `incident management` 0, `service integrator` 0,
+`major incident` 0. By the standing rule that means nothing until each mechanism is tested, and most of them died.
+
+**The known error and its workaround is Shifting the Burden**, and it is the cleanest kill of the pass. A
+documented workaround restores service quickly, which is correct and is what the customer wants, and it removes
+exactly the pressure that would have funded the permanent fix. That is the symptomatic solution atrophying the
+fundamental capability, which the house already stages, and staging it again in a ticket queue would be the same
+engine in new clothes. **Priority inflation**, where every request is raised as a P1 until the classification
+carries no information, is **Alarm Fatigue**. **The incident and problem split**, where the visible restoration is
+rewarded and the invisible prevention is not, is **The Firefighter's Medal**.
+
+**The watermelon service level is held rather than slated, and the reason is worth recording because the names
+collide and the mechanisms do not.** In the trade a watermelon is a report green on the outside and red within:
+every component target honestly met and the customer's experience poor. The house's **Watermelon Reporting**
+stages the **MUM effect**, which is a sender softening bad news in transmission, and that is a different thing
+entirely: in the service case **nothing is distorted and nobody softens anything**, the numbers are true. What is
+actually there is an accurate measurement silent about the composed experience, which is **The Last One to
+Answer** joined to **Metric Fixation**, and it is held until it can be cut clear of both. **A shared word is not a
+shared mechanism**, and this is the first time the house has met the two under one name. **The CMDB**, a register
+useful only when complete and never complete because each team's update costs it and benefits everybody, is held
+against the free-riding family, which is the most heavily worked in the house.
+
+**What survived is the change advisory board, and it survived because somebody measured it.** A body exists to
+approve changes and reduce the risk of them. Every member is competent and every question reasonable. The
+research is four years of survey data across the industry, and the result is that approval by a body **external to
+the team** has **no correlation with change failure rate at all**, while correlating negatively with lead time,
+with deployment frequency, and with **time to restore service**. So the control does not do the thing it exists to
+do, and it costs the thing that would have helped: **the same gate that failed to prevent the failure delays the
+fix for it.** The quantity is the approver's **independence from the work**, which is the property the board is
+constituted for: set it to zero, so that the reviewer is a peer who knows the system, and the trap vanishes, which
+is what the same research finds about peer review. **The body is made effective at nothing by the very thing that
+makes it independent.**
+
+- [ ] [P1] The Change Advisory Board (external change approval; the independent approver): a board exists to
+      approve changes and lower their risk, is staffed by competent people asking reasonable questions, and is
+      constituted to be independent of the teams proposing the work. Forsgren, Humble & Kim, _Accelerate_ (2018),
+      on four years of State of DevOps survey data: external approval shows **no correlation with change failure
+      rate**, and correlates negatively with lead time, deployment frequency and **time to restore service**.
+      **Who pays is the users, and the engineer holding the fix.** **The quantity is the approver's independence
+      from the work**: set it to zero and the trap vanishes, peer review being what the same research finds does
+      work. **Distinct from Vetocracy**: stipulate a single approver and no proliferation of veto points at all,
+      and this stands, because independence rather than count is what removes the knowledge. **Distinct from No
+      Idle Hands**: stipulate instant approval with no queue anywhere, and the approver still cannot judge the
+      risk. **Distinct from Five or a Layer**: stipulate one layer and a tiny span with full attention, and it
+      holds, because the defect is whose knowledge and not how much attention. **A namesake is owed and was found
+      before authoring**: the index's `Kim` is Daniel Kim of the systems archetypes, **bare in two cells**, in
+      Accidental Adversaries and Fixes that Fail, so this is the cells-first case and both cells must be named on
+      a misfit lane before the declaration and before this misfit cites Gene Kim.
+- [ ] [P2] The Unowned Seam (multi-supplier service integration; the gap between two scopes): an end-to-end
+      service is delivered by several suppliers, each with a defined scope and a target it meets, and the failure
+      lands in the handoff between two scopes that no contract names, so every supplier is correct to say it is
+      not theirs and nobody is in breach. **Who pays is the user whose transaction failed, with no remedy
+      available.** **Distinct from Everybody's Business on the sharpest test**: stipulate that every supplier is
+      eager to act and nobody is waiting for anybody else, and this stands entire, because **they are not
+      unwilling but unentitled**, the seam sitting outside every scope, mandate and funding line. **Distinct from
+      Ninety-Six Times Eight**: stipulate zero attenuation, every stage passing everything it receives, and this
+      is unchanged, because nothing is lost in series and the failure is a region no stage covers.
+      **The precondition is a spine, and the obvious one is closed**: incomplete-contract theory, Hart and Moore,
+      is already **Over a Barrel**'s and the shared-work wall forbids taking it, so this stands only if it can be
+      warranted from the service-integration literature or from a practitioner body of knowledge in its own
+      right. **Drop the line rather than stretch a neighbouring spine over it.**
