@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.316.0",
+  "version": "0.317.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -60201,6 +60201,228 @@
           "kind": "process",
           "title": "Reading",
           "taxonomy": "play_the_widening_want.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_wind_that_holds_you_there",
+      "title": "The Wind That Holds You There",
+      "description": "A vessel cannot steer at the wind, so the wind setting her toward a shore is the one taking her way off it.",
+      "members": [
+        {
+          "file": "persona_the_lost_way.md",
+          "kind": "persona",
+          "title": "The Lost Way",
+          "type": "archetype",
+          "taxonomy": "position_speed.md"
+        },
+        {
+          "file": "persona_the_master.md",
+          "kind": "persona",
+          "title": "The Master",
+          "type": "archetype",
+          "taxonomy": "position_command.md"
+        },
+        {
+          "file": "persona_the_rig.md",
+          "kind": "persona",
+          "title": "The Rig",
+          "type": "archetype",
+          "taxonomy": "position_wing.md"
+        },
+        {
+          "file": "persona_the_rising_wind.md",
+          "kind": "persona",
+          "title": "The Rising Wind",
+          "type": "archetype",
+          "taxonomy": "position_weather.md"
+        },
+        {
+          "file": "persona_the_sector.md",
+          "kind": "persona",
+          "title": "The Sector",
+          "type": "archetype",
+          "taxonomy": "position_bearing.md"
+        },
+        {
+          "file": "piece_the_chart.md",
+          "kind": "piece",
+          "title": "The Chart",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "piece_the_jury_rig.md",
+          "kind": "piece",
+          "title": "The Jury Rig",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "piece_the_no_go_sector.md",
+          "kind": "piece",
+          "title": "The No-Go Sector",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "piece_the_reefed_sail.md",
+          "kind": "piece",
+          "title": "The Reefed Sail",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "piece_the_square_of_the_speed.md",
+          "kind": "piece",
+          "title": "The Square of the Speed",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "pitch_she_will_not_go_at_it.md",
+          "kind": "pitch",
+          "title": "She Will Not Go At It",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "place_the_deck.md",
+          "kind": "place",
+          "title": "The Deck",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "place_the_sea_room.md",
+          "kind": "place",
+          "title": "The Sea Room",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "place_the_windward_leg.md",
+          "kind": "place",
+          "title": "The Windward Leg",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "plan_choose_the_right_one.md",
+          "kind": "plan",
+          "title": "Choose the Right One",
+          "taxonomy": "position_command.md"
+        },
+        {
+          "file": "plan_hold_what_way_you_can.md",
+          "kind": "plan",
+          "title": "Hold What Way You Can",
+          "taxonomy": "position_speed.md"
+        },
+        {
+          "file": "plan_lie_where_she_cannot_steer.md",
+          "kind": "plan",
+          "title": "Lie Where She Cannot Steer",
+          "taxonomy": "position_bearing.md"
+        },
+        {
+          "file": "plan_make_ground_against_it.md",
+          "kind": "plan",
+          "title": "Make Ground Against It",
+          "taxonomy": "position_wing.md"
+        },
+        {
+          "file": "plan_rise_and_keep_rising.md",
+          "kind": "plan",
+          "title": "Rise, and Keep Rising",
+          "taxonomy": "position_weather.md"
+        },
+        {
+          "file": "play_the_wind_that_holds_you_there.md",
+          "kind": "play",
+          "title": "The Wind That Holds You There"
+        },
+        {
+          "file": "plot_a_wing_and_a_sector.md",
+          "kind": "plot",
+          "title": "A Wing, and a Sector",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "plot_both_readings_are_right.md",
+          "kind": "plot",
+          "title": "Both Readings Are Right",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "plot_one_wind_two_quantities.md",
+          "kind": "plot",
+          "title": "One Wind, Two Quantities",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "plot_pushed_sideways_by_losing_way.md",
+          "kind": "plot",
+          "title": "Pushed Sideways by Losing Way",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "plot_the_shore_is_to_leeward.md",
+          "kind": "plot",
+          "title": "The Shore Is to Leeward",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "position_bearing.md",
+          "kind": "position",
+          "title": "Bearing",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "position_command.md",
+          "kind": "position",
+          "title": "Command",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "position_speed.md",
+          "kind": "position",
+          "title": "Speed",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "position_weather.md",
+          "kind": "position",
+          "title": "Weather",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "position_wing.md",
+          "kind": "position",
+          "title": "Wing",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "process_beating.md",
+          "kind": "process",
+          "title": "Beating",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "process_choosing.md",
+          "kind": "process",
+          "title": "Choosing",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "process_closing.md",
+          "kind": "process",
+          "title": "Closing",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "process_making_leeway.md",
+          "kind": "process",
+          "title": "Making Leeway",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
+        },
+        {
+          "file": "process_reducing.md",
+          "kind": "process",
+          "title": "Reducing",
+          "taxonomy": "play_the_wind_that_holds_you_there.md"
         }
       ]
     },

@@ -7554,7 +7554,7 @@ part of shiphandling. **The regions are open rather than merely unnamed.**
       **The verification state**: Kano's rationale and the Renden and Oudejans findings are confirmed; the
       specific volume and page details are **not** written down as checked and are owed at authoring. Proposed
       `axis: technique-severity`, sign negative; field, safety, risk and complex systems.
-- [ ] [P1] The Wind That Holds You There (the lee shore; windward capability failing in the wind that demands
+- [x] [P1] The Wind That Holds You There (the lee shore; windward capability failing in the wind that demands
       it): a sailing vessel cannot sail at the wind, so the one direction it cannot take directly is the
       direction it must take to leave a shore the wind is blowing onto. **This is the pointing taken at its
       word.** The hook was that a boat sails best against the wind, which is true and is the same fact: the rig
@@ -7586,6 +7586,28 @@ part of shiphandling. **The regions are open rather than merely unnamed.**
       seven points figure is taken from secondary report and is owed a direct check at authoring, and the
       Restrictions must carry it. Proposed `axis: onshore-wind-strength`, sign negative, which will pair with
       nothing and is honest about that; field, safety, risk and complex systems.
+      Staged under that title and that axis. **The owed check could not be discharged and the line records how it
+      was handled**: the Willis paper is behind two blocked hosts and was not read, so rather than carry a
+      secondary figure the warrant cites it for **the standing of the question** and the play puts **no number on
+      the arc at all**. That cost nothing, which is the finding: the mechanism needs only that a vessel cannot be
+      steered at the wind, which is uncontested, and the figure was decoration. **An unreadable source is a reason
+      to check what the claim actually rests on**, and here it rested on nothing.
+      The build moved one thing the slate had not named. The slate had the coupling as two mechanisms, sail
+      reduced and speed lost, which is right; what it did not have is that the second one is **invisible from on
+      board**. The heading does not change and the helm feels the same, because what grows is the gap between
+      where the vessel points and where she goes, and no instrument aboard reads that gap. **The only instrument
+      that reports it is the land.** That is what stops competence from catching it and it is the vector
+      [The Square of the Speed](../misfits/the_wind_that_holds_you_there/piece_the_square_of_the_speed.md) and
+      [Closing](../misfits/the_wind_that_holds_you_there/process_closing.md) were cast for. The cuts are Widest
+      When You Need It (**switch off adverse selection and this is unchanged**: there the capability is withdrawn
+      deliberately by a party who would supply it if it were safe to, and here nothing withdraws anything, so one
+      is a defence and the other is a shape), The Irony of Automation (nothing has decayed from disuse; the skill
+      is intact and the geometry is not), The Spent Margin (nobody has spent anything, the margin being consumed
+      by the weather rather than by behaviour), and The Brittle Optimum (**the sector does not depend on how much
+      slack exists**, and the missing sea room is not the product of an efficiency drive but of a decision taken
+      in conditions that gave no reason to take it). Surnames Marchaj, Harland, Willis and Rodger scanned clear
+      before and after the build. The end-of-build re-scan found nothing, and for the same reason as last time:
+      the second source set was the first, because an unstaged domain's obvious sources are also its right ones.
 - [ ] [P2] The Stand-On Vessel (COLREGS Rule 17; the party best placed to avoid is required not to): under the
       collision regulations the give-way vessel manoeuvres and the stand-on vessel **must hold its course and
       speed**, which is what makes the give-way vessel's calculation possible. So the vessel that can see the
