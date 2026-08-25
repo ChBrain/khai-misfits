@@ -7813,3 +7813,82 @@ the argument, it owes only the `Chen` prerequisite. **Neither is dishonest and t
 since a Source cell has always named the authors that carry the finding rather than the masthead. But it is worth
 knowing that the cell is doing **index work as well as credit work**, so on a many-authored paper the citation
 form is also a decision about how much of the house's namesake machinery the pass has to pay for.
+
+**The fortieth pass is the second shape-shaped pointing in a row, and it produced a finding the first one could
+not: the folk statement of a shape and the examples offered with it can be different mechanisms, and it is the
+examples that decide.** The pointing was _the winners write history_, offered with two cases: the Renaissance
+manufacturing the reputation of the Middle Ages, and the allocation of blame for the Second World War. Taken as a
+slogan the candidate is **already held and would have been struck**. Taken through the examples it is **not held
+by anything**, and the two readings are not close.
+
+**The slogan is The Survivors.** That misfit's governing law is that when a sample is conditioned on survival, any
+trait the survivors share is confounded with surviving. The victors' account surviving while the losers' does not
+is exactly that, on documents. Switch off conditioning-on-survival, stipulate that every party's record comes
+through complete and intact, and the slogan has nothing left to say.
+
+**Both offered examples survive that switch-off untouched, which is what makes them a different mechanism.**
+Nobody destroyed the medieval archive: it is abundant, it survived, and the distortion is not in the source base
+at all. What Petrarch supplied was a **frame**, and the frame's content was fixed by what its author needed to be
+true about himself. **A movement that calls itself a rebirth has to assert a death**, so the age that names
+another age is never neutral about it, and the naming happens before anybody examines the evidence. The second
+example is the same mechanism at a different scale, and **the pointing's own gloss on it is worth correcting
+because the correction strengthens it**: the best-documented Second World War case runs the other way from
+_took full blame_. The clean-Wehrmacht account **narrowed** responsibility to the regime and the SS, and it did
+so because West German rearmament in the 1950s required an army that had not been criminal. Article 231 at
+Versailles, which is the case where blame was assigned wholesale, is the First World War and was drafted to
+ground a reparations claim. Opposite directions, one engine: **the account of the past was produced under the
+pressure of a present project**, and in neither case was anything suppressed that had survived.
+
+- [ ] [P1] A Dark Age to Be Reborn From (periodisation as self-definition; the successor names the predecessor):
+      an era's name, boundaries and character are assigned by whoever comes next, and whoever comes next has an
+      identity that depends on the contrast. **The quantity is how much the successor's self-definition rests on
+      being a break**, and the harm scales with it. Mommsen, "Petrarch's Conception of the 'Dark Ages'"
+      (Speculum, 17(2), 1942, 226 to 242) is the documented case and the spine. Trouillot's _Silencing the Past_
+      (1995) supplies the frame and, more usefully, supplies **the cut**: his four moments of historical
+      production are fact creation, fact assembly, fact retrieval, and retrospective significance, and **the
+      first two are The Survivors' territory while the fourth is staged nowhere in this house.** He is also
+      explicit that the silences are "some unconscious, others quite deliberate", which is the no-villain licence
+      taken from the source rather than asserted over it. Le Goff, _Must We Divide History Into Periods?_ (2014),
+      is the row on periodisation as an act rather than a description. **The compounding step is what makes it a
+      trap and not an observation**: the label routes what is studied, funded, taught and preserved, so the
+      evidence base for a period is shaped by a name assigned before the evidence was looked at, and later work
+      then confirms the frame using material the frame selected. **Who pays is the period, and everyone who
+      inherits the frame as a fact.** **No free hero**: refusing to periodise is not available, since history has
+      to be divided to be taught or written at all; and a successor that named its predecessor neutrally would be
+      a successor with no account of why it was needed. **The cuts**: The Survivors (**switch off
+      conditioning-on-survival, stipulate a complete archive, and this stands entire**, because the distortion is
+      in the frame and not in the sample). On Good Authority, citation distortion (that play needs an unfounded
+      claim accreting authority through citation chains; here the founding claim is a **periodisation**, which is
+      not the kind of thing that can be unfounded, and the mechanism runs on a complete and honest literature).
+      Clear from Here, hindsight bias (switch off creeping determinism, stipulate that nobody overestimates how
+      predictable the past was, and this is untouched, because the distortion is about **what an era was** and not
+      about how foreseeable its outcome looks). As Full As I Remember, shifting baselines (there the reference
+      point resets silently within a lineage; here the frame is **authored, published and argued for**, and its
+      author is named). The Hollow Word, semantic drift (drift has no author and no interest; this naming has
+      both). **The verification state**: Mommsen and Trouillot are confirmed bibliographically and their
+      arguments confirmed from several independent reports; **neither was read in full**, per the standing
+      condition below. Le Goff and the clean-Wehrmacht sources, Wette's _The Wehrmacht: History, Myth, Reality_
+      being the obvious one, are named as candidates and are **unverified at scout**, to be checked at authoring.
+      **And a dissent is already in view and must be carried into the warrant**: the claim that _Dark Ages_
+      reflects Italian Renaissance attitudes is in tension with the phrase's near-absence from Italian before the
+      twentieth century, so **the metaphor of darkness and the periodising move are Petrarch's, and the English
+      phrase has a later history of its own**. Getting that distinction wrong would overclaim the spine. Proposed
+      `axis: successor-identity-dependence`, sign negative; field, measurement, cognition and inquiry, which is
+      already more than a quarter of the house and is nonetheless where this honestly sits.
+
+**The region is otherwise unstaged and the probe is unusually empty**: `historiograph` 0, `periodis` 0,
+`periodiz` 0, `Dark Ages` 0, `Renaissance` 0, `medieval` 0, `Petrarch` 0, `war guilt` 0, `official account` 0,
+`commemorat` 0, `memory politics` 0, `posterity` 0. The record-and-archive family that does exist holds other
+mechanisms entirely: Erased by What Divided Them is the comparative method's time depth, Taken Apart to Be Read
+is excavation as destruction, A Hundred Years to Vouch for a Thousand is proxy calibration, Missing From the
+Count is census undercount, and In Somebody Else's Words is the court interpreter's bind. **None of them is about
+who supplies the frame.**
+
+**And the methodological finding is the one to carry forward, because it changes how a pointed shape must be
+read.** The thirty-ninth pass established that a shape is not a domain, since the house already collects shapes.
+This one adds the operating instruction: **run the switch-off on the pointer's examples and never on the pointer's
+slogan.** The slogan is a compression, and compressions drift toward whichever incumbent is most famous. Here the
+slogan compressed to survivorship bias, which the house has held since early, and a pass that had deduped the
+slogan would have reported the region closed while the region was open. **The examples are the specification and
+the slogan is a label on it**, which is the same relation the register already records between an Origin cell and
+the index key computed from it.
