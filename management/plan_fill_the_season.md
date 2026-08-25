@@ -7424,3 +7424,67 @@ recorded here so that the next author reading a clear `--surname` result knows w
       and nobody is asked to, and complying is cheaper than signing. And the cast was named deliberately against
       the gerund clash the previous pass recorded, positions taking nouns and processes the gerunds, which cost
       nothing and produced no collision for the first time in five misfits.
+
+**The thirty-seventh pass took a domain the author knows from outside their profession, and that is the
+refinement worth recording.** The thirty-fifth and thirty-sixth passes established that a domain named by
+somebody who works in it outyields an instrument sweep, and the rule as written implied the workplace. This one
+is horsemanship. It behaved identically: one domain, one P1, on the same ratio as ITSM and as SDLC. **So the rule
+is not about employment. It is about knowing a practice from the inside**, and an avocation qualifies on exactly
+the same terms, which widens the pool of useful pointings considerably.
+
+**The domain is wholly unstaged and unusually so**: `equestrian` 0, `dressage` 0, `horsemanship` 0, `bridle` 0,
+`rollkur` 0, `farrier` 0, `lameness` 0, `schoolmaster` 0, and on the mechanism side `negative reinforcement` 0,
+`pressure and release` 0, `reinforcement timing` 0, `herd-bound` 0, `conditioned response` 0. The nearby terms
+that do appear are held by misfits about something else: `learned helplessness` sits in Not Worth Wanting, which
+stages adaptive preferences, and in Once Bitten, which stages the experience-sampling asymmetry; `habituation`
+sits in More to Stand Still, which stages the hedonic treadmill, and in The Scaffold Left Up, which stages the
+expertise reversal effect. **None of them holds operant conditioning as a mechanism**, so the region is open
+rather than merely unnamed.
+
+**The candidate that survived is the sharpest inversion this register has slated, and the literature states it
+more strongly than the pass first framed it.** In pressure-release training the reinforcing event is **the
+removal of the pressure, not its application**: the rein or the leg signals and motivates, and the release is
+what teaches. The pass expected that to yield an ordinary timing problem, in which a badly timed release simply
+fails to instruct. The equitation-science literature says something worse. **A delayed release punishes the
+response it was meant to reward**, because the pressure continuing through the horse's attempt is, to the horse,
+what follows the attempt. McGreevy and McLean describe a continuum running from poorly timed negative
+reinforcement into punishment, with no boundary between them that the rider can feel.
+
+**So the trap is that effort runs against instruction.** The horse does not respond; the obvious and entirely
+reasonable answer is to ask more firmly; asking more firmly means holding the pressure through the moment the
+horse offers something, which punishes the offer; the horse offers less; and the rider, who is trying hard and
+means well, concludes the horse is stubborn. **The rider must stop asking at the exact moment they most want to
+keep asking**, and the skill that makes this possible is feeling an attempt that has not yet become a movement,
+which takes years and cannot be hurried. There is empirical support and it is specific: releasing at the horse's
+first attempt produced lower rein tension and fewer conflict behaviours in trot-to-walk transitions.
+
+- [ ] [P1] The Release Is the Reward (negative reinforcement in ridden horses; the timing of the release): the
+      reinforcing event is the removal of the pressure and not its application, so a rider who asks more firmly
+      holds the pressure through the horse's attempt and thereby **punishes the response they were asking for**.
+      McGreevy & McLean on ethical equitation and on training techniques that defy learning theory, for the
+      continuum from mistimed negative reinforcement into punishment; and the trot-to-walk transition work for
+      the measured result that releasing at the first attempt lowers rein tension and conflict behaviour.
+      **Who pays is the horse, and the rider who concludes it is stubborn.** **The quantity is the delay in the
+      release**, and the inversion is that **effort is anti-correlated with instruction**: the harder the ask is
+      pressed, the more reliably the attempt is punished. **No free hero**: the remedy is to release at an attempt
+      that has not yet become a movement, which is a perceptual skill taking years, and it requires giving up the
+      pressure at the moment the thing asked for has not yet happened. **The spine is verified**; the specific
+      journal, volume and page details are **not** written down as checked and are to be fixed at authoring.
+- [ ] [P2] The Schoolmaster Consumed by Teaching (the lesson horse dulled by the beginners it teaches): the horse
+      calm enough to carry beginners is the one given to beginners, whose aids are constant, unclear and
+      contradictory, so it learns to ignore them, which is both what keeps it safe and what makes it unable to
+      teach, since a horse that ignores the aids teaches nothing about the aids. **Who pays is the horse, the
+      school, and the next beginner.** **The precondition is a cut against Alarm Fatigue, and it is not obviously
+      makeable**: that misfit stages signal degradation under a flood of low-validity alarms, and this is
+      degradation under a flood of low-information aids, which may be the same engine in a saddle. The candidate
+      stands only if the distinction holds that **here the degradation is the desired property as well as the
+      harm**, the dulling being exactly what makes the horse safe. **Drop the line rather than argue it** if that
+      cannot be cut clean.
+
+**Four more were raised and are recorded as untested rather than struck, because the pass tested one candidate
+hard rather than five lightly.** The popular sire in warmblood breeding is almost certainly **The One Everybody
+Used**, which stages it already. The helmet and the safety stirrup are almost certainly **The Spent Margin**. The
+sedated horse at a sale is almost certainly **The Market for Lemons**. Bit escalation against a horse that leans
+looks like **The Arms Race** and may not be, since neither party is seeking position. **Recording them untested
+is the honest state**: a strike asserted without the switch-off test run is a claim, and this register's value is
+that its strikes are not claims.
