@@ -7345,3 +7345,72 @@ an author casting from vectors will reach for the same word twice without notici
 because a free gate needs no rule, and the expectation is worth carrying: **when the cast is derived rather than
 copied, the collision to expect is not the play's title on a plot but the same gerund on a seat and its
 activity.**
+
+**The thirty-sixth pass took three more pointed domains from the same author, and the yield rule now has two
+points on it.** SDLC, DevOps and CMMI-Dev. The framework vocabulary is unstaged as before, `CMMI` 0,
+`maturity model` 0, `capability maturity` 0, `SDLC` 0, `waterfall` 0, `requirements freeze` 0, `trunk-based` 0,
+`continuous integration` 0, `feature flag` 0, `definition of done` 0. Three domains produced **one** P1, against
+the thirty-fifth's one from one and the thirty-fourth's one from ten. **A pointed probe yields roughly one
+candidate per domain and an instrument sweep yields one per ten**, which is the ratio worth carrying rather than
+either number.
+
+**Most of the ground was already staged, and the kills were quick.** Technical debt is **Shifting the Burden**,
+which the house already cites it under. Alerting on everything is **Alarm Fatigue**. The four delivery metrics
+becoming targets, and a maturity level becoming the goal that appraisal is then prepared for, are both
+**Metric Fixation**. Automating what nobody afterwards understands is **The Irony of Automation**. And the DevOps
+team created to dissolve the boundary between development and operations, which becomes a third group with a
+boundary of its own, is **The Mirror**: Conway's law applied to the remedy rather than to the system, and an
+Origin row there rather than a play beside it.
+
+**One is held rather than slated, and the reason is that its cut is not clean.** The long-lived branch: the cost
+of integrating grows with how far two lines of work have diverged, and the pain of integrating now is exactly
+what postpones it, so each deferral is locally rational and the cost is superlinear in the delay. It looks like a
+misfit and may be one. But **switch off Good Money After Bad's quantity**, stipulating no sunk cost and nothing
+being defended, **and switch off Seed Corn's**, stipulating an actor with an infinite horizon who weighs the
+future at full value, and the postponement largely goes with them: a party with no sunk cost and no discounting
+merges continuously. The candidate survives only if it can be cut to the **symmetric** case, where two branches
+diverge because both are being worked and neither party is postponing anything, and whether that version still
+has a harm is the question to settle before it is slated. **Held with the cut owed, not dropped.**
+
+**What survived is the control that cannot be removed.** A defined process accumulates practices, and every one of
+them was added for a reason that was good at the time, usually a real incident. None is ever removed. The
+mechanism is not inertia and not attachment: it is that **adding and removing are accounted differently**. An
+addition arrives as one more line in a procedure, distributed across many small justified increments, and nobody
+signs for the total. A removal is a single act with a named owner, and if anything goes wrong afterwards the
+question asked is who took the control out. So the two directions are not symmetrical decisions with opposite
+signs; **one of them is a decision and the other is a drift.**
+
+**And the cognitive half is measured, which is what lifts this off the anecdote.** Harm caused by an act is judged
+more harshly than the same harm caused by an omission, which is exactly the asymmetry a person faces when
+proposing to take a control out: leaving it is an omission and removing it is an act, and the outcomes are not
+weighed alike even when they are identical. That is a studied effect with a name, and it supplies the reason the
+asymmetry survives people noticing it.
+
+- [ ] [P1] The Control Nobody Can Remove (process accretion; the removal asymmetry): a defined process accumulates
+      practices, each added for a real reason at the time, and none is ever taken out. **Who pays is everybody
+      working under the process, and nobody chose the total.** **The mechanism is the accounting, not the
+      attachment**: an addition is distributed across many small justified increments that nobody signs for, and a
+      removal is a single act with a named owner who will be asked, if anything later goes wrong, why they took
+      the control out. One direction is a decision and the other is a drift. The cognitive half is **omission
+      bias**, harm from an act being judged more harshly than the same harm from an omission, on Ritov and Baron
+      and on Spranca, Minsk and Baron; the domain half is the maturity-model literature and its critics.
+      **Distinct from Chesterton's Fence**: stipulate perfect knowledge of why every control exists, fully
+      documented and understood, and this is unchanged, because **knowing why a control was added does not make
+      removing it signable**. **Distinct from The Last Layer**: stipulate no diminishing returns at all, every
+      practice fully earning its cost, and stipulate that some become obsolete when what they protected is
+      decommissioned; the obsolete control still cannot be removed. **Distinct from Built Before the Rule**, which
+      runs the other way, the old stock escaping a new rule where here the old rule outlives its stock.
+      **Distinct from Sandbag**, whose ratchet is on performance targets and not on procedure. **`Baron` is in
+      the index bare, on the outcome-bias paper in Clear from Here, and is the same Jonathan Baron**: one scholar
+      on another work, which owes nothing and **must not be declared**.
+
+**And the pass found the Source-column defect a third time, in the form that no wall can catch.** The index reads
+the Source column only. `Ritov` reports **clear** on `--surname`, and the house cites her: Kogut and Ritov are
+named in The One in Front of You, in the **Key Work** column and in the prose, never in a Source cell. The first
+two instances of this were caught because a **namesake** forced the index to resolve, Kevin Kelly by a second
+Kelly and Eddington by a scan for a name just written. **This one has no namesake and never will**, so nothing
+would ever have surfaced it. The reading generalises past the three instances: **the index is not a record of who
+the house cites, it is a record of who the house cites in one column**, and the difference is invisible to every
+wall the house has, since the walls all check consistency within the index rather than the index against the
+warrants. Whether that is worth a gate, a build change, or nothing at all is a decision for the kit. It is
+recorded here so that the next author reading a clear `--surname` result knows what it does and does not mean.
