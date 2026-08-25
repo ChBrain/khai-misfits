@@ -7458,7 +7458,7 @@ keep asking**, and the skill that makes this possible is feeling an attempt that
 which takes years and cannot be hurried. There is empirical support and it is specific: releasing at the horse's
 first attempt produced lower rein tension and fewer conflict behaviours in trot-to-walk transitions.
 
-- [ ] [P1] The Release Is the Reward (negative reinforcement in ridden horses; the timing of the release): the
+- [x] [P1] The Release Is the Reward (negative reinforcement in ridden horses; the timing of the release): the
       reinforcing event is the removal of the pressure and not its application, so a rider who asks more firmly
       holds the pressure through the horse's attempt and thereby **punishes the response they were asking for**.
       McGreevy & McLean on ethical equitation and on training techniques that defy learning theory, for the
@@ -7470,6 +7470,26 @@ first attempt produced lower rein tension and fewer conflict behaviours in trot-
       that has not yet become a movement, which is a perceptual skill taking years, and it requires giving up the
       pressure at the moment the thing asked for has not yet happened. **The spine is verified**; the specific
       journal, volume and page details are **not** written down as checked and are to be fixed at authoring.
+      Staged as **It Learns When You Stop**, `axis: reinforcer-delay`, sign negative. The citation details were
+      fixed as the line required and one of them is worth carrying: the two spine papers are the **same two
+      authors in reversed order**, McGreevy & McLean 2009 for the continuum and McLean & McGreevy 2010 for the
+      mistimed release as common practice, so a Source cell copied from memory would have credited the wrong
+      first author on one of them. The transition work is Egenvall, Eisersiö & Roepstorff (Journal of Veterinary
+      Behavior, 2012), a **pilot** study, which the Restrictions carry as a bound rather than leaving implicit.
+      The build moved one thing the line had not named. The slate framed the settlement's price as a perceptual
+      skill taking years, which is right, and the sharper statement is that **what stands between the rider and
+      the remedy is a perception rather than a fact**, so a rider who understands the entire mechanism holds
+      through the try exactly as before, now with an explanation. That is what keeps the misfit from being closed
+      by its own warrant, and it is the vector [The Feel](../misfits/it_learns_when_you_stop/piece_the_feel.md)
+      was cast for. The cuts are The Open Cage (learned helplessness: **switch off non-contingency and this is
+      unchanged**, because the contingency here is exact and is teaching the wrong rule, so the play is a
+      learning success at the wrong target), Paid to Stop Caring (nothing is being displaced), The Cobra Effect
+      (**that play turns on what is reinforced and this one on when**, which are independent), and Alarm Fatigue
+      (the ask is a true signal every time and the horse has not stopped believing it). Surnames McGreevy,
+      McLean, Egenvall, Eisersiö, Roepstorff and Skinner all scanned clear before and after the build, and the
+      end-of-build re-scan found nothing, which is the first pass in four where it did not: the second source set
+      here was **the same set**, because the domain is unstaged enough that the obvious papers were also the
+      right ones.
 - [ ] [P2] The Schoolmaster Consumed by Teaching (the lesson horse dulled by the beginners it teaches): the horse
       calm enough to carry beginners is the one given to beginners, whose aids are constant, unclear and
       contradictory, so it learns to ignore them, which is both what keeps it safe and what makes it unable to
