@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.317.0",
+  "version": "0.318.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -20424,6 +20424,228 @@
           "kind": "process",
           "title": "Surfacing",
           "taxonomy": "play_never_aimed_at_you.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "never_at_full_speed",
+      "title": "Never at Full Speed",
+      "description": "A martial art's most severe techniques are never rehearsed because they are severe, so the worst case finds them gone.",
+      "members": [
+        {
+          "file": "persona_the_kept_form.md",
+          "kind": "persona",
+          "title": "The Kept Form",
+          "type": "archetype",
+          "taxonomy": "position_custody.md"
+        },
+        {
+          "file": "persona_the_partner.md",
+          "kind": "persona",
+          "title": "The Partner",
+          "type": "archetype",
+          "taxonomy": "position_consent.md"
+        },
+        {
+          "file": "persona_the_reserve.md",
+          "kind": "persona",
+          "title": "The Reserve",
+          "type": "archetype",
+          "taxonomy": "position_repertoire.md"
+        },
+        {
+          "file": "persona_the_severe_technique.md",
+          "kind": "persona",
+          "title": "The Severe Technique",
+          "type": "archetype",
+          "taxonomy": "position_severity.md"
+        },
+        {
+          "file": "persona_the_threat.md",
+          "kind": "persona",
+          "title": "The Threat",
+          "type": "archetype",
+          "taxonomy": "position_duress.md"
+        },
+        {
+          "file": "piece_one_sentence_two_jobs.md",
+          "kind": "piece",
+          "title": "One Sentence, Two Jobs",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "piece_the_conditions_not_sampled.md",
+          "kind": "piece",
+          "title": "The Conditions Not Sampled",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "piece_the_extra_session.md",
+          "kind": "piece",
+          "title": "The Extra Session",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "piece_the_narrowing.md",
+          "kind": "piece",
+          "title": "The Narrowing",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "piece_the_repetition_count.md",
+          "kind": "piece",
+          "title": "The Repetition Count",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "pitch_we_do_not_spar_that.md",
+          "kind": "pitch",
+          "title": "We Do Not Spar That",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "place_the_mat.md",
+          "kind": "place",
+          "title": "The Mat",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "place_the_night_it_happens.md",
+          "kind": "place",
+          "title": "The Night It Happens",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "place_the_syllabus.md",
+          "kind": "place",
+          "title": "The Syllabus",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "plan_be_too_much_to_try.md",
+          "kind": "plan",
+          "title": "Be Too Much to Try",
+          "taxonomy": "position_severity.md"
+        },
+        {
+          "file": "plan_keep_it_exactly.md",
+          "kind": "plan",
+          "title": "Keep It Exactly",
+          "taxonomy": "position_custody.md"
+        },
+        {
+          "file": "plan_offer_whatever_was_practised.md",
+          "kind": "plan",
+          "title": "Offer Whatever Was Practised",
+          "taxonomy": "position_repertoire.md"
+        },
+        {
+          "file": "plan_set_the_limit_and_hold_it.md",
+          "kind": "plan",
+          "title": "Set the Limit and Hold It",
+          "taxonomy": "position_consent.md"
+        },
+        {
+          "file": "plan_take_the_attention.md",
+          "kind": "plan",
+          "title": "Take the Attention",
+          "taxonomy": "position_duress.md"
+        },
+        {
+          "file": "play_never_at_full_speed.md",
+          "kind": "play",
+          "title": "Never at Full Speed"
+        },
+        {
+          "file": "plot_because_it_would_hurt_you.md",
+          "kind": "plot",
+          "title": "Because It Would Hurt You",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "plot_he_took_them_out_and_he_was_right.md",
+          "kind": "plot",
+          "title": "He Took Them Out, and He Was Right",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "plot_kept_and_never_met.md",
+          "kind": "plot",
+          "title": "Kept, and Never Met",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "plot_once_a_week_is_not_nothing.md",
+          "kind": "plot",
+          "title": "Once a Week Is Not Nothing",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "plot_whatever_was_practised_most.md",
+          "kind": "plot",
+          "title": "Whatever Was Practised Most",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "position_consent.md",
+          "kind": "position",
+          "title": "Consent",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "position_custody.md",
+          "kind": "position",
+          "title": "Custody",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "position_duress.md",
+          "kind": "position",
+          "title": "Duress",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "position_repertoire.md",
+          "kind": "position",
+          "title": "Repertoire",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "position_severity.md",
+          "kind": "position",
+          "title": "Severity",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "process_believing.md",
+          "kind": "process",
+          "title": "Believing",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "process_drilling.md",
+          "kind": "process",
+          "title": "Drilling",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "process_excluding.md",
+          "kind": "process",
+          "title": "Excluding",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "process_preserving.md",
+          "kind": "process",
+          "title": "Preserving",
+          "taxonomy": "play_never_at_full_speed.md"
+        },
+        {
+          "file": "process_reaching.md",
+          "kind": "process",
+          "title": "Reaching",
+          "taxonomy": "play_never_at_full_speed.md"
         }
       ]
     },
