@@ -7719,3 +7719,97 @@ So this is the middle row of the table in the house contract, the `Cohen` case: 
 **no cells owed and the declaration goes straight in**, before or with whichever misfit cites the second
 Ericsson. **A `(bare)` from `--surname` is a statement about the declaration and never about the cells**, and
 nothing but the probe separates the two.
+
+**The thirty-ninth pass was pointed at a shape rather than a domain, and that turns out to be a different
+instrument.** The pointing was cycles: things that repeat across generations and seem inevitable. Every pass
+since the thirty-fifth has taken a **domain** (ITSM, SDLC, horsemanship, martial arts, sailing) and the rule
+those established is roughly one P1 per pointed domain against roughly one per ten from an instrument sweep. A
+shape does not behave that way and the reason is structural: **a shape is what this house collects**, so the
+house is likely to already hold its best instances, and it does. The vocabulary probe returned incumbents
+immediately rather than blanks: `Minsky` sits in The Long Calm, `levee` and `floodplain` in Dry Enough to Build
+On, `generational` in As Full As I Remember and Nobody Stopped Speaking It, `forgetting` across seven misfits.
+The four strongest cross-generational cycles anybody would name are all staged already: financial stability
+breeding fragility, protection inviting the development it cannot protect, the reference point resetting each
+generation, and fire suppression accumulating fuel.
+
+**And the part that is unstaged is unstaged for a reason the next author needs.** `Turchin` 0, `secular cycle` 0,
+`elite overproduction` 0, `Kondratiev` 0, `Strauss` 0, `pendulum` 0. That region is empty not because nobody
+looked but because **most of it does not survive the citation standard**, and a shape-shaped pointing aims
+straight at it: grand cycle theories are what the word cycle attracts. **So the pass has to spend its effort on
+striking rather than on finding**, which is the opposite of a domain pass, and the strikes are the deliverable.
+
+- [ ] [P1] The Only Harm Left to See (the vaccine confidence cycle; a prevention that removes the evidence for
+      itself): as coverage rises the disease disappears from the record and from living memory, while the
+      intervention's own adverse events, real, small and honestly reported, do not. **So the ratio of observed
+      harms inverts, and it inverts because the programme worked.** Chen and Orenstein's stages for the evolution
+      of an immunisation programme are the frame, and the sharper half is in the same literature: the events that
+      accumulate are both **causally and coincidentally** related, so as coverage approaches everybody, very
+      nearly every childhood misfortune follows a vaccination and the attribution problem gets worse in exact
+      proportion to the programme's success. Gangarosa and colleagues supply the hard empirical row, pertussis
+      incidence ten to one hundred times lower in countries that maintained coverage than in those where
+      anti-vaccine movements disrupted it, which is the cycle's return leg measured. **The period is generational
+      and that is what makes it a cycle rather than a drift**: the inversion completes when the cohort with no
+      direct memory of the disease becomes the parents deciding, and the resurgence re-supplies the memory and
+      starts it again. **Who pays is the children of the cohort that never saw it.** **No free hero**: telling
+      people the disease was worse is telling them about something none of them has seen, and the honest
+      reporting of adverse events, which is a duty and must not stop, is what supplies the visible half of the
+      ratio. **The cuts are against four incumbents that look adjacent and are not.** Kept From Burning
+      (**switch off fuel accumulation, stipulate a hazard held exactly constant, and this is unchanged**: measles
+      is no more dangerous after thirty years of vaccination, so where that play needs the world to change under
+      the protection, this one needs only the evidence to). Dry Enough to Build On (stipulate that nobody moves
+      in and no assets accumulate behind the protection; the same population simply stops seeing the disease).
+      The Long Calm (there the calm is spent on leverage and the crash is bigger for it; here nothing is
+      accumulated and the epidemic is exactly the size it always was). Not Worth My While, Rose's prevention
+      paradox (**stipulate a large and obvious individual benefit**, which measles vaccination genuinely has, and
+      the cycle still runs, because the mechanism is not that the benefit is small but that it becomes
+      **unobservable while the cost stays observable**). And As Full As I Remember, shifting baseline syndrome,
+      which is the nearest and needs the most care: that play stages a declining quantity going unnoticed because
+      the reference resets, and **this one has no declining quantity at all**. The hazard is constant, and what
+      moves is which harms are visible. Proposed `axis: intervention-coverage`, sign negative; field, ecology,
+      evolution and public health.
+      **The prerequisite is real and is three pull requests deep, which is the most this register has recorded.**
+      `Chen` is taken, by Hsuan-Chi Chen in Sold to Find the Price, and the source here is **Robert T** Chen, who
+      is also a co-author on the Gangarosa paper. The probe was run rather than assumed: declared locally,
+      `--namesakes` reports **one unresolved**, because the existing cell reads `Chen & Ritter` bare. So this is
+      the first row of the contract's table and the order is fixed: **the cell repair first**, on the misfit lane,
+      writing the given name into Sold to Find the Price; **the declaration second**, on governance; **the misfit
+      third**. Nothing about that can be folded, because the cell is `misfits/**` and the declaration is
+      `khai-guard.config.json`, and the guard will not put two lanes on one branch.
+
+**Three grand-cycle candidates were raised and all three are struck, which is what a shape pass is for.** They
+are struck at different strengths and the difference matters.
+
+- **Turchin's secular cycles and elite overproduction are struck on evidence, not on taste.** The
+  structural-demographic theory is genuinely peer-reviewed and quantitative, which is what separates it from the
+  other two and is why it was taken seriously here. It was tested: Georgescu, "The structural-demographic theory
+  revisited: an empirical test for industrialized societies" (PLoS ONE, 18(11), 2023, e0287912) examines its
+  three predictions for industrialised societies and finds **none of them supported**, with automation rather
+  than labour oversupply explaining most wage variance, elite incomes rising where the model wants a hump, and
+  elite overproduction not predicting political instability in recent decades. A warrant cannot be built on a
+  spine whose predictions have been tested and failed. **What would bring it back** is a pre-industrial-scope
+  version with its own confirmation, since that test is explicitly of industrialised societies and the original
+  work is not.
+- **Strauss and Howe's generational theory is struck on method.** Its periodisation is assembled after the fact,
+  its turnings are not independently measurable, and it makes no risked prediction. There is nothing here to cite
+  that the house's standard would accept, and **the failure is not that it is wrong but that it cannot be wrong**.
+- **Kondratiev waves are struck on existence.** Whether the long waves are present in the series at all is the
+  contested question, and a misfit needs a mechanism whose operation is agreed even where its importance is not.
+
+**And a correction is owed to the thirty-eighth pass, which read its own evidence too narrowly.** That pass
+recorded, at n equals three, that "an unstaged domain's primary sources are the ones least likely to be readable".
+This pass makes it five, and one of the five was **PubMed Central open access**, which is neither obscure nor
+paywalled. So the cause is not the domain and never was: it is **this session's network egress policy**, which
+blocks publisher and repository hosts alike. The narrow reading is worse than useless because it implies that
+staging familiar ground would restore the ability to read, and it would not. The operating rule is unchanged and
+now applies everywhere rather than at the frontier: **verify the bibliography by search, verify the content by
+several independent reports, cite the source for the question it addresses, take no numerical parameter from a
+paper you have not read, and say so in Restrictions.**
+
+**And the Source cell chooses who enters the index, which nothing has said before.** The Gangarosa paper has
+seven authors. Written out in full its cell would owe a `Chen` declaration and cell, a **sixth** form for
+`Miller`, who already carries five and would take Elizabeth as a sixth, and a `Phillips` declaration against the
+one already in the index. Written in the house's ordinary form, naming the lead author and the one who carries
+the argument, it owes only the `Chen` prerequisite. **Neither is dishonest and the cheaper one is not evasion**,
+since a Source cell has always named the authors that carry the finding rather than the masthead. But it is worth
+knowing that the cell is doing **index work as well as credit work**, so on a many-authored paper the citation
+form is also a decision about how much of the house's namesake machinery the pass has to pay for.
