@@ -7222,7 +7222,7 @@ simply gone**. Run it the other way and it holds: stipulate every target persist
 address, and reference rot has no harm at all while the nuclear marker still cannot be read. The two separate on
 **whether the thing survives and cannot be understood, or is understood perfectly and is not there**.
 
-- [ ] [P1] Reference Rot (link rot; the decay of citation targets): a citation points at something that has moved
+- [x] [P1] Reference Rot (link rot; the decay of citation targets): a citation points at something that has moved
       or gone, so the pointer fails while the document carrying it persists, and the reader of a judgement or a
       paper follows a reference to nothing. Zittrain, Albert & Lessig, "Perma: Scoping and Addressing the Problem
       of Link and Reference Rot in Legal Citations" (2014), for the measurement in judicial opinions and law
@@ -7231,6 +7231,13 @@ address, and reference rot has no harm at all while the nuclear marker still can
       not illegibility. **A namesake is already owed and was found before authoring**: `Albert` in the index is
       Réka Albert, of preferential attachment, in The Head Start, and Zittrain's co-author is a different person,
       so the declaration is due and the cells must be read before the misfit is written.
+      Staged as **It Was There When I Wrote It**, and the citation was verified before it was written: Harvard
+      Law Review Forum 127 (2014), with the counted fractions of **more than seventy per cent** in the law
+      reviews examined and **fifty per cent** in United States Supreme Court opinions. The `Albert` cell was owed
+      and was bare, `Barabási & Albert`, so it rides this misfit's lane per the Wilson precedent and the
+      declaration follows as governance. The build added a vector the slate had not named: **the asymmetry runs
+      the wrong way with quality**, since the more durable the citing institution the longer its documents spend
+      pointing at nothing, so the effect is heaviest in the records built to last.
 - [ ] [P2] The Standard of Review (appellate deference to findings of fact): the appeal court declines to
       re-decide facts because the trial court saw the witnesses, which is correct, so an error of fact is in
       practice unreviewable while an error of law is not, and each level behaves properly throughout.
