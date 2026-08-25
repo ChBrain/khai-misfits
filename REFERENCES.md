@@ -170,6 +170,7 @@ sources are carried in the named misfit's `REFERENCE.md`.
 | The Span of Control Trade (supervision bought with layers; attention and fidelity spent against each other)               | Graicunas, Relationship in Organisation (1933); Rajan & Wulf on the flattening firm                         | Five, or a Layer (`five_or_a_layer`)                                |
 | The Specificity Trade in Vocational Education (early employment advantage, later adaptability cost)                       | Hanushek, Schwerdt, Woessmann & Zhang, Journal of Human Resources (2017); Autor, Levy & Murnane, QJE (2003) | Ready on the First Day (`ready_on_the_first_day`)                   |
 | The Tyranny of Structurelessness (informal power in leaderless groups)                                                    | Freeman, "The Tyranny of Structurelessness" (1972-73)                                                       | No One in Charge (`no_one_in_charge`)                               |
+| Threat Rigidity (restricted information processing and constricted control under threat)                                  | Staw, Sandelands & Dutton (Administrative Science Quarterly, 1981)                                          | What We Always Do (`what_we_always_do`)                             |
 
 ### Groups, candour, and face
 
