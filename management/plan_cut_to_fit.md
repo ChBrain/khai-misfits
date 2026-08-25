@@ -34,6 +34,20 @@ personas, seven positions, eight pieces, the same every time) is a tell that the
 shape was copied, not read from the source. The house refuses the mould: the
 warrant names the vectors, and the cast is exactly those vectors made flesh.
 
+**And the mould reasserts itself quietly, so the count is re-derived every time or
+it is inherited.** Three consecutive misfits were authored carrying identical
+distributions, six personas, six pieces, three places, six plans, five plots, six
+positions and five processes, where an older sibling in the same field runs four,
+six, three, four, five, four and four. Nothing failed: every gate is intra-misfit
+and none of them compares one cast to another, so a copied shape passes everything.
+The tell is only visible by counting across the house, and the correction is not a
+different number but a different **question**: list the concept's load-bearing
+vectors first, then cast one element per vector, and let the total fall out. Two
+misfits authored that way came out at five personas rather than six, because the
+element the mould would have made an actor, a fair rule and a selecting environment,
+belonged to a process and a piece instead. **A count that matches a sibling is not
+wrong, and a count that was never derived is.**
+
 ## Orders
 
 Read the misfit's warrant first, list its load-bearing vectors, then cast one
