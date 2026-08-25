@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.312.0",
+  "version": "0.313.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -14682,6 +14682,228 @@
           "kind": "process",
           "title": "Randomising",
           "taxonomy": "play_it_saved_my_life.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "it_was_there_when_i_wrote_it",
+      "title": "It Was There When I Wrote It",
+      "description": "A citation exact when it was made, a host that reorganises reasonably, and a reader who arrives at nothing.",
+      "members": [
+        {
+          "file": "persona_the_archive.md",
+          "kind": "persona",
+          "title": "The Archive",
+          "type": "archetype",
+          "taxonomy": "position_preserved.md"
+        },
+        {
+          "file": "persona_the_citation.md",
+          "kind": "persona",
+          "title": "The Citation",
+          "type": "archetype",
+          "taxonomy": "position_cited.md"
+        },
+        {
+          "file": "persona_the_host.md",
+          "kind": "persona",
+          "title": "The Host",
+          "type": "archetype",
+          "taxonomy": "position_hosting.md"
+        },
+        {
+          "file": "persona_the_reader.md",
+          "kind": "persona",
+          "title": "The Reader",
+          "type": "archetype",
+          "taxonomy": "position_following.md"
+        },
+        {
+          "file": "persona_the_standing_text.md",
+          "kind": "persona",
+          "title": "The Standing Text",
+          "type": "archetype",
+          "taxonomy": "position_standing.md"
+        },
+        {
+          "file": "piece_the_address.md",
+          "kind": "piece",
+          "title": "The Address",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "piece_the_moment_of_citing.md",
+          "kind": "piece",
+          "title": "The Moment of Citing",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "piece_the_obligation_nobody_has.md",
+          "kind": "piece",
+          "title": "The Obligation Nobody Has",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "piece_the_seventy_per_cent.md",
+          "kind": "piece",
+          "title": "The Seventy Per Cent",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "piece_the_silence.md",
+          "kind": "piece",
+          "title": "The Silence",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "pitch_author_title_date_address.md",
+          "kind": "pitch",
+          "title": "Author, Title, Date, Address",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "place_the_footnote.md",
+          "kind": "place",
+          "title": "The Footnote",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "place_the_later_reading.md",
+          "kind": "place",
+          "title": "The Later Reading",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "place_the_server.md",
+          "kind": "place",
+          "title": "The Server",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "plan_go_and_look_it_up.md",
+          "kind": "plan",
+          "title": "Go and Look It Up",
+          "taxonomy": "position_following.md"
+        },
+        {
+          "file": "plan_keep_the_site_in_good_order.md",
+          "kind": "plan",
+          "title": "Keep the Site in Good Order",
+          "taxonomy": "position_hosting.md"
+        },
+        {
+          "file": "plan_remain_in_force.md",
+          "kind": "plan",
+          "title": "Remain in Force",
+          "taxonomy": "position_standing.md"
+        },
+        {
+          "file": "plan_say_exactly_where_it_is.md",
+          "kind": "plan",
+          "title": "Say Exactly Where It Is",
+          "taxonomy": "position_cited.md"
+        },
+        {
+          "file": "plan_take_a_copy_at_the_time.md",
+          "kind": "plan",
+          "title": "Take a Copy at the Time",
+          "taxonomy": "position_preserved.md"
+        },
+        {
+          "file": "play_it_was_there_when_i_wrote_it.md",
+          "kind": "play",
+          "title": "It Was There When I Wrote It"
+        },
+        {
+          "file": "plot_exactly_where_it_is.md",
+          "kind": "plot",
+          "title": "Exactly Where It Is",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "plot_nothing_announces_it.md",
+          "kind": "plot",
+          "title": "Nothing Announces It",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "plot_one_half_outlives_the_other.md",
+          "kind": "plot",
+          "title": "One Half Outlives the Other",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "plot_ordinary_administration.md",
+          "kind": "plot",
+          "title": "Ordinary Administration",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "plot_take_the_copy_now.md",
+          "kind": "plot",
+          "title": "Take the Copy Now",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "position_cited.md",
+          "kind": "position",
+          "title": "Cited",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "position_following.md",
+          "kind": "position",
+          "title": "Following",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "position_hosting.md",
+          "kind": "position",
+          "title": "Hosting",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "position_preserved.md",
+          "kind": "position",
+          "title": "Preserved",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "position_standing.md",
+          "kind": "position",
+          "title": "Standing",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "process_checking.md",
+          "kind": "process",
+          "title": "Checking",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "process_citing.md",
+          "kind": "process",
+          "title": "Citing",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "process_persisting.md",
+          "kind": "process",
+          "title": "Persisting",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "process_preserving.md",
+          "kind": "process",
+          "title": "Preserving",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
+        },
+        {
+          "file": "process_reorganising.md",
+          "kind": "process",
+          "title": "Reorganising",
+          "taxonomy": "play_it_was_there_when_i_wrote_it.md"
         }
       ]
     },
