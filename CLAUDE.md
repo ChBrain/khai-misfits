@@ -306,6 +306,17 @@ question the table is really asking is not whether a surname is declared but
 whether any cell would be left unresolved by declaring it. The probe answers
 that directly and is the only thing that does.
 
+**And the instrument says bare anyway, which is what makes that sentence easy to
+read past.** `--surname` reports the **index key**, and an undeclared surname has
+no declared form to resolve against, so its key is bare **by construction**,
+whatever its cells contain. `Ericsson` printed `(bare)` and every cell in it was
+already written `Neil Ericsson`: nothing was owed, and the pass had already
+costed itself a repair of every occurrence. So **a `(bare)` from `--surname` is a
+statement about the declaration and never about the cells**, it is exactly as
+bare for the middle row of the table as for the first, and reading it as evidence
+of an unnamed cell mis-costs the pass in the expensive direction. Only the probe
+separates them.
+
 The pre-authoring probe answers this too, and costs one build: declare the
 candidate surnames locally and read `--namesakes`. Where the misfit is not yet
 in the tree, an already-declared surname reports **zero** owed, which is the
