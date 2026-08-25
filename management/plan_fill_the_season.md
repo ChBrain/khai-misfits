@@ -7300,7 +7300,7 @@ constituted for: set it to zero, so that the reviewer is a peer who knows the sy
 is what the same research finds about peer review. **The body is made effective at nothing by the very thing that
 makes it independent.**
 
-- [ ] [P1] The Change Advisory Board (external change approval; the independent approver): a board exists to
+- [x] [P1] The Change Advisory Board (external change approval; the independent approver): a board exists to
       approve changes and lower their risk, is staffed by competent people asking reasonable questions, and is
       constituted to be independent of the teams proposing the work. Forsgren, Humble & Kim, _Accelerate_ (2018),
       on four years of State of DevOps survey data: external approval shows **no correlation with change failure
@@ -7315,6 +7315,12 @@ makes it independent.**
       before authoring**: the index's `Kim` is Daniel Kim of the systems archetypes, **bare in two cells**, in
       Accidental Adversaries and Fixes that Fail, so this is the cells-first case and both cells must be named on
       a misfit lane before the declaration and before this misfit cites Gene Kim.
+      Staged as **Whoever Is Not Involved**, and the build found the sharpest statement of the cut is not about
+      knowledge at all but about **one property with two signs**: what makes a reviewer trustworthy and what makes
+      a reviewer able are the same property, so no arrangement holds both and the play offers no reconciliation.
+      The two bare `Kim` cells were named on this lane per the Wilson precedent, so the declaration that follows
+      owes nothing. **Vetocracy was cut on a stronger test than the slate proposed**: every change in this play is
+      approved, so the count of blockers is not merely reducible to one, it is irrelevant.
 - [ ] [P2] The Unowned Seam (multi-supplier service integration; the gap between two scopes): an end-to-end
       service is delivered by several suppliers, each with a defined scope and a target it meets, and the failure
       lands in the handoff between two scopes that no contract names, so every supplier is correct to say it is
@@ -7328,3 +7334,14 @@ makes it independent.**
       is already **Over a Barrel**'s and the shared-work wall forbids taking it, so this stands only if it can be
       warranted from the service-integration literature or from a practitioner body of knowledge in its own
       right. **Drop the line rather than stretch a neighbouring spine over it.**
+
+**The intra-misfit title collision now has a shape, after four of them in five misfits, and the shape is not the
+one first recorded.** It was noted as an authoring trap after two misfits named their hinge plot with the play's
+own title, and dismissed as self-correcting, which it is: the canon validator catches every instance, the fix is a
+rename, and it costs one build. But the next three were **position against process**, twice in one misfit, and
+that is a different and more predictable clash: **a seat and the activity performed in it both want the gerund**.
+Approving, Failing, Following are each the natural name for a position and for the process that position runs, so
+an author casting from vectors will reach for the same word twice without noticing. The rule stays unwritten,
+because a free gate needs no rule, and the expectation is worth carrying: **when the cast is derived rather than
+copied, the collision to expect is not the play's title on a plot but the same gerund on a seat and its
+activity.**
