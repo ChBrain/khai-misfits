@@ -539,6 +539,21 @@ and a misfit landed first; the fix was the procedure above applied unchanged to 
 governance branch, reset and rebuild rather than merge. **The lane does not decide
 it. Touching a built file does.**
 
+**And when git reports a conflict in one of these files, both sides of it are
+outputs.** That is the sentence worth having, because every instinct and every tool
+reaching a conflict tries to **resolve** it, which is right everywhere else in the
+repository and wrong here: neither side is a source, so choosing between them, or
+splicing them, produces a file that no build would emit. It fails the drift gate if
+the difference is large, and it passes quietly if the difference is small, which is
+worse. **Discard both sides and rebuild.** A hand-merged index is the one defect in
+this house that looks more correct the less of it there is: transcribing two changed
+keys across lands on the right characters and teaches the wrong method, and the same
+method applied to forty rows silently produces an index matching neither branch.
+Copilot was asked to clear a conflict on a misfit pull request and did exactly this,
+editing `docs/SCIENCE.md` by hand and reporting the branch clean while it was still
+based on the commit before the one it conflicted with. **A conflict in a built file is
+not a merge problem. It is a rebuild that has not happened yet.**
+
 **Do not carry `CHANGELOG.md` in a misfit PR.** From `khai-tests` 0.2.4 the
 registry build heals the top CHANGELOG heading to the manifest. That is right in
 a release, where the top heading is the pending version `changeset version` just
