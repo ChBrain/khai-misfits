@@ -7107,7 +7107,7 @@ destroyed**, by a whole profession and no single occupant. Two quantities, two p
 needs no narrowing** - its warrant never claimed the authority case, so this is built beside it and the two
 name each other.
 
-- [ ] [P1] The Eminent's Veto (Planck, _Scientific Autobiography_ (1950), for the claim; Azoulay, Fons-Rosen &
+- [x] [P1] The Eminent's Veto (Planck, _Scientific Autobiography_ (1950), for the claim; Azoulay, Fons-Rosen &
       Graff Zivin, "Does Science Advance One Funeral at a Time?", _American Economic Review_ 109(8), 2889-2920
       (2019), for the test; Barber, "Resistance by Scientists to Scientific Discovery", _Science_ (1961), for
       the survey; Eddington against Chandrasekhar, Royal Astronomical Society (1935), for the case): a field's
@@ -7142,3 +7142,43 @@ stage. The word outran the man.
 second.** The candidate above was cleared against the sources the pass planned. The re-scan at the end of the
 build is owed and is not discharged here, and on this candidate it is likelier than usual to bite, because
 the history-of-science literature the subject will actually need is not the literature the pass entered by.
+
+      Staged as **Somebody Is Already There**, and the three citations the scanning pass left unverified were
+      checked before they were written: Barber is Science 134(3479), 1961, 596 to 602, and the Eddington episode
+      is the Royal Astronomical Society meeting of 11 January 1935, Chandrasekhar's limiting mass answered by
+      Eddington's "Relativistic Degeneracy". **Kuhn was found to be No Place in the Theory's spine and was
+      therefore not cited**, which the shared-work wall reported before a line was written and which confirms
+      that misfit as the neighbour. The build also took the study's **other** finding, that the deceased's
+      collaborators lose output, so the play carries a vacancy that is not a good.
+
+**The thirty-third pass found the sixth wall-shaped defect, and it is the one the file predicted would come.**
+CLAUDE.md records five of them and says the next will look like the others: quiet, arithmetically fine, and wrong
+about who somebody is. This one is a **compound surname**. The build takes the **last token** of an author part as
+the surname, which is right for almost every name the house holds and wrong for `Joshua Graff Zivin`, who keys as
+**`Zivin`**. So `node tests/science_overlap.mjs --surname "Graff Zivin"` returns **clear** on a house that holds
+him, which is a false clear from the sanctioned instrument, exactly as `Lucas` did under `Jr` before the suffix
+wall. The next author scanning that name is told the ground is empty and it is not.
+
+**It differs from the suffix case in the one way that matters: there is no cell-level fix.** A generational suffix
+is never part of a surname, so dropping `Jr` from the Source cell is a correction. `Graff Zivin` **is** the
+surname, and writing it as one token to satisfy the parser would misspell a real person, which the house's own
+credit rule forbids ahead of any convenience. So this one is not repaired here and is recorded instead, with its
+workaround: **scan the last token as well as the full name**, and read a compound surname's clear as unproven.
+Whether it earns a policy, a `compoundSurnames` declaration beside `homonyms`, or a change to how the build
+splits a name, is a decision for the kit and not for a misfit lane.
+
+**And the same pass made the cheaper mistake next door, which is worth recording because the two look alike and
+are not.** The Origin table's Source column is an **author list**, not a sentence, and this pass first wrote
+`Arthur Eddington against Subrahmanyan Chandrasekhar` into it. That parses as one author part, whose last token
+is `Chandrasekhar`, so **Eddington vanished from the index entirely** while the row still read correctly to a
+human. The end-of-build re-scan caught it because Eddington reported clear on a misfit that cites him; without
+that scan it would have passed every gate. **A Source cell that reads well and parses wrongly is invisible to
+every wall the house has**, and the only thing that catches it is scanning for the names you know you just wrote.
+That is the second time the end-of-build re-scan has earned its place by contradicting the author rather than the
+register.
+
+**One authoring trap, twice in three misfits, and it is self-correcting so it needs no rule.** Both As Good as New
+and this pass named their hinge plot with the play's own title, which the canon validator rejects, since a title
+names one element and two kinds may not carry it. It costs one rename and the gate never misses it. It is
+recorded only so the next author expects it: the instinct to name the central plot after the play is strong and
+the check is free.
