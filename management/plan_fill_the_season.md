@@ -7038,11 +7038,16 @@ is owed and is not discharged here.
       and the doing here, and it turned up a second half of the empirical finding the slate had not seen: the
       hazard **declines with time since the change**, so the cost is a window rather than a doom, and a body that
       has changed once is likelier to change again, which reopens it. Both are carried; neither is settled.
-- [ ] [P1] Threat Rigidity (Staw, Sandelands & Dutton, _Administrative Science Quarterly_, 1981): under threat,
+- [x] [P1] Threat Rigidity (Staw, Sandelands & Dutton, _Administrative Science Quarterly_, 1981): under threat,
       information processing narrows and control centralises, at exactly the moment more information and a wider
       response range are called for, and the narrowing is the well-learned response that has always worked.
       **Who pays is the body already in trouble.** **Distinct from Good Money After Bad**: no prior investment is
       needed, it fires on a body that has spent nothing. `Staw` is one scholar on two works and must stay undeclared.
+      Staged as **What We Always Do**, and the build found the evidence honest in a way the slate had not seen:
+      Gladstein and Reilly tested the account on twenty-four groups and confirmed **one half and not the other**,
+      information processing restricted and stress raised, influence **not** concentrated. The play carries the gap.
+      The dedup that decided it is Closing Ranks, and it separates by **removing the group outright**: cue
+      utilisation narrows in one person alone, where groupthink needs a group and its wish to remain one.
 - [ ] [P2] The Boiling Crisis (departure from nucleate boiling; Nukiyama 1934, Kutateladze 1948, Zuber 1959):
       raise the heat flux on a boiling surface and transfer improves, up to a critical flux at which the bubbles
       merge into an insulating vapour film and transfer collapses, so the surface temperature jumps by hundreds of

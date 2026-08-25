@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.310.0",
+  "version": "0.311.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -63977,6 +63977,234 @@
           "kind": "process",
           "title": "Watering",
           "taxonomy": "play_what_the_water_leaves.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "what_we_always_do",
+      "title": "What We Always Do",
+      "description": "A real threat, correctly seen, answered by narrowing the channels and pulling the decision up the table.",
+      "members": [
+        {
+          "file": "persona_the_grip.md",
+          "kind": "persona",
+          "title": "The Grip",
+          "type": "archetype",
+          "taxonomy": "position_held.md"
+        },
+        {
+          "file": "persona_the_narrowing.md",
+          "kind": "persona",
+          "title": "The Narrowing",
+          "type": "archetype",
+          "taxonomy": "position_narrowed.md"
+        },
+        {
+          "file": "persona_the_old_answer.md",
+          "kind": "persona",
+          "title": "The Old Answer",
+          "type": "archetype",
+          "taxonomy": "position_practised.md"
+        },
+        {
+          "file": "persona_the_signal_not_taken.md",
+          "kind": "persona",
+          "title": "The Signal Not Taken",
+          "type": "archetype",
+          "taxonomy": "position_unread.md"
+        },
+        {
+          "file": "persona_the_threat.md",
+          "kind": "persona",
+          "title": "The Threat",
+          "type": "archetype",
+          "taxonomy": "position_faced.md"
+        },
+        {
+          "file": "piece_the_cue_that_was_available.md",
+          "kind": "piece",
+          "title": "The Cue That Was Available",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "piece_the_efficiency.md",
+          "kind": "piece",
+          "title": "The Efficiency",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "piece_the_novelty.md",
+          "kind": "piece",
+          "title": "The Novelty",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "piece_the_partial_support.md",
+          "kind": "piece",
+          "title": "The Partial Support",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "piece_the_repertoire.md",
+          "kind": "piece",
+          "title": "The Repertoire",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "piece_the_twenty_four_groups.md",
+          "kind": "piece",
+          "title": "The Twenty-Four Groups",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "pitch_nobody_panicked.md",
+          "kind": "pitch",
+          "title": "Nobody Panicked",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "place_the_channels.md",
+          "kind": "place",
+          "title": "The Channels",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "place_the_emergency.md",
+          "kind": "place",
+          "title": "The Emergency",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "place_the_top_of_the_table.md",
+          "kind": "place",
+          "title": "The Top of the Table",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "plan_attend_to_what_has_mattered_before.md",
+          "kind": "plan",
+          "title": "Attend to What Has Mattered Before",
+          "taxonomy": "position_narrowed.md"
+        },
+        {
+          "file": "plan_be_available_to_anyone_looking.md",
+          "kind": "plan",
+          "title": "Be Available to Anyone Looking",
+          "taxonomy": "position_unread.md"
+        },
+        {
+          "file": "plan_be_seen_for_what_i_am.md",
+          "kind": "plan",
+          "title": "Be Seen for What I Am",
+          "taxonomy": "position_faced.md"
+        },
+        {
+          "file": "plan_decide_where_the_accountability_sits.md",
+          "kind": "plan",
+          "title": "Decide Where the Accountability Sits",
+          "taxonomy": "position_held.md"
+        },
+        {
+          "file": "plan_do_the_thing_that_has_always_worked.md",
+          "kind": "plan",
+          "title": "Do the Thing That Has Always Worked",
+          "taxonomy": "position_practised.md"
+        },
+        {
+          "file": "play_what_we_always_do.md",
+          "kind": "play",
+          "title": "What We Always Do"
+        },
+        {
+          "file": "plot_everybody_could_see_it.md",
+          "kind": "plot",
+          "title": "Everybody Could See It",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "plot_fewer_things_to_weigh.md",
+          "kind": "plot",
+          "title": "Fewer Things to Weigh",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "plot_it_was_not_the_usual_kind.md",
+          "kind": "plot",
+          "title": "It Was Not the Usual Kind",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "plot_the_thing_that_has_always_worked.md",
+          "kind": "plot",
+          "title": "The Thing That Has Always Worked",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "plot_whoever_is_accountable.md",
+          "kind": "plot",
+          "title": "Whoever Is Accountable",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "position_faced.md",
+          "kind": "position",
+          "title": "Faced",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "position_held.md",
+          "kind": "position",
+          "title": "Held",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "position_narrowed.md",
+          "kind": "position",
+          "title": "Narrowed",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "position_practised.md",
+          "kind": "position",
+          "title": "Practised",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "position_unread.md",
+          "kind": "position",
+          "title": "Unread",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "process_arriving.md",
+          "kind": "process",
+          "title": "Arriving",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "process_centralising.md",
+          "kind": "process",
+          "title": "Centralising",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "process_falling_back.md",
+          "kind": "process",
+          "title": "Falling Back",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "process_missing.md",
+          "kind": "process",
+          "title": "Missing",
+          "taxonomy": "play_what_we_always_do.md"
+        },
+        {
+          "file": "process_narrowing.md",
+          "kind": "process",
+          "title": "Narrowing",
+          "taxonomy": "play_what_we_always_do.md"
         }
       ]
     },
