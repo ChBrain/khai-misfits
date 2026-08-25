@@ -7525,7 +7525,7 @@ and `overwhelm`, which is worth naming because a careless probe reads forty-seve
 `seamanship` returns one, Heavy Enough to Cross, which stages ballast water as an invasion vector and holds no
 part of shiphandling. **The regions are open rather than merely unnamed.**
 
-- [ ] [P1] Never at Full Speed (the technique too dangerous to rehearse; skill availability under stress): a
+- [x] [P1] Never at Full Speed (the technique too dangerous to rehearse; skill availability under stress): a
       martial art's most severe techniques are excluded from full-resistance practice **because** they are
       severe, so the exclusion is correct and is nobody's fault. Kano's founding move was exactly this: he
       removed the dangerous techniques from randori so that randori could be done at full power, kept them in
@@ -7554,6 +7554,37 @@ part of shiphandling. **The regions are open rather than merely unnamed.**
       **The verification state**: Kano's rationale and the Renden and Oudejans findings are confirmed; the
       specific volume and page details are **not** written down as checked and are owed at authoring. Proposed
       `axis: technique-severity`, sign negative; field, safety, risk and complex systems.
+      Staged under that title and that axis. **The Ericsson prerequisite was not paid, and the reason is a
+      merits reason and not a convenience one.** The slate named K. Anders Ericsson as the natural source for
+      the feedback requirement, which would have forced the homonym declaration to land in its own governance
+      pull request first. The row was built on **representative learning design** instead, Pinder, Davids,
+      Renshaw and Araújo, and that is the better citation on its own terms: deliberate practice is about what
+      makes practice productive, and the question here is whether a form **samples the conditions of use at
+      all**, which is exactly what representative learning design states. The prerequisite is therefore still
+      owed by whichever misfit next wants Ericsson, unchanged and still costing zero cells.
+      The build moved two things the slate had not named. The first is that the two spine papers do not overlap
+      the way the slate implied: Renden and colleagues supply **both halves in one result**, the extra weekly
+      session improving performance under anxiety **and** failing to prevent the fall, so the settlement and its
+      limit are the same finding rather than a finding and an objection. The second is sharper and is the play's
+      hinge: **the sentence is the seal.** _We do not spar that, because it would injure you_ is true, is said in
+      good faith, and supplies the reason there is no evidence together with the claim of large effect, so the
+      belief accounts for its own untestedness and leaves no residue that would prompt anybody to look. The slate
+      had severity gating rehearsal, which is right and is only half: without the sentence somebody notices the
+      absence and goes looking. That is the vector
+      [One Sentence, Two Jobs](../misfits/never_at_full_speed/piece_one_sentence_two_jobs.md) was cast for.
+      The cuts ran as the slate predicted. A Lower Bar Set by a Higher One holds because **there it is the
+      control that cannot be given and here it is the treatment**, and because the deficits differ in kind: that
+      play's harm is a decision-maker without a warrant and this one's is a performer without the repetitions, so
+      establishing efficacy by other means closes that play and leaves this one untouched. The Cargo Cult
+      (understanding a technique does not rehearse it), Proved on Somebody Else (there is no trial at all here),
+      and Kept for the Worst (nothing is being conserved) all cleared. Surnames Kano, Renden, Landman,
+      Savelsbergh, Nieuwenhuys, Oudejans, Pinder, Davids, Renshaw and Araújo scanned clear before and after the
+      build. **And one owed check could not be discharged**, the same way the sailing misfit's could not: the
+      1932 lecture is behind a paywall and was not read, so the Origin row cites it for **where Kano set out his
+      rationale** and gives the exclusion itself as the historical record, with the Restrictions saying so. That
+      is now twice in two misfits, which is a pattern rather than an accident: **an unstaged domain's primary
+      sources are the ones least likely to be readable**, and the move both times was to check what the claim
+      actually rests on and to cite no further than that.
 - [x] [P1] The Wind That Holds You There (the lee shore; windward capability failing in the wind that demands
       it): a sailing vessel cannot sail at the wind, so the one direction it cannot take directly is the
       direction it must take to leave a shore the wind is blowing onto. **This is the pointing taken at its
