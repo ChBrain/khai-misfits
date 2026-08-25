@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.309.0",
+  "version": "0.310.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -3276,6 +3276,234 @@
           "kind": "process",
           "title": "Taking the First Look",
           "taxonomy": "play_as_full_as_i_remember.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "as_good_as_new",
+      "title": "As Good as New",
+      "description": "Trusted because it repeats itself, right about what it must become, and made new again for going there.",
+      "members": [
+        {
+          "file": "persona_the_attempt.md",
+          "kind": "persona",
+          "title": "The Attempt",
+          "type": "archetype",
+          "taxonomy": "position_attempted.md"
+        },
+        {
+          "file": "persona_the_record.md",
+          "kind": "persona",
+          "title": "The Record",
+          "type": "archetype",
+          "taxonomy": "position_reproduced.md"
+        },
+        {
+          "file": "persona_the_right_answer.md",
+          "kind": "persona",
+          "title": "The Right Answer",
+          "type": "archetype",
+          "taxonomy": "position_sighted.md"
+        },
+        {
+          "file": "persona_the_second_time.md",
+          "kind": "persona",
+          "title": "The Second Time",
+          "type": "archetype",
+          "taxonomy": "position_repeated.md"
+        },
+        {
+          "file": "persona_the_selector.md",
+          "kind": "persona",
+          "title": "The Selector",
+          "type": "archetype",
+          "taxonomy": "position_selector.md"
+        },
+        {
+          "file": "piece_the_clock.md",
+          "kind": "piece",
+          "title": "The Clock",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "piece_the_fidelity.md",
+          "kind": "piece",
+          "title": "The Fidelity",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "piece_the_sunk_structure.md",
+          "kind": "piece",
+          "title": "The Sunk Structure",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "piece_the_thousand_and_eleven.md",
+          "kind": "piece",
+          "title": "The Thousand and Eleven",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "piece_the_trust_it_bought.md",
+          "kind": "piece",
+          "title": "The Trust It Bought",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "piece_the_two_readings.md",
+          "kind": "piece",
+          "title": "The Two Readings",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "pitch_nobody_was_wrong_about_anything.md",
+          "kind": "pitch",
+          "title": "Nobody Was Wrong About Anything",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "place_the_changeover.md",
+          "kind": "place",
+          "title": "The Changeover",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "place_the_long_run.md",
+          "kind": "place",
+          "title": "The Long Run",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "place_the_population.md",
+          "kind": "place",
+          "title": "The Population",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "plan_be_right_about_what_is_needed.md",
+          "kind": "plan",
+          "title": "Be Right About What Is Needed",
+          "taxonomy": "position_sighted.md"
+        },
+        {
+          "file": "plan_become_the_thing_that_is_needed.md",
+          "kind": "plan",
+          "title": "Become the Thing That Is Needed",
+          "taxonomy": "position_attempted.md"
+        },
+        {
+          "file": "plan_come_out_the_same_way_every_time.md",
+          "kind": "plan",
+          "title": "Come Out the Same Way Every Time",
+          "taxonomy": "position_reproduced.md"
+        },
+        {
+          "file": "plan_keep_the_ones_that_can_be_relied_on.md",
+          "kind": "plan",
+          "title": "Keep the Ones That Can Be Relied On",
+          "taxonomy": "position_selector.md"
+        },
+        {
+          "file": "plan_move_again_having_moved.md",
+          "kind": "plan",
+          "title": "Move Again, Having Moved",
+          "taxonomy": "position_repeated.md"
+        },
+        {
+          "file": "play_as_good_as_new.md",
+          "kind": "play",
+          "title": "As Good as New"
+        },
+        {
+          "file": "plot_and_then_again.md",
+          "kind": "plot",
+          "title": "And Then Again",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "plot_founded_last_tuesday.md",
+          "kind": "plot",
+          "title": "Founded Last Tuesday",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "plot_selection_made_the_inertia.md",
+          "kind": "plot",
+          "title": "Selection Made the Inertia",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "plot_they_could_see_it_perfectly.md",
+          "kind": "plot",
+          "title": "They Could See It Perfectly",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "plot_trusted_because_it_repeats.md",
+          "kind": "plot",
+          "title": "Trusted Because It Repeats",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "position_attempted.md",
+          "kind": "position",
+          "title": "Attempted",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "position_repeated.md",
+          "kind": "position",
+          "title": "Repeated",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "position_reproduced.md",
+          "kind": "position",
+          "title": "Reproduced",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "position_selector.md",
+          "kind": "position",
+          "title": "Selector",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "position_sighted.md",
+          "kind": "position",
+          "title": "Sighted",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "process_reorganising.md",
+          "kind": "process",
+          "title": "Reorganising",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "process_reproducing.md",
+          "kind": "process",
+          "title": "Reproducing",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "process_resetting.md",
+          "kind": "process",
+          "title": "Resetting",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "process_seeing.md",
+          "kind": "process",
+          "title": "Seeing",
+          "taxonomy": "play_as_good_as_new.md"
+        },
+        {
+          "file": "process_selecting.md",
+          "kind": "process",
+          "title": "Selecting",
+          "taxonomy": "play_as_good_as_new.md"
         }
       ]
     },
