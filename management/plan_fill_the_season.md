@@ -7488,3 +7488,122 @@ sedated horse at a sale is almost certainly **The Market for Lemons**. Bit escal
 looks like **The Arms Race** and may not be, since neither party is seeking position. **Recording them untested
 is the honest state**: a strike asserted without the switch-off test run is a claim, and this register's value is
 that its strikes are not claims.
+
+**The thirty-eighth pass took two domains pointed in one message, and that is the first test the pointing rule
+has had at more than one domain at a time.** Martial arts and sailing were named together. The rule as the
+thirty-seventh pass left it predicts roughly one P1 per pointed domain against roughly one per ten from an
+instrument sweep, and it held exactly: **one P1 from each, and neither pass borrowed from the other**. That is
+worth recording because the obvious failure mode of a doubled pointing is that the author works the domain they
+find easier and returns one candidate with two labels on it. The two here share no literature, no field-adjacent
+incumbent and no shape, which is the check that the ratio is real rather than an artefact of enthusiasm.
+
+**Both domains are wholly unstaged, and the probes are unusually clean**: `judo` 0, `martial art` 0, `grappling`
+0, `dojo` 0, `kuzushi` 0, `weight class` 0, and on the sailing side `sailboat` 0, `windward` 0, `leeward` 0,
+`lee shore` 0, `point of sail` 0, `apparent wind` 0, `keel` 0, `COLREG` 0, `right of way` 0, `stand-on` 0,
+`regatta` 0, `yacht` 0, `mariner` 0. The apparent hits on `tack` and `helm` are substring artefacts, `attack`
+and `overwhelm`, which is worth naming because a careless probe reads forty-seven misfits as covering tacking.
+`seamanship` returns one, Heavy Enough to Cross, which stages ballast water as an invasion vector and holds no
+part of shiphandling. **The regions are open rather than merely unnamed.**
+
+- [ ] [P1] Never at Full Speed (the technique too dangerous to rehearse; skill availability under stress): a
+      martial art's most severe techniques are excluded from full-resistance practice **because** they are
+      severe, so the exclusion is correct and is nobody's fault. Kano's founding move was exactly this: he
+      removed the dangerous techniques from randori so that randori could be done at full power, kept them in
+      kata, and the innovation worked. **The quantity is the claimed severity of the technique**, and it runs
+      both ways off one variable: severity is why the technique is believed, and severity is why it is never
+      done. The stress-performance literature supplies the harm. Renden, Landman, Savelsbergh and Oudejans on
+      police arrest and self-defence skills under anxiety, and the Nieuwenhuys and Oudejans line behind it, find
+      that trained skills degrade under threat and that officers fall back on what is most practised, so **the
+      technique reserved for the worst case is the one absent in the worst case**. **Who pays is the person who
+      needs it in earnest.** **No free hero**: pressure-testing the severe techniques injures the partners, which
+      is the reason they were excluded and is still true; teaching them as kata is honest preservation and is
+      what Kano did; and telling the practitioner the technique is untested does not give them the repetitions.
+      **The cut that decides it is against A Lower Bar Set by a Higher One**, which stages the surgical placebo
+      problem and whose governing law is that the bar protecting a volunteer rises with the harm the control arm
+      would bear. Switch that engine off, stipulating a control arm that costs nothing so no comparison is ever
+      refused, and this stands entire, because **there it is the control that cannot be given and here it is the
+      treatment**: a surgeon performs the operation constantly and lacks only the comparison, while the
+      practitioner has never once performed the technique. And the sharper half: **what goes missing here is a
+      motor skill, not a warrant.** Stipulate the technique's efficacy perfectly established by other means, no
+      evidential gap whatever, and the practitioner still fails under stress, because efficacy is not
+      availability. The other cuts are The Cargo Cult (stipulate the mechanism perfectly understood and nothing
+      changes, since understanding an eye gouge does not rehearse it), Proved on Somebody Else (there the thing
+      is tested under unlike conditions; here there is no trial at all), and Kept for the Worst (nothing is being
+      conserved; it is unpractisable). Surnames Kano, Renden, Oudejans, Nieuwenhuys, Landman, Savelsbergh,
+      Renshaw, Davids, Araújo, Pinder all scanned clear. **Ericsson did not**, and that is recorded below.
+      **The verification state**: Kano's rationale and the Renden and Oudejans findings are confirmed; the
+      specific volume and page details are **not** written down as checked and are owed at authoring. Proposed
+      `axis: technique-severity`, sign negative; field, safety, risk and complex systems.
+- [ ] [P1] The Wind That Holds You There (the lee shore; windward capability failing in the wind that demands
+      it): a sailing vessel cannot sail at the wind, so the one direction it cannot take directly is the
+      direction it must take to leave a shore the wind is blowing onto. **This is the pointing taken at its
+      word.** The hook was that a boat sails best against the wind, which is true and is the same fact: the rig
+      is a wing, it makes its living to windward, and the price of that is a no-go sector aimed exactly where the
+      escape is. **The quantity is the strength of the onshore wind**, and the coupling is what makes it a misfit
+      rather than a hazard: as the wind rises the danger rises, and the ability to escape it falls, off the same
+      variable and by two mechanisms at once. Sail must be reduced, which cuts the drive; and the seaway slows
+      the hull, while the keel's lift varies with the square of boat speed and leeway varies with lift, so
+      **losing speed forces leeway up, which is the boat being pushed sideways toward the shore by its own loss
+      of way**. Willis on the windward performance of sailing warships puts the best of them at six points and
+      the usual at seven, before leeway, and Harland's account of shiphandling covers the point at which a ship
+      can no longer beat off; Marchaj is the aerodynamicist behind the modern statement of it. The archetype is
+      HMS St George and HMS Defence on the Jutland coast in December 1811, roughly thirteen hundred dead, one of
+      them jury-rigged and therefore short of exactly the capability the gale was demanding. **Who pays is the
+      crew.** **No free hero**: carrying sail is what claws you off and is what dismasts you, so the seamanlike
+      response to the weather is the one that loses the shore, and both readings of the situation are correct at
+      once; sea room is the real answer and is a decision taken days earlier by somebody who did not yet know;
+      and an engine relocates the problem into fuel and a shaft rather than abolishing it. **The nearest
+      incumbent is Widest When You Need It**, whose governing law is that the market maker's spread is a defence
+      against the better-informed counterparty and must therefore be widest when most people need to trade.
+      Switch off adverse selection, stipulating no informed traders anywhere, and this is unchanged, because
+      **the wind holds no information and is not selecting against the boat**: the quoter withdraws deliberately
+      and strategically, and the vessel does nothing at all, its incapacity being a fixed property of sail
+      geometry that would be identical if the shore were a mile away. **One is a defence and the other is a
+      shape.** Also cut against The Irony of Automation, which is capability degraded at the worst moment by
+      deskilling: switch off every trace of automation, put a square-rigger and a full crew in the gale, and
+      this stands whole. **The verification state**: Willis, Harland and Marchaj are confirmed to exist and are
+      correctly attributed; the Willis paper was **not read in full**, its access being blocked, so the six and
+      seven points figure is taken from secondary report and is owed a direct check at authoring, and the
+      Restrictions must carry it. Proposed `axis: onshore-wind-strength`, sign negative, which will pair with
+      nothing and is honest about that; field, safety, risk and complex systems.
+- [ ] [P2] The Stand-On Vessel (COLREGS Rule 17; the party best placed to avoid is required not to): under the
+      collision regulations the give-way vessel manoeuvres and the stand-on vessel **must hold its course and
+      speed**, which is what makes the give-way vessel's calculation possible. So the vessel that can see the
+      developing collision most clearly is the one forbidden to act on it, until the moment the rule releases it,
+      by which time both are manoeuvring at once and against each other. **Who pays is both crews.** The rule is
+      not a defect: predictability is the whole reason a collision regulation works, and a stand-on vessel that
+      manoeuvred freely would make the give-way vessel's problem unsolvable. **The precondition is a warrant**:
+      marine accident investigation reports on in-extremis collisions are the obvious source and were **not
+      opened this pass**, so the line is slated on the structure and not yet on the literature. **Check first
+      whether the harm survives** the switch-off against After You and the coordination family; if the answer is
+      that this is simply two agents deferring, drop it rather than argue it.
+
+**Five more were raised and are recorded as untested rather than struck**, on the thirty-seventh pass's standard
+that a strike asserted without the switch-off test run is a claim. Rapid weight loss in combat sports is the
+exception and **is struck**, because the test was run: remove The Arms Race's engine, stipulating no relative
+position at stake, and there is no reason to make a weight at all, so the harm goes quiet and the candidate is an
+Origin row rather than a misfit. **The categorical boundary is the interesting half and does not save it**, since
+a competitor with no rivals faces no boundary. The five held are: ukemi and the safety stirrup of the mat, almost
+certainly The Spent Margin; dan ranks awarded for building a school, almost certainly Rising to Unfit; kata
+transmitted faithfully by people who do not understand it, which is near The Cargo Cult and whose distinct half,
+that fidelity is highest where comprehension is lowest, is real and had no warrant this pass; competition scoring
+reshaping the art itself, the 2010 leg-grab ban being the case, which looks like the Goodhart family and may not
+be, since the rule reshapes the **art** rather than the effort; and on the sailing side, pinching, where the
+response to being behind is to point higher and go slower, held because a trained helm does not pinch and a
+misfit needs a harm that survives competence. Leeway being invisible from on board is held on the **count**
+rather than on the merits: it is a measurement misfit, and measurement is already eighty-one of three hundred and
+sixteen. The rating rule shaping yacht design against seaworthiness, which is Marchaj's actual argument and the
+Fastnet 1979 inquiry's territory, is held as Goodhart family and untested.
+
+**And the pass turned up a namesake by scanning before authoring, which is the fifth time an index defect has
+been caught by eye and the first caught by a scan that was not yet owed.** `Ericsson` is taken, by **Neil**
+Ericsson of the Federal Reserve Board in True Until It Was Used, and the martial-arts candidate's natural source
+for the feedback requirement is **K. Anders** Ericsson. Two people, one surname, undeclared. **The cost of it was
+then mis-read, and the mis-reading is the thing to carry forward**: `--surname` prints the index key, and an
+undeclared surname is bare **by construction**, so the output said `Ericsson (bare)` and the pass costed itself
+as the cells-first case, a declaration plus every occurrence repaired. The probe says otherwise. Declared locally,
+`--namesakes` returns **zero unresolved**, because the existing cell already reads `Neil Ericsson & John Irons`.
+So this is the middle row of the table in the house contract, the `Cohen` case: undeclared, cells already named,
+**no cells owed and the declaration goes straight in**, before or with whichever misfit cites the second
+Ericsson. **A `(bare)` from `--surname` is a statement about the declaration and never about the cells**, and
+nothing but the probe separates the two.
