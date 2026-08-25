@@ -7639,7 +7639,7 @@ part of shiphandling. **The regions are open rather than merely unnamed.**
       in conditions that gave no reason to take it). Surnames Marchaj, Harland, Willis and Rodger scanned clear
       before and after the build. The end-of-build re-scan found nothing, and for the same reason as last time:
       the second source set was the first, because an unstaged domain's obvious sources are also its right ones.
-- [ ] [P2] The Stand-On Vessel (COLREGS Rule 17; the party best placed to avoid is required not to): under the
+- [x] [P2] The Stand-On Vessel (COLREGS Rule 17; the party best placed to avoid is required not to): under the
       collision regulations the give-way vessel manoeuvres and the stand-on vessel **must hold its course and
       speed**, which is what makes the give-way vessel's calculation possible. So the vessel that can see the
       developing collision most clearly is the one forbidden to act on it, until the moment the rule releases it,
@@ -7650,6 +7650,45 @@ part of shiphandling. **The regions are open rather than merely unnamed.**
       opened this pass**, so the line is slated on the structure and not yet on the literature. **Check first
       whether the harm survives** the switch-off against After You and the coordination family; if the answer is
       that this is simply two agents deferring, drop it rather than argue it.
+      Staged as **Keep Her Course and Speed**, `axis: stand-on-hold-obligation`, sign negative. The warrant was
+      opened and the candidate stood, and **the precondition was checked and its named incumbent was wrong**:
+      After You stages two-sided markets and the chicken-and-egg of platform launch, not deferral, so the line
+      pointed at a misfit that holds nothing of this. The register named it from memory. That is the failure this
+      file exists to prevent, caught here only because the line said to check.
+      **The candidate nearly died on The Stag Hunt and the reason it did not is the methodological finding of
+      this pass.** Run the switch-off on _uncertainty_ and the harm goes quiet: with perfect knowledge of the
+      other vessel's intention the stand-on ship never wrongly concludes no turn is coming, and the collision
+      needs that wrong conclusion. But **the incumbent's quantity is not uncertainty.** The Stag Hunt declares
+      strategic uncertainty in an equilibrium-selection problem, where a safe choice depends on nobody and doubt
+      drives each player to hedge to the inferior outcome. Nothing here selects an equilibrium and neither party
+      hedges: the stand-on ship's holding is a legal duty, it is the cooperative act rather than the cautious
+      one, and she would hold it against a partner she trusted completely. The failures are opposite in sign too,
+      that play ending with nobody moving and this one with both moving at once. **So the switch-off is run on
+      the quantity a misfit declares and never on a generalisation of it**, and a strike taken on the
+      generalisation would have been wrong. That is the mirror of the annexation move already in the contract:
+      there the incumbent has taken ground it does not hold and must be narrowed, and here the incumbent is
+      correctly narrow and the author widened it.
+      The build moved one thing the slate had not named, and it is the play's hinge. The slate had the rule
+      forbidding the better-placed party to act, which is right and is not the trap. **The trap is that the
+      release condition cannot be made precise.** Any threshold is a moment at which the stand-on ship's
+      behaviour changes discontinuously, which the give-way ship must then predict, so precision restores exactly
+      the unpredictability the holding was bought to remove. The vagueness is not where the rule leaks: it is the
+      last place its benefit is stored, and the autonomous-vessel literature asking for the ambiguity to be
+      removed is asking, in good faith and correctly for its purpose, to spend it. **The settlement and the
+      mechanism want the same coin.** That is the vector
+      [As Soon As It Becomes Apparent](../misfits/keep_her_course_and_speed/piece_as_soon_as_it_becomes_apparent.md)
+      was cast for. The other cuts are You Have to Mean It (nothing is intended in advance), Time Inconsistency
+      (preferences are constant; the restriction is on action, not inclination) and Everybody's Business (two
+      parties, duties allocated in writing, and the failure is both discharging theirs).
+      **And the reading gap is now three misfits deep, so it is recorded as a standing condition rather than an
+      incident.** Neither cited paper could be read, both behind publisher access, as with Willis and with Kano.
+      The move was the same and is worth stating as a rule: **cite the source for the question it addresses,
+      take no numerical parameter from a paper you have not read, and say so in Restrictions.** Three passes in
+      three domains have now needed it. Surnames Hagen, Knutsen, Johansen, Brekke, Maza, Argüelles, García and
+      Poo all scanned clear. **Two of them are compound surnames and the index keys the last token**, so
+      García Maza keys as `Maza` and Poo Argüelles as `Argüelles`: that is the compound-surname defect this
+      register already recorded at Graff Zivin, met a second time, and it means a later author scanning `García`
+      gets a false clear on a scholar the house holds.
 
 **Five more were raised and are recorded as untested rather than struck**, on the thirty-seventh pass's standard
 that a strike asserted without the switch-off test run is a claim. Rapid weight loss in combat sports is the
