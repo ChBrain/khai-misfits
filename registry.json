@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.313.0",
+  "version": "0.314.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -65649,6 +65649,228 @@
           "kind": "process",
           "title": "Widening the Rule",
           "taxonomy": "play_whoever_comes_instead.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "whoever_is_not_involved",
+      "title": "Whoever Is Not Involved",
+      "description": "A board constituted to be independent of the work, which is the property that makes it unable to judge the work.",
+      "members": [
+        {
+          "file": "persona_the_author.md",
+          "kind": "persona",
+          "title": "The Author",
+          "type": "archetype",
+          "taxonomy": "position_proposing.md"
+        },
+        {
+          "file": "persona_the_board.md",
+          "kind": "persona",
+          "title": "The Board",
+          "type": "archetype",
+          "taxonomy": "position_approving.md"
+        },
+        {
+          "file": "persona_the_fix_waiting.md",
+          "kind": "persona",
+          "title": "The Fix Waiting",
+          "type": "archetype",
+          "taxonomy": "position_waiting.md"
+        },
+        {
+          "file": "persona_the_outage.md",
+          "kind": "persona",
+          "title": "The Outage",
+          "type": "archetype",
+          "taxonomy": "position_failing.md"
+        },
+        {
+          "file": "persona_the_peer.md",
+          "kind": "persona",
+          "title": "The Peer",
+          "type": "archetype",
+          "taxonomy": "position_reviewing.md"
+        },
+        {
+          "file": "piece_the_independence.md",
+          "kind": "piece",
+          "title": "The Independence",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "piece_the_reasonable_question.md",
+          "kind": "piece",
+          "title": "The Reasonable Question",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "piece_the_restore_clock.md",
+          "kind": "piece",
+          "title": "The Restore Clock",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "piece_the_zero_correlation.md",
+          "kind": "piece",
+          "title": "The Zero Correlation",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "piece_what_the_peer_has.md",
+          "kind": "piece",
+          "title": "What the Peer Has",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "pitch_any_objections_noted_approved.md",
+          "kind": "pitch",
+          "title": "Any Objections, Noted, Approved",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "place_the_board_room.md",
+          "kind": "place",
+          "title": "The Board Room",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "place_the_night_of_it.md",
+          "kind": "place",
+          "title": "The Night of It",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "place_the_queue.md",
+          "kind": "place",
+          "title": "The Queue",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "plan_arrive_at_the_usual_rate.md",
+          "kind": "plan",
+          "title": "Arrive at the Usual Rate",
+          "taxonomy": "position_failing.md"
+        },
+        {
+          "file": "plan_explain_it_to_people_who_were_not_there.md",
+          "kind": "plan",
+          "title": "Explain It to People Who Were Not There",
+          "taxonomy": "position_proposing.md"
+        },
+        {
+          "file": "plan_go_in_as_soon_as_i_am_allowed.md",
+          "kind": "plan",
+          "title": "Go In as Soon as I Am Allowed",
+          "taxonomy": "position_waiting.md"
+        },
+        {
+          "file": "plan_let_nothing_through_unexamined.md",
+          "kind": "plan",
+          "title": "Let Nothing Through Unexamined",
+          "taxonomy": "position_approving.md"
+        },
+        {
+          "file": "plan_read_it_knowing_the_system.md",
+          "kind": "plan",
+          "title": "Read It Knowing the System",
+          "taxonomy": "position_reviewing.md"
+        },
+        {
+          "file": "play_whoever_is_not_involved.md",
+          "kind": "play",
+          "title": "Whoever Is Not Involved"
+        },
+        {
+          "file": "plot_a_reviewer_with_a_stake_is_not_a_reviewer.md",
+          "kind": "plot",
+          "title": "A Reviewer With a Stake Is Not a Reviewer",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "plot_no_correlation_at_all.md",
+          "kind": "plot",
+          "title": "No Correlation At All",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "plot_somebody_who_knows_the_system.md",
+          "kind": "plot",
+          "title": "Somebody Who Knows the System",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "plot_the_fix_is_a_change_too.md",
+          "kind": "plot",
+          "title": "The Fix Is a Change Too",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "plot_the_questions_it_can_ask.md",
+          "kind": "plot",
+          "title": "The Questions It Can Ask",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "position_approving.md",
+          "kind": "position",
+          "title": "Approving",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "position_failing.md",
+          "kind": "position",
+          "title": "Failing",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "position_proposing.md",
+          "kind": "position",
+          "title": "Proposing",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "position_reviewing.md",
+          "kind": "position",
+          "title": "Reviewing",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "position_waiting.md",
+          "kind": "position",
+          "title": "Waiting",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "process_breaking.md",
+          "kind": "process",
+          "title": "Breaking",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "process_constituting.md",
+          "kind": "process",
+          "title": "Constituting",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "process_restoring.md",
+          "kind": "process",
+          "title": "Restoring",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "process_sitting.md",
+          "kind": "process",
+          "title": "Sitting",
+          "taxonomy": "play_whoever_is_not_involved.md"
+        },
+        {
+          "file": "process_submitting.md",
+          "kind": "process",
+          "title": "Submitting",
+          "taxonomy": "play_whoever_is_not_involved.md"
         }
       ]
     },
