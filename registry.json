@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.318.0",
+  "version": "0.319.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -15546,6 +15546,228 @@
           "kind": "process",
           "title": "Walking On",
           "taxonomy": "play_just_keeping_their_feet.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "keep_her_course_and_speed",
+      "title": "Keep Her Course and Speed",
+      "description": "The rule making one ship predictable forbids her to act, and its release cannot be made precise without breaking it.",
+      "members": [
+        {
+          "file": "persona_the_closing_window.md",
+          "kind": "persona",
+          "title": "The Closing Window",
+          "type": "archetype",
+          "taxonomy": "position_margin.md"
+        },
+        {
+          "file": "persona_the_held_course.md",
+          "kind": "persona",
+          "title": "The Held Course",
+          "type": "archetype",
+          "taxonomy": "position_predictability.md"
+        },
+        {
+          "file": "persona_the_late_turn.md",
+          "kind": "persona",
+          "title": "The Late Turn",
+          "type": "archetype",
+          "taxonomy": "position_obligation.md"
+        },
+        {
+          "file": "persona_the_machine_that_wants_a_number.md",
+          "kind": "persona",
+          "title": "The Machine That Wants a Number",
+          "type": "archetype",
+          "taxonomy": "position_automation.md"
+        },
+        {
+          "file": "persona_the_word_apparent.md",
+          "kind": "persona",
+          "title": "The Word Apparent",
+          "type": "archetype",
+          "taxonomy": "position_threshold.md"
+        },
+        {
+          "file": "piece_as_soon_as_it_becomes_apparent.md",
+          "kind": "piece",
+          "title": "As Soon As It Becomes Apparent",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "piece_both_turns_at_once.md",
+          "kind": "piece",
+          "title": "Both Turns at Once",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "piece_early_and_substantial.md",
+          "kind": "piece",
+          "title": "Early and Substantial",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "piece_the_number_that_is_not_there.md",
+          "kind": "piece",
+          "title": "The Number That Is Not There",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "piece_the_two_body_problem.md",
+          "kind": "piece",
+          "title": "The Two-Body Problem",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "pitch_hold_what_you_are_doing.md",
+          "kind": "pitch",
+          "title": "Hold What You Are Doing",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "place_the_bridge.md",
+          "kind": "place",
+          "title": "The Bridge",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "place_the_crossing.md",
+          "kind": "place",
+          "title": "The Crossing",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "place_the_last_two_minutes.md",
+          "kind": "place",
+          "title": "The Last Two Minutes",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "plan_act_early_and_substantially.md",
+          "kind": "plan",
+          "title": "Act Early and Substantially",
+          "taxonomy": "position_obligation.md"
+        },
+        {
+          "file": "plan_admit_of_no_instant.md",
+          "kind": "plan",
+          "title": "Admit of No Instant",
+          "taxonomy": "position_threshold.md"
+        },
+        {
+          "file": "plan_ask_the_rule_for_a_value.md",
+          "kind": "plan",
+          "title": "Ask the Rule for a Value",
+          "taxonomy": "position_automation.md"
+        },
+        {
+          "file": "plan_be_somewhere_knowable.md",
+          "kind": "plan",
+          "title": "Be Somewhere Knowable",
+          "taxonomy": "position_predictability.md"
+        },
+        {
+          "file": "plan_run_out.md",
+          "kind": "plan",
+          "title": "Run Out",
+          "taxonomy": "position_margin.md"
+        },
+        {
+          "file": "play_keep_her_course_and_speed.md",
+          "kind": "play",
+          "title": "Keep Her Course and Speed"
+        },
+        {
+          "file": "plot_a_value_it_does_not_have.md",
+          "kind": "plot",
+          "title": "A Value It Does Not Have",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "plot_early_is_a_range.md",
+          "kind": "plot",
+          "title": "Early Is a Range",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "plot_somebody_has_to_be_predictable.md",
+          "kind": "plot",
+          "title": "Somebody Has to Be Predictable",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "plot_stay_exactly_this_vague.md",
+          "kind": "plot",
+          "title": "Stay Exactly This Vague",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "plot_two_lawful_turns.md",
+          "kind": "plot",
+          "title": "Two Lawful Turns",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "position_automation.md",
+          "kind": "position",
+          "title": "Automation",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "position_margin.md",
+          "kind": "position",
+          "title": "Margin",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "position_obligation.md",
+          "kind": "position",
+          "title": "Obligation",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "position_predictability.md",
+          "kind": "position",
+          "title": "Predictability",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "position_threshold.md",
+          "kind": "position",
+          "title": "Threshold",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "process_formalising.md",
+          "kind": "process",
+          "title": "Formalising",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "process_giving_way.md",
+          "kind": "process",
+          "title": "Giving Way",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "process_holding.md",
+          "kind": "process",
+          "title": "Holding",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "process_judging.md",
+          "kind": "process",
+          "title": "Judging",
+          "taxonomy": "play_keep_her_course_and_speed.md"
+        },
+        {
+          "file": "process_running_out.md",
+          "kind": "process",
+          "title": "Running Out",
+          "taxonomy": "play_keep_her_course_and_speed.md"
         }
       ]
     },
