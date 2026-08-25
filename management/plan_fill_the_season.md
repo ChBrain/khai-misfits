@@ -7027,12 +7027,17 @@ is owed and is not discharged here.
       switch-off tests and the No Idle Hands one sharpened, since the two are **opposite in their relation to
       load** rather than merely separable, the utilisation trap arriving with load and this one displayed in its
       purest form at the lowest demand the system ever sees.
-- [ ] [P1] Structural Inertia (Hannan & Freeman, _American Sociological Review_, 1984): selection favours the
+- [x] [P1] Structural Inertia (Hannan & Freeman, _American Sociological Review_, 1984): selection favours the
       reliable and accountable, those properties require reproducible structure, and reorganising destroys the
       reliability record and restores the mortality hazard of a new organisation, so **the adaptive move is the
       dangerous one**. **Who pays is the organisation that tries to change.** **Slated on its cut and not
       otherwise: the quantity is the hazard of the attempt, never the overtaken form**, which is Right for the
       Last World. **Blocked on governance**: `Freeman` is declared and needs `John` added before this can land.
+      Staged as **As Good as New**, on the cut this line insisted on and not otherwise. The build confirmed the
+      separation from Right for the Last World runs on **which half of the sequence fails**, the knowing there
+      and the doing here, and it turned up a second half of the empirical finding the slate had not seen: the
+      hazard **declines with time since the change**, so the cost is a window rather than a doom, and a body that
+      has changed once is likelier to change again, which reopens it. Both are carried; neither is settled.
 - [ ] [P1] Threat Rigidity (Staw, Sandelands & Dutton, _Administrative Science Quarterly_, 1981): under threat,
       information processing narrows and control centralises, at exactly the moment more information and a wider
       response range are called for, and the narrowing is the well-learned response that has always worked.
