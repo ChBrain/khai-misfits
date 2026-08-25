@@ -1,5 +1,152 @@
 # @chbrain/khai-misfits
 
+## 0.314.0
+
+### Minor Changes
+
+- 1d79b32: As Good as New: structural inertia. An organisation trusted because it repeats
+  itself, which sees exactly what it must become, and is returned to the mortality of
+  a body founded last Tuesday for going there.
+
+  Reliability and accountability are both bought with the capacity to reproduce
+  structure faithfully, and that capacity is inertia under another name, so an
+  environment that keeps rewarding dependable organisations manufactures organisations
+  that cannot easily be changed. The inertia is the consequence of selection rather
+  than a residue that escaped it, which means harsher pressure yields more of it.
+
+  Cut on the hazard of the attempt and not on the overtaken form. The organisation
+  sees the turn perfectly and agrees on the answer, which eliminates perception and
+  defuses Right for the Last World entirely; what remains is that the rebuild spends
+  the reproducibility record and resets the liability of newness. Hannan and Freeman
+  (1984) for the spine and the inversion, Stinchcombe (1965) for the clock, and
+  Amburgey, Kelly and Barnett (1993) for the measurement on 1,011 Finnish newspaper
+  organisations across 193 years. Both halves of that finding are carried: the hazard
+  declines with time since the change, and a body that has changed once is likelier to
+  change again, so waiting the window out is not reliably available.
+
+- b6f9b27: It Was There When I Wrote It: reference rot. A citation that was exact when it was
+  made, a host that reorganises reasonably, and a reader who follows the reference to
+  nothing.
+
+  Nobody is at fault. The source was read, represented accurately and its address
+  checked, and no better practice existed, because a location is the only handle the
+  thing has. The host gave no undertaking, was asked for none, and performed only
+  ordinary administration; it cannot even learn who has cited it. The asymmetry is that
+  the citing document is durable by design, deposited and indexed, while the target is
+  durable by nobody's design at all, so the better the citing institution performs the
+  longer the document spends pointing at nothing.
+
+  The failure is silent, which is what makes it cumulative: the text is unchanged, the
+  footnote well formed, nothing false, and no part of the apparatus ever checks.
+  Zittrain, Albert and Lessig (2014) counted it: more than seventy per cent of the
+  addresses cited in the law reviews examined, and fifty per cent of those in United
+  States Supreme Court opinions, no longer reach what was cited. The remedy is real,
+  is in use, and is not retrospective, since a vanished target cannot be copied.
+
+  This also names Réka Albert in The Head Start's Origin table, whose Source cell read
+  "Barabási & Albert" bare. The house has met a second Albert with this misfit's
+  citation, so the cell rides this lane and the declaration follows as governance.
+
+- 89eb09c: Somebody Is Already There: Planck's principle. A living eminence occupies the
+  frontier, the outsider with the contradicting result declines to enter, and the
+  field waits for a funeral rather than for evidence.
+
+  There is no gatekeeper in it. The standing is earned, the judgement is usually
+  right, nobody is turned away and a direct approach would be read seriously. The
+  outsider's arithmetic is equally sound: the paper is refereed in a small world
+  where the occupant is the obvious referee, the grant assessed by their former
+  students, and being right is not sufficient when it is also necessary to be
+  believed. Declining is what a career advisor would advise.
+
+  So the harm is an absence. Nothing is suppressed, nothing rejected, no decision to
+  close the field is taken by anyone, and a field cannot notice the papers nobody
+  wrote. What releases the ground is the occupant no longer being there, which is
+  uncomfortable and is exactly what makes it testable: a death arriving while a
+  scientist is still active is selected by nothing, so before and after are
+  comparable. Azoulay, Fons-Rosen and Graff Zivin (2019) measure it; the entrants had
+  never collaborated with the deceased, draw on a literature the subfield was not
+  citing, and are disproportionately highly cited, so what the closure cost was a
+  direction. The same study's other finding is carried rather than tidied: the
+  collaborators' output falls, so the funeral is not a remedy.
+
+  Cast at five pieces rather than six, the count derived from the vectors.
+
+- b49aadc: Wait Your Turn: head-of-line blocking. One queue served in the order people joined
+  it, a front that is stalled on something legitimate, and a counter standing free
+  that nobody behind the front is allowed to walk to.
+
+  The discipline is the fair one and the play never asks for it to be relaxed: first
+  come, first served needs no supervision, cannot be worked by the confident, and a
+  queue that abandons it is a queue where the loudest go first. The harm is at its
+  purest when there is nothing to do, which is what separates it from every account of
+  congestion: the blocked item is not waiting for a busy server, it is waiting for a
+  free one it is not permitted to reach.
+
+  The arithmetic is checkable rather than citable: under saturation with uniform
+  destinations, a single first-come queue per entrance reaches two minus the square
+  root of two, about 58.5 per cent of capacity, so more than two fifths is lost to the
+  ordering alone while the wanted destinations stand idle. Karol, Hluchyj and Morgan
+  (1987) for the spine; McKeown, Mekkittikul, Anantharam and Walrand (1999) for the
+  remedy that recovers it and the endless scheduling decision it costs; Langley and
+  colleagues (2017) for the remedy that removes it by giving up the delivery order.
+
+- d1ce0a4: What We Always Do: threat rigidity. A real threat, correctly seen by everyone,
+  answered by narrowing the channels and pulling the decision up the table, which is
+  what training installed and what has worked every previous time.
+
+  Both moves are right and the play never asks for either to be abandoned: attending
+  to fewer cues is how anything gets done under load, and concentrating the decision
+  is how a body answers quickly and stays accountable. They invert when the threat is
+  one the repertoire does not contain, and the two things that would establish which
+  case this is, a wider sweep of cues and more people with standing to speak, are
+  exactly what the moves withdrew. The narrowing removes the means of noticing that
+  the narrowing is wrong.
+
+  Staw, Sandelands and Dutton (1981) for the multilevel spine; Easterbrook (1959) for
+  the narrowing of cue utilisation in one person alone, which is what separates this
+  from every account needing a group; Hermann (1963) for authority contracting under
+  crisis. Gladstein and Reilly (1985) tested it on twenty-four groups and found
+  restricted information processing and raised stress but no concentration of
+  influence, so the play carries the half that failed rather than smoothing it.
+
+- d93f97c: Whoever Is Not Involved: external change approval. A board constituted to be
+  independent of the work, which is the property that makes it unable to judge the work.
+
+  Nothing should enter a live service unexamined, so a body is created; and it is made
+  independent, because a reviewer who benefits from approval is not performing a review.
+  That sentence is true and the play never argues against it. What follows is that
+  nobody in the room has operated the system, so the board examines what it can see, and
+  what it can see is the paperwork. Those questions are real and are not the question,
+  and asking them well is indistinguishable from inside the room from doing the job.
+
+  Forsgren, Humble and Kim, on four years of State of DevOps research: external approval
+  has no correlation with the rate at which changes fail, not a weak one but none, and
+  correlates negatively with lead time, deployment frequency and time to restore
+  service. That last is the turn, because the remedy for an outage is itself a change
+  and queues behind the same gate, so the control that failed to prevent the failure
+  delays the recovery, and the delay is longest where delay costs most.
+
+  The settlement is the same review by somebody who knows the system, which works, and
+  costs the independence: the organisation must give up a sentence that is true.
+
+  This also names Daniel Kim in Accidental Adversaries and Fixes that Fail, whose Source
+  cells read "Kim" bare. The house met a second Kim with this misfit's citation, so both
+  cells ride this lane and the declaration follows as governance.
+
+### Patch Changes
+
+- 76ac6e0: Name Kevin Kelly in The Shirky Principle's Origin table, so the surname can be
+  declared. The Source cell read `Shirky, Kelly` while the given names sat in the Key
+  Work column, and the index only reads the Source column, so declaring `Kelly` would
+  have left the occurrence unresolved and failed the namesake wall. The cell now reads
+  `Clay Shirky, Kevin Kelly`.
+
+  The house has met a second Kelly: Dawn Kelly, with Amburgey and Barnett, arrived in
+  As Good as New. Two people under one bare key is what an undeclared surname does,
+  and it passes quietly, so the declaration is owed. Cells first, since a bare cell is
+  valid without the declaration and the declaration is not valid without the cell.
+  The declaration itself is governance and follows separately.
+
 ## 0.308.2
 
 ### Patch Changes
