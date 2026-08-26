@@ -7892,3 +7892,76 @@ slogan compressed to survivorship bias, which the house has held since early, an
 slogan would have reported the region closed while the region was open. **The examples are the specification and
 the slogan is a label on it**, which is the same relation the register already records between an Origin cell and
 the index key computed from it.
+
+**The forty-first pass was nearly struck on the density of its dedup, and the correction is the pass.** The
+pointing was automating your own job away, put as a symmetry: succeed and the role is gone, fail and the role is
+gone. It is the third shape-shaped pointing in a row and it decomposes further than any candidate this register
+has handled. **Seven incumbents touch it**, which read as a closed region and is not one.
+
+| The half                                             | The incumbent that holds it |
+| ---------------------------------------------------- | --------------------------- |
+| An agent preserves the problem it solves             | The Shirky Principle        |
+| Prevention is uncredited and firefighting is visible | The Firefighter's Medal     |
+| Capacity hidden because revealing it costs you       | Sandbag                     |
+| Tacit knowledge as the only leverage                 | The Bus Factor              |
+| Automation leaving the human the residue             | The Irony of Automation     |
+| The only competent assessor is an interested party   | Ask the One Who Sells       |
+| Punished either way with no room to comment          | The Double Bind             |
+
+**And a dense dedup is not a strike, which is the finding to carry.** Seven incumbents touching a candidate is
+evidence that the region matters, not evidence that it is covered, and the temptation is to infer coverage from
+the count rather than to run the test. **The switch-off is still the only instrument and it has to be run against
+each incumbent separately.** Run that way, all seven cleared, and the candidate that survived is one the count
+would have buried: revealing knowledge is not a raised target, so Sandbag's ratchet switched off changes nothing;
+the worker's motive is their own security rather than the firm's exposure, so the Bus Factor switched off changes
+nothing; Shirky has no principal at all, where this is a principal and an agent inside one firm; and saying the
+quiet part aloud, which the Double Bind forbids, is available here and simply ends a career, which is not the
+same injury.
+
+**The pointing's symmetry is rhetorical and the correction makes the case stronger.** Failing at a job and losing
+it is not a mechanism, it is employment, so the second arm is not a second trap. What it is, is **the wall that
+closes the exit**: without it the worker could decline to automate, and with it declining is visible as failure.
+So the structure is one trap plus a closed door rather than two traps, and stating it that way is what lets the
+misfit have a no-fault account, because a symmetry would need somebody to have arranged it.
+
+**And the strike was avoided only by a literature search, which is worth recording as a procedure.** The dedup was
+complete and pointed at a strike. The search found a **named, peer-reviewed mechanism** the dedup had no way to
+surface, because none of the seven incumbents uses its vocabulary: **knowledge hiding under job insecurity**,
+with measured mediators and moderators. A dedup runs against the house and can only ever tell you what the house
+holds; it cannot tell you whether the candidate has a spine. **Those are two different questions and this pass
+answered them in the wrong order**, which cost nothing here and would have cost a misfit.
+
+- [ ] [P1] The Part I Did Not Write Down (knowledge hiding under job insecurity; the transferability that removes
+      you): a worker's position rests on the gap between what a process needs and what the firm can do without
+      them, and the task they are given is to close that gap. **The quantity is perceived job insecurity**, and
+      the response to it is measured: employees who believe their role is threatened withhold expertise, decline
+      to train colleagues in what they regard as their own strengths, and do it as self-protection rather than as
+      a scheme. **Who pays is the worker, the colleagues who are not taught, and the firm.** The inversion is that
+      **the only way to look competent and remain necessary is to hide, and hiding is invisible while
+      not-automating is not**: doing the task well removes the role, doing it badly is legible as failure, and
+      doing it slowly cannot be distinguished by anybody from there not being much left to do, because the only
+      person who knows how much is left is the person whose employment the answer decides. **And the loop closes,
+      which is what makes it a trap rather than a complaint**: hiding raises the firm's exposure to key-person
+      loss, and that exposure is precisely the argument for automating harder, so the defence accelerates the
+      threat it was raised against. **No free hero**: asking for documentation is exactly right and no firm should
+      stop; the worker's response is a measured reaction to a perceived threat rather than a decision to be
+      talked out of; and the settlements in the literature, coaching and servant leadership and psychological
+      safety, are moderators rather than solutions, which is the honest thing about them. **The cuts are the seven
+      above, each run separately**, and the three worth writing out are Sandbag (**switch off the ratchet,
+      stipulate targets that never rise, and this is unchanged**, because the threat is replacement and not a
+      raised target), The Bus Factor (switch off the firm's exposure to concentration and this is unchanged,
+      because the worker acts on their own security; and where that play stages concentration as an accident,
+      this one stages it as **manufactured, rationally, by somebody with no better option**), and The Shirky
+      Principle (**that play has no principal**: one entity both holds the problem and profits from it, where this
+      is an agent inside a firm that genuinely wants the problem gone, which is a different structure and not a
+      smaller scale of the same one). Proposed `axis: job-insecurity`, sign negative; field, organisations,
+      hierarchy and management.
+      **The verification state is thin and is recorded as thin.** Connelly, Zweig, Webster and Trougakos,
+      "Knowledge hiding in organizations" (Journal of Organizational Behavior, 2012), is the foundational paper
+      that separated hiding from hoarding and is **named from memory, not verified**. The job-insecurity papers
+      that supply the spine were seen only as search listings, with mediators named and **no author details
+      captured**, so the whole Origin table is owed a verification pass before authoring rather than a citation
+      check at the end. The survey figures in the trade press are **not usable as warrant** and must not reach an
+      Origin cell. **And `Webster` is already taken in the index**, so the citation form for the 2012 paper is a
+      decision with a cost, exactly as the thirty-ninth pass recorded: written in full it owes a check and
+      possibly a declaration, and the house's ordinary form may not.
