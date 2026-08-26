@@ -7931,7 +7931,7 @@ with measured mediators and moderators. A dedup runs against the house and can o
 holds; it cannot tell you whether the candidate has a spine. **Those are two different questions and this pass
 answered them in the wrong order**, which cost nothing here and would have cost a misfit.
 
-- [ ] [P1] The Part I Did Not Write Down (knowledge hiding under job insecurity; the transferability that removes
+- [x] [P1] The Part I Did Not Write Down (knowledge hiding under job insecurity; the transferability that removes
       you): a worker's position rests on the gap between what a process needs and what the firm can do without
       them, and the task they are given is to close that gap. **The quantity is perceived job insecurity**, and
       the response to it is measured: employees who believe their role is threatened withhold expertise, decline
@@ -7965,3 +7965,36 @@ answered them in the wrong order**, which cost nothing here and would have cost 
       Origin cell. **And `Webster` is already taken in the index**, so the citation form for the 2012 paper is a
       decision with a cost, exactly as the thirty-ninth pass recorded: written in full it owes a check and
       possibly a declaration, and the house's ordinary form may not.
+      **Struck as a misfit and taken as an Origin row on Over a Barrel, and the pass's own dedup is the
+      reason it had to be.** Over a Barrel is the hold-up problem, and its Line of Work already names the
+      labour case in so many words, **a skill useful only to one employer**. Its governing law is that once a
+      relationship-specific investment is sunk the quasi-rent can be appropriated ex-post, **so each party,
+      foreseeing the hold-up, rationally invests less in the specific asset**. This candidate is the worker,
+      foreseeing that disclosure ends their position, rationally disclosing less. The switch-off runs
+      asymmetrically, which is what settles it: remove the incumbent's quantity, stipulating that the worker's
+      ex-post bargaining position cannot be worsened by any act of theirs, and the knowledge-hiding story goes
+      quiet, because under a credible commitment the worker discloses; remove this candidate's engine,
+      stipulating perfect job security, and Over a Barrel runs on every plant and tool and supplier it always
+      did. **The incumbent contains the candidate**, so the contract's third row applies: same mechanism, new
+      domain, an Origin row and no cast.
+      **And the reason the pass missed it is worth more than the row.** The forty-first pass cleared seven
+      incumbents and it built that list **by association from the pointing's own vocabulary**, automation and
+      indispensability and the double bind. Over a Barrel is filed under **hold-up**, an economics term the
+      framing never uses, so it was never a candidate for the list. That pass's finding, that a dense dedup is
+      not a strike, was right and insufficient: **density is not completeness**, and a dedup conducted in the
+      pointer's language will miss the incumbent that speaks another. The fortieth pass had already found the
+      near neighbour of this, that a slogan compresses toward the most famous incumbent, so **this is the same
+      failure at the other end of the instrument**: there the pointing's words chose what was compared, here
+      they chose what it was compared against. The operating instruction is one line: **restate the candidate's
+      mechanism in the vocabulary of the literature that would own it, and dedup that.** Here that restatement
+      is a party's relationship-specific asset and its ex-post expropriation, which finds Over a Barrel in one
+      scan.
+      The row itself was worth the two pull requests it cost. Over a Barrel **asserted** the labour case in its
+      prose and had never cited it: its table ran Klein, Crawford and Alchian, Williamson, Grossman and Hart,
+      and a practitioner row about plants and tooling. Jeong, Kim and Kim (IJERPH, 19, 2022, 16017) measure the
+      retreat in workers, three-wave and time-lagged, which turns an asserted example into a cited one. **And
+      the row records a mirror the incumbent did not have**: in the plant and the tooling the investment
+      **creates** the exposure, and here the disclosure **removes** a protection, so the thing withheld is the
+      revealing rather than the building. The prerequisite ran as the contract's table said it would, `Kim`
+      already declared and therefore declaration-first, and the probe reported **zero cells owed**, which is the
+      cheap direction of that row and is knowable only by probing.
