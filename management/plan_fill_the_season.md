@@ -8205,3 +8205,58 @@ answered them in the wrong order**, which cost nothing here and would have cost 
       revealing rather than the building. The prerequisite ran as the contract's table said it would, `Kim`
       already declared and therefore declaration-first, and the probe reported **zero cells owed**, which is the
       cheap direction of that row and is knowable only by probing.
+
+**The forty-third pass was pointed at communication science, and the probe returned two constraints that decide
+the shape of the candidate before any authoring question is asked.** The pointing was _the receiver decides_,
+which in the German-language tradition is Schulz von Thun's four-sides model: every utterance carries factual
+content, self-revelation, a statement about the relationship and an appeal, and **the receiver chooses which of
+the four ears to hear it with**. The passenger says the light is green; the driver hears a comment on their
+driving; both are correct about what was in the message.
+
+**The region is open.** `Schulz von Thun` 0, `four sides` 0, `four ears` 0, `Kommunikation` 0, `Shannon` 0,
+`decode` 0, `axiom` 0. `Watzlawick`, `relationship level` and `metacommunication` return exactly one misfit each,
+which is The Double Bind, and that is the first constraint.
+
+**The obvious spine is taken, and it is taken as a spine.** `Watzlawick :: Pragmatics of Human Communication`
+(1967) is already cited by The Double Bind and the index marks it **SPINE**, and the whole Palo Alto group goes
+with it: `Bateson`, `Jackson`, `Haley`, `Weakland` and `Beavin` are all held by that one misfit. So a
+receiver-decides play **cannot be built on Watzlawick** without either failing the shared-work wall or being
+argued into `workPolicy.canon`, and the canon exemption is for a field's foundational text shared by a family,
+not a device for reusing a spine. **The pre-authoring scan earned its whole cost here**: this is not a title
+clash or a namesake, it is the single most obvious source for the candidate being load-bearing somewhere else,
+and it would have been found at the pull request instead.
+
+**And the named model is a framework rather than a finding, which is a spine question and not a coverage one.**
+Schulz von Thun (1981) assembled the four sides from Watzlawick's content-and-relationship axiom and from
+**Bühler's Organon model** (1934), and the standing criticism is that it oversimplifies. No empirical validation
+surfaced. The register's own ordering rule from the forty-first pass applies exactly: the dedup answers coverage,
+and **only the literature answers whether there is a mechanism**. The dedup here is promising and the spine is
+unestablished, so the line is slated P2 rather than P1 and the precondition is the spine.
+
+- [ ] [P2] The Ear It Was Heard With (the receiver's selection among the sides of a message): every utterance
+      carries more than one message at once, the receiver acts on one of them, and **the selection is not an
+      error**, because the sender genuinely sent all of them. The trap is that a sender cannot send fewer sides
+      than the medium carries, so they cannot restrict which one applies, and **the remedy recurses**: a
+      clarification is itself an utterance with the same sides, so meta-communication does not escape the
+      structure but iterates it. **Who pays is both parties**, each correct about what was in the message and
+      each acting on a different one of them.
+      **The cuts, run per distinctive feature rather than on the candidate**, which is the instruction the
+      forty-second pass added. Against **The Double Bind**: switch off the prohibition on commenting, which is
+      that play's sealing condition, and this survives, because commenting is fully permitted here and simply
+      recurses. **That cut holds and is the good one.** Against **Anyone Can See It**: switch off naive realism,
+      stipulating that everybody knows their reading is a construal, and it appears to survive, since the receiver
+      must still act on one reading and knowing it is a construal does not say which side was sent. Wants care
+      rather than confidence. Against **The Illusion of Shared Understanding**: switch off the overestimate of
+      transmission and allow unlimited grounding by mutual confirmation, and **the survival is contingent on the
+      four-sidedness claim being true**, because grounding can settle what was meant only if there is one thing
+      meant. **So that cut is not yet made and is not makeable until the spine is.** It is the precondition and it
+      is the whole precondition.
+      **Where the spine probably is, if it is anywhere**: not in the diagram but in the pragmatics underneath it.
+      Bühler's Organon model gives the three functions the fourth was added to. On the receiver's side the
+      candidates are **Austin's illocutionary and perlocutionary distinction**, which says a speaker performs an
+      act and does not perform its effect, and **relevance theory**, which says the hearer selects the reading
+      that yields adequate effect for least effort, by their own calculus rather than the speaker's intent.
+      `Bühler`, `Austin`, `Searle`, `Sperber` and `Grice` all scanned **clear**; `Wilson` is taken and would need
+      its cell read before Sperber and Wilson could be cited together. **Open one of those before slating this
+      P1**, and if none of them carries the four-sidedness claim, drop the line rather than build a play on a
+      teaching diagram.
