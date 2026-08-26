@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.319.0",
+  "version": "0.320.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -192,6 +192,228 @@
           "kind": "process",
           "title": "Weighing the Harvest",
           "taxonomy": "play_a_bigger_harvest_every_year.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "a_dark_age_to_be_reborn_from",
+      "title": "A Dark Age to Be Reborn From",
+      "description": "An era is named by its successor, whose identity needs the contrast, and the naming comes before the evidence.",
+      "members": [
+        {
+          "file": "persona_the_confirmation.md",
+          "kind": "persona",
+          "title": "The Confirmation",
+          "type": "archetype",
+          "taxonomy": "position_corroboration.md"
+        },
+        {
+          "file": "persona_the_name_it_gave.md",
+          "kind": "persona",
+          "title": "The Name It Gave",
+          "type": "archetype",
+          "taxonomy": "position_priority.md"
+        },
+        {
+          "file": "persona_the_reading_list.md",
+          "kind": "persona",
+          "title": "The Reading List",
+          "type": "archetype",
+          "taxonomy": "position_curriculum.md"
+        },
+        {
+          "file": "persona_the_rebirth.md",
+          "kind": "persona",
+          "title": "The Rebirth",
+          "type": "archetype",
+          "taxonomy": "position_succession.md"
+        },
+        {
+          "file": "persona_the_untouched_archive.md",
+          "kind": "persona",
+          "title": "The Untouched Archive",
+          "type": "archetype",
+          "taxonomy": "position_record.md"
+        },
+        {
+          "file": "piece_a_rebirth_needs_a_death.md",
+          "kind": "piece",
+          "title": "A Rebirth Needs a Death",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "piece_before_anybody_looked.md",
+          "kind": "piece",
+          "title": "Before Anybody Looked",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "piece_the_complete_archive.md",
+          "kind": "piece",
+          "title": "The Complete Archive",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "piece_the_fourth_moment.md",
+          "kind": "piece",
+          "title": "The Fourth Moment",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "piece_the_thousand_years.md",
+          "kind": "piece",
+          "title": "The Thousand Years",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "pitch_the_age_that_named_you.md",
+          "kind": "pitch",
+          "title": "The Age That Named You",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "place_the_break.md",
+          "kind": "place",
+          "title": "The Break",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "place_the_long_middle.md",
+          "kind": "place",
+          "title": "The Long Middle",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "place_the_shelf.md",
+          "kind": "place",
+          "title": "The Shelf",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "plan_agree_on_what_was_kept.md",
+          "kind": "plan",
+          "title": "Agree, on What Was Kept",
+          "taxonomy": "position_corroboration.md"
+        },
+        {
+          "file": "plan_arrive_before_the_evidence.md",
+          "kind": "plan",
+          "title": "Arrive Before the Evidence",
+          "taxonomy": "position_priority.md"
+        },
+        {
+          "file": "plan_be_the_thing_that_came_after.md",
+          "kind": "plan",
+          "title": "Be the Thing That Came After",
+          "taxonomy": "position_succession.md"
+        },
+        {
+          "file": "plan_keep_all_of_it.md",
+          "kind": "plan",
+          "title": "Keep All of It",
+          "taxonomy": "position_record.md"
+        },
+        {
+          "file": "plan_send_them_where_the_name_says.md",
+          "kind": "plan",
+          "title": "Send Them Where the Name Says",
+          "taxonomy": "position_curriculum.md"
+        },
+        {
+          "file": "play_a_dark_age_to_be_reborn_from.md",
+          "kind": "play",
+          "title": "A Dark Age to Be Reborn From"
+        },
+        {
+          "file": "plot_it_agrees_with_itself_now.md",
+          "kind": "plot",
+          "title": "It Agrees With Itself Now",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "plot_nothing_was_destroyed.md",
+          "kind": "plot",
+          "title": "Nothing Was Destroyed",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "plot_petrarch_needed_the_dark.md",
+          "kind": "plot",
+          "title": "Petrarch Needed the Dark",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "plot_somebody_has_to_divide_it.md",
+          "kind": "plot",
+          "title": "Somebody Has to Divide It",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "plot_the_name_arrived_first.md",
+          "kind": "plot",
+          "title": "The Name Arrived First",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "position_corroboration.md",
+          "kind": "position",
+          "title": "Corroboration",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "position_curriculum.md",
+          "kind": "position",
+          "title": "Curriculum",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "position_priority.md",
+          "kind": "position",
+          "title": "Priority",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "position_record.md",
+          "kind": "position",
+          "title": "Record",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "position_succession.md",
+          "kind": "position",
+          "title": "Succession",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "process_confirming.md",
+          "kind": "process",
+          "title": "Confirming",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "process_dividing.md",
+          "kind": "process",
+          "title": "Dividing",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "process_naming.md",
+          "kind": "process",
+          "title": "Naming",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "process_revising.md",
+          "kind": "process",
+          "title": "Revising",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
+        },
+        {
+          "file": "process_routing.md",
+          "kind": "process",
+          "title": "Routing",
+          "taxonomy": "play_a_dark_age_to_be_reborn_from.md"
         }
       ]
     },
