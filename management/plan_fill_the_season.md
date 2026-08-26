@@ -7839,7 +7839,7 @@ Versailles, which is the case where blame was assigned wholesale, is the First W
 ground a reparations claim. Opposite directions, one engine: **the account of the past was produced under the
 pressure of a present project**, and in neither case was anything suppressed that had survived.
 
-- [ ] [P1] A Dark Age to Be Reborn From (periodisation as self-definition; the successor names the predecessor):
+- [x] [P1] A Dark Age to Be Reborn From (periodisation as self-definition; the successor names the predecessor):
       an era's name, boundaries and character are assigned by whoever comes next, and whoever comes next has an
       identity that depends on the contrast. **The quantity is how much the successor's self-definition rests on
       being a break**, and the harm scales with it. Mommsen, "Petrarch's Conception of the 'Dark Ages'"
@@ -7875,6 +7875,51 @@ pressure of a present project**, and in neither case was anything suppressed tha
       phrase has a later history of its own**. Getting that distinction wrong would overclaim the spine. Proposed
       `axis: successor-identity-dependence`, sign negative; field, measurement, cognition and inquiry, which is
       already more than a quarter of the house and is nonetheless where this honestly sits.
+      Staged under that title and that axis. **The dedup was run twice and the second run is the point.** The
+      fortieth pass sited the candidate against Trouillot's four moments, which was right and was done in the
+      pointing's own vocabulary. The forty-second pass, applying the correction the Over a Barrel row had just
+      forced, restated the mechanism in the owning literature's terms and swept those instead: `invention of
+tradition` 0, `Hobsbawm` 0, `canon formation` 0, `presentism` 0, `framing effect` 0. **The region was clear
+      in both vocabularies**, which is the first time that has been checked and is the only way the clearance
+      means anything. The second sweep also turned up the two nearest incumbents the first had not named, Held
+      Still to Keep It and The Name Does Not Move, and both cut clean: that one needs a **living** object
+      deformed by being preserved, where this period is finished and cannot be altered by being described; and
+      that one's name is protected by a **priority rule**, where this one is protected by nothing and survives on
+      having arrived first, which is exactly why the profession could abandon the term and change little outside
+      itself.
+      The build moved two things. The first is the cast: the slate had the successor's identity-dependence as
+      one vector, and building it produced **two seats where the slate implied one**, since the party that names
+      and the word that arrives are different elements doing different work, the first carrying an interest and
+      the second carrying **priority**, which is what makes the label never testable. The second is sharper and
+      belongs in the play's Stakes: **every correction is made from the same seat.** Whoever renames the period
+      is also a successor with an account of themselves that needs the renaming to come out a particular way, so
+      the seat is never vacated, only reoccupied, and that is what keeps the misfit from being closed by the fact
+      that the profession did in fact largely abandon the term.
+      **And a cast error was caught before the validator saw it, which is the third time in this run and is now
+      a checkable habit rather than luck.** Two personas were written onto one position and one position was left
+      empty, exactly as in Never at Full Speed. The fix moved the seat map rather than the personas: `Contrast` was
+      the empty seat and was never a seat at all, since the party that needs the contrast **is** the successor,
+      so it was replaced by `Record`, which the archive occupies, and the orphaned plan went with it. **A seat
+      with no persona is usually a seat that duplicates another**, and reading it that way is faster than
+      inventing an occupant.
+      Surnames Mommsen, Trouillot, Goff, DeBevoise, Hobsbawm, Ranger, Petrarch and Braudel all scanned clear.
+      **And a claim this author was about to write into the register was false, which the instrument caught and
+      is the more useful finding.** `Le Goff` was expected to key as `Goff`, on the register's own standing note
+      that a compound surname keys on its last token, and it does not: the built index carries **`Le Goff`**
+      whole, beside `Le Grand` and `Van Alstyne`. The builder holds a **declared set of nobiliary and toponymic
+      particles**, and its own comment says why the set is data rather than a rule: nothing in the shape of `Le`
+      separates the particle of `Le Grand` from any other short word. The same file carries a declared suffix set
+      and a comment recording that the index once held a literal `Jr`, so **the suffix defect this register
+      recorded has been fixed in the tool** and the register had not noticed.
+      So the compound-surname defect is **real and narrower than three passes of this register have said**. It
+      bites a compound with **no declared particle**, which is Graff Zivin, García Maza and Poo Argüelles, and
+      not one with a particle, which is Le Goff. And the boundary cannot be widened by adding to the list,
+      because `Graff` is a particle in no language: **the particle set is the wrong instrument for that half of
+      the defect and no instrument has been proposed for it.** The register's earlier entries should be read with
+      this attached rather than as written.
+      **And the reading gap held at every source**, four for four: Mommsen, Trouillot, Le Goff and Hobsbawm are
+      all behind publisher access, so the warrant cites each for the question it addresses and takes **no
+      quotation, page reference or numerical claim from any of them**, which the Restrictions say in those words.
 
 **The region is otherwise unstaged and the probe is unusually empty**: `historiograph` 0, `periodis` 0,
 `periodiz` 0, `Dark Ages` 0, `Renaissance` 0, `medieval` 0, `Petrarch` 0, `war guilt` 0, `official account` 0,
