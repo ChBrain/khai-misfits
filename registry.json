@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.320.0",
+  "version": "0.321.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -53374,6 +53374,228 @@
           "kind": "process",
           "title": "Preempting",
           "taxonomy": "play_the_only_basket.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_only_harm_left_to_see",
+      "title": "The Only Harm Left to See",
+      "description": "As coverage rises the disease leaves the record and the programme's own reported harms are the only ones left to see.",
+      "members": [
+        {
+          "file": "persona_the_coincidence.md",
+          "kind": "persona",
+          "title": "The Coincidence",
+          "type": "archetype",
+          "taxonomy": "position_attribution.md"
+        },
+        {
+          "file": "persona_the_coverage.md",
+          "kind": "persona",
+          "title": "The Coverage",
+          "type": "archetype",
+          "taxonomy": "position_coverage.md"
+        },
+        {
+          "file": "persona_the_new_parent.md",
+          "kind": "persona",
+          "title": "The New Parent",
+          "type": "archetype",
+          "taxonomy": "position_decision.md"
+        },
+        {
+          "file": "persona_the_reported_event.md",
+          "kind": "persona",
+          "title": "The Reported Event",
+          "type": "archetype",
+          "taxonomy": "position_report.md"
+        },
+        {
+          "file": "persona_the_vanished_disease.md",
+          "kind": "persona",
+          "title": "The Vanished Disease",
+          "type": "archetype",
+          "taxonomy": "position_incidence.md"
+        },
+        {
+          "file": "piece_everything_that_follows_it.md",
+          "kind": "piece",
+          "title": "Everything That Follows It",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "piece_the_counterfactual.md",
+          "kind": "piece",
+          "title": "The Counterfactual",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "piece_the_duty_to_publish.md",
+          "kind": "piece",
+          "title": "The Duty to Publish",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "piece_the_one_generation.md",
+          "kind": "piece",
+          "title": "The One Generation",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "piece_the_ratio.md",
+          "kind": "piece",
+          "title": "The Ratio",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "pitch_nobody_here_has_seen_measles.md",
+          "kind": "pitch",
+          "title": "Nobody Here Has Seen Measles",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "place_the_clinic.md",
+          "kind": "place",
+          "title": "The Clinic",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "place_the_register.md",
+          "kind": "place",
+          "title": "The Register",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "place_the_ward.md",
+          "kind": "place",
+          "title": "The Ward",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "plan_assign_what_follows.md",
+          "kind": "plan",
+          "title": "Assign What Follows",
+          "taxonomy": "position_attribution.md"
+        },
+        {
+          "file": "plan_fall_to_nothing.md",
+          "kind": "plan",
+          "title": "Fall to Nothing",
+          "taxonomy": "position_incidence.md"
+        },
+        {
+          "file": "plan_publish_every_one.md",
+          "kind": "plan",
+          "title": "Publish Every One",
+          "taxonomy": "position_report.md"
+        },
+        {
+          "file": "plan_reach_everybody.md",
+          "kind": "plan",
+          "title": "Reach Everybody",
+          "taxonomy": "position_coverage.md"
+        },
+        {
+          "file": "plan_weigh_what_you_can_see.md",
+          "kind": "plan",
+          "title": "Weigh What You Can See",
+          "taxonomy": "position_decision.md"
+        },
+        {
+          "file": "play_the_only_harm_left_to_see.md",
+          "kind": "play",
+          "title": "The Only Harm Left to See"
+        },
+        {
+          "file": "plot_it_comes_back.md",
+          "kind": "plot",
+          "title": "It Comes Back",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "plot_it_worked.md",
+          "kind": "plot",
+          "title": "It Worked",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "plot_nobody_has_seen_one.md",
+          "kind": "plot",
+          "title": "Nobody Has Seen One",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "plot_the_ones_who_never_saw_it.md",
+          "kind": "plot",
+          "title": "The Ones Who Never Saw It",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "plot_what_is_still_being_counted.md",
+          "kind": "plot",
+          "title": "What Is Still Being Counted",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "position_attribution.md",
+          "kind": "position",
+          "title": "Attribution",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "position_coverage.md",
+          "kind": "position",
+          "title": "Coverage",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "position_decision.md",
+          "kind": "position",
+          "title": "Decision",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "position_incidence.md",
+          "kind": "position",
+          "title": "Incidence",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "position_report.md",
+          "kind": "position",
+          "title": "Report",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "process_attributing.md",
+          "kind": "process",
+          "title": "Attributing",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "process_deciding.md",
+          "kind": "process",
+          "title": "Deciding",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "process_disappearing.md",
+          "kind": "process",
+          "title": "Disappearing",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "process_immunising.md",
+          "kind": "process",
+          "title": "Immunising",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
+        },
+        {
+          "file": "process_reporting.md",
+          "kind": "process",
+          "title": "Reporting",
+          "taxonomy": "play_the_only_harm_left_to_see.md"
         }
       ]
     },
