@@ -7490,7 +7490,7 @@ first attempt produced lower rein tension and fewer conflict behaviours in trot-
       end-of-build re-scan found nothing, which is the first pass in four where it did not: the second source set
       here was **the same set**, because the domain is unstaged enough that the obvious papers were also the
       right ones.
-- [ ] [P2] The Schoolmaster Consumed by Teaching (the lesson horse dulled by the beginners it teaches): the horse
+- [x] [P2] The Schoolmaster Consumed by Teaching (the lesson horse dulled by the beginners it teaches): the horse
       calm enough to carry beginners is the one given to beginners, whose aids are constant, unclear and
       contradictory, so it learns to ignore them, which is both what keeps it safe and what makes it unable to
       teach, since a horse that ignores the aids teaches nothing about the aids. **Who pays is the horse, the
@@ -7500,6 +7500,50 @@ first attempt produced lower rein tension and fewer conflict behaviours in trot-
       stands only if the distinction holds that **here the degradation is the desired property as well as the
       harm**, the dulling being exactly what makes the horse safe. **Drop the line rather than argue it** if that
       cannot be cut clean.
+      **Struck, and not for the reason the line predicted.** The precondition named Alarm Fatigue and that cut
+      **holds comfortably**, which the pass had feared it would not. Alarm Fatigue's governing law is a
+      signal-detection result: a threshold low enough to miss almost no true event will, against a low base rate,
+      raise mostly false alarms, so the sensitivity that catches the danger floods the channel. Switch that off,
+      stipulating a base rate and threshold under which every alarm is a true event, and the schoolmaster is
+      unchanged, **because a beginner's grip was never a signal at all.** There is no threshold, no base rate and
+      no detection problem: the horse is not miscalibrating a decision rule against false positives, it is
+      habituating to continuous pressure that carries no information. Signal detection theory and habituation are
+      different literatures and this is the second.
+      **The annexer is a misfit that did not exist when the line was written.** It Learns When You Stop was the
+      same pass's P1 and was staged four misfits later, and its quantity is `reinforcer-delay`: the gap between
+      the horse's try and the release, with the harm that a try met by continuing pressure is punished and stops
+      being offered. A beginner who grips constantly never releases, so a try is met with pressure and is never
+      marked. **The schoolmaster is that misfit with the delay set to infinity.** Set `reinforcer-delay` to zero,
+      stipulating release timed perfectly, and the horse stays responsive and the harm goes quiet. The drop
+      instruction was written for a cut that turned out fine and the line dies to a different one.
+      **And that is the finding worth carrying, because nothing in this register anticipates it: a slate is a
+      queue whose own output changes what is left in it.** The thirty-seventh pass slated two candidates from one
+      domain, a P1 and a P2, and **staging the P1 closed the P2**. Neither line could have said so, because the
+      annexing misfit was four builds in the future when both were written. So the standing instruction is
+      cheap and was not being followed: **before authoring a surviving slate line, dedup it against the misfits
+      staged since the line was written**, not only against the house the line was written against. The older a
+      line is, the more of the house it has never been checked against, and the most likely annexer is a sibling
+      slated beside it.
+
+- [ ] [P2] Chosen for Not Answering (the training instance selected for the property the training is about):
+      **raised from the wreckage of the line above and recorded untested rather than slated on its remains.** The
+      schoolmaster line died as a **learning** mechanism, and one reading of it survived the switch-off and is a
+      **selection** mechanism instead, which is a different claim and deserves to be tested on its own rather
+      than smuggled in as a rescue. A school teaching aids must put beginners on the animal least likely to
+      answer an aid, because an animal that answers a beginner's aids is dangerous to a beginner. **So the
+      instance chosen to teach responsiveness is chosen for the lowest responsiveness available**, and the
+      selection is correct at every step: the school is right about safety, the instructor is right about which
+      horse, and the beginner is right to be on it. **Who pays is the beginner**, learning a language on the one
+      speaker selected for not hearing it. Note that this survives the It Learns When You Stop switch-off,
+      because under perfect release timing the horse stays responsive and is then **not safe for beginners**, so
+      the school still selects a dull one and the mechanism runs on the selection rather than on the training.
+      **Untested and unwarranted**: no literature was opened, and the probe found `training aid` 0, `safest
+instance` 0, `selection for docility` 0 and `training device` 0, with `habituation` held only by More to
+      Stand Still and The Scaffold Left Up for other mechanisms. **It generalises past horses and that is the
+      thing to check first**, since the same shape is claimed of flight simulators, of practice patients and of
+      any rig whose safety is bought by removing the property being taught. Establish whether it has a spine
+      before slating it, and remember that this register's last pass learned the order: the dedup answers
+      coverage and only the literature answers whether there is a mechanism.
 
 **Four more were raised and are recorded as untested rather than struck, because the pass tested one candidate
 hard rather than five lightly.** The popular sire in warmblood breeding is almost certainly **The One Everybody
