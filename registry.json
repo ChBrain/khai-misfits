@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.321.0",
+  "version": "0.322.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -34614,6 +34614,228 @@
           "kind": "process",
           "title": "Stewardship",
           "taxonomy": "play_seed_corn.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "seen_and_therefore_settled",
+      "title": "Seen, and Therefore Settled",
+      "description": "Credibility findings get the greatest deference on the ground of a channel the evidence says carries the least.",
+      "members": [
+        {
+          "file": "persona_the_demeanour.md",
+          "kind": "persona",
+          "title": "The Demeanour",
+          "type": "archetype",
+          "taxonomy": "position_channel.md"
+        },
+        {
+          "file": "persona_the_judge_who_was_there.md",
+          "kind": "persona",
+          "title": "The Judge Who Was There",
+          "type": "archetype",
+          "taxonomy": "position_presence.md"
+        },
+        {
+          "file": "persona_the_litigant.md",
+          "kind": "persona",
+          "title": "The Litigant",
+          "type": "archetype",
+          "taxonomy": "position_remedy.md"
+        },
+        {
+          "file": "persona_the_reviewing_court.md",
+          "kind": "persona",
+          "title": "The Reviewing Court",
+          "type": "archetype",
+          "taxonomy": "position_deference.md"
+        },
+        {
+          "file": "persona_the_transcript.md",
+          "kind": "persona",
+          "title": "The Transcript",
+          "type": "archetype",
+          "taxonomy": "position_transmission.md"
+        },
+        {
+          "file": "piece_audible_beats_visible.md",
+          "kind": "piece",
+          "title": "Audible Beats Visible",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "piece_even_greater_deference.md",
+          "kind": "piece",
+          "title": "Even Greater Deference",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "piece_fifty_four_per_cent.md",
+          "kind": "piece",
+          "title": "Fifty-Four Per Cent",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "piece_the_thing_that_cannot_be_sent_up.md",
+          "kind": "piece",
+          "title": "The Thing That Cannot Be Sent Up",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "piece_the_trial_that_cannot_be_re_run.md",
+          "kind": "piece",
+          "title": "The Trial That Cannot Be Re-Run",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "pitch_the_judge_saw_the_witness.md",
+          "kind": "pitch",
+          "title": "The Judge Saw the Witness",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "place_the_appeal.md",
+          "kind": "place",
+          "title": "The Appeal",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "place_the_bundle.md",
+          "kind": "place",
+          "title": "The Bundle",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "place_the_courtroom.md",
+          "kind": "place",
+          "title": "The Courtroom",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "plan_be_the_only_one_who_was_there.md",
+          "kind": "plan",
+          "title": "Be the Only One Who Was There",
+          "taxonomy": "position_presence.md"
+        },
+        {
+          "file": "plan_carry_what_can_be_written.md",
+          "kind": "plan",
+          "title": "Carry What Can Be Written",
+          "taxonomy": "position_transmission.md"
+        },
+        {
+          "file": "plan_decline_to_substitute.md",
+          "kind": "plan",
+          "title": "Decline to Substitute",
+          "taxonomy": "position_deference.md"
+        },
+        {
+          "file": "plan_look_like_something.md",
+          "kind": "plan",
+          "title": "Look Like Something",
+          "taxonomy": "position_channel.md"
+        },
+        {
+          "file": "plan_offer_what_there_is.md",
+          "kind": "plan",
+          "title": "Offer What There Is",
+          "taxonomy": "position_remedy.md"
+        },
+        {
+          "file": "play_seen_and_therefore_settled.md",
+          "kind": "play",
+          "title": "Seen, and Therefore Settled"
+        },
+        {
+          "file": "plot_and_you_cannot_run_it_again.md",
+          "kind": "plot",
+          "title": "And You Cannot Run It Again",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "plot_hardest_exactly_here.md",
+          "kind": "plot",
+          "title": "Hardest Exactly Here",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "plot_nothing_to_appeal_on.md",
+          "kind": "plot",
+          "title": "Nothing to Appeal On",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "plot_somebody_had_to_be_in_the_room.md",
+          "kind": "plot",
+          "title": "Somebody Had to Be in the Room",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "plot_the_better_half_goes_up.md",
+          "kind": "plot",
+          "title": "The Better Half Goes Up",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "position_channel.md",
+          "kind": "position",
+          "title": "Channel",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "position_deference.md",
+          "kind": "position",
+          "title": "Deference",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "position_presence.md",
+          "kind": "position",
+          "title": "Presence",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "position_remedy.md",
+          "kind": "position",
+          "title": "Remedy",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "position_transmission.md",
+          "kind": "position",
+          "title": "Transmission",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "process_appealing.md",
+          "kind": "process",
+          "title": "Appealing",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "process_deferring.md",
+          "kind": "process",
+          "title": "Deferring",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "process_reviewing.md",
+          "kind": "process",
+          "title": "Reviewing",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "process_transmitting.md",
+          "kind": "process",
+          "title": "Transmitting",
+          "taxonomy": "play_seen_and_therefore_settled.md"
+        },
+        {
+          "file": "process_watching.md",
+          "kind": "process",
+          "title": "Watching",
+          "taxonomy": "play_seen_and_therefore_settled.md"
         }
       ]
     },

@@ -7238,7 +7238,7 @@ address, and reference rot has no harm at all while the nuclear marker still can
       declaration follows as governance. The build added a vector the slate had not named: **the asymmetry runs
       the wrong way with quality**, since the more durable the citing institution the longer its documents spend
       pointing at nothing, so the effect is heaviest in the records built to last.
-- [ ] [P2] The Standard of Review (appellate deference to findings of fact): the appeal court declines to
+- [x] [P2] The Standard of Review (appellate deference to findings of fact): the appeal court declines to
       re-decide facts because the trial court saw the witnesses, which is correct, so an error of fact is in
       practice unreviewable while an error of law is not, and each level behaves properly throughout.
       **Who pays is the litigant who lost on the facts.** **The cut against Which Question First and Whoever Asks
@@ -7246,6 +7246,40 @@ address, and reference rot has no harm at all while the nuclear marker still can
       division of labour between levels, so the line is that nothing here is aggregated and nobody votes.
       **Drop the line if the deference turns out to be reviewable in practice**, since a trap with an available
       remedy is not a trap.
+      **Staged as Seen, and Therefore Settled, and both preconditions came out unexpectedly.** The named cut,
+      against Which Question First and Whoever Asks Last, is the easiest in the file: stipulate a single decider
+      at each level and no aggregation anywhere, which is already the case, and the mechanism is untouched.
+      Nothing is aggregated and nobody votes. The line had it right and had it as the hard part, which it is not.
+      **The drop condition fired and did not kill the line, it narrowed it, which is the outcome the line did not
+      allow for.** Findings of fact **are** reviewable, on a standard built to catch what is demonstrably
+      mistaken, and appeals on fact do succeed, so the line as written, that an error of fact is in practice
+      unreviewable, is **false as a general claim**. What is true is narrower and better: a credibility finding by
+      a judge who heard the evidence is by construction not demonstrably mistaken, because what left the court was
+      the conclusion and not the material. **So the system is complete, functioning, correctly applied, and
+      contains review without a route**, and the misfit is the narrow claim rather than the broad one. A drop
+      instruction that admits only kill-or-keep will discard a line that should have been cut down instead.
+      **And the research turned up an inversion the line had no idea was there, which is now the spine.** The
+      deference is owed for what did not travel, and the deception-judgment synthesis finds people **more accurate
+      on audible than on visible** deception. The audible channel is exactly what does travel: the questions, the
+      answers, verbatim. **So the appeal court holds the better half of the evidence and defers on account of
+      lacking the worse half**, and the legal scholarship reached that conclusion in 1991, arguing a transcript is
+      probably a better basis for credibility than live testimony. Two further things followed from it: the
+      standard **grades** its deference and grades it highest on credibility, so the protection is firmest where
+      the premise is thinnest and that is written into the rule rather than left to practice; and the play
+      therefore stages a conclusion the law already reached rather than an outsider's complaint, which is what
+      keeps it citable.
+      **The instruction written one pass ago was applied and earned its keep.** This line predates twelve staged
+      misfits and was deduped against the house it was written for. Re-deduped against what has been staged since,
+      Keep Her Course and Speed is the one that had to be tested, since it also stages a party required not to
+      act: it cuts clean, because there the suppression buys a counterpart predictability and here it expresses a
+      claimed epistemic inferiority that runs the other way. Marked the Same by Anyone was the other addition and
+      is the sharper cut, **agreement not being accuracy**: two judges who always concurred would still classify
+      at fifty-four per cent. Surnames Wellborn, Bond and DePaulo scanned clear; `Anderson` is taken three ways
+      and the case was therefore written as a **descriptive Source label** rather than a party name, since a case
+      citation entering the author column would key a litigant as a scholar. Proposed and staged as
+      `axis: credibility-deference`, sign negative.
+      **And the reading gap held again, two sources for two.** Neither could be read in full, so each is cited for
+      the question it addresses and no figure appears that the corroborating reports did not state.
 - [ ] [P2] The Fertility Externality (children as a public good; the private cost of a collective benefit):
       raising the next generation is privately costly and collectively beneficial, so each decision is rational
       and the aggregate under-provides the cohort that everybody's old age depends on. Folbre, "Children as Public
