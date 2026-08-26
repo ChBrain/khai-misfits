@@ -7280,7 +7280,7 @@ address, and reference rot has no harm at all while the nuclear marker still can
       `axis: credibility-deference`, sign negative.
       **And the reading gap held again, two sources for two.** Neither could be read in full, so each is cited for
       the question it addresses and no figure appears that the corroborating reports did not state.
-- [ ] [P2] The Fertility Externality (children as a public good; the private cost of a collective benefit):
+- [x] [P2] The Fertility Externality (children as a public good; the private cost of a collective benefit):
       raising the next generation is privately costly and collectively beneficial, so each decision is rational
       and the aggregate under-provides the cohort that everybody's old age depends on. Folbre, "Children as Public
       Goods" (1994). **Who pays is the working cohort and the old.** **The precondition is the cut against the
@@ -7289,6 +7289,38 @@ address, and reference rot has no harm at all while the nuclear marker still can
       the recursion is absent. **Drop the line rather than argue for it if that cut cannot be made cleanly**,
       because free-riding is the most heavily worked family in the house and a fourth version of it is not a
       misfit.
+      **Struck, and the source settles it without any interpretive move being needed.** Folbre, "Children as
+      Public Goods" (American Economic Review, 84(2), 1994, 86 to 90), argues that the production of children's
+      capabilities creates a public good that cannot be priced, so that **individuals can free ride on the efforts
+      of parents in general and mothers in particular**. Those are the paper's own words. The candidate is not
+      merely annexable by the free-rider family: **its literature names its mechanism as free-riding**, and the
+      house holds nineteen files touching public goods and non-excludability, with And Then Who Makes Them,
+      Borrowed Immunity, The Commons and Everybody's Business staging four versions of it already. The line
+      predicted this exactly and instructed a drop rather than an argument, and the drop is taken.
+      **The distinctive features were tested separately and each was extinguished by a different incumbent**,
+      which is the part worth recording. Take the public-goods engine, non-excludable benefit against private
+      cost, and switch it off by stipulating that parents capture the whole return: the under-provision dissolves.
+      Take the twenty-five-year dead time, that a cohort shortfall is only measurable once the cohort that would
+      have to be larger is already born, and switch off **More Mouths Than Meat**, stipulating no delay between a
+      population signal and the response: it dissolves. Take the non-identity twist, that some beneficiaries of a
+      larger cohort are people whose existence the decision determines, and switch off **Whoever Comes Instead**:
+      it dissolves. The reflexive loop, that a pay-as-you-go transfer socialises the return and so lowers the
+      private incentive to produce the next cohort, dissolves under **Fixes that Fail** and under the public-goods
+      engine both. **Nothing survives, and there is no residue.**
+      **Saying that plainly matters, because the last strike had one.** The Schoolmaster died and left a selection
+      reading that became its own candidate; this one leaves nothing, and a register whose every strike produced a
+      successor would be teaching that a good candidate always hides inside a bad one. It does not. Sometimes the
+      answer is that the house has staged this four times and the fifth is the same thing in a nursery.
+      **And the instruction this pass adds is the complement of the forty-first pass's, which they must be read
+      together to be usable.** That pass found seven incumbents touching a candidate and concluded, correctly,
+      that **a dense dedup is not a strike**: none of the seven held the mechanism, which turned out to be a named
+      thing none of them covered. This pass finds four incumbents and concludes the opposite, and the two are not
+      in tension because **the count was never the evidence in either direction.** Touching is not annexing;
+      extinguishing is. The separating test is the one the contract already names, and what these two passes add
+      is where to point it: **run the switch-off per distinctive feature, not per candidate.** A composite
+      candidate can survive as a whole while every part of it is separately owned, and the contract's phrasing,
+      naming the incumbent's quantity and asking whether anybody is still hurt, is a per-candidate framing that
+      will report a survival the parts do not support.
 
 **The thirty-fifth pass was pointed by the author rather than by an instrument, and that is the finding before any
 candidate is.** The last two passes ran the house's own instruments, the isolate list at the thirty-first and the
