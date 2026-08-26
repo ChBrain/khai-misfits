@@ -7738,7 +7738,7 @@ looked but because **most of it does not survive the citation standard**, and a 
 straight at it: grand cycle theories are what the word cycle attracts. **So the pass has to spend its effort on
 striking rather than on finding**, which is the opposite of a domain pass, and the strikes are the deliverable.
 
-- [ ] [P1] The Only Harm Left to See (the vaccine confidence cycle; a prevention that removes the evidence for
+- [x] [P1] The Only Harm Left to See (the vaccine confidence cycle; a prevention that removes the evidence for
       itself): as coverage rises the disease disappears from the record and from living memory, while the
       intervention's own adverse events, real, small and honestly reported, do not. **So the ratio of observed
       harms inverts, and it inverts because the programme worked.** Chen and Orenstein's stages for the evolution
@@ -7775,6 +7775,58 @@ striking rather than on finding**, which is the opposite of a domain pass, and t
       writing the given name into Sold to Find the Price; **the declaration second**, on governance; **the misfit
       third**. Nothing about that can be folded, because the cell is `misfits/**` and the declaration is
       `khai-guard.config.json`, and the guard will not put two lanes on one branch.
+      Staged under that title and that axis, and **the three-pull-request prerequisite ran exactly as costed**,
+      which is the first time this register has predicted a multi-step cost and had it come out. The cell was
+      repaired on the misfit lane, the declaration followed on governance, the misfit came last, and nothing had
+      to be revisited. The probe earned its place twice: once before the pass, reporting one cell owed, and once
+      after the repair, confirming zero remained. **A cost stated in the register before the work is worth more
+      than a cost discovered during it**, and the thing that made it statable was running the probe rather than
+      reading the scan.
+      The build moved two things. The first is that **the inversion has a second half the slate had not named,
+      and it is the worse one**: at high coverage nearly every child has been vaccinated, so nearly every
+      childhood misfortune **follows a vaccination**, and the events requiring separation accumulate with success
+      rather than with risk. Better surveillance does not relieve it, because better surveillance counts more of
+      both the causally and the coincidentally related. The aggregate question stays answerable and the question
+      anybody actually asks, about one child, does not. That is the vector
+      [Everything That Follows It](../misfits/the_only_harm_left_to_see/piece_everything_that_follows_it.md) was
+      cast for. The second is that **the honesty is load-bearing rather than incidental**: the adverse events are
+      current, countable and described **precisely because** the reporting duty is being discharged, so the play
+      has no villain available and does not want one, and any staging that softened the reporting would lose the
+      mechanism.
+      The cuts ran as the pass predicted and the two that needed care both held. Kept From Burning (**stipulate a
+      hazard held exactly constant and this is unchanged**, since measles is no more dangerous after thirty years
+      of vaccination: that play needs the world to change under the protection and this one needs only the
+      evidence to). As Full As I Remember (**there is no declining quantity at all**, the hazard being constant
+      and the vaccine unchanged, where shifting baselines needs something actually getting worse behind a moving
+      stick). Dry Enough to Build On, The Long Calm and Not Worth My While cleared as written.
+      Surnames Chen, Orenstein, Gangarosa, Larson and de Figueiredo scanned clear or resolved, both `Chen`
+      forms keying to their own people and Robert T Chen carrying two works, which is the expected case and owes
+      nothing.
+      **And this author wrote a second false claim about the same builder, in the same session, after recording
+      the first.** The note first said `de Figueiredo` keys whole on the declared particle. It does not: the
+      index carries **`Figueiredo`**. Reading the function settles it, and the rule is documented in the source
+      with its reasoning. **Two gates decide the join and the source's own casing carries both**, so neither is a
+      per-row judgement: the particle must be **capitalised**, which is how a name declares it part of the
+      surname, and it must **not be the part's first token**, because a capitalised particle in first position is
+      a given name. So `Julian Le Grand` is `Le Grand`, `Marquis de Condorcet` is `Condorcet`, `Arnold van
+Gennep` is `Gennep`, and `Van Jacobson` is `Jacobson`. The comment gives the reason for the casing gate,
+      which is better than the rule: following the source's casing keeps a lowercase-particle scholar collating
+      on **one** key rather than fracturing into two, because the corpus already cites them bare. So
+      `Figueiredo` is correct and deliberate rather than a defect.
+      **The register's compound-surname entry can now be closed in its final form.** The defect is compounds with
+      **no particle at all**, which is Graff Zivin, García Maza and Poo Argüelles; particle compounds are handled
+      in both directions on purpose. And the meta-point is worth more than either fact: **the instrument was
+      available, cheap and ignored twice in favour of recall**, on the exact class of defect this register
+      describes as quiet, arithmetically fine and wrong about who somebody is. The rule for the next author is
+      not about surnames. **Read the builder before writing a sentence about what the builder does.** **And the Source-cell finding was applied rather than merely recorded**: the
+      Gangarosa paper has seven authors, and written out in full its cell would have owed a **sixth** form for
+      `Miller`, already carrying five, and a `Phillips` declaration against the key in the index. Written in the
+      house's ordinary form, the lead author and the one who carries the argument, it owed nothing. **That is the
+      first time a citation form was chosen with its index cost known in advance**, and it saved two pull
+      requests on top of the three the pass had already costed.
+      **And the reading gap held again**, three sources for three, all behind publisher access, so each is cited
+      for the question it addresses and **no figure appears in the production that the corroborating reports did
+      not state.**
 
 **Three grand-cycle candidates were raised and all three are struck, which is what a shape pass is for.** They
 are struck at different strengths and the difference matters.
