@@ -131,7 +131,7 @@ other.
 The rule is computed, not judged: **the same scholar across different works is
 expected and is most of the index; the same (scholar, work) carrying the spine of
 two misfits is a finding.** It runs off `docs/SCIENCE.md`, the generated forward
-map the drift gate already holds to a fresh build, with two configured exits in
+map the drift gate already holds to a fresh build, with three configured exits in
 `workPolicy` (`khai-guard.config.json`):
 
 - **`canon`**: a field's foundational text, which many misfits in one family may
@@ -139,6 +139,11 @@ map the drift gate already holds to a fresh build, with two configured exits in
 - **`contrastMarkers`**: the vocabulary that marks a work cited to hold a line
   rather than to carry one, the convention the house already writes in prose
   (`cited to distinguish`, `Distinction only.`).
+- **`supportingMarkers`**: the vocabulary that marks a work as this misfit's
+  background rather than its spine (`cited as background`, `(background)`). The
+  rule is about a work carrying **two** spines, so one side saying it is not one
+  answers it. Read the compound section below before using it: the kit's wall
+  does not yet honour this exit, and the reason is instructive.
 
 Ask **before** authoring, not at the pull request, since the cheapest place to
 find an overlap is before 31 files exist:
@@ -250,19 +255,58 @@ gloss, an edition, a translation or a prize, and it is what keeps scope prose ou
 of the index. Where the tail is a **second work**, the work never enters the index
 at all, so `--check` answers a true clear to a false question and the shared-work
 wall never adjudicates it. The house has 476 such hidden work-strings, 17 of which
-collide with a work another misfit already holds, and **13 of those carry no canon
-or contrast exemption**, which means they are not violations but **determinations
-that were never put**.
+collide with a work another misfit already holds, and **12 of those carry no
+exemption**, which means they are not violations but **determinations that were
+never put**.
 
 It is deliberately an instrument and not a wall, because whether a hidden work is
 a shared spine, a field's canon or a row cited to hold a line is exactly the
 judgement `workPolicy` exists to make, and it cannot be made on a work nobody can
-see. Making it fail the build would assert those thirteen are faults, which is the
+see. Making it fail the build would assert those twelve are faults, which is the
 opposite of knowing.
 
 ```
 node tests/science_overlap.mjs --compound   # works hidden behind a semicolon that another misfit holds
 ```
+
+**And reading the twelve found something better than a list: the wall is stricter
+than the rule it enforces, and the blind spot was masking the difference.** The
+rule says the same (scholar, work) **carrying the spine** of two misfits is a
+finding. The check cannot read a spine. It flags any shared work outside `canon`
+and `contrastMarkers`, and there was no exemption for **a work that is one
+misfit's spine and another's background** - which is what ten of the twelve are.
+Everybody's Business has Latané and Darley as its spine while Belt and Braces
+cites the same book for the shirking Sagan invokes; The Long Calm rests on
+Minsky's financial instability hypothesis while Debt-Deflation cites it for the
+leverage that sets the stage. Closing the blind spot without that exemption would
+fail the build on ten good warrants, so the hole was not the finding: **the hole
+was hiding a mismatch between the wall and the rule.**
+
+So `workPolicy` has a third exit, `supportingMarkers`, built exactly like
+`contrastMarkers` - a declared phrase in the Scope or Key Work cell, honoured
+from either side, since one side saying the work is its background already
+answers a rule about a work carrying two spines.
+
+| The role a citation plays         | What the cell says                    |
+| --------------------------------- | ------------------------------------- |
+| the field's foundational text     | nothing; it is in `canon`             |
+| cited to hold a line              | `cited to distinguish`, `(contrast)`  |
+| cited as this misfit's background | `cited as background`, `(background)` |
+| carrying this misfit's spine      | nothing; this is the default          |
+
+**Declared and not inferred, for the reason contrast is**: the author knows which
+role a citation plays and no scan of the prose does. The alternative considered
+and rejected was to mark the ten as contrast rows, which is cheapest and least
+honest - those rows are not cited to hold a line, and the marker would come to
+mean two things.
+
+**One limit, stated because it will otherwise be discovered as a bug.** The kit's
+wall reads `canon` and `contrastMarkers` and nothing else, so a `background`
+declaration exempts a hidden work in `--compound` and does **not** exempt a
+first-work collision at `npm test`. That costs nothing today, because the wall
+holds at zero shared works; the vocabulary exists so the warrants can say what
+they are before anything is built that could read them. A first-work collision is
+still the four-row table's business.
 
 **Two practical consequences.** When citing a work, check the cell it would live
 beside: if an existing cell already carries it after a semicolon, `--check` will
@@ -362,7 +406,7 @@ produce academics, so the very thing that makes a name look safe is what
 concentrates it. Scan the surname whatever it looks like: the scan costs one
 command and the collision costs a misfit.
 
-**And the command is `--surname`, which for a long time did not exist — a trap
+**And the command is `--surname`, which for a long time did not exist - a trap
 the last sentence used to set.** `--check` takes a `"Scholar :: Work"` string
 and answers the shared-work wall. Given a bare surname it matches no work and
 reports `clear: no misfit cites this work`, which is true, and is not the
