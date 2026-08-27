@@ -98,9 +98,35 @@ export const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 export { normaliseWork, isContrast, scholarMatches, workMatches, pairsOf };
 
-/** The declared work policy for this house: a thin, root-defaulted wrapper. */
+/**
+ * The declared work policy for this house: the kit's loader, plus the one exit
+ * the kit has no counterpart for.
+ *
+ * loadWorkPolicy normalises the config to a fixed shape, `{ contrastMarkers,
+ * canon, aliases }`, and drops every other key without complaint. That is the
+ * right behaviour for a kit reading many houses' configs and it makes a house
+ * that declares a key the kit does not know fail in the quietest possible way:
+ * the vocabulary is in the config, the check reads an empty list, and the count
+ * of unexempted findings comes back unchanged, which is indistinguishable from
+ * no cell having declared a marker yet. So the third exit is read from the
+ * config directly, lowercased exactly as the kit lowercases contrastMarkers,
+ * and it stays here until the kit has a supportingMarkers of its own.
+ */
 export function loadPolicy(root = ROOT) {
-  return loadWorkPolicy(root);
+  const base = loadWorkPolicy(root);
+  let wp = {};
+  const path = join(root, "khai-guard.config.json");
+  if (fs.existsSync(path)) {
+    try {
+      wp = JSON.parse(fs.readFileSync(path, "utf8"))?.workPolicy ?? {};
+    } catch {
+      wp = {};
+    }
+  }
+  return {
+    ...base,
+    supportingMarkers: (wp.supportingMarkers || []).map((m) => m.toLowerCase()),
+  };
 }
 
 // A row of the rendered index: one scholar, one misfit, one work, one scope.
