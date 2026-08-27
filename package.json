@@ -44,7 +44,7 @@
     "release": "changeset publish"
   },
   "devDependencies": {
-    "@changesets/cli": "^3.0.0",
+    "@changesets/cli": "^3.0.1",
     "@chbrain/khai-arch": "^0.1.25",
     "@chbrain/khai-guard": "^0.1.24",
     "@chbrain/khai-language": "^0.1.23",
@@ -53,6 +53,6 @@
     "@chbrain/khai-tests": "^0.2.8",
     "husky": "^9.1.0",
     "prettier": "^3.9.6",
-    "vitest": "^4.1.10"
+    "vitest": "^4.1.11"
   }
 }
