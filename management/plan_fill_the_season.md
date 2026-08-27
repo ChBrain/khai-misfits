@@ -8366,6 +8366,25 @@ found the blind spot in the first place.
       right way round, since the ten warrants must be able to say what they are before anything is built that
       reads them. The order that would have been wrong is the other one: close the blind spot first and the
       build fails on ten good warrants with no vocabulary to answer in.
+      **The forty-sixth pass declared the vocabulary and then found it was never read, which is the entry, not the
+      fix.** `workPolicy.supportingMarkers` landed, `--compound` was taught to honour it, the suite was green and the
+      count came back **twelve, unchanged**. That was reported as expected, because no cell declared a marker yet, and
+      it was the wrong reading of a true number. The kit's `loadWorkPolicy` normalises the config to a fixed shape,
+      `{ contrastMarkers, canon, aliases }`, and **drops every other key without complaint**, so the house's own
+      instrument was reading an empty list. The declaration existed in the config and nowhere else.
+
+**What makes it worth recording is that it is undetectable from the output.** A vocabulary that is declared but
+unread and a vocabulary that is declared but unused produce **the same number**, and the pass that ships the
+vocabulary is exactly the pass with no cells to tell them apart. There was no wrong number to notice; the
+verification available at the time was passed. It only surfaced one pass later, when ten cells were written and
+the count still would not move.
+
+So the lesson is not to read the loader, which is the specific fix, but the general one that the walls section of
+the contract already states three times over and this is the fourth instance of: **a computed answer can be
+arithmetically fine and about the wrong thing**. The new form is that it now applies to config, not just to
+cells. **The check for a new declared key is not that the build passes. It is that the key is in the loaded
+policy**, and that is one line to assert and was not asserted.
+
 - [ ] [P2] Declare the ten spine-against-background pairs in the misfit lane, one phrase per supporting Scope
       cell, and rebuild the two indexes. The pairs are the twelve `--compound` reports less Ewald and less
       Kahneman and Tversky, which are the determinations below. **Read both sides before writing the phrase**:
