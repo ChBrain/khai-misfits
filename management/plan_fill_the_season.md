@@ -8310,3 +8310,54 @@ hypothesis, and The Streetlight Effect against The Colour of the Bike Shed on Mo
 is spoken for twice over: Keysar as spine and Clark visibly, so a receiver-decides play cannot lean on it any
 more than it can lean on Watzlawick. That leaves the route the forty-third pass already named, Bühler, Austin and
 relevance theory, and it leaves it narrower rather than wider, which is worth knowing before the reading starts.
+
+**The forty-fifth pass read the thirteen, and the reading found something better than a list: the wall is
+stricter than the rule it enforces, and the blind spot has been masking the difference.**
+
+The contract's rule is precise. **The same scholar across different works is expected and is most of the index;
+the same (scholar, work) _carrying the spine_ of two misfits is a finding.** The wall as implemented does not
+read spines. It flags any shared work that carries neither a canon nor a contrast exemption, and there is no
+third exemption for **a work that is one misfit's spine and another's background**.
+
+**That is what almost all thirteen are.** Read from both sides, ten of them are a spine on one side and a
+supporting citation on the other, and the supporting side is doing exactly what a warrant should: Everybody's
+Business has Latané and Darley as its spine while Belt and Braces cites the same book for the shirking Sagan
+invokes; The Long Calm's spine is Minsky's financial instability hypothesis while Debt-Deflation cites it for the
+leverage that sets the stage; The Sort's governing law is Schelling's Micromotives while The Tyranny of Small
+Decisions cites it for the aggregation. Two more are **background on both sides**, Schelling's Arms and Influence
+and Taleb's Black Swan, each a classic cited in passing by two misfits whose spines are elsewhere.
+
+**So fixing the blind spot naively would break the build on about ten rows the contract does not consider
+faults.** That reframes the whole finding. It is not that the wall has a hole; it is that **the hole is currently
+hiding a mismatch between the wall and the rule**, and closing it without also giving the policy a way to say
+_supporting citation_ would fail the house on good warrants. The exemption vocabulary has two entries and needs a
+third, or the wall needs to read the Scope cell for a spine claim, and **which of those is right is the author's
+call and not this pass's.**
+
+**Two of the thirteen are genuine determinations and are named as such.** Ewald's _Evolution of Infectious
+Disease_ carries the transmission-mode mechanism in Sick Enough to Spread and the management reading of the same
+mechanism in Saved to Spread, which is two misfits in one literature leaning on one book for one claim. And
+Kahneman and Tversky's "On the Psychology of Prediction" carries representativeness in The Rare Disease Test and
+the regression case in The Bounce, which is two findings from one paper and may be the cleanest example in the
+house of why the rule keys on the work rather than on the claim. **Neither is asserted to be a fault.** They are
+the two the wall would most want to look at, and they are exactly the two it cannot see.
+
+**And the scan had a bug of its own, found by reading its output against the misfits rather than trusting it.**
+It asked whether the **hiding** row was a contrast row and never asked the holder. The bike-shed pair was
+reported unexempted while the holder is written `Herbert Simon (contrast)` in its own cell, which the wall would
+exempt on sight. Contrast is a property of a row and a collision has two sides, so both must be asked; fixed, and
+the count of unexempted findings falls from thirteen to twelve. **An instrument written to reveal a blind spot
+had one, and one pass of reading its output against the source caught it**, which is the same procedure that
+found the blind spot in the first place.
+
+- [ ] [P2] Decide what the policy should say about a supporting citation: whether `workPolicy` gains a third
+      exemption, whether the wall should read the Scope cell for a spine claim, or whether the ten spine-against-
+      background pairs should each acquire a contrast marker. **This is a decision about the house's standard and
+      not a repair**, which is why the pass records it rather than taking it. Note that the third option is the
+      cheapest and is also the least honest, since those rows are not cited to hold a line and marking them so
+      would make the marker mean two things.
+- [ ] [P2] Put the two genuine determinations, Ewald across Sick Enough to Spread and Saved to Spread, and
+      Kahneman and Tversky across The Rare Disease Test and The Bounce, through the contract's four-row table.
+      **Neither is presumed a fault**: the likely outcomes are an Origin row moved, a canon declaration, or a
+      finding that the two misfits rest on different claims within one work, which the rule does not currently
+      distinguish and perhaps should.
