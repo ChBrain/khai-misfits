@@ -8260,3 +8260,53 @@ unestablished, so the line is slated P2 rather than P1 and the precondition is t
       its cell read before Sperber and Wilson could be cited together. **Open one of those before slating this
       P1**, and if none of them carries the four-sidedness claim, drop the line rather than build a play on a
       teaching diagram.
+
+**The forty-fourth pass set out to settle a spine and found a hole in the wall instead, and the hole is the
+larger finding.** The work owed was the pragmatics literature for The Ear It Was Heard With, and the first step
+was the cheap one: is the grounding tradition already spoken for? `Keysar :: The Illusory Transparency of
+Intention` came back **SPINE** in The Illusion of Shared Understanding, as expected. Then
+`Clark :: Grounding in Communication` came back **clear**, and the same misfit's Origin table plainly cites
+Grounding in Communication. Both answers cannot be right.
+
+**Both answers are right, and the instrument is wrong about the question.** The cell reads
+`_Using Language_ (1996); "Grounding in Communication" (1991)`, and `normaliseWork` takes `.split(";")[0]`, so
+the stem is `using language` and the second work is **not in the index at all**. `Clark :: Using Language`
+reports SPINE; `Clark :: Grounding in Communication` reports clear; the cell holds both. **This was read in the
+kit's source rather than inferred**, which is the standing instruction after two false claims about the same
+builder in one session, and the read also shows the split is **deliberate and right for the common case**: it is
+what keeps a trailing gloss, an edition note or a Nobel out of the work stem.
+
+**Then it was measured, and measuring it twice is the point.** A hand-rolled script over the Origin tables found
+19 collisions. The instrument, built on the kit's own `normaliseWork` and `workMatches` so it cannot drift from
+the wall it reports on, found **more**, and then found that the first count double-counted a work held by one
+misfit in several rows. The settled numbers are **476 hidden work-strings, 17 colliding with a work another
+misfit already holds, and 13 of those carrying no canon or contrast exemption.** The lesson is the register's
+own, arriving again: **a hand-rolled scan against a generated file answers a slightly different question than
+the tool does**, and the difference is not always in the direction of caution.
+
+**The thirteen are not thirteen violations, and saying so is most of the finding.** Whether a hidden work is a
+shared spine, a field's canon or a row cited to hold a line is exactly what `workPolicy` exists to decide, and it
+cannot decide anything about a work nobody can see. So they are **determinations that were never put**, and the
+right response is an instrument rather than a wall: making it fail the build would assert that the thirteen are
+faults, which is the opposite of knowing. `node tests/science_overlap.mjs --compound` now reports them with the
+exemption each side already carries, and the contract carries the command beside the other four.
+
+**The thirteen are owed a reading, and that is a slate item rather than a footnote.** Some will be background
+citations that any warrant would make; some may be a second misfit resting on a work already carrying one. The
+pairs are named in the scan's output and include Saving Face against The Front on Goffman, The Cobra Effect
+against Metric Fixation on Goodhart's Law, The Long Calm against Debt-Deflation on the financial instability
+hypothesis, and The Streetlight Effect against The Colour of the Bike Shed on Models of Man.
+
+- [ ] [P2] Read the thirteen unexempted compound collisions: run `--compound`, open each pair, and record for
+      each whether it is a background citation, a contrast row that should carry a marker, a canon text that
+      should be declared, or a genuine shared spine. **This is bookkeeping with a real chance of a finding at the
+      end of it**, since the shared-work wall has never once been able to see these and the house's headline
+      claim is that it holds at zero shared works. That claim is true of what the wall can see. **Do not repair
+      cells wholesale**: the fix for a genuine overlap is the four-row table in the contract, and the fix for a
+      cell that merely hides a background work is to split it into a second Origin row, which is cheap and makes
+      the work visible to every future scan.
+
+**And the spine question the pass set out to answer is still open, one step further on.** The grounding tradition
+is spoken for twice over: Keysar as spine and Clark visibly, so a receiver-decides play cannot lean on it any
+more than it can lean on Watzlawick. That leaves the route the forty-third pass already named, Bühler, Austin and
+relevance theory, and it leaves it narrower rather than wider, which is worth knowing before the reading starts.

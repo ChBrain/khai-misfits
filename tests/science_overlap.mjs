@@ -58,6 +58,12 @@
 //                                                 this one matches loosely on
 //                                                 purpose, since a false clear is
 //                                                 what costs 31 files
+//   node tests/science_overlap.mjs --compound
+//                                                 which Key Work cells hide a
+//                                                 second work behind a semicolon
+//                                                 that another misfit already
+//                                                 holds: the wall cannot see past
+//                                                 the first work in a cell
 //   node tests/science_overlap.mjs --surname Miller
 //                                                 is this surname anywhere in the
 //                                                 index, bare or resolved? The
@@ -312,6 +318,25 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       );
     process.exit(0);
   }
+  if (args.includes("--compound")) {
+    const found = findCompoundWorks();
+    const open = found.filter((f) => !f.canon && !f.contrast);
+    if (!found.length)
+      console.log("no Key Work cell hides a second work that another misfit holds.");
+    for (const f of found) {
+      const why = f.canon ? " [canon: exempt]" : f.contrast ? " [contrast row: exempt]" : "";
+      console.log(
+        `COMPOUND  ${f.unit}${why}\n     hidden after the semicolon: ${f.hidden}\n     already indexed to: ${f.holders.join(", ")}`,
+      );
+    }
+    if (found.length)
+      console.log(
+        `\n${found.length} hidden work(s) collide with an indexed work of another misfit; ` +
+          `${open.length} carry no exemption and were never put to the wall.`,
+      );
+    process.exit(0);
+  }
+
   if (args.includes("--suffixes")) {
     const bad = findSuffixKeys();
     if (!bad.length) console.log("no index key is a generational suffix.");
@@ -653,6 +678,65 @@ export function findShadowedForms(root = ROOT) {
 // index directly and stays as documented config hygiene; it reports the
 // now-always-clean result under the current build, kept as a flag so the
 // documented command does not break.
+// A Key Work cell may hold more than one work, separated by a semicolon. The
+// index does not: normaliseWork takes `.split(";")[0]`, which is right for the
+// common case, where the tail is a gloss, an edition note or a prize, and wrong
+// for the case where the tail is a second work. There the work never enters the
+// index, so --check reports a true clear to a false question and the shared-work
+// wall never gets to adjudicate it. This is not a wall: whether a hidden work is
+// a shared spine, a canon text or a contrast row is exactly the judgement the
+// policy exists to make, and it cannot be made on a work nobody can see. So the
+// scan surfaces the determinations that were never put, with the exemptions each
+// side already carries, and leaves the deciding where it belongs.
+//
+// It runs on the kit's own normaliseWork and workMatches, so it cannot drift
+// from the wall it is reporting the blind spot of.
+export function findCompoundWorks(root = ROOT) {
+  const policy = loadPolicy(root);
+  const markers = policy.contrastMarkers || [];
+  const canon = new Set((policy.canon || []).map((c) => normaliseWork(c)));
+  const { records } = collectUnits(root);
+
+  const indexed = new Map(); // stem -> [{ unit, record }]
+  for (const r of records) {
+    const stem = normaliseWork(r.keyWork);
+    if (!indexed.has(stem)) indexed.set(stem, []);
+    indexed.get(stem).push(r);
+  }
+
+  // One finding per determination the wall never made, which is (the misfit, the
+  // hidden work, the misfits already holding it). Keying on that rather than on
+  // the record pair matters: an indexed work held by a misfit in three rows is
+  // one question about one work, not three.
+  const found = new Map();
+  for (const r of records) {
+    const parts = String(r.keyWork).split(";");
+    if (parts.length < 2) continue;
+    for (const tail of parts.slice(1)) {
+      const stem = normaliseWork(tail);
+      if (stem.split(" ").filter(Boolean).length < 2) continue;
+      for (const [istem, holders] of indexed) {
+        if (!workMatches(stem, istem)) continue;
+        const others = holders.filter((h) => h.unit !== r.unit);
+        if (!others.length) continue;
+        const key = `${r.unit}::${stem}`;
+        const prior = found.get(key);
+        const units = new Set([...(prior?.holders || []), ...others.map((o) => o.unit)]);
+        found.set(key, {
+          unit: r.unit,
+          hidden: tail.trim(),
+          stem,
+          indexedStem: istem,
+          holders: [...units].sort(),
+          canon: prior?.canon || canon.has(stem) || canon.has(istem),
+          contrast: isContrast(r, markers),
+        });
+      }
+    }
+  }
+  return [...found.values()].sort((a, b) => (a.unit + a.stem).localeCompare(b.unit + b.stem));
+}
+
 export function findSuffixKeys(root = ROOT) {
   const GENERATIONAL = new Set(["jr", "sr", "ii", "iii", "iv", "v", "jnr", "snr"]);
   const bad = [];

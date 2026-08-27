@@ -242,6 +242,35 @@ add it to a policy.
 node tests/science_overlap.mjs --suffixes    # index keys that are generational suffixes
 ```
 
+**And the three walls above are about the scholar half of the key. The work half
+has a blind spot of its own, and it is not a wall.** A Key Work cell may hold more
+than one work, separated by a semicolon, and the index does not: `normaliseWork`
+takes `.split(";")[0]`. That is **right for the common case**, where the tail is a
+gloss, an edition, a translation or a prize, and it is what keeps scope prose out
+of the index. Where the tail is a **second work**, the work never enters the index
+at all, so `--check` answers a true clear to a false question and the shared-work
+wall never adjudicates it. The house has 476 such hidden work-strings, 17 of which
+collide with a work another misfit already holds, and **13 of those carry no canon
+or contrast exemption**, which means they are not violations but **determinations
+that were never put**.
+
+It is deliberately an instrument and not a wall, because whether a hidden work is
+a shared spine, a field's canon or a row cited to hold a line is exactly the
+judgement `workPolicy` exists to make, and it cannot be made on a work nobody can
+see. Making it fail the build would assert those thirteen are faults, which is the
+opposite of knowing.
+
+```
+node tests/science_overlap.mjs --compound   # works hidden behind a semicolon that another misfit holds
+```
+
+**Two practical consequences.** When citing a work, check the cell it would live
+beside: if an existing cell already carries it after a semicolon, `--check` will
+clear you wrongly, and `--compound` is the only command that says so. And when
+writing a Source cell, **put one work before the semicolon and prefer a second row
+to a second work in one cell**, since a work worth citing is worth being visible
+to the wall.
+
 Those three walls are one shape seen three times, and the shape is worth carrying
 forward: **the index key is computed from a cell an author wrote, and nothing
 checks that the computation found a person.** A declared form ordered wrongly, a
