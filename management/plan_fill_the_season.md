@@ -8350,12 +8350,28 @@ the count of unexempted findings falls from thirteen to twelve. **An instrument 
 had one, and one pass of reading its output against the source caught it**, which is the same procedure that
 found the blind spot in the first place.
 
-- [ ] [P2] Decide what the policy should say about a supporting citation: whether `workPolicy` gains a third
-      exemption, whether the wall should read the Scope cell for a spine claim, or whether the ten spine-against-
-      background pairs should each acquire a contrast marker. **This is a decision about the house's standard and
-      not a repair**, which is why the pass records it rather than taking it. Note that the third option is the
-      cheapest and is also the least honest, since those rows are not cited to hold a line and marking them so
-      would make the marker mean two things.
+- [x] [P2] Decide what the policy should say about a supporting citation: **declared, as a third exemption**.
+      `workPolicy.supportingMarkers` is built exactly like `contrastMarkers`, a declared phrase in the Scope or
+      Key Work cell (`cited as background`, `(background)`), honoured from either side because one side saying a
+      work is its background already answers a rule about a work carrying two spines. Inference was rejected
+      because no scan of the prose knows which role a citation plays and the author always does, and the contrast
+      marker was rejected because those rows are not cited to hold a line and the marker would come to mean two
+      things. **The declaration and the cells are two lanes and therefore two passes**, the vocabulary in
+      governance and the phrases in the misfits, in that order: a marker in a cell that no policy declares is
+      just prose.
+      **And a limit found while implementing it, which is the entry worth keeping.** The kit's wall reads
+      `canon` and `contrastMarkers` and nothing else, so a `background` declaration exempts in `--compound` and
+      not at `npm test`. That costs nothing today, because the wall holds at zero shared works and cannot see a
+      hidden work at all, so the vocabulary is currently **ahead of the gate that would use it** - which is the
+      right way round, since the ten warrants must be able to say what they are before anything is built that
+      reads them. The order that would have been wrong is the other one: close the blind spot first and the
+      build fails on ten good warrants with no vocabulary to answer in.
+- [ ] [P2] Declare the ten spine-against-background pairs in the misfit lane, one phrase per supporting Scope
+      cell, and rebuild the two indexes. The pairs are the twelve `--compound` reports less Ewald and less
+      Kahneman and Tversky, which are the determinations below. **Read both sides before writing the phrase**:
+      two of the ten are background on _both_ sides, Schelling's Arms and Influence and Taleb's Black Swan, so
+      either side may carry it and neither is wrong. The pass is cheap and its value is not the count falling to
+      two; it is that a warrant that has silently been background now says so.
 - [ ] [P2] Put the two genuine determinations, Ewald across Sick Enough to Spread and Saved to Spread, and
       Kahneman and Tversky across The Rare Disease Test and The Bounce, through the contract's four-row table.
       **Neither is presumed a fault**: the likely outcomes are an Origin row moved, a canon declaration, or a

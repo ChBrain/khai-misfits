@@ -37,6 +37,12 @@
 //               already does this in prose ("cited to distinguish", "Distinction
 //               only."); `contrastMarkers` turns that convention into a term the
 //               check can read.
+//   supporting-- a work that is one misfit's spine and another's background. The
+//               rule keys on a work *carrying the spine* of two misfits; the wall
+//               cannot read a spine, so `supportingMarkers` is how the other side
+//               says it is not one. Declared, not inferred, for the same reason
+//               contrast is: the author knows which role a citation plays and no
+//               scan of the prose does.
 //
 // Source of truth is the same collector `khai-tests science build` runs to
 // produce docs/SCIENCE.md, the generated forward map (science -> misfit).
@@ -320,11 +326,17 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   }
   if (args.includes("--compound")) {
     const found = findCompoundWorks();
-    const open = found.filter((f) => !f.canon && !f.contrast);
+    const open = found.filter((f) => !f.canon && !f.contrast && !f.supporting);
     if (!found.length)
       console.log("no Key Work cell hides a second work that another misfit holds.");
     for (const f of found) {
-      const why = f.canon ? " [canon: exempt]" : f.contrast ? " [contrast row: exempt]" : "";
+      const why = f.canon
+        ? " [canon: exempt]"
+        : f.contrast
+          ? " [contrast row: exempt]"
+          : f.supporting
+            ? " [background: exempt]"
+            : "";
       console.log(
         `COMPOUND  ${f.unit}${why}\n     hidden after the semicolon: ${f.hidden}\n     already indexed to: ${f.holders.join(", ")}`,
       );
@@ -684,16 +696,25 @@ export function findShadowedForms(root = ROOT) {
 // for the case where the tail is a second work. There the work never enters the
 // index, so --check reports a true clear to a false question and the shared-work
 // wall never gets to adjudicate it. This is not a wall: whether a hidden work is
-// a shared spine, a canon text or a contrast row is exactly the judgement the
-// policy exists to make, and it cannot be made on a work nobody can see. So the
-// scan surfaces the determinations that were never put, with the exemptions each
-// side already carries, and leaves the deciding where it belongs.
+// a shared spine, a canon text, a contrast row or one misfit's background is
+// exactly the judgement the policy exists to make, and it cannot be made on a
+// work nobody can see. So the scan surfaces the determinations that were never
+// put, with the exemptions each side already carries, and leaves the deciding
+// where it belongs.
+//
+// The kit's wall reads `canon` and `contrastMarkers` and nothing else, so a
+// `supportingMarkers` declaration exempts here and not there. That is not an
+// oversight to route around: the wall holds at zero shared works today, so the
+// third exemption changes nothing it can see, and the vocabulary exists so that
+// the ten spine-against-background pairs below can say what they are before
+// anything is built that could read them.
 //
 // It runs on the kit's own normaliseWork and workMatches, so it cannot drift
 // from the wall it is reporting the blind spot of.
 export function findCompoundWorks(root = ROOT) {
   const policy = loadPolicy(root);
   const markers = policy.contrastMarkers || [];
+  const supporting = policy.supportingMarkers || [];
   const canon = new Set((policy.canon || []).map((c) => normaliseWork(c)));
   const { records } = collectUnits(root);
 
@@ -727,6 +748,12 @@ export function findCompoundWorks(root = ROOT) {
         const prior = found.get(key);
         const units = new Set([...(prior?.holders || []), ...others.map((o) => o.unit)]);
         const heldAsContrast = others.every((o) => isContrast(o, markers));
+        // A supporting citation is the third exemption and reads the same way:
+        // the rule is about a work carrying the spine of two misfits, so one side
+        // declaring the work its background is enough to answer it. isContrast is
+        // reused because the mechanic is identical, a declared phrase in the Scope
+        // or Key Work cell; only the vocabulary differs.
+        const heldAsSupport = others.every((o) => isContrast(o, supporting));
         found.set(key, {
           unit: r.unit,
           hidden: tail.trim(),
@@ -735,6 +762,7 @@ export function findCompoundWorks(root = ROOT) {
           holders: [...units].sort(),
           canon: prior?.canon || canon.has(stem) || canon.has(istem),
           contrast: isContrast(r, markers) || heldAsContrast,
+          supporting: isContrast(r, supporting) || heldAsSupport,
         });
       }
     }
