@@ -719,9 +719,14 @@ export function findCompoundWorks(root = ROOT) {
         if (!workMatches(stem, istem)) continue;
         const others = holders.filter((h) => h.unit !== r.unit);
         if (!others.length) continue;
+        // Contrast is a property of a row, and this collision has two sides, so
+        // both must be asked. Reading only the hiding row reports a contrast the
+        // wall would exempt: the bike-shed pair was flagged that way and the
+        // holder there is written `Herbert Simon (contrast)` in its own cell.
         const key = `${r.unit}::${stem}`;
         const prior = found.get(key);
         const units = new Set([...(prior?.holders || []), ...others.map((o) => o.unit)]);
+        const heldAsContrast = others.every((o) => isContrast(o, markers));
         found.set(key, {
           unit: r.unit,
           hidden: tail.trim(),
@@ -729,7 +734,7 @@ export function findCompoundWorks(root = ROOT) {
           indexedStem: istem,
           holders: [...units].sort(),
           canon: prior?.canon || canon.has(stem) || canon.has(istem),
-          contrast: isContrast(r, markers),
+          contrast: isContrast(r, markers) || heldAsContrast,
         });
       }
     }
