@@ -2,7 +2,7 @@
 concept: "The Arms Race (positional goods)"
 field: "Collective action, commons, and coordination"
 source: "Hirsch, _Social Limits to Growth_ (1976); Frank"
-updated: "2026-07-03"
+updated: "2026-08-28"
 ---
 
 # The Arms Race: Reference
@@ -40,7 +40,7 @@ The phenomenon in practice, and the research spine beneath it.
 | --------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Hirsch**            | _Social Limits to Growth_ (1976): positional goods                                                                | **The naming**: goods scarce in relative terms, whose supply cannot grow to meet demand, so competition for them is inescapable. The play's governing law, the Rank.                |
 | **Schelling**         | _The Strategy of Conflict_ (1960); _Arms and Influence_ (1966)                                                    | **The dynamic**: reciprocal escalation under strategic pressure, and why only a binding limit, arms control, can halt it. The Escalation, the Truce.                                |
-| **Frank**             | _Choosing the Right Pond_ (1985); _Luxury Fever_ (1999); _The Darwin Economy_ (2011)                              | **The externality and the remedy**: positional spending as a cost each imposes on the others, the parade watched on tiptoe, and the tax that caps it. The Tiptoe, the Cancellation. |
+| **Robert Frank**      | _Choosing the Right Pond_ (1985); _Luxury Fever_ (1999); _The Darwin Economy_ (2011)                              | **The externality and the remedy**: positional spending as a cost each imposes on the others, the parade watched on tiptoe, and the tax that caps it. The Tiptoe, the Cancellation. |
 | **Dawkins and Krebs** | "Arms Races between and within Species" (_Proc. R. Soc. B_, 1979)                                                 | **The ratchet**: escalation with no winner, each side forced to keep pace by the other, the race sustained with the balance unchanged. The Ratchet.                                 |
 | **Veblen; Harrod**    | Veblen, _The Theory of the Leisure Class_ (1899); Harrod's "oligarchic wealth" (1958)                             | **The root**: status and rank as the thing consumed, older than the term and beneath it. The Rank, the deep want the race runs on.                                                  |
 | **Practitioner**      | the nuclear and naval arms races, credential inflation, advertising and lobbying spend, standing to see the stage | The trap in the field, and its cost: a spend renewed every round to hold a place no one gains, ended only by a limit all can trust.                                                 |
