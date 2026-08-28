@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.323.0",
+  "version": "0.324.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -44486,6 +44486,228 @@
           "kind": "process",
           "title": "Sinking",
           "taxonomy": "play_the_driest_wells.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_ear_it_was_heard_with",
+      "title": "The Ear It Was Heard With",
+      "description": "One sentence carries every side at once, the reader stops at the first that fits, and both of them are right.",
+      "members": [
+        {
+          "file": "persona_the_note.md",
+          "kind": "persona",
+          "title": "The Note",
+          "type": "archetype",
+          "taxonomy": "position_simultaneity.md"
+        },
+        {
+          "file": "persona_the_reader.md",
+          "kind": "persona",
+          "title": "The Reader",
+          "type": "archetype",
+          "taxonomy": "position_selection.md"
+        },
+        {
+          "file": "persona_the_second_note.md",
+          "kind": "persona",
+          "title": "The Second Note",
+          "type": "archetype",
+          "taxonomy": "position_correction.md"
+        },
+        {
+          "file": "persona_the_thread.md",
+          "kind": "persona",
+          "title": "The Thread",
+          "type": "archetype",
+          "taxonomy": "position_channel.md"
+        },
+        {
+          "file": "persona_the_writer.md",
+          "kind": "persona",
+          "title": "The Writer",
+          "type": "archetype",
+          "taxonomy": "position_intent.md"
+        },
+        {
+          "file": "piece_both_are_right.md",
+          "kind": "piece",
+          "title": "Both Are Right",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "piece_four_at_once.md",
+          "kind": "piece",
+          "title": "Four at Once",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "piece_not_the_senders_to_perform.md",
+          "kind": "piece",
+          "title": "Not the Sender's to Perform",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "piece_shorter_is_not_fewer.md",
+          "kind": "piece",
+          "title": "Shorter Is Not Fewer",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "piece_the_first_one_good_enough.md",
+          "kind": "piece",
+          "title": "The First One Good Enough",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "pitch_i_was_only_asking.md",
+          "kind": "pitch",
+          "title": "I Was Only Asking",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "place_the_desk.md",
+          "kind": "place",
+          "title": "The Desk",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "place_the_draft.md",
+          "kind": "place",
+          "title": "The Draft",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "place_the_inbox.md",
+          "kind": "place",
+          "title": "The Inbox",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "plan_carry_every_side.md",
+          "kind": "plan",
+          "title": "Carry Every Side",
+          "taxonomy": "position_simultaneity.md"
+        },
+        {
+          "file": "plan_mean_one_thing.md",
+          "kind": "plan",
+          "title": "Mean One Thing",
+          "taxonomy": "position_intent.md"
+        },
+        {
+          "file": "plan_say_what_i_meant.md",
+          "kind": "plan",
+          "title": "Say What I Meant",
+          "taxonomy": "position_correction.md"
+        },
+        {
+          "file": "plan_stop_at_good_enough.md",
+          "kind": "plan",
+          "title": "Stop at Good Enough",
+          "taxonomy": "position_selection.md"
+        },
+        {
+          "file": "plan_strip_the_cues.md",
+          "kind": "plan",
+          "title": "Strip the Cues",
+          "taxonomy": "position_channel.md"
+        },
+        {
+          "file": "play_the_ear_it_was_heard_with.md",
+          "kind": "play",
+          "title": "The Ear It Was Heard With"
+        },
+        {
+          "file": "plot_and_less_says_more.md",
+          "kind": "plot",
+          "title": "And Less Says More",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "plot_neither_of_you_is_wrong.md",
+          "kind": "plot",
+          "title": "Neither of You Is Wrong",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "plot_saying_it_again.md",
+          "kind": "plot",
+          "title": "Saying It Again",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "plot_sent_whole.md",
+          "kind": "plot",
+          "title": "Sent Whole",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "plot_the_one_that_got_there_first.md",
+          "kind": "plot",
+          "title": "The One That Got There First",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "position_channel.md",
+          "kind": "position",
+          "title": "Channel",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "position_correction.md",
+          "kind": "position",
+          "title": "Correction",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "position_intent.md",
+          "kind": "position",
+          "title": "Intent",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "position_selection.md",
+          "kind": "position",
+          "title": "Selection",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "position_simultaneity.md",
+          "kind": "position",
+          "title": "Simultaneity",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "process_acting.md",
+          "kind": "process",
+          "title": "Acting",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "process_correcting.md",
+          "kind": "process",
+          "title": "Correcting",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "process_selecting.md",
+          "kind": "process",
+          "title": "Selecting",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "process_sending.md",
+          "kind": "process",
+          "title": "Sending",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
+        },
+        {
+          "file": "process_withdrawing.md",
+          "kind": "process",
+          "title": "Withdrawing",
+          "taxonomy": "play_the_ear_it_was_heard_with.md"
         }
       ]
     },
