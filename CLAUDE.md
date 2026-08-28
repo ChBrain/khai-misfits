@@ -230,6 +230,17 @@ order nothing is left bare: every cell resolves, to the wrong person. So it is
 its own wall, and the fix is always a reordering and never a deletion, longest
 form first.
 
+**And the sharpest case is two people with the same given name**, which `Ross`
+now carries: Michael Ross of the planning fallacy and Michael L Ross of the oil
+curse. Written `["Michael L", "Michael", ...]` the build keys them apart, and
+written the other way round the shorter form absorbs the longer and two scholars
+become one, silently. Nothing but this flag can see it. **It also marks the limit
+of what a scan can do without a declaration**: the probe that finds undeclared
+namesakes uses the same token-prefix rule to guess identity and therefore merges
+these two, reporting four Rosses where there are five. In the build the rule is
+right, since a declared form should absorb a longer cell; in a probe it is a
+guess. Same rule, opposite jobs, and the declaration is what settles it.
+
 ```
 node tests/science_overlap.mjs --forms       # declared forms, and any left unreachable
 ```
