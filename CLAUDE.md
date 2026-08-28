@@ -255,15 +255,18 @@ gloss, an edition, a translation or a prize, and it is what keeps scope prose ou
 of the index. Where the tail is a **second work**, the work never enters the index
 at all, so `--check` answers a true clear to a false question and the shared-work
 wall never adjudicates it. The house has 476 such hidden work-strings, 17 of which
-collide with a work another misfit already holds, and **12 of those carry no
-exemption**, which means they are not violations but **determinations that were
-never put**.
+collide with a work another misfit already holds, and when the scan was written
+**12 of those carried no exemption**, which meant they were not violations but
+**determinations that had never been put**.
 
-It is deliberately an instrument and not a wall, because whether a hidden work is
-a shared spine, a field's canon or a row cited to hold a line is exactly the
-judgement `workPolicy` exists to make, and it cannot be made on a work nobody can
-see. Making it fail the build would assert those twelve are faults, which is the
-opposite of knowing.
+All seventeen have now been put. Five carry canon or contrast, ten declare a
+supporting citation, one was read and found not to be a shared spine at all, and
+**one is a shared spine and is not a fault**. That last one is the whole reason
+this stays an instrument: whether a hidden work is a shared spine, a field's
+canon, a row cited to hold a line or one misfit's background is exactly the
+judgement `workPolicy` exists to make, and the seventeenth is a case the policy
+has no way to express and deliberately never will. **The count is one, it will
+stay one, and the one is the argument.**
 
 ```
 node tests/science_overlap.mjs --compound   # works hidden behind a semicolon that another misfit holds
@@ -308,12 +311,52 @@ holds at zero shared works; the vocabulary exists so the warrants can say what
 they are before anything is built that could read them. A first-work collision is
 still the four-row table's business.
 
+**And the house's own loader reads it, because the kit's does not.** `loadWorkPolicy`
+normalises the config to `{ contrastMarkers, canon, aliases }` and drops every
+other key without complaint, which is right for a loader serving many houses and
+makes a house that declares a key the kit does not know fail in the quietest way
+available: the vocabulary is in the config, the check reads an empty list, and the
+unexempted count comes back unchanged, which is **indistinguishable from no cell
+having declared a marker yet**. It shipped that way and passed a green suite,
+because the pass that adds a vocabulary is by definition the pass with no cells to
+tell the two apart. So the third exit is read from the config directly in
+`loadPolicy`. **The check on a newly declared key is not that the build passes; it
+is that the key is in the loaded policy**, which is one line and was not asserted.
+
+**And the fourth exit, which was considered and must not be built.** The
+seventeenth collision is Kahneman and Tversky's "On the Psychology of Prediction",
+which carries representativeness in The Rare Disease Test and the flight-instructor
+misattribution of regression in The Bounce. Both are spines. The switch-off runs
+clean both ways: zero The Bounce's luck variance and the rare-disease arithmetic
+still bites, since its quantity is prevalence against the false-positive rate; set
+the base rate aside and the instructor still misreads regression as an effect of
+praise. Two mechanisms, one paper, and the rule keys on the work.
+
+A declarable `distinctClaims` would clear it, and the reason to refuse it
+generalises: **contrast and background are exits an author takes by conceding the
+work is not their spine, which is what makes them safe to self-declare.** A
+distinct-claims marker asserts the opposite, that two spines on one work are fine,
+which is the determination the wall exists to force a person to make. Made
+declarable, every collision exempts itself. So the wall stays unable to express
+this case, on purpose, and a person answers it each time.
+
 **Two practical consequences.** When citing a work, check the cell it would live
 beside: if an existing cell already carries it after a semicolon, `--check` will
 clear you wrongly, and `--compound` is the only command that says so. And when
 writing a Source cell, **put one work before the semicolon and prefer a second row
 to a second work in one cell**, since a work worth citing is worth being visible
 to the wall.
+
+**That second consequence has exactly two named exceptions, and they are the two
+cells the determinations left standing.** Splitting Sick Enough to Spread's
+_Evolution of Infectious Disease_, or The Rare Disease Test's "On the Psychology of
+Prediction", onto its own Origin row turns each into a **first-work** collision,
+which the kit's wall does read and cannot exempt, since it honours neither
+`supportingMarkers` nor anything covering the two-mechanisms-one-paper case. The
+build would fail on three good warrants. The advice is right everywhere else; here
+the semicolon is load-bearing, and **the rule that made the general advice good, a
+work worth citing is worth being visible to the wall, is the same rule that makes
+these two exceptions, since a wall that cannot answer should not be asked.**
 
 Those three walls are one shape seen three times, and the shape is worth carrying
 forward: **the index key is computed from a cell an author wrote, and nothing
