@@ -7075,27 +7075,29 @@ is owed and is not discharged here.
       was written, and the conflation is what made the inversion sound sharper than it is. **A candidate can be
       physically correct and still be about a different thing than its own sentence says**, and no dedup catches
       that, because the dedup reads the sentence.
-- [ ] [P2] The Middle Is the Worst Setting (the quench vapour blanket; Leidenfrost; Kobasko on intensive
-      quenching; Totten and Tensi on quenchant characterisation): the replacement the strike above turned up, in
-      the same physics and with the operator the struck line lacked. Steel must be cooled through a critical rate
-      to transform, so the shop picks a quench, and both extremes look risky: too slow and the part does not
-      harden, too fierce and everybody believes it will crack. **The cautious middle is the regime where the
-      vapour blanket lives**, and the blanket does not fail gently: it persists unevenly and collapses
-      sporadically, and the local heat-transfer spikes at collapse are what distort and crack the part. Kobasko's
-      result is the inversion stated plainly, that eliminating film boiling by cooling **more** intensely and
-      uniformly removes quench cracking and reduces distortion, so the prudent moderation is the harmful setting
-      and both ends are safer than the middle. **Who pays is whoever needed the part**, and the operator is doing
-      the textbook careful thing.
-      **Two cuts already hold.** Against **Faster Than It Can Cool**: stipulate no reaction at all, an inert
-      billet, and this is unchanged, since nothing generates heat and it is the removal that misbehaves; run it
-      the other way and thermal runaway is untouched by there being no film. Against the struck line above: that
-      one needed an operator and had none, and this one's operator is the whole of it.
-      **The precondition is corroboration, and it is a real risk.** Intensive quenching is a **promoted process**
-      and its main advocate is also the principal author of the literature establishing the claim, so the spine
-      currently rests on one interested source. **Do not author it until the inversion is corroborated from
-      sources independent of the advocate**, since a house misfit resting on a single advocate's commercial
-      claim is a warrant that cannot be defended, and drop the line rather than soften the claim to fit what can
-      be shown.
+- [x] [P2] The Middle Is the Worst Setting: **its precondition passed and it died on a different test, which is
+      the finding.**
+      **The corroboration was discharged.** The claim survives without its advocate and turns up in ordinary
+      heat-treatment practice: quenching into water below about fifty to sixty degrees produces non-uniform
+      quenching, which shows as spotty hardness, distortion and cracking, caused by an unstable vapour blanket;
+      warm water at sixty to ninety cools better in the film-boiling stage. So the inversion is real and is not
+      Kobasko's alone. **Colder water, which is the intuitively fiercer quench, cools worse.**
+      **And it is not a trap, because the remedies work.** Agitation breaks the blanket early and forces the
+      boiling stage, brine and polymer additives suppress film boiling, and a warmed and agitated bath gives fast
+      cooling **and** uniform cooling together. There is no setting at which the shop must choose between
+      hardening the part and not cracking it: the controls deliver both, they are sold, and the profession knows
+      it. **No settlement here costs the thing it was for**, which is the house standard, and a candidate that
+      fails it is not a misfit however true its physics.
+      **This is the third strike of that shape and the first against a line this register slated itself.** Two
+      passes ago it set the rule that where a candidate's harm is one somebody could plausibly be paid to cure,
+      the no-hero test runs before anything else. That rule was applied to two inherited lines and then **not
+      applied to the line the same pass wrote**, which had a spine question written on it instead and so was
+      costed as a reading problem. **A precondition written onto a line becomes the question that gets asked**,
+      and the one that was not written is the one that killed it.
+      **A residue, recorded and not slated.** A cracked part is the same evidence for two opposite corrections:
+      too fast, which calls for a slower quench, and too uneven, which calls for a fiercer and more agitated one.
+      That is a diagnosis trap rather than a structural one, it lands in the field that is already a quarter of
+      the house, and it should be raised only by a pass that has something better than adjacency to say about it.
 - [x] [P2] Sequential Attention to Goals (Cyert & March, _A Behavioral Theory of the Firm_, 1963): an organisation
       with conflicting goals does not trade them off, it attends to them one at a time as each becomes pressing,
       so it oscillates between them and never rests at a compromise either faction would have signed.
@@ -8088,3 +8090,26 @@ oversight of taste.
       is stated in Restrictions: that checkability by a stranger is the whole content of a certification, and so
       quality and portability are one property, is a definition doing load-bearing work. Everything measured
       rests on the rows; that rests on what accreditation is.
+
+**The slate is empty.** Every line carried is struck or staged, and that is a state this register has not been in
+before. It is not a shortage of candidates: it is what happens when preconditions are written well and then
+enforced, since a line that survives its gate becomes one misfit and a line that fails it becomes none. Four of
+the last seven passes were strikes and every one of them died on a written precondition rather than on taste.
+
+**The rule to carry into the next scouting pass, from the line that died today.** The register set a rule two
+passes ago, that where a candidate's harm is one somebody could plausibly be paid to cure, the no-hero test runs
+first. It was applied to two inherited lines, and **not applied to the line the same pass wrote**, which received
+a corroboration precondition instead. That precondition passed. The candidate died on the test that was never
+written onto it.
+
+So the lesson is not about quenching and not about no-hero. It is that **a precondition written onto a line
+becomes the only question anybody asks of it**, so the slating pass decides what the authoring pass will check,
+and a line with one precondition is a line that has been promised to be sound in every other respect. **Write the
+whole gate, or write none and cost the pass as unread.** The cheapest form of that is three lines: who pays, what
+the settlement costs, and who is already selling one.
+
+**And the next pass is a scouting pass with the field counts as its search order, not its answer.** Measurement
+stands at eighty four of three hundred and twenty six, which is a quarter of the house and is where a tired pass
+drifts; the Senge archetypes at five are a closed named set and not an opportunity; and the last scouting pass
+found its candidate by reading every concept rather than by consulting a count, which cost one command and is the
+method to repeat.
