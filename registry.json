@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.326.0",
+  "version": "0.327.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -13188,6 +13188,228 @@
           "kind": "process",
           "title": "Leveling",
           "taxonomy": "play_good_somewhere_bad_somewhere.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "good_years_for_the_moose",
+      "title": "Good Years for the Moose",
+      "description": "Two prey that never meet are coupled through a predator, so one herd disappears because the other did well.",
+      "members": [
+        {
+          "file": "persona_the_browse.md",
+          "kind": "persona",
+          "title": "The Browse",
+          "type": "archetype",
+          "taxonomy": "position_subsidy.md"
+        },
+        {
+          "file": "persona_the_caribou.md",
+          "kind": "persona",
+          "title": "The Caribou",
+          "type": "archetype",
+          "taxonomy": "position_encounter.md"
+        },
+        {
+          "file": "persona_the_harvest_plan.md",
+          "kind": "persona",
+          "title": "The Harvest Plan",
+          "type": "archetype",
+          "taxonomy": "position_disturbance.md"
+        },
+        {
+          "file": "persona_the_pack.md",
+          "kind": "persona",
+          "title": "The Pack",
+          "type": "archetype",
+          "taxonomy": "position_response.md"
+        },
+        {
+          "file": "persona_the_programme.md",
+          "kind": "persona",
+          "title": "The Programme",
+          "type": "archetype",
+          "taxonomy": "position_remedy.md"
+        },
+        {
+          "file": "piece_lichen_takes_a_century.md",
+          "kind": "piece",
+          "title": "Lichen Takes a Century",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "piece_mixed_in_places.md",
+          "kind": "piece",
+          "title": "Mixed in Places",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "piece_more_to_eat_means_more_wolves.md",
+          "kind": "piece",
+          "title": "More to Eat Means More Wolves",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "piece_not_the_ultimate_cause.md",
+          "kind": "piece",
+          "title": "Not the Ultimate Cause",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "piece_which_animal_to_kill.md",
+          "kind": "piece",
+          "title": "Which Animal to Kill",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "pitch_nobody_touched_the_caribou.md",
+          "kind": "pitch",
+          "title": "Nobody Touched the Caribou",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "place_the_cutblock.md",
+          "kind": "place",
+          "title": "The Cutblock",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "place_the_old_forest.md",
+          "kind": "place",
+          "title": "The Old Forest",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "place_the_range_map.md",
+          "kind": "place",
+          "title": "The Range Map",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "plan_grow_where_the_light_is.md",
+          "kind": "plan",
+          "title": "Grow Where the Light Is",
+          "taxonomy": "position_subsidy.md"
+        },
+        {
+          "file": "plan_keep_to_the_old_forest.md",
+          "kind": "plan",
+          "title": "Keep to the Old Forest",
+          "taxonomy": "position_encounter.md"
+        },
+        {
+          "file": "plan_kill_something_every_year.md",
+          "kind": "plan",
+          "title": "Kill Something Every Year",
+          "taxonomy": "position_remedy.md"
+        },
+        {
+          "file": "plan_raise_what_can_be_fed.md",
+          "kind": "plan",
+          "title": "Raise What Can Be Fed",
+          "taxonomy": "position_response.md"
+        },
+        {
+          "file": "plan_take_the_timber.md",
+          "kind": "plan",
+          "title": "Take the Timber",
+          "taxonomy": "position_disturbance.md"
+        },
+        {
+          "file": "play_good_years_for_the_moose.md",
+          "kind": "play",
+          "title": "Good Years for the Moose"
+        },
+        {
+          "file": "plot_and_something_has_to_be_killed.md",
+          "kind": "plot",
+          "title": "And Something Has to Be Killed",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "plot_every_step_was_allowed.md",
+          "kind": "plot",
+          "title": "Every Step Was Allowed",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "plot_seen_and_not_the_cause.md",
+          "kind": "plot",
+          "title": "Seen and Not the Cause",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "plot_the_browse_comes_up.md",
+          "kind": "plot",
+          "title": "The Browse Comes Up",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "plot_the_wolves_did_well.md",
+          "kind": "plot",
+          "title": "The Wolves Did Well",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "position_disturbance.md",
+          "kind": "position",
+          "title": "Disturbance",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "position_encounter.md",
+          "kind": "position",
+          "title": "Encounter",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "position_remedy.md",
+          "kind": "position",
+          "title": "Remedy",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "position_response.md",
+          "kind": "position",
+          "title": "Response",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "position_subsidy.md",
+          "kind": "position",
+          "title": "Subsidy",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "process_culling.md",
+          "kind": "process",
+          "title": "Culling",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "process_cutting.md",
+          "kind": "process",
+          "title": "Cutting",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "process_growing.md",
+          "kind": "process",
+          "title": "Growing",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "process_meeting.md",
+          "kind": "process",
+          "title": "Meeting",
+          "taxonomy": "play_good_years_for_the_moose.md"
+        },
+        {
+          "file": "process_multiplying.md",
+          "kind": "process",
+          "title": "Multiplying",
+          "taxonomy": "play_good_years_for_the_moose.md"
         }
       ]
     },
