@@ -8385,12 +8385,20 @@ arithmetically fine and about the wrong thing**. The new form is that it now app
 cells. **The check for a new declared key is not that the build passes. It is that the key is in the loaded
 policy**, and that is one line to assert and was not asserted.
 
-- [ ] [P2] Declare the ten spine-against-background pairs in the misfit lane, one phrase per supporting Scope
-      cell, and rebuild the two indexes. The pairs are the twelve `--compound` reports less Ewald and less
-      Kahneman and Tversky, which are the determinations below. **Read both sides before writing the phrase**:
-      two of the ten are background on _both_ sides, Schelling's Arms and Influence and Taleb's Black Swan, so
-      either side may carry it and neither is wrong. The pass is cheap and its value is not the count falling to
-      two; it is that a warrant that has silently been background now says so.
+- [x] [P2] Declare the ten spine-against-background pairs in the misfit lane: done, one phrase per supporting
+      Scope cell, and the unexempted count falls from twelve to two, the two being the determinations below.
+      **Reading both sides is what the pass was actually for**, and it changed the count of both-background pairs
+      from the two the forty-fifth pass named to three. Simon's _Models of Man_ is the third: the bike shed's
+      spine is Parkinson and the streetlight's declared source is Kaplan, so neither leans on Simon, even though
+      Simon does real engine work in the streetlight. The rule that settled it, and it is worth keeping because
+      the pass needed it four times: **where both sides are background, declare it on the side that holds the
+      work in the index**, not on the side that hid it behind a semicolon, since the indexed side is where any
+      wall looks. That is Exactly How Far for Schelling, The Brittle Optimum for Taleb and The Colour of the Bike
+      Shed for Simon.
+      **And the phrase was written to name the other side, not merely to claim exemption.** A bare `cited as
+background` satisfies the check and tells the next author nothing; each of the ten says which misfit the
+      work is the spine of, which is the neighbours rule applied to a citation rather than to a play, and it is
+      the difference between a marker and a record.
 - [ ] [P2] Put the two genuine determinations, Ewald across Sick Enough to Spread and Saved to Spread, and
       Kahneman and Tversky across The Rare Disease Test and The Bounce, through the contract's four-row table.
       **Neither is presumed a fault**: the likely outcomes are an Origin row moved, a canon declaration, or a

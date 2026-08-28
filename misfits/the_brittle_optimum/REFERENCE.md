@@ -4,7 +4,7 @@ field: "Safety, risk, and complex systems"
 source: "Perrow, _Normal Accidents_ (1984); Taleb"
 axis: buffer-slack
 sign: positive
-updated: "2026-07-03"
+updated: "2026-08-27"
 ---
 
 # The Brittle Optimum: Reference
@@ -47,14 +47,14 @@ points the same way in both.
 
 The phenomenon in practice, and the research spine beneath it.
 
-| Source           | Key Work / Event                                                                                      | Scope                                                                                                                                                                    |
-| ---------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Perrow**       | _Normal Accidents: Living with High-Risk Technologies_ (1984)                                         | **The coupling**: tight coupling and interactive complexity make accidents normal, and removing slack and buffers tightens the coupling. The Coupling, the Shatter.      |
-| **Taleb**        | _The Black Swan_ (2007); _Antifragile_ (2012)                                                         | **The fragility**: stripping redundancy and volatility hides fragility that a rare shock reveals; the turkey fed until the day it is not. The Slack, the Insurance.      |
-| **Bak**          | _How Nature Works: The Science of Self-Organized Criticality_ (1996); Bak, Tang and Wiesenfeld (1987) | **The critical state**: a system tuned to the edge where a small trigger sets off an avalanche of any size, the sandpile at its angle of repose. The Shock, the Shatter. |
-| **Ohno; lean**   | Taiichi Ohno, the Toyota Production System; the drive to eliminate waste (_muda_), buffers, inventory | **The driver**: the efficiency case for cutting every idle buffer, the reward that makes each trim rational. The Trimming, the Efficiency.                               |
-| **Hollnagel**    | _The ETTO Principle: Efficiency-Thoroughness Trade-Off_ (2009)                                        | **The trade**: systems and people trade thoroughness for efficiency, eroding the very margins that keep them safe. The Margin, the Trim.                                 |
-| **Practitioner** | just-in-time chains snapping under shock; the 2003 grid cascade; leverage before 2008; monocultures   | The trap in the field, and its cost: a lean, admired system that shatters on a shock a looser one would have shrugged off.                                               |
+| Source           | Key Work / Event                                                                                      | Scope                                                                                                                                                                                                                                                                                      |
+| ---------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Perrow**       | _Normal Accidents: Living with High-Risk Technologies_ (1984)                                         | **The coupling**: tight coupling and interactive complexity make accidents normal, and removing slack and buffers tightens the coupling. The Coupling, the Shatter.                                                                                                                        |
+| **Taleb**        | _The Black Swan_ (2007); _Antifragile_ (2012)                                                         | **The fragility**: stripping redundancy and volatility hides fragility that a rare shock reveals; the turkey fed until the day it is not. The Slack, the Insurance. Cited as background: the spine here is Perrow's tight coupling, and The Survivors reads Taleb for the silent evidence. |
+| **Bak**          | _How Nature Works: The Science of Self-Organized Criticality_ (1996); Bak, Tang and Wiesenfeld (1987) | **The critical state**: a system tuned to the edge where a small trigger sets off an avalanche of any size, the sandpile at its angle of repose. The Shock, the Shatter.                                                                                                                   |
+| **Ohno; lean**   | Taiichi Ohno, the Toyota Production System; the drive to eliminate waste (_muda_), buffers, inventory | **The driver**: the efficiency case for cutting every idle buffer, the reward that makes each trim rational. The Trimming, the Efficiency.                                                                                                                                                 |
+| **Hollnagel**    | _The ETTO Principle: Efficiency-Thoroughness Trade-Off_ (2009)                                        | **The trade**: systems and people trade thoroughness for efficiency, eroding the very margins that keep them safe. The Margin, the Trim.                                                                                                                                                   |
+| **Practitioner** | just-in-time chains snapping under shock; the 2003 grid cascade; leverage before 2008; monocultures   | The trap in the field, and its cost: a lean, admired system that shatters on a shock a looser one would have shrugged off.                                                                                                                                                                 |
 
 ## Restrictions
 
