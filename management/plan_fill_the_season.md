@@ -8574,11 +8574,22 @@ left to review**` for exactly this, and those key nothing, because the build onl
       instrument in this family to end up ordering a search rather than answering one**, after the field count
       and the surname scan, and it is starting to look like the general shape of everything that reads this
       index.
-- [ ] [P2] Add the mixed-cell complement as a flag, since it was run by hand this pass and found five namesakes.
-      It is governance, it is an instrument and never a wall, and it must print its own count so nobody reads 84
-      hits as 84 findings.
-- [ ] [P2] Declare `Diamond`, `Woodward`, `Frank`, `Gilbert`, `Muller` and `Rogers` now their cells are named,
-      which is governance and comes next.
+- [x] [P2] Add the mixed-cell complement as a flag: done, as `--mixed-cells`, printing its own total and what the
+      total means.
+- [x] [P2] Declare `Diamond`, `Woodward`, `Frank`, `Gilbert`, `Muller` and `Rogers`: done, and **this time
+      declaring surprised nobody**, because the pass before it had named every bare cell. That is the ordering
+      rule paying for itself: the cells-first pass is what makes the declaration boring, and a boring declaration
+      is the evidence that the pass before it was complete.
+- [ ] [P2] Read the eleven candidates the flag's first run surfaced, which is the misfit lane. **The flag found
+      more on one run than the probe found in two passes**, and that is the expected relation rather than a
+      surprise: the probe reports only what is already proven and the flag reports where proof is missing.
+      Strong: `Welch` (H Gilbert of overdiagnosis against Ivo of the cascades), `Clark` (W A V of segregation
+      against Herbert of grounding), `Kaplan` (Stephen of attention restoration against Abraham, who coined both
+      the law of the instrument and the drunkard's search in one 1964 book and is bare in both misfits that use
+      him), `Williams` (George C of senescence against Kipling of social loafing), `Simmons` (Cameron of the
+      dengue work against Joseph of the researcher degrees of freedom). Worth reading: `Smith`, `Katz`, `Ross`,
+      `Fischer`, `Robertson`, `Snow`. **Each is a cell to read and not a verdict**, and the eleven are the whole
+      of what one read of seventy-eight produced, so the rest of the list is the ordinary case and stays ordinary.
 - [ ] [P2] Declare `Deirdre` under `Wilson` **before** authoring The Ear It Was Heard With. `Wilson` is now a
       declared surname, so the moment a cell cites Sperber and Wilson the occurrence is unresolved and `npm test`
       fails. This is the contract's third ordering row, already declared and meeting a new namesake, and it is

@@ -71,6 +71,12 @@
 //                                                 probe run before a declaration,
 //                                                 since the other namesake flags
 //                                                 all read the index after one
+//   node tests/science_overlap.mjs --mixed-cells
+//                                                 undeclared surnames whose cells
+//                                                 mix a named one with a bare one:
+//                                                 the complement of the probe
+//                                                 above, and a reading list rather
+//                                                 than a finding count
 //   node tests/science_overlap.mjs --compound
 //                                                 which Key Work cells hide a
 //                                                 second work behind a semicolon
@@ -394,6 +400,22 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       console.log(
         `\n${found.length} undeclared surname(s) carry cells naming more than one person. ` +
           `A hit is a cell to read, not a verdict: declare locally and run --namesakes to cost the pass.`,
+      );
+    process.exit(0);
+  }
+  if (args.includes("--mixed-cells")) {
+    const found = findMixedCells();
+    if (!found.length) console.log("no undeclared surname mixes a named cell with a bare one.");
+    for (const f of found)
+      console.log(
+        `MIXED  ${f.surname}: named [${f.named.join(" / ")}]  bare in ${f.bare.join(", ")}`,
+      );
+    if (found.length)
+      console.log(
+        `\n${found.length} undeclared surname(s) mix a named cell with a bare one. ` +
+          `This is a reading list and not a finding count: almost every one is a single scholar ` +
+          `an author named in one cell and not another, which owes nothing. It is where a namesake ` +
+          `the --undeclared-namesakes probe cannot see would be hiding, and a person decides.`,
       );
     process.exit(0);
   }
@@ -903,6 +925,51 @@ export function findUndeclaredNamesakes(root = ROOT) {
   return found.sort(
     (a, b) => b.people.length - a.people.length || a.surname.localeCompare(b.surname),
   );
+}
+
+// The probe above needs **two named cells** to report a surname at all, so every
+// namesake whose counterpart sits in a bare cell is invisible to it. That is not
+// a bug to fix: guessing at bare cells would fill the output with a house's worth
+// of them. It is a blind spot with a computable complement, which is this: an
+// undeclared surname whose cells **mix a named one with a bare one**. Douglas
+// Diamond hid behind `Diamond & Dybvig` exactly there, and reading the complement
+// found five more of the same shape in one pass.
+//
+// It is emphatically a **reading list and not a wall**, and the count is what says
+// so: it returns dozens of surnames, and almost every one is a single scholar an
+// author happened to name in one cell and not another, which owes nothing at all.
+// The probe is the lower bound, this is where to look, and a person decides. So
+// the output prints its own total and says what the total means, because a flag
+// that reports eighty-four hits without that sentence will be read as eighty-four
+// findings.
+export function findMixedCells(root = ROOT) {
+  const declared = new Set(
+    Object.keys(
+      JSON.parse(fs.readFileSync(join(root, "khai-guard.config.json"), "utf8"))?.scholarPolicy
+        ?.homonyms ?? {},
+    ),
+  );
+  const { records } = collectUnits(root);
+  const bySurname = new Map();
+  for (const r of records) {
+    if (declared.has(r.surname)) continue;
+    if (!bySurname.has(r.surname)) bySurname.set(r.surname, []);
+    bySurname.get(r.surname).push({ given: givenFor(r.source, r.surname), unit: r.unit });
+  }
+
+  const found = [];
+  for (const [surname, rows] of bySurname) {
+    const named = rows.filter((r) => r.given);
+    const bare = rows.filter((r) => !r.given);
+    if (!named.length || !bare.length) continue;
+    if (new Set(rows.map((r) => r.unit)).size < 2) continue;
+    found.push({
+      surname,
+      named: [...new Set(named.map((r) => r.given))].sort(),
+      bare: [...new Set(bare.map((r) => r.unit))].sort(),
+    });
+  }
+  return found.sort((a, b) => b.bare.length - a.bare.length || a.surname.localeCompare(b.surname));
 }
 
 export function findSuffixKeys(root = ROOT) {
