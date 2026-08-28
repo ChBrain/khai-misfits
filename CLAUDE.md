@@ -142,8 +142,8 @@ map the drift gate already holds to a fresh build, with three configured exits i
 - **`supportingMarkers`**: the vocabulary that marks a work as this misfit's
   background rather than its spine (`cited as background`, `(background)`). The
   rule is about a work carrying **two** spines, so one side saying it is not one
-  answers it. Read the compound section below before using it: the kit's wall
-  does not yet honour this exit, and the reason is instructive.
+  answers it. Honoured by the kit's wall as well as by `--compound` from
+  khai-tests 0.3.3, so a declared background exempts everywhere.
 
 Ask **before** authoring, not at the pull request, since the cheapest place to
 find an overlap is before 31 files exist:
@@ -300,13 +300,29 @@ and rejected was to mark the ten as contrast rows, which is cheapest and least
 honest - those rows are not cited to hold a line, and the marker would come to
 mean two things.
 
-**One limit, stated because it will otherwise be discovered as a bug.** The kit's
-wall reads `canon` and `contrastMarkers` and nothing else, so a `background`
-declaration exempts a hidden work in `--compound` and does **not** exempt a
-first-work collision at `npm test`. That costs nothing today, because the wall
-holds at zero shared works; the vocabulary exists so the warrants can say what
-they are before anything is built that could read them. A first-work collision is
-still the four-row table's business.
+**The limit this section used to record is gone, and how it went is the part
+worth keeping.** The kit's wall read `canon` and `contrastMarkers` and nothing
+else, so a `background` declaration exempted a hidden work in `--compound` and
+did **not** exempt a first-work collision at `npm test`. It was written down as
+an accepted cost, on the grounds that the wall holds at zero shared works so
+nothing could yet be wrong.
+
+That reasoning was sound about today and wrong about the shape. **Two checks
+reading one policy and disagreeing is worse than either answer**, because the
+divergence only becomes visible on the first real collision - an author declares
+the row background, watches one instrument clear it, and gets a red build with
+no explanation. And beneath it sat a second fault: `loadWorkPolicy` normalised
+the config to `{ contrastMarkers, canon, aliases }` and dropped every other key,
+so the vocabulary was in the config and the check read an empty list. The
+exemption could not fire at all, and `--compound` reporting an unchanged count
+looked exactly like no cell having declared a marker yet.
+
+Both are fixed upstream in khai-tests 0.3.3: `roleOf` reads `supportingMarkers`
+symmetrically with `contrastMarkers`, `loadWorkPolicy` returns it, and the wall
+honours it. This house's local re-read of the config is retired with it. **The
+general lesson is the one this file already teaches about the walls: a
+vocabulary declared where nothing reads it is indistinguishable from a
+vocabulary nobody has used.**
 
 **Two practical consequences.** When citing a work, check the cell it would live
 beside: if an existing cell already carries it after a semicolon, `--check` will
