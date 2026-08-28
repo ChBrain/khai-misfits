@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.325.0",
+  "version": "0.326.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -12299,6 +12299,228 @@
           "kind": "process",
           "title": "Triggering",
           "taxonomy": "play_good_enough_to_hold.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "good_enough_to_leave",
+      "title": "Good Enough to Leave",
+      "description": "A standard has to be checkable by others to be a standard, and being checkable by others is the export licence.",
+      "members": [
+        {
+          "file": "persona_the_certificate.md",
+          "kind": "persona",
+          "title": "The Certificate",
+          "type": "archetype",
+          "taxonomy": "position_legibility.md"
+        },
+        {
+          "file": "persona_the_curriculum.md",
+          "kind": "persona",
+          "title": "The Curriculum",
+          "type": "archetype",
+          "taxonomy": "position_standard.md"
+        },
+        {
+          "file": "persona_the_queue_at_the_gate.md",
+          "kind": "persona",
+          "title": "The Queue at the Gate",
+          "type": "archetype",
+          "taxonomy": "position_prospect.md"
+        },
+        {
+          "file": "persona_the_registrar.md",
+          "kind": "persona",
+          "title": "The Registrar",
+          "type": "archetype",
+          "taxonomy": "position_gate.md"
+        },
+        {
+          "file": "persona_the_rota.md",
+          "kind": "persona",
+          "title": "The Rota",
+          "type": "archetype",
+          "taxonomy": "position_coverage.md"
+        },
+        {
+          "file": "piece_a_standard_is_checkable.md",
+          "kind": "piece",
+          "title": "A Standard Is Checkable",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "piece_more_losers_than_winners.md",
+          "kind": "piece",
+          "title": "More Losers Than Winners",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "piece_neither_setting_returns_them.md",
+          "kind": "piece",
+          "title": "Neither Setting Returns Them",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "piece_the_code_nobody_enforced.md",
+          "kind": "piece",
+          "title": "The Code Nobody Enforced",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "piece_the_export_licence.md",
+          "kind": "piece",
+          "title": "The Export Licence",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "pitch_we_train_to_the_standard.md",
+          "kind": "pitch",
+          "title": "We Train to the Standard",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "place_the_examination_hall.md",
+          "kind": "place",
+          "title": "The Examination Hall",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "place_the_medical_school.md",
+          "kind": "place",
+          "title": "The Medical School",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "place_the_ward.md",
+          "kind": "place",
+          "title": "The Ward",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "plan_admit_on_our_terms.md",
+          "kind": "plan",
+          "title": "Admit on Our Terms",
+          "taxonomy": "position_gate.md"
+        },
+        {
+          "file": "plan_apply_because_it_might_be_me.md",
+          "kind": "plan",
+          "title": "Apply Because It Might Be Me",
+          "taxonomy": "position_prospect.md"
+        },
+        {
+          "file": "plan_be_readable_anywhere.md",
+          "kind": "plan",
+          "title": "Be Readable Anywhere",
+          "taxonomy": "position_legibility.md"
+        },
+        {
+          "file": "plan_cover_the_nights.md",
+          "kind": "plan",
+          "title": "Cover the Nights",
+          "taxonomy": "position_coverage.md"
+        },
+        {
+          "file": "plan_teach_what_is_owed.md",
+          "kind": "plan",
+          "title": "Teach What Is Owed",
+          "taxonomy": "position_standard.md"
+        },
+        {
+          "file": "play_good_enough_to_leave.md",
+          "kind": "play",
+          "title": "Good Enough to Leave"
+        },
+        {
+          "file": "plot_and_the_code_was_voluntary.md",
+          "kind": "plot",
+          "title": "And the Code Was Voluntary",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "plot_more_come_because_more_leave.md",
+          "kind": "plot",
+          "title": "More Come Because More Leave",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "plot_readable_anywhere.md",
+          "kind": "plot",
+          "title": "Readable Anywhere",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "plot_waste_or_drain.md",
+          "kind": "plot",
+          "title": "Waste or Drain",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "plot_what_the_patients_here_are_owed.md",
+          "kind": "plot",
+          "title": "What the Patients Here Are Owed",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "position_coverage.md",
+          "kind": "position",
+          "title": "Coverage",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "position_gate.md",
+          "kind": "position",
+          "title": "Gate",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "position_legibility.md",
+          "kind": "position",
+          "title": "Legibility",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "position_prospect.md",
+          "kind": "position",
+          "title": "Prospect",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "position_standard.md",
+          "kind": "position",
+          "title": "Standard",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "process_admitting.md",
+          "kind": "process",
+          "title": "Admitting",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "process_applying.md",
+          "kind": "process",
+          "title": "Applying",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "process_certifying.md",
+          "kind": "process",
+          "title": "Certifying",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "process_leaving.md",
+          "kind": "process",
+          "title": "Leaving",
+          "taxonomy": "play_good_enough_to_leave.md"
+        },
+        {
+          "file": "process_teaching.md",
+          "kind": "process",
+          "title": "Teaching",
+          "taxonomy": "play_good_enough_to_leave.md"
         }
       ]
     },
