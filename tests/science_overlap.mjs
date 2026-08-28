@@ -84,6 +84,7 @@ import {
   loadWorkPolicy,
   normaliseWork,
   isContrast,
+  roleOf,
   collectUnits,
   findOverlaps as kitFindOverlaps,
   pairsOf,
@@ -99,34 +100,22 @@ export const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 export { normaliseWork, isContrast, scholarMatches, workMatches, pairsOf };
 
 /**
- * The declared work policy for this house: the kit's loader, plus the one exit
- * the kit has no counterpart for.
+ * The declared work policy for this house: the kit's loader, and only that.
  *
- * loadWorkPolicy normalises the config to a fixed shape, `{ contrastMarkers,
- * canon, aliases }`, and drops every other key without complaint. That is the
- * right behaviour for a kit reading many houses' configs and it makes a house
- * that declares a key the kit does not know fail in the quietest possible way:
- * the vocabulary is in the config, the check reads an empty list, and the count
- * of unexempted findings comes back unchanged, which is indistinguishable from
- * no cell having declared a marker yet. So the third exit is read from the
- * config directly, lowercased exactly as the kit lowercases contrastMarkers,
- * and it stays here until the kit has a supportingMarkers of its own.
+ * This used to re-read `supportingMarkers` from the config itself, because
+ * `loadWorkPolicy` normalised to `{ contrastMarkers, canon, aliases }` and
+ * dropped every other key without complaint -- so the vocabulary sat in the
+ * config, the check read an empty list, and the count came back unchanged,
+ * indistinguishable from no cell having declared a marker yet.
+ *
+ * The kit supplies it as of khai-tests 0.3.3, and supplies it to the SHARED-WORK
+ * WALL as well, which the local re-read never could. That is the whole reason
+ * the override goes rather than merely becoming redundant: while it stood, a
+ * declared background exempted this instrument and not `npm test`, and a
+ * divergence between two checks reading one policy is worse than either answer.
  */
 export function loadPolicy(root = ROOT) {
-  const base = loadWorkPolicy(root);
-  let wp = {};
-  const path = join(root, "khai-guard.config.json");
-  if (fs.existsSync(path)) {
-    try {
-      wp = JSON.parse(fs.readFileSync(path, "utf8"))?.workPolicy ?? {};
-    } catch {
-      wp = {};
-    }
-  }
-  return {
-    ...base,
-    supportingMarkers: (wp.supportingMarkers || []).map((m) => m.toLowerCase()),
-  };
+  return loadWorkPolicy(root);
 }
 
 // A row of the rendered index: one scholar, one misfit, one work, one scope.
@@ -740,7 +729,7 @@ export function findShadowedForms(root = ROOT) {
 export function findCompoundWorks(root = ROOT) {
   const policy = loadPolicy(root);
   const markers = policy.contrastMarkers || [];
-  const supporting = policy.supportingMarkers || [];
+
   const canon = new Set((policy.canon || []).map((c) => normaliseWork(c)));
   const { records } = collectUnits(root);
 
@@ -774,12 +763,10 @@ export function findCompoundWorks(root = ROOT) {
         const prior = found.get(key);
         const units = new Set([...(prior?.holders || []), ...others.map((o) => o.unit)]);
         const heldAsContrast = others.every((o) => isContrast(o, markers));
-        // A supporting citation is the third exemption and reads the same way:
-        // the rule is about a work carrying the spine of two misfits, so one side
-        // declaring the work its background is enough to answer it. isContrast is
-        // reused because the mechanic is identical, a declared phrase in the Scope
-        // or Key Work cell; only the vocabulary differs.
-        const heldAsSupport = others.every((o) => isContrast(o, supporting));
+        // A supporting citation is the third exemption, and it is now the kit's
+        // `roleOf` that decides it rather than a second implementation here: one
+        // reading of a role, used by this instrument and by the wall alike.
+        const heldAsSupport = others.every((o) => roleOf(o, policy) === "support");
         found.set(key, {
           unit: r.unit,
           hidden: tail.trim(),
@@ -788,7 +775,7 @@ export function findCompoundWorks(root = ROOT) {
           holders: [...units].sort(),
           canon: prior?.canon || canon.has(stem) || canon.has(istem),
           contrast: isContrast(r, markers) || heldAsContrast,
-          supporting: isContrast(r, supporting) || heldAsSupport,
+          supporting: roleOf(r, policy) === "support" || heldAsSupport,
         });
       }
     }
