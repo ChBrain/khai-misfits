@@ -18,6 +18,7 @@ import {
   findShadowedForms,
   findSuffixKeys,
   givenFor,
+  axesOf,
 } from "./science_overlap.mjs";
 
 // The cross-misfit warrant gate for the Misfits house. Every other gate is
@@ -144,6 +145,30 @@ describe("Misfits house: cross-misfit warrant gate", () => {
     // reads as covered and checks nothing. There is no legacy set of these to
     // grandfather, so this fails outright rather than ratcheting.
     expect(findMalformedAxes()).toEqual([]);
+  });
+
+  // The contract documents the axis declaration with a trailing YAML comment on
+  // the sign line. Anchoring the parse on end-of-line without allowing one made
+  // that example unparseable, so an author copying the documentation verbatim
+  // got `axis without sign` and a red build from doing exactly what it said.
+  // What is asserted here is the documented form itself, because the defect was
+  // invisible from any count: every misfit that had declared an axis happened to
+  // have written it without a comment.
+  it("the axis declaration parses in the form the contract documents", () => {
+    const withComment = [
+      "---",
+      'concept: "x"',
+      "axis: population-density",
+      "sign: negative # how the outcome moves as that quantity rises",
+      "---",
+    ].join("\n");
+    const head = withComment.split("---")[1];
+    expect((head.match(/^axis:\s*(\S+)\s*(?:#.*)?$/m) || [])[1]).toBe("population-density");
+    expect((head.match(/^sign:\s*(\S+)\s*(?:#.*)?$/m) || [])[1]).toBe("negative");
+    // And the house's own declarations still read, so the loosening did not
+    // change what it accepts for the form everybody actually wrote.
+    const declared = [...axesOf(ROOT).values()].filter((v) => v.axis && v.sign);
+    expect(declared.length).toBeGreaterThan(90);
   });
 
   it("coverage does not slip: no new misfit ships without an axis", () => {

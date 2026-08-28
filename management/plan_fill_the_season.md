@@ -8145,3 +8145,43 @@ so inside the production is cheaper than defending a universal.
       now stages one instance of it; a second would need a different carrier and a different bind, not another
       landscape. **Do not slate a second apparent-competition play on the strength of a new domain**, which is the
       table's third row in the contract and the error this pass would most easily make next.
+
+**The fifty-sixth pass went to widen the opposition check and found that the contract's own example of an axis
+declaration does not parse.** The instruction is written out in full in the coding contract:
+
+```
+axis: population-density
+sign: negative # how the outcome moves as that quantity rises
+```
+
+The parser anchored on end-of-line, `/^sign:\s*(\S+)\s*$/m`, so the trailing comment made the line miss and the
+misfit came back as **`axis without sign`**, which is a malformed declaration and fails the build outright. **An
+author copying the documentation verbatim got a red build for doing exactly what it said.**
+
+**It has been wrong since the mechanism was written and no count could have shown it.** A hundred misfits declare
+an axis and every one of them wrote it without a comment, so the coverage number, the malformed-declaration list
+and the opposed-pair count were all correct and all silent. The defect is only visible to somebody who writes the
+documented form, which is what this pass did by accident on its way to something else.
+
+**The parser was the thing to fix rather than the documentation**, because a trailing comment is legal YAML and
+because the contract's example is what an author would naturally write: the change is a two-character optional
+group, and the test asserts **the documented form itself** rather than a count, since a count is exactly what
+could not see this.
+
+**And the same reading turned up two shapes the axis mechanism cannot express, which are recorded and not yet
+acted on.** The declaration is `axis` plus a `sign`, and a sign presumes the outcome moves monotonically as the
+quantity rises. Two misfits in the house do not.
+
+- **Exactly How Far** describes itself as **a one-dial-two-bad-ends structure**: precision reassures the ally and
+  entraps the guarantor, vagueness does the reverse, and the harm sits at both ends. No monotone sign exists for
+  it, and it is grandfathered with no axis, so it has never had to answer the question. **A new misfit of that
+  shape would have to declare a sign it does not have**, since the ratchet requires one.
+- **Ready on the First Day** stages one property with two signs twenty five years apart, and declares `negative`.
+  That is defensible and it is a **choice of horizon made silently**: the same axis is positive at the start of a
+  career and negative later, and nothing in the declaration says which was meant.
+
+**No mechanism is proposed for either, on purpose.** One grandfathered case and one silently resolved case is not
+evidence that a fourth exit is owed, and this house has twice refused to build a gate ahead of the cases that
+would use it. What is cheap and honest now is a convention: **where a sign depends on a horizon or on which end
+of the dial is meant, the axis name carries it**, so the declaration is readable without the warrant. Raise the
+mechanism only when a misfit arrives that the convention cannot serve.

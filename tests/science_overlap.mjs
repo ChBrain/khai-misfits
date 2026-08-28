@@ -487,8 +487,13 @@ export function axesOf(root = ROOT) {
     const p = join(root, "misfits", d, "REFERENCE.md");
     if (!fs.existsSync(p)) continue;
     const head = fs.readFileSync(p, "utf8").split("---")[1] || "";
-    const axis = (head.match(/^axis:\s*(\S+)\s*$/m) || [])[1];
-    const sign = (head.match(/^sign:\s*(\S+)\s*$/m) || [])[1];
+    // A trailing YAML comment is legal and is what the contract's own example
+    // writes: `sign: negative # how the outcome moves as that quantity rises`.
+    // Anchoring on end-of-line without allowing one made that example fail to
+    // parse as `axis without sign`, so an author copying the documentation got a
+    // red build from doing exactly what it said.
+    const axis = (head.match(/^axis:\s*(\S+)\s*(?:#.*)?$/m) || [])[1];
+    const sign = (head.match(/^sign:\s*(\S+)\s*(?:#.*)?$/m) || [])[1];
     if (axis || sign) out.set(d, { axis, sign });
   }
   return out;
