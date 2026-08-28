@@ -8399,8 +8399,36 @@ policy**, and that is one line to assert and was not asserted.
 background` satisfies the check and tells the next author nothing; each of the ten says which misfit the
       work is the spine of, which is the neighbours rule applied to a citation rather than to a play, and it is
       the difference between a marker and a record.
-- [ ] [P2] Put the two genuine determinations, Ewald across Sick Enough to Spread and Saved to Spread, and
-      Kahneman and Tversky across The Rare Disease Test and The Bounce, through the contract's four-row table.
-      **Neither is presumed a fault**: the likely outcomes are an Origin row moved, a canon declaration, or a
-      finding that the two misfits rest on different claims within one work, which the rule does not currently
-      distinguish and perhaps should.
+      **The forty-seventh pass put the two determinations, and they resolve in opposite ways, which is the value of
+      having put them.**
+
+**Ewald is not a shared spine and the cell says so now.** _Evolution of Infectious Disease_ is Saved to Spread's
+background: that play's spine is Read and colleagues' Marek's-disease demonstration and Gandon and colleagues'
+theory, and Ewald supplies the evolutionary reading of virulence the finding sits inside, which its own credit
+paragraph already said in prose. Sick Enough to Spread takes Ewald for a specific lever, the transmission mode
+that moves the optimum, and takes it through the 1983 Annual Review paper, which is the work its cell indexes.
+So the book was never carrying two spines. Declared on Saved to Spread, which is also the indexed side, and the
+unexempted count falls to one.
+
+**Kahneman and Tversky is a shared spine, is not a fault, and cannot be recorded as anything.** "On the
+Psychology of Prediction" carries representativeness and the crowded-out base rate in The Rare Disease Test, and
+the flight-instructor misattribution of regression in The Bounce. Both are spines. Neither is contrast and
+neither is background. The switch-off runs clean in both directions: set The Bounce's luck variance to zero and
+the rare-disease arithmetic still bites, since its quantity is prevalence against the false-positive rate and
+not test-retest noise; set the rare disease test's base rate aside and the instructor still misreads regression
+as a result of praise. **Two mechanisms, one paper.** The rule keys on the work, and here the work is not the
+unit of the claim.
+
+**And the right move is to leave it, which took deciding.** A fourth exit, a declarable `distinct claims`, was
+considered and rejected, and the reason generalises: contrast and background are exits an author takes by saying
+**this is not my spine**, which is a concession and is why they are safe to self-declare. A distinct-claims
+marker would say **it is my spine, and so is theirs, and that is fine**, which is the determination the wall
+exists to force a person to make. Make it declarable and every collision exempts itself. So the wall stays
+unable to express this case, deliberately, and a person answers it each time.
+
+**One live trap, recorded because it is invisible and cheap to walk into.** Both determinations are currently
+hidden behind a semicolon, and the contract's own advice is to prefer a second Origin row to a second work in
+one cell. **Do not take that advice on these two cells.** Splitting Sick Enough to Spread's 1994 book, or The
+Rare Disease Test's 1973 paper, onto its own row makes each a first-work collision, which the kit's wall reads,
+and the kit's wall honours neither `supportingMarkers` nor anything that could cover the Kahneman and Tversky
+case. The build would fail on three good warrants. The general advice is right and has two named exceptions.
