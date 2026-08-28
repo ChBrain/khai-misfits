@@ -510,7 +510,13 @@ node tests/science_overlap.mjs --undeclared-namesakes   # surnames the house has
 
 It reads only what an author already wrote beside a surname and computes no key,
 so **it reports a lower bound**: a bare cell is evidence of nothing, and this
-house's `Wilson` names four people while the probe can see three. Two given forms
+house's `Wilson` names four people while the probe can see three. **The
+declaration is still the instrument, and the pass that used the probe proved
+it**: the probe reported two `Diamond`s, both named, and declaring the surname
+turned up a third, Douglas of the bank-run model, sitting in a bare cell. So the
+probe orders the search and the declaration answers it, which is the same shape
+as the field count ordering the search for a candidate and never saying what is
+there. Two given forms
 are one person when one is a token-prefix of the other, the same rule the build
 uses for a declared form, which is what keeps `Robert` and `Roberto` apart.
 
