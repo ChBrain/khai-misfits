@@ -8548,9 +8548,21 @@ left to review**` for exactly this, and those key nothing, because the build onl
       **one token**: `Council of Europe` keys as `Europe`, since the particle join needs a capitalised particle
       and `of` is not one. So the precedent does not generalise, and a rule saying name the institution would have
       produced a worse defect than the one it repaired.
-- [ ] [P2] Declare `Wilson`, `Daniels`, `Diamond` and `List` once their cells are named, which is governance and
-      comes second. `Wilson` is the one that blocks The Ear It Was Heard With, since citing Sperber and Wilson
-      against a declared `Wilson` requires every existing occurrence to resolve.
+- [x] [P2] Declare `Wilson`, `Daniels` and `List`: done, and the pass was re-costed mid-flight by its own
+      instrument. Declaring all four turned up a **third `Diamond`** the probe could not see, Douglas of the
+      bank-run model, sitting in a bare `**Diamond & Dybvig**` cell. So `Diamond` came back out: its cell is owed
+      first, exactly as the contract's ordering table says for an undeclared surname with a bare cell, and the
+      probe's own documented weakness is what produced the surprise.
+      **This is the probe working as designed rather than failing.** It reads what an author wrote and computes
+      no key, so it orders the search and never says what is there, which is the same relation the field count
+      has to a candidate. The declaration remains the instrument; the probe is what tells you which declaration
+      is worth making.
+- [ ] [P2] Name Douglas Diamond in The Bank Run's Source cell, then declare `Diamond`. Two passes in that order,
+      misfit lane then governance, for the reason above.
+- [ ] [P2] Declare `Deirdre` under `Wilson` **before** authoring The Ear It Was Heard With. `Wilson` is now a
+      declared surname, so the moment a cell cites Sperber and Wilson the occurrence is unresolved and `npm test`
+      fails. This is the contract's third ordering row, already declared and meeting a new namesake, and it is
+      the first live instance of it.
 - [ ] [P2] Decide whether a non-person keyed as a scholar earns a wall of its own. It is the fifth instance of
       the file's own shape and the first where the key is not a person at all, so a check is arguable; against
       it, the closed list a `NON_AUTHOR` needs is exactly the kind of list the house has twice refused to

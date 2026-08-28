@@ -92,7 +92,7 @@
   "scholarPolicy": {
     "homonyms": {
       "Adams": ["Scott", "Gordon", "John", "Robert McC", "Robert Merrihew"],
-      "Albert": ["Kendra", "R\u00e9ka"],
+      "Albert": ["Kendra", "Réka"],
       "Andersen": ["Malene F", "Per Kragh"],
       "Anderson": ["David J", "Lisa", "Roy"],
       "Appelbaum": ["Paul S", "Barbara"],
@@ -101,10 +101,12 @@
       "Boudreau": ["John W", "Kevin J"],
       "Brown": ["Graham", "James K", "Stephen J"],
       "Campbell": ["Donald T", "Lyle", "W M"],
+      "Chen": ["Hsuan-Chi", "Robert T"],
       "Christensen": ["Clayton", "Thomas J"],
       "Cohen": ["Michael", "Wesley M"],
       "Cook": ["Richard", "Terry"],
       "Cooper": ["Elisabeth J", "Graham"],
+      "Daniels": ["Gilbert", "H E"],
       "Davis": ["Charles C", "Mike"],
       "Dennis": ["Brian", "Patrick"],
       "Fine": ["Jason", "Paul"],
@@ -126,6 +128,7 @@
       "Kravitz": ["J", "Richard"],
       "Lawrence": ["Thomas B", "Paul R"],
       "Levitt": ["Barbara", "Theodore", "Steven"],
+      "List": ["Christian", "John"],
       "Loewenstein": ["George", "Karl"],
       "Lucas": ["Gavin", "Robert E"],
       "Luchins": ["Abraham S", "Edith H"],
@@ -149,8 +152,8 @@
       "Wang": ["Zhanyun", "Liangyan"],
       "White": ["Lawrence J", "Leslie A", "Gilbert F", "Martin"],
       "Wilde": ["Gerald J S", "Louis"],
-      "Zhang": ["Lei", "Xinzhi"],
-      "Chen": ["Hsuan-Chi", "Robert T"]
+      "Wilson": ["Charles", "James Q", "Robert", "Timothy"],
+      "Zhang": ["Lei", "Xinzhi"]
     }
   },
   "driftPolicy": {
