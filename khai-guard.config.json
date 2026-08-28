@@ -11,7 +11,6 @@
   },
   "branchScope": {
     "shared": [
-      ".changeset/**",
       "package.json",
       "package-lock.json",
       "CHANGELOG.md",
@@ -28,6 +27,10 @@
       "REFERENCES.md"
     ],
     "riders": [
+      {
+        "pattern": ".changeset/**",
+        "fallback": "governance"
+      },
       {
         "pattern": "management/orders/**",
         "fallback": "governance"
@@ -89,7 +92,7 @@
   "scholarPolicy": {
     "homonyms": {
       "Adams": ["Scott", "Gordon", "John", "Robert McC", "Robert Merrihew"],
-      "Albert": ["Kendra", "Réka"],
+      "Albert": ["Kendra", "R\u00e9ka"],
       "Andersen": ["Malene F", "Per Kragh"],
       "Anderson": ["David J", "Lisa", "Roy"],
       "Appelbaum": ["Paul S", "Barbara"],
