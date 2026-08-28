@@ -8185,3 +8185,31 @@ evidence that a fourth exit is owed, and this house has twice refused to build a
 would use it. What is cheap and honest now is a convention: **where a sign depends on a horizon or on which end
 of the dial is meant, the axis name carries it**, so the declaration is readable without the warrant. Raise the
 mechanism only when a misfit arrives that the convention cannot serve.
+
+**The fifty-seventh pass declared six axes and found no new opposition, which is the result and not a
+disappointment.** Coverage moves from a hundred to a hundred and six of three hundred and twenty seven. The
+contract already says declaring more of the house widens the check and does not change it, and this pass is the
+first evidence of what widening costs when it returns nothing: two families read, six declarations written, and
+the opposed-pair count unmoved at five.
+
+**Two families, chosen because their quantities are legible from the Line of Work alone.** The Galton selection
+family: `rising_to_unfit` on **role-similarity**, positive, since the harm is the gap between the role that was
+mastered and the role selected for; `the_best_on_paper` and `the_bounce` both on **noise-share-of-the-measure**,
+negative, since taking the maximum of noisy estimates and reacting to an extreme are the same quantity read by
+two literatures. The Senge family: `fixes_that_fail` and `shifting_the_burden` both on
+**symptomatic-fix-reliance**, negative, and `limits_to_growth` on **growth-engine-effort**, negative.
+
+**Two misfits sharing one axis and one sign is correct grouping and not a defect**, which is worth saying because
+it looks like duplication. Fixes that Fail and Shifting the Burden act on the same quantity and agree about its
+sign; what separates them is what the reliance destroys, a returning symptom against an atrophied capability, and
+that is a difference in the play rather than in the axis. **The axis is not an identifier of a misfit and was
+never meant to be.**
+
+**And the declaration that took the most care was `rising_to_unfit`, because the obvious one would have been
+dishonest.** The tempting quantity is promotion-on-current-performance, negative: the more you promote on current
+performance, the worse the fit. That is false as stated, since a next role identical to the current one would be
+predicted perfectly by it, and the declaration would have smuggled the gap in as an assumption. The honest
+quantity is **role-similarity**, and the sign is positive. That is the same defect the last pass found in Ready
+on the First Day, arriving in a second form: **a sign that is only true under an unstated condition is a
+malformed declaration that parses.** No gate can see it, and the only defence is to name the quantity the play
+actually turns on rather than the one the harm is usually described by.
