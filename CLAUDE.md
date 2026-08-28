@@ -510,9 +510,35 @@ node tests/science_overlap.mjs --undeclared-namesakes   # surnames the house has
 
 It reads only what an author already wrote beside a surname and computes no key,
 so **it reports a lower bound**: a bare cell is evidence of nothing, and this
-house's `Wilson` names four people while the probe can see three. Two given forms
+house's `Wilson` names four people while the probe can see three. **The
+declaration is still the instrument, and the pass that used the probe proved
+it**: the probe reported two `Diamond`s, both named, and declaring the surname
+turned up a third, Douglas of the bank-run model, sitting in a bare cell. So the
+probe orders the search and the declaration answers it, which is the same shape
+as the field count ordering the search for a candidate and never saying what is
+there. Two given forms
 are one person when one is a token-prefix of the other, the same rule the build
 uses for a declared form, which is what keeps `Robert` and `Roberto` apart.
+
+**And it has a blind spot with a computable complement, which is its own flag.**
+The probe needs **two named cells** to report a surname at all, so a namesake
+whose counterpart sits in a bare cell is invisible to it. That is not a fault to
+fix, since guessing at bare cells would fill the output with a house's worth of
+them; it is a place to look, and the place is an undeclared surname whose cells
+**mix a named one with a bare one**. Douglas Diamond hid exactly there, behind
+`Diamond & Dybvig`, and reading the complement found five more in one pass.
+
+```
+node tests/science_overlap.mjs --mixed-cells   # undeclared surnames mixing a named cell with a bare one
+```
+
+**It is a reading list and not a finding count, and the number is what says so.**
+It returns dozens of surnames and almost every one is a single scholar an author
+named in one cell and not another, which owes nothing. So the two scans bracket
+the answer rather than either giving it: **the probe is the lower bound, this is
+where to look, and a person decides.** That is the third instrument here to order
+a search rather than answer one, after the field count and the surname scan, and
+it is the general shape of everything that reads this index.
 
 **Its first run found three kinds of defect and it was built for one.** Four
 genuine undeclared namesakes, `Wilson`, `Daniels`, `Diamond` and `List`. One

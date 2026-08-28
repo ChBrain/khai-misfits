@@ -2,7 +2,7 @@
 concept: "The Mechanistic Fit (structure matched to a stable market, executing on past it)"
 field: "Organisations, hierarchy, and management"
 source: "Burns & Stalker, The Management of Innovation (1961)"
-updated: "2026-08-01"
+updated: "2026-08-28"
 ---
 
 # Right for the Last World: Reference
@@ -44,7 +44,7 @@ The phenomenon in practice, and the research spine beneath it.
 | ------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **Burns and Stalker**           | _The Management of Innovation_ (1961)                 | **The naming**: mechanistic and organic forms, each right for a different rate of environmental change.                 |
 | **Paul R. Lawrence and Lorsch** | _Organization and Environment_ (1967)                 | **The formal treatment**: differentiation and integration set by environmental uncertainty; the coining of contingency. |
-| **Woodward**                    | _Industrial Organization: Theory and Practice_ (1965) | **The technological axis**: structure fitted to production technology, with performance following the match.            |
+| **Joan Woodward**               | _Industrial Organization: Theory and Practice_ (1965) | **The technological axis**: structure fitted to production technology, with performance following the match.            |
 | **Donaldson**                   | _The Contingency Theory of Organizations_ (2001)      | **The consolidation**: structural adjustment to regain fit, and the lag in which misfit is borne.                       |
 
 ## Restrictions

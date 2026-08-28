@@ -8548,9 +8548,52 @@ left to review**` for exactly this, and those key nothing, because the build onl
       **one token**: `Council of Europe` keys as `Europe`, since the particle join needs a capitalised particle
       and `of` is not one. So the precedent does not generalise, and a rule saying name the institution would have
       produced a worse defect than the one it repaired.
-- [ ] [P2] Declare `Wilson`, `Daniels`, `Diamond` and `List` once their cells are named, which is governance and
-      comes second. `Wilson` is the one that blocks The Ear It Was Heard With, since citing Sperber and Wilson
-      against a declared `Wilson` requires every existing occurrence to resolve.
+- [x] [P2] Declare `Wilson`, `Daniels` and `List`: done, and the pass was re-costed mid-flight by its own
+      instrument. Declaring all four turned up a **third `Diamond`** the probe could not see, Douglas of the
+      bank-run model, sitting in a bare `**Diamond & Dybvig**` cell. So `Diamond` came back out: its cell is owed
+      first, exactly as the contract's ordering table says for an undeclared surname with a bare cell, and the
+      probe's own documented weakness is what produced the surprise.
+      **This is the probe working as designed rather than failing.** It reads what an author wrote and computes
+      no key, so it orders the search and never says what is there, which is the same relation the field count
+      has to a candidate. The declaration remains the instrument; the probe is what tells you which declaration
+      is worth making.
+- [x] [P2] Name Douglas Diamond in The Bank Run's Source cell: done, **and five more like him**. The Diamond
+      surprise was not a one-off, it was a **shape**, and the shape has a computable complement the probe cannot
+      see: an undeclared surname whose cells **mix a named one with a bare one**. The probe needs two named cells
+      to report a surname at all, so every namesake whose counterpart is bare is invisible to it, which is exactly
+      how Douglas Diamond hid. Scanning for the mixed case and reading the result found `Woodward` (Joan of the
+      technology axis against James of the non-identity problem), `Frank` (Robert of positional goods against
+      Steven of within-host competition), `Gilbert` (Daniel of affective forecasting against Seth of the CAP
+      theorem), `Muller` (Jerry of the tyranny of metrics against Hermann J of the ratchet) and `Rogers` (Todd of
+      the illusion of explanatory depth against Will of stage migration). Six cells named, and the probe now
+      reports six surnames where it reported one.
+      **The complement is a reading list and not a wall, and the numbers say why.** The mixed case returns
+      **84** undeclared surnames, and almost all of them are one scholar an author happened to name in one cell
+      and not another, which owes nothing. So the two scans bracket the answer rather than either giving it: the
+      probe is the lower bound, the mixed scan is where to look, and a person still decides. **That is the third
+      instrument in this family to end up ordering a search rather than answering one**, after the field count
+      and the surname scan, and it is starting to look like the general shape of everything that reads this
+      index.
+- [x] [P2] Add the mixed-cell complement as a flag: done, as `--mixed-cells`, printing its own total and what the
+      total means.
+- [x] [P2] Declare `Diamond`, `Woodward`, `Frank`, `Gilbert`, `Muller` and `Rogers`: done, and **this time
+      declaring surprised nobody**, because the pass before it had named every bare cell. That is the ordering
+      rule paying for itself: the cells-first pass is what makes the declaration boring, and a boring declaration
+      is the evidence that the pass before it was complete.
+- [ ] [P2] Read the eleven candidates the flag's first run surfaced, which is the misfit lane. **The flag found
+      more on one run than the probe found in two passes**, and that is the expected relation rather than a
+      surprise: the probe reports only what is already proven and the flag reports where proof is missing.
+      Strong: `Welch` (H Gilbert of overdiagnosis against Ivo of the cascades), `Clark` (W A V of segregation
+      against Herbert of grounding), `Kaplan` (Stephen of attention restoration against Abraham, who coined both
+      the law of the instrument and the drunkard's search in one 1964 book and is bare in both misfits that use
+      him), `Williams` (George C of senescence against Kipling of social loafing), `Simmons` (Cameron of the
+      dengue work against Joseph of the researcher degrees of freedom). Worth reading: `Smith`, `Katz`, `Ross`,
+      `Fischer`, `Robertson`, `Snow`. **Each is a cell to read and not a verdict**, and the eleven are the whole
+      of what one read of seventy-eight produced, so the rest of the list is the ordinary case and stays ordinary.
+- [ ] [P2] Declare `Deirdre` under `Wilson` **before** authoring The Ear It Was Heard With. `Wilson` is now a
+      declared surname, so the moment a cell cites Sperber and Wilson the occurrence is unresolved and `npm test`
+      fails. This is the contract's third ordering row, already declared and meeting a new namesake, and it is
+      the first live instance of it.
 - [ ] [P2] Decide whether a non-person keyed as a scholar earns a wall of its own. It is the fifth instance of
       the file's own shape and the first where the key is not a person at all, so a check is arguable; against
       it, the closed list a `NON_AUTHOR` needs is exactly the kind of list the house has twice refused to
