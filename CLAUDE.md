@@ -563,6 +563,19 @@ predicts three times over, arriving in its most literal form yet: **the index ke
 is computed from a cell an author wrote, and nothing checks that the computation
 found a person.** Here it did not, and every count stayed clean.
 
+**And it earns no wall of its own, which was put and decided rather than left
+open.** A gate would have to recognise that a capitalised last token is not
+somebody, which needs a closed list of the `NON_AUTHOR` kind, and the rule that a
+scholar surname begins with a capital exists precisely to replace per-row
+judgement without a list to maintain. None is owed anyway: the probe already
+reports the class, since a Source naming an instrument yields two given names
+that are plainly not given names, and the fix is the convention the repair
+established, that a Source naming no person ends in a common noun and the build's
+own rule then filters it. **The general form is worth carrying: where a defect is
+a judgement about what a cell means, build something that finds it and leave the
+deciding to a person; where a defect is a computation that can be checked, build
+a wall.**
+
 **And scan again at the end, because the second source set is where the namesakes
 are.** The pre-authoring scan covers the sources you **planned**, and the best row
 in a warrant is routinely chosen during the build: the cut moves, a better
