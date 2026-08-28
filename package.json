@@ -50,7 +50,7 @@
     "@chbrain/khai-language": "^0.1.23",
     "@chbrain/khai-pack": "^0.0.3",
     "@chbrain/khai-review": "^0.1.4",
-    "@chbrain/khai-tests": "^0.2.8",
+    "@chbrain/khai-tests": "^0.3.3",
     "husky": "^9.1.0",
     "prettier": "^3.9.6",
     "vitest": "^4.1.11"
