@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.322.0",
+  "version": "0.323.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -66653,6 +66653,228 @@
           "kind": "process",
           "title": "Tallying by Verdict",
           "taxonomy": "play_which_question_first.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "whichever_is_behind",
+      "title": "Whichever Is Behind",
+      "description": "Two real goals, one agenda: the organisation attends to whichever is behind and never once occupies the split.",
+      "members": [
+        {
+          "file": "persona_the_agenda.md",
+          "kind": "persona",
+          "title": "The Agenda",
+          "type": "archetype",
+          "taxonomy": "position_attention.md"
+        },
+        {
+          "file": "persona_the_comparison.md",
+          "kind": "persona",
+          "title": "The Comparison",
+          "type": "archetype",
+          "taxonomy": "position_aspiration.md"
+        },
+        {
+          "file": "persona_the_compromise.md",
+          "kind": "persona",
+          "title": "The Compromise",
+          "type": "archetype",
+          "taxonomy": "position_settlement.md"
+        },
+        {
+          "file": "persona_the_stock.md",
+          "kind": "persona",
+          "title": "The Stock",
+          "type": "archetype",
+          "taxonomy": "position_condition.md"
+        },
+        {
+          "file": "persona_the_waiting_list.md",
+          "kind": "persona",
+          "title": "The Waiting List",
+          "type": "archetype",
+          "taxonomy": "position_development.md"
+        },
+        {
+          "file": "piece_constraints_not_weights.md",
+          "kind": "piece",
+          "title": "Constraints, Not Weights",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "piece_satisfied_is_silent.md",
+          "kind": "piece",
+          "title": "Satisfied Is Silent",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "piece_the_cost_of_turning_round.md",
+          "kind": "piece",
+          "title": "The Cost of Turning Round",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "piece_the_order_nobody_chose.md",
+          "kind": "piece",
+          "title": "The Order Nobody Chose",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "piece_the_threshold.md",
+          "kind": "piece",
+          "title": "The Threshold",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "pitch_we_are_doing_both.md",
+          "kind": "pitch",
+          "title": "We Are Doing Both",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "place_the_committee_room.md",
+          "kind": "place",
+          "title": "The Committee Room",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "place_the_estate.md",
+          "kind": "place",
+          "title": "The Estate",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "place_the_site.md",
+          "kind": "place",
+          "title": "The Site",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "plan_get_ahead_of_the_list.md",
+          "kind": "plan",
+          "title": "Get Ahead of the List",
+          "taxonomy": "position_development.md"
+        },
+        {
+          "file": "plan_keep_the_roof_on.md",
+          "kind": "plan",
+          "title": "Keep the Roof On",
+          "taxonomy": "position_condition.md"
+        },
+        {
+          "file": "plan_offer_the_split.md",
+          "kind": "plan",
+          "title": "Offer the Split",
+          "taxonomy": "position_settlement.md"
+        },
+        {
+          "file": "plan_say_which_is_behind.md",
+          "kind": "plan",
+          "title": "Say Which Is Behind",
+          "taxonomy": "position_aspiration.md"
+        },
+        {
+          "file": "plan_take_one_thing_at_a_time.md",
+          "kind": "plan",
+          "title": "Take One Thing at a Time",
+          "taxonomy": "position_attention.md"
+        },
+        {
+          "file": "play_whichever_is_behind.md",
+          "kind": "play",
+          "title": "Whichever Is Behind"
+        },
+        {
+          "file": "plot_and_the_turn_costs_more.md",
+          "kind": "plot",
+          "title": "And the Turn Costs More",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "plot_both_are_real.md",
+          "kind": "plot",
+          "title": "Both Are Real",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "plot_cleared_and_dropped.md",
+          "kind": "plot",
+          "title": "Cleared, and Dropped",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "plot_nobody_signed_this.md",
+          "kind": "plot",
+          "title": "Nobody Signed This",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "plot_the_one_that_is_behind.md",
+          "kind": "plot",
+          "title": "The One That Is Behind",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "position_aspiration.md",
+          "kind": "position",
+          "title": "Aspiration",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "position_attention.md",
+          "kind": "position",
+          "title": "Attention",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "position_condition.md",
+          "kind": "position",
+          "title": "Condition",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "position_development.md",
+          "kind": "position",
+          "title": "Development",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "position_settlement.md",
+          "kind": "position",
+          "title": "Settlement",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "process_attending.md",
+          "kind": "process",
+          "title": "Attending",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "process_comparing.md",
+          "kind": "process",
+          "title": "Comparing",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "process_planning.md",
+          "kind": "process",
+          "title": "Planning",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "process_releasing.md",
+          "kind": "process",
+          "title": "Releasing",
+          "taxonomy": "play_whichever_is_behind.md"
+        },
+        {
+          "file": "process_turning.md",
+          "kind": "process",
+          "title": "Turning",
+          "taxonomy": "play_whichever_is_behind.md"
         }
       ]
     },
