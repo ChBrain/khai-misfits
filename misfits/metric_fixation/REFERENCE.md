@@ -2,7 +2,7 @@
 concept: "Goodhart's Law (metric fixation; goal displacement)"
 field: "Measurement, cognition, and inquiry"
 source: "Ridgway (ASQ, 1956); Goodhart; Campbell"
-updated: "2026-08-18"
+updated: "2026-08-28"
 ---
 
 # Metric Fixation: Reference
@@ -52,7 +52,7 @@ The phenomenon in practice, and the research spine beneath it.
 | **Holmström & Milgrom**  | "Multitask Principal-Agent Analyses: Incentive Contracts, Asset Ownership, and Job Design", _JLEO_ (1991)                  | **The neighbour, held clear**: the multitask result is about a fixed effort budget split across dimensions of differing measurability, and it binds where every measure is perfectly valid and nobody has mistaken anything for anything. This play needs a proxy that decays under targeting; that one needs only that the day is finite. Distinction only. |
 | **Choi, Hecht & Tayler** | "Lost in Translation: The Effects of Incentive Compensation on Strategy Surrogation", _The Accounting Review_ (2012)       | **Surrogation**: under incentives, decision-makers come to treat the metric as the construct it proxies, not merely to optimise it. The metric becoming the mission, measured.                                                                                                                                                                               |
 | **Power**                | "The Audit Society: Rituals of Verification" (1997)                                                                        | Assurance verifies form against its own definition and certifies it, sound on the figure and silent on whether the figure still means anything. The Clean Audit's deaf spot.                                                                                                                                                                                 |
-| **Muller**               | "The Tyranny of Metrics" (2018)                                                                                            | Metric fixation as a cross-sector pattern, from schools to hospitals to policing to business: the same substitution, everywhere it is measured. The synthesis in practice.                                                                                                                                                                                   |
+| **Jerry Muller**         | "The Tyranny of Metrics" (2018)                                                                                            | Metric fixation as a cross-sector pattern, from schools to hospitals to policing to business: the same substitution, everywhere it is measured. The synthesis in practice.                                                                                                                                                                                   |
 | **Practitioner**         | KPIs, OKRs, SLAs, quotas, and their gaming (performance-management practice)                                               | The naming: a target hit to the letter by means that hollow out its point, with no line falsified.                                                                                                                                                                                                                                                           |
 
 ## Restrictions

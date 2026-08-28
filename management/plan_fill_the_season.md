@@ -8557,8 +8557,28 @@ left to review**` for exactly this, and those key nothing, because the build onl
       no key, so it orders the search and never says what is there, which is the same relation the field count
       has to a candidate. The declaration remains the instrument; the probe is what tells you which declaration
       is worth making.
-- [ ] [P2] Name Douglas Diamond in The Bank Run's Source cell, then declare `Diamond`. Two passes in that order,
-      misfit lane then governance, for the reason above.
+- [x] [P2] Name Douglas Diamond in The Bank Run's Source cell: done, **and five more like him**. The Diamond
+      surprise was not a one-off, it was a **shape**, and the shape has a computable complement the probe cannot
+      see: an undeclared surname whose cells **mix a named one with a bare one**. The probe needs two named cells
+      to report a surname at all, so every namesake whose counterpart is bare is invisible to it, which is exactly
+      how Douglas Diamond hid. Scanning for the mixed case and reading the result found `Woodward` (Joan of the
+      technology axis against James of the non-identity problem), `Frank` (Robert of positional goods against
+      Steven of within-host competition), `Gilbert` (Daniel of affective forecasting against Seth of the CAP
+      theorem), `Muller` (Jerry of the tyranny of metrics against Hermann J of the ratchet) and `Rogers` (Todd of
+      the illusion of explanatory depth against Will of stage migration). Six cells named, and the probe now
+      reports six surnames where it reported one.
+      **The complement is a reading list and not a wall, and the numbers say why.** The mixed case returns
+      **84** undeclared surnames, and almost all of them are one scholar an author happened to name in one cell
+      and not another, which owes nothing. So the two scans bracket the answer rather than either giving it: the
+      probe is the lower bound, the mixed scan is where to look, and a person still decides. **That is the third
+      instrument in this family to end up ordering a search rather than answering one**, after the field count
+      and the surname scan, and it is starting to look like the general shape of everything that reads this
+      index.
+- [ ] [P2] Add the mixed-cell complement as a flag, since it was run by hand this pass and found five namesakes.
+      It is governance, it is an instrument and never a wall, and it must print its own count so nobody reads 84
+      hits as 84 findings.
+- [ ] [P2] Declare `Diamond`, `Woodward`, `Frank`, `Gilbert`, `Muller` and `Rogers` now their cells are named,
+      which is governance and comes next.
 - [ ] [P2] Declare `Deirdre` under `Wilson` **before** authoring The Ear It Was Heard With. `Wilson` is now a
       declared surname, so the moment a cell cites Sperber and Wilson the occurrence is unresolved and `npm test`
       fails. This is the contract's third ordering row, already declared and meeting a new namesake, and it is
