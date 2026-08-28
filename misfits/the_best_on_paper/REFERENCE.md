@@ -2,6 +2,8 @@
 concept: "The Optimizer's Curse (post-decision surprise; selection on noisy estimates)"
 field: "Measurement, cognition, and inquiry"
 source: 'Smith & Winkler, "The Optimizer''s Curse" (Management Science, 2006)'
+axis: noise-share-of-the-measure
+sign: negative
 updated: "2026-08-28"
 ---
 
