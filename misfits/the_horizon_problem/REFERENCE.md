@@ -2,7 +2,7 @@
 concept: "Boundary Critique (the planning horizon; the systems boundary)"
 field: "Safety, risk, and complex systems"
 source: "Ulrich (1983); Midgley (2000); Churchman (1979)"
-updated: "2026-07-03"
+updated: "2026-08-28"
 ---
 
 # The Horizon Problem: Reference
@@ -61,7 +61,7 @@ The phenomenon in practice, and the research spine beneath it.
 | **Ulrich**                 | _Critical Heuristics of Social Planning_ (1983); Ulrich & Reynolds on boundary critique              | **The spine**: every planning definition draws a boundary that excludes stakeholders and consequences, and the boundary judgement is usually unexamined. The Instrument, The Edge, The Silence. |
 | **Midgley**                | _Systemic Intervention: Philosophy, Methodology, and Practice_ (2000)                                | **What a framing marginalises**: boundary critique on what a definition includes and sweeps to the margin, present but out of account. The Edge, The Beyond.                                    |
 | **Churchman**              | _The Systems Approach and Its Enemies_ (1979)                                                        | **System and environment**: the boundary between what a system holds in and what it sweeps outside. The Costed, The Beyond.                                                                     |
-| **Finite-horizon / Simon** | dynamic programming's terminal horizon; Simon on the bounded premises a decision is taken within     | **The necessary edge**: a usable model must have a terminal horizon, so the reach is finite by construction, not by oversight. The Instrument, The Edge.                                        |
+| **Herbert Simon**          | Simon on the bounded premises a decision is taken within; dynamic programming's terminal horizon     | **The necessary edge**: a usable model must have a terminal horizon, so the reach is finite by construction, not by oversight. The Instrument, The Edge.                                        |
 | **Boundary of the effect** | a finite horizon is necessary; the exclusion is required and undeliberate; the future arrives anyway | The honest note: no one is short-sighted and nothing is traded, so the beyond is a property of the bounded instrument, and the scout who looks past the edge is the costed remedy.              |
 
 ## Restrictions

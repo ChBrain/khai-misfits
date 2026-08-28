@@ -8533,12 +8533,21 @@ not find one, and every count stayed clean: no wall fired, no number looked wron
 sitting in the index as a scholar. **The predicted fourth was `Campbell` and was about the order of a pass; this
 is the fifth and is about the thing itself.**
 
-- [ ] [P2] Repair the cells the probe found, which is the misfit lane and comes first, since a bare cell is valid
-      without a declaration and a declaration is not valid without the cell. Name Charles Wilson in The Market
-      for Lemons; normalise `EJ` to `E J` in Milner-Gulland's second cell; write `Herbert Simon` in The Horizon
-      Problem and move the finite-horizon phrase to the Key Work cell where it belongs; and decide what a Source
-      cell should say when the source is a **treaty and not a person**, which is the open question and is not a
-      repair with an obvious form.
+- [x] [P2] Repair the cells the probe found: done, five cells, and the probe now reports exactly the four genuine
+      namesakes with `Wilson` at its true count of four rather than the three it could see.
+      **The treaty question had an answer already in the house, which is the part worth keeping.** It looked like
+      an open design question, what a Source cell should say when the source is an instrument and not a person,
+      and it is not: Seen, and Therefore Settled already writes `**The graded standard**` and `**Why nothing is
+left to review**` for exactly this, and those key nothing, because the build only takes a **capitalised**
+      last token for a surname. So a non-person Source that ends in a common noun is already invisible to the
+      index by construction, and `Convention` was keyed only because the cell ended in the instrument's own
+      capitalised category word. The repair is the existing idiom: a descriptive label in the Source cell and the
+      instrument's proper name moved into Key Work, which is where a work belongs anyway.
+      **And the corporate-author alternative was tried and rejected on a computation.** Naming the treaty's author
+      looks more honest and the house has a precedent, `UNESCO`, which keys cleanly. It keys cleanly because it is
+      **one token**: `Council of Europe` keys as `Europe`, since the particle join needs a capitalised particle
+      and `of` is not one. So the precedent does not generalise, and a rule saying name the institution would have
+      produced a worse defect than the one it repaired.
 - [ ] [P2] Declare `Wilson`, `Daniels`, `Diamond` and `List` once their cells are named, which is governance and
       comes second. `Wilson` is the one that blocks The Ear It Was Heard With, since citing Sperber and Wilson
       against a declared `Wilson` requires every existing occurrence to resolve.

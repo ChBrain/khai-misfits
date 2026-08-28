@@ -2,7 +2,7 @@
 concept: "The Market for Lemons (adverse selection)"
 field: "Markets, money, and economic equilibria"
 source: 'Akerlof, "The Market for ''Lemons''" (QJE, 1970)'
-updated: "2026-07-01"
+updated: "2026-08-28"
 ---
 
 # The Market for Lemons: Reference
@@ -39,7 +39,7 @@ The phenomenon in practice, and the research spine beneath it.
 | **Akerlof**               | "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism", _Quarterly Journal of Economics_ (1970) | **Asymmetric information and adverse selection**: hidden quality forces a pooling price that drives out the good and can collapse the market. The play's spine and its name. |
 | **Spence**                | "Job Market Signaling", _Quarterly Journal of Economics_ (1973)                                                  | **Signalling**: a costly signal the bad cannot afford to fake can separate good from bad and restore trade, at a real cost. The Voucher and the Stamp.                       |
 | **Rothschild & Stiglitz** | "Equilibrium in Competitive Insurance Markets", _Quarterly Journal of Economics_ (1976)                          | **Screening**: the uninformed side designs offers to sort the informed, and adverse selection may leave no clean equilibrium. The other half of the remedy, and its limits.  |
-| **Wilson**                | "The Nature of Equilibrium in Markets with Adverse Selection", _Bell Journal of Economics_ (1980)                | The **unravelling** dynamic formalised: how a market with hidden quality can spiral down through its own price. The Unraveling.                                              |
+| **Charles Wilson**        | "The Nature of Equilibrium in Markets with Adverse Selection", _Bell Journal of Economics_ (1980)                | The **unravelling** dynamic formalised: how a market with hidden quality can spiral down through its own price. The Unraveling.                                              |
 | **Nobel 2001**            | Akerlof, Spence, and Stiglitz, "for their analyses of markets with asymmetric information"                       | The recognition that the lemons problem and its remedies are a general feature of markets from used cars to insurance to labour, not a curiosity.                            |
 | **Practitioner**          | used-car "lemon laws", warranties, reputation systems, and third-party certification                             | The naming and the fixes in use: how real markets buy back the trust that hidden quality costs them, and what the buying costs.                                              |
 
