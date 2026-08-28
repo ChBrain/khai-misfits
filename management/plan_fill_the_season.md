@@ -8273,33 +8273,31 @@ surfaced. The register's own ordering rule from the forty-first pass applies exa
 and **only the literature answers whether there is a mechanism**. The dedup here is promising and the spine is
 unestablished, so the line is slated P2 rather than P1 and the precondition is the spine.
 
-- [ ] [P2] The Ear It Was Heard With (the receiver's selection among the sides of a message): every utterance
-      carries more than one message at once, the receiver acts on one of them, and **the selection is not an
-      error**, because the sender genuinely sent all of them. The trap is that a sender cannot send fewer sides
-      than the medium carries, so they cannot restrict which one applies, and **the remedy recurses**: a
-      clarification is itself an utterance with the same sides, so meta-communication does not escape the
-      structure but iterates it. **Who pays is both parties**, each correct about what was in the message and
-      each acting on a different one of them.
-      **The cuts, run per distinctive feature rather than on the candidate**, which is the instruction the
-      forty-second pass added. Against **The Double Bind**: switch off the prohibition on commenting, which is
-      that play's sealing condition, and this survives, because commenting is fully permitted here and simply
-      recurses. **That cut holds and is the good one.** Against **Anyone Can See It**: switch off naive realism,
-      stipulating that everybody knows their reading is a construal, and it appears to survive, since the receiver
-      must still act on one reading and knowing it is a construal does not say which side was sent. Wants care
-      rather than confidence. Against **The Illusion of Shared Understanding**: switch off the overestimate of
-      transmission and allow unlimited grounding by mutual confirmation, and **the survival is contingent on the
-      four-sidedness claim being true**, because grounding can settle what was meant only if there is one thing
-      meant. **So that cut is not yet made and is not makeable until the spine is.** It is the precondition and it
-      is the whole precondition.
-      **Where the spine probably is, if it is anywhere**: not in the diagram but in the pragmatics underneath it.
-      Bühler's Organon model gives the three functions the fourth was added to. On the receiver's side the
-      candidates are **Austin's illocutionary and perlocutionary distinction**, which says a speaker performs an
-      act and does not perform its effect, and **relevance theory**, which says the hearer selects the reading
-      that yields adequate effect for least effort, by their own calculus rather than the speaker's intent.
-      `Bühler`, `Austin`, `Searle`, `Sperber` and `Grice` all scanned **clear**; `Wilson` is taken and would need
-      its cell read before Sperber and Wilson could be cited together. **Open one of those before slating this
-      P1**, and if none of them carries the four-sidedness claim, drop the line rather than build a play on a
-      teaching diagram.
+- [x] [P2] The Ear It Was Heard With: **staged**, and the precondition discharged rather than waived. The line
+      said the cut against The Illusion of Shared Understanding was not makeable until the spine was, and it was
+      right: the cut needed the four-sidedness claim to be true, and it is, in the founding model rather than in
+      the teaching diagram. Bühler's Organon model has a sign as symbol, symptom and signal **at once, operative
+      in any speech action at any moment**, varying in strength and never in presence, which is the claim the
+      slate line could not assume. Sperber and Wilson supply the other half, that comprehension is a path of least
+      effort ending when expectations of relevance are satisfied, so the receiver's criterion is the receiver's
+      and no later stage prefers the intended reading. Austin supplies the third, that the effect is not the
+      speaker's to perform. **With those three the cut writes itself**: grounding converges on the reading taken
+      and cannot unsend the sides that were not, so allowing unlimited grounding leaves the play standing, and it
+      leaves it standing for a stated reason rather than by assertion.
+      **The sharpest line turned out to be against Anyone Can See It rather than the Illusion**, which the slate
+      line had marked as wanting care and had not resolved. Naive realism supposes a fact and a construal
+      mistaken for it. This supposes **no single thing meant**, because the message contained several things sent
+      rather than one intention surrounded by three accidents. That is a cleaner distinction than switching naive
+      realism off, and it is what the spine bought.
+      Schulz von Thun is carried as declared background rather than as the spine, since the four-sided model is
+      the widely taught statement of Bühler's claim and citing it as the spine would have been building on the
+      teaching diagram the line warned against.
+      **And the exemption vocabulary earned itself on a live case.** The Illusion of Shared Understanding hides
+      Clark and Brennan's "Grounding in Communication" behind a semicolon, and this play indexes it as a first
+      work, so the two collide the moment the play lands. The collision is exempt because this play's row is a
+      contrast row, which is exactly the determination `contrastMarkers` exists to record: a work cited to hold a
+      line is not a shared spine. **Five passes of index work were spent before anybody knew which case would
+      need them, and this is the first one that was not archaeology.**
 
 **The forty-fourth pass set out to settle a spine and found a hole in the wall instead, and the hole is the
 larger finding.** The work owed was the pragmatics literature for The Ear It Was Heard With, and the first step
