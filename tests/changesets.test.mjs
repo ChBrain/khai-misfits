@@ -22,9 +22,32 @@ import { describe, it, expect } from "vitest";
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { workspacePackages } from "@chbrain/khai-tests";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
-const PKG = JSON.parse(readFileSync(join(root, "package.json"), "utf8")).name;
+
+// The workspace's package names, read the way the kit reads them, which is the
+// root manifest plus every directory its `workspaces` patterns reach.
+//
+// This used to be `package.json`'s own `name`, which is the same answer while
+// the house is one package at the root and the WRONG answer the moment it is
+// not: under a private workspace root the name at the top becomes
+// `@chbrain/khai-misfits-workspace`, and a changeset naming the package that
+// actually publishes would be flagged as naming a package the workspace does
+// not have. The gate would then fail every correct changeset and pass none.
+// Reading the workspace is the same check in both layouts, which is the point.
+//
+// Private packages are included deliberately. Changesets never asks for one, so
+// naming it would be an odd thing to do, and it is not this wall's business to
+// forbid: this wall asks whether the name EXISTS, and the private root does.
+const PACKAGES = workspacePackages(root);
+const NAMES = new Set(PACKAGES.keys());
+
+/** The one package that publishes, for the parser's literal inputs below. */
+const PKG = [...PACKAGES.keys()].find((n) => {
+  const pkg = JSON.parse(readFileSync(join(PACKAGES.get(n), "package.json"), "utf8"));
+  return pkg.private !== true;
+});
 
 /** The package names a changeset declares, one per bump line in its frontmatter.
  * A changeset with an empty frontmatter (the `--empty` kind, which records a pull
@@ -65,10 +88,20 @@ describe("every changeset names this workspace's package", () => {
   it("declares no package the workspace does not have", () => {
     const wrong = changesets.flatMap(({ file, text }) =>
       declaredNames(text)
-        .filter((name) => name !== PKG)
-        .map((name) => `${file}: "${name}" (the package is "${PKG}")`),
+        .filter((name) => !NAMES.has(name))
+        .map((name) => `${file}: "${name}" (the workspace has ${[...NAMES].join(", ")})`),
     );
     expect(wrong).toEqual([]);
+  });
+
+  it("finds the workspace it reads, in whichever layout the house is in", () => {
+    // Anti-vacuity for the reader above: an empty name set would accept every
+    // changeset ever written, including the nine that took the release down.
+    // The assertion is deliberately about the publishable package rather than a
+    // count, because the count is one today and two after a workspace root is
+    // added, and neither number is the thing that matters.
+    expect(NAMES.size).toBeGreaterThan(0);
+    expect(PKG).toBe("@chbrain/khai-misfits");
   });
 
   it("reads the bump line it claims to read", () => {
