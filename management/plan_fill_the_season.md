@@ -8495,3 +8495,55 @@ for the question addressed and corroborate from several independent reports, is 
 sufficient here**, because independence is the thing in question rather than the number of reports. So the line
 carries an explicit corroboration precondition, and the general form is worth having: **where a candidate's
 inversion is also somebody's product, the warrant needs a source with nothing to sell before it is authored.**
+
+**The forty-ninth pass went looking for one cell and built the instrument that finds the rest.** The Ear It Was
+Heard With needs relevance theory, relevance theory is Sperber and Wilson, and `Wilson` came back **taken**. That
+is the ordinary case and the ordinary answer is to read the cell. Reading it turned up not one person but
+**four**: Timothy of focalism, James Q of the concentrated-benefits typology, Robert of common-value auctions,
+and a bare cell in The Market for Lemons that is Charles. The surname is **undeclared**, so all four render as
+one scholar across four works, which is exactly the expected case this file says owes nothing.
+
+**That is the gap, and it is a gap in the instruments and not in the house.** Every namesake flag runs after a
+declaration: `--namesakes` reads the index for a declared surname left bare, `--forms` for a declared form
+nothing reaches, `--surname` for a key already there. **Nothing scanned for a surname that ought to be declared
+and is not**, so the only way to find one was to declare it speculatively and read what fell out, which is what
+the `Campbell` pass did and recorded as a cost. So the pass built `--undeclared-namesakes`, which reports an
+undeclared surname whose own Source cells already name more than one person.
+
+**It reports a lower bound and says so.** It reads only what an author wrote beside a surname, so a bare cell is
+evidence of nothing: `Wilson` names four and the probe sees three. That is the right weakness to have, because
+the alternative, guessing at bare cells, would fill the output with a house's worth of them and the signal would
+be gone.
+
+**The first run found three kinds of defect and was built for one.**
+
+- **Four genuine namesakes**: `Wilson` (four people), `Daniels` (Gilbert of the average pilot against H E of the
+  statistics), `Diamond` (Miriam L of the chemicals against Peter of search), `List` (Christian of judgment
+  aggregation against John of field experiments).
+- **One scholar written two ways**: `E J Milner-Gulland` against `EJ Milner-Gulland`, which is cell hygiene, owes
+  no declaration, and would have read as two people to anybody scanning by eye.
+- **Two cells where the computation did not find a person at all.** A Source cell naming a treaty keys
+  `Convention` as a scholar, and two misfits collate under it, the Ballast Water Management Convention and the
+  Valletta Convention. A cell written `Finite-horizon / Simon` keys the right scholar out of a string that is not
+  a name, because the split does not cut on a slash.
+
+**The last pair is the shape the contract predicts three times, arriving in its most literal form.** The index
+key is computed from a cell an author wrote and nothing checks that the computation found a person. Here it did
+not find one, and every count stayed clean: no wall fired, no number looked wrong, and `Convention` has been
+sitting in the index as a scholar. **The predicted fourth was `Campbell` and was about the order of a pass; this
+is the fifth and is about the thing itself.**
+
+- [ ] [P2] Repair the cells the probe found, which is the misfit lane and comes first, since a bare cell is valid
+      without a declaration and a declaration is not valid without the cell. Name Charles Wilson in The Market
+      for Lemons; normalise `EJ` to `E J` in Milner-Gulland's second cell; write `Herbert Simon` in The Horizon
+      Problem and move the finite-horizon phrase to the Key Work cell where it belongs; and decide what a Source
+      cell should say when the source is a **treaty and not a person**, which is the open question and is not a
+      repair with an obvious form.
+- [ ] [P2] Declare `Wilson`, `Daniels`, `Diamond` and `List` once their cells are named, which is governance and
+      comes second. `Wilson` is the one that blocks The Ear It Was Heard With, since citing Sperber and Wilson
+      against a declared `Wilson` requires every existing occurrence to resolve.
+- [ ] [P2] Decide whether a non-person keyed as a scholar earns a wall of its own. It is the fifth instance of
+      the file's own shape and the first where the key is not a person at all, so a check is arguable; against
+      it, the closed list a `NON_AUTHOR` needs is exactly the kind of list the house has twice refused to
+      maintain, and the honest alternative may be a cell convention rather than a gate. **Do not build it before
+      the repair above says what the cell should look like.**
