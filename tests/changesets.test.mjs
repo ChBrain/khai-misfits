@@ -20,11 +20,13 @@
 
 import { describe, it, expect } from "vitest";
 import { readFileSync, readdirSync, existsSync } from "node:fs";
-import { fileURLToPath } from "node:url";
-import { dirname, join } from "node:path";
+import { join } from "node:path";
 import { workspacePackages } from "@chbrain/khai-tests";
+import { REPO as root, PACKAGE as PKG } from "./house_root.mjs";
 
-const root = join(dirname(fileURLToPath(import.meta.url)), "..");
+// The repository root, and only that: `.changeset/` and the lane config are
+// governance and stay at the top in both layouts. Nothing this file reads moves
+// with the house.
 
 // The workspace's package names, read the way the kit reads them, which is the
 // root manifest plus every directory its `workspaces` patterns reach.
@@ -40,14 +42,7 @@ const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 // Private packages are included deliberately. Changesets never asks for one, so
 // naming it would be an odd thing to do, and it is not this wall's business to
 // forbid: this wall asks whether the name EXISTS, and the private root does.
-const PACKAGES = workspacePackages(root);
-const NAMES = new Set(PACKAGES.keys());
-
-/** The one package that publishes, for the parser's literal inputs below. */
-const PKG = [...PACKAGES.keys()].find((n) => {
-  const pkg = JSON.parse(readFileSync(join(PACKAGES.get(n), "package.json"), "utf8"));
-  return pkg.private !== true;
-});
+const NAMES = new Set(workspacePackages(root).keys());
 
 /** The package names a changeset declares, one per bump line in its frontmatter.
  * A changeset with an empty frontmatter (the `--empty` kind, which records a pull
@@ -100,8 +95,12 @@ describe("every changeset names this workspace's package", () => {
     // The assertion is deliberately about the publishable package rather than a
     // count, because the count is one today and two after a workspace root is
     // added, and neither number is the thing that matters.
+    //
+    // It asks whether the reader FOUND the package rather than what the package
+    // is called: the name is a constant one import away, so asserting it here
+    // would be a tautology dressed as a wall.
     expect(NAMES.size).toBeGreaterThan(0);
-    expect(PKG).toBe("@chbrain/khai-misfits");
+    expect([...NAMES]).toContain(PKG);
   });
 
   it("reads the bump line it claims to read", () => {

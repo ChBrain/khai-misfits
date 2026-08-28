@@ -8269,3 +8269,51 @@ changeset naming the package that actually publishes would be flagged as naming 
 have. **The gate would fail every correct changeset and pass none.** Reading the workspace through the kit is the
 same check in both layouts, which is the point, and private packages are included deliberately: this wall asks
 whether a name exists, and the private root's does.
+
+**Step 1 of the migration: the readers learn both layouts, and running them against the layout that does not
+exist yet is what found the two things the move actually breaks.**
+
+There are **two roots** and every reader in `tests/` wants exactly one of them. The content root holds `misfits/`,
+`registry.json`, `docs/SCIENCE.md` and `REFERENCES.md` and moves; the repository root holds
+`khai-guard.config.json`, `.changeset/`, `management/` and `tests/` and does not, because a lane is a
+repository-level fact and a changeset is addressed to a workspace. Getting that wrong **does not throw**: a
+reader handed the repository root after the move finds no `misfits/` and reports an empty house, which is a
+**pass**. Zero misfits, zero warrants, zero overlaps, zero unresolved namesakes, and a green build. **The gate
+goes quiet rather than red**, which is why the counts are taken before and compared after, and why any count that
+improves is read as a reader having gone blind rather than as good news.
+
+**The house root is resolved by name and not by path**, which is a correction to the briefing rather than a
+refinement of it. It asked for `packages/khai-misfits` then `.`, which encodes the directory layout into every
+reader that asks. The manifest already carries the answer: `workspacePackages` returns the root package plus
+every directory the root's `workspaces` patterns reach, keyed by the name each manifest declares, so one question
+answers both layouts and no reader needs to know which one it is standing in. **It throws rather than falling
+back**, for the reason the vacuous gate below made plain.
+
+**A reader was already blind, and no count could ever have caught it.** `validateProjectLanguages` defaults its
+content directory to `<root>/plays`, which is a playhouse's shape and not a production house's, so the language
+policy gate returned an empty array and passed on nothing. Every misfit ever staged went past it. Pointed at
+`misfits/` it reports zero findings across all 327, so the fix costs nothing today and the gate goes from green
+on an empty read to green on a real one. **It is the slowest gate in the house at ~0.12s per misfit**, about 39
+seconds at this count, which roughly doubles the suite; that is the price of a declared policy that had never
+once been applied, and it is named in the test so the trade is visible rather than discovered.
+
+**The briefing's inventory of path-reading tests was four and it is five.** `tests/science-drift.test.mjs` was
+not in it, and `verifyScienceIndex` reads the collection out of `<root>/package.json` and the committed index out
+of `<root>/docs/SCIENCE.md`, both of which move.
+
+**The whole suite was then run against a simulated post-move tree, and it failed on exactly two things, both
+true.** Every instrument read identically to the flat canary - 2071 rows and 0 shared works, 5 opposed pairs and
+0 undeclared, 81 declared surnames with 0 unresolved and 0 unreachable forms, 0 suffix keys, 18 hidden compound
+works with 1 unexempted, 67 mixed cells - which is the step 5 criterion satisfied ahead of step 5. The two
+failures are **requirements for step 4** and must not be lost:
+
+- **`LICENSE` and `LICENSE-CODE` stop being shipped.** npm includes a licence only from the package directory,
+  and after the move they sit at the repository root. A tarball published from `packages/khai-misfits` would
+  carry no licence at all, for a house whose content is CC-BY-NC-SA and whose code is MIT. `files` cannot reach
+  above the package root, so step 4 must place them beside the manifest.
+- **The one link from the management layer into the house breaks.** `management/plan_fill_the_season.md` carries
+  a single `../misfits/...` link, and the management layer stays at the top while the house drops a level.
+
+Both are already gated, which is the part worth keeping: the packing wall written at step 0 caught the first and
+the canon validator caught the second, without either being told the move was coming. **A gate that reads the
+right root finds the move's defects before the move.**

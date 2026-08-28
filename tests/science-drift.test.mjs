@@ -1,9 +1,13 @@
 import { describe, it, expect } from "vitest";
-import { fileURLToPath } from "node:url";
-import { dirname, join } from "node:path";
 import * as kt from "@chbrain/khai-tests";
+import { HOUSE as root } from "./house_root.mjs";
 
-const root = join(dirname(fileURLToPath(import.meta.url)), "..");
+// The content root, not the repository root. `verifyScienceIndex` reads the
+// collection out of `<root>/package.json` and the committed index out of
+// `<root>/docs/SCIENCE.md`, so after the move both sit under
+// `packages/khai-misfits` and a repository root here would find neither. This
+// reader was not in the migration briefing's inventory of path-reading tests;
+// it is the fifth.
 
 // The science index build-drift gate for the Misfits house. `docs/SCIENCE.md`
 // is the computed forward map (science -> misfit), inverted from every misfit's
