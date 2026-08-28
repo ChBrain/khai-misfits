@@ -8113,3 +8113,35 @@ stands at eighty four of three hundred and twenty six, which is a quarter of the
 drifts; the Senge archetypes at five are a closed named set and not an opportunity; and the last scouting pass
 found its candidate by reading every concept rather than by consulting a count, which cost one command and is the
 method to repeat.
+
+**The fifty-fifth pass scouted and staged in one go, which the empty slate made possible and which is worth
+naming as a shape.** With nothing carried, there was no line to honour and no precondition to discharge, so the
+pass could run the whole gate at the moment of choosing rather than inheriting half of it. **That is the cheapest
+this work has been**, and it is the direct dividend of the last pass emptying the queue: a slate line is a
+promise made by an earlier pass with less information, and authoring straight off a scout is authoring with the
+gate and the candidate in the same hand.
+
+**The whole gate, run at the point of choosing.** Who pays: a caribou herd, and it is the one party in the
+sequence with nothing to answer for. What the settlement costs: every fast remedy is a standing removal of one
+animal or another, and the correct remedy is a stand age, so **the thing that works is the thing that cannot
+stop.** Who is already selling one: wildlife management runs these programmes, they are evaluated, and they work
+while they run, which two passes ago would have looked like the no-hero failure that killed The Unowned Seam and
+here is the opposite, because the programme's success is what makes it permanent rather than what ends it. **The
+test is not whether a remedy exists but whether using it costs the thing it was for**, and an annual cull costs
+exactly what conservation is for.
+
+**Staged as Good Years for the Moose**, on apparent competition, cut to woodland caribou in a logged landscape.
+Five cuts written, and the one that mattered was against **Who Else It Was Holding Down**: switch off mesopredator
+release and this runs unchanged, because **the predator here is not unleashed but fed**, its rank untouched and
+nothing taken out of the system. The nearest in theme rather than in mechanism is **Never Aimed at You**, and the
+line between them is the carrier: there an agent applied to somebody else, here a population that grew.
+
+**And the size of the claim is fixed by a row rather than by the prose.** Recent work in part of the same range
+reports mixed evidence for the disturbance-mediated form, so it is carried as an Origin row, a piece and a plot's
+closing line. **A structure that runs where its conditions hold is the only kind this house stages**, and saying
+so inside the production is cheaper than defending a universal.
+
+- [ ] [P2] Apparent competition beyond this system, held rather than slated. The relation is general and the house
+      now stages one instance of it; a second would need a different carrier and a different bind, not another
+      landscape. **Do not slate a second apparent-competition play on the strength of a new domain**, which is the
+      table's third row in the contract and the error this pass would most easily make next.
