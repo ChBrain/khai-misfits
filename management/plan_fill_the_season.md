@@ -5874,13 +5874,39 @@ Court Interpreter's Bind** and **Forensic Confirmation Bias** without clearing e
       abandonment condition nor the annexation test produces. The build then found the payer: the penalty
       concentrates on **novel** proposals, which are the ones that most need a close reader to be understood at
       all, so the process is hardest on the work it exists to find.
-- [ ] [P2] The Channel That Closes (mandatory reporting regimes and disclosure deterrence): a duty to report
+- [ ] [P1] The Channel That Closes (mandatory reporting regimes and disclosure deterrence): a duty to report
       exists so that harm is detected, and its existence is a reason not to disclose to the person who holds it,
-      so the detection channel is narrowed by the rule that was meant to open it. **Who pays is the person who
-      would have disclosed.** **Flagged for subject sensitivity**: most of this literature is about children and
-      about domestic violence, and a play that cannot be staged without a real victim in the room should not be
-      staged. The line stands only if a version exists whose payer is structural rather than a person in
-      distress, and it should be dropped rather than softened if not.
+      so the detection channel is narrowed by the rule that was meant to open it. **The sensitivity gate is
+      cleared, and it is cleared by finding a version rather than by softening the line.** The gate said the line
+      stands only if a version exists whose payer is structural rather than a person in distress. It does, and it
+      is the best-measured version there is: the **Tarasoff duty to warn**. A patient does not say the sentence,
+      because the one person who would hear it is compelled to pass it on, and some do not enter therapy at all
+      once the duty is explained. The payer is a **rate**: Griffin Edwards, exploiting the timing and style of
+      state duty-to-warn laws in a fixed-effects model, reports that mandatory duty-to-warn laws **raise the
+      homicide rate**, which is the outcome the duty was written to prevent. Nobody is in the room. The victim
+      the case is named for is the **origin** of the rule and not the payer of the play, which is the distinction
+      the gate was really asking for, and it is what makes the staging possible without her in it.
+      **The no-hero is genuine and is the sharpest thing about the candidate.** Remove the duty and the warnings
+      it does produce go with it. Keep it and the disclosures do not arrive. A confidentiality firewall is
+      exactly the duty's own removal, so the settlement costs precisely the thing the rule was for, which is the
+      test Chosen for Not Answering failed the same afternoon.
+      **Four cuts, and the first is the one that looked dangerous.** Against **Watermelon Reporting**: switch off
+      the reporter's exposure to blame for the news they carry, stipulating that nobody is ever penalised for
+      passing something up, and this stands entire, because **it is not the reporter who goes silent but the
+      source**, and the source goes silent because the listener is compelled rather than because the listener
+      would blame them. Against **Defensive Medicine**: switch off liability exposure altogether and this is
+      unchanged, since the patient withholds on account of the disclosure itself and nothing here is goal
+      displacement in a practitioner. Against **The Paper Trail**: switch off the need to be able to show
+      compliance and it runs as written. Against **First Do Harm**, which is the nearest family: switch off the
+      harm an intervention inflicts directly, and this survives, because **nothing here is inflicted**, the harm
+      being the absence of what never arrived.
+      **A live dispute to carry rather than resolve**: therapist surveys report substantial patient reluctance
+      after Tarasoff, and other work holds that the anticipated chilling effect did not materialise in practice.
+      The play stages the structure and adjudicates neither, which is the house's usual handling and is owed
+      plainly in Restrictions here.
+      `Wise`, `Quinn`, `Tarasoff`, `Slobogin` and `Monahan` scanned clear, and `Edwards` was **taken by A W F of
+      the sex-ratio tracing, in a cell already naming him**, which is the ordering table's middle row: no cells
+      are owed and the declaration goes first. Declared in this pass, so the misfit is unblocked.
 
 **And the abandonment condition returned the no-hero row for the second pass running, which stops being a datum.**
 Last pass it was recorded as a surprise: written as a cheap kill, it did not fire and instead produced the play's
