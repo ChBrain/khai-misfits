@@ -490,6 +490,42 @@ It matches the index key exactly, case-insensitively, never as a substring
 verdict**: the same person on another work is expected and owes nothing, and a
 hit's three readings are the ones the namesake rule above already names.
 
+**And every namesake instrument above runs after a declaration, which is the gap
+that made the ordering rule expensive to learn.** `--namesakes` reads the index
+for a declared surname left bare, `--forms` for a declared form nothing can
+reach, `--surname` for a key already in the index. **None of them scans for a
+surname that ought to be declared and is not**, and the contract's own account of
+`Campbell` and `Wilson` says why that costs: an undeclared surname **collates**,
+so several people under one key are rendered as one person across several works,
+which is the expected case that owes nothing. The declaration was the only
+instrument, and it had to be made speculatively to be read.
+
+So there is a probe that runs **before** the declaration, and it is an instrument
+and never a wall. It reports an undeclared surname whose own Source cells already
+name **more than one person**, which is a thing no other flag can see:
+
+```
+node tests/science_overlap.mjs --undeclared-namesakes   # surnames the house has not declared whose cells name two people
+```
+
+It reads only what an author already wrote beside a surname and computes no key,
+so **it reports a lower bound**: a bare cell is evidence of nothing, and this
+house's `Wilson` names four people while the probe can see three. Two given forms
+are one person when one is a token-prefix of the other, the same rule the build
+uses for a declared form, which is what keeps `Robert` and `Roberto` apart.
+
+**Its first run found three kinds of defect and it was built for one.** Four
+genuine undeclared namesakes, `Wilson`, `Daniels`, `Diamond` and `List`. One
+scholar written two ways in two cells, `E J` against `EJ`, which is cell hygiene
+and not a namesake. And two cells where **the computation did not find a person
+at all**: a Source cell naming a treaty keys `Convention` as a scholar, since the
+last capitalised token is taken for a surname and nothing asks whether it is
+somebody, and a cell written `Finite-horizon / Simon` keys the right scholar from
+a string that is not a name. That last pair is the shape this file already
+predicts three times over, arriving in its most literal form yet: **the index key
+is computed from a cell an author wrote, and nothing checks that the computation
+found a person.** Here it did not, and every count stayed clean.
+
 **And scan again at the end, because the second source set is where the namesakes
 are.** The pre-authoring scan covers the sources you **planned**, and the best row
 in a warrant is routinely chosen during the build: the cut moves, a better
