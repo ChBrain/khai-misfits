@@ -8049,3 +8049,46 @@ where the candidate's harm is one that somebody could plausibly be paid to fix: 
 answers coverage, and this costs one search and answers whether there is anything to cover. The house's stated
 order, dedup then literature, was written for candidates whose harm nobody sells a cure for, and it is still
 right for those.
+
+**The fifty-third pass was the scouting pass the last one called for, and it began by reading the whole house
+rather than by guessing.** Every concept, grouped by field, in one pass: three hundred and twenty six of them. That
+is the instrument the field count only gestures at, and it costs one command. Reading it changes what a gap looks
+like, because a count says measurement is a quarter of the house and the list says **which conversations the house
+is already in**, which is the thing a candidate has to be outside of.
+
+**The clearest gap is a domain and not a mechanism: migration.** The house has no misfit about people moving
+between countries. It has Language Shift, which is a language moving between generations, and The Race to the
+Bottom, which is capital moving between jurisdictions, and nothing about the movement of the people themselves.
+Given how much of the house is about somebody being right at every step, that absence is a finding rather than an
+oversight of taste.
+
+- [ ] [P2] The Portable Credential (health worker migration; the training that certifies is the training that
+      exports): a country trains health workers to an internationally recognised standard, because a standard
+      that is not recognised is not a standard and because its own patients are owed one. **The same recognition
+      is what a foreign employer can read**, so the act that makes the training good is the act that makes the
+      trained employable elsewhere, and the countries that invest most in training lose most. **Who pays is the
+      population that funded it**, and nobody in the chain is doing anything but the right thing: the worker who
+      leaves is right, the receiving system is right to accept them, and the school is right to teach to the
+      standard.
+      **The no-hero test was run first, which is this register's own new rule, and this is the first candidate it
+      has cleared rather than killed.** A remedy exists and is famous: the WHO Global Code of Practice on the
+      International Recruitment of Health Personnel, adopted by 193 states in 2010. It is **soft law, voluntary
+      and unenforced**, and the sub-Saharan-Africa-to-United-States physician migration it addressed did not slow
+      after it. Making it binding is the obvious fix and is the bind: binding means restricting a person's right
+      to leave, or a transfer no receiving country has agreed to fund. **So the discipline exists, sells nothing,
+      and its instrument is known not to work**, which is exactly the opposite of what killed The Unowned Seam
+      and is why the rule is a test rather than a filter.
+      **Two cuts written, and they hold on different grounds.** Against **The Dead Sea Effect**: switch off the
+      talent differential, stipulating that every worker is equally able, and this stands, because **it is the
+      certificate and not the ability that a foreign employer can read**, so the portable leave and the
+      unportable cannot while talent is held flat. Against **Ready on the First Day**, which stages the
+      specificity trade: switch off the adaptability cost entirely, stipulating a leaver who adapts perfectly for
+      twenty five years, and this is untouched, because **the payer is the funding country and not the trained
+      person**, and the clock is a labour market rather than a career.
+      **Two preconditions before slating it P1.** The spine must be chosen and the harm is **contested**: there is
+      a substantial contrarian literature arguing the brain-drain loss is overstated, and a warrant here has to
+      carry that as a row rather than argue past it. And the distinctive vector must survive the reading:
+      the claim is **credential portability** and not wage differentials, because a wage-differential play is a
+      labour-market play the house may already hold in another form, while a portability play turns on the
+      accreditation being the export licence. `Clemens`, `Bhagwati`, `Mills`, `Docquier`, `Rapoport` and
+      `Kangasniemi` all scanned clear.
