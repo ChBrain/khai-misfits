@@ -64,6 +64,13 @@
 //                                                 this one matches loosely on
 //                                                 purpose, since a false clear is
 //                                                 what costs 31 files
+//   node tests/science_overlap.mjs --undeclared-namesakes
+//                                                 which surnames the house has not
+//                                                 declared whose own cells already
+//                                                 name more than one person: the
+//                                                 probe run before a declaration,
+//                                                 since the other namesake flags
+//                                                 all read the index after one
 //   node tests/science_overlap.mjs --compound
 //                                                 which Key Work cells hide a
 //                                                 second work behind a semicolon
@@ -370,6 +377,23 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     for (const b of bad)
       console.log(
         `SUFFIX  "${b.key}" is keyed from ${b.misfit}: the Source cell ends in a suffix,\n     so the build took it for the surname. Drop the suffix from the cell.`,
+      );
+    process.exit(0);
+  }
+  if (args.includes("--undeclared-namesakes")) {
+    const found = findUndeclaredNamesakes();
+    if (!found.length) console.log("no undeclared surname's own cells name more than one person.");
+    for (const f of found) {
+      console.log(`UNDECLARED  ${f.surname} names ${f.people.length} people and is not declared.`);
+      for (const p of f.people)
+        console.log(
+          `     ${p.given} ${f.surname}: ${[...new Set(p.rows.map((r) => r.unit))].join(", ")}`,
+        );
+    }
+    if (found.length)
+      console.log(
+        `\n${found.length} undeclared surname(s) carry cells naming more than one person. ` +
+          `A hit is a cell to read, not a verdict: declare locally and run --namesakes to cost the pass.`,
       );
     process.exit(0);
   }
@@ -781,6 +805,104 @@ export function findCompoundWorks(root = ROOT) {
     }
   }
   return [...found.values()].sort((a, b) => (a.unit + a.stem).localeCompare(b.unit + b.stem));
+}
+
+// The namesake walls above all run *after* a declaration: --namesakes reads the
+// index for a declared surname left bare, --forms for a declared form nothing can
+// reach. None of them scans for a surname that ought to be declared and is not,
+// and the contract records why that gap is expensive: an undeclared surname
+// **collates**, so several people under one key look exactly like one person
+// across several works, which is the expected case that owes nothing. The pass
+// that declared `Campbell` found five more unresolved cells and three people only
+// *after* declaring it locally, and the pass that reached for `Wilson` found four.
+//
+// So this is the probe, run before the declaration rather than after it, and it
+// is an instrument and never a wall. It reports keys whose own Source cells name
+// **more than one person**, which is a finding no other flag can see. It decides
+// nothing: a hit is a cell to read, exactly as --surname's is.
+//
+// It gathers given names locally because the kit exports no name helper, and the
+// gathering is deliberately weaker than the build's own keying: it never computes
+// a key, it only reads what an author already wrote beside a surname. Where it
+// cannot find a given name it says so and keeps quiet, which is why a house full
+// of bare cells does not drown the output.
+
+/**
+ * The given-name evidence a Source cell carries for one surname, or "".
+ *
+ * The stop list is inside the function on purpose: the CLI below runs at module
+ * top level and earlier in the file, so a `const` up here would be in its
+ * temporal dead zone by the time a flag calls this.
+ */
+export function givenFor(source, surname) {
+  const NON_GIVEN = new Set(["the", "and", "et", "al", "eds", "ed"]);
+  const parts = String(source)
+    .replace(/\bet al\.?/gi, "")
+    .split(/[,;&]|\s+and\s+/i)
+    .map((x) =>
+      x
+        .replace(/\([^()]*\)/g, " ")
+        .replace(/[.]/g, "")
+        .trim(),
+    )
+    .filter(Boolean);
+  for (const part of parts) {
+    const tokens = part.split(/\s+/).filter(Boolean);
+    const tail = tokens.slice(-surname.split(" ").length).join(" ");
+    if (tail.toLowerCase() !== surname.toLowerCase()) continue;
+    const given = tokens
+      .slice(0, tokens.length - surname.split(" ").length)
+      .filter((t) => !NON_GIVEN.has(t.toLowerCase()))
+      .join(" ")
+      .trim();
+    if (given) return given;
+  }
+  return "";
+}
+
+// Two given forms are the same person when one is the other, or is a token-prefix
+// of it: "Timothy" absorbs "Timothy D" exactly as a declared form does in the
+// build. Comparing on token boundaries and not on characters is what keeps
+// "Robert" and "Roberto" apart, which is a real pair in this house's `Weber`.
+function sameGiven(a, b) {
+  const [x, y] = a.length <= b.length ? [a, b] : [b, a];
+  return x === y || y.startsWith(x + " ");
+}
+
+export function findUndeclaredNamesakes(root = ROOT) {
+  const declared = new Set(
+    Object.keys(
+      JSON.parse(fs.readFileSync(join(root, "khai-guard.config.json"), "utf8"))?.scholarPolicy
+        ?.homonyms ?? {},
+    ),
+  );
+  const { records } = collectUnits(root);
+  const bySurname = new Map();
+  for (const r of records) {
+    if (declared.has(r.surname)) continue;
+    const given = givenFor(r.source, r.surname);
+    if (!given) continue;
+    if (!bySurname.has(r.surname)) bySurname.set(r.surname, []);
+    bySurname.get(r.surname).push({ given, unit: r.unit, work: r.keyWork });
+  }
+
+  const found = [];
+  for (const [surname, rows] of bySurname) {
+    const people = [];
+    for (const row of rows) {
+      const hit = people.find((p) => sameGiven(p.given, row.given));
+      if (hit) {
+        if (row.given.length > hit.given.length) hit.given = row.given;
+        hit.rows.push(row);
+      } else people.push({ given: row.given, rows: [row] });
+    }
+    if (people.length < 2) continue;
+    if (new Set(rows.map((r) => r.unit)).size < 2) continue;
+    found.push({ surname, people: people.sort((a, b) => a.given.localeCompare(b.given)) });
+  }
+  return found.sort(
+    (a, b) => b.people.length - a.people.length || a.surname.localeCompare(b.surname),
+  );
 }
 
 export function findSuffixKeys(root = ROOT) {
