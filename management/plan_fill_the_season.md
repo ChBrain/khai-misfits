@@ -8580,16 +8580,28 @@ left to review**` for exactly this, and those key nothing, because the build onl
       declaring surprised nobody**, because the pass before it had named every bare cell. That is the ordering
       rule paying for itself: the cells-first pass is what makes the declaration boring, and a boring declaration
       is the evidence that the pass before it was complete.
-- [ ] [P2] Read the eleven candidates the flag's first run surfaced, which is the misfit lane. **The flag found
-      more on one run than the probe found in two passes**, and that is the expected relation rather than a
-      surprise: the probe reports only what is already proven and the flag reports where proof is missing.
-      Strong: `Welch` (H Gilbert of overdiagnosis against Ivo of the cascades), `Clark` (W A V of segregation
-      against Herbert of grounding), `Kaplan` (Stephen of attention restoration against Abraham, who coined both
-      the law of the instrument and the drunkard's search in one 1964 book and is bare in both misfits that use
-      him), `Williams` (George C of senescence against Kipling of social loafing), `Simmons` (Cameron of the
-      dengue work against Joseph of the researcher degrees of freedom). Worth reading: `Smith`, `Katz`, `Ross`,
-      `Fischer`, `Robertson`, `Snow`. **Each is a cell to read and not a verdict**, and the eleven are the whole
-      of what one read of seventy-eight produced, so the rest of the list is the ordinary case and stays ordinary.
+- [x] [P2] Read the eleven candidates the flag's first run surfaced: **all eleven are genuine**, and thirty cells
+      across twenty-five misfits are now named. `Clark`, `Katz` and `Smith` carry four people each and `Ross`
+      five. Every attribution the pass was not certain of was verified by search rather than asserted from
+      memory: James E and H Jeff Smith, Bruce Robertson, Andrew Snow, Peter Fischer. **A read of seventy-eight
+      produced eleven candidates and eleven findings**, which is a better rate than the flag's own warning
+      suggested and is not a reason to trust the next one more.
+      **The probe merges `Michael` with `Michael L`, so it reported four Rosses where there are five.** The
+      token-prefix rule is the build's own, and in the build it is right: a declared `Michael` should absorb a
+      cell written `Michael L Ross`, which is what lets one declaration serve many spellings. In the probe the
+      same rule is a **guess about identity**, and here it guessed wrong, merging Michael Ross of the planning
+      fallacy with Michael L Ross of the oil curse. **Same rule, opposite jobs.** It is not a fix: without a
+      declaration nothing can tell one person written two ways from two people, which is the whole reason the
+      declaration exists. The cells are written so the build separates them once declared, longest form first.
+      **And naming a cell is not atomic.** `**Herbert Clark; Clark & Brennan**` names Clark and still leaves a
+      bare `Clark` inside itself, because the build splits a cell on its separators and each part is an
+      occurrence of its own. Declaring `Clark` failed the wall on a cell this very pass had just repaired. So a
+      cell naming one scholar twice must name them **both times**, or be rewritten so it names them once, which
+      is what was done. **This is the first defect found in a repair rather than in the house**, and it surfaced
+      only because the ordering rule forces a local declaration before the governance pass.
+- [ ] [P2] Declare the eleven, which is governance and comes next. Probed locally and clean: zero unresolved,
+      zero unreachable forms. `Ross` is the one to write carefully, since `Michael L` must precede `Michael` or
+      the shorter form absorbs the longer and two people become one.
 - [ ] [P2] Declare `Deirdre` under `Wilson` **before** authoring The Ear It Was Heard With. `Wilson` is now a
       declared surname, so the moment a cell cites Sperber and Wilson the occurrence is unresolved and `npm test`
       fails. This is the contract's third ordering row, already declared and meeting a new namesake, and it is

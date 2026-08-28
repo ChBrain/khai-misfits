@@ -2,7 +2,7 @@
 concept: "The Law of the Instrument (Maslow's hammer)"
 field: "Measurement, cognition, and inquiry"
 source: "Kaplan (1964); Maslow"
-updated: "2026-07-02"
+updated: "2026-08-28"
 ---
 
 # The Law of the Instrument: Reference
@@ -41,7 +41,7 @@ The phenomenon in practice, and the research spine beneath it.
 
 | Source                 | Key Work / Event                                                                                                                                                                | Scope                                                                                                                                                      |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Kaplan**             | _The Conduct of Inquiry_ (1964), the law of the instrument                                                                                                                      | **The spine and the name**: give a small boy a hammer and he finds everything needs pounding; the tool shapes the problems seen. The play's governing law. |
+| **Abraham Kaplan**     | _The Conduct of Inquiry_ (1964), the law of the instrument                                                                                                                      | **The spine and the name**: give a small boy a hammer and he finds everything needs pounding; the tool shapes the problems seen. The play's governing law. |
 | **Maslow**             | _The Psychology of Science_ (1966), Maslow's hammer                                                                                                                             | **The popular form**: if all you have is a hammer, everything looks like a nail. The Tool, the Nail.                                                       |
 | **Duncker**            | "On Problem-Solving" (1945), functional fixedness                                                                                                                               | **The fixation**: a known use blocks an object's other uses, so perception narrows to the accustomed function. The Reflex, the Amputation.                 |
 | **Abraham S. Luchins** | "Mechanization in Problem Solving" (1942), the Einstellung effect                                                                                                               | **The set**: a learned method, once it works, is applied where a simpler or better one exists and blocks it. The Reflex, the Miss.                         |

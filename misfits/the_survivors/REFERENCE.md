@@ -2,7 +2,7 @@
 concept: "Survivorship Bias"
 field: "Safety, risk, and complex systems"
 source: "Bacon, _Novum Organum_ (1620); Wald"
-updated: "2026-07-01"
+updated: "2026-08-28"
 ---
 
 # The Survivors: Reference
@@ -35,13 +35,13 @@ the wrong population.
 
 The phenomenon in practice, and the research spine beneath it.
 
-| Source                                           | Key Work / Event                                                                                                       | Scope                                                                                                                                                                                             |
-| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Bacon**                                        | _Novum Organum_ (1620), the drowned worshippers                                                                        | **Silent evidence**: shown the votive tablets of those who prayed and survived a shipwreck, Bacon asks where the tablets of those who prayed and drowned are. The Drowned, and the misfit's root. |
-| **Wald**                                         | "A Method of Estimating Plane Vulnerability Based on Damage of Survivors of Combat" (1943), Statistical Research Group | **The bomber armour analysis**: reinforce where returning planes show no holes, because planes hit there did not return. The Holes, the Missing Holes, the whole plane frame.                     |
-| **Stephen J. Brown, Goetzmann, Ibbotson & Ross** | "Survivorship Bias in Performance Studies", _Review of Financial Studies_ (1992)                                       | **Survivorship in finance**: dead and delisted funds drop out, so studies of the survivors overstate returns and manufacture false persistence. The Denominator and the Lesson.                   |
-| **Taleb**                                        | _Fooled by Randomness_ (2001); _The Black Swan_ (2007), the problem of silent evidence                                 | **The graveyard**: the losers of a random process leave no record, so the visible winners make skill out of luck. The Sea, and the reading of the absent.                                         |
-| **Practitioner**                                 | "successful people all did X" advice, backtested trading strategies, and studies of surviving firms                    | The bias in the field: recipes read off the living, strategies fit to the funds that lasted, and the correction only when the failures are put back under the line. The Winners' Circle.          |
+| Source                                                   | Key Work / Event                                                                                                       | Scope                                                                                                                                                                                             |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bacon**                                                | _Novum Organum_ (1620), the drowned worshippers                                                                        | **Silent evidence**: shown the votive tablets of those who prayed and survived a shipwreck, Bacon asks where the tablets of those who prayed and drowned are. The Drowned, and the misfit's root. |
+| **Wald**                                                 | "A Method of Estimating Plane Vulnerability Based on Damage of Survivors of Combat" (1943), Statistical Research Group | **The bomber armour analysis**: reinforce where returning planes show no holes, because planes hit there did not return. The Holes, the Missing Holes, the whole plane frame.                     |
+| **Stephen J. Brown, Goetzmann, Ibbotson & Stephen Ross** | "Survivorship Bias in Performance Studies", _Review of Financial Studies_ (1992)                                       | **Survivorship in finance**: dead and delisted funds drop out, so studies of the survivors overstate returns and manufacture false persistence. The Denominator and the Lesson.                   |
+| **Taleb**                                                | _Fooled by Randomness_ (2001); _The Black Swan_ (2007), the problem of silent evidence                                 | **The graveyard**: the losers of a random process leave no record, so the visible winners make skill out of luck. The Sea, and the reading of the absent.                                         |
+| **Practitioner**                                         | "successful people all did X" advice, backtested trading strategies, and studies of surviving firms                    | The bias in the field: recipes read off the living, strategies fit to the funds that lasted, and the correction only when the failures are put back under the line. The Winners' Circle.          |
 
 ## Restrictions
 

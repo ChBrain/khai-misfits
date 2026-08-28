@@ -2,7 +2,7 @@
 concept: "Accidental Adversaries (systems archetype)"
 field: "Collective action, commons, and coordination"
 source: "Kemeny; Senge, _The Fifth Discipline_ (1990)"
-updated: "2026-07-02"
+updated: "2026-08-28"
 ---
 
 # Accidental Adversaries: Reference
@@ -39,7 +39,7 @@ The phenomenon in practice, and the research spine beneath it.
 | **Kemeny**       | the "Accidental Adversaries" systems archetype (credited originator)                                                                                             | **The spine and the name**: partners whose defensive moves undermine each other into rivalry. The play's governing law.                        |
 | **Senge et al.** | _The Fifth Discipline Fieldbook_ (1994)                                                                                                                          | **The presentation**: the archetype set out, two symbiotic loops crossed by two undermining ones. The Symbiosis, the Local Move.               |
 | **Daniel Kim**   | _Systems Archetypes_ and _Systems Thinking Tools_ (Pegasus, 1990s)                                                                                               | **The formal structure**: the reinforcing rivalry loop built from each party's local action. The Spiral, the Blindspot.                        |
-| **Ross**         | "The Intuitive Psychologist and His Shortcomings" (1977), the fundamental attribution error                                                                      | **The misreading**: attributing another's behaviour to hostile disposition rather than to its situation. The Misattribution.                   |
+| **Lee Ross**     | "The Intuitive Psychologist and His Shortcomings" (1977), the fundamental attribution error                                                                      | **The misreading**: attributing another's behaviour to hostile disposition rather than to its situation. The Misattribution.                   |
 | **Axelrod**      | _The Evolution of Cooperation_ (1984)                                                                                                                            | **Breakdown and recovery**: how tit-for-tat spirals and how cooperation can be restored under the shadow of the future. The Spiral, the Table. |
 | **Osgood**       | _An Alternative to War or Surrender_ (1962), GRIT                                                                                                                | **The unilateral step**: graduated, reciprocated de-escalation to break a hostile spiral by stopping first. The Mender, See the Whole.         |
 | **Practitioner** | two departments whose local targets undermine each other; a maker and distributor whose inventory and promotion moves each hurt the other; supply-chain partners | The loop in the field, and its cure: the partnership degraded by defensive moves, and the risk of stopping first.                              |

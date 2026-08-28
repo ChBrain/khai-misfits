@@ -2,7 +2,7 @@
 concept: "Not-Invented-Here Syndrome"
 field: "Organisations, hierarchy, and management"
 source: 'Katz & Allen, "Investigating the NIH Syndrome" (R&D Management, 1982)'
-updated: "2026-07-02"
+updated: "2026-08-28"
 ---
 
 # Not-Invented-Here: Reference
@@ -36,14 +36,14 @@ deal unmade but a worse thing built in its place to keep it theirs.
 
 The phenomenon in practice, and the research spine beneath it.
 
-| Source              | Key Work / Event                                                                                                                                                    | Scope                                                                                                                                               |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Katz & Allen**    | "Investigating the Not Invented Here (NIH) Syndrome" (_R&D Management_, 1982)                                                                                       | **The spine and the name**: rising tenure, falling external communication, and declining performance in 50 R&D groups. The play's governing law.    |
-| **Allen**           | _Managing the Flow of Technology_ (1977)                                                                                                                            | **The gatekeeper**: the rare person who reads outside sources and translates them inward across the boundary. The Gatekeeper, the Bridge.           |
-| **Tajfel & Turner** | social identity theory (1979; 1986)                                                                                                                                 | **The substrate**: in-group and out-group, the identity boundary that trusts the inside and suspects the outside. The Boundary.                     |
-| **Antons & Piller** | "Opening the Black Box of 'Not Invented Here'" (_Academy of Management Perspectives_, 2015)                                                                         | **The modern definition**: NIH as an attitude-based bias against external knowledge, distinct from a reasoned rejection. The Reflex.                |
-| **Chesbrough**      | _Open Innovation_ (2003)                                                                                                                                            | **The counter-model**: the closed-innovation pathology, and the value of importing and adopting outside ideas. The Better Way, the remedy.          |
-| **Practitioner**    | a good open-source library rebuilt in-house at a premium; a proven external standard refused for a home-grown one; a research group that stops reading rivals' work | The syndrome in the field, and its cure: the better way turned away for its origin, and the cost of opening a boundary that also imports real risk. |
+| Source                 | Key Work / Event                                                                                                                                                    | Scope                                                                                                                                               |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ralph Katz & Allen** | "Investigating the Not Invented Here (NIH) Syndrome" (_R&D Management_, 1982)                                                                                       | **The spine and the name**: rising tenure, falling external communication, and declining performance in 50 R&D groups. The play's governing law.    |
+| **Allen**              | _Managing the Flow of Technology_ (1977)                                                                                                                            | **The gatekeeper**: the rare person who reads outside sources and translates them inward across the boundary. The Gatekeeper, the Bridge.           |
+| **Tajfel & Turner**    | social identity theory (1979; 1986)                                                                                                                                 | **The substrate**: in-group and out-group, the identity boundary that trusts the inside and suspects the outside. The Boundary.                     |
+| **Antons & Piller**    | "Opening the Black Box of 'Not Invented Here'" (_Academy of Management Perspectives_, 2015)                                                                         | **The modern definition**: NIH as an attitude-based bias against external knowledge, distinct from a reasoned rejection. The Reflex.                |
+| **Chesbrough**         | _Open Innovation_ (2003)                                                                                                                                            | **The counter-model**: the closed-innovation pathology, and the value of importing and adopting outside ideas. The Better Way, the remedy.          |
+| **Practitioner**       | a good open-source library rebuilt in-house at a premium; a proven external standard refused for a home-grown one; a research group that stops reading rivals' work | The syndrome in the field, and its cure: the better way turned away for its origin, and the cost of opening a boundary that also imports real risk. |
 
 ## Restrictions
 

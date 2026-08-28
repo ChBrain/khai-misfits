@@ -2,7 +2,7 @@
 concept: "The Peak-End Rule (duration neglect)"
 field: "Measurement, cognition, and inquiry"
 source: "Fredrickson & Kahneman (JPSP, 1993); Redelmeier & Kahneman"
-updated: "2026-07-28"
+updated: "2026-08-28"
 ---
 
 # The Worst and the Last: Reference
@@ -68,7 +68,7 @@ The phenomenon in practice, and the research spine beneath it.
 | **Fredrickson and Kahneman**                        | "Duration Neglect in Retrospective Evaluations of Affective Episodes" (_JPSP_, 1993)                                                            | **The formula and the neglect**: retrospective evaluations of affective film episodes tracked the average of peak and end affect and were almost insensitive to how long the episode lasted, naming duration neglect and the peak-end average. The Peak, the Last, the Length dropped.                                             |
 | **Kahneman, Fredrickson, Schreiber and Redelmeier** | "When More Pain Is Preferred to Less: Adding a Better End" (_Psychological Science_, 1993)                                                      | **The preference reversal**: subjects who held a hand in cold water preferred to repeat a longer trial that added a stretch of slightly warmer water at the end over a shorter one, choosing more total pain for a gentler ending. The Return, the choice against the lived sum.                                                   |
 | **Redelmeier and Kahneman**                         | "Patients' Memories of Painful Medical Treatments: Real-Time and Retrospective Evaluations of Two Minimally Invasive Procedures" (_Pain_, 1996) | **The clinic**: colonoscopy and lithotripsy patients' remembered pain was predicted by the peak and the final moments and not by the duration or the total, real-time discomfort and its recollection coming apart in the field. The Living against the Score.                                                                     |
-| **Redelmeier, Katz and Kahneman**                   | "Memories of Colonoscopy: A Randomized Trial" (_Pain_, 2003)                                                                                    | **The field confirmation and the benevolent edge**: extending a colonoscopy by briefly leaving the scope in at low discomfort gave a gentler ending, improved the remembered experience, and raised patients' willingness to return, a kinder close bettering the memory though it added total discomfort. The Return, benevolent. |
+| **Redelmeier, Joel Katz and Kahneman**              | "Memories of Colonoscopy: A Randomized Trial" (_Pain_, 2003)                                                                                    | **The field confirmation and the benevolent edge**: extending a colonoscopy by briefly leaving the scope in at low discomfort gave a gentler ending, improved the remembered experience, and raised patients' willingness to return, a kinder close bettering the memory though it added total discomfort. The Return, benevolent. |
 | **Kahneman**                                        | _Thinking, Fast and Slow_ (2011); the experiencing self and the remembering self                                                                | **The two selves**: the self that lives moment to moment and the self that keeps the score and chooses value the same episode differently, and decisions serve the remembering self, so remembered utility governs choice over experienced utility. The Living, the Score, the Return.                                             |
 
 ## Restrictions

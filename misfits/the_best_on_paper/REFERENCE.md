@@ -2,7 +2,7 @@
 concept: "The Optimizer's Curse (post-decision surprise; selection on noisy estimates)"
 field: "Measurement, cognition, and inquiry"
 source: 'Smith & Winkler, "The Optimizer''s Curse" (Management Science, 2006)'
-updated: "2026-07-21"
+updated: "2026-08-28"
 ---
 
 # The Best on Paper: Reference
@@ -43,7 +43,7 @@ The phenomenon in theory, and the research spine beneath it.
 
 | Source                          | Key Work / Event                                                                                                    | Scope                                                                                                                                                                                                                                                                                    |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Smith & Winkler**             | "The Optimizer's Curse: Skepticism and Postdecision Surprise in Decision Analysis" (_Management Science_, 2006)     | **The origin and the name**: choosing the option with the highest of noisy but unbiased estimates biases the chosen estimate high, so the realised value on average disappoints, and the Bayesian remedy is to shrink estimates toward the prior. The play's governing law. The Letdown. |
+| **James Smith & Winkler**       | "The Optimizer's Curse: Skepticism and Postdecision Surprise in Decision Analysis" (_Management Science_, 2006)     | **The origin and the name**: choosing the option with the highest of noisy but unbiased estimates biases the chosen estimate high, so the realised value on average disappoints, and the Bayesian remedy is to shrink estimates toward the prior. The play's governing law. The Letdown. |
 | **Harrison & March**            | "Decision Making and Postdecision Surprises" (_Administrative Science Quarterly_, 1984)                             | **The surprise**: choosing the best-estimated alternative yields a systematic postdecision disappointment, the realised value falling below the estimate that selected it, named before the Bayesian correction. The Overstatement.                                                      |
 | **Francis Galton**              | "Regression towards Mediocrity in Hereditary Stature" (_Journal of the Anthropological Institute_, 1886)            | **The regression**: a selected extreme value regresses toward the mean on realisation, the statistical law by which the flattered estimate's outcome returns toward the truth it departed from. The Error.                                                                               |
 | **Stein; James & Stein**        | "Inadmissibility of the Usual Estimator..." (Stein, 1956); "Estimation with Quadratic Loss" (James and Stein, 1961) | **The shrinkage**: pulling three or more estimates toward a common mean dominates taking them at face value, the statistical form of the remedy that shrinks the boldest reading back toward the prior. The Valuation.                                                                   |
