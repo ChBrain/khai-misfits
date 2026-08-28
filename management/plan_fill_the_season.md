@@ -7439,19 +7439,29 @@ makes it independent.**
       The two bare `Kim` cells were named on this lane per the Wilson precedent, so the declaration that follows
       owes nothing. **Vetocracy was cut on a stronger test than the slate proposed**: every change in this play is
       approved, so the count of blockers is not merely reducible to one, it is irrelevant.
-- [ ] [P2] The Unowned Seam (multi-supplier service integration; the gap between two scopes): an end-to-end
-      service is delivered by several suppliers, each with a defined scope and a target it meets, and the failure
-      lands in the handoff between two scopes that no contract names, so every supplier is correct to say it is
-      not theirs and nobody is in breach. **Who pays is the user whose transaction failed, with no remedy
-      available.** **Distinct from Everybody's Business on the sharpest test**: stipulate that every supplier is
-      eager to act and nobody is waiting for anybody else, and this stands entire, because **they are not
-      unwilling but unentitled**, the seam sitting outside every scope, mandate and funding line. **Distinct from
-      Ninety-Six Times Eight**: stipulate zero attenuation, every stage passing everything it receives, and this
-      is unchanged, because nothing is lost in series and the failure is a region no stage covers.
-      **The precondition is a spine, and the obvious one is closed**: incomplete-contract theory, Hart and Moore,
-      is already **Over a Barrel**'s and the shared-work wall forbids taking it, so this stands only if it can be
-      warranted from the service-integration literature or from a practitioner body of knowledge in its own
-      right. **Drop the line rather than stretch a neighbouring spine over it.**
+- [x] [P2] The Unowned Seam: **struck, and struck twice over.** The line's precondition was a spine that is not
+      incomplete-contract theory, and it offered two places to look: the service-integration literature, or a
+      practitioner body of knowledge in its own right. Neither survives, and the second fails in a way worth
+      keeping.
+      **There is no academic spine.** The nearest candidates are about something else: the hollow state is about
+      the state's accountability being blurred across a contracted network, which is an oversight problem and
+      not a region of work that no scope covers, and the house's own **Boundary Critique** and **Hyrum's Law**
+      sit closer than the line knew. Hyrum's is the sharpest neighbour and runs the **opposite** way: there the
+      effective contract is wider than the written one, since everything observable becomes depended on, and here
+      the union of written contracts is narrower than the service. That is a real distinction and it is not a
+      spine.
+      **And the practitioner body of knowledge is the remedy, not the mechanism.** Service integration and
+      management exists precisely to remove this harm: its defining move is a service integrator holding a single
+      point of end-to-end accountability across providers, and managing the gaps and overlaps between them is
+      the named job. So the settlement is available, standard and sold, and it **does not cost the thing the
+      decomposition was for**: the multi-supplier ecosystem is kept and an owner is added. That is a no-hero
+      failure, and it is the second in three passes.
+      **The rule this teaches retires the escape hatch the line was leaning on.** A slate line that offers _or a
+      practitioner body of knowledge in its own right_ as its fallback spine should be read as a warning rather
+      than a reprieve, because **a practitioner discipline is organised around remedies and not around
+      mechanisms**: it exists because somebody is paid to fix the thing, so finding one is evidence that the
+      thing is fixable. The two questions are the same question asked from opposite ends, and the practitioner
+      answer arrives first. Check what the discipline sells before treating it as a warrant.
 
 **The intra-misfit title collision now has a shape, after four of them in five misfits, and the shape is not the
 one first recorded.** It was noted as an authoring trap after two misfits named their hinge plot with the play's
@@ -8019,3 +8029,23 @@ left to review**` for exactly this, and those key nothing, because the build onl
       cell means, the house builds something that finds it and leaves the deciding to a person; where a defect is
       a computation that can be checked, the house builds a wall.** A non-person key is the first kind. A
       declared surname left bare is the second.
+
+**The slate is down to one open line, and that is the finding this pass ends on.** Three of the last five passes
+were strikes, and none of them was a bad candidate carelessly slated: each died on a precondition an earlier pass
+had written onto it deliberately. The Boiling Crisis had no operator. Chosen for Not Answering had a free
+settlement. The Unowned Seam had neither a spine nor a bind. **The preconditions are working, and a working
+precondition empties a queue faster than authoring does**, because a line that survives its gate becomes one
+misfit and a line that fails it becomes none.
+
+**So the next pass is a scouting pass and not an authoring one**, and it should be costed that way rather than
+begun as an attempt to author. The one line left, The Middle Is the Worst Setting, carries a corroboration
+precondition that no amount of wanting will discharge: its inversion is also somebody's product, and the warrant
+needs a source with nothing to sell.
+
+**And two of the three strikes failed the same test, which is now the cheapest one to run first.** Chosen for Not
+Answering and The Unowned Seam both died because a discipline exists whose job is the candidate's remedy, and in
+both cases finding that discipline took a single search. **Run the no-hero test before the dedup**, at least
+where the candidate's harm is one that somebody could plausibly be paid to fix: the dedup costs several scans and
+answers coverage, and this costs one search and answers whether there is anything to cover. The house's stated
+order, dedup then literature, was written for candidates whose harm nobody sells a cure for, and it is still
+right for those.
