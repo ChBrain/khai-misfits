@@ -7057,11 +7057,24 @@ is owed and is not discharged here.
       operator**: the house standard wants locally rational conduct, and this needs the reasonable act, turning the
       power up because the surface still reads cool, to be the act that crosses the threshold. **Drop the line if
       the literature does not carry that operator**, rather than casting one to fit.
-- [ ] [P2] Sequential Attention to Goals (Cyert & March, _A Behavioral Theory of the Firm_, 1963): an organisation
+- [x] [P2] Sequential Attention to Goals (Cyert & March, _A Behavioral Theory of the Firm_, 1963): an organisation
       with conflicting goals does not trade them off, it attends to them one at a time as each becomes pressing,
       so it oscillates between them and never rests at a compromise either faction would have signed.
-      **Who pays is both factions.** **The cut against Fixes that Fail and Accidental Adversaries must be written
-      before authoring**, and the canon exit checked, since the source is a foundational text of its field.
+      **Who pays is both factions.** The two named cuts were written and both hold: switch off Fixes that Fail's
+      delayed side-effect, stipulating that every programme does exactly what it promises, and this is untouched,
+      since nothing degrades and the harm is that no interior point is occupied; switch off Accidental
+      Adversaries' mutual misattribution, stipulating perfect goodwill between the constituencies, and it stands
+      entire, since the alternation is performed by **one** actor and neither side acts on the other at all.
+      Four more were owed and were not on the line: The Cobweb Theorem (no lag, nothing forecast), The Bullwhip
+      Effect (no chain, nothing amplified), Priority Inversion (nothing held, nothing blocked) and Coup-Proofing,
+      which is the sharpest and runs the other way round, since coup-proofing **settles** on a frontier and stays
+      there while the whole cost here is in the not settling. The canon exit was checked and did not arise: the
+      source is foundational and **the house had never cited it**, and all six works scanned clear.
+      Staged as **Whichever Is Behind**, with the release turning out to be the bend the line had not named,
+      that the trigger to attend is a shortfall so the trigger to stop is success rather than safety, which means
+      a goal is put down in the state that starts its decay. Cut to a housing authority holding development
+      against condition, and cut hard away from a too-small capital programme, since the play runs identically on
+      a larger pot: what is scarce is the capacity to decide differently, not the money.
 
 **One candidate is recorded as held rather than slated, and the reason is the annexation test.** The **convoy
 effect**, a slow lock-holder gathering a train behind it that persists after the holder has released, probed
@@ -8297,9 +8310,11 @@ pairs are named in the scan's output and include Saving Face against The Front o
 against Metric Fixation on Goodhart's Law, The Long Calm against Debt-Deflation on the financial instability
 hypothesis, and The Streetlight Effect against The Colour of the Bike Shed on Models of Man.
 
-- [ ] [P2] Read the thirteen unexempted compound collisions: run `--compound`, open each pair, and record for
+- [x] [P2] Read the thirteen unexempted compound collisions: run `--compound`, open each pair, and record for
       each whether it is a background citation, a contrast row that should carry a marker, a canon text that
-      should be declared, or a genuine shared spine. **This is bookkeeping with a real chance of a finding at the
+      should be declared, or a genuine shared spine. **Done, and it found more than a list**: the wall was
+      stricter than the rule, ten pairs were a spine against honest background, the vocabulary to say so was
+      built, and the two determinations were put. **This is bookkeeping with a real chance of a finding at the
       end of it**, since the shared-work wall has never once been able to see these and the house's headline
       claim is that it holds at zero shared works. That claim is true of what the wall can see. **Do not repair
       cells wholesale**: the fix for a genuine overlap is the four-row table in the contract, and the fix for a
