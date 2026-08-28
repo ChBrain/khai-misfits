@@ -8062,33 +8062,29 @@ Bottom, which is capital moving between jurisdictions, and nothing about the mov
 Given how much of the house is about somebody being right at every step, that absence is a finding rather than an
 oversight of taste.
 
-- [ ] [P2] The Portable Credential (health worker migration; the training that certifies is the training that
-      exports): a country trains health workers to an internationally recognised standard, because a standard
-      that is not recognised is not a standard and because its own patients are owed one. **The same recognition
-      is what a foreign employer can read**, so the act that makes the training good is the act that makes the
-      trained employable elsewhere, and the countries that invest most in training lose most. **Who pays is the
-      population that funded it**, and nobody in the chain is doing anything but the right thing: the worker who
-      leaves is right, the receiving system is right to accept them, and the school is right to teach to the
-      standard.
-      **The no-hero test was run first, which is this register's own new rule, and this is the first candidate it
-      has cleared rather than killed.** A remedy exists and is famous: the WHO Global Code of Practice on the
-      International Recruitment of Health Personnel, adopted by 193 states in 2010. It is **soft law, voluntary
-      and unenforced**, and the sub-Saharan-Africa-to-United-States physician migration it addressed did not slow
-      after it. Making it binding is the obvious fix and is the bind: binding means restricting a person's right
-      to leave, or a transfer no receiving country has agreed to fund. **So the discipline exists, sells nothing,
-      and its instrument is known not to work**, which is exactly the opposite of what killed The Unowned Seam
-      and is why the rule is a test rather than a filter.
-      **Two cuts written, and they hold on different grounds.** Against **The Dead Sea Effect**: switch off the
-      talent differential, stipulating that every worker is equally able, and this stands, because **it is the
-      certificate and not the ability that a foreign employer can read**, so the portable leave and the
-      unportable cannot while talent is held flat. Against **Ready on the First Day**, which stages the
-      specificity trade: switch off the adaptability cost entirely, stipulating a leaver who adapts perfectly for
-      twenty five years, and this is untouched, because **the payer is the funding country and not the trained
-      person**, and the clock is a labour market rather than a career.
-      **Two preconditions before slating it P1.** The spine must be chosen and the harm is **contested**: there is
-      a substantial contrarian literature arguing the brain-drain loss is overstated, and a warrant here has to
-      carry that as a row rather than argue past it. And the distinctive vector must survive the reading:
-      the claim is **credential portability** and not wage differentials, because a wage-differential play is a
-      labour-market play the house may already hold in another form, while a portability play turns on the
-      accreditation being the export licence. `Clemens`, `Bhagwati`, `Mills`, `Docquier`, `Rapoport` and
-      `Kangasniemi` all scanned clear.
+- [x] [P2] The Portable Credential: **staged as Good Enough to Leave**, with both preconditions discharged and
+      one of them changing the play.
+      **The contested harm resolved in the play's favour and is staged rather than answered.** Beine, Docquier and
+      Rapoport establish both halves: skilled migration prospects do raise human capital formation, so the
+      counter-current is real, and netted across a hundred and twenty seven countries there are more losers than
+      winners with the losers losing more. So the brain gain gets a seat, a persona, a plan, a process, a piece
+      and a plot of its own, which is the honest handling of a case against the play: **a warrant that omitted it
+      would be making a larger claim on less evidence.**
+      **The second precondition changed the shape, which is why it was worth running.** The line said the
+      distinctive vector is credential portability rather than wage differentials. Reading the recognition
+      literature found portability is not free: internationally trained physicians face licensing examinations
+      and repeat residencies, recorded as de-skilling. That looked at first like a defeater and is the opposite.
+      **It closes the last exit.** The obvious remedy once the mechanism lands is to want recognition made
+      harder abroad, and a hard gate does not return the clinician: it produces somebody who has practised for a
+      decade, sitting examinations, and not practising at all. **Both settings of the dial cost the funding
+      country the same doctor**, and the dial is held by a board whose statute correctly excludes them.
+      **And a fourth cut had to be written that the slate had not, because the shape moved.** No One's Remit
+      looked like the annexer once the gate entered the play, each mandate honest and narrow. Broaden every
+      remit, stipulating the receiving board must weigh the funding country, and this survives: the clinician
+      leaves for wages, equipment and a career rather than for the gate, so a wider remit changes whether the
+      training is **used** and not whether it goes. Running that cut is what showed the gate is not the
+      mechanism, which is the reading the play needed and the slate line did not have.
+      **The warrant marks one claim as the house's own definition rather than a citation**, which is unusual and
+      is stated in Restrictions: that checkability by a stranger is the whole content of a certification, and so
+      quality and portability are one property, is a definition doing load-bearing work. Everything measured
+      rests on the rows; that rests on what accreditation is.
