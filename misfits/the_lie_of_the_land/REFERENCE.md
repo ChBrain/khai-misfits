@@ -2,7 +2,7 @@
 concept: "The Ecological Trap (maladaptive habitat selection; the attractive sink)"
 field: "Ecology, evolution, and public health"
 source: "Schlaepfer, Runge & Sherman (TREE, 2002); Robertson & Hutto (2006)"
-updated: "2026-07-03"
+updated: "2026-08-28"
 ---
 
 # The Lie of the Land: Reference
@@ -65,7 +65,7 @@ The phenomenon in the field, and the research spine beneath it.
 | Source                          | Key Work / Event                                                                                                                  | Scope                                                                                                                                                                                                 |
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Schlaepfer, Runge & Sherman** | "Ecological and Evolutionary Traps" (_Trends in Ecology & Evolution_, 2002)                                                       | **The spine**: cue-based habitat selection, adaptive when cue tracks quality, and its decoupling under human-induced rapid environmental change. The Cue, The Decoupling.                             |
-| **Robertson & Hutto**           | "A Framework for Understanding Ecological Traps and an Evaluation of Existing Evidence" (_Ecology_, 2006)                         | **The mechanisms**: equal-preference and severe traps, the attractive cue persisting after quality falls, the poor site preferred even above the good. The Quality, The Preference, The Apparent Fit. |
+| **Bruce Robertson & Hutto**     | "A Framework for Understanding Ecological Traps and an Evaluation of Existing Evidence" (_Ecology_, 2006)                         | **The mechanisms**: equal-preference and severe traps, the attractive cue persisting after quality falls, the poor site preferred even above the good. The Quality, The Preference, The Apparent Fit. |
 | **Battin**                      | "When Good Animals Love Bad Habitats: Ecological Traps and the Conservation of Animal Populations" (_Conservation Biology_, 2004) | **The attractive sink**: a low-quality site drawing settlers below replacement by the strength of its draw. The Attractive Sink.                                                                      |
 | **Dwernychuk & Boag**           | "Ducks Nesting in Association with Gulls: an Ecological Trap?" (_Canadian Journal of Zoology_, 1972)                              | **The field case**: ducks led by a gull colony to nest where they fare worst, the classic empirical trap. The Attractive Sink.                                                                        |
 | **Boundary of the effect**      | the cue must be both still attractive and now decoupled; updatable cues, or slow change, re-track quality                         | The honest note: where the organism can re-learn the cue or read quality directly, or change is slow enough to track, no trap forms and the ground stops lying.                                       |

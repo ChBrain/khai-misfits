@@ -2,7 +2,7 @@
 concept: "The Rentier State (resource revenue and the severed tax bargain)"
 field: "Markets, money, and economic equilibria"
 source: "Mahdavy (1970); Beblawi & Luciani"
-updated: "2026-07-24"
+updated: "2026-08-28"
 ---
 
 # No Need to Ask: Reference
@@ -68,7 +68,7 @@ The phenomenon in practice, and the research spine beneath it.
 | **Mahdavy**           | "The Patterns and Problems of Economic Development in Rentier States: The Case of Iran" (1970) | **The coinage**: names the rentier state, one living on external rent it receives rather than revenue it extracts, so the state is loosed from the domestic economy and from the need to tax those it governs. The Rents, the Severed Link.                                                                        |
 | **Beblawi & Luciani** | _The Rentier State_ (1987)                                                                     | **The spine**: develops rentier-state theory, the state that distributes rather than extracts, its autonomy from society bought by rent, and the corollary that where there is no taxation there need be no representation. The Severed Link, the Handout, the Unasked.                                            |
 | **Karl**              | _The Paradox of Plenty: Oil Booms and Petro-States_ (1997)                                     | **The fiscal sociology**: how dependence on oil rents shapes the very institutions of the petro-state, foreclosing the capacities a taxing state must build and locking in a distributive, patronage-fed political order. The Handout, the Hollow Institutions.                                                    |
-| **Ross**              | "Does Oil Hinder Democracy?" (_World Politics_, 2001); _The Oil Curse_ (2012)                  | **The evidence and the channels**: cross-national association of oil wealth with authoritarian durability, worked through a rentier (low-tax) effect, a repression effect, and a modernisation effect, and carefully bounded to oil and to particular conditions. The Unasked, the Hollow Institutions, the bound. |
+| **Michael L. Ross**   | "Does Oil Hinder Democracy?" (_World Politics_, 2001); _The Oil Curse_ (2012)                  | **The evidence and the channels**: cross-national association of oil wealth with authoritarian durability, worked through a rentier (low-tax) effect, a repression effect, and a modernisation effect, and carefully bounded to oil and to particular conditions. The Unasked, the Hollow Institutions, the bound. |
 
 ## Restrictions
 

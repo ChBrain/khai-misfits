@@ -2,7 +2,7 @@
 concept: "The Innovator's Dilemma (disruption; competency trap)"
 field: "Markets, money, and economic equilibria"
 source: "Christensen, _The Innovator's Dilemma_ (1997)"
-updated: "2026-07-06"
+updated: "2026-08-28"
 ---
 
 # The Success Trap: Reference
@@ -44,7 +44,7 @@ The phenomenon in practice, and the research spine beneath it.
 | **March**                                     | "Exploration and Exploitation in Organizational Learning", _Organization Science_ (1991)                                        | The structural tension: exploitation reliably out-competes exploration for resources, so a firm optimises itself into fragility. The mechanism.                                                                                                  |
 | **Barbara Levitt & March; Levinthal & March** | "Organizational Learning", _Annual Review of Sociology_ (1988); "The Myopia of Learning", _Strategic Management Journal_ (1993) | The **naming**: the competency trap, favourable experience with an inferior routine crowding out the better one (Levitt & March), and the myopia by which learning over-weights the near and past success (Levinthal & March). The Success Trap. |
 | **Leonard-Barton**                            | "Core Capabilities and Core Rigidities: A Paradox in Managing New Product Development", _Strategic Management Journal_ (1992)   | The capabilities that make a firm strong harden into rigidities that trap it: why the retreat upmarket feels like focus.                                                                                                                         |
-| **Henderson & Clark**                         | "Architectural Innovation", _Administrative Science Quarterly_ (1990)                                                           | Why established firms miss reconfigurations that do not fit their existing knowledge and screening structures, even when each component is familiar.                                                                                             |
+| **Henderson & Kim Clark**                     | "Architectural Innovation", _Administrative Science Quarterly_ (1990)                                                           | Why established firms miss reconfigurations that do not fit their existing knowledge and screening structures, even when each component is familiar.                                                                                             |
 | **Theodore Levitt**                           | "Marketing Myopia", _HBR_ (1960)                                                                                                | Defining the business by the product rather than the job it does for the customer, so the firm optimises the wrong thing and cannot see the substitute climbing from below.                                                                      |
 | **Practitioner**                              | "sustaining versus disruptive", low-end and new-market footholds, jobs-to-be-done (strategy practice)                           | The naming: a good-enough product entering beneath notice and improving upward until it is enough for the mainstream.                                                                                                                            |
 

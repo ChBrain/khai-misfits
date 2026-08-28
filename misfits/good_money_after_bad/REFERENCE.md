@@ -2,7 +2,7 @@
 concept: "Escalation of Commitment (sunk cost; throwing good money)"
 field: "Measurement, cognition, and inquiry"
 source: 'Staw, "Knee-Deep in the Big Muddy" (1976)'
-updated: "2026-07-01"
+updated: "2026-08-28"
 ---
 
 # Good Money After Bad: Reference
@@ -42,7 +42,7 @@ The phenomenon in practice, and the research spine beneath it.
 | **Kahneman & Tversky** | "Prospect Theory: An Analysis of Decision under Risk", _Econometrica_ (1979)                                                              | **Loss aversion** and risk-seeking in the domain of losses: people gamble on one more phase to avoid booking a sure loss. The Ratchet.                                           |
 | **Teger**              | "Too Much Invested to Quit" (1980)                                                                                                        | The **entrapment** dynamic: the receding payoff and the rising cost of quitting that keep a party committed past the point of sense. The Receding Finish.                        |
 | **Festinger**          | "A Theory of Cognitive Dissonance" (1957)                                                                                                 | **Self-justification**: the mind that made the call is the last that can admit it was wrong, because doing so indicts itself. The Reputation Stake.                              |
-| **Ross & Staw**        | "Organizational Escalation and Exit: Lessons from the Shoreham Nuclear Power Plant", _Academy of Management Journal_ (1993)               | **Institutional escalation**: project, psychological, social, and structural determinants keep organisations committed, and the gate that should exit does not. The Green Light. |
+| **Jerry Ross & Staw**  | "Organizational Escalation and Exit: Lessons from the Shoreham Nuclear Power Plant", _Academy of Management Journal_ (1993)               | **Institutional escalation**: project, psychological, social, and structural determinants keep organisations committed, and the gate that should exit does not. The Green Light. |
 | **Practitioner**       | stage-gate and phase-gate governance; "zombie projects" (project-management practice)                                                     | The naming: projects that a gate is built to kill and re-approves instead, alive on history and dead on merit.                                                                   |
 
 ## Restrictions

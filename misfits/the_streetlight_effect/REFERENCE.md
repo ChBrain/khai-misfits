@@ -2,7 +2,7 @@
 concept: "The Streetlight Effect (the drunkard's search)"
 field: "Measurement, cognition, and inquiry"
 source: "Kaplan, _The Conduct of Inquiry_ (1964)"
-updated: "2026-07-02"
+updated: "2026-08-28"
 ---
 
 # The Streetlight Effect: Reference
@@ -36,7 +36,7 @@ The phenomenon in practice, and the research spine beneath it.
 
 | Source             | Key Work / Event                                                                                                                                                                        | Scope                                                                                                                                          |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Kaplan**         | _The Conduct of Inquiry_ (1964), "the principle of the drunkard's search"                                                                                                               | **The spine and the parable**: the keys sought under the lamp because the light is better there. The play's governing law.                     |
+| **Abraham Kaplan** | _The Conduct of Inquiry_ (1964), "the principle of the drunkard's search"                                                                                                               | **The spine and the parable**: the keys sought under the lamp because the light is better there. The play's governing law.                     |
 | **Freedman**       | "Why Scientific Studies Are So Often Wrong: The Streetlight Effect" (_Discover_, 2010)                                                                                                  | **The name**: research that studies the tractable question rather than the important one. The Easy Search, the False Find.                     |
 | **Simon**          | "A Behavioral Model of Rational Choice" (1955); _Models of Man_ (1957)                                                                                                                  | **The engine**: bounded rationality and satisficing, search conducted under the cost of looking. The Easy Search, the cost gradient.           |
 | **Yankelovich**    | the McNamara fallacy, as named in _Corporate Priorities_ (1972)                                                                                                                         | **The measurable over the important**: measuring what is easily measured and dismissing the rest as unreal. The Light, the False Find.         |
