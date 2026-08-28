@@ -8599,13 +8599,16 @@ left to review**` for exactly this, and those key nothing, because the build onl
       cell naming one scholar twice must name them **both times**, or be rewritten so it names them once, which
       is what was done. **This is the first defect found in a repair rather than in the house**, and it surfaced
       only because the ordering rule forces a local declaration before the governance pass.
-- [ ] [P2] Declare the eleven, which is governance and comes next. Probed locally and clean: zero unresolved,
-      zero unreachable forms. `Ross` is the one to write carefully, since `Michael L` must precede `Michael` or
-      the shorter form absorbs the longer and two people become one.
-- [ ] [P2] Declare `Deirdre` under `Wilson` **before** authoring The Ear It Was Heard With. `Wilson` is now a
-      declared surname, so the moment a cell cites Sperber and Wilson the occurrence is unresolved and `npm test`
-      fails. This is the contract's third ordering row, already declared and meeting a new namesake, and it is
-      the first live instance of it.
+- [x] [P2] Declare the eleven: done, with `Deirdre` added under `Wilson` in the same pass. Eighty declared
+      surnames, zero unresolved, zero unreachable, and `--undeclared-namesakes` now reports nothing at all.
+      `Ross (Michael)` and `Ross (Michael L)` key apart, which is the forms wall doing the one job nothing else
+      can do.
+- [x] [P2] Declare `Deirdre` under `Wilson` before authoring The Ear It Was Heard With: done, in the same pass,
+      and it is the contract's third ordering row taken at face value. `Wilson` is a declared surname, so the
+      first cell citing Sperber and Wilson would be an unresolved occurrence and a red build, and the table says
+      the declaration goes first there. **`Deirdre` is therefore declared against no cell, on purpose.** An
+      unused form is invisible to every wall, since `--forms` reports unreachable and not unused, and that
+      asymmetry is exactly what makes declaring ahead safe where naming a cell ahead would not be.
 - [ ] [P2] Decide whether a non-person keyed as a scholar earns a wall of its own. It is the fifth instance of
       the file's own shape and the first where the key is not a person at all, so a check is arguable; against
       it, the closed list a `NON_AUTHOR` needs is exactly the kind of list the house has twice refused to
