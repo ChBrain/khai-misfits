@@ -7048,15 +7048,42 @@ is owed and is not discharged here.
       information processing restricted and stress raised, influence **not** concentrated. The play carries the gap.
       The dedup that decided it is Closing Ranks, and it separates by **removing the group outright**: cue
       utilisation narrows in one person alone, where groupthink needs a group and its wish to remain one.
-- [ ] [P2] The Boiling Crisis (departure from nucleate boiling; Nukiyama 1934, Kutateladze 1948, Zuber 1959):
-      raise the heat flux on a boiling surface and transfer improves, up to a critical flux at which the bubbles
-      merge into an insulating vapour film and transfer collapses, so the surface temperature jumps by hundreds of
-      degrees **at the moment more cooling is being asked of it**. **Distinct from Faster Than It Can Cool**, whose
-      quantity is a self-accelerating exotherm: stipulate no reaction at all, a plain electric heater, and this is
-      unchanged, because nothing here generates heat and it is the **removal** that fails. **The precondition is an
-      operator**: the house standard wants locally rational conduct, and this needs the reasonable act, turning the
-      power up because the surface still reads cool, to be the act that crosses the threshold. **Drop the line if
-      the literature does not carry that operator**, rather than casting one to fit.
+- [x] [P2] The Boiling Crisis (departure from nucleate boiling; Nukiyama 1934, Kutateladze 1948, Zuber 1959):
+      **struck on its own precondition, and the strike found the better line.** The precondition was that the
+      literature carry an operator whose reasonable act crosses the threshold. It does not. The critical heat flux
+      is handled everywhere as a **design limit** rather than as an act: margin to it is engineered, and in a
+      reactor a protection system enforces it, so the "power might accidentally increase" case is a design-basis
+      scenario and not anybody's conduct. Where a real operator does appear, a boiler fired to load across a
+      fouled tube, the mechanism changes under the play's feet: it becomes **an unmeasured warning**, since
+      nothing reads waterwall tube metal temperature, which is a measurement play in a house already a quarter
+      measurement. The gate did what it was written to do.
+      **And a fault in the line's own sentence, worth keeping because it is the kind that survives a scan.** It
+      said the temperature jumps "at the moment more cooling is being asked of it". At the critical flux the
+      surface is being asked to **transfer more heat**, not to cool more; the two were conflated when the line
+      was written, and the conflation is what made the inversion sound sharper than it is. **A candidate can be
+      physically correct and still be about a different thing than its own sentence says**, and no dedup catches
+      that, because the dedup reads the sentence.
+- [ ] [P2] The Middle Is the Worst Setting (the quench vapour blanket; Leidenfrost; Kobasko on intensive
+      quenching; Totten and Tensi on quenchant characterisation): the replacement the strike above turned up, in
+      the same physics and with the operator the struck line lacked. Steel must be cooled through a critical rate
+      to transform, so the shop picks a quench, and both extremes look risky: too slow and the part does not
+      harden, too fierce and everybody believes it will crack. **The cautious middle is the regime where the
+      vapour blanket lives**, and the blanket does not fail gently: it persists unevenly and collapses
+      sporadically, and the local heat-transfer spikes at collapse are what distort and crack the part. Kobasko's
+      result is the inversion stated plainly, that eliminating film boiling by cooling **more** intensely and
+      uniformly removes quench cracking and reduces distortion, so the prudent moderation is the harmful setting
+      and both ends are safer than the middle. **Who pays is whoever needed the part**, and the operator is doing
+      the textbook careful thing.
+      **Two cuts already hold.** Against **Faster Than It Can Cool**: stipulate no reaction at all, an inert
+      billet, and this is unchanged, since nothing generates heat and it is the removal that misbehaves; run it
+      the other way and thermal runaway is untouched by there being no film. Against the struck line above: that
+      one needed an operator and had none, and this one's operator is the whole of it.
+      **The precondition is corroboration, and it is a real risk.** Intensive quenching is a **promoted process**
+      and its main advocate is also the principal author of the literature establishing the claim, so the spine
+      currently rests on one interested source. **Do not author it until the inversion is corroborated from
+      sources independent of the advocate**, since a house misfit resting on a single advocate's commercial
+      claim is a warrant that cannot be defended, and drop the line rather than soften the claim to fit what can
+      be shown.
 - [x] [P2] Sequential Attention to Goals (Cyert & March, _A Behavioral Theory of the Firm_, 1963): an organisation
       with conflicting goals does not trade them off, it attends to them one at a time as each becomes pressing,
       so it oscillates between them and never rests at a compromise either faction would have signed.
@@ -8447,3 +8474,24 @@ one cell. **Do not take that advice on these two cells.** Splitting Sick Enough 
 Rare Disease Test's 1973 paper, onto its own row makes each a first-work collision, which the kit's wall reads,
 and the kit's wall honours neither `supportingMarkers` nor anything that could cover the Kahneman and Tversky
 case. The build would fail on three good warrants. The general advice is right and has two named exceptions.
+
+**The forty-eighth pass was a strike, and the strike is the output.** No misfit was authored and the register is
+the deliverable, which is worth saying plainly because a pass that ends in a struck line reads like a pass that
+failed. It was not: the line had a precondition written on it by an earlier pass, the precondition was tested,
+and it did not hold. **A gate that never fires is not a gate**, and this is the first slate precondition to
+actually kill its own line.
+
+**The gate cost three searches and would have cost thirty-six files.** The Boiling Crisis looked safe by every
+cheap instrument available: all nine of its candidate surnames scanned clear, its work-level checks were clear,
+its field was the second-largest rather than the saturated one, and the physics was exact. **None of those
+instruments can see a missing operator**, because the operator is a claim about who acts and the scans are claims
+about who is cited, so a candidate can pass every wall the house owns and still have nobody in it.
+
+**And a new precondition shape, which the house has not had to write before.** The replacement candidate's spine
+rests on a **promoted commercial process whose principal advocate is also the principal author of its
+literature**. That is not the reading gap, which is environmental and symmetrical: it is a case where the
+accessible sources are accessible precisely because somebody is selling the conclusion. The existing rule, cite
+for the question addressed and corroborate from several independent reports, is the right rule and is **not
+sufficient here**, because independence is the thing in question rather than the number of reports. So the line
+carries an explicit corroboration precondition, and the general form is worth having: **where a candidate's
+inversion is also somebody's product, the warrant needs a source with nothing to sell before it is authored.**
