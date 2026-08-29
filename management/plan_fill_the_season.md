@@ -8461,10 +8461,13 @@ lifetime reproductive success in the wild; Christie, Marine, French and Blouin s
 from inbreeding by bounding what inbreeding could account for. **That is the hardest evidence the mechanism has
 anywhere**, and it is why a warrant standing on one paper should not go on standing on one paper.
 
-- [ ] [P1] Extend **Bred for the Ark**'s warrant with the salmonid supportive-breeding evidence: Araki, Cooper &
+- [x] [P1] Extend **Bred for the Ark**'s warrant with the salmonid supportive-breeding evidence: Araki, Cooper &
       Blouin (Science, 2007) and Christie, Marine, French & Blouin (PNAS, 2012), as Origin rows and no cast. Ships
       package content, so a **patch** changeset, and it rebuilds `docs/SCIENCE.md` and `REFERENCES.md`. The
-      declaration below lands first.
+      declaration below lands first. **Struck: three rows, not two**, the carry-over paper (Biology Letters, 2009)
+      added on verification because it is what makes the loss structural rather than transient. `REFERENCES.md`
+      did **not** rebuild, since its tables are keyed on `concept`, `field` and `source` and none of those moved:
+      **an Origin row is not a concordance change**, which is worth knowing before costing the next one.
 
 **And the declaration goes before the warrant, which is the ordering table's third row and the opposite of the
 `Campbell` case.** `Cooper` is **already declared**, carrying Elisabeth J and Graham, so it is under the namesake
@@ -8489,3 +8492,24 @@ present behaviour; the arrow is reversed and the party bearing the cost is diffe
 intertemporal response to a credible announcement. **What would bring it back is a warrant resting on the
 preannouncement literature rather than on the anecdote**, and a switch-off showing the loop survives with Fair
 Warning's engine off, which was not attempted here because the sources were not read.
+
+**The extension landed and it retired two of the warrant's own bounds, which is the part that makes it more than
+padding.** Bred for the Ark's Restrictions used to say that much of the quantitative work rests on **laboratory
+model organisms**, and that genetic and rearing effects are **hard to separate in practice**. The Hood River
+pedigree is a wild vertebrate measured in its own river, and the carry-over into wild-born descendants is by
+construction not a rearing effect, so both bounds are struck rather than left standing beside evidence that
+answers them. **A warrant that gains a source and keeps a bound the source closes is telling two stories**, and
+the bound is the one nobody re-reads.
+
+**And the ordering rule paid for itself exactly as costed.** `Cooper` was declared last pass, ahead of any cell
+naming Becky Cooper, and the two new rows resolved to `Cooper (Becky)` on the first build with the namesake wall
+green throughout. Had the cells gone first the build would have failed, and had the declaration been made with the
+cells it would have been one pull request spanning two lanes.
+
+**One number was refused and the refusal is written into the warrant.** The sources report magnitudes and this
+pass could not read them: publisher hosts and the article archive are blocked by the session's egress policy, so
+the bibliography, the study designs and the directions were verified by search and corroborated across independent
+reports, which is the treatment a citation survives and **a number is the one thing that does not**. The Origin
+rows carry the design and the direction and no figure, and the Restrictions say so. `Araki` is likewise left
+**bare on purpose**: two searches gave two different given names and the surname is undeclared, so a bare cell
+merely collates and costs nothing, where a guessed given name would be an assertion about who somebody is.
