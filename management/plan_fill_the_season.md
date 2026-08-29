@@ -8213,3 +8213,59 @@ quantity is **role-similarity**, and the sign is positive. That is the same defe
 on the First Day, arriving in a second form: **a sign that is only true under an unstated condition is a
 malformed declaration that parses.** No gate can see it, and the only defence is to name the quantity the play
 actually turns on rather than the one the harm is usually described by.
+
+**The workspace migration begins, and step 0 of the briefing is the precondition and was treated as one.**
+
+The house takes khai's
+workspace shape: `packages/khai-misfits/` holding the content, a private root holding the gates. Nothing is broken
+flat, and the argument is the cost curve, so the sequence is cultures' order and the first thing in it is proving
+the kit before anything moves.
+
+**The precondition is real and it now holds.** khai-tests 0.3.4 is on the registry, is declared and installed, and
+its policy loaders walk UP from a content root to find `khai-guard.config.json`. That matters because the day the
+content root drops to `packages/khai-misfits`, a loader that looked only beside itself would return defaults:
+canon empties and 32 good warrants become spurious shared-work findings, and 81 declared surnames vanish so the
+namesake wall goes red with the wrong diagnosis. **Proven against this house's own config from a simulated nested
+root**: 32 canon, 10 contrast markers, 3 supporting markers and 81 declared surnames, identical read from the
+config's own directory and from a content root below it.
+
+**One correction to the briefing, made because a precondition proved by reading is not proved.** `findGuardConfig`
+is not a named export of the kit's index; it lives in `guard-config.mjs` and is used internally by
+`loadWorkPolicy` and `scholarPolicy`. **The behaviour is what the migration needs and the behaviour is there**, so
+nothing is blocked, but a check written against the export name would have failed for the wrong reason.
+
+**And the briefing's canary numbers are stale, which is the more useful correction.** It gives four opposed pairs
+and a compound reading of ten background, three canon and two contrast. This tree has **five** opposed pairs, the
+fifth being the axis declarations of the last two passes, and **eighteen** hidden compound works of which one is
+unexempted, the eighteenth arriving with The Ear It Was Heard With. A canary is a before-and-after comparison and
+it must be taken from **this tree at the moment of the freeze**, never copied from a document written before the
+last few passes. The figures below are today's and are to be retaken at step 3.
+
+| Canary                                                 | Flat, at step 0     |
+| ------------------------------------------------------ | ------------------- |
+| index rows / shared works                              | 2071 / 0            |
+| opposed pairs, declared / undeclared                   | 5 / 0               |
+| compound hidden / unexempted                           | 18 / 1              |
+| namesakes unresolved / forms unreachable / suffix keys | 0 / 0 / 0           |
+| misfit directories = registry entries = minor          | 327 / 327 / 0.327.0 |
+| files in the tarball                                   | 11322               |
+
+**The packing wall is written now rather than after the move, and that is the whole of why it is worth writing.**
+`files` names `misfits/**`, and every one of the 327 misfits is a directory of thirty six files, so the box is
+almost entirely subdirectory content and almost none of it is named individually. That is the exact shape that
+hollowed the cultures tongues tarball. **A gate added after the move can only say the new arrangement is
+self-consistent**; added before, it says the two arrangements agree.
+
+**It reads the box through the kit and judges it through the kit**, and the one thing it does locally is ask npm
+the question in the layout that has no workspaces, because `packedFiles` asks with `--workspaces` and npm refuses
+that in a single-package repository. That branch exists until the move and is deleted with it. **`checkPacking`
+is currently vacuous here**, since it judges what a manifest NAMES and this manifest names no members and no
+main; it is wired in anyway, so the day the house declares one the wall is already standing.
+
+**The changeset wall's swap is not cosmetic and is the reason it is in step 0.** It read `package.json`'s own
+`name`, which is the right answer while the house is one package at the root and the **wrong** answer the moment
+it is not: under a private workspace root the top-level name becomes `@chbrain/khai-misfits-workspace`, and a
+changeset naming the package that actually publishes would be flagged as naming a package the workspace does not
+have. **The gate would fail every correct changeset and pass none.** Reading the workspace through the kit is the
+same check in both layouts, which is the point, and private packages are included deliberately: this wall asks
+whether a name exists, and the private root's does.
