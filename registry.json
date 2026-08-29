@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.327.0",
+  "version": "0.328.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -46795,6 +46795,228 @@
           "kind": "process",
           "title": "Starving",
           "taxonomy": "play_the_firefighters_medal.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_fish_came_back",
+      "title": "The Fish Came Back",
+      "description": "A right invented to save a fishery becomes an asset, so the stock's recovery raises the price of getting in.",
+      "members": [
+        {
+          "file": "persona_the_deckhand.md",
+          "kind": "persona",
+          "title": "The Deckhand",
+          "type": "archetype",
+          "taxonomy": "position_entry.md"
+        },
+        {
+          "file": "persona_the_holder.md",
+          "kind": "persona",
+          "title": "The Holder",
+          "type": "archetype",
+          "taxonomy": "position_tenure.md"
+        },
+        {
+          "file": "persona_the_share.md",
+          "kind": "persona",
+          "title": "The Share",
+          "type": "archetype",
+          "taxonomy": "position_transfer.md"
+        },
+        {
+          "file": "persona_the_skipper.md",
+          "kind": "persona",
+          "title": "The Skipper",
+          "type": "archetype",
+          "taxonomy": "position_allocation.md"
+        },
+        {
+          "file": "persona_the_stock.md",
+          "kind": "persona",
+          "title": "The Stock",
+          "type": "archetype",
+          "taxonomy": "position_recovery.md"
+        },
+        {
+          "file": "piece_a_share_is_an_asset.md",
+          "kind": "piece",
+          "title": "A Share Is an Asset",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "piece_nobody_was_taken_from.md",
+          "kind": "piece",
+          "title": "Nobody Was Taken From",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "piece_the_cap_has_a_cousin.md",
+          "kind": "piece",
+          "title": "The Cap Has a Cousin",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "piece_the_price_follows_the_fish.md",
+          "kind": "piece",
+          "title": "The Price Follows the Fish",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "piece_the_race_is_over.md",
+          "kind": "piece",
+          "title": "The Race Is Over",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "pitch_every_sale_was_willing.md",
+          "kind": "pitch",
+          "title": "Every Sale Was Willing",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "place_the_grounds.md",
+          "kind": "place",
+          "title": "The Grounds",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "place_the_harbour.md",
+          "kind": "place",
+          "title": "The Harbour",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "place_the_register.md",
+          "kind": "place",
+          "title": "The Register",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "plan_buy_your_way_in.md",
+          "kind": "plan",
+          "title": "Buy Your Way In",
+          "taxonomy": "position_entry.md"
+        },
+        {
+          "file": "plan_end_the_race.md",
+          "kind": "plan",
+          "title": "End the Race",
+          "taxonomy": "position_allocation.md"
+        },
+        {
+          "file": "plan_keep_the_fishery_here.md",
+          "kind": "plan",
+          "title": "Keep the Fishery Here",
+          "taxonomy": "position_tenure.md"
+        },
+        {
+          "file": "plan_let_it_rebuild.md",
+          "kind": "plan",
+          "title": "Let It Rebuild",
+          "taxonomy": "position_recovery.md"
+        },
+        {
+          "file": "plan_sell_to_the_best_offer.md",
+          "kind": "plan",
+          "title": "Sell to the Best Offer",
+          "taxonomy": "position_transfer.md"
+        },
+        {
+          "file": "play_the_fish_came_back.md",
+          "kind": "play",
+          "title": "The Fish Came Back"
+        },
+        {
+          "file": "plot_a_share_becomes_a_price.md",
+          "kind": "plot",
+          "title": "A Share Becomes a Price",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "plot_and_someone_still_has_to_fish.md",
+          "kind": "plot",
+          "title": "And Someone Still Has to Fish",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "plot_the_derby_stops.md",
+          "kind": "plot",
+          "title": "The Derby Stops",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "plot_the_last_boat_sold.md",
+          "kind": "plot",
+          "title": "The Last Boat Sold",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "plot_the_stock_comes_back.md",
+          "kind": "plot",
+          "title": "The Stock Comes Back",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "position_allocation.md",
+          "kind": "position",
+          "title": "Allocation",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "position_entry.md",
+          "kind": "position",
+          "title": "Entry",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "position_recovery.md",
+          "kind": "position",
+          "title": "Recovery",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "position_tenure.md",
+          "kind": "position",
+          "title": "Tenure",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "position_transfer.md",
+          "kind": "position",
+          "title": "Transfer",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "process_allocating.md",
+          "kind": "process",
+          "title": "Allocating",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "process_capitalising.md",
+          "kind": "process",
+          "title": "Capitalising",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "process_leasing.md",
+          "kind": "process",
+          "title": "Leasing",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "process_rebuilding.md",
+          "kind": "process",
+          "title": "Rebuilding",
+          "taxonomy": "play_the_fish_came_back.md"
+        },
+        {
+          "file": "process_trading.md",
+          "kind": "process",
+          "title": "Trading",
+          "taxonomy": "play_the_fish_came_back.md"
         }
       ]
     },
