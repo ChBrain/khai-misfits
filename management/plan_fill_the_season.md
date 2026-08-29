@@ -8317,3 +8317,64 @@ failures are **requirements for step 4** and must not be lost:
 Both are already gated, which is the part worth keeping: the packing wall written at step 0 caught the first and
 the canon validator caught the second, without either being told the move was coming. **A gate that reads the
 right root finds the move's defects before the move.**
+
+**Step 2 of the migration: the config learns the workspace, and it learns it as an addition rather than a
+replacement, which is what takes step 2 off the freeze's calendar.**
+
+The briefing says to change `misfits/**` to `packages/**`, `misfits/*/play_*.md` to
+`packages/khai-misfits/misfits/*/play_*.md`, and so on through. Read as a replacement that is correct after step
+4 and **wrong in the window before it**: the flat globs stop matching the moment they are replaced, so between
+step 2 landing and step 4 landing every misfit pull request is out of lane. That is presumably why the briefing
+puts the freeze at step 3. Written as an **addition** the config is correct at every point in the sequence, no
+ordering constraint exists at all, and step 2 stops depending on a calendar it does not control. Proved against
+the old config: with `main`'s globs every post-move path is unowned and therefore a violation on both protected
+lanes, which is what the addition fixes.
+
+**And `packages/**` is the wrong translation for this house, which is a correction and not a preference.** A
+lane's `allow` list grants a **cross-lane pass**: a path matching the current lane's globs is permitted
+regardless of which lane owns it. In khai each package is one unit of solution work, so `packages/**` on the
+solution lane is exact. Here the package holds the misfits **and** the README and the concordance that governance
+owns, so `packages/**` hands the misfit lane the whole package. Proved: under the briefing's globs verbatim, a
+`misfit/*` branch may touch `packages/khai-misfits/README.md` and a `governance/*` branch may not. The misfit
+lane therefore names the house, `packages/khai-misfits/misfits/**`, and only `shared` uses a wildcard.
+
+**The distinction is worth keeping in general terms: `shared` is permissive by design so a wildcard there costs
+nothing, and a lane `allow` confers ownership so it names what it owns.**
+
+**A wall now holds the config to both layouts**, one table of representative paths read twice, through the same
+`checkBranchScope` the gate calls. `khai-guard.config.json` was the one file in the house that is neither built
+nor read by the suite, so nothing checked what it decides. That is tolerable with one layout and not across a
+move, because **a glob that stops matching does not fail, it stops owning**, and an unowned path fails with a
+message pointing nowhere near the cause.
+
+**Two findings that change step 4, and neither can be fixed from this house.**
+
+**Step 4's diff cannot be read by the gates at all.** `khai-guard`'s `git()` helper is
+`execFileSync("git", args, { encoding: "utf8" })` with no `maxBuffer`, so Node's 1 MiB default applies. The
+move's `git diff --name-status -M -z` is **1,487,245 bytes** and every gate that reads a diff - `khai-guard`,
+`branch-check`, `changeset-check` - dies with `ENOBUFS`. Verified by performing the move in a scratch clone and
+running the gate against it. **This is a kit fix and it must land before step 4.** The house learned the same
+lesson locally at step 0, where the packing wall sets `maxBuffer: 256 * 1024 * 1024` on its own `execFileSync`
+for exactly this reason; the kit has not.
+
+**The good news underneath it: git detects the whole move as renames.** All **11,323** paths come back `R100`,
+and `exemptRenames` drops exactly `R100`, so once the buffer is raised the moved files are invisible to
+branch-check and step 4 lands as one pull request rather than as a split. The move being a pure `git mv` with no
+content change is what earns that, which is a reason to keep step 4 free of any edit that rides along.
+
+**And a fuse the move shortens rather than lights.** `listTrackedFiles` runs `git ls-files -z` through the same
+unbuffered helper. Flat that is 595,472 bytes; under `packages/khai-misfits/` it is **844,578**, which is 80.5%
+of the same 1 MiB wall. At **2,568 bytes per misfit** post-move there are **79 misfits** of headroom, so the
+whole-tree gates would hit `ENOBUFS` at around misfit **406**. They are `license-check`, `lockfile-check` and
+`member-check`, none of which this house's CI runs, so nothing is lit today. **The move does not create this and
+it consumes a quarter of the remaining room**, and the fuse burns at one misfit per pass.
+
+**A third, small: step 4's root manifest must declare the licence.** `licensePolicy.packages` now reads
+`["package.json", "packages/*/package.json"]`, so the private workspace root is policed alongside the package
+that publishes. Declaring `SEE LICENSE IN LICENSE and LICENSE-CODE` on it costs nothing and is true of the
+repository. The alternative, dropping the root from the policy, was rejected: a glob that exempts the root is a
+hole the day a root ever publishes.
+
+**`playwright_instructions.md` is deliberately left undeclared.** The briefing's target shape lists it among the
+files that move and **this house does not have one**. A lane allow for a path that cannot occur is cargo, and the
+cheapest way to find out whether the kit ever generates one is to let it fail loudly on the day it does.

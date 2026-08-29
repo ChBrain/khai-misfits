@@ -1,12 +1,12 @@
 {
-  "source": ["misfits/**"],
+  "source": ["misfits/**", "packages/khai-misfits/misfits/**"],
   "test": ["tests/**", ".github/workflows/**", ".husky/**"],
   "exemptRenames": true,
   "changesetPolicy": {
-    "countDrivenAdd": ["misfits/*/play_*.md"]
+    "countDrivenAdd": ["misfits/*/play_*.md", "packages/khai-misfits/misfits/*/play_*.md"]
   },
   "licensePolicy": {
-    "packages": ["package.json"],
+    "packages": ["package.json", "packages/*/package.json"],
     "packageLicenses": ["SEE LICENSE IN LICENSE and LICENSE-CODE"]
   },
   "branchScope": {
@@ -24,7 +24,14 @@
       "SECURITY.md",
       "registry.json",
       "docs/SCIENCE.md",
-      "REFERENCES.md"
+      "REFERENCES.md",
+      "packages/*/package.json",
+      "packages/*/CHANGELOG.md",
+      "packages/*/LICENSE",
+      "packages/*/LICENSE-CODE",
+      "packages/*/registry.json",
+      "packages/*/docs/SCIENCE.md",
+      "packages/*/REFERENCES.md"
     ],
     "riders": [
       {
@@ -44,7 +51,7 @@
       {
         "pattern": "misfit/*",
         "layer": "solution",
-        "allow": ["misfits/**"]
+        "allow": ["misfits/**", "packages/khai-misfits/misfits/**"]
       },
       {
         "pattern": "governance/*",
@@ -59,7 +66,9 @@
           "CLAUDE.md",
           "REFERENCE.md",
           "REFERENCES.md",
-          "management/**"
+          "management/**",
+          "packages/khai-misfits/README.md",
+          "packages/khai-misfits/REFERENCES.md"
         ]
       },
       {
