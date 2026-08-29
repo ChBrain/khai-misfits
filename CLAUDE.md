@@ -22,6 +22,28 @@ npx khai-guard branch <topic>
   `khai-guard.config.json`, `tests/**`, `CLAUDE.md`, `README.md`, `REFERENCE.md`, `REFERENCES.md`, `management/**`).
 - `changeset-release/*` is a bot-controlled general lane for version releases.
 
+The house is moving to a workspace, `packages/khai-misfits/` holding the content
+and the repository root holding the gates, so **every lane owns both spellings of
+what it owned before** and will until the flat one has nothing left to match.
+That is an addition and not a replacement, deliberately: replacing the globs
+would put every misfit pull request out of lane in the window before the move
+lands, which is a freeze the config does not need to impose. Two rules survive
+the move unchanged and are the ones worth carrying:
+
+- **The lane layer does not move.** `khai-guard.config.json`, `.changeset/`,
+  `management/` and `tests/` stay at the repository root, because a lane is a
+  repository-level fact and a changeset is addressed to a workspace.
+- **`shared` may use a wildcard and a lane `allow` may not.** A `shared` path is
+  safe on every lane by definition, so `packages/*/registry.json` costs nothing;
+  a lane's `allow` grants a **cross-lane pass** that overrides ownership, so it
+  names what it owns. `packages/**` on the misfit lane would hand that lane the
+  package's README and concordance, which governance owns.
+
+`tests/lanes.test.mjs` holds the config to both layouts, one table of paths read
+twice through the same `checkBranchScope` the gate calls. It is there because
+this config is neither built nor read by anything else, and **a glob that stops
+matching does not fail, it stops owning**.
+
 A **management order** (`management/orders/**`) is a **rider**: an order directs
 work in any lane, so it rides the lane of the change it drives. Write the order
 beside that change and the guard folds both onto one branch (an order that
