@@ -8378,3 +8378,51 @@ hole the day a root ever publishes.
 **`playwright_instructions.md` is deliberately left undeclared.** The briefing's target shape lists it among the
 files that move and **this house does not have one**. A lane allow for a path that cannot occur is cargo, and the
 cheapest way to find out whether the kit ever generates one is to let it fail loudly on the day it does.
+
+**The move was rehearsed in full against a scratch clone, and it comes out green.** Step 3 is the maintainer's
+calendar and step 4 is blocked on the kit, so what remained was to perform step 4 rather than reason about it:
+`git mv` the content, split the manifests into a private workspace root and a package, copy the licences beside
+the package manifest, repoint the one management link, and run every gate the house owns. 67 of 67 tests pass,
+the format check is clean, the three builders run against the package root, and the tarball carries **11,322
+files** with both licences and every warrant. Every instrument reads exactly what it reads flat: 2071 rows and 0
+shared works, 5 opposed pairs and 0 undeclared, 81 declared surnames with 0 unresolved and 0 unreachable forms, 0
+suffix keys, 18 hidden compound works with 1 unexempted, 67 mixed cells, registry 327 at 0.327.0. **That is the
+step 5 criterion met on a rehearsal**, which is the only place it can be met before the move.
+
+**And the move is one pull request, in lane, with no split.** Of 11,327 changed paths, **11,322 come back `R100`**
+and are exempt. Five remain, and they are the whole of what a step 4 branch must be checked against:
+
+| Path                                 | Status | Class  |
+| ------------------------------------ | ------ | ------ |
+| `package.json`                       | M      | shared |
+| `management/plan_fill_the_season.md` | M      | rider  |
+| `packages/khai-misfits/package.json` | A      | shared |
+| `packages/khai-misfits/LICENSE`      | A      | shared |
+| `packages/khai-misfits/LICENSE-CODE` | A      | shared |
+
+The package manifest arrives as **A and not R**, because dropping `scripts` and `devDependencies` changes it past
+the rename threshold and git pairs the root path with itself instead. It is `shared` either way. `checkBranchScope`
+passes the set on a governance branch **and** on a misfit branch, and `advise` homes it to governance on the
+strength of the register alone; without step 2's `packages/*/LICENSE` and `packages/*/package.json` the three
+additions would be unowned and rejected.
+
+**The rehearsal found one new requirement and it is the sharpest trap yet.** `.prettierignore` carries
+`docs/SCIENCE.md`, and that pattern is **anchored**: a slash anywhere but the end binds it to the ignore file's own
+directory. The ignore file does not move and the index does, so the pattern stops matching and **nothing announces
+it**. The generated index simply becomes formattable, and the trap closes both ways. Left alone, `format:check`
+fails, which is the first step of the `khai-tests` job, so the report reads `khai-tests` red while `npm test` is
+green locally. Formatted, the drift gate fails saying the index is out of date and to run the science build, which
+is a **false diagnosis**: it is not stale, it has been reformatted, and running the build it names changes nothing.
+One cause, two red lights, and neither of them names it. Repaired now, as an addition, on step 2's rule that a
+change harmless in this layout and required in the next belongs **before** the move rather than in it.
+
+**And the kit blocker fires earlier than step 2 reported.** `.husky/pre-push` runs `npx khai-guard` and
+`npx khai-guard branch-check`, so the `ENOBUFS` on the move's 1.4 MiB diff hits at `git push`, on the maintainer's
+own machine, before CI is reached. The house's standing rule is never `--no-verify`. **The kit's `maxBuffer` gates
+the push itself**, not merely the report.
+
+**The general shape, third time of asking.** Step 1 found a reader pointed at a root that had moved, step 2 found a
+lane glob that would stop owning, and this finds an ignore pattern that stops ignoring. All three are anchored
+strings computed against a path, all three fail silently or fail with the wrong diagnosis, and all three were found
+by running the thing rather than by reading it. **Where a defect is an anchored path, the only instrument is to
+move the tree and look.**

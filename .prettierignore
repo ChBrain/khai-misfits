@@ -5,4 +5,14 @@ dist/
 # from every misfit's REFERENCE.md Origin table, and its build-drift gate holds
 # it byte-identical to that build. Prettier reformatting it would fight the gate,
 # and its style is machine-written, not hand-authored.
+#
+# Both spellings, because this pattern is ANCHORED: a slash anywhere but the end
+# binds it to this file's own directory, so `docs/SCIENCE.md` stops matching the
+# day the index moves to packages/khai-misfits/docs/. Nothing announces that. The
+# file simply becomes formattable, and the trap closes both ways -- leave it and
+# `format:check` fails, which is the FIRST step of the khai-tests job so CI reads
+# red while `npm test` is green; format it and the drift gate fails saying the
+# index is out of date, which is a false diagnosis, since it is not stale, it has
+# been reformatted. One cause, two red lights, and neither names it.
 docs/SCIENCE.md
+packages/*/docs/SCIENCE.md
