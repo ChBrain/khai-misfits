@@ -8426,3 +8426,66 @@ lane glob that would stop owning, and this finds an ignore pattern that stops ig
 strings computed against a path, all three fail silently or fail with the wrong diagnosis, and all three were found
 by running the thing rather than by reading it. **Where a defect is an anchored path, the only instrument is to
 move the tree and look.**
+
+**The fifty-ninth pass found the slate carrying no open candidate, only a hold, so it scouted; and the candidate
+it liked best was already staged, under a name from the incumbent's domain rather than its own.**
+
+The search was ordered by the field count, which is unchanged in shape: measurement is 84 of 327 and **Groups,
+candour, and face** is still the thinnest real field at 24 and still, on reading its concepts, the proof that a
+thin field is thin because its phenomena are few and covered. So it was run by **domain** instead, sixty-odd terms
+probed against the concordance and the index. The strongest gap was **captive breeding for release**: a hatchery
+rears and releases the young of a wild population, and the released fish measurably depress the fitness of the
+population they were meant to save.
+
+**It is Bred for the Ark, and the switch-off says so.** Set that misfit's quantity to zero, stipulating a captive
+environment that imposes exactly the selection the wild imposes, and the hatchery harm goes quiet entirely, with
+nothing left to depress anything. So it is an **Origin row and not a misfit**, which is the contract's table read
+straight. Run the other way it stands clear of its neighbour: **The One Everybody Used**'s quantity is the share
+of matings one animal takes, and equalising family sizes perfectly leaves the hatchery harm untouched, because
+that harm is the captive environment's selection regime and not unequal contribution.
+
+**The near miss is the part worth carrying.** The domain sweep reported **hatchery 0, salmon 0, domestication 0,
+relaxed selection 0** and **captive 1**. Four terms from the candidate's own vocabulary came back empty on a
+mechanism this house has staged since August, because the incumbent is written in the language of **its** domain,
+arks and conservation programmes, and not the candidate's. The single hit was the answer and it was read past on
+the way to the zeros. **A dedup that stops at the candidate's own vocabulary is not a dedup**, which is the same
+lesson this file already teaches about stopping at a surname, and the instrument that would have answered in one
+line was `--check` against the concept, not run precisely because the concept looked absent. **The probe that
+returns mostly zeros is the one to distrust**, since a house of 327 does not have four adjacent empty terms unless
+it is holding the thing under another word.
+
+**The extension is slated and is worth taking on the merits.** The ark literature is comparative and largely
+cannot measure what it claims; the hatchery literature can, because a river's returning adults can be assigned to
+parents. Araki, Cooper and Blouin reconstruct a three-generation pedigree with microsatellites and measure
+lifetime reproductive success in the wild; Christie, Marine, French and Blouin separate domestication selection
+from inbreeding by bounding what inbreeding could account for. **That is the hardest evidence the mechanism has
+anywhere**, and it is why a warrant standing on one paper should not go on standing on one paper.
+
+- [ ] [P1] Extend **Bred for the Ark**'s warrant with the salmonid supportive-breeding evidence: Araki, Cooper &
+      Blouin (Science, 2007) and Christie, Marine, French & Blouin (PNAS, 2012), as Origin rows and no cast. Ships
+      package content, so a **patch** changeset, and it rebuilds `docs/SCIENCE.md` and `REFERENCES.md`. The
+      declaration below lands first.
+
+**And the declaration goes before the warrant, which is the ordering table's third row and the opposite of the
+`Campbell` case.** `Cooper` is **already declared**, carrying Elisabeth J and Graham, so it is under the namesake
+wall now: the moment a cell names Becky Cooper without a matching form the occurrence is unresolved and `npm test`
+fails. Declared ahead of its cell it changes no index key, `docs/SCIENCE.md` is unchanged and no artefact is
+rebuilt. **A declaration made ahead of its cell is the one kind that costs nothing**, which is the practical
+argument for reading the ordering table before costing a pass rather than after.
+
+**Two candidates discarded on the way, with what would bring each back.**
+
+**Icarus paradox / the competency trap**, held by **The Success Trap**, which cites Christensen for exactly this
+and names the competency trap in its own concept line. Nothing would bring it back: it is the same mechanism under
+an older name.
+
+**New-product preannouncement, the Osborne effect**, held off rather than struck. The shape is real and absent:
+announcing a successor makes buyers defer, the deferred revenue is what funds shipping the successor, and the
+announcement thereby removes the means of honouring itself. Two things hold it. Its **eponymous case is
+contested**, with the Osborne Computer collapse now generally attributed to a competitor's better machine and to
+delays rather than to the announcement, so the name carries a claim the evidence does not. And its nearest
+incumbent is **Fair Warning**, which stages the green paradox, an announced future change that perversely moves
+present behaviour; the arrow is reversed and the party bearing the cost is different, but the engine is the same
+intertemporal response to a credible announcement. **What would bring it back is a warrant resting on the
+preannouncement literature rather than on the anecdote**, and a switch-off showing the loop survives with Fair
+Warning's engine off, which was not attempted here because the sources were not read.
