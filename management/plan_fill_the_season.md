@@ -8513,3 +8513,62 @@ reports, which is the treatment a citation survives and **a number is the one th
 rows carry the design and the direction and no figure, and the Restrictions say so. `Araki` is likewise left
 **bare on purpose**: two searches gave two different given names and the surname is undeclared, so a bare cell
 merely collates and costs nothing, where a guessed given name would be an assertion about who somebody is.
+
+**The sixtieth pass staged The Fish Came Back, and it was found by reading the house's own concept list rather
+than probing the house with the candidate's vocabulary, which is last pass's lesson applied.**
+
+The slate was empty again, so this scouted. The field count is unchanged, and rather than run another sweep of
+terms the house might hold under other names, the concepts themselves were read out, field by field. Safety, risk
+and complex systems is 44 and reads as saturated; collective action is 35 and had a hole in it: **nothing in the
+house stages the commons remedy's own cost.** The Commons stages the problem. Nothing staged what happens after it
+is solved.
+
+**Individual transferable quotas, and the loop is the misfit.** A stock is raced down; a secure share of the catch
+removes the reason to race, because a fish left in the water is still yours next year; the racing stops and the
+stock rebuilds. Transferability is not decoration, it is what retires the vessels the race built, and a claim that
+is safe to hold and free to sell is by construction an asset. So the share is priced on the fishing it permits,
+which means **the recovery is what raises the price of getting in**, and confidence in the management regime is
+the second input, so every instrument that makes the scheme work harder makes the right dearer. The barrier is
+built out of good news and grows with it, and waiting is not a strategy: the moment the right is affordable is the
+moment it is not worth having.
+
+**Three switch-offs, and the candidate stands against all three.** The Commons's quantity is the divergence
+between private and social cost under open access; the two are independent, since a fishery can have full
+open-access ruin with non-transferable quota and no consolidation at all. The Head Start's quantity is compounding
+advantage; stipulate flat returns to scale, so a large holder gains nothing in acquiring the next share, and the
+concentration proceeds anyway out of heterogeneous efficiency and out of retirement. The Only Basket's quantity is
+a capitalised benefit defended politically; stipulate quota holders with no political voice whatever and the
+barrier stands, because it is a price and not a veto.
+
+**And the no-hero test was run before the dedup, which is the rule this file already carries and the right order
+here**, because fisheries management is exactly a discipline dedicated to the candidate's remedy. Each remedy
+hands back what it was bought with: an accumulation cap binds on the consolidation that retired the surplus fleet
+and is met by a second company; an owner-aboard rule forbids the retiring skipper the sale that was their pension
+and is answered by a crew list; a community reserve is carved from the same total; untradable shares stop the
+concentration and the efficiency together. The community quota programme is real, is used, and is cited as
+background rather than dismissed, which is the honest reading of a partial success.
+
+**The end-of-build re-scan is where the pass paid for itself, and not in the way the contract predicts.** It
+predicts a namesake arriving with the second source set. What arrived was earlier: the pre-authoring scan turned
+up **Macinko taken**, on a rare surname, which is the case this file already warns is not safe. The house's
+Macinko is James, in The Driest Wells, on primary care; the fisheries Macinko is Seth. **Two people, undeclared,
+and the existing cell is bare**, so no instrument in the house can see it: `--undeclared-namesakes` needs two named
+cells and there is one, and `--namesakes` reads only declared surnames. The same scan found `Olson` bare across
+five cells, all Mancur.
+
+- [ ] [P2] Name the bare cells for `Olson` (five, all Mancur, in Bootleggers and Baptists, Regulatory Capture, The
+      Commons, The High Water Mark and The Loud Few) and for `Macinko` (one, James, in The Driest Wells). Misfit
+      lane, cells first, on the ordering table's first row. Neither surname is declared, so nothing is owed until
+      somebody cites the second person; the cells are what make that declaration possible later.
+
+**Seth Macinko was not cited, and the reason is worth recording because it is the legitimate half of a move this
+file distrusts.** Swapping a source to dodge a namesake is illegitimate; choosing on the merits and finding the
+namesake avoided is not. Copes names the mechanism contemporaneously with the instrument's adoption, and the
+Kodiak ethnography measures the harm in the people the scheme never named, which is the play's claim. Neither is a
+substitute for Macinko's legal-institutional argument; that argument is simply not what this warrant rests on.
+
+**One number was refused again, and the reason is now a standing condition rather than an incident.** The papers
+could not be read; the bibliography, the study designs and the directions were verified by search and corroborated
+across independent reports. **A second warrant in two passes has had to say this in its Restrictions**, which
+means it is not a note about one pass but a property of how this house is currently able to work, and it should be
+read as bounding every warrant written under it.
