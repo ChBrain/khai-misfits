@@ -20,13 +20,13 @@
 import { describe, it, expect } from "vitest";
 import { execFileSync } from "node:child_process";
 import { readFileSync, existsSync } from "node:fs";
-import { fileURLToPath } from "node:url";
-import { dirname, join } from "node:path";
-import { workspacePackages, packedFiles, checkPacking } from "@chbrain/khai-tests";
+import { join } from "node:path";
+import { packedFiles, checkPacking } from "@chbrain/khai-tests";
+import { REPO as root, HOUSE, PACKAGE as PKG } from "./house_root.mjs";
 
-const root = join(dirname(fileURLToPath(import.meta.url)), "..");
-const PACKAGES = workspacePackages(root);
-const PKG = "@chbrain/khai-misfits";
+// `npm pack` is asked from the repository root, which is where a workspace is
+// addressable from; what comes back is the house's, which is where the content
+// lives. Before the move those are one directory and after they are two.
 
 /**
  * The tarball's contents, in whichever layout the house is in.
@@ -44,7 +44,7 @@ const PKG = "@chbrain/khai-misfits";
 function box() {
   const rootPkg = JSON.parse(readFileSync(join(root, "package.json"), "utf8"));
   if (rootPkg.workspaces) return packedFiles(root, { names: [PKG] }).get(PKG);
-  const dir = PACKAGES.get(PKG) ?? root;
+  const dir = HOUSE;
   const raw = execFileSync("npm", ["pack", "--dry-run", "--json"], {
     cwd: dir,
     encoding: "utf8",
@@ -72,9 +72,7 @@ describe("the package ships what its manifest names", () => {
     // names `misfits/**`, a glob whose whole value is that it reaches downward,
     // so a representative misfit's own files are what proves the box rather than
     // the count of entries in it.
-    const registry = JSON.parse(
-      readFileSync(join(PACKAGES.get(PKG) ?? root, "registry.json"), "utf8"),
-    );
+    const registry = JSON.parse(readFileSync(join(HOUSE, "registry.json"), "utf8"));
     const someMisfit = (registry.misfits ?? registry.entries ?? []).map(
       (m) => m.id ?? m.slug ?? m.name,
     )[0];
@@ -93,8 +91,7 @@ describe("the package ships what its manifest names", () => {
     // The sample above proves the glob reaches downward at all; this proves it
     // reached all of them, which is the failure mode where a `files` list is
     // right about its shape and wrong about its coverage.
-    const dir = PACKAGES.get(PKG) ?? root;
-    const registry = JSON.parse(readFileSync(join(dir, "registry.json"), "utf8"));
+    const registry = JSON.parse(readFileSync(join(HOUSE, "registry.json"), "utf8"));
     const ids = (registry.misfits ?? registry.entries ?? []).map((m) => m.id ?? m.slug ?? m.name);
     const missing = ids.filter((id) => !files.has(`misfits/${id}/REFERENCE.md`));
     expect(missing).toEqual([]);

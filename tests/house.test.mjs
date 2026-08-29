@@ -1,12 +1,15 @@
 import { describe, it, expect } from "vitest";
-import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { validateProject } from "@chbrain/khai-tests";
 import { referenceCard } from "@chbrain/khai-arch";
 import { validateProjectLanguages } from "@chbrain/khai-language";
+import { REPO, HOUSE } from "./house_root.mjs";
 
-const root = join(dirname(fileURLToPath(import.meta.url)), "..");
+// Two roots, and each reader below takes the one that owns what it reads. The
+// misfits, the concordance and the built indexes are the house's and move with
+// it; the management cast is the repository's and does not.
+const root = HOUSE;
 
 // Every misfit in the Misfits house conforms to the canon. Green on an
 // empty house (no misfits yet); as misfits land, each is validated against its
@@ -39,13 +42,36 @@ describe("Misfits house: misfits conform to the canon", () => {
   });
 
   it("the management cast conforms; every position has a persona", () => {
-    const results = validateProject({ root, contentDir: join(root, "management") });
+    const results = validateProject({ root: REPO, contentDir: join(REPO, "management") });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
   });
 
-  it("every misfit satisfies the language policy", () => {
-    const results = validateProjectLanguages(root);
+  // This gate was VACUOUS, and it was the migration prep that found it rather
+  // than any count moving. `validateProjectLanguages` defaults its content dir
+  // to `<root>/plays`, which is a playhouse's shape and not a production
+  // house's: this house keeps its content in `misfits/`, so the reader found no
+  // directory, returned an empty array, and the assertion passed on nothing.
+  // Every misfit ever staged went past it.
+  //
+  // It is named here for the same reason the canon validator two tests up names
+  // its own, and the fix costs nothing today: with the right directory the
+  // policy reports zero findings across all 327, so the gate goes from green on
+  // an empty read to green on a real one.
+  //
+  // Worth keeping as the shape this whole step is about. A reader pointed at a
+  // root with no content under it does not fail; it certifies. That is what the
+  // move would have done to every gate in this directory at once, and it is why
+  // the counts are taken before and compared after.
+  //
+  // It costs what a per-file detector costs, and the cost is the proof it is
+  // now doing something: measured linear at ~0.12s per misfit with no fixed
+  // part, so ~39s at 327 and crossing this timeout somewhere near 2,500. That
+  // is the slowest gate in the house and roughly doubles the suite. Named here
+  // so the trade is visible rather than discovered: forty seconds is the price
+  // of a declared policy that had never once been applied.
+  it("every misfit satisfies the language policy", { timeout: 300_000 }, () => {
+    const results = validateProjectLanguages(root, { contentDir: join(root, "misfits") });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
   });

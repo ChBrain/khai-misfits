@@ -91,8 +91,8 @@
 //                                                 a true clear to the wrong question
 
 import fs from "node:fs";
-import { fileURLToPath } from "node:url";
-import { dirname, join } from "node:path";
+import { dirname, join, resolve } from "node:path";
+import { HOUSE } from "./house_root.mjs";
 import {
   loadWorkPolicy,
   normaliseWork,
@@ -108,7 +108,34 @@ import {
   findUnresolvedNamesakes as kitFindUnresolvedNamesakes,
 } from "@chbrain/khai-tests";
 
-export const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
+/**
+ * The house's content root: `misfits/`, `registry.json`, `docs/SCIENCE.md` and
+ * `REFERENCES.md`. Every kit call below is handed this, because the kit reads a
+ * content root and walks UP from it for the config.
+ *
+ * It is the repository root today and `packages/khai-misfits` after the
+ * workspace move. See `house_root.mjs` for why that is resolved by package name
+ * rather than by path.
+ */
+export const ROOT = HOUSE;
+
+/**
+ * The repository root, from a content root: the directory holding
+ * `khai-guard.config.json`, and with it `management/`, `.changeset/` and the
+ * lanes. The config is at the repository root because a lane is a
+ * repository-level fact, which is the same rule the kit's own loaders walk up
+ * on, so the config's directory IS the answer and no second parameter is owed
+ * to the functions below.
+ */
+function repoOf(root) {
+  let dir = resolve(root);
+  for (;;) {
+    if (fs.existsSync(join(dir, "khai-guard.config.json"))) return dir;
+    const parent = dirname(dir);
+    if (parent === dir) return root;
+    dir = parent;
+  }
+}
 
 export { normaliseWork, isContrast, scholarMatches, workMatches, pairsOf };
 
@@ -257,7 +284,7 @@ export function scanSurname(name, root = ROOT) {
 // the kit's own build resolves against -- the simplest honest implementation
 // for the one piece the kit does not expose.
 export function scholarHomonyms(root = ROOT) {
-  const path = join(root, "khai-guard.config.json");
+  const path = join(repoOf(root), "khai-guard.config.json");
   if (!fs.existsSync(path)) return {};
   try {
     return JSON.parse(fs.readFileSync(path, "utf8"))?.scholarPolicy?.homonyms ?? {};
@@ -621,7 +648,10 @@ export function findStagedButOpen(root = ROOT) {
     const concept = (src.match(/^concept:\s*"(.+?)"$/m) || [])[1];
     if (concept) heads.set(normaliseWork(concept.split(" (")[0]), dir);
   }
-  const register = fs.readFileSync(join(root, "management", "plan_fill_the_season.md"), "utf8");
+  const register = fs.readFileSync(
+    join(repoOf(root), "management", "plan_fill_the_season.md"),
+    "utf8",
+  );
   const stale = [];
   for (const line of register.split("\n")) {
     if (!line.startsWith("- [ ]")) continue;
@@ -897,12 +927,7 @@ function sameGiven(a, b) {
 }
 
 export function findUndeclaredNamesakes(root = ROOT) {
-  const declared = new Set(
-    Object.keys(
-      JSON.parse(fs.readFileSync(join(root, "khai-guard.config.json"), "utf8"))?.scholarPolicy
-        ?.homonyms ?? {},
-    ),
-  );
+  const declared = new Set(Object.keys(scholarHomonyms(root)));
   const { records } = collectUnits(root);
   const bySurname = new Map();
   for (const r of records) {
@@ -948,12 +973,7 @@ export function findUndeclaredNamesakes(root = ROOT) {
 // that reports eighty-four hits without that sentence will be read as eighty-four
 // findings.
 export function findMixedCells(root = ROOT) {
-  const declared = new Set(
-    Object.keys(
-      JSON.parse(fs.readFileSync(join(root, "khai-guard.config.json"), "utf8"))?.scholarPolicy
-        ?.homonyms ?? {},
-    ),
-  );
+  const declared = new Set(Object.keys(scholarHomonyms(root)));
   const { records } = collectUnits(root);
   const bySurname = new Map();
   for (const r of records) {
