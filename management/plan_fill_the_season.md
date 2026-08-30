@@ -8572,3 +8572,69 @@ could not be read; the bibliography, the study designs and the directions were v
 across independent reports. **A second warrant in two passes has had to say this in its Restrictions**, which
 means it is not a note about one pass but a property of how this house is currently able to work, and it should be
 read as bounding every warrant written under it.
+**The sixty-first pass answered a question rather than staged anything, and the answer is worth the slate it produced:
+game theory is not a thin seam in this house, it is the spine, and the Prisoner's Dilemma is the one thing the
+house cannot stage.**
+
+Well over forty of the 328 are recognisably game-theoretic and they sit in every field rather than in one: The
+Commons, After You, The Dollar Auction, The Arms Race, The Race to the Bottom, Second-Order Free-Riding, The
+Wasted Vote, Whoever Asks Last, The Doctrinal Paradox, You Have to Mean It, The Alliance Security Dilemma, The
+Beauty Contest, The Winner's Curse, The Hold-Up Problem, The Price Neither Will Name, The Samaritan's Dilemma,
+Time Inconsistency, Costly Signaling, Moral Hazard, The Market for Lemons, Fisher's Principle, Parent-Offspring
+Conflict, the virulence trade-off. Schelling's _Strategy of Conflict_ is in `workPolicy.canon` and carries three
+misfits; Olson's _Logic of Collective Action_ carries three.
+
+**The Prisoner's Dilemma appears exactly once in the whole index, in After You, cited to distinguish, and that is
+where it must stay.** Name The Commons's quantity, the divergence between private and social payoff, set it to
+zero, and a bare Prisoner's Dilemma play goes completely silent, because the dilemma **is** that quantity. Such a
+play would carry the mechanism of a dozen incumbents and have no domain of its own, which is the defect the
+warrant gate exists to remove, arriving at twelve times its usual size. **The house has staged the dilemma a dozen
+times over; what it cannot do is stage the dilemma.**
+
+**And the vocabulary trap fired again on the way, in its cheapest form.** The **war of attrition** returns nothing
+from a scan of concept names and is already an Origin row in The Dollar Auction, cited as the all-pay kin. Third
+pass in a row that a candidate looked absent from the concept list and was present as a row inside somebody's
+warrant. **The concept list is the house's index of plays, not of its knowledge**, and the two are different
+sizes.
+
+- [ ] [P1] **The coordinated attack problem.** Two parties, an unreliable channel, and a plan that requires
+      acting together. Each acknowledgement raises the depth of nested knowledge by one and never reaches common
+      knowledge, so whoever sent the last message cannot know it arrived and at every finite depth somebody is
+      exposed. **Everybody honest, every delivered message true, agreement unattainable**, and it is a theorem
+      rather than a shortfall. Quantity: the possibility of loss, not its rate. Switch-offs run and both survive:
+      **Both Take the Crown**'s quantity is network partition and the choice it forces, and stipulating a network
+      that never partitions leaves this untouched, since the impossibility holds for a channel that merely may
+      lose a message; **The Common Object**'s quantity is illusory transparency, a psychological over-estimate,
+      and stipulating perfectly calibrated parties leaves it untouched, since the failure is not a misestimate.
+      Spine: Halpern & Moses (JACM, 1990), with Rubinstein's electronic mail game (AER, 1989) as the economic
+      form. **Surnames all clear**: Halpern, Moses, Rubinstein, Fagin, Vardi. Gray (1978) is the database
+      statement of the two generals and would cost a governance pass first, because `Gray` is **already declared**
+      with J A Muir and Robert and Jim would be a third; it is optional and the spine does not need it. Field:
+      collective action, or safety.
+
+- [ ] [P3] **Gibbard-Satterthwaite**, slated with a caution that may sink it. Every non-dictatorial rule over
+      three or more outcomes is manipulable by a voter misreporting. The obvious incumbent is **The Wasted Vote**,
+      and it is beatable: switch off plurality's wasted-vote logic and the theorem survives, because it holds for
+      every rule. **The incumbent that may own it is Whoever Asks Last**, and the test is uncomfortable:
+      restricting to single-peaked preferences restores a Condorcet winner **and** makes the median rule
+      strategy-proof, so one domain restriction switches off both harms at once. That is evidence of a shared
+      engine rather than proof of one, and it is the thing to settle before authoring. Surnames: Gibbard clear,
+      Barbera clear, Satterthwaite already held on Myerson-Satterthwaite in The Price Neither Will Name, which is
+      the same person on another work and owes nothing.
+
+- [ ] [P3] **The chain store paradox**, slated at risk. Backward induction says a monopolist facing a finite
+      sequence of entrants should never fight, so reputation cannot be built, and yet fighting works and is what
+      happens. The risk is **You Have to Mean It**, whose quantity is the gap between what it is rational to
+      intend and what it is rational to do; the two may be one engine seen from either end, and the switch-off has
+      not been run. Kreps and Wilson's and Milgrom and Roberts's incomplete-information resolutions are the
+      obvious rows. Surnames: Kreps clear; Selten held on equilibrium selection in After You, same person, another
+      work; Wilson is **declared with five forms** and Robert is among them, so a citation must name him; Milgrom
+      and Roberts are each taken by one key and must be read before use.
+
+**Three discards from the same sweep, with what would bring each back.** The **centipede game** is the chain
+store's own family and would be the same play; if the chain store is authored, the centipede is one of its Origin
+rows. **Cheap talk** is plausibly the complement of Costly Signaling rather than a distinct mechanism, and what
+would bring it back is a switch-off showing a harm that survives with the signalling cost set to zero. **Focal
+points** sit inside a canon work this house cites heavily, so the likely outcome is an Origin row on an existing
+Schelling misfit rather than a play, and what would change that is a harm that is not simply coordination
+succeeding.
