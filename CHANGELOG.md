@@ -1,5 +1,108 @@
 # @chbrain/khai-misfits
 
+## 0.328.0
+
+### Minor Changes
+
+- eecba96: Add the misfit **A Dark Age to Be Reborn From**: an era's name and character are supplied by whoever comes after it, whose account of itself is built out of the contrast, and the name arrives before anybody reads the evidence.
+- 31378d4: Add **Good Enough to Leave**, staging health worker migration as a quality that
+  cannot be issued in a domestic edition. A qualification no outsider can check is
+  a claim rather than a standard, so the document certifying at home is the one a
+  foreign board reads; the receiving gate decides only whether the training is
+  used, not whether it goes; and the counter-current that induces more people to
+  train is real, measured, and does not cover the loss.
+- 75c3e24: Add **Good Years for the Moose**, staging apparent competition. Two prey sharing
+  a predator are coupled through its numbers while sharing nothing else, so a
+  licensed harvest that feeds moose removes a caribou herd that competes with
+  nobody. The record shows predation and the cause is a stand age, and every fast
+  remedy is a standing removal that works and cannot stop.
+- 2a70af5: Add the misfit **It Learns When You Stop**: in pressure-release riding the reinforcing event is the removal of the pressure and not its application, so a rider who answers an unanswered question by asking more firmly holds through the horse's first small attempt and thereby punishes it.
+- 025c2d3: Add the misfit **Keep Her Course and Speed**: the collision regulations make one vessel predictable by forbidding her to respond, and the moment that prohibition lifts cannot be made precise without returning the unpredictability it removed.
+- e97c225: Add the misfit **Never at Full Speed**: a martial art excludes its most severe techniques from full-resistance practice because they are severe, so the same quantity buys the confidence and the exemption from rehearsal, and under threat only what has the repetitions is available.
+- 36ff03b: Add the misfit **Seen, and Therefore Settled**: appellate deference is owed in proportion to what did not travel to the appeal, and what did not travel is the channel measured to carry least about whether a witness was telling the truth.
+- fddeb93: Add **The Ear It Was Heard With**, staging the sides of a message and the
+  receiver's selection among them. A sign is symbol, symptom and signal at once in
+  any speech action; the receiver stops at the first reading relevant enough, by
+  their own reckoning; and the effect is not the sender's to perform. So both
+  accounts of what was said are accurate, the correction is more relational than
+  the thing it corrects, and saying less concentrates what is hurting.
+- 27b54a8: Add the misfit **The Fish Came Back**: a secure, tradable share of the catch removes the reason to race and the stock recovers, and because the share is priced on the fishing it permits, the recovery is what raises the cost of getting in. Every transfer is willing, every cap is satisfied, and the harbour ends up with a fishery it can see and cannot enter.
+- 616275b: Add the misfit **The Only Harm Left to See**: a preventive programme succeeds by removing the harm that was visible, while its own honestly reported harms remain, so the share of visible harm belonging to the programme rises because the programme worked.
+- ac922a2: Add the misfit **The Wind That Holds You There**: a sail generates force from wind flowing across it and so cannot be aimed at the wind, which leaves an arc no vessel can be steered into, and on a coast that arc is aimed at the only way out.
+- 34c20c8: Add **Whichever Is Behind**, staging sequential attention to goals. A housing
+  authority holds two goals it cannot price against each other, so it attends to
+  whichever is below its threshold. The trigger to attend is a shortfall, so the
+  trigger to stop is success rather than safety: each goal is put down in the
+  state that starts its decay, the realised policy is a sequence of corners, and
+  the split that both constituencies could plan against is tabled at every
+  meeting and carried at none.
+- 47fa0db: Who Took It Out: process accretion and the removal asymmetry. Every step in the
+  procedure was added for a real reason, none is ever removed, and only removal has a
+  signature on it.
+
+  There is no line in the document that is wrong. Something went wrong, a competent
+  review found a step that would have caught it, and the step costs an afternoon a
+  month; fifteen years of that is ninety pages with no bad decision anywhere in the
+  sequence. What follows is that an addition is an increment nobody weighs against the
+  total, so the total is never proposed and never approved, while a removal is a single
+  act with an owner and a date. One direction is a decision and the other is a drift.
+
+  The measured half is omission bias: identical outcomes are judged differently
+  according to whether they were reached by acting or by failing to act, on Spranca,
+  Minsk and Baron (1991) and Ritov and Baron (1990). So the person who declines to
+  propose a removal is reading a real asymmetry rather than being timid, and naming the
+  bias to them changes nothing about what happens if they sign.
+
+  The enquiry supplies the rest without intending to: a removal leaves a name, a date
+  and a form, and a non-addition leaves no record, so an honest investigation reaches a
+  person in one case and an absence in the other. Every settlement relocates the
+  signature and none abolishes it.
+
+- bc18b98: Add **You Would Have to Tell**, staging disclosure deterrence under a mandatory
+  duty to report. The Tarasoff duty is owed and mandatory, consent requires the
+  limit to be disclosed, so the deterrent arrives before any disclosure it would
+  deter; the patient neither lies nor conceals but does not raise it, some never
+  attend at all, and the outcome the duty exists to prevent is measured higher
+  where it binds.
+
+### Patch Changes
+
+- 5400d2b: Declare six axes, taking opposition-check coverage from a hundred to a hundred
+  and six. The Galton selection family on role-similarity and
+  noise-share-of-the-measure, the Senge family on symptomatic-fix-reliance and
+  growth-engine-effort. No new opposed pair, which is the result rather than a
+  disappointment.
+- 7ab3a63: Declare the ten supporting citations. Each of ten warrants cites a work that
+  carries another misfit's spine and is merely background to its own; each now
+  says so in its Scope cell and names the misfit the work belongs to. The
+  unexempted compound count falls from twelve to two, and the two are the
+  determinations still to be put: Ewald, and Kahneman and Tversky.
+- 1e43545: Extend **Bred for the Ark**'s warrant with the salmonid supportive-breeding evidence: the Hood River steelhead pedigree (Science, 2007), the carry-over into wild-born descendants (Biology Letters, 2009), and the separation of domestication selection from inbreeding (PNAS, 2012). Origin rows and no cast, since it is the same mechanism in a new domain. Two of the warrant's own bounds are retired because these sources close them, and the misfit declares an axis it had been grandfathered without.
+- 298348f: Name six Source cells whose bare form hid a namesake: Douglas Diamond, Joan
+  Woodward, Robert Frank, Daniel Gilbert, Jerry Muller and Todd Rogers. The probe
+  needs two named cells to see a surname at all, so every namesake whose
+  counterpart was bare was invisible to it; scanning for the mixed named-and-bare
+  case found five more of the Diamond shape.
+- 77dcdec: Name the Chen in **Sold to Find the Price**: the Source cell read `Chen & Ritter` bare, and the index needs the given name before `Chen` can be declared as a shared surname.
+- 5d9570d: Name thirty Source cells across the eleven surnames the mixed-cell flag
+  surfaced. All eleven are genuine namesakes: `Clark`, `Katz` and `Smith` carry
+  four people each and `Ross` five. Two limits surfaced while doing it, both
+  recorded: the probe merges `Michael` with `Michael L`, and naming a cell is not
+  atomic, since a cell can name a scholar and still leave the same scholar bare
+  inside itself.
+- 76fd36e: Extend the warrant of **Over a Barrel** with an Origin row for the measured labour case: job insecurity raising knowledge hiding is the hold-up problem's ex-ante underinvestment where the specific asset is a worker's own knowledge.
+- b9c97a7: Put the two determinations. Ewald's _Evolution of Infectious Disease_ is not a
+  shared spine: it is Saved to Spread's background, and that cell now says so.
+  Kahneman and Tversky's "On the Psychology of Prediction" is a shared spine and
+  not a fault, two mechanisms taken from one paper, which the rule cannot express
+  and deliberately will not be taught to.
+- c8d988a: Repair the five cells the undeclared-namesake probe found. Charles Wilson is
+  named in The Market for Lemons, `E.J.` is normalised to `E. J.` in
+  Milner-Gulland's second cell, The Horizon Problem's Source cell says Herbert
+  Simon rather than a string containing a slash, and the two treaty cells adopt
+  the house's existing idiom for a non-person source: a descriptive label in the
+  Source cell with the instrument's proper name in Key Work.
+
 ## 0.314.0
 
 ### Minor Changes
