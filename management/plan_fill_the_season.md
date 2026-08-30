@@ -8597,7 +8597,7 @@ pass in a row that a candidate looked absent from the concept list and was prese
 warrant. **The concept list is the house's index of plays, not of its knowledge**, and the two are different
 sizes.
 
-- [ ] [P1] **The coordinated attack problem.** Two parties, an unreliable channel, and a plan that requires
+- [x] [P1] **The coordinated attack problem.** Two parties, an unreliable channel, and a plan that requires
       acting together. Each acknowledgement raises the depth of nested knowledge by one and never reaches common
       knowledge, so whoever sent the last message cannot know it arrived and at every finite depth somebody is
       exposed. **Everybody honest, every delivered message true, agreement unattainable**, and it is a theorem
@@ -8638,3 +8638,25 @@ would bring it back is a switch-off showing a harm that survives with the signal
 points** sit inside a canon work this house cites heavily, so the likely outcome is an Origin row on an existing
 Schelling misfit rather than a play, and what would change that is a harm that is not simply coordination
 succeeding.
+
+**The sixty-second pass staged Everything Got Through, taking the slate's P1 line, and it is the first pass in
+several to have started from the plan rather than from a hunt.** The dedup was already done and recorded, so the
+pass cost the authoring and nothing else, which is the argument for keeping a slate at all: the previous three
+passes each spent most of their length rediscovering whether a candidate was free.
+
+**Two canon findings, both mine and both cheap, and one of them is a rule worth carrying.** The description ran to
+128 characters against a limit of 120, which is arithmetic. The other is not: **every position must have a persona
+pointing at it**, and the cast had two personas in Delivery and none in Exposure. The fix was not to invent a
+sixth persona but to notice that The Acknowledgement was in the wrong seat: **sending an acknowledgement is what
+puts its author in the exposure seat**, so the persona belonged there all along and the cast was better after the
+gate than before it. **A conformance failure that improves the reading is a sign the cast was cut to a mould
+rather than to the concept**, which is the defect Cut to Fit exists to prevent, and the gate caught it where the
+author did not.
+
+**And the reading gap has now bound three warrants running, so it is recorded here as a condition and not as an
+incident.** Publisher hosts and the article archive are blocked to this session, so a warrant is built from
+bibliography, study design and direction verified by search and corroborated across independent reports.
+Everything Got Through is the sharpest case yet, because its sources are **theorems**: the Restrictions say the
+formal statements are deliberately not quoted, since a theorem statement is exactly the thing that does not
+survive being corroborated from secondary reports. **A citation survives that treatment, a number does not, and a
+theorem statement does not either.**

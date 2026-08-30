@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.328.0",
+  "version": "0.329.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -9923,6 +9923,228 @@
           "kind": "process",
           "title": "Reckoning",
           "taxonomy": "play_everybodys_business.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "everything_got_through",
+      "title": "Everything Got Through",
+      "description": "Two parties who must act together cannot agree over a channel that might lose a message, however many arrive.",
+      "members": [
+        {
+          "file": "persona_the_acknowledgement.md",
+          "kind": "persona",
+          "title": "The Acknowledgement",
+          "type": "archetype",
+          "taxonomy": "position_exposure.md"
+        },
+        {
+          "file": "persona_the_first_general.md",
+          "kind": "persona",
+          "title": "The First General",
+          "type": "archetype",
+          "taxonomy": "position_proposal.md"
+        },
+        {
+          "file": "persona_the_messenger.md",
+          "kind": "persona",
+          "title": "The Messenger",
+          "type": "archetype",
+          "taxonomy": "position_delivery.md"
+        },
+        {
+          "file": "persona_the_plan.md",
+          "kind": "persona",
+          "title": "The Plan",
+          "type": "archetype",
+          "taxonomy": "position_commitment.md"
+        },
+        {
+          "file": "persona_the_second_general.md",
+          "kind": "persona",
+          "title": "The Second General",
+          "type": "archetype",
+          "taxonomy": "position_confirmation.md"
+        },
+        {
+          "file": "piece_almost_is_a_different_thing.md",
+          "kind": "piece",
+          "title": "Almost Is a Different Thing",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "piece_every_message_was_true.md",
+          "kind": "piece",
+          "title": "Every Message Was True",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "piece_one_more_than_the_last.md",
+          "kind": "piece",
+          "title": "One More Than the Last",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "piece_the_channel_only_might_fail.md",
+          "kind": "piece",
+          "title": "The Channel Only Might Fail",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "piece_the_sender_cannot_know.md",
+          "kind": "piece",
+          "title": "The Sender Cannot Know",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "pitch_nobody_lost_a_message.md",
+          "kind": "pitch",
+          "title": "Nobody Lost a Message",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "place_the_appointed_hour.md",
+          "kind": "place",
+          "title": "The Appointed Hour",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "place_the_two_hills.md",
+          "kind": "place",
+          "title": "The Two Hills",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "place_the_valley.md",
+          "kind": "place",
+          "title": "The Valley",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "plan_confirm_it.md",
+          "kind": "plan",
+          "title": "Confirm It",
+          "taxonomy": "position_confirmation.md"
+        },
+        {
+          "file": "plan_do_not_be_the_one_exposed.md",
+          "kind": "plan",
+          "title": "Do Not Be the One Exposed",
+          "taxonomy": "position_exposure.md"
+        },
+        {
+          "file": "plan_get_it_across.md",
+          "kind": "plan",
+          "title": "Get It Across",
+          "taxonomy": "position_delivery.md"
+        },
+        {
+          "file": "plan_go_on_the_hour.md",
+          "kind": "plan",
+          "title": "Go on the Hour",
+          "taxonomy": "position_commitment.md"
+        },
+        {
+          "file": "plan_name_the_hour.md",
+          "kind": "plan",
+          "title": "Name the Hour",
+          "taxonomy": "position_proposal.md"
+        },
+        {
+          "file": "play_everything_got_through.md",
+          "kind": "play",
+          "title": "Everything Got Through"
+        },
+        {
+          "file": "plot_a_time_is_named.md",
+          "kind": "plot",
+          "title": "A Time Is Named",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "plot_almost_is_not_enough.md",
+          "kind": "plot",
+          "title": "Almost Is Not Enough",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "plot_and_somebody_has_to_move_first.md",
+          "kind": "plot",
+          "title": "And Somebody Has to Move First",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "plot_confirm_the_confirmation.md",
+          "kind": "plot",
+          "title": "Confirm the Confirmation",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "plot_it_arrives.md",
+          "kind": "plot",
+          "title": "It Arrives",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "position_commitment.md",
+          "kind": "position",
+          "title": "Commitment",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "position_confirmation.md",
+          "kind": "position",
+          "title": "Confirmation",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "position_delivery.md",
+          "kind": "position",
+          "title": "Delivery",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "position_exposure.md",
+          "kind": "position",
+          "title": "Exposure",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "position_proposal.md",
+          "kind": "position",
+          "title": "Proposal",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "process_acknowledging.md",
+          "kind": "process",
+          "title": "Acknowledging",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "process_committing.md",
+          "kind": "process",
+          "title": "Committing",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "process_crossing.md",
+          "kind": "process",
+          "title": "Crossing",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "process_proposing.md",
+          "kind": "process",
+          "title": "Proposing",
+          "taxonomy": "play_everything_got_through.md"
+        },
+        {
+          "file": "process_reasoning.md",
+          "kind": "process",
+          "title": "Reasoning",
+          "taxonomy": "play_everything_got_through.md"
         }
       ]
     },
