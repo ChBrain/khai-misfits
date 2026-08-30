@@ -8612,7 +8612,7 @@ sizes.
       with J A Muir and Robert and Jim would be a third; it is optional and the spine does not need it. Field:
       collective action, or safety.
 
-- [ ] [P3] **Gibbard-Satterthwaite**, slated with a caution that may sink it. Every non-dictatorial rule over
+- [x] [P3] **Gibbard-Satterthwaite**, slated with a caution that may sink it. Every non-dictatorial rule over
       three or more outcomes is manipulable by a voter misreporting. The obvious incumbent is **The Wasted Vote**,
       and it is beatable: switch off plurality's wasted-vote logic and the theorem survives, because it holds for
       every rule. **The incumbent that may own it is Whoever Asks Last**, and the test is uncomfortable:
@@ -8622,7 +8622,7 @@ sizes.
       Barbera clear, Satterthwaite already held on Myerson-Satterthwaite in The Price Neither Will Name, which is
       the same person on another work and owes nothing.
 
-- [ ] [P3] **The chain store paradox**, slated at risk. Backward induction says a monopolist facing a finite
+- [x] [P3] **The chain store paradox**, slated at risk. Backward induction says a monopolist facing a finite
       sequence of entrants should never fight, so reputation cannot be built, and yet fighting works and is what
       happens. The risk is **You Have to Mean It**, whose quantity is the gap between what it is rational to
       intend and what it is rational to do; the two may be one engine seen from either end, and the switch-off has
@@ -8660,3 +8660,40 @@ Everything Got Through is the sharpest case yet, because its sources are **theor
 formal statements are deliberately not quoted, since a theorem statement is exactly the thing that does not
 survive being corroborated from secondary reports. **A citation survives that treatment, a number does not, and a
 theorem statement does not either.**
+
+**The sixty-third pass settled the two cautioned lines rather than carrying them, and both struck.** A line slated
+with a caution is a **debt and not an item**: it will be read as work waiting to be done and will cost its full
+authoring price before anybody discovers it should not have been started. The cost of settling both here was two
+files read. The cost of carrying them was two authoring passes that would each have died at the dedup.
+
+**Gibbard-Satterthwaite is struck outright, and the caution recorded on the slate was the real objection.** Whoever
+Asks Last does not merely stage cyclical majorities: its Line of Work states **Arrow's theorem as the law of the
+play**, that no method of aggregating individual orderings can, for three or more alternatives, be at once defined
+for all preferences, faithful to unanimity, independent across pairs and free of a dictator. Gibbard-Satterthwaite
+is that impossibility restated as a claim about misreporting, the two are interderivable, and one domain
+restriction removes both harms at once, which that misfit already names in its own prose. The other half is held
+too: the practical shape, that every real system rewards tactical voting, is **The Wasted Vote**. Both ends
+occupied, the structural and the lived, and nothing between them for a third play to stand on. **Nothing would
+bring it back.**
+
+**The chain store paradox is struck as a misfit and slated as an Origin row, which is a different move and worth
+distinguishing.** You Have to Mean It's engine is the time-inconsistency of a threat: every reason to carry it out
+is a reason to have intended it, and none survives into the moment when acting is possible. Stipulate that away, so
+fighting an entrant is worth doing on the day for its own sake, and the monopolist fights in the last town as
+readily as the first, the induction never starts, and **the chain store harm vanishes entirely**. Run it the other
+way, stipulating an unknown or unbounded horizon, which is the chain store's own distinctive element: reputation
+becomes sustainable and that harm vanishes, while a one-shot deterrent threat is still irrational to keep. **The
+incumbent survives the candidate's engine being switched off and the candidate does not survive the incumbent's**,
+which is the asymmetry the contract says decides it.
+
+- [ ] [P2] Extend **You Have to Mean It**'s warrant with Selten's chain store paradox (1978) as an Origin row and
+      no cast: the finite-horizon unravelling is the same engine demonstrated in an economic rather than a
+      strategic setting, and the incomplete-information resolutions are the row after it. Misfit lane, **patch**
+      changeset. `Selten` is already in the index, bare, in After You on equilibrium selection; this is the same
+      person on another work and owes nothing. `Wilson` is **declared with five forms**, so a Kreps and Wilson
+      citation must name Robert, and `Milgrom` and `Roberts` each carry one key and must be read before use.
+
+**And the rule the pass establishes is about where a caution gets answered.** Both were settled by reading the
+incumbent's own Line of Work, not by reasoning about the candidate. Whoever Asks Last carries Arrow in its prose
+and the slate line did not know it. **A caution about a candidate is usually a question about an incumbent, and
+the incumbent is written down.**
