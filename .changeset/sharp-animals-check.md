@@ -1,9 +1,9 @@
 ---
 ---
 
-Adopt the published kit: `@chbrain/khai-tests` `^0.3.4` -> `^0.4.0`, refreshing
+Adopt the published kit: `@chbrain/khai-tests` `^0.3.4` -> `^0.4.1`, refreshing
 `@chbrain/khai-stage` to 0.0.25 and `@chbrain/khai-guard` to 0.3.1 (verified
-installed, not just declared: package-lock.json now carries khai-tests 0.4.0,
+installed, not just declared: package-lock.json now carries khai-tests 0.4.1,
 khai-stage 0.0.25, khai-guard 0.3.1).
 
 CLAUDE.md gains a short "Case law next" blockquote pointing at
@@ -35,24 +35,67 @@ ways: an untracked file under `misfits/` makes the runner refuse before any
 wall runs (visibility FAIL, 0 walls recorded, exit 1), and removing it
 restores the pass.
 
-Also declares two rows in the new `scholarPolicy.nonAuthorSources` key that
-khai-tests 0.4.0 reads (`The biofortification programme`,
-`The measurement dispute` in `a_bigger_harvest_every_year`'s Origin table):
-genuine no-person Source cells of the kind the kit's own comment anticipates.
+## The non-author wall, and how the house answers it
 
-Devdependency bumps, a doc pointer, a provider-file restructure and a gate
-manifest ship no package content, so this changeset is empty.
+khai-tests 0.4.0 added `originRowErrors`' second wall: an Origin row whose
+Source cell yields no scholar surname does not fail, it VANISHES from the
+science index, taking its citation with it, so a Source that names nobody must
+now be declared in `scholarPolicy.nonAuthorSources`. Measured against this
+house that wall fired on **499 rows across 352 distinct Source values**, the
+great majority of them this house's own deliberate idiom rather than any
+defect. Declaring 352 strings is precisely the answer this house's own
+contract forbids -- "a closed list of the `NON_AUTHOR` kind ... a list to
+maintain" -- so the bump stalled there rather than paying it.
 
-**Known, unresolved issue surfaced by this bump (see PR body): khai-tests
-0.4.0 adds a new hard validation that an Origin row's Source cell must yield a
-detectable scholar surname unless declared in `scholarPolicy.nonAuthorSources`
--- a check that did not exist in 0.3.4. This house's own Origin-table
-convention uses a "no scholar" descriptive Source header extensively (roughly
-499 rows across the great majority of misfits), a pattern CLAUDE.md itself
-documents as a deliberate choice NOT to wall on. `npm test` currently fails on
-two test files (`tests/science-drift.test.mjs`,
-`tests/science-overlap.test.mjs`) because of this, unrelated to any change in
-this PR. Declaring ~499 individual exemptions is a content judgement across
-almost every misfit and is out of scope for this governance PR; it is left for
-the maintainer to resolve upstream (soften the kit check) or via a dedicated
-follow-up sweep.
+khai-tests **0.4.1** is the answer, and it is the shape `contrastMarkers`
+already has: an entry written `"/regex/"` compiles with the `i` flag against
+the qualifier-stripped Source, so **one house's intentional class is a rule
+and not a list**. Three declarations carry the convention:
+
+- `"/^(The|Whether|Why|What|How|Whose|Where|When|A |An ) /"` -- the
+  leading-article Source, the house's standing idiom for a row headed by the
+  question it answers rather than by a person ("The arithmetic of a series",
+  "Whether any settlement reaches it", "Why reduction alone fails").
+- `"Practitioner"` -- the field-knowledge placeholder, 120 rows, matched after
+  qualifier-stripping so `Practitioner (HR)` collapses to it too. The kit's own
+  `NON_AUTHOR` comment names it as the one idiom a structural rule cannot
+  catch, being a lone capitalised token indistinguishable from a mononym.
+- `"Boundary of the effect"` -- the honest-note row, 20 rows across 20 misfits.
+
+The measured trajectory: **499 -> 58 -> 38 -> 1**. 499 undeclared at 0.4.0;
+58 after the pattern and `Practitioner`; 38 after `Boundary of the effect`;
+1 after the residual determinations below.
+
+## The residual 38 are put determinations, not a bulk exemption
+
+Each of the 38 remaining Source values was opened in its own `REFERENCE.md`,
+read as a whole row (Source | Key Work | Scope) in its misfit's Origin table,
+and answered one of two ways. **37 are intentionally person-free** -- a
+literature label (`Mimetic isomorphism`, `Statistical-learning theory`), a
+field (`Soil science`, `Labour economics`), a practice note (`Take-up /
+practice`, `Tolerance practice`), a record or award (`Nobel 2001`), a legal
+doctrine whose Key Work is case law (`Willful blindness`, `Command
+responsibility`), or a second-aspect row whose person is named in the row
+directly above it (`Volterra's principle`, `Playing for rules`). Each is
+declared as an exact string, never widened into a pattern: the leading-article
+class is a documented convention and safe as a rule, whereas widening to cover
+these would silently exempt future rows nobody has read. The reasoning for
+each is tabled in the pull request body.
+
+**1 is flagged for the misfit lane and is deliberately left failing**:
+`too_sure_to_be_true`'s `Systematic vs random error`, whose Key Work reads
+"metrology and eyewitness identification (biased line-ups; Wells on lineup
+construction)". Both readings fire on it -- the Source reads as a label, and
+the Key Work carries an author the Source does not name -- and Wells appears
+nowhere else in the house, in that misfit's Source column or in
+`docs/SCIENCE.md`. That is the exact harm the wall exists against, so it is
+put to a reader rather than declared: a wrong declaration is silent forever,
+a wrong flag costs one reading. The fix is content on the misfit lane, not
+config on this one, so this PR stays a draft for it. Verified that declaring
+it is the only thing between this branch and a green suite (8 files / 67
+tests pass with it declared; without it, 5 tests across 2 files fail, all five
+naming that one row).
+
+Devdependency bumps, a doc pointer, a provider-file restructure, a gate
+manifest and a scholar-policy declaration ship no package content, so this
+changeset is empty.
