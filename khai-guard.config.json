@@ -99,6 +99,7 @@
     ]
   },
   "scholarPolicy": {
+    "nonAuthorSources": ["The biofortification programme", "The measurement dispute"],
     "homonyms": {
       "Adams": ["Scott", "Gordon", "John", "Robert McC", "Robert Merrihew"],
       "Albert": ["Kendra", "Réka"],
@@ -186,6 +187,25 @@
   "driftPolicy": {
     "scopes": ["@chbrain/"]
   },
+  "gates": [
+    {
+      "name": "prettier",
+      "command": "npx prettier --check .",
+      "fix": "npx prettier --write ."
+    },
+    {
+      "name": "suite",
+      "command": "npx vitest run"
+    },
+    {
+      "name": "khai-guard",
+      "command": "npx khai-guard"
+    },
+    {
+      "name": "branch-check",
+      "command": "npx khai-guard branch-check"
+    }
+  ],
   "workPolicy": {
     "contrastMarkers": [
       "cited to distinguish",
