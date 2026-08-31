@@ -62,9 +62,9 @@ and not a list**. Three declarations carry the convention:
   catch, being a lone capitalised token indistinguishable from a mononym.
 - `"Boundary of the effect"` -- the honest-note row, 20 rows across 20 misfits.
 
-The measured trajectory: **499 -> 58 -> 38 -> 1**. 499 undeclared at 0.4.0;
+The measured trajectory: **499 -> 58 -> 38 -> 0**. 499 undeclared at 0.4.0;
 58 after the pattern and `Practitioner`; 38 after `Boundary of the effect`;
-1 after the residual determinations below.
+0 after the residual determinations below.
 
 ## The residual 38 are put determinations, not a bulk exemption
 
@@ -82,19 +82,28 @@ class is a documented convention and safe as a rule, whereas widening to cover
 these would silently exempt future rows nobody has read. The reasoning for
 each is tabled in the pull request body.
 
-**1 is flagged for the misfit lane and is deliberately left failing**:
+**The 38th was flagged, read, and then declared with a companion fix owed**:
 `too_sure_to_be_true`'s `Systematic vs random error`, whose Key Work reads
 "metrology and eyewitness identification (biased line-ups; Wells on lineup
-construction)". Both readings fire on it -- the Source reads as a label, and
-the Key Work carries an author the Source does not name -- and Wells appears
-nowhere else in the house, in that misfit's Source column or in
-`docs/SCIENCE.md`. That is the exact harm the wall exists against, so it is
-put to a reader rather than declared: a wrong declaration is silent forever,
-a wrong flag costs one reading. The fix is content on the misfit lane, not
-config on this one, so this PR stays a draft for it. Verified that declaring
-it is the only thing between this branch and a green suite (8 files / 67
-tests pass with it declared; without it, 5 tests across 2 files fail, all five
-naming that one row).
+construction)". Both readings fired on it -- the Source is honestly a label
+(textbook metrology, no author), and the Key Work carries a scholar the Source
+does not name. The declaration is honest because the label half is real; the
+Wells half is content debt, not config: a follow-up **misfit-lane** PR gives
+Gary L. Wells (lineup construction) his own Origin row with the given name
+written into the Source cell, and rebuilds `docs/SCIENCE.md`.
+
+The reading also corrected the flag itself: the first probe reported Wells
+absent from `docs/SCIENCE.md`, and the sanctioned instrument
+(`science_overlap.mjs --surname Wells`) says **taken** -- `better_in_both`
+cites the Will Rogers paper (Feinstein, Sosin & **Carolyn** Wells, NEJM 1985),
+already named in its cell and keyed bare in the index. So Gary L. Wells
+arrives as an **undeclared namesake**, and the contract's own table orders the
+work: cells first (his named row, misfit lane), then a governance follow-up
+declaring `Wells` in `scholarPolicy.homonyms` (`Gary L`, `Carolyn`) with the
+`docs/SCIENCE.md` rebuild that key change forces. Neither half rides this PR:
+the declaration before the citing cell exists would leave nothing to resolve
+against, which is the order the contract says is wrong for an undeclared
+surname.
 
 Devdependency bumps, a doc pointer, a provider-file restructure, a gate
 manifest and a scholar-policy declaration ship no package content, so this
