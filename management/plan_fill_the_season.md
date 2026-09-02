@@ -8816,3 +8816,27 @@ four canon works, and they come out on `problem-dependence`, `internal-advanceme
 `codification` and `buyer-informedness`. **Two families running, a shared canon work has not implied a shared
 quantity**, which is worth recording because the family map is the instrument for finding these and it locates a
 conversation rather than an axis.
+
+**The sixty-eighth pass declared ten more axes, 123 to 133 of 329, and the ratchet found a second opposition: The
+Unmarked Edge against Too Kind to Drop, on `buffer-slack`.**
+
+**And the useful part is that it needed no new discriminator.** That axis already carried an opposition, Too Kind
+to Drop against No Idle Hands and The Brittle Optimum, and the rule those plays wrote is **whether the load is
+answering the queue**: slack absorbs variability that arrives regardless, so more is better against a load that
+does not care how full you are, while a buffer deep enough never to drop sits inside a control loop and refuses
+the signal that would have slowed the sender. Drift into failure lands on the first side, and sharply, because
+the pressure that consumes the margin there **does not read the margin at all**: the boundary is unmarked, so
+nothing about approaching it feeds back to the approach. Same condition, arriving as an absence rather than as a
+delay.
+
+**A discriminator written for one pair answered the next one without amendment**, which is the first evidence
+this house has that the axis mechanism accumulates rather than merely accretes. The instruction is to look for
+the existing answer on an axis before writing a new one, exactly as the last pass's instruction was to look for
+the existing axis name before coining one.
+
+The other eight went in without incident and two of them are worth naming. **Nobody Reads It** joins
+`buyer-informedness`, the axis the last pass created for a payer who cannot judge what they are buying, because
+the informed-minority hypothesis is that same quantity read as a fraction of a market rather than as one buyer's
+state. **The New Normal** was kept **off** `time-in-use`, which Regrettable Substitution holds: that play's dial
+is elapsed use producing an absence of evidence, and this one's is a run of **survived deviations** moving the
+line, which requires the deviations. Close enough to check and not the same quantity.

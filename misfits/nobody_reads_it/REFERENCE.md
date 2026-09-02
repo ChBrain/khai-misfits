@@ -2,6 +2,8 @@
 concept: "The Informed-Minority Hypothesis (standard-form term degradation; shrouded terms)"
 field: "Markets, money, and economic equilibria"
 source: 'Schwartz & Wilde, "Intervening in Markets on the Basis of Imperfect Information" (U. Pa. L. Rev., 1979)'
+axis: buyer-informedness
+sign: positive # how the terms a market offers move as the informed fraction of buyers rises
 updated: "2026-07-21"
 ---
 

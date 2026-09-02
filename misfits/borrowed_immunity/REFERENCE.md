@@ -2,6 +2,8 @@
 concept: "The Vaccination Free-Rider (herd-immunity free-riding)"
 field: "Ecology, evolution, and public health"
 source: "Bauch & Earn (PNAS, 2004); Fine & Clarkson (1986)"
+axis: intervention-coverage
+sign: negative # how each individual's remaining incentive to vaccinate moves as others' coverage rises
 updated: "2026-07-03"
 ---
 
