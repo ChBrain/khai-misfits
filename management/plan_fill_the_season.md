@@ -8556,7 +8556,7 @@ and the existing cell is bare**, so no instrument in the house can see it: `--un
 cells and there is one, and `--namesakes` reads only declared surnames. The same scan found `Olson` bare across
 five cells, all Mancur.
 
-- [ ] [P2] Name the **three** bare `Olson` cells, all Mancur: Regulatory Capture line 45, The Commons line 44 and
+- [x] [P2] Name the **three** bare `Olson` cells, all Mancur: Regulatory Capture line 45, The Commons line 44 and
       Vetocracy line 47. Misfit lane, cells-first, **patch** changeset. Do **not** declare the surname: `Olson` is
       undeclared and collates to one key, and a declaration for a second Olson the house does not hold would split
       one person across two keys. **Corrected from five cells to three, and `Macinko` struck entirely**: see below.
