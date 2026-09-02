@@ -2,6 +2,8 @@
 concept: "Supplier-Induced Demand"
 field: "Measurement, cognition, and inquiry"
 source: 'Evans, "Supplier-Induced Demand" (1974)'
+axis: buyer-informedness
+sign: positive # how the fit between what is bought and what is needed moves as the payer's ability to judge rises
 updated: "2026-07-24"
 ---
 

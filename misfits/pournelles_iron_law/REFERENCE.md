@@ -2,6 +2,8 @@
 concept: "Pournelle's Iron Law of Bureaucracy"
 field: "Organisations, hierarchy, and management"
 source: "Pournelle (c. 1980s)"
+axis: internal-advancement
+sign: negative # how the mission's influence moves as the weight advancement puts on devotion to the body rises
 updated: "2026-07-06"
 ---
 

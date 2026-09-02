@@ -8789,3 +8789,30 @@ have put a false claim where a gate reads.
 No new opposed pair fired, which is the expected result of declaring six misfits that agree with each other, and
 is not evidence the declarations are idle: the check widened by six and found nothing to say, which is different
 from not having looked. No artefact rebuilt, since an axis is frontmatter the indexes do not key on.
+
+**The sixty-seventh pass declared eight more axes and the ratchet found its first opposed pair, which is the
+first one this house has learned rather than noticed.** Coverage moves 115 to 123 of 329.
+
+**The find is Held Still to Keep It against No One in Charge, on `codification`, with opposite signs.** Both turn
+on one quantity, **how much of an arrangement is made explicit and fixed** so somebody can check it next year. In
+the heritage play that is the harm: a practice whose worth is that it is done differently every time cannot be
+written into a description it must then match, so the inventory fixes content the practice never had. In the
+structurelessness play it is the remedy: a group refusing formal structure does not abolish power but hides it,
+and power that is named can be argued with where power that is denied cannot be reached. **What sets the sign is
+what is being made explicit**, a living practice or a relation of power, and both warrants now say so and name
+each other.
+
+**It was nearly missed, and the near miss is the instruction.** The obvious name for the second play's quantity
+was `formal-structure`, which is what it is called in its own literature. Under that name the two misfits sit on
+different axes, the check is silent, and the opposition is invisible for ever. **A synonym does not weaken the
+mechanism, it switches it off**, and the only defence is to read the declared vocabulary before adding to it
+rather than after. The same reading unified `time_inconsistency` onto the existing `precommitment` rather than
+coining `discretion` for its inverse, and put `ask_the_one_who_sells` and `the_sole_supplier` on one
+`buyer-informedness`, since a patient who cannot judge a treatment and a sponsor who cannot observe a bureau's
+cost are one quantity in two settings.
+
+**And the bureaucracy conversation, like the Olson one before it, does not share an axis.** Five misfits across
+four canon works, and they come out on `problem-dependence`, `internal-advancement`, `blame-for-deviation`,
+`codification` and `buyer-informedness`. **Two families running, a shared canon work has not implied a shared
+quantity**, which is worth recording because the family map is the instrument for finding these and it locates a
+conversation rather than an axis.

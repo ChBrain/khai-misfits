@@ -2,6 +2,8 @@
 concept: "The Shirky Principle (institutions preserve the problem)"
 field: "Organisations, hierarchy, and management"
 source: "Shirky (c. 2010); Kelly"
+axis: problem-dependence
+sign: negative # how an institution's incentive to cure moves as the share of its resources depending on the problem rises
 updated: "2026-07-02"
 ---
 

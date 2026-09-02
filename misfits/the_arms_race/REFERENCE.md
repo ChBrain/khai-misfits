@@ -2,6 +2,8 @@
 concept: "The Arms Race (positional goods)"
 field: "Collective action, commons, and coordination"
 source: "Hirsch, _Social Limits to Growth_ (1976); Frank"
+axis: positional-effort
+sign: negative # how the return on effort moves as aggregate effort for a fixed rank rises
 updated: "2026-08-28"
 ---
 

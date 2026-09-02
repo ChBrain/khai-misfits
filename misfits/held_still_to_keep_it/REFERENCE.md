@@ -74,6 +74,20 @@ and truthfully and the goal it stood for quietly dies: there a proxy displaces a
 the number. Here no measurement is involved and nothing is being optimised. What displaces the practice is a
 description of it, entered honestly, by people with no target to hit.
 
+It runs directly against the house's **No One in Charge**, on the same axis and with the opposite sign,
+and the two are worth reading together. Both turn on one quantity, **how much of an arrangement is made
+explicit and fixed** so that somebody can check it next year. Here that is the harm: a practice whose worth
+is that it is done differently every time cannot be written into a description it must then match, so the
+inventory fixes content the practice never had. There it is the remedy: a group that refuses formal
+structure does not abolish power but hides it, and power that is named can be argued with where power that
+is denied cannot be reached.
+
+**What sets the sign is what is being made explicit.** Where the thing is a living practice, writing it
+down is a claim about its content, and the claim becomes the standard the practice is held to. Where the
+thing is a relation of power, writing it down subtracts nothing from it and adds a handle. So the same
+move, recommended by both literatures in good faith, is the loss in one and the correction in the other,
+and neither play is wrong about its own case.
+
 ## Origin
 
 The instrument, the critique, and the parallel in language.

@@ -2,6 +2,8 @@
 concept: "Defensive Medicine (goal displacement; blame culture)"
 field: "Groups, candour, and face"
 source: "Studdert et al. (JAMA, 2005); Merton"
+axis: blame-for-deviation
+sign: negative # how effort's flow toward the aim moves as blame for departing from procedure rises
 updated: "2026-07-06"
 ---
 
