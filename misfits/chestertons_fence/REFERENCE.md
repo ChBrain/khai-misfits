@@ -2,6 +2,8 @@
 concept: "Chesterton's Fence (removing a forgotten safeguard)"
 field: "Safety, risk, and complex systems"
 source: "Chesterton, _The Thing_ (1929)"
+axis: codification
+sign: positive # how a safeguard's chance of surviving review moves as the reason for it is made explicit
 updated: "2026-07-02"
 ---
 
@@ -33,6 +35,15 @@ electricity was also holding the frequency steady and nobody noticed until it ha
 second function was never known to anybody, an unbilled service discovered only by its absence,
 whereas here the purpose was known once and has been forgotten, so the safeguard stands in plain
 sight with its reason mislaid.
+
+It runs against the house's **Held Still to Keep It**, on the same axis and with the opposite sign, and it
+sits beside **No One in Charge**, which runs against that play already. The quantity is the same in all
+three, **how much of an arrangement is made explicit and fixed**, and the discriminator those plays
+established holds here without amendment: **what sets the sign is what is being made explicit.** Writing
+down a living practice is a claim about its content, and the claim becomes the standard the practice is
+held to. Writing down the reason a fence was built subtracts nothing from the fence and adds a handle, so
+this play is on the same side as the naming of power: the safeguard whose rationale is written survives
+the review that the safeguard whose rationale is tacit does not.
 
 ## Origin
 

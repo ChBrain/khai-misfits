@@ -88,6 +88,12 @@ thing is a relation of power, writing it down subtracts nothing from it and adds
 move, recommended by both literatures in good faith, is the loss in one and the correction in the other,
 and neither play is wrong about its own case.
 
+It runs against the house's **Chesterton's Fence** as well, on the same axis and for the same reason as No
+One in Charge above. There a safeguard is amputated because the reason for it was never written down, and
+writing it down is what would have saved it. The discriminator is unchanged: **what is being made explicit
+decides the sign.** A rationale is not the thing it justifies, so recording it costs the fence nothing,
+where recording a practice fixes content the practice never had.
+
 ## Origin
 
 The instrument, the critique, and the parallel in language.

@@ -2,6 +2,8 @@
 concept: "Debt-Deflation"
 field: "Markets, money, and economic equilibria"
 source: 'Fisher, "The Debt-Deflation Theory of Great Depressions" (Econometrica, 1933)'
+axis: simultaneous-deleveraging
+sign: negative # how the real burden of debt moves as more borrowers liquidate at once to reduce it
 updated: "2026-08-27"
 ---
 
