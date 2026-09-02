@@ -2,6 +2,8 @@
 concept: "The Budget-Maximizing Bureau (bureaucratic oversupply under hidden cost)"
 field: "Markets, money, and economic equilibria"
 source: "Niskanen, _Bureaucracy and Representative Government_ (1971)"
+axis: buyer-informedness
+sign: positive # how the fit between what is bought and what is needed moves as the payer's ability to judge rises
 updated: "2026-07-29"
 ---
 

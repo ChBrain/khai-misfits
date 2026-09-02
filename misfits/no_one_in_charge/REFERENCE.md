@@ -2,6 +2,8 @@
 concept: "The Tyranny of Structurelessness (informal power in leaderless groups)"
 field: "Organisations, hierarchy, and management"
 source: 'Freeman, "The Tyranny of Structurelessness" (1972-73)'
+axis: codification
+sign: positive # how the checkability of power moves as arrangements are made explicit and fixed
 updated: "2026-07-21"
 ---
 
@@ -32,6 +34,20 @@ one. It is distinct too from Pournelle's Iron Law, where a formal organisation i
 organisation over those devoted to its mission: there an organisation exists and is turned to its own maintenance,
 while here no formal organisation exists at all, and the elite forms in the vacuum the refusal leaves, its power
 informal from the start and denied rather than entrenched in office.
+
+It runs directly against the house's **Held Still to Keep It**, on the same axis and with the opposite
+sign, and the two are worth reading together. Both turn on one quantity, **how much of an arrangement is
+made explicit and fixed** so that somebody can check it next year. Here that is protective: power that is
+named can be argued with, stood for, voted out; power that is denied cannot be reached at all, which is
+why the remedy is to formalise. There it is destructive: a practice whose worth is that it is done
+differently every time cannot be written into a description it must then match, so inscribing it fixes
+content the practice never had.
+
+**What sets the sign is what is being made explicit.** Where the thing is a relation of power, writing it
+down subtracts nothing from it and adds a handle. Where the thing is a living practice, writing it down is
+a claim about its content, and the claim becomes the standard the practice is held to. So the same move,
+recommended by both literatures in good faith, is the correction in one and the loss in the other, and
+neither play is wrong about its own case.
 
 ## Origin
 

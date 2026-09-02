@@ -2,6 +2,8 @@
 concept: "Time Inconsistency (dynamic inconsistency)"
 field: "Markets, money, and economic equilibria"
 source: 'Kydland & Prescott, "Rules Rather than Discretion" (JPE, 1977); Nobel'
+axis: precommitment
+sign: positive # how the sustainability of the first-best plan moves as the ability to bind oneself rises
 updated: "2026-07-02"
 ---
 
