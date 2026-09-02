@@ -8895,3 +8895,48 @@ worse than a missing one: it would have put two plays in conflict that answer di
 
 `starting_tomorrow` joined `precommitment`, which now carries three, since a commitment device against one's own
 later self is the same quantity as a hand tied against one's own later judgement.
+
+**The seventy-first pass scouted to refill the slate, which had no authoring candidate on it, and it read the
+measurement field's concept list rather than probing the house with a candidate's vocabulary.** Eighty-four
+concepts, and the field is close to saturated: regression, publication bias, forking paths, Simpson, Berkson,
+immortal time, the optimizer's curse, the streetlight, the file drawer and the reliability ceiling are all
+staged. The two gaps that survived reading are one shape twice.
+
+**The shape is that there is no neutral choice, and every available choice moves the answer.** It is not that the
+analyst looks in the wrong place, and it is not that the flexibility is hidden. It is that the method requires a
+setting the world does not supply.
+
+- [ ] [P1] **The Modifiable Areal Unit Problem.** A correlation computed over areal units changes when the units
+      are redrawn, in both size and shape, and no zoning is the correct one, so every spatial statistic carries a
+      choice its author had to make and cannot justify. **Three switch-offs run and it survives all three.**
+      **Simpson's Paradox**'s quantity is a confounder that reverses an association on aggregation: stipulate no
+      such subgroup structure and the estimate still moves when the zones are redrawn, because the units are the
+      aggregation. **The Streetlight Effect**'s is the ease of a place: stipulate every zoning equally easy and it
+      survives. **Reasonable Either Way**'s is undisclosed flexibility: **pre-register the zoning and it survives
+      entirely**, since declaring one choice does not make it right, and that is the sharpest line between them,
+      the forking-paths play is about the flexibility being hidden and this one about there being no correct
+      option to disclose. No-hero looks strong: a sensitivity analysis across zonings shows the spread and cannot
+      say which zoning to use, because the modifiability is a property of the world.
+
+- [ ] [P3] **The reference class problem**, slated below it and possibly inside it. There is no uniquely correct
+      class to place a case in, and the probability moves with the class chosen. The house already stages the
+      **remedy**: reference-class forecasting is Flyvbjerg's answer inside The Planning Fallacy. A play about a
+      remedy with no principled setting is a real shape, and it may also be the same shape as the line above read
+      without the geography, in which case it is an Origin row on it and not a play. **Settle that before
+      authoring**, on the rule this file already carries: a caution is a debt.
+
+**And the pre-authoring scan cost more than the candidate did, which is the finding to carry.** Three surnames in
+the MAUP spine are taken, and every one of them is a genuine namesake rather than the same person on another
+work:
+
+| Surname    | The house's                             | The candidate's                    | What it owes                                             |
+| ---------- | --------------------------------------- | ---------------------------------- | -------------------------------------------------------- |
+| `Taylor`   | Frederick Winslow, in Sandbag, **bare** | Peter, of Openshaw and Taylor 1979 | cells first, then a declaration                          |
+| `Biehl`    | Michael, in The Spent Margin, **bare**  | Karl, of Gehlke and Biehl 1934     | cells first, then a declaration                          |
+| `Robinson` | Sandra and Robert, **declared**         | W S, of the ecological fallacy     | a declaration first, and only if that neighbour is cited |
+
+**So the spine is free and the history is not.** Openshaw's monograph and Fotheringham and Wong are clear and
+carry the mechanism on their own; the 1979 demonstration and the 1934 origin each cost a cells-first pass plus a
+declaration before the play can cite them. That is a real choice for the author and it is better made now than
+discovered at the wall: **take the free spine, and add the history later behind its own passes**, or spend two
+governance passes first and cite the whole lineage. Either is defensible; neither should be stumbled into.
