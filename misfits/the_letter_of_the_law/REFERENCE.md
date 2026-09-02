@@ -2,6 +2,8 @@
 concept: "Specification Gaming (reward hacking; the flip side of AI ingenuity)"
 field: "Measurement, cognition, and inquiry"
 source: "Amodei et al. (2016); Krakovna et al. (2020); Clark & Amodei (2016); Russell (2019)"
+axis: incentive-intensity
+sign: negative # how the intent behind a specification moves as the reward for satisfying its letter rises
 updated: "2026-08-28"
 ---
 

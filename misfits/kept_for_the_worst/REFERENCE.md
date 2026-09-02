@@ -2,6 +2,8 @@
 concept: "The Broken Antibiotic Market (conservation-reward conflict; delinkage)"
 field: "Markets, money, and economic equilibria"
 source: 'Outterson et al., "Repairing The Broken Market For Antibiotic Innovation" (Health Affairs, 2015)'
+axis: incentive-intensity
+sign: negative # how a drug's remaining usefulness moves as the reward for supplying it is tied to volume
 updated: "2026-07-31"
 ---
 

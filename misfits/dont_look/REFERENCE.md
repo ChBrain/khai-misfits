@@ -2,6 +2,8 @@
 concept: "The Ostrich Effect (information avoidance)"
 field: "Measurement, cognition, and inquiry"
 source: "Galai & Sade (J. Business, 2006); Karlsson, Loewenstein & Seppi"
+axis: expected-bad-news
+sign: negative # how the chance of looking moves as the expected unwelcomeness of what is there rises
 updated: "2026-07-24"
 ---
 

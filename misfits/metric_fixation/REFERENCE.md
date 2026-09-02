@@ -2,6 +2,8 @@
 concept: "Goodhart's Law (metric fixation; goal displacement)"
 field: "Measurement, cognition, and inquiry"
 source: "Ridgway (ASQ, 1956); Goodhart; Campbell"
+axis: incentive-intensity
+sign: negative # how the thing the measure stood for moves as the reward attached to the measure rises
 updated: "2026-08-28"
 ---
 
