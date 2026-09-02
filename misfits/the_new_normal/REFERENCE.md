@@ -2,6 +2,8 @@
 concept: "Normalization of Deviance"
 field: "Safety, risk, and complex systems"
 source: "Vaughan, _The Challenger Launch Decision_ (1996)"
+axis: survived-deviations
+sign: negative # how the standard's location moves as departures from it accumulate without an accident
 updated: "2026-07-01"
 ---
 

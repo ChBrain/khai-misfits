@@ -2,6 +2,8 @@
 concept: "The Bus Factor (tacit knowledge; key-person risk)"
 field: "Organisations, hierarchy, and management"
 source: "Polanyi, _The Tacit Dimension_ (1966)"
+axis: knowledge-concentration
+sign: negative # how a group's resilience to losing one member moves as knowledge routes to whoever already holds it
 updated: "2026-07-01"
 ---
 

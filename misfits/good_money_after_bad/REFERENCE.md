@@ -2,6 +2,8 @@
 concept: "Escalation of Commitment (sunk cost; throwing good money)"
 field: "Measurement, cognition, and inquiry"
 source: 'Staw, "Knee-Deep in the Big Muddy" (1976)'
+axis: sunk-cost
+sign: negative # how the weight given to marginal value moves as what has already been spent accumulates
 updated: "2026-08-28"
 ---
 

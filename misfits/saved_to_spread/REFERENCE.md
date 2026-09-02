@@ -2,6 +2,8 @@
 concept: "Leaky-Vaccine Hypervirulence (imperfect vaccination and virulence evolution)"
 field: "Ecology, evolution, and public health"
 source: "Read, Baigent, Powers et al. (PLoS Biology, 2015)"
+axis: vaccine-leakiness
+sign: negative # how the lethality met by the unprotected moves as a vaccine blunts disease without blocking transmission
 updated: "2026-08-28"
 ---
 

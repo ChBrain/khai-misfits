@@ -2,6 +2,8 @@
 concept: "Drift into Failure (the migration model; the boundary of safe operation)"
 field: "Safety, risk, and complex systems"
 source: 'Rasmussen, "Risk Management in a Dynamic Society" (Safety Science, 1997); Dekker'
+axis: buffer-slack
+sign: positive # how the distance to the boundary of safe operation moves as slack rises
 updated: "2026-07-21"
 ---
 
@@ -40,6 +42,19 @@ engine is a leanness that breeds fragility once slack is optimised away, in that
 continuous migration of the operating point toward an unmarked edge rather than the static fragility of a lean
 configuration, and from The Spent Margin, whose risk compensation consumes a realised safety gain, in that no safety gain
 is being spent here, the margin going to the pull of cost and effort with no dividend returned to be consumed.
+
+It runs against the house's **Too Kind to Drop**, on the same axis and with the opposite sign, and it
+sits beside **No Idle Hands** and **The Brittle Optimum**, which run against that play already. The
+discriminator is the one those plays established and this one does not need to replace: **what sets the
+sign is whether the load is answering the queue.** Slack absorbs variability that arrives regardless, so
+more of it is better against a load that does not care how full you are; a buffer deep enough never to
+drop sits inside a control loop, and the drop it refuses is the signal that would have slowed the sender.
+
+This play is on the first side, and sharply. The pressure that consumes the margin here is competitive and
+workload pressure, which does not read the margin and does not slow when it thins: **the boundary is
+unmarked, so nothing about approaching it feeds back to the approach**. That is the same condition the
+rule names, arriving as an absence rather than as a delay, which is why the answer is the same and the
+margin is the thing to defend.
 
 ## Origin
 

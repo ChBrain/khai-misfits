@@ -2,6 +2,8 @@
 concept: "The Diamond Paradox (search cost collapsing price competition)"
 field: "Markets, money, and economic equilibria"
 source: 'Diamond, "A Model of Price Adjustment" (JET, 1971)'
+axis: search-cost
+sign: negative # how price competition moves as the cost of comparing one more seller rises
 updated: "2026-07-29"
 ---
 

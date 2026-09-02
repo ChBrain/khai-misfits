@@ -2,6 +2,8 @@
 concept: "The Disposition Effect (get-even-itis; riding losers, realising winners)"
 field: "Markets, money, and economic equilibria"
 source: "Shefrin & Statman (J. Finance, 1985)"
+axis: paper-loss-depth
+sign: negative # how the readiness to close a position moves as its unrealised loss deepens
 updated: "2026-07-24"
 ---
 

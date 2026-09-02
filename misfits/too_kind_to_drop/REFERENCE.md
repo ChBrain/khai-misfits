@@ -67,6 +67,13 @@ its depth destroys the feedback that regulates its own input. Spare capacity hel
 exogenous and harms where the load is a reply to the queue, and the same figure of merit reads both
 ways.
 
+It runs against a third of the house's plays on this axis, **The Unmarked Edge**, in the same way and for
+the same reason as the two above. There the operating point migrates toward a boundary of safe operation
+under competitive and workload pressure, and the margin is what is being eaten, so more of it is better.
+**The discriminator is unchanged**: the pressure that consumes that margin does not read it and does not
+slow as it thins, because the boundary is unmarked, so nothing about approaching it feeds back to the
+approach. Slack helps where the load does not answer the queue, and here it does not answer at all.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.
