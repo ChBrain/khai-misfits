@@ -8,6 +8,7 @@ import {
   verifyRelease,
   checkManagement,
   verifyRegistry,
+  checkPacking,
   checkRegistryPacking,
   packedFilesAny,
   resolveHouse,
@@ -169,6 +170,11 @@ describe("the delivery walls the kit holds", () => {
       const packed = packedFilesAny(REPO);
       const findings = checkRegistryPacking(REPO, packed);
       expect(findings).toEqual([]);
+      // The registry check reads anchors and governance. The manifest's own
+      // promise is the other half: registry.json, README, both licences and
+      // every file under the content glob, which is how a warrant ships. The
+      // retired local packing test held both; one line keeps the second.
+      expect(checkPacking(REPO, packed)).toEqual([]);
     },
   );
 
