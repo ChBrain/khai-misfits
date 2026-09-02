@@ -1,7 +1,15 @@
 import { describe, it, expect } from "vitest";
 import { dirname, join } from "node:path";
 import { readFileSync, readdirSync, existsSync } from "node:fs";
-import { validateProject } from "@chbrain/khai-tests";
+import {
+  validateProject,
+  verifyGatesAgainstCi,
+  verifyRelease,
+  checkManagement,
+  verifyRegistry,
+  checkRegistryPacking,
+  packedFilesAny,
+} from "@chbrain/khai-tests";
 import { referenceCard } from "@chbrain/khai-arch";
 import { validateProjectLanguages } from "@chbrain/khai-language";
 import { REPO, HOUSE } from "./house_root.mjs";
@@ -119,6 +127,49 @@ describe("Misfits house: misfits conform to the canon", () => {
     }
 
     if (existsSync(misfitsDir)) walk(misfitsDir);
+    expect(errors).toEqual([]);
+  });
+});
+
+// The kit's own delivery walls: not about the misfits, about the house's
+// delivery machinery holding to what it claims about itself. Wired here
+// rather than left to a house-local reimplementation, the case this house
+// already keeps for `tests/release.test.mjs` and `tests/packing.test.mjs`
+// (both hand-written before the kit carried the same checks): a house that
+// writes its own version of a wall the kit now ships is a second copy of one
+// truth, and the retired preflight this house's own AGENTS.md already tells
+// that story about. A later pass retires the house's local copies; this pass
+// only adds the kit's.
+describe("the delivery walls the kit holds", () => {
+  it("the gates manifest matches the CI workflow's own job ids", () => {
+    const findings = verifyGatesAgainstCi(REPO);
+    expect(findings).toEqual([]);
+  });
+
+  it("the release workflow calls this house's own scripts", () => {
+    const findings = verifyRelease(REPO);
+    expect(findings).toEqual([]);
+  });
+
+  // `npm pack` over the whole tree takes tens of seconds, so this gets a
+  // generous timeout the way the canon and language-policy checks above do.
+  it(
+    "the registry's promise is held against the tarball (flat house)",
+    { timeout: 120_000 },
+    () => {
+      const packed = packedFilesAny(REPO);
+      const findings = checkRegistryPacking(REPO, packed);
+      expect(findings).toEqual([]);
+    },
+  );
+
+  it("the management core converges on the installed blueprint", () => {
+    const errors = checkManagement(REPO);
+    expect(errors).toEqual([]);
+  });
+
+  it("the registry passes its own verification", () => {
+    const { errors } = verifyRegistry(HOUSE);
     expect(errors).toEqual([]);
   });
 });
