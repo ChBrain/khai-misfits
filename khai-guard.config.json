@@ -237,6 +237,9 @@
   "driftPolicy": {
     "scopes": ["@chbrain/"]
   },
+  "ciPolicy": {
+    "split": { "khai-tests": ["prettier", "suite"] }
+  },
   "gates": [
     {
       "name": "prettier",
@@ -253,7 +256,12 @@
     },
     {
       "name": "branch-check",
-      "command": "npx khai-guard branch-check"
+      "command": "npx khai-guard branch-check",
+      "job": "khai-branch-scope"
+    },
+    {
+      "name": "changeset-check",
+      "command": "npx khai-guard changeset-check"
     }
   ],
   "workPolicy": {
