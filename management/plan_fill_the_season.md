@@ -8755,3 +8755,37 @@ imported the answer without that sentence would have quietly turned a no-hero pl
 literature.
 
 Index rows 2097 to 2100, shared works 0, namesakes 0 unresolved, count unmoved at 329.
+
+**The sixty-sixth pass took the axis-coverage line and declared six, and the useful half of it is the three it
+refused.** Coverage moves 109 to 115 of 329. The line stays open: it is a ratchet and not a task.
+
+The family map was read forwards, as the contract says to. The Olson conversation is the richest in the house,
+six misfits across two canon works, and **it does not share one axis**, which is worth knowing before somebody
+tries to give it one. **The Commons**, **The Loud Few** and **Regulatory Capture** do share a dial, the size of
+the group across which a stake is spread, so all three declare `group-size` negative: in Hardin's mechanism each
+user's share of the harm is one over the number of users, and in Olson's each member's share of a diffuse benefit
+is too thin to act on. **Vetocracy** states its own quantity in its governing law and declares `veto-points`
+negative. From the Keynes family, **The Paradox of Thrift** declares `saving-rate` negative and **The Beauty
+Contest** declares `belief-order` negative, since a price's grip on fundamentals is what loosens as the depth of
+reasoning about other people's beliefs rises.
+
+**Three were left undeclared on purpose, and each for a different reason.**
+
+**Bootleggers and Baptists** turns on a public-interest justification coinciding with a private gain, which is not
+a quantity anybody measures. Declaring `group-size` there because the family shares it would have been the exact
+defect the contract warns of: a sign that is only true under an unstated condition, parsing cleanly and readable
+by no gate.
+
+**The High Water Mark** hedges in its own prose, and correctly: the displacement effect is a documented tendency
+drawn chiefly from one country's war-driven record, and the warrant says spending does sometimes fall. A play
+that qualifies its own law that heavily is not one to hand a sign to.
+
+**Pushing on a String** is the interesting refusal. Its response is **flat, not signed**: at the bound, further
+easing does nothing, and a quantity whose outcome stops responding has no sign to declare. That is a third shape
+the mechanism cannot express, beside the one-dial-two-bad-ends of Exactly How Far and the horizon-dependent sign
+of Ready on the First Day. **A flat response is not a small negative one**, and rounding it to negative would
+have put a false claim where a gate reads.
+
+No new opposed pair fired, which is the expected result of declaring six misfits that agree with each other, and
+is not evidence the declarations are idle: the check widened by six and found nothing to say, which is different
+from not having looked. No artefact rebuilt, since an axis is frontmatter the indexes do not key on.

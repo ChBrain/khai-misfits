@@ -2,6 +2,8 @@
 concept: "The Tragedy of the Commons"
 field: "Collective action, commons, and coordination"
 source: "Lloyd (1833); Hardin (Science, 1968)"
+axis: group-size
+sign: negative # how the resource's condition moves as the number sharing it rises
 updated: "2026-07-01"
 ---
 

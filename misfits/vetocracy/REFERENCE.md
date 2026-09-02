@@ -2,6 +2,8 @@
 concept: "Vetocracy (too many veto points)"
 field: "Collective action, commons, and coordination"
 source: "Fukuyama, _Political Order and Political Decay_ (2014)"
+axis: veto-points
+sign: negative # how a system's capacity to act moves as the number of actors able to block it rises
 updated: "2026-07-06"
 ---
 
