@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.329.0",
+  "version": "0.330.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -67516,6 +67516,228 @@
           "kind": "process",
           "title": "Structuring",
           "taxonomy": "play_whatevers_in_the_can.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "wherever_you_draw_it",
+      "title": "Wherever You Draw It",
+      "description": "A statistic computed over areas moves when the areas are redrawn, and no drawing is the correct one.",
+      "members": [
+        {
+          "file": "persona_the_analyst.md",
+          "kind": "persona",
+          "title": "The Analyst",
+          "type": "archetype",
+          "taxonomy": "position_computation.md"
+        },
+        {
+          "file": "persona_the_boundary.md",
+          "kind": "persona",
+          "title": "The Boundary",
+          "type": "archetype",
+          "taxonomy": "position_partition.md"
+        },
+        {
+          "file": "persona_the_estimate.md",
+          "kind": "persona",
+          "title": "The Estimate",
+          "type": "archetype",
+          "taxonomy": "position_publication.md"
+        },
+        {
+          "file": "persona_the_reader.md",
+          "kind": "persona",
+          "title": "The Reader",
+          "type": "archetype",
+          "taxonomy": "position_reading.md"
+        },
+        {
+          "file": "persona_the_sensitivity_run.md",
+          "kind": "persona",
+          "title": "The Sensitivity Run",
+          "type": "archetype",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "piece_declaring_it_does_not_fix_it.md",
+          "kind": "piece",
+          "title": "Declaring It Does Not Fix It",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "piece_drawn_for_something_else.md",
+          "kind": "piece",
+          "title": "Drawn for Something Else",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "piece_not_a_frequentist_problem.md",
+          "kind": "piece",
+          "title": "Not a Frequentist Problem",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "piece_two_effects_not_one.md",
+          "kind": "piece",
+          "title": "Two Effects, Not One",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "piece_worse_in_more_dimensions.md",
+          "kind": "piece",
+          "title": "Worse in More Dimensions",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "pitch_nobody_drew_it_against_you.md",
+          "kind": "pitch",
+          "title": "Nobody Drew It Against You",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "place_the_boundary_file.md",
+          "kind": "place",
+          "title": "The Boundary File",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "place_the_map.md",
+          "kind": "place",
+          "title": "The Map",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "place_the_table.md",
+          "kind": "place",
+          "title": "The Table",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "plan_compute_the_coefficient.md",
+          "kind": "plan",
+          "title": "Compute the Coefficient",
+          "taxonomy": "position_computation.md"
+        },
+        {
+          "file": "plan_publish_one_number.md",
+          "kind": "plan",
+          "title": "Publish One Number",
+          "taxonomy": "position_publication.md"
+        },
+        {
+          "file": "plan_read_it_as_a_fact.md",
+          "kind": "plan",
+          "title": "Read It as a Fact",
+          "taxonomy": "position_reading.md"
+        },
+        {
+          "file": "plan_show_the_spread.md",
+          "kind": "plan",
+          "title": "Show the Spread",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "plan_use_the_units_you_have.md",
+          "kind": "plan",
+          "title": "Use the Units You Have",
+          "taxonomy": "position_partition.md"
+        },
+        {
+          "file": "play_wherever_you_draw_it.md",
+          "kind": "play",
+          "title": "Wherever You Draw It"
+        },
+        {
+          "file": "plot_and_somebody_has_to_publish_one.md",
+          "kind": "plot",
+          "title": "And Somebody Has to Publish One",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "plot_cut_it_again.md",
+          "kind": "plot",
+          "title": "Cut It Again",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "plot_the_number_comes_out.md",
+          "kind": "plot",
+          "title": "The Number Comes Out",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "plot_the_reader_cannot_tell.md",
+          "kind": "plot",
+          "title": "The Reader Cannot Tell",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "plot_the_units_arrive_already_drawn.md",
+          "kind": "plot",
+          "title": "The Units Arrive Already Drawn",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "position_computation.md",
+          "kind": "position",
+          "title": "Computation",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "position_partition.md",
+          "kind": "position",
+          "title": "Partition",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "position_publication.md",
+          "kind": "position",
+          "title": "Publication",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "position_reading.md",
+          "kind": "position",
+          "title": "Reading",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "position_recourse.md",
+          "kind": "position",
+          "title": "Recourse",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "process_aggregating.md",
+          "kind": "process",
+          "title": "Aggregating",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "process_drawing.md",
+          "kind": "process",
+          "title": "Drawing",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "process_estimating.md",
+          "kind": "process",
+          "title": "Estimating",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "process_re_cutting.md",
+          "kind": "process",
+          "title": "Re-cutting",
+          "taxonomy": "play_wherever_you_draw_it.md"
+        },
+        {
+          "file": "process_reporting.md",
+          "kind": "process",
+          "title": "Reporting",
+          "taxonomy": "play_wherever_you_draw_it.md"
         }
       ]
     },

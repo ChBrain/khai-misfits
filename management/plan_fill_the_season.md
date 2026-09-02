@@ -8967,8 +8967,32 @@ Venn are all clear, and neither work is cited anywhere in the house, so the gene
 warrant with the spine rather than waiting behind a namesake pass. The 1979 demonstration and the 1934 origin
 still cost what the last pass priced them at.
 
-- [ ] [P1] and so the Modifiable Areal Unit Problem is now slated with its Origin table half-written: Openshaw's
+- [x] [P1] and so the Modifiable Areal Unit Problem is now slated with its Origin table half-written: Openshaw's
       monograph and Fotheringham and Wong for the spine, **the reference class problem as the row showing the
       engine is not an artefact of maps**, and The Planning Fallacy named as the neighbour whose remedy this play
       is the shadow of, since reference-class forecasting presumes the choice this mechanism says cannot be made
       on principle.
+
+**The seventy-third pass staged Wherever You Draw It, misfit 330, and it is the first play this house has authored
+from a slate line whose Origin table was already half decided.** The spine was priced, the general-form row was
+settled as a row, and the neighbour was named, all before a file existed. The pass wrote and built and nothing was
+discovered at the wall.
+
+**The free spine was taken, as the pricing pass recommended.** Openshaw's monograph carries the mechanism and the
+two limbs; Fotheringham and Wong carry the multivariate result, which their own authors report as evidence of
+unreliability rather than as a caveat; Hajek carries the engine without the geography; Reichenbach carries the
+naming. **All five surnames were clear before and each carries one key after.** The 1979 demonstration and the
+1934 origin were left where the pricing pass put them, behind a cells-first pass and a declaration each.
+
+**The sharpest line in the warrant is the one against Reasonable Either Way**, and it is what makes this a play
+rather than a version of an existing one. That misfit's quantity is analytic flexibility being **hidden**, and
+full pre-registration removes its harm. Here **pre-registering the zoning changes the analyst's standing and not
+the estimate**, because naming in advance which arbitrary partition will be used does not make it the right one.
+One play is about a choice that should have been declared and the other about a choice with no correct option to
+declare.
+
+**And the neighbour lookup caught three wrong names before the gate did.** The house's Simpson's paradox play is
+**The Bigger Picture**, not the title I first wrote, and the search that found it is the one worth repeating: a
+grep for a concept matches every warrant that **mentions** it, and only a match on the `concept:` frontmatter line
+finds the misfit that **holds** it. Three of four neighbours came back wrong on the first method and right on the
+second. **A neighbour named from a mention is a neighbour named from somebody else's prose.**
