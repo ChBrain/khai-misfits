@@ -2,6 +2,8 @@
 concept: "The Keynesian Beauty Contest (higher-order beliefs; the regress of expectations)"
 field: "Markets, money, and economic equilibria"
 source: "Keynes, _The General Theory_ (1936), ch. 12"
+axis: belief-order
+sign: negative # how a price's grip on fundamentals moves as the depth of reasoning about others' beliefs rises
 updated: "2026-07-20"
 ---
 

@@ -2,6 +2,8 @@
 concept: "The Paradox of Thrift (fallacy of composition)"
 field: "Markets, money, and economic equilibria"
 source: "Keynes, _The General Theory_ (1936)"
+axis: saving-rate
+sign: negative # how aggregate income moves as the share of income saved rises
 updated: "2026-07-03"
 ---
 

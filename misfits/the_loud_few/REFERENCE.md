@@ -2,6 +2,8 @@
 concept: "The Logic of Collective Action (concentrated benefits, diffuse costs)"
 field: "Collective action, commons, and coordination"
 source: "Olson, _The Logic of Collective Action_ (1965)"
+axis: group-size
+sign: negative # how a group's capacity to secure its common interest moves as its size rises
 updated: "2026-07-24"
 ---
 
