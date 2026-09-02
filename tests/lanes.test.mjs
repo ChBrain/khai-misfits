@@ -24,9 +24,13 @@
 
 import { describe, it, expect } from "vitest";
 import { readFileSync } from "node:fs";
-import { join } from "node:path";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
 import { checkBranchScope, resolveConfig } from "@chbrain/khai-guard";
-import { REPO } from "./house_root.mjs";
+
+// The repository root: `tests/` does not move, so this needs no probing in
+// either layout.
+const REPO = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 const config = resolveConfig(
   JSON.parse(readFileSync(join(REPO, "khai-guard.config.json"), "utf8")),
@@ -97,6 +101,24 @@ describe("lanes: the config decides the same way in both layouts", () => {
     ]) {
       expect(lanes(path)).toEqual(EITHER);
     }
+  });
+
+  it("holds .changeset/** as a rider, not as shared", () => {
+    // `shared` is for build artefacts, which are never the whole of a change, so
+    // a shared path owns no lane and `khai-guard branch` refuses: "this change is
+    // not one lane". A changeset REPAIR is a change whose whole content is
+    // .changeset/**, so under `shared` the fix for a wrong package name would
+    // have had nowhere to be committed. A rider already means what was wanted:
+    // it rides the lane of the change it accompanies and homes to a fallback
+    // when it rides alone. Moved here from tests/changesets.test.mjs, retired
+    // now that the corpus rule it stood beside (a changeset names a real
+    // workspace package) is computed by `khai-guard changeset-check` itself.
+    const raw = JSON.parse(readFileSync(join(REPO, "khai-guard.config.json"), "utf8"));
+    expect(raw.branchScope.shared).not.toContain(".changeset/**");
+    expect(raw.branchScope.riders).toContainEqual({
+      pattern: ".changeset/**",
+      fallback: "governance",
+    });
   });
 
   it("does not hand the misfit lane the rest of the package", () => {

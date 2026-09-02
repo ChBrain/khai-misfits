@@ -17,8 +17,6 @@ import {
   slateLineConcept,
   findShadowedForms,
   findSuffixKeys,
-  givenFor,
-  axesOf,
 } from "./science_overlap.mjs";
 
 // The cross-misfit warrant gate for the Misfits house. Every other gate is
@@ -147,29 +145,11 @@ describe("Misfits house: cross-misfit warrant gate", () => {
     expect(findMalformedAxes()).toEqual([]);
   });
 
-  // The contract documents the axis declaration with a trailing YAML comment on
-  // the sign line. Anchoring the parse on end-of-line without allowing one made
-  // that example unparseable, so an author copying the documentation verbatim
-  // got `axis without sign` and a red build from doing exactly what it said.
-  // What is asserted here is the documented form itself, because the defect was
-  // invisible from any count: every misfit that had declared an axis happened to
-  // have written it without a comment.
-  it("the axis declaration parses in the form the contract documents", () => {
-    const withComment = [
-      "---",
-      'concept: "x"',
-      "axis: population-density",
-      "sign: negative # how the outcome moves as that quantity rises",
-      "---",
-    ].join("\n");
-    const head = withComment.split("---")[1];
-    expect((head.match(/^axis:\s*(\S+)\s*(?:#.*)?$/m) || [])[1]).toBe("population-density");
-    expect((head.match(/^sign:\s*(\S+)\s*(?:#.*)?$/m) || [])[1]).toBe("negative");
-    // And the house's own declarations still read, so the loosening did not
-    // change what it accepts for the form everybody actually wrote.
-    const declared = [...axesOf(ROOT).values()].filter((v) => v.axis && v.sign);
-    expect(declared.length).toBeGreaterThan(90);
-  });
+  // The axis-declaration parse (the trailing-YAML-comment form the contract
+  // documents) is now the kit's own `axesOf`, mechanism and all, from
+  // khai-tests 0.4.2. Its own suite pins that form; this house's wall above
+  // ("no axis declaration is malformed") and the ratchet below are what still
+  // have to hold here.
 
   it("coverage does not slip: no new misfit ships without an axis", () => {
     // The opposition check iterates the misfits that declare an axis, not the
@@ -342,27 +322,11 @@ describe("Misfits house: cross-misfit warrant gate", () => {
     expect(findShadowedForms()).toEqual([]);
   });
 
-  // The undeclared-namesake probe reads given names out of Source cells. It is an
-  // instrument and not a wall, so there is no house state to assert: what is worth
-  // pinning is the reading itself, since every finding it reports is only as good
-  // as this. The lesson from the pass that shipped an unread vocabulary applies
-  // directly, that a newly added mechanism can report a plausible number while
-  // doing nothing, and the way to tell is to assert the mechanism and not the build.
-  it("given-name evidence is read the way an author writes a Source cell", () => {
-    expect(givenFor("Timothy Wilson, Wheatley, Meyers, Gilbert and Axsom", "Wilson")).toBe(
-      "Timothy",
-    );
-    expect(givenFor("James Q. Wilson", "Wilson")).toBe("James Q");
-    // A surname alone is evidence of nothing, which is what keeps a house full of
-    // bare cells out of the output. The probe therefore reports a lower bound: this
-    // house's `Wilson` names four people and the probe can see three.
-    expect(givenFor("Wilson", "Wilson")).toBe("");
-    // A particle surname is one key, and its given name is what precedes the whole
-    // of it rather than what precedes its last token.
-    expect(givenFor("Julian Le Grand", "Le Grand")).toBe("Julian");
-    // The qualifier a Source cell may carry is not a given name.
-    expect(givenFor("Brooks (communication)", "Brooks")).toBe("");
-  });
+  // The undeclared-namesake probe's given-name reading (`givenFor`, the
+  // mechanism the comment above used to pin here) is the kit's own from
+  // khai-tests 0.4.2, exercised by its own suite. What this house still owns
+  // is the ratchet-free walls over its output, `findShadowedForms` above and
+  // `findSuffixKeys` below.
 
   it("no index key is a generational suffix", () => {
     // The build takes the last token of an author part as the surname, which is

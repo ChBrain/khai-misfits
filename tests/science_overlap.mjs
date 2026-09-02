@@ -20,11 +20,17 @@
 // `findUnresolvedNamesakes`, `scholarMatches` and `workMatches` all run off the
 // same collector the science build itself runs on (docs/SCIENCE.md is a
 // render of it, not the source of truth), for a collection house exactly as
-// for the engine monorepo. This module now delegates every one of those to the
-// kit rather than reimplementing them, and keeps only what is genuinely
-// house-specific: the neighbours wall, the axis/opposition wall, the canon
-// family finder, the register-slate check, and the REFERENCES.md concordance
-// build, none of which the kit has any way to know about.
+// for the engine monorepo. From khai-tests 0.4.2 the kit also owns the index's
+// OWN key-computation walls -- `findShadowedForms`, `findSuffixKeys`,
+// `axesOf`/`findMalformedAxes`/`findOpposed` (the axis/opposition wall itself),
+// `undeclaredNamesakes` and `mixedCells` -- so this module delegates every one
+// of those too, keeping only a thin field-name adaptation where this house's
+// CLI output and tests already expect one shape and the kit hands back
+// another. What stays genuinely house-specific: the neighbours wall, the axis
+// coverage ratchet (`findUnaxised`, since the baseline lives in this house's
+// own test), the canon family finder, the register-slate check, and the
+// REFERENCES.md concordance build, none of which the kit has any way to know
+// about.
 //
 // Two exits keep the shared-work rule honest, and both are configured rather
 // than judged, in `workPolicy` in khai-guard.config.json:
@@ -64,25 +70,12 @@
 //                                                 this one matches loosely on
 //                                                 purpose, since a false clear is
 //                                                 what costs 31 files
-//   node tests/science_overlap.mjs --undeclared-namesakes
-//                                                 which surnames the house has not
-//                                                 declared whose own cells already
-//                                                 name more than one person: the
-//                                                 probe run before a declaration,
-//                                                 since the other namesake flags
-//                                                 all read the index after one
-//   node tests/science_overlap.mjs --mixed-cells
-//                                                 undeclared surnames whose cells
-//                                                 mix a named one with a bare one:
-//                                                 the complement of the probe
-//                                                 above, and a reading list rather
-//                                                 than a finding count
-//   node tests/science_overlap.mjs --compound
-//                                                 which Key Work cells hide a
-//                                                 second work behind a semicolon
-//                                                 that another misfit already
-//                                                 holds: the wall cannot see past
-//                                                 the first work in a cell
+//   npx khai-tests science probe                 the kit's own instrument for the
+//                                                 two namesake probes and the
+//                                                 hidden-compound-work scan this
+//                                                 file used to run under
+//                                                 --undeclared-namesakes,
+//                                                 --mixed-cells and --compound
 //   node tests/science_overlap.mjs --surname Miller
 //                                                 is this surname anywhere in the
 //                                                 index, bare or resolved? The
@@ -92,8 +85,9 @@
 
 import fs from "node:fs";
 import { dirname, join, resolve } from "node:path";
-import { HOUSE } from "./house_root.mjs";
+import { fileURLToPath } from "node:url";
 import {
+  resolveHouse,
   loadWorkPolicy,
   normaliseWork,
   isContrast,
@@ -106,18 +100,34 @@ import {
   checkCandidate as kitCheckCandidate,
   scanSurname as kitScanSurname,
   findUnresolvedNamesakes as kitFindUnresolvedNamesakes,
+  findShadowedForms as kitFindShadowedForms,
+  findSuffixKeys as kitFindSuffixKeys,
+  axesOf as kitAxesOf,
+  findMalformedAxes as kitFindMalformedAxes,
+  findOpposed as kitFindOpposed,
+  undeclaredNamesakes as kitUndeclaredNamesakes,
+  mixedCells as kitMixedCells,
+  compoundWorks as kitCompoundWorks,
 } from "@chbrain/khai-tests";
+
+/**
+ * The repository root: the lanes, the config, the changesets, the management
+ * layer and this directory. `tests/` does not move, so this needs no probing
+ * in either layout.
+ */
+const REPO = join(dirname(fileURLToPath(import.meta.url)), "..");
 
 /**
  * The house's content root: `misfits/`, `registry.json`, `docs/SCIENCE.md` and
  * `REFERENCES.md`. Every kit call below is handed this, because the kit reads a
  * content root and walks UP from it for the config.
  *
- * It is the repository root today and `packages/khai-misfits` after the
- * workspace move. See `house_root.mjs` for why that is resolved by package name
- * rather than by path.
+ * Resolved by the kit's own `resolveHouse`, which finds the house by what a
+ * manifest DECLARES rather than by path: the repository root today, and
+ * `packages/khai-misfits` after the workspace move, with no reader here
+ * needing to know which.
  */
-export const ROOT = HOUSE;
+export const ROOT = resolveHouse(REPO).packageDir;
 
 /**
  * The repository root, from a content root: the directory holding
@@ -367,85 +377,16 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       );
     process.exit(0);
   }
-  if (args.includes("--forms")) {
-    const shadowed = findShadowedForms();
-    const homonyms = scholarHomonyms();
-    console.log(
-      `${Object.keys(homonyms).length} declared surname(s); ${shadowed.length} unreachable form(s).`,
-    );
-    for (const s of shadowed)
-      console.log(
-        `  ${s.surname} (${s.form}) is unreachable: "${s.shadowedBy}" is listed first and matches it.\n     move "${s.form}" before "${s.shadowedBy}".`,
-      );
-    process.exit(0);
-  }
-  if (args.includes("--compound")) {
-    const found = findCompoundWorks();
-    const open = found.filter((f) => !f.canon && !f.contrast && !f.supporting);
-    if (!found.length)
-      console.log("no Key Work cell hides a second work that another misfit holds.");
-    for (const f of found) {
-      const why = f.canon
-        ? " [canon: exempt]"
-        : f.contrast
-          ? " [contrast row: exempt]"
-          : f.supporting
-            ? " [background: exempt]"
-            : "";
-      console.log(
-        `COMPOUND  ${f.unit}${why}\n     hidden after the semicolon: ${f.hidden}\n     already indexed to: ${f.holders.join(", ")}`,
-      );
-    }
-    if (found.length)
-      console.log(
-        `\n${found.length} hidden work(s) collide with an indexed work of another misfit; ` +
-          `${open.length} carry no exemption and were never put to the wall.`,
-      );
-    process.exit(0);
-  }
-
-  if (args.includes("--suffixes")) {
-    const bad = findSuffixKeys();
-    if (!bad.length) console.log("no index key is a generational suffix.");
-    for (const b of bad)
-      console.log(
-        `SUFFIX  "${b.key}" is keyed from ${b.misfit}: the Source cell ends in a suffix,\n     so the build took it for the surname. Drop the suffix from the cell.`,
-      );
-    process.exit(0);
-  }
-  if (args.includes("--undeclared-namesakes")) {
-    const found = findUndeclaredNamesakes();
-    if (!found.length) console.log("no undeclared surname's own cells name more than one person.");
-    for (const f of found) {
-      console.log(`UNDECLARED  ${f.surname} names ${f.people.length} people and is not declared.`);
-      for (const p of f.people)
-        console.log(
-          `     ${p.given} ${f.surname}: ${[...new Set(p.rows.map((r) => r.unit))].join(", ")}`,
-        );
-    }
-    if (found.length)
-      console.log(
-        `\n${found.length} undeclared surname(s) carry cells naming more than one person. ` +
-          `A hit is a cell to read, not a verdict: declare locally and run --namesakes to cost the pass.`,
-      );
-    process.exit(0);
-  }
-  if (args.includes("--mixed-cells")) {
-    const found = findMixedCells();
-    if (!found.length) console.log("no undeclared surname mixes a named cell with a bare one.");
-    for (const f of found)
-      console.log(
-        `MIXED  ${f.surname}: named [${f.named.join(" / ")}]  bare in ${f.bare.join(", ")}`,
-      );
-    if (found.length)
-      console.log(
-        `\n${found.length} undeclared surname(s) mix a named cell with a bare one. ` +
-          `This is a reading list and not a finding count: almost every one is a single scholar ` +
-          `an author named in one cell and not another, which owes nothing. It is where a namesake ` +
-          `the --undeclared-namesakes probe cannot see would be hiding, and a person decides.`,
-      );
-    process.exit(0);
-  }
+  // --forms, --suffixes, --compound, --undeclared-namesakes and --mixed-cells
+  // are retired: their mechanisms are wholly the kit's from khai-tests 0.4.2
+  // (`findShadowedForms`, `findSuffixKeys`, `compoundWorks`, and the two probes
+  // `undeclaredNamesakes`/`mixedCells`, all still called by this house's own
+  // wrapper functions above where a house-shaped wall or Origin-table field
+  // rename is owed). Run them through the kit's own CLI instead:
+  //
+  //   npx khai-tests science forms      # declared homonym forms in a misleading order
+  //   npx khai-tests science suffixes   # index keys that are a generational suffix
+  //   npx khai-tests science probe      # undeclared namesakes, mixed cells, compound works
   if (args.includes("--families")) {
     for (const f of canonFamilies()) {
       const marked = f.misfits.map((d) => (f.declared.includes(d) ? d : d + " (no axis)"));
@@ -465,12 +406,17 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     console.log(`  [${p.stems.length}] ${p.pair}`);
     for (const s of p.stems) console.log(`        ${s}`);
   }
-  const opp = findOpposed();
-  const silent = opp.filter((p) => !p.aNamesB || !p.bNamesA);
-  console.log(`opposed pairs on a declared axis: ${opp.length}, undeclared: ${silent.length}\n`);
-  for (const p of opp) {
-    const state = p.aNamesB && p.bNamesA ? "declared  " : "UNDECLARED";
-    console.log(`  ${state}  [${p.axis}]  ${p.a} vs ${p.b}`);
+  // The kit's findOpposed (from khai-tests 0.4.2) already excludes a pair that
+  // names each other both ways -- "the declared, resolved case this wall
+  // exists to require, not a finding" -- so what comes back here is always the
+  // undeclared/silent set; there is no separate "declared" count left to show.
+  const silent = findOpposed();
+  console.log(`opposed pairs not naming each other: ${silent.length}\n`);
+  for (const p of silent) {
+    console.log(
+      `  UNDECLARED  [${p.axis}]  ${p.a} vs ${p.b} ` +
+        `(${p.aNamesB ? "" : "a->b missing "}${p.bNamesA ? "" : "b->a missing"})`,
+    );
   }
 }
 
@@ -507,66 +453,32 @@ if (import.meta.url === `file://${process.argv[1]}`) {
 // schema and rejects unknown keys. The warrant's frontmatter is unpoliced and
 // is in the misfit's own lane, so the declaration can travel with the misfit.
 //
-// House-specific: the kit has no notion of a play's axis or sign.
-export function axesOf(root = ROOT) {
-  const out = new Map();
-  for (const d of fs.readdirSync(join(root, "misfits"))) {
-    const p = join(root, "misfits", d, "REFERENCE.md");
-    if (!fs.existsSync(p)) continue;
-    const head = fs.readFileSync(p, "utf8").split("---")[1] || "";
-    // A trailing YAML comment is legal and is what the contract's own example
-    // writes: `sign: negative # how the outcome moves as that quantity rises`.
-    // Anchoring on end-of-line without allowing one made that example fail to
-    // parse as `axis without sign`, so an author copying the documentation got a
-    // red build from doing exactly what it said.
-    const axis = (head.match(/^axis:\s*(\S+)\s*(?:#.*)?$/m) || [])[1];
-    const sign = (head.match(/^sign:\s*(\S+)\s*(?:#.*)?$/m) || [])[1];
-    if (axis || sign) out.set(d, { axis, sign });
-  }
-  return out;
-}
-
-// A declaration that is half-written or misspelled is worse than none, because
-// it reads as covered and checks nothing. Malformed declarations fail outright
-// rather than ratcheting: there is no legacy set of them to grandfather.
+// From khai-tests 0.4.2 the kit owns axis discovery and the two walls over it:
+// `axesOf(house)` reads a unit's `axis:`/`sign:` frontmatter (the trailing
+// YAML comment the contract's own example writes,
+// `sign: negative # how the outcome moves as that quantity rises`, included),
+// `findMalformedAxes(axes)` fails a declaration that is half-written or
+// misspelled outright (there is no legacy set of those to grandfather), and
+// `findOpposed(axes)` is the opposition wall itself: two units on one axis
+// with opposite signs that do not each name the other by title. All three
+// read the same per-unit walk the science build already runs for a
+// collection house, so this file's own call sites hand it `ROOT` (the
+// content root `axesOf` reads `misfits/` under) rather than re-deriving it.
 export function findMalformedAxes(root = ROOT) {
-  const bad = [];
-  for (const [d, { axis, sign }] of axesOf(root)) {
-    if (!axis) bad.push(`${d}: sign without axis`);
-    else if (!sign) bad.push(`${d}: axis without sign`);
-    else if (sign !== "positive" && sign !== "negative")
-      bad.push(`${d}: sign is "${sign}", expected positive or negative`);
-  }
-  return bad.sort();
+  return kitFindMalformedAxes(kitAxesOf(root));
 }
 
 // Misfits carrying no axis at all. Invisible to the opposition check, which is
 // why the coverage of that check is ratcheted rather than assumed.
+//
+// House-specific: the ratchet baseline lives in this house's own test.
 export function findUnaxised(root = ROOT) {
-  const declared = axesOf(root);
+  const declared = new Set(kitAxesOf(root).map((r) => r.id));
   return [...houseTitles(root).keys()].filter((d) => !declared.has(d)).sort();
 }
 
 export function findOpposed(root = ROOT) {
-  const declared = axesOf(root);
-  const titles = houseTitles(root);
-  const names = (d, other) => {
-    const t = titles.get(other);
-    return !!t && fs.readFileSync(join(root, "misfits", d, "REFERENCE.md"), "utf8").includes(t);
-  };
-  const out = [];
-  const keys = [...declared.keys()]
-    .filter((d) => declared.get(d).axis && declared.get(d).sign)
-    .sort();
-  for (let i = 0; i < keys.length; i++) {
-    for (let j = i + 1; j < keys.length; j++) {
-      const [a, b] = [keys[i], keys[j]];
-      if (declared.get(a).axis !== declared.get(b).axis) continue;
-      if (declared.get(a).sign === declared.get(b).sign) continue;
-      out.push({ a, b, axis: declared.get(a).axis, aNamesB: names(a, b), bNamesA: names(b, a) });
-    }
-  }
-  return out;
+  return kitFindOpposed(kitAxesOf(root));
 }
 
 // The canon list read forwards. `workPolicy.canon` exists to stop a field's
@@ -586,7 +498,7 @@ export function findOpposed(root = ROOT) {
 export function canonFamilies(root = ROOT) {
   const policy = loadPolicy(root);
   const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
-  const declared = axesOf(root);
+  const declared = new Set(kitAxesOf(root).map((r) => r.id));
   const fam = new Map();
   for (const r of rows) {
     const stem = normaliseWork(r.work, policy.aliases);
@@ -759,33 +671,39 @@ export function buildReferences(root = ROOT) {
 // first-match from @chbrain/khai-tests 0.2.6 onward, which makes the array
 // order in scholarPolicy.homonyms irrelevant to resolution: `["David",
 // "David L"]` and `["David L", "David"]` now resolve a cell written "David L
-// Greene" the same way. This check reads the declared config directly (not the
-// kit, which does not expose it) and stays as documented config hygiene: an
-// order the old first-match build would have mis-resolved is still worth
-// flagging as confusing to a reader, even though it can no longer merge two
-// people. Kept as a flag so the documented command does not break; it reports
+// Greene" the same way. What is left is documentation hygiene, not a live
+// defect, and from khai-tests 0.4.2 the kit owns that check too:
+// `findShadowedForms(policy)` reads the same `{homonyms}` shape this house's
+// own `scholarHomonyms` already reads out of khai-guard.config.json (the kit
+// does not expose a homonym-policy reader of its own, so that one read stays
+// local). Kept as a flag so the documented command does not break; it reports
 // the now-always-clean result under the current build.
 export function findShadowedForms(root = ROOT) {
-  const shadowed = [];
-  for (const [surname, forms] of Object.entries(scholarHomonyms(root))) {
-    if (!Array.isArray(forms)) continue;
-    forms.forEach((form, j) => {
-      for (let i = 0; i < j; i++) {
-        if (form.startsWith(`${forms[i]} `)) shadowed.push({ surname, form, shadowedBy: forms[i] });
-      }
-    });
-  }
-  return shadowed.sort((a, b) => a.surname.localeCompare(b.surname));
+  return kitFindShadowedForms({ homonyms: scholarHomonyms(root) });
 }
 
 // A generational suffix is not a surname, and the build cannot tell.
 //
 // From @chbrain/khai-tests 0.2.6 the build itself drops a generational suffix
 // before taking the last token of an author part as the surname, so "Robert E.
-// Lucas Jr." keys under `Lucas` rather than `Jr`. This check reads the rendered
-// index directly and stays as documented config hygiene; it reports the
-// now-always-clean result under the current build, kept as a flag so the
-// documented command does not break.
+// Lucas Jr." keys under `Lucas` rather than `Jr`. From 0.4.2 the kit's own
+// `findSuffixKeys(index)` reads this off the live collector -- the same
+// `collectUnits(root).records` every other wall in this file already reads --
+// rather than the rendered docs/SCIENCE.md, so it can never see a key the
+// current build would not itself produce. Kept as a flag so the documented
+// command does not break; it reports the now-always-clean result under the
+// current build.
+export function findSuffixKeys(root = ROOT) {
+  const { records } = collectUnits(root);
+  return kitFindSuffixKeys(records).map((b) => ({
+    key: b.key,
+    misfit: b.unit,
+    work: String(b.work)
+      .replace(/<br>[\s\S]*$/, "")
+      .trim(),
+  }));
+}
+
 // A Key Work cell may hold more than one work, separated by a semicolon. The
 // index does not: normaliseWork takes `.split(";")[0]`, which is right for the
 // common case, where the tail is a gloss, an edition note or a prize, and wrong
@@ -798,70 +716,13 @@ export function findShadowedForms(root = ROOT) {
 // put, with the exemptions each side already carries, and leaves the deciding
 // where it belongs.
 //
-// The kit's wall reads `canon` and `contrastMarkers` and nothing else, so a
-// `supportingMarkers` declaration exempts here and not there. That is not an
-// oversight to route around: the wall holds at zero shared works today, so the
-// third exemption changes nothing it can see, and the vocabulary exists so that
-// the ten spine-against-background pairs below can say what they are before
-// anything is built that could read them.
-//
-// It runs on the kit's own normaliseWork and workMatches, so it cannot drift
-// from the wall it is reporting the blind spot of.
+// From khai-tests 0.4.2 this is `compoundWorks(house, policy)` in the kit,
+// reading the same `loadPolicy`/`collectUnits` this file already delegates to
+// elsewhere and honouring `canon`, `contrastMarkers` and `supportingMarkers`
+// identically, so it cannot drift from the wall (`findOverlaps`) it is
+// reporting the blind spot of.
 export function findCompoundWorks(root = ROOT) {
-  const policy = loadPolicy(root);
-  const markers = policy.contrastMarkers || [];
-
-  const canon = new Set((policy.canon || []).map((c) => normaliseWork(c)));
-  const { records } = collectUnits(root);
-
-  const indexed = new Map(); // stem -> [{ unit, record }]
-  for (const r of records) {
-    const stem = normaliseWork(r.keyWork);
-    if (!indexed.has(stem)) indexed.set(stem, []);
-    indexed.get(stem).push(r);
-  }
-
-  // One finding per determination the wall never made, which is (the misfit, the
-  // hidden work, the misfits already holding it). Keying on that rather than on
-  // the record pair matters: an indexed work held by a misfit in three rows is
-  // one question about one work, not three.
-  const found = new Map();
-  for (const r of records) {
-    const parts = String(r.keyWork).split(";");
-    if (parts.length < 2) continue;
-    for (const tail of parts.slice(1)) {
-      const stem = normaliseWork(tail);
-      if (stem.split(" ").filter(Boolean).length < 2) continue;
-      for (const [istem, holders] of indexed) {
-        if (!workMatches(stem, istem)) continue;
-        const others = holders.filter((h) => h.unit !== r.unit);
-        if (!others.length) continue;
-        // Contrast is a property of a row, and this collision has two sides, so
-        // both must be asked. Reading only the hiding row reports a contrast the
-        // wall would exempt: the bike-shed pair was flagged that way and the
-        // holder there is written `Herbert Simon (contrast)` in its own cell.
-        const key = `${r.unit}::${stem}`;
-        const prior = found.get(key);
-        const units = new Set([...(prior?.holders || []), ...others.map((o) => o.unit)]);
-        const heldAsContrast = others.every((o) => isContrast(o, markers));
-        // A supporting citation is the third exemption, and it is now the kit's
-        // `roleOf` that decides it rather than a second implementation here: one
-        // reading of a role, used by this instrument and by the wall alike.
-        const heldAsSupport = others.every((o) => roleOf(o, policy) === "support");
-        found.set(key, {
-          unit: r.unit,
-          hidden: tail.trim(),
-          stem,
-          indexedStem: istem,
-          holders: [...units].sort(),
-          canon: prior?.canon || canon.has(stem) || canon.has(istem),
-          contrast: isContrast(r, markers) || heldAsContrast,
-          supporting: roleOf(r, policy) === "support" || heldAsSupport,
-        });
-      }
-    }
-  }
-  return [...found.values()].sort((a, b) => (a.unit + a.stem).localeCompare(b.unit + b.stem));
+  return kitCompoundWorks(root, loadPolicy(root));
 }
 
 // The namesake walls above all run *after* a declaration: --namesakes reads the
@@ -878,83 +739,14 @@ export function findCompoundWorks(root = ROOT) {
 // **more than one person**, which is a finding no other flag can see. It decides
 // nothing: a hit is a cell to read, exactly as --surname's is.
 //
-// It gathers given names locally because the kit exports no name helper, and the
-// gathering is deliberately weaker than the build's own keying: it never computes
-// a key, it only reads what an author already wrote beside a surname. Where it
-// cannot find a given name it says so and keeps quiet, which is why a house full
-// of bare cells does not drown the output.
-
-/**
- * The given-name evidence a Source cell carries for one surname, or "".
- *
- * The stop list is inside the function on purpose: the CLI below runs at module
- * top level and earlier in the file, so a `const` up here would be in its
- * temporal dead zone by the time a flag calls this.
- */
-export function givenFor(source, surname) {
-  const NON_GIVEN = new Set(["the", "and", "et", "al", "eds", "ed"]);
-  const parts = String(source)
-    .replace(/\bet al\.?/gi, "")
-    .split(/[,;&]|\s+and\s+/i)
-    .map((x) =>
-      x
-        .replace(/\([^()]*\)/g, " ")
-        .replace(/[.]/g, "")
-        .trim(),
-    )
-    .filter(Boolean);
-  for (const part of parts) {
-    const tokens = part.split(/\s+/).filter(Boolean);
-    const tail = tokens.slice(-surname.split(" ").length).join(" ");
-    if (tail.toLowerCase() !== surname.toLowerCase()) continue;
-    const given = tokens
-      .slice(0, tokens.length - surname.split(" ").length)
-      .filter((t) => !NON_GIVEN.has(t.toLowerCase()))
-      .join(" ")
-      .trim();
-    if (given) return given;
-  }
-  return "";
-}
-
-// Two given forms are the same person when one is the other, or is a token-prefix
-// of it: "Timothy" absorbs "Timothy D" exactly as a declared form does in the
-// build. Comparing on token boundaries and not on characters is what keeps
-// "Robert" and "Roberto" apart, which is a real pair in this house's `Weber`.
-function sameGiven(a, b) {
-  const [x, y] = a.length <= b.length ? [a, b] : [b, a];
-  return x === y || y.startsWith(x + " ");
-}
-
+// From khai-tests 0.4.2 the kit owns the given-name reading itself
+// (`undeclaredNamesakes(index, policy)`), the same weaker-than-the-build
+// gathering this house wrote by hand: it never computes a key, it only reads
+// what an author already wrote beside a surname, and stays quiet where it
+// cannot find one.
 export function findUndeclaredNamesakes(root = ROOT) {
-  const declared = new Set(Object.keys(scholarHomonyms(root)));
   const { records } = collectUnits(root);
-  const bySurname = new Map();
-  for (const r of records) {
-    if (declared.has(r.surname)) continue;
-    const given = givenFor(r.source, r.surname);
-    if (!given) continue;
-    if (!bySurname.has(r.surname)) bySurname.set(r.surname, []);
-    bySurname.get(r.surname).push({ given, unit: r.unit, work: r.keyWork });
-  }
-
-  const found = [];
-  for (const [surname, rows] of bySurname) {
-    const people = [];
-    for (const row of rows) {
-      const hit = people.find((p) => sameGiven(p.given, row.given));
-      if (hit) {
-        if (row.given.length > hit.given.length) hit.given = row.given;
-        hit.rows.push(row);
-      } else people.push({ given: row.given, rows: [row] });
-    }
-    if (people.length < 2) continue;
-    if (new Set(rows.map((r) => r.unit)).size < 2) continue;
-    found.push({ surname, people: people.sort((a, b) => a.given.localeCompare(b.given)) });
-  }
-  return found.sort(
-    (a, b) => b.people.length - a.people.length || a.surname.localeCompare(b.surname),
-  );
+  return kitUndeclaredNamesakes(records, { homonyms: scholarHomonyms(root) });
 }
 
 // The probe above needs **two named cells** to report a surname at all, so every
@@ -968,43 +760,11 @@ export function findUndeclaredNamesakes(root = ROOT) {
 // It is emphatically a **reading list and not a wall**, and the count is what says
 // so: it returns dozens of surnames, and almost every one is a single scholar an
 // author happened to name in one cell and not another, which owes nothing at all.
-// The probe is the lower bound, this is where to look, and a person decides. So
-// the output prints its own total and says what the total means, because a flag
-// that reports eighty-four hits without that sentence will be read as eighty-four
-// findings.
+// The probe is the lower bound, this is where to look, and a person decides.
+//
+// From khai-tests 0.4.2 this is the kit's `mixedCells(index, policy)`, the exact
+// complement of `findUndeclaredNamesakes` above and reading the same evidence.
 export function findMixedCells(root = ROOT) {
-  const declared = new Set(Object.keys(scholarHomonyms(root)));
   const { records } = collectUnits(root);
-  const bySurname = new Map();
-  for (const r of records) {
-    if (declared.has(r.surname)) continue;
-    if (!bySurname.has(r.surname)) bySurname.set(r.surname, []);
-    bySurname.get(r.surname).push({ given: givenFor(r.source, r.surname), unit: r.unit });
-  }
-
-  const found = [];
-  for (const [surname, rows] of bySurname) {
-    const named = rows.filter((r) => r.given);
-    const bare = rows.filter((r) => !r.given);
-    if (!named.length || !bare.length) continue;
-    if (new Set(rows.map((r) => r.unit)).size < 2) continue;
-    found.push({
-      surname,
-      named: [...new Set(named.map((r) => r.given))].sort(),
-      bare: [...new Set(bare.map((r) => r.unit))].sort(),
-    });
-  }
-  return found.sort((a, b) => b.bare.length - a.bare.length || a.surname.localeCompare(b.surname));
-}
-
-export function findSuffixKeys(root = ROOT) {
-  const GENERATIONAL = new Set(["jr", "sr", "ii", "iii", "iv", "v", "jnr", "snr"]);
-  const bad = [];
-  const rows = parseScience(fs.readFileSync(join(root, "docs", "SCIENCE.md"), "utf8"));
-  for (const row of rows) {
-    const bare = row.scholar.replace(/\s*\(.*\)$/, "");
-    if (GENERATIONAL.has(bare.toLowerCase().replace(/[.,]/g, "")))
-      bad.push({ key: row.scholar, misfit: row.misfit, work: row.work });
-  }
-  return bad;
+  return kitMixedCells(records, { homonyms: scholarHomonyms(root) });
 }

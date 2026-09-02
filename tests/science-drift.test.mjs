@@ -1,6 +1,10 @@
 import { describe, it, expect } from "vitest";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
 import * as kt from "@chbrain/khai-tests";
-import { HOUSE as root } from "./house_root.mjs";
+
+const REPO = join(dirname(fileURLToPath(import.meta.url)), "..");
+const root = kt.resolveHouse(REPO).packageDir;
 
 // The content root, not the repository root. `verifyScienceIndex` reads the
 // collection out of `<root>/package.json` and the committed index out of

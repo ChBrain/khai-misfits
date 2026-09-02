@@ -1,5 +1,6 @@
 import { describe, it, expect } from "vitest";
 import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import {
   validateProject,
@@ -9,10 +10,18 @@ import {
   verifyRegistry,
   checkRegistryPacking,
   packedFilesAny,
+  resolveHouse,
 } from "@chbrain/khai-tests";
 import { referenceCard } from "@chbrain/khai-arch";
 import { validateProjectLanguages } from "@chbrain/khai-language";
-import { REPO, HOUSE } from "./house_root.mjs";
+
+// The repository root: the lanes, the config, the changesets, the management
+// layer and this directory. `tests/` does not move, so this needs no probing in
+// either layout.
+const REPO = join(dirname(fileURLToPath(import.meta.url)), "..");
+// The content root, resolved by what a manifest DECLARES rather than by path,
+// so a reader here never certifies an empty house across the workspace move.
+const HOUSE = resolveHouse(REPO).packageDir;
 
 // Two roots, and each reader below takes the one that owns what it reads. The
 // misfits, the concordance and the built indexes are the house's and move with
@@ -134,12 +143,12 @@ describe("Misfits house: misfits conform to the canon", () => {
 // The kit's own delivery walls: not about the misfits, about the house's
 // delivery machinery holding to what it claims about itself. Wired here
 // rather than left to a house-local reimplementation, the case this house
-// already keeps for `tests/release.test.mjs` and `tests/packing.test.mjs`
-// (both hand-written before the kit carried the same checks): a house that
-// writes its own version of a wall the kit now ships is a second copy of one
-// truth, and the retired preflight this house's own AGENTS.md already tells
-// that story about. A later pass retires the house's local copies; this pass
-// only adds the kit's.
+// already made for the two local walls this replaces, `tests/release.test.mjs`
+// and `tests/packing.test.mjs` (both hand-written before the kit carried the
+// same checks and now retired, `verifyRelease` and `checkRegistryPacking`
+// below standing in their place): a house that writes its own version of a
+// wall the kit now ships is a second copy of one truth, and the retired
+// preflight this house's own AGENTS.md already tells that story about.
 describe("the delivery walls the kit holds", () => {
   it("the gates manifest matches the CI workflow's own job ids", () => {
     const findings = verifyGatesAgainstCi(REPO);
