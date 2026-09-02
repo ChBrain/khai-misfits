@@ -8840,3 +8840,33 @@ the informed-minority hypothesis is that same quantity read as a fraction of a m
 state. **The New Normal** was kept **off** `time-in-use`, which Regrettable Substitution holds: that play's dial
 is elapsed use producing an absence of evidence, and this one's is a run of **survived deviations** moving the
 line, which requires the deviations. Close enough to check and not the same quantity.
+
+**The sixty-ninth pass declared seven axes, 133 to 140 of 329, and fired four oppositions at once, which is more
+than the previous three passes together.** Three of the four are one axis, `protective-cover`, where The Bank Run
+lands **positive** against Moral Hazard, Someone Will Catch Me and The Spent Margin.
+
+**One new discriminator answered all three: whether the cover changes the behaviour it insures.** A guarantee
+against a self-fulfilling run underwrites no risk-taking, because the depositor who stays put does nothing more
+dangerous for being covered and the equilibrium the guarantee removes was never a choice anybody was rewarded for
+making. Where the covered party can influence the outcome, the cover is a price change and behaviour moves to
+meet it. **Same instrument, opposite sign, and the discriminator is whether there is a choice for it to reward.**
+
+**And the house had already written this opposition in prose without being able to compute it.** The Bank Run's
+warrant says the guarantee's price is Moral Hazard, in so many words, and has said it since that play was
+staged. The check reported that pair as `a->b missing` and not as missing both ways, because one side was already
+naming the other. **A relation stated in prose and not in frontmatter is invisible to every gate**, which is the
+argument for the ratchet in one line: the declaration did not discover the relation, it made the relation
+enforceable.
+
+**The fourth is `codification` again, Chesterton's Fence against Held Still to Keep It, and it needed no new rule
+for the second pass running.** What is being made explicit decides the sign: writing down a living practice fixes
+content it never had, and writing down the reason a fence was built subtracts nothing from the fence and adds a
+handle. A rationale is not the thing it justifies. That axis now carries three plays and one rule.
+
+**One refusal.** **The Crowded Middle** was left undeclared: Hotelling's harm scales with something like how
+much of the market lies away from the centre against how few positions are taken, and neither half of that is a
+quantity the play names or the literature measures. A contrived axis is worse than none, because none is visibly
+absent and a contrived one reads as done.
+
+**The Cobra Effect** joined the existing `incentive-intensity` rather than coining a name for a producible proxy,
+since the multitask distortion is the same quantity: a reward attached to the part of a job that can be shown.

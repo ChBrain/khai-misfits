@@ -2,6 +2,8 @@
 concept: "Defensive Routines (face-saving; single-loop learning)"
 field: "Groups, candour, and face"
 source: "Argyris & Schön, _Organizational Learning_ (1978)"
+axis: face-protection
+sign: negative # how a group's capacity to learn moves as the skill of protecting face rises
 updated: "2026-08-27"
 ---
 

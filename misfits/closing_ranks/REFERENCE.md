@@ -2,6 +2,8 @@
 concept: "Groupthink"
 field: "Groups, candour, and face"
 source: "Whyte (Fortune, 1952); Janis"
+axis: cohesion-priority
+sign: negative # how realistic appraisal of alternatives moves as preserving the group's agreement rises in priority
 updated: "2026-07-01"
 ---
 

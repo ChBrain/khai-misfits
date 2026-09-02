@@ -2,6 +2,8 @@
 concept: "The Cobra Effect (the perverse incentive)"
 field: "Measurement, cognition, and inquiry"
 source: "Siebert, _Der Kobra-Effekt_ (2001)"
+axis: incentive-intensity
+sign: negative # how the harm the reward was aimed at moves as the reward on a producible proxy rises
 updated: "2026-08-27"
 ---
 

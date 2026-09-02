@@ -2,6 +2,8 @@
 concept: "The Abstraction Ladder (levels of abstraction; legibility; loss of metis)"
 field: "Organisations, hierarchy, and management"
 source: "Hayakawa (1949); Korzybski (1933); Trope & Liberman (2010); Scott (1998)"
+axis: abstraction-height
+sign: negative # how a claim's checkability moves as it is pitched further from the concrete particulars
 updated: "2026-07-06"
 ---
 

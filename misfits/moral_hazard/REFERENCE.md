@@ -34,6 +34,16 @@ driver spends it back as risk: there the actor still carries the loss and is tra
 owns for something else it wants, whereas here the loss has been transferred to somebody else, so
 the care that falls away is care about a cost the actor no longer bears.
 
+It runs against the house's **The Bank Run**, on the same axis and with the opposite sign, and that play
+names this one already: a credible guarantee ends the run and its price is this play.
+
+**What sets the sign on this axis is whether the cover changes the behaviour it insures.** A guarantee
+against a self-fulfilling run underwrites no risk-taking: the depositor who stays put does nothing more
+dangerous for being covered, and the equilibrium the guarantee removes was never a choice anybody was
+rewarded for making. Where the covered party can influence the outcome, the cover is a price change and
+the behaviour moves to meet it. Same instrument, opposite sign, and the discriminator is whether there is
+a choice for it to reward.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.
