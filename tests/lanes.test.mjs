@@ -54,6 +54,8 @@ const HOUSE_PATHS = [
   ["misfits/a_misfit/play_a_misfit.md", OWNED_BY_MISFIT],
   ["misfits/a_misfit/REFERENCE.md", OWNED_BY_MISFIT],
   ["README.md", OWNED_BY_GOVERNANCE],
+  ["AGENTS.md", OWNED_BY_GOVERNANCE],
+  ["PERPLEXITY.md", OWNED_BY_GOVERNANCE],
   ["registry.json", EITHER],
   ["docs/SCIENCE.md", EITHER],
   ["REFERENCES.md", EITHER],
