@@ -8918,7 +8918,7 @@ setting the world does not supply.
       option to disclose. No-hero looks strong: a sensitivity analysis across zonings shows the spread and cannot
       say which zoning to use, because the modifiability is a property of the world.
 
-- [ ] [P3] **The reference class problem**, slated below it and possibly inside it. There is no uniquely correct
+- [x] [P3] **The reference class problem**, slated below it and possibly inside it. There is no uniquely correct
       class to place a case in, and the probability moves with the class chosen. The house already stages the
       **remedy**: reference-class forecasting is Flyvbjerg's answer inside The Planning Fallacy. A play about a
       remedy with no principled setting is a real shape, and it may also be the same shape as the line above read
@@ -8940,3 +8940,35 @@ carry the mechanism on their own; the 1979 demonstration and the 1934 origin eac
 declaration before the play can cite them. That is a real choice for the author and it is better made now than
 discovered at the wall: **take the free spine, and add the history later behind its own passes**, or spend two
 governance passes first and cite the whole lineage. Either is defensible; neither should be stumbled into.
+
+**The seventy-second pass settled the reference class caution the same day it was raised, and it folds in.** The
+answer turns entirely on testing the **engine** and not the domain, which is the error this file warns about in
+its own words under apparent competition, and which the first two tests I reached for would have committed.
+
+**The tests that look right and are not.** Stipulate the units are fixed by nature rather than drawn, and the
+reference class problem survives: choosing between megaprojects in Europe, rail projects, and projects by this
+contractor is not a zoning. Stipulate a uniquely correct reference class exists and is known, and the areal
+problem survives: redraw the boundaries and the correlation still moves. Both directions survive, and **both
+tests are about geography rather than about mechanism.**
+
+**The engine, stated without either domain, is that a statistic is computed over a partition the phenomenon does
+not supply, admissible partitions give different values, and nothing in the method selects one.** Set that to
+zero, so that partitions are given by the world rather than chosen by the analyst, and **both vanish together**.
+One engine, two domains, which is an Origin row and not a play.
+
+**The direction follows the house's own rule about general forms.** This file already records why the Prisoner's
+Dilemma cannot be staged: the house holds it a dozen times over as its instances, and a play of the bare
+mechanism would carry twelve incumbents and own no domain. The reference class problem is that shape at a smaller
+scale, the general form of a partition with no principled setting. **So the geography is the play and the
+generality is the row**, which is the opposite of the instinct to stage the more fundamental thing.
+
+**And the row is free**, which settles the sequencing question the last pass left open. Reichenbach, Hájek and
+Venn are all clear, and neither work is cited anywhere in the house, so the general statement can ride into the
+warrant with the spine rather than waiting behind a namesake pass. The 1979 demonstration and the 1934 origin
+still cost what the last pass priced them at.
+
+- [ ] [P1] and so the Modifiable Areal Unit Problem is now slated with its Origin table half-written: Openshaw's
+      monograph and Fotheringham and Wong for the spine, **the reference class problem as the row showing the
+      engine is not an artefact of maps**, and The Planning Fallacy named as the neighbour whose remedy this play
+      is the shadow of, since reference-class forecasting presumes the choice this mechanism says cannot be made
+      on principle.
