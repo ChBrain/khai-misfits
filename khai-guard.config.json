@@ -65,11 +65,15 @@
           "README.md",
           "GEMINI.md",
           "CLAUDE.md",
+          "AGENTS.md",
+          "PERPLEXITY.md",
           "REFERENCE.md",
           "REFERENCES.md",
           "management/**",
           "packages/khai-misfits/README.md",
-          "packages/khai-misfits/REFERENCES.md"
+          "packages/khai-misfits/REFERENCES.md",
+          "packages/khai-misfits/AGENTS.md",
+          "packages/khai-misfits/PERPLEXITY.md"
         ]
       },
       {
