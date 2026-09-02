@@ -8556,10 +8556,10 @@ and the existing cell is bare**, so no instrument in the house can see it: `--un
 cells and there is one, and `--namesakes` reads only declared surnames. The same scan found `Olson` bare across
 five cells, all Mancur.
 
-- [ ] [P2] Name the bare cells for `Olson` (five, all Mancur, in Bootleggers and Baptists, Regulatory Capture, The
-      Commons, The High Water Mark and The Loud Few) and for `Macinko` (one, James, in The Driest Wells). Misfit
-      lane, cells first, on the ordering table's first row. Neither surname is declared, so nothing is owed until
-      somebody cites the second person; the cells are what make that declaration possible later.
+- [ ] [P2] Name the **three** bare `Olson` cells, all Mancur: Regulatory Capture line 45, The Commons line 44 and
+      Vetocracy line 47. Misfit lane, cells-first, **patch** changeset. Do **not** declare the surname: `Olson` is
+      undeclared and collates to one key, and a declaration for a second Olson the house does not hold would split
+      one person across two keys. **Corrected from five cells to three, and `Macinko` struck entirely**: see below.
 
 **Seth Macinko was not cited, and the reason is worth recording because it is the legitimate half of a move this
 file distrusts.** Swapping a source to dodge a namesake is illegitimate; choosing on the merits and finding the
@@ -8697,3 +8697,41 @@ which is the asymmetry the contract says decides it.
 incumbent's own Line of Work, not by reasoning about the candidate. Whoever Asks Last carries Arrow in its prose
 and the slate line did not know it. **A caution about a candidate is usually a question about an incumbent, and
 the incumbent is written down.**
+
+**The sixty-fourth pass was a check on another session's work, and the largest finding was in this file rather
+than in theirs.** Four pull requests landed the kit at khai-tests 0.4.1, khai-guard 0.3.1 and khai-stage 0.0.25,
+with a `nonAuthorSources` pattern rule, a gates manifest, a conduct.md pointer and the Wells homonym. All of it
+holds: 67 of 67, format clean, every gate green except branch-check objecting to `main` itself, which is what it
+should do off a lane branch; 2097 index rows and 0 shared works; 82 declared surnames with 0 unresolved and 0
+unreachable forms; 18 hidden compound works with the one deliberate exemption; registry, manifest and directory
+count all at 329 and `0.329.0`; and a fresh run of all three builders produces **no drift**.
+
+**The slate's own Olson line was wrong, and it was wrong in the way this file already warns about.** It said five
+bare `Olson` cells and one bare `Macinko` cell. There are **three** bare Olson cells and **no** bare Macinko cell:
+Bootleggers and Baptists, The High Water Mark and The Loud Few already write Mancur Olson, and The Driest Wells
+already writes James Macinko. The line was written from `--surname`, which reports the **index key**, and an
+undeclared surname has no declared form to resolve against, so **its key is bare by construction whatever its
+cells contain**. This file records that trap under `Ericsson` and the line was written into it anyway, one pass
+later. The instrument that separates the two readings is declaring the surname locally and reading `--namesakes`,
+which costs one build and was not run.
+
+**And the correction runs in the cheap direction, which is the part worth noticing.** `Macinko` owes nothing at
+all: its cell is named, so a declaration would cost one line and no content pass, which is the ordering table's
+middle row that this file added after `Cohen` and that the slate line then failed to apply. **A rule written down
+is not a rule applied**, and the gap between them is one pass long.
+
+- [ ] [P2] Widen the axis coverage. 109 of 329 misfits declare an `axis`, so 220 are **invisible** to the
+      opposition check rather than passing it. Take the families `--families` ranks, which is a complete map of
+      the house's shared canon works and therefore of where two misfits are in one conversation, and declare axis
+      and sign for the misfits in them. Misfit lane. Two rules govern it: a sign that is only true under an
+      unstated condition is a malformed declaration that parses, and a one-dial-two-bad-ends structure has no sign
+      and should be left undeclared rather than given an invented one.
+
+- [ ] [P3] Refill the slate once the three P2 lines are struck, scouting by **reading the concept list** rather
+      than by probing the house with a candidate's vocabulary, running `--check` against the concept before
+      believing an absence, and distrusting a probe that returns mostly zeros.
+
+**The migration is unchanged and remains blocked.** khai-guard 0.3.1 still runs its `git()` helper as
+`execFileSync` with no `maxBuffer`, and the move's diff still fails with `ENOBUFS`, verified against this tree at
+this version by performing the move in a scratch clone and running the gate on it. No content pass can route
+around it.
