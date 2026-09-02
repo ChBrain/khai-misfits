@@ -2,6 +2,8 @@
 concept: "Motivation Crowding-Out (an extrinsic incentive displacing an internal reason)"
 field: "Measurement, cognition, and inquiry"
 source: "Deci (1971); Frey & Jegen; Gneezy & Rustichini"
+axis: incentive-intensity
+sign: negative # how the reason a person already had moves as an extrinsic reward is attached to the act
 updated: "2026-07-24"
 ---
 

@@ -2,6 +2,8 @@
 concept: "Shrouded Attributes (add-on pricing; information suppression)"
 field: "Markets, money, and economic equilibria"
 source: 'Gabaix & Laibson, "Shrouded Attributes, Consumer Myopia" (QJE, 2006)'
+axis: buyer-informedness
+sign: positive # how the salience of a price's real components moves as the share of buyers who look rises
 updated: "2026-07-24"
 ---
 

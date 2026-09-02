@@ -2,6 +2,8 @@
 concept: "Information Cascade (rational herding)"
 field: "Measurement, cognition, and inquiry"
 source: "Bikhchandani, Hirshleifer & Welch (JPE, 1992); Banerjee"
+axis: observed-predecessors
+sign: negative # how the weight a chooser puts on their own information moves as the number of visible prior choices rises
 updated: "2026-08-28"
 ---
 

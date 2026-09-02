@@ -2,6 +2,8 @@
 concept: "The Overjustification Effect (a reward crowding out the motive)"
 field: "Measurement, cognition, and inquiry"
 source: "Deci (JPSP, 1971); Lepper, Greene & Nisbett (1973)"
+axis: incentive-intensity
+sign: negative # how the motive a person acted on moves as payment is attached to the acting
 updated: "2026-07-28"
 ---
 

@@ -8870,3 +8870,28 @@ absent and a contrived one reads as done.
 
 **The Cobra Effect** joined the existing `incentive-intensity` rather than coining a name for a producible proxy,
 since the multitask distortion is the same quantity: a reward attached to the part of a job that can be shown.
+
+**The seventieth pass declared ten more axes, 140 to 150 of 329, and fired nothing, which is the first pass of
+this run to find no opposition and is worth recording for that reason.**
+
+**The selector changed, because the family map is spent.** The canon families are almost fully declared, so this
+pass searched the other way round: it took the axes that **already carry two or more plays** and asked which
+undeclared misfits belong on them. That is where every opposition so far has come from, since a play landing on a
+fresh axis can disagree with nobody.
+
+It worked as a selector and produced agreement rather than conflict. **`incentive-intensity` now carries seven
+plays**, the largest axis in the house: the multitask distortion, the cobra effect, Goodhart's law, specification
+gaming, both crowding-out plays and the antibiotic market. All seven negative. **A reward attached to something
+that can be shown is a mechanism this house stages seven ways and has never once staged with the other sign**,
+and agreement at that scale is evidence the axis is real rather than evidence the check is idle: seven chances to
+disagree, taken by none of them.
+
+**Two of the ten were kept off an axis they nearly fitted, and the reasoning is the same both times.** Motivation
+crowding-out was put **on** `incentive-intensity` rather than given its own `extrinsic-reward`, because the
+quantity is the same, the strength of a reward attached to an act, and only the harm differs. **Priced In** was
+kept **off** `buyer-informedness` and given `price-informativeness`, because the quantity there is not the
+payer's ability to judge but how much of what is knowable a price already carries, and a false opposition is
+worse than a missing one: it would have put two plays in conflict that answer different questions.
+
+`starting_tomorrow` joined `precommitment`, which now carries three, since a commitment device against one's own
+later self is the same quantity as a hand tied against one's own later judgement.

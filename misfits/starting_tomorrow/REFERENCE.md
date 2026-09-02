@@ -2,6 +2,8 @@
 concept: "Hyperbolic Discounting (present bias; specious reward)"
 field: "Measurement, cognition, and inquiry"
 source: 'Ainslie, "Specious Reward" (Psychological Bulletin, 1975)'
+axis: precommitment
+sign: positive # how the chance of carrying out the plan moves as the ability to bind the later self rises
 updated: "2026-07-24"
 ---
 
