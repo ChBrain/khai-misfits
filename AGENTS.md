@@ -342,7 +342,7 @@ right, since a declared form should absorb a longer cell; in a probe it is a
 guess. Same rule, opposite jobs, and the declaration is what settles it.
 
 ```
-node tests/science_overlap.mjs --forms       # declared forms, and any left unreachable
+npx khai-tests science forms       # declared forms, and any left unreachable
 ```
 
 **And a suffix is not a surname.** The build takes the **last token** of an author
@@ -355,7 +355,7 @@ wall, and the fix is always to drop the suffix from the Source cell and never to
 add it to a policy.
 
 ```
-node tests/science_overlap.mjs --suffixes    # index keys that are generational suffixes
+npx khai-tests science suffixes    # index keys that are generational suffixes
 ```
 
 **And the three walls above are about the scholar half of the key. The work half
@@ -380,7 +380,7 @@ has no way to express and deliberately never will. **The count is one, it will
 stay one, and the one is the argument.**
 
 ```
-node tests/science_overlap.mjs --compound   # works hidden behind a semicolon that another misfit holds
+npx khai-tests science probe   # works hidden behind a semicolon that another misfit holds, and more
 ```
 
 **And reading the twelve found something better than a list: the wall is stricter
@@ -616,7 +616,7 @@ and never a wall. It reports an undeclared surname whose own Source cells alread
 name **more than one person**, which is a thing no other flag can see:
 
 ```
-node tests/science_overlap.mjs --undeclared-namesakes   # surnames the house has not declared whose cells name two people
+npx khai-tests science probe   # surnames the house has not declared whose cells name two people, and more
 ```
 
 It reads only what an author already wrote beside a surname and computes no key,
@@ -640,7 +640,7 @@ them; it is a place to look, and the place is an undeclared surname whose cells
 `Diamond & Dybvig`, and reading the complement found five more in one pass.
 
 ```
-node tests/science_overlap.mjs --mixed-cells   # undeclared surnames mixing a named cell with a bare one
+npx khai-tests science probe   # undeclared surnames mixing a named cell with a bare one, and more
 ```
 
 **It is a reading list and not a finding count, and the number is what says so.**
