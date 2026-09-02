@@ -1,0 +1,7 @@
+# Normalise line endings on commit and check out LF everywhere, so a branch
+# authored on Windows cannot arrive with CRLF findings prettier would preserve.
+# The other half is endOfLine "lf" in .prettierrc.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary

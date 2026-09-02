@@ -17,6 +17,7 @@
       ".prettierrc",
       ".prettierignore",
       ".gitignore",
+      ".gitattributes",
       ".npmrc",
       ".nvmrc",
       "LICENSE",
