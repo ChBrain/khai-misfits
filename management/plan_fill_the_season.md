@@ -8686,7 +8686,7 @@ becomes sustainable and that harm vanishes, while a one-shot deterrent threat is
 incumbent survives the candidate's engine being switched off and the candidate does not survive the incumbent's**,
 which is the asymmetry the contract says decides it.
 
-- [ ] [P2] Extend **You Have to Mean It**'s warrant with Selten's chain store paradox (1978) as an Origin row and
+- [x] [P2] Extend **You Have to Mean It**'s warrant with Selten's chain store paradox (1978) as an Origin row and
       no cast: the finite-horizon unravelling is the same engine demonstrated in an economic rather than a
       strategic setting, and the incomplete-information resolutions are the row after it. Misfit lane, **patch**
       changeset. `Selten` is already in the index, bare, in After You on equilibrium selection; this is the same
@@ -8735,3 +8735,23 @@ is not a rule applied**, and the gap between them is one pass long.
 `execFileSync` with no `maxBuffer`, and the move's diff still fails with `ENOBUFS`, verified against this tree at
 this version by performing the move in a scratch clone and running the gate on it. No content pass can route
 around it.
+
+**The sixty-fifth pass took the slate's Selten line and it cost the authoring and nothing else, which is twice
+running that a line deduped in advance has paid for itself.** The determination was already made and recorded, the
+switch-off already run in both directions, so this pass wrote two rows and rebuilt two indexes.
+
+**The namesake ordering the order flagged was the whole risk and it held.** `Wilson` is declared with five forms,
+so a Kreps and Wilson cell written bare would have failed the namesake wall; written `David Kreps & Robert
+Wilson` it resolves to `Wilson (Robert)` on the first build, beside the same person's common-value auction work in
+The Winning Bid. `Selten` stays one key across two works, which is the expected reading of a surname hit and owes
+nothing. **Milgrom and Roberts was left on the table on purpose**: John Roberts would be a second person under a
+surname whose one cell already names Melinda A, so taking that row needs a governance declaration first, and the
+Kreps and Wilson row carries the resolution on its own.
+
+**And the rows were written to say what they do not do.** Kreps and Wilson restore the deterrent across a
+**succession** of entrants who watch each other, and the case this play stages has no succession to build a
+reputation across, so the repair that works there is **unavailable here rather than overlooked**. A row that
+imported the answer without that sentence would have quietly turned a no-hero play into one with a hero in the
+literature.
+
+Index rows 2097 to 2100, shared works 0, namesakes 0 unresolved, count unmoved at 329.
