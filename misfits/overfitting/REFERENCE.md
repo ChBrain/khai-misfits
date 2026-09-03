@@ -2,6 +2,8 @@
 concept: "Overfitting (the bias-variance dilemma)"
 field: "Measurement, cognition, and inquiry"
 source: "Geman, Bienenstock & Doursat (Neural Computation, 1992)"
+axis: noise-share-of-the-measure
+sign: negative # how well a fit generalises as the share of noise in the sample it was tuned on rises
 updated: "2026-07-02"
 ---
 

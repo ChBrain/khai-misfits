@@ -2,6 +2,8 @@
 concept: "Truncation Bias in Stopped Trials (stopping early for benefit overstates the effect)"
 field: "Measurement, cognition, and inquiry"
 source: "Bassler & Montori et al. (JAMA, 2010)"
+axis: noise-share-of-the-measure
+sign: negative # how close a stopped estimate is to the truth as the noise in the interim data rises
 updated: "2026-08-09"
 ---
 

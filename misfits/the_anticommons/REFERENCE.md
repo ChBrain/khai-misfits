@@ -2,6 +2,8 @@
 concept: "The Anticommons (underuse by too many vetoes)"
 field: "Collective action, commons, and coordination"
 source: "Michelman (1982); Heller"
+axis: veto-points
+sign: negative # how much use a resource gets as the number of parties able to refuse it rises
 updated: "2026-07-02"
 ---
 

@@ -2,6 +2,8 @@
 concept: "Rose's Prevention Paradox (population vs individual benefit)"
 field: "Ecology, evolution, and public health"
 source: 'Rose, "Sick individuals and sick populations" (Int. J. Epidemiology, 1985)'
+axis: group-size
+sign: negative # how likely an individual is to act for a benefit as the population sharing it widens
 updated: "2026-07-03"
 ---
 
