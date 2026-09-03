@@ -9073,7 +9073,7 @@ most of those forty were discarded on exactly that ground: the parole board's ri
 and The Proxy, the abandoned mine's perpetual liability is Nothing to Lose, orchestral pitch drift is The Arms
 Race, and the border's targeting system is the proxy plays again.
 
-- [ ] [P1] **The generic sterile injectable shortage.** A drug comes off patent, competition drives the price to
+- [x] [P1] **The generic sterile injectable shortage.** A drug comes off patent, competition drives the price to
       the floor, and the cheapest and most essential medicines are the ones that stop being made. Dedup below.
 
 **The finding is sharper than the price story, and it decides the axis.** The FDA analysis puts the cause at
@@ -9098,3 +9098,34 @@ and it is recorded as one so that nobody later treats forty absent domains as fo
 multi-paragraph list item at this indent depth: it adds four spaces to every continuation paragraph on each run,
 so `--write` followed by `--check` still fails, for ever. **A slate line must be one paragraph**, with anything
 longer written as ordinary prose beneath the list.
+
+**The seventy-seventh pass authored the candidate the survey slated, and the authoring corrected the
+survey on the one thing a scouting pass cannot get right.** [The Same Molecule](../misfits/the_same_molecule/play_the_same_molecule.md)
+is misfit 331: an old injectable comes off patent, two versions are certified interchangeable and are,
+buying runs on price because that is what interchangeable means, and the medicine that got cheapest
+stops being made.
+
+**The survey named the wrong neighbour, and it named the only one it could see.** The slate line
+recorded the dedup against **Kept for the Worst**, which was correct as far as it went: stipulate no
+conservation requirement and reward tied freely to volume, and this harm survives. But the play that
+shares the **engine** is **The Market for Lemons**, and the survey never mentioned it, because the
+survey was reading domains and the lemons play is set in a used-car lot. The general rule is worth
+carrying: **a scouting pass dedups against the incumbent it can see, and the authoring pass finds the
+one that shares the mechanism.** The slate's dedup is a lower bound in exactly the way the namesake
+probe is, and neither is a verdict.
+
+**And the switch-off against lemons had to be built the other way round, which is the more useful
+finding.** The ordinary form is to stipulate the incumbent's quantity away and show the harm survives.
+Here the lemons stipulation, that every unit's quality is visible at sale, **is already true and always
+was**: the vials are equivalent, certified so, and the certification is correct. The harm is untouched,
+because what is unobservable is not in the unit. So the separator is not the quantity at all, which both
+plays share, but **the shape of the harm**: adverse selection unravels a market into bad goods, and this
+one delivers good goods at a very low price until it delivers none. **Two plays can sit on one axis with
+one sign and still be different plays, and what tells them apart is what the failure looks like when it
+arrives.** A house that deduped on the axis alone would have merged them.
+
+**Which also settles what the buyer-informedness axis is for.** It now carries six plays, all positive,
+and it is not a claim that they are variations: it is a claim that they all move with the same dial. The
+axis is the quantity, the harm is the play, and the mechanism only demands that two misfits naming one
+axis with **opposite** signs explain themselves to each other. Agreement on an axis is not a duplication
+finding and should not be read as one.
