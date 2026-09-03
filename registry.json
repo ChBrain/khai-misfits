@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.331.0",
+  "version": "0.332.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -3306,6 +3306,228 @@
           "kind": "process",
           "title": "Hardening",
           "taxonomy": "play_anyone_can_see_it.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "as_fast_as_the_train",
+      "title": "As Fast as the Train",
+      "description": "Widen the road and the trains lose the riders that paid for their frequency, so the road ends up no faster.",
+      "members": [
+        {
+          "file": "persona_the_commuter.md",
+          "kind": "persona",
+          "title": "The Commuter",
+          "type": "archetype",
+          "taxonomy": "position_choice.md"
+        },
+        {
+          "file": "persona_the_journey_time.md",
+          "kind": "persona",
+          "title": "The Journey Time",
+          "type": "archetype",
+          "taxonomy": "position_equilibrium.md"
+        },
+        {
+          "file": "persona_the_scheme.md",
+          "kind": "persona",
+          "title": "The Scheme",
+          "type": "archetype",
+          "taxonomy": "position_provision.md"
+        },
+        {
+          "file": "persona_the_subsidy.md",
+          "kind": "persona",
+          "title": "The Subsidy",
+          "type": "archetype",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "persona_the_timetable.md",
+          "kind": "persona",
+          "title": "The Timetable",
+          "type": "archetype",
+          "taxonomy": "position_service.md"
+        },
+        {
+          "file": "piece_frequency_is_bought_by_riders.md",
+          "kind": "piece",
+          "title": "Frequency Is Bought by Riders",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "piece_it_is_not_the_extra_trips.md",
+          "kind": "piece",
+          "title": "It Is Not the Extra Trips",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "piece_nobody_cut_the_service.md",
+          "kind": "piece",
+          "title": "Nobody Cut the Service",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "piece_the_appraisal_ends_before_the_effect.md",
+          "kind": "piece",
+          "title": "The Appraisal Ends Before the Effect",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "piece_the_speed_is_not_the_roads_to_set.md",
+          "kind": "piece",
+          "title": "The Speed Is Not the Road's to Set",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "pitch_whatever_else_you_could_have_done.md",
+          "kind": "pitch",
+          "title": "Whatever Else You Could Have Done",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "place_the_appraisal.md",
+          "kind": "place",
+          "title": "The Appraisal",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "place_the_platform.md",
+          "kind": "place",
+          "title": "The Platform",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "place_the_widened_road.md",
+          "kind": "place",
+          "title": "The Widened Road",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "plan_build_the_capacity.md",
+          "kind": "plan",
+          "title": "Build the Capacity",
+          "taxonomy": "position_provision.md"
+        },
+        {
+          "file": "plan_equalise_the_two_times.md",
+          "kind": "plan",
+          "title": "Equalise the Two Times",
+          "taxonomy": "position_equilibrium.md"
+        },
+        {
+          "file": "plan_pay_for_the_frequency.md",
+          "kind": "plan",
+          "title": "Pay for the Frequency",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "plan_run_what_the_riders_pay_for.md",
+          "kind": "plan",
+          "title": "Run What the Riders Pay For",
+          "taxonomy": "position_service.md"
+        },
+        {
+          "file": "plan_take_the_quicker_way.md",
+          "kind": "plan",
+          "title": "Take the Quicker Way",
+          "taxonomy": "position_choice.md"
+        },
+        {
+          "file": "play_as_fast_as_the_train.md",
+          "kind": "play",
+          "title": "As Fast as the Train"
+        },
+        {
+          "file": "plot_and_the_committee_wants_the_time_saving.md",
+          "kind": "plot",
+          "title": "And the Committee Wants the Time Saving",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "plot_the_lane_opens.md",
+          "kind": "plot",
+          "title": "The Lane Opens",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "plot_the_quicker_way.md",
+          "kind": "plot",
+          "title": "The Quicker Way",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "plot_two_fewer_trains_an_hour.md",
+          "kind": "plot",
+          "title": "Two Fewer Trains an Hour",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "plot_worse_than_before.md",
+          "kind": "plot",
+          "title": "Worse Than Before",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "position_choice.md",
+          "kind": "position",
+          "title": "Choice",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "position_equilibrium.md",
+          "kind": "position",
+          "title": "Equilibrium",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "position_provision.md",
+          "kind": "position",
+          "title": "Provision",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "position_recourse.md",
+          "kind": "position",
+          "title": "Recourse",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "position_service.md",
+          "kind": "position",
+          "title": "Service",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "process_appraising.md",
+          "kind": "process",
+          "title": "Appraising",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "process_equalising.md",
+          "kind": "process",
+          "title": "Equalising",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "process_switching.md",
+          "kind": "process",
+          "title": "Switching",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "process_thinning.md",
+          "kind": "process",
+          "title": "Thinning",
+          "taxonomy": "play_as_fast_as_the_train.md"
+        },
+        {
+          "file": "process_widening.md",
+          "kind": "process",
+          "title": "Widening",
+          "taxonomy": "play_as_fast_as_the_train.md"
         }
       ]
     },

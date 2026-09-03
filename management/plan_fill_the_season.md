@@ -9189,7 +9189,7 @@ the Lucas critique is True Until It Was Used, the iron law of oligarchy is Pourn
 Shirky Principle, herding is Information Cascade, and the paradox of thrift, debt deflation and the
 beauty contest are all present under their own names. Four absences survived checking.
 
-- [ ] [P1] **The Downs-Thomson paradox.** Widen a road and the commuters it attracts come off the trains,
+- [x] [P1] **The Downs-Thomson paradox.** Widen a road and the commuters it attracts come off the trains,
       so the transit service loses the riders that paid for its frequency, the journey it offers gets
       worse, and the road's equilibrium speed, which is set by the alternative, gets worse with it. Dedup
       and namesake below.
@@ -9257,3 +9257,56 @@ and the declaration second. **Snyder** and **Robinson** are undeclared and their
 declaration first and owe no cells. The rule: **a slate line must carry the shape of the namesake
 obligation and not the fact of one**, because the fact is worth nothing to the pass that has to discharge
 it and the shape is the whole instruction.
+
+**The eightieth pass staged the P1 the refill had just slated, and the two rules the last two passes wrote
+were both used inside a single unit, which is the first time that has happened.**
+[As Fast as the Train](../misfits/as_fast_as_the_train/play_as_fast_as_the_train.md) is misfit 332: a lane
+is added, the journey time falls by exactly the minutes the appraisal promised, commuters switch off the
+trains because driving is now quicker, the operator matches the timetable to the riders who are left, and
+the road refills until it is no better than an alternative that is now slower than before anybody touched
+anything.
+
+**The transmission is what makes it a harm rather than a wash, and it is Mohring's.** Ridership is an
+input to the service and not only a payment for it, because waiting is part of a journey and frequency is
+bought with fares, so a mode shift does not leave the alternative where it was: it thins the timetable,
+lengthens the wait, and lowers the door-to-door speed that the road's own equilibrium is keyed to. The
+step that carries the entire harm is the timetable cut, and **the same economics that makes it harmful is
+what endorses it**, since with waiting time in the cost fewer riders genuinely do justify fewer
+departures.
+
+**Both switch-offs run clean and they run in opposite directions, which is worth recording as a shape.**
+Against **The Extra Road**, stipulate a single mode with no alternative: Braess stands entire and this
+play disappears completely. Against **Jevons Paradox**, stipulate that the number of journeys is fixed
+and not one is induced: that harm goes and this one survives entire, because the damage is done by a
+shift **between** modes at constant travel. A pair of switch-offs where the first kills the candidate and
+the second kills the incumbent is stronger evidence of separation than two that both leave the candidate
+standing, because it shows the two quantities are independent rather than merely distinct.
+
+**The axis is `added-capacity`, and naming it used last pass's rule the week it was written.** The rule
+was to expect a rename whenever a singleton's second member arrives, because a first declarer names the
+quantity as their own play sees it. Here the second and third members arrived at once: `added-headcount`
+was Brooks's law, meaning staff added to a late project, and the dial is plainly wider than staff, since
+The Extra Road's own concept line already reads **added capacity, less flow**. Renamed, with Braess
+joined to it, so the family is Brooks, Braess and this one, three different mechanisms and one dial. The
+rename is the **second in three passes**, which suggests the ratchet's singletons are carrying provisional
+names at a higher rate than anybody assumed, and that the cheapest time to fix one is the moment a joiner
+arrives rather than in a later audit.
+
+**And the end-of-authoring surname scan found more than the pre-authoring one, exactly as the contract
+says it will.** The pre-authoring scan reported `Turner` with a single bare incumbent cell, Barry Turner
+of _Man-Made Disasters_, against the Matthew Turner of the road-congestion work. The scan after writing
+reported **three cells and three different people**, because the third was `Tajfel & Turner`, John Turner
+of social identity theory, sitting in a cell the pre-scan had no reason to surface and which is invisible
+to the probe anyway, since the probe needs two named cells and this one was bare on both halves. All three
+are now named, and the bare `Downs` cell in Pournelle's Iron Law was named while the scan was open, since
+Anthony Downs is one person across three cells and the play adds a fourth.
+
+- [ ] [P2] Declare `Turner` in `scholarPolicy.homonyms`, now that all three cells are named. Governance
+      lane, because the config is not the misfit lane, which is the whole reason this is a second pass.
+
+**The lane split is the finding here and it is a small one worth writing down.** A namesake obligation has
+two halves that live in **different lanes**: naming the cells is `misfits/**` and declaring the surname is
+`khai-guard.config.json`, so a single obligation cannot be discharged in a single pull request. The
+ordering table already says which half comes first for each case, and it turns out the ordering is not
+only about correctness: for a bare incumbent, cells-first is also the only order that fits the lanes,
+because the declaration would have nothing to resolve against.
