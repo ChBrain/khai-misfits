@@ -9021,3 +9021,36 @@ than attempted: the **domains** the plays are set in rather than the fields they
 mechanism hides under a domain's vocabulary and the house's domain coverage has never been surveyed; and the
 **axes with only one play**, since a quantity nothing else measures against is either a genuinely lonely
 mechanism or a synonym nobody has noticed.
+
+**The seventy-fifth pass ran the synonym audit the last one proposed, over the 117 axes carrying a single play,
+and it found the best thing the axis mechanism has produced so far: an opposition that two names had made
+invisible.**
+
+**Whoever Is Not Involved called its quantity the approver's `independence`. Near Enough to Doubt It called its
+quantity the reviewer's `proximity`. Those are one dial read from opposite ends**, and both plays declared it
+**negative**, which means the house held two plays making opposite claims about one quantity, each agreeing with
+nobody, each passing every gate. Merged onto `reviewer-proximity`, with the change board's play flipped to
+positive, the check fires immediately.
+
+**What sets the sign is what the reviewer is being asked to produce.** Where the output is a judgement about
+whether this particular thing will work, proximity supplies the knowledge the judgement needs and its absence is
+the harm: an independent board is independent of the particulars. Where the output is a **rank** against other
+proposals, proximity supplies the specific doubts that lower a score, and the reviewer who cannot see the
+difficulties returns the higher number. **A gate asking whether this is sound wants the near reader; a
+competition asking whether this beats those penalises them.** Whether the answer is a verdict or a position
+decides the sign.
+
+**This is the failure mode the mechanism was built to have, arriving from the inside.** Every earlier finding was
+an opposition the declarations revealed. This one was an opposition the declarations **concealed**, because a
+sign is only meaningful relative to a name, and two authors naming one quantity from opposite ends produce two
+axes that each look consistent. The check cannot see it: nothing is unresolved, nothing is malformed, and both
+signs are correct given their own names.
+
+**So the instruction is stronger than the one this file already carries.** It said to read the declared
+vocabulary before coining a name, which guards against a synonym. **It must also say to read it for the same
+quantity under an inverted name**, which no vocabulary scan catches, because `independence` and `proximity` share
+no substring and sort nowhere near each other. The only instrument that found this was reading 117 single-play
+axes and asking of each whether some other play measures the same thing backwards.
+
+**Yield: one in 117**, which is worth stating plainly. The audit is expensive, it is not repeatable often, and it
+found one real thing. It should be run again when the single-play count has roughly doubled, and not before.
