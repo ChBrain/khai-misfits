@@ -81,6 +81,19 @@ know and so communicates past them. Nobody here is communicating badly: the near
 understood by the panel, and is correct. What differs is not the transmission but what each reader was in a
 position to perceive.
 
+It runs directly against the house's **Whoever Is Not Involved**, on the same axis and with the opposite
+sign. There a change is sent to a board selected for independence, and selecting for independence selects
+against the involvement where the knowledge lives, so the distance this play treats as a defence is that
+play's harm.
+
+**What sets the sign is what the reviewer is being asked to produce.** Where the output is a judgement
+about whether this particular thing will work, proximity supplies the knowledge the judgement needs and
+its absence is the harm: an independent board is independent of the particulars. Where the output is a
+**rank** against other proposals, proximity supplies the specific doubts that lower a score, and the
+reviewer who cannot see the difficulties returns the higher number. A gate asking whether this is sound
+wants the near reader; a competition asking whether this beats those penalises them. Same dial, opposite
+sign, and the discriminator is whether the answer is a verdict or a position.
+
 ## Origin
 
 The randomised result and its identification, the expertise effect and its favoured reading, where the penalty

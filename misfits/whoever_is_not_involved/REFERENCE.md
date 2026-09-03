@@ -2,8 +2,8 @@
 concept: "External Change Approval (the change advisory board; independence against knowledge)"
 field: "Organisations, hierarchy, and management"
 source: "Forsgren, Humble & Kim, _Accelerate_ (2018), on the State of DevOps research"
-axis: approver-independence
-sign: negative
+axis: reviewer-proximity
+sign: positive # how well-founded the judgement is as the reviewer sits closer to the work
 updated: "2026-08-25"
 ---
 
@@ -93,6 +93,20 @@ automated judgement and stops checking. Remove that engine, by stipulating no au
 and a wholly human review at every step, and this stands entire, because **there is nothing here being
 over-trusted.** The board is not deferring to a machine; it is a human body that has been correctly constituted
 and thereby made unable to see the thing it is looking for.
+
+It runs directly against the house's **Near Enough to Doubt It**, on the same axis and with the opposite
+sign, and the two were invisible to each other until the axis was named once instead of twice. This play
+called the quantity the approver's **independence** and that one calls it the reviewer's **proximity**,
+which are the same dial read from opposite ends, so two plays making opposite claims about one quantity
+sat in the house declaring different axes and agreeing with nobody.
+
+**What sets the sign is what the reviewer is being asked to produce.** Where the output is a judgement
+about whether this particular thing will work, proximity supplies the knowledge the judgement needs and
+its absence is the harm: an independent board is independent of the particulars. Where the output is a
+**rank** against other proposals, proximity supplies the specific doubts that lower a score, and the
+reviewer who cannot see the difficulties returns the higher number. A gate asking whether this is sound
+wants the near reader; a competition asking whether this beats those penalises them. Same dial, opposite
+sign, and the discriminator is whether the answer is a verdict or a position.
 
 ## Origin
 
