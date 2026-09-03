@@ -9518,7 +9518,7 @@ the last pass asserted, and the widening is done here. The gap is worth naming: 
 declaration leaves no trace**, so nothing will ever remind anybody that a form was declared for a
 scholar who was never cited.
 
-- [ ] [P1] **The ecological fallacy**, settled and authorable, to be staged on the secret ballot and
+- [x] [P1] **The ecological fallacy**, settled and authorable, to be staged on the secret ballot and
       racially polarised voting rather than on published aggregates. Sequence below, because the lanes
       force three passes.
 
@@ -9528,3 +9528,48 @@ bare `Goodman` and `Freedman` cells in Spoiled for Choice and The Streetlight Ef
 Selvin, Goodman, King, Freedman and Cho. Third a governance pass declaring `Goodman` and `Freedman`.
 Writing the sequence down is the whole point of the entry: the obligation is discovered in one lane,
 discharged in another, and completed in a third, and no single pass can see all of it.
+
+**The eighty-fifth pass is the middle of the three the lane split forced, and it did what the sequence
+said it would.**
+[The Precinct Is Not a Person](../misfits/the_precinct_is_not_a_person/play_the_precinct_is_not_a_person.md)
+is misfit 335: a court must find whether a group of voters votes cohesively, the ballot is secret so no
+individual record exists or ever will, the finest evidence there can be is the precinct return, and a
+number that is exactly right about places is converted into a finding about people by a forum with no
+option to wait. The two bare cells are named, `Goodman` in Spoiled for Choice and `Freedman` in The
+Streetlight Effect, and the `Robinson (W S)` form declared speculatively last pass now resolves against a
+real cell.
+
+**The staging decision the last pass made is doing the work it was made to do.** Every distinctness
+paragraph in the warrant turns on it. Against **Wherever You Draw It**: there the individual data are
+missing because a bureau published at its own units, which could have gone otherwise, and here because a
+democracy guarantees they will be. Against **The Abstraction Ladder**, which the neighbouring warrant
+itself calls the same dial turned the other way: stipulate no reporting chain at all and this harm
+survives, because the precinct total is not a summary of anything and nothing was shed. **A record
+prevented is not a record lost**, and that sentence is only available because the play was set where the
+prevention is constitutional.
+
+**The axis found a family and an opposition in one move, and the opposition was already written in
+prose.** `record-granularity` had one member, **Only One Person Fits**, negative: a released record must
+be detailed enough to answer a question and detail is what narrows a row to one person. That warrant says,
+in passing, that a question about a rare condition or a small place cannot be answered from a table of
+totals. **That sentence is this play**, and it had been sitting in the house unstaged and undeclared,
+which is the third time the register has recorded a relation stated in prose and invisible to every gate.
+
+**The discriminator is the cleanest this house has produced, because the two harms are made of the same
+substance.** Where the output is an inference about the individual, detail supplies the variation the
+inference needs and its absence is the harm. Where the output is the protection of the person in the row,
+detail supplies the uniqueness that identifies them and its presence is the harm. **It is not two
+properties in tension, it is one property serving two purposes**, so the trade-off cannot be engineered
+away by a better release format. And the plays differ again in how the dial got where it is: there a body
+chooses and can trade the harms off, here the setting was fixed once and cannot be revisited.
+
+- [ ] [P2] Declare `Goodman` and `Freedman` in `scholarPolicy.homonyms`, now that all four cells are
+      named. Governance lane. `Goodman` is Joseph K against Leo A; `Freedman` is David H against David A,
+      so that pair must be declared on middle initials.
+
+**And a note on the speculative widening, since this pass is the first evidence about it.** `Robinson`
+was extended to `W S` a pass before any cell named him, on the finding that an unmatched declared form is
+invisible to every wall. It resolved cleanly the moment the cell arrived, so the manoeuvre works. It also
+worked **only because the next pass happened**, and nothing in the house would have complained if it had
+not, which is the gap already recorded and is worth restating with the evidence in hand: a declaration
+made in advance is a promise the walls do not hold anybody to.

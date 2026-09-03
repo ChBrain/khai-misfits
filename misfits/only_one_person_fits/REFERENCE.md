@@ -77,6 +77,20 @@ It is distinct from the house's **The Abstraction Ladder**, where specificity is
 until the summary no longer carries what the decision needed. That is the same dial turned the other way. Here
 nothing is lost: the detail survives, deliberately and correctly, and the difficulty is entirely in what survives.
 
+It runs against the house's **The Precinct Is Not a Person**, on the same axis and with the opposite sign.
+There the record is a precinct total, the individual row was never made because the ballot is secret, and a
+court must find how people voted from what places did. This warrant already states the opposition in prose,
+that a question about a rare condition or a small place cannot be answered from a table of totals: that
+sentence is the other play, staged.
+
+**What sets the sign on this axis is whether the row is being used or protected.** Where the output is an
+inference about the individual, detail supplies the variation the inference needs and its absence is the harm.
+Where the output is the protection of the person in the row, detail supplies the uniqueness that identifies
+them and its presence is the harm. Same dial, opposite sign, and the discriminator is which of those two the
+record is for. The plays differ again in how the dial got where it is: here a body chooses a release and can
+trade the two harms off, and there the setting was fixed once by a constitutional commitment and cannot be
+revisited at all.
+
 ## Origin
 
 The spine and the demonstration, the correction to its headline figure, the same result in behavioural traces, the

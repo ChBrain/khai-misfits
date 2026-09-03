@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.334.0",
+  "version": "0.335.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -56857,6 +56857,228 @@
           "kind": "process",
           "title": "Reforecasting",
           "taxonomy": "play_the_planning_fallacy.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_precinct_is_not_a_person",
+      "title": "The Precinct Is Not a Person",
+      "description": "The ballot is secret, so the finest record is a precinct total, and a court must read it as a fact about people.",
+      "members": [
+        {
+          "file": "persona_the_bounds.md",
+          "kind": "persona",
+          "title": "The Bounds",
+          "type": "archetype",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "persona_the_court.md",
+          "kind": "persona",
+          "title": "The Court",
+          "type": "archetype",
+          "taxonomy": "position_judgement.md"
+        },
+        {
+          "file": "persona_the_expert.md",
+          "kind": "persona",
+          "title": "The Expert",
+          "type": "archetype",
+          "taxonomy": "position_inference.md"
+        },
+        {
+          "file": "persona_the_guarantee.md",
+          "kind": "persona",
+          "title": "The Guarantee",
+          "type": "archetype",
+          "taxonomy": "position_secrecy.md"
+        },
+        {
+          "file": "persona_the_precinct_total.md",
+          "kind": "persona",
+          "title": "The Precinct Total",
+          "type": "archetype",
+          "taxonomy": "position_tabulation.md"
+        },
+        {
+          "file": "piece_it_is_not_the_confounder.md",
+          "kind": "piece",
+          "title": "It Is Not the Confounder",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "piece_the_assumption_cannot_be_checked_from_the_data.md",
+          "kind": "piece",
+          "title": "The Assumption Cannot Be Checked From the Data",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "piece_the_bounds_are_true_and_wide.md",
+          "kind": "piece",
+          "title": "The Bounds Are True and Wide",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "piece_the_group_is_not_the_people_in_it.md",
+          "kind": "piece",
+          "title": "The Group Is Not the People in It",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "piece_the_missing_record_is_guaranteed_not_withheld.md",
+          "kind": "piece",
+          "title": "The Missing Record Is Guaranteed, Not Withheld",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "pitch_nobody_may_know_how_they_voted.md",
+          "kind": "pitch",
+          "title": "Nobody May Know How They Voted",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "place_the_booth.md",
+          "kind": "place",
+          "title": "The Booth",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "place_the_courtroom.md",
+          "kind": "place",
+          "title": "The Courtroom",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "place_the_return_sheet.md",
+          "kind": "place",
+          "title": "The Return Sheet",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "plan_count_and_publish_the_total.md",
+          "kind": "plan",
+          "title": "Count and Publish the Total",
+          "taxonomy": "position_tabulation.md"
+        },
+        {
+          "file": "plan_decide_on_the_best_evidence_there_is.md",
+          "kind": "plan",
+          "title": "Decide on the Best Evidence There Is",
+          "taxonomy": "position_judgement.md"
+        },
+        {
+          "file": "plan_estimate_it_from_the_totals.md",
+          "kind": "plan",
+          "title": "Estimate It From the Totals",
+          "taxonomy": "position_inference.md"
+        },
+        {
+          "file": "plan_let_no_one_see_it.md",
+          "kind": "plan",
+          "title": "Let No One See It",
+          "taxonomy": "position_secrecy.md"
+        },
+        {
+          "file": "plan_report_the_range.md",
+          "kind": "plan",
+          "title": "Report the Range",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "play_the_precinct_is_not_a_person.md",
+          "kind": "play",
+          "title": "The Precinct Is Not a Person"
+        },
+        {
+          "file": "plot_and_it_cannot_be_checked.md",
+          "kind": "plot",
+          "title": "And It Cannot Be Checked",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "plot_and_the_court_has_to_rule.md",
+          "kind": "plot",
+          "title": "And the Court Has to Rule",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "plot_nobody_sees_the_ballot.md",
+          "kind": "plot",
+          "title": "Nobody Sees the Ballot",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "plot_the_correlation_comes_out.md",
+          "kind": "plot",
+          "title": "The Correlation Comes Out",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "plot_the_finest_record_there_can_be.md",
+          "kind": "plot",
+          "title": "The Finest Record There Can Be",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "position_inference.md",
+          "kind": "position",
+          "title": "Inference",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "position_judgement.md",
+          "kind": "position",
+          "title": "Judgement",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "position_recourse.md",
+          "kind": "position",
+          "title": "Recourse",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "position_secrecy.md",
+          "kind": "position",
+          "title": "Secrecy",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "position_tabulation.md",
+          "kind": "position",
+          "title": "Tabulation",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "process_bounding.md",
+          "kind": "process",
+          "title": "Bounding",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "process_deciding.md",
+          "kind": "process",
+          "title": "Deciding",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "process_estimating.md",
+          "kind": "process",
+          "title": "Estimating",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "process_securing.md",
+          "kind": "process",
+          "title": "Securing",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
+        },
+        {
+          "file": "process_tallying.md",
+          "kind": "process",
+          "title": "Tallying",
+          "taxonomy": "play_the_precinct_is_not_a_person.md"
         }
       ]
     },
