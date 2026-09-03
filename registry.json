@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.330.0",
+  "version": "0.331.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -57016,6 +57016,228 @@
           "kind": "process",
           "title": "Testing",
           "taxonomy": "play_the_rare_disease_test.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_same_molecule",
+      "title": "The Same Molecule",
+      "description": "Two vials are certified identical, so the award runs on price alone, and the plant that made them stops.",
+      "members": [
+        {
+          "file": "persona_the_buyer.md",
+          "kind": "persona",
+          "title": "The Buyer",
+          "type": "archetype",
+          "taxonomy": "position_purchase.md"
+        },
+        {
+          "file": "persona_the_certificate.md",
+          "kind": "persona",
+          "title": "The Certificate",
+          "type": "archetype",
+          "taxonomy": "position_equivalence.md"
+        },
+        {
+          "file": "persona_the_maker.md",
+          "kind": "persona",
+          "title": "The Maker",
+          "type": "archetype",
+          "taxonomy": "position_production.md"
+        },
+        {
+          "file": "persona_the_prescriber.md",
+          "kind": "persona",
+          "title": "The Prescriber",
+          "type": "archetype",
+          "taxonomy": "position_absence.md"
+        },
+        {
+          "file": "persona_the_second_source.md",
+          "kind": "persona",
+          "title": "The Second Source",
+          "type": "archetype",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "piece_a_good_vial_every_time_until_none.md",
+          "kind": "piece",
+          "title": "A Good Vial Every Time, Until None",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "piece_identical_is_the_achievement.md",
+          "kind": "piece",
+          "title": "Identical Is the Achievement",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "piece_no_price_for_not_stopping.md",
+          "kind": "piece",
+          "title": "No Price for Not Stopping",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "piece_the_line_is_not_on_the_label.md",
+          "kind": "piece",
+          "title": "The Line Is Not on the Label",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "piece_too_few_to_lose_one.md",
+          "kind": "piece",
+          "title": "Too Few to Lose One",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "pitch_you_cannot_buy_the_plant.md",
+          "kind": "pitch",
+          "title": "You Cannot Buy the Plant",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "place_the_fill_line.md",
+          "kind": "place",
+          "title": "The Fill Line",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "place_the_price_sheet.md",
+          "kind": "place",
+          "title": "The Price Sheet",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "place_the_shelf.md",
+          "kind": "place",
+          "title": "The Shelf",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "plan_award_it_on_price.md",
+          "kind": "plan",
+          "title": "Award It on Price",
+          "taxonomy": "position_purchase.md"
+        },
+        {
+          "file": "plan_certify_them_identical.md",
+          "kind": "plan",
+          "title": "Certify Them Identical",
+          "taxonomy": "position_equivalence.md"
+        },
+        {
+          "file": "plan_find_something_else_to_give.md",
+          "kind": "plan",
+          "title": "Find Something Else to Give",
+          "taxonomy": "position_absence.md"
+        },
+        {
+          "file": "plan_meet_the_price.md",
+          "kind": "plan",
+          "title": "Meet the Price",
+          "taxonomy": "position_production.md"
+        },
+        {
+          "file": "plan_qualify_a_second_source.md",
+          "kind": "plan",
+          "title": "Qualify a Second Source",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "play_the_same_molecule.md",
+          "kind": "play",
+          "title": "The Same Molecule"
+        },
+        {
+          "file": "plot_and_somebody_still_needs_it_today.md",
+          "kind": "plot",
+          "title": "And Somebody Still Needs It Today",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "plot_the_cheapest_place_to_save.md",
+          "kind": "plot",
+          "title": "The Cheapest Place to Save",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "plot_the_line_goes_down.md",
+          "kind": "plot",
+          "title": "The Line Goes Down",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "plot_the_lowest_bid_wins.md",
+          "kind": "plot",
+          "title": "The Lowest Bid Wins",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "plot_they_are_the_same_drug.md",
+          "kind": "plot",
+          "title": "They Are the Same Drug",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "position_absence.md",
+          "kind": "position",
+          "title": "Absence",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "position_equivalence.md",
+          "kind": "position",
+          "title": "Equivalence",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "position_production.md",
+          "kind": "position",
+          "title": "Production",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "position_purchase.md",
+          "kind": "position",
+          "title": "Purchase",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "position_recourse.md",
+          "kind": "position",
+          "title": "Recourse",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "process_certifying.md",
+          "kind": "process",
+          "title": "Certifying",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "process_deferring.md",
+          "kind": "process",
+          "title": "Deferring",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "process_stopping.md",
+          "kind": "process",
+          "title": "Stopping",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "process_substituting.md",
+          "kind": "process",
+          "title": "Substituting",
+          "taxonomy": "play_the_same_molecule.md"
+        },
+        {
+          "file": "process_tendering.md",
+          "kind": "process",
+          "title": "Tendering",
+          "taxonomy": "play_the_same_molecule.md"
         }
       ]
     },
