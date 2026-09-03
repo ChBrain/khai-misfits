@@ -2,6 +2,8 @@
 concept: "The Regulatory Licence (rating-dependent regulation; the certificate as a permit)"
 field: "Markets, money, and economic equilibria"
 source: 'Partnoy, "The Siskel and Ebert of Financial Markets?" (Washington University Law Quarterly, 1999); Lawrence J. White (JEP, 2010)'
+axis: deference-to-judgement
+sign: negative # how far a holder forms its own view as a rule-recognised grade carries more of the decision
 updated: "2026-07-31"
 ---
 

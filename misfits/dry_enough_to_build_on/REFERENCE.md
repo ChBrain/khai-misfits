@@ -2,6 +2,8 @@
 concept: "The Levee Effect (protection inviting the development it then cannot protect)"
 field: "Safety, risk, and complex systems"
 source: "Gilbert F. White, Human Adjustment to Floods (1945)"
+axis: protective-cover
+sign: negative # how small the eventual loss stays as the protection between the settlement and the water thickens
 updated: "2026-08-09"
 ---
 
@@ -63,6 +65,18 @@ what has come to stand behind it.
 It is distinct from the house's **The Brittle Optimum**, where slack is trimmed away as idle waste until
 the system shatters: there the resilience is removed. Here nothing is removed, something is added, and the
 floodplain that was the slack is not trimmed but occupied.
+
+It runs against the house's **The Bank Run**, on the same axis and with the opposite sign. There a credible
+guarantee removes a self-fulfilling run and nothing about the depositor's conduct changes for being covered,
+so the cover is pure gain. Here the protection is equally real and equally effective against what it was
+built for, and it recruits the exposure that the flood it cannot stop will find, so the same thickening of
+the shield runs the other way.
+
+**What sets the sign on this axis is whether the cover changes the behaviour it insures**, which is the
+discriminator that warrant already states. The depositor who stays put does nothing more dangerous for being
+guaranteed. The town behind the levee is the behaviour: the wall does not cause the flood, it causes the
+settlement the flood finds, and it does so through nobody's error, because the plain really is drier and
+every party is responding correctly to a real change.
 
 ## Origin
 

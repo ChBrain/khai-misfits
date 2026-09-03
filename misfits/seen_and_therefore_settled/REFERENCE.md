@@ -2,8 +2,8 @@
 concept: "Appellate Deference to Credibility Findings (the demeanour rationale; the standard of review)"
 field: "Measurement, cognition, and inquiry"
 source: "Wellborn, Demeanor (Cornell Law Review, 1991); Bond & DePaulo (Personality and Social Psychology Review, 2006)"
-axis: credibility-deference
-sign: negative
+axis: deference-to-judgement
+sign: negative # how well-founded a judgement is as the party downstream adopts it rather than re-examining it
 updated: "2026-08-25"
 ---
 

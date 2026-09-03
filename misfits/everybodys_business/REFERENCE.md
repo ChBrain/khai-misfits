@@ -2,6 +2,8 @@
 concept: "The Bystander Effect (diffusion of responsibility)"
 field: "Collective action, commons, and coordination"
 source: "Darley & Latané (JPSP, 1968)"
+axis: group-size
+sign: negative # how likely the open duty is to be taken up as the number who could take it rises
 updated: "2026-08-28"
 ---
 

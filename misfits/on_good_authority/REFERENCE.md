@@ -2,6 +2,8 @@
 concept: "Citation Distortion (unfounded authority built by citation)"
 field: "Measurement, cognition, and inquiry"
 source: "Greenberg (BMJ, 2009)"
+axis: deference-to-judgement
+sign: negative # how far a belief rests on evidence as deference to the cited record rises
 updated: "2026-07-28"
 ---
 
