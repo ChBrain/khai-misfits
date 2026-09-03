@@ -9225,7 +9225,7 @@ nothing, because what contaminates the word is the thing it points at, and the m
 chosen the more surely it is understood to point there. Every renaming is done in good faith by people
 trying to be kind, which is the misfit.
 
-- [ ] [P3] **The ecological fallacy**, slated with a caution about an incumbent, in the shape this register
+- [x] [P3] **The ecological fallacy**, slated with a caution about an incumbent, in the shape this register
       has learned to expect. Robinson, 1950. A relationship measured over groups is not the relationship
       among individuals, and can be much larger or reversed.
 
@@ -9343,7 +9343,7 @@ pass re-derived it from a truncated command and contradicted it. **The register 
 record**, and a candidate that feels new is often one this file has already considered, so the scouting
 step before the tools is `grep` over this file for the candidate's name.
 
-- [ ] [P2] Extend `Robinson` to a third form before the ecological fallacy is authored, if it is authored.
+- [x] [P2] Extend `Robinson` to a third form before the ecological fallacy is authored, if it is authored.
       The declaration exists and the wall fires on the citation, so this one cannot be left to the
       authoring pass the way an undeclared surname can. Governance lane.
 
@@ -9465,3 +9465,66 @@ and the engine is fully visible in the turnover of words for the lavatory, where
 general form: **where an instance is both the clearest illustration and itself the injury, stage the
 mechanism on a harmless instance and cite the charged one abstractly.** Nothing is lost, since the
 mechanism is what the play needs and the mechanism is the same.
+
+**The eighty-fourth pass settled the ecological fallacy's caution, and the settlement turned on a
+question the switch-offs could not answer.** Both of them pass, and this file already recorded that they
+do. Stipulate no confounder and no reversal, killing **The Bigger Picture**'s engine, and the ecological
+correlation still exceeds the individual one, because grouping removes the within-group variation, which
+is a fact about variance and not about a lurking variable. Stipulate a single fixed partition that nobody
+may modify, killing **Wherever You Draw It**'s engine, and the gap between the group answer and the
+individual answer survives, because it is about the **level** of the unit and not the **choice** of it.
+
+**What the caution was really about was not logic but furniture.** Two switch-offs passing is the house's
+test for a distinct engine and this candidate passes it, so on the written rule it is a play. The unease
+was that it would be **staged** as a rerun: an analyst, published aggregate data, a correct estimate and
+a reader who cannot tell, which is the room Wherever You Draw It already occupies down to the personas.
+That is a real objection and the rule does not answer it, because the rule is about mechanisms and the
+objection is about productions.
+
+**So the settlement is a staging decision and not only a verdict, and it is the finding to carry.** Set
+it where the individual data is impossible **in principle** rather than merely unpublished: the secret
+ballot. A court has to decide whether a group votes cohesively, the ballot is secret so the individual
+data will never exist and should never exist, and the only evidence there can be is precinct returns.
+Nobody is at fault anywhere: the secret ballot is a good thing and is the cause, the court must answer,
+the expert applies the best method available, and the method's bounds are wide and contested. **In
+Wherever You Draw It the data are missing because a bureau published at its own units; here they are
+missing because a democracy guarantees they will be**, and that is a different play in every seat.
+
+**The general rule: where two plays pass each other's switch-offs but share a room, the separation must
+be found in the staging, and the right instance is the one where the shared circumstance arises for an
+unshared reason.** A candidate that can only be staged in the incumbent's room is a row whatever the
+logic says.
+
+**And the pre-authoring scan found two more namesakes than the slate expected, both of them bare, one of
+them the closest pair this house has had.**
+
+| Surname    | The house's                                  | The candidate's               | What it owes                               |
+| ---------- | -------------------------------------------- | ----------------------------- | ------------------------------------------ |
+| `Robinson` | Sandra and Robert, **declared**              | W S, of the 1950 paper        | a **widening** of the existing declaration |
+| `Goodman`  | Joseph, in Spoiled for Choice, **bare**      | Leo, of ecological regression | cells first, then a declaration            |
+| `Freedman` | David H, in The Streetlight Effect, **bare** | David A, of the critiques     | cells first, then a declaration            |
+
+**The Freedman pair is the sharpest namesake risk the house has met**, because both are David and the
+declaration has to run on a middle initial, `David H` against `David A`, which the token-prefix rule
+keeps apart only because both are written. Collating them would attribute a magazine feature and a
+statistician's critique of ecological inference to one person, and neither cell is currently named.
+
+**A wall was tested rather than assumed, and it does less than this file claimed.** The `Robinson`
+widening was declared before any cell names W S, on the expectation that `--forms` would report an
+unreachable declared form. It does not: `forms` still reads 0 shadowed, so **a declared form that matches
+nothing is invisible to every wall.** "Shadowed" means captured by another declared form that is a token
+prefix of it, not unmatched. So a widening may land before its citation, which is the opposite of what
+the last pass asserted, and the widening is done here. The gap is worth naming: **a speculative
+declaration leaves no trace**, so nothing will ever remind anybody that a form was declared for a
+scholar who was never cited.
+
+- [ ] [P1] **The ecological fallacy**, settled and authorable, to be staged on the secret ballot and
+      racially polarised voting rather than on published aggregates. Sequence below, because the lanes
+      force three passes.
+
+**The three passes, in order, because the lane split decides it.** First this one, governance, which
+widens `Robinson` and is done. Second the authoring pass, misfit lane, which stages the play, names the
+bare `Goodman` and `Freedman` cells in Spoiled for Choice and The Streetlight Effect, and cites Robinson,
+Selvin, Goodman, King, Freedman and Cho. Third a governance pass declaring `Goodman` and `Freedman`.
+Writing the sequence down is the whole point of the entry: the obligation is discovered in one lane,
+discharged in another, and completed in a third, and no single pass can see all of it.
