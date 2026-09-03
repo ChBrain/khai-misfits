@@ -9215,7 +9215,7 @@ properly is against **The Spent Margin**, since risk compensation is one agent r
 and this is two adversaries spending it on each other, which is either a different engine or the same one
 with two seats, and the answer decides whether it is a play or a row.
 
-- [ ] [P2] **The euphemism treadmill.** A word for a stigmatised thing takes on the stigma, because the
+- [x] [P2] **The euphemism treadmill.** A word for a stigmatised thing takes on the stigma, because the
       feeling attaches to the referent rather than to the word, so each kind replacement is spent and the
       replacing never finishes. Allan and Burridge on the linguistics; Pinker named the treadmill.
 
@@ -9413,3 +9413,55 @@ stops the small floods and recruits the town that the large flood finds. A ceili
 and recruits the small wars it does not cover. Inverted in scale, identical in structure: the protection
 is real, works for precisely what it was built for, and the exposure it gathers is the exposure it does
 not cover.
+
+**The eighty-third pass staged the second of the refill's candidates, and it is the first play in this
+house whose harm is produced entirely by people doing the kind thing correctly.**
+[Whatever You Call It](../misfits/whatever_you_call_it/play_whatever_you_call_it.md) is misfit 334: a
+word for something shameful has become an insult, a better one is chosen by people acting for those it
+names, it works for a decade, and then a child uses it in a playground as an insult and the whole
+exercise begins again.
+
+**The governing law is one sentence and the play is built on it.** Concepts and not words are in charge,
+so a concept given a new name colours the name. The connotation is not stored in the syllables, where a
+naming committee could put a better one; it is stored in what people feel about the thing, and any
+expression that reliably points at the thing will collect it. **Pointing reliably is the whole job.**
+
+**The structural claim is the one that took the writing to find.** A replacement must be **clear**, or it
+does not communicate; **adopted**, or the old word survives beside it; and **used in earnest**, about
+real people, or it has replaced nothing. Those three are the definition of a working replacement and they
+are also, without remainder, the complete method for building the association that ends it. So there is
+no more careful version of this: **carefulness is the mechanism**, and the most scrupulous institution
+spoils the word fastest.
+
+**The switch-off that mattered was against a resemblance again, and the last pass had just named that
+risk.** Metric Fixation reads as the same shape, a measure adopted as a target ceasing to be a good
+measure against a word adopted as a shield ceasing to be a good shield. Its quantity is the **reward
+attached** to the measure, and the degradation is produced by parties optimising against it. Stipulate
+that nobody is optimising anything and that no reward attaches to any word: this harm is untouched,
+because the contamination is done by **ordinary sincere reference**. Two passes running, the nearest
+danger was a structure with the same silhouette and a different engine, which is now the third recorded
+instance and should be treated as the normal case rather than as a surprise.
+
+**Three further switch-offs, all clean.** Against **The Hollow Word**, stipulate a perfectly stable
+referent: the harm gets **worse**, not absent, because a stable referent is the ideal condition for a
+stable association. That is a switch-off worth noting in its own right, since the ordinary form leaves
+the candidate standing and this one strengthens it. Against **Prevalence-Induced Concept Change**, the
+concept's boundary does not move at all here, only the connotation of what points at it. Against **More
+to Stand Still**, nothing is habituated to: the word does not fade, it **acquires** a definite content it
+did not have.
+
+**The axis is a singleton and is declared as one, `referent-stigma`, negative.** The joiner selector was
+run first and found nothing honest: the house's language plays sit on drift of practice, on name-anchor
+rigidity, on concept boundaries and on interpretive mediation, and none of them is this dial. Per the
+rule this register wrote two passes ago, the name is **provisional until somebody joins it**, and the
+likely joiner is whatever the house eventually stages about a reputation that contaminates whoever holds
+the role.
+
+**And one thing the play refuses to do is worth recording as a house rule, because it will come up
+again.** The clearest instance of this mechanism is the sequence of official terms for stigmatised
+conditions, each introduced for accuracy and kindness and each in time used as abuse. **The warrant names
+the pattern and does not print the sequence**, because reciting it performs the harm the play is about,
+and the engine is fully visible in the turnover of words for the lavatory, where nobody is hurt. The
+general form: **where an instance is both the clearest illustration and itself the injury, stage the
+mechanism on a harmless instance and cite the charged one abstractly.** Nothing is lost, since the
+mechanism is what the play needs and the mechanism is the same.
