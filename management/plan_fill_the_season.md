@@ -8906,7 +8906,7 @@ staged. The two gaps that survived reading are one shape twice.
 analyst looks in the wrong place, and it is not that the flexibility is hidden. It is that the method requires a
 setting the world does not supply.
 
-- [ ] [P1] **The Modifiable Areal Unit Problem.** A correlation computed over areal units changes when the units
+- [x] [P1] **The Modifiable Areal Unit Problem.** A correlation computed over areal units changes when the units
       are redrawn, in both size and shape, and no zoning is the correct one, so every spatial statistic carries a
       choice its author had to make and cannot justify. **Three switch-offs run and it survives all three.**
       **Simpson's Paradox**'s quantity is a confounder that reverses an association on aggregation: stipulate no
@@ -9170,3 +9170,90 @@ written by whoever declares first, and a first declarer names the quantity as th
 wider. That is not a fault in the author, it is a property of naming from one instance. **Expect to
 rename an axis whenever its second member arrives**, and treat a singleton's name as provisional until
 somebody joins it.
+
+**The seventy-ninth pass ran the refill the slate has been asking for since the domain survey, and found a
+defect in the slate itself on the way to it.** The P1 line for the modifiable areal unit problem was still
+open, four passes after the play was staged as Wherever You Draw It. Nothing was wrong with the work and
+nothing was wrong with the play; the line simply never got ticked, because **a slate item is opened by one
+pass and closed by a different one**, and the pass that stages a play is thinking about the play. The axis
+line two entries above it is stale in the same way, reading 109 of 329 where the live count is **168 of
+331**. The general shape is familiar and worth naming: the house has a gate for every relation it can
+compute and none for the relation between a slate line and the house's own contents, which **is**
+computable, since a line names a concept and the concept either has a directory or it does not. That is a
+wall, by the rule this register already carries, and it belongs in the kit rather than here.
+
+**The refill ran the method the slate prescribed**, reading a list of named effects and checking each
+against the house rather than probing the house with a candidate's vocabulary. Most of the list was
+already staged, and the house turned out to be much larger than the concept list suggests from outside:
+the Lucas critique is True Until It Was Used, the iron law of oligarchy is Pournelle's Iron Law and The
+Shirky Principle, herding is Information Cascade, and the paradox of thrift, debt deflation and the
+beauty contest are all present under their own names. Four absences survived checking.
+
+- [ ] [P1] **The Downs-Thomson paradox.** Widen a road and the commuters it attracts come off the trains,
+      so the transit service loses the riders that paid for its frequency, the journey it offers gets
+      worse, and the road's equilibrium speed, which is set by the alternative, gets worse with it. Dedup
+      and namesake below.
+
+**The switch-offs are clean and the load-bearing partner is the Mohring effect.** Against **The Extra
+Road**, which stages Braess: stipulate a single mode and the Braess result stands entire, while this one
+disappears, because it needs a competing service to lose riders to. Against **Jevons Paradox**: stipulate
+that total travel is fixed and no trip is induced, and the harm survives, because the damage is done by
+the **mode shift** rather than by extra journeys. What makes it a misfit rather than an error is that the
+transit operator's response is correct: with scale economies in frequency, fewer riders genuinely do
+justify fewer departures. The spine is Downs on peak-hour congestion, Thomson and then Mogridge on the
+equilibrium and the London evidence, Mohring on why frequency falls with ridership, and Duranton and
+Turner on induced demand, verified by search and not read.
+
+- [ ] [P2] **The stability-instability paradox**, slated with its dedup owed. A shield at the top of the
+      escalation ladder makes the rungs below it cheap, so parity that makes the largest war unlikely
+      makes small wars safe to start. Snyder, 1965.
+
+**It would join `protective-cover` and it is the reason the sign rule there is worth trusting.** The
+discriminator this house already carries is whether the cover changes the behaviour it insures, and this
+would be the clearest case yet of a cover that does. The dedup that must be run before it is slated
+properly is against **The Spent Margin**, since risk compensation is one agent re-spending a felt margin
+and this is two adversaries spending it on each other, which is either a different engine or the same one
+with two seats, and the answer decides whether it is a play or a row.
+
+- [ ] [P2] **The euphemism treadmill.** A word for a stigmatised thing takes on the stigma, because the
+      feeling attaches to the referent rather than to the word, so each kind replacement is spent and the
+      replacing never finishes. Allan and Burridge on the linguistics; Pinker named the treadmill.
+
+**It is distinct from The Hollow Word and the distinction is the whole of it.** Semantic bleaching is a
+word losing force through overuse, and stipulating restrained use fixes it. Here restraint changes
+nothing, because what contaminates the word is the thing it points at, and the more carefully the word is
+chosen the more surely it is understood to point there. Every renaming is done in good faith by people
+trying to be kind, which is the misfit.
+
+- [ ] [P3] **The ecological fallacy**, slated with a caution about an incumbent, in the shape this register
+      has learned to expect. Robinson, 1950. A relationship measured over groups is not the relationship
+      among individuals, and can be much larger or reversed.
+
+**The caution is that it sits between two staged plays and may be a row in one of them.** Against **The
+Bigger Picture**, which stages Simpson's paradox: stipulate no confounder and no reversal, and the
+ecological correlation still exceeds the individual one, because aggregation removes the within-group
+variance, which is a fact about variance rather than about a lurking variable. Against **Wherever You
+Draw It**: stipulate a single fixed partition that nobody may modify, and the gap between the group answer
+and the individual answer survives, because it is about the **level** of the unit and not the **choice**
+of it. Both switch-offs pass on paper, which is why it is slated rather than held; what has to be settled
+before authoring is whether the surviving thing is a play or the third domain of an engine the house has
+already staged twice.
+
+**And one candidate was refused for the right reason, which is the reason to record it.** The **Osborne
+effect**, where announcing a better product stops the sales of the current one, is the same engine as the
+house's **Fair Warning**, where announcing a future cut accelerates present extraction: in both, the
+announcement is the intervention and it moves present behaviour against the announcer. One engine in two
+domains is a row, so it belongs in Fair Warning's Origin table and not in a directory of its own.
+
+**The pre-authoring surname scan earned the pass its rule, and it is a rule about the slate rather than
+about names.** Three of the four candidates carry a namesake obligation and **each one is a different arm
+of the ordering table**, which is precisely what a binary "clear" or "not clear" cannot record. Downs is
+Anthony Downs, already here for _Inside Bureaucracy_, and Pinker is Steven Pinker, already here for _The
+Sense of Style_, so both are the same person returning on another work and owe nothing. **Turner** is
+undeclared and the incumbent cell is **bare**, `Turner: "Man-Made Disasters" (1978)`, which is Barry
+Turner and not the Matthew Turner of the road-congestion work, so that pair wants the cells named first
+and the declaration second. **Snyder** and **Robinson** are undeclared and their incumbent cells are
+**named**, Jack Snyder on alliance patterns and Sandra Robinson on territoriality, so those two want the
+declaration first and owe no cells. The rule: **a slate line must carry the shape of the namesake
+obligation and not the fact of one**, because the fact is worth nothing to the pass that has to discharge
+it and the shape is the whole instruction.
