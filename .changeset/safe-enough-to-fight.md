@@ -1,0 +1,7 @@
+---
+"@chbrain/khai-misfits": minor
+---
+
+Add the misfit **Safe Enough to Fight**: two states acquire the means to destroy each other, the largest war between them becomes genuinely unthinkable and stays so for decades, and the ground beneath that ceiling fills with border incursions and proxy wars that neither would have risked when a war between them could still be won. The block is proportionality rather than capacity: the weapons are ready and could answer anything, and what nobody would do is want to end a country over a district, which everybody can see, so the deterrent is present at every rung and effective at one. Settles the dedup the slate owed: it survives switch-offs against The Spent Margin, since the adjustment is to the opponent's loss of a usable answer rather than to one's own felt margin, against Moral Hazard, since each party bears its own loss, against You Have to Mean It, since no state would choose to bind itself to annihilation over a district, against Exactly How Far, since two parties suffice with no guarantee to anybody, and against The Balloon Effect, since the threat already has unlimited coverage and it is belief that fails.
+
+Joins `protective-cover` as a sixth negative and names The Bank Run's positive, which names it back. It is the limiting case of that family's discriminator: the cover is not merely permitting the behaviour it insures, nor recruiting it over a generation, it is read off the cover directly by both parties as arithmetic.

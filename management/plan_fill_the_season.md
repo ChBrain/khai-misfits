@@ -9204,7 +9204,7 @@ justify fewer departures. The spine is Downs on peak-hour congestion, Thomson an
 equilibrium and the London evidence, Mohring on why frequency falls with ridership, and Duranton and
 Turner on induced demand, verified by search and not read.
 
-- [ ] [P2] **The stability-instability paradox**, slated with its dedup owed. A shield at the top of the
+- [x] [P2] **The stability-instability paradox**, slated with its dedup owed. A shield at the top of the
       escalation ladder makes the rungs below it cheap, so parity that makes the largest war unlikely
       makes small wars safe to start. Snyder, 1965.
 
@@ -9363,3 +9363,53 @@ because two people who were not being counted now are. **A declaration is a cont
 config file's clothes**, so a governance pass that declares a surname rebuilds the science index and the
 references in the same breath, and the built artefacts travel on the governance lane because they are
 declared shared.
+
+**The eighty-second pass settled the debt on the stability-instability line and the settlement went the
+other way from where it started, which is the reason to write the settling down rather than only its
+verdict.** [Safe Enough to Fight](../misfits/safe_enough_to_fight/play_safe_enough_to_fight.md) is misfit
+333: two states acquire the means to destroy each other, the largest war between them becomes genuinely
+unthinkable and stays unthinkable for decades, and the ground beneath that ceiling fills with border
+incursions and proxy wars that neither would have risked when a war between them could still be won.
+
+**The slated dedup was against The Spent Margin and the first honest reading killed the candidate.** Risk
+compensation is a shield handing an actor a margin that the actor re-spends, and a nuclear ceiling looks
+exactly like a shield handing two actors a margin they re-spend as limited war. On that reading it is
+risk compensation with two seats, and it is a row. **What rescued it was reading the mechanism instead of
+the shape.** The claimant is not emboldened by feeling protected; it is un-deterred by a threat it has
+correctly judged will not be made. The adjustment is to **the opponent's loss of a usable answer**, not
+to one's own safety, so stipulating risk compensation entirely off leaves the harm standing. That is the
+same error the register has recorded twice before under other names, testing the domain instead of the
+engine, and it arrived here as a **resemblance** rather than as a domain, which is the harder form to
+catch: two structures can share their whole silhouette and run on different quantities.
+
+**Then the settling produced four more incumbents the slate had not named, and each needed its own
+switch-off.** Against **Moral Hazard**, stipulate that every party bears its own loss: the harm survives,
+because what makes the limited war available is that it **cannot become total**, not that somebody else
+pays. Against **You Have to Mean It**, stipulate perfect precommitment: the harm survives, because no
+state would **choose** to bind itself to annihilation over a district, so the block is what a state wants
+rather than what it can commit to. Against **Exactly How Far**, which was the closest and shares two of
+its scholars, stipulate two parties and no guarantee to anybody: the harm survives, because two
+neighbours with a disputed border need no third audience. Against **The Balloon Effect**, stipulate
+unlimited coverage: the harm is untouched, because the deterrent already has unlimited coverage and it is
+belief that fails, not reach.
+
+**Five switch-offs is more than this house usually runs and the count is the finding.** A candidate that
+was slated with one dedup owed turned out to have five neighbours, and four of them were invisible from
+the slate line, because a slate line records the neighbour the **scouting** pass could see and the
+settling pass is the first to hold the mechanism in its hands. This is the same rule the lemons pass
+wrote, arriving from the other end: there the authoring pass found the neighbour the scouting pass had
+missed, and here the settling pass found four. **The number of incumbents a candidate has is not known
+until somebody tries to write it.**
+
+**The axis is `protective-cover` and this play is the limiting case of that family's discriminator.** The
+sign turns on whether the cover changes the behaviour it insures. In Moral Hazard the cover **permits**
+the behaviour; in Dry Enough to Build On it **recruits** it, over a generation, through a memory that
+fades; here it is **read off the cover directly**, by both parties, as arithmetic, within the same
+decision. Three degrees of the same discriminator, which is what a family is for and what a singleton can
+never show. The Bank Run's opposition list goes from five to six and both warrants name each other.
+
+**And the parallel with the levee is exact enough to be worth stating as the play's own shape.** A wall
+stops the small floods and recruits the town that the large flood finds. A ceiling stops the largest war
+and recruits the small wars it does not cover. Inverted in scale, identical in structure: the protection
+is real, works for precisely what it was built for, and the exposure it gathers is the exposure it does
+not cover.
