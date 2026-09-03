@@ -9678,7 +9678,7 @@ left undeclared, so the empty end of such a dial is not an opposition and stagin
 that cannot declare against the first. **An empty end is a candidate only where the two ends have different
 engines, not merely different signs.**
 
-- [ ] [P2] **The silent patch**, slated with the two-bad-ends caution attached. A vendor ships a fix with
+- [x] [P2] **The silent patch**, slated with the two-bad-ends caution attached. A vendor ships a fix with
       no advisory, to avoid telling attackers where the flaw is. The attacker diffs the binary and has it
       in a day or two. The administrator has no severity, no applicability and no blast radius, so the
       patch waits for the next maintenance window, and the estate is exposed for weeks by the decision
@@ -9699,3 +9699,62 @@ Arbaugh and colleagues, Arora and colleagues, and Rescorla. **A second play in t
 for any of them**, so it must be built on the disclosure-practice side instead, where the material is
 industry writing rather than peer-reviewed work and the bound has to be stated in Restrictions. That is a
 real cost, it is knowable now, and it is better decided before the authoring pass than at the wall.
+
+**The eighty-ninth pass settled the silent patch and the answer is no, on the strongest ground a refusal
+has yet had in this file.** The candidate's whole argument was an asymmetry: recovering the flaw from a
+patch costs an attacker a diff, and recovering the urgency costs an administrator a judgement about
+applicability and severity across an estate, so withholding the detail disarms the defender far more than
+the attacker. **The Fix Tells Them Where already says that**, as a load-bearing vector rather than as an
+aside: the advisory is the input an operator uses to decide whether this justifies an unscheduled outage,
+somebody comparing builds does not need it, and **every degree of vagueness is taken from the only party
+whose behaviour it changes and refunded to nobody**.
+
+**So the refusal is not a distinction the incumbent draws against a neighbour, it is the incumbent's own
+production containing the candidate.** That is a different and stronger kind of no than the four this file
+has recorded lately, and it corrects the selector that proposed it.
+
+**The empty-end method needs one more test in front of it, and the test is cheap.** A play that stages a
+dilemma properly will carry **both horns**, because the No Hero section is where the escapes live and the
+escapes are the other end of the dial. So an empty end is a candidate only if the play at the occupied end
+**does not already carry it as a vector**, and the two paragraphs to read before slating are **No Hero and
+whatever the warrant calls its lever**. The method's two earlier successes pass that test on inspection:
+Only One Person Fits mentions the other end in a single clause and does not stage it, and The Bank Run's
+cover is a different instrument entirely rather than the same dial withheld.
+
+**Re-run with the test in front, the method produced a candidate that survives it, and the candidate is an
+opposition the house has been circling for a while.** `knowledge-concentration` is held by **The Bus
+Factor**, negative: a group's resilience to losing one member falls as knowledge routes to whoever already
+holds it. Its No Hero paragraph is about the departure and the successor excavating an undocumented system,
+and carries nothing at all about the other end.
+
+- [ ] [P1] **The volume-outcome relationship.** A hospital does four of a complex operation a year, by a
+      surgeon who is careful, trained and conscientious, and its results are worse than a centre that does
+      two hundred. Concentrating the work is what makes it good, and every party resisting concentration is
+      right: patients want the service locally, the hospital wants to offer it, and travelling is a real
+      cost paid by the sick.
+
+**It would join `knowledge-concentration` as a positive and oppose The Bus Factor directly, which is the
+best kind of pair this mechanism finds: each play's remedy is the other play's harm.** Spread the work so
+no single person is indispensable and nobody accumulates enough of it to be good at it; concentrate it so
+that whoever does it is excellent and the institution cannot survive their leaving. The discriminator to
+write is what the concentration is being asked to produce, **capability or continuity**, and those are the
+same routing decision judged against two different obligations.
+
+**The switch-offs to run before authoring.** Against **Only as Good as the Worst**, which stages task
+complementarity: stipulate the tasks fully separable and this harm survives, because it is about how much
+of one task one person has done. Against **The Ninth Woman**, on `added-capacity`: stipulate that adding
+people is free and instantaneous, and it survives, because the shortfall is experience and not headcount.
+And against **The Bus Factor** itself the test is the opposition rather than a switch-off, since sharing an
+axis is the claim.
+
+**The spine is free and one hygiene note came out of the scan.** Luft, Bunker and Enthoven on the volume
+and mortality relation are clear, as are Argote on organisational learning and forgetting and Ortega on job
+rotation as a learning mechanism; Becker and Murphy on the division of labour and knowledge would be a
+fifth cell for a Gary Becker already in the house on four other works, which owes nothing. **The house
+writes him two ways**, `Gary Becker` in three cells and `Gary S. Becker` in one, which collates correctly
+today because the surname is undeclared and would become a shadowed form the day anybody declares it.
+That is the `E J` against `EJ` defect this file recorded once before, and it is cell hygiene rather than a
+namesake.
+
+- [ ] [P3] Regularise `Gary Becker` and `Gary S. Becker` to one spelling across the four cells, before
+      anything forces a `Becker` declaration. Misfit lane, cheap, and much cheaper now than at a wall.
