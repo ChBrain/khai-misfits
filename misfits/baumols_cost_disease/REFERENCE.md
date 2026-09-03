@@ -2,6 +2,8 @@
 concept: "Baumol's Cost Disease"
 field: "Markets, money, and economic equilibria"
 source: "Baumol & Bowen, _Performing Arts: The Economic Dilemma_ (1966)"
+axis: relative-productivity-growth
+sign: negative # how affordable a labour-intensive service stays as productivity rises faster everywhere else
 updated: "2026-07-02"
 ---
 

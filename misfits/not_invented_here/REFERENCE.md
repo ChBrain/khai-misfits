@@ -2,6 +2,8 @@
 concept: "Not-Invented-Here Syndrome"
 field: "Organisations, hierarchy, and management"
 source: 'Katz & Allen, "Investigating the NIH Syndrome" (R&D Management, 1982)'
+axis: external-origin
+sign: negative # how likely a solution is to be adopted as its origin lies further outside the group
 updated: "2026-08-28"
 ---
 

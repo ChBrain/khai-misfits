@@ -2,6 +2,8 @@
 concept: "Managerial short-termism (eating the seed corn)"
 field: "Organisations, hierarchy, and management"
 source: 'Narayanan, "Managerial Incentives for Short-term Results" (J. Finance, 1985)'
+axis: decision-horizon
+sign: positive # how well the capital that produces future returns is maintained as the horizon a decision is judged over lengthens
 updated: "2026-07-01"
 ---
 

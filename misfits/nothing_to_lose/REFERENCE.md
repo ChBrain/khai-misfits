@@ -2,6 +2,8 @@
 concept: "The Judgment-Proof Problem (limited liability; under-deterrence)"
 field: "Markets, money, and economic equilibria"
 source: 'Shavell, "The Judgment-Proof Problem" (Int. Rev. Law & Econ., 1986); Summers'
+axis: protective-cover
+sign: negative # how much a liability rule deters as the shield between the actor and the loss thickens
 updated: "2026-07-03"
 ---
 
@@ -38,6 +40,17 @@ deterrence still collapses, purely because the injurer's asset ceiling caps the 
 arithmetic ceiling on liability rather than a hidden-action or risk-shifting problem. The distinctness is the
 whole point of the boundary: nothing is concealed, no insurer buys down the care, and still the largest harms go
 under-deterred.
+
+It runs against the house's **The Bank Run**, on the same axis and with the opposite sign, and it sits
+beside **Moral Hazard**, **Someone Will Catch Me** and **The Spent Margin**, which run against that play
+already.
+
+**What sets the sign on this axis is whether the cover changes the behaviour it insures.** A guarantee
+against a self-fulfilling run underwrites no risk-taking: the depositor who stays put does nothing more
+dangerous for being covered, and the equilibrium the guarantee removes was never a choice anybody was
+rewarded for making. Where the covered party can influence the outcome, the cover is a price change and
+the behaviour moves to meet it. Same instrument, opposite sign, and the discriminator is whether there is
+a choice for it to reward.
 
 ## Origin
 

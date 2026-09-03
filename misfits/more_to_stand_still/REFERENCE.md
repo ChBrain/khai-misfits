@@ -2,6 +2,8 @@
 concept: "Opponent-Process Theory (hedonic adaptation; the hedonic treadmill; tolerance)"
 field: "Measurement, cognition, and inquiry"
 source: 'Solomon & Corbit, "An Opponent-Process Theory of Motivation" (Psych. Review, 1974); Brickman & Campbell (1971)'
+axis: repeated-exposure
+sign: negative # how much return a stimulus yields as exposure to it repeats
 updated: "2026-07-21"
 ---
 

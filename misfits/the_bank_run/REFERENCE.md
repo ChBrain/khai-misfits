@@ -31,8 +31,8 @@ self-fulfilling coordination failure that a credible guarantee can prevent. The 
 the house's own Moral Hazard: the backstop that ends the run also stands behind the risk the bank
 now knows it can take.
 
-It runs against three of the house's plays on this axis, **Moral Hazard**, **Someone Will Catch Me** and
-**The Spent Margin**, and the opposition is the one this warrant already states in prose: the guarantee
+It runs against four of the house's plays on this axis, **Moral Hazard**, **Someone Will Catch Me**,
+**The Spent Margin** and **Nothing to Lose**, and the opposition is the one this warrant already states in prose: the guarantee
 that ends the run is the backstop those plays are about.
 
 **What sets the sign on this axis is whether the cover changes the behaviour it insures.** A guarantee

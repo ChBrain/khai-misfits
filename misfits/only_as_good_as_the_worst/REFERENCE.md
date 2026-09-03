@@ -2,6 +2,8 @@
 concept: "The O-Ring Theory (complementary tasks; the weakest link in production)"
 field: "Markets, money, and economic equilibria"
 source: 'Kremer, "The O-Ring Theory of Economic Development" (QJE, 1993)'
+axis: task-complementarity
+sign: negative # how far the value of the whole survives one weak part as the tasks become more complementary
 updated: "2026-07-24"
 ---
 

@@ -2,6 +2,8 @@
 concept: "Model Collapse (the curse of recursion; model autophagy)"
 field: "Measurement, cognition, and inquiry"
 source: "Shumailov et al. (arXiv 2023; Nature 2024); Alemohammad et al."
+axis: synthetic-data-share
+sign: negative # how well a model represents the tails of its distribution as more of its training data is model output
 updated: "2026-07-03"
 ---
 
