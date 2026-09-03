@@ -8141,7 +8141,7 @@ reports mixed evidence for the disturbance-mediated form, so it is carried as an
 closing line. **A structure that runs where its conditions hold is the only kind this house stages**, and saying
 so inside the production is cheaper than defending a universal.
 
-- [ ] [P2] Apparent competition beyond this system, held rather than slated. The relation is general and the house
+- [x] [P2] Apparent competition beyond this system, held rather than slated. The relation is general and the house
       now stages one instance of it; a second would need a different carrier and a different bind, not another
       landscape. **Do not slate a second apparent-competition play on the strength of a new domain**, which is the
       table's third row in the contract and the error this pass would most easily make next.
@@ -8720,7 +8720,7 @@ all: its cell is named, so a declaration would cost one line and no content pass
 middle row that this file added after `Cohen` and that the slate line then failed to apply. **A rule written down
 is not a rule applied**, and the gap between them is one pass long.
 
-- [ ] [P2] Widen the axis coverage. 109 of 329 misfits declare an `axis`, so 220 are **invisible** to the
+- [x] [P2] Widen the axis coverage. 109 of 329 misfits declare an `axis`, so 220 are **invisible** to the
       opposition check rather than passing it. Take the families `--families` ranks, which is a complete map of
       the house's shared canon works and therefore of where two misfits are in one conversation, and declare axis
       and sign for the misfits in them. Misfit lane. Two rules govern it: a sign that is only true under an
@@ -9601,3 +9601,51 @@ declaration set is 217 forms and takes a few minutes to audit end to end, which 
 building a gate for it would cost more than running it whenever somebody wonders. The slate-line
 reconciliation from the seventy-ninth pass is the opposite case, since it must be checked on every pass
 and belongs in the kit; this one does not.
+
+**The eighty-seventh pass ran the one selector the contract recommends and this file had never used, and it
+returned a small number and a large finding.** `--families` ranks the canon works two or more misfits share
+and marks the members that have not declared an axis. The rationale in the contract is exact and sounds
+right: misfits citing one canon work are **in one conversation**, which is where two plays with a quantity
+in common would be, so it is where an opposed pair hides. The output is 32 families and **13 marks**, which
+is a precise and inviting target.
+
+**One of the thirteen declared honestly.** **The Winning Bid** joins `noise-share-of-the-measure` as a third
+member beside The Best on Paper and The Bounce, negative: as the share of estimation error in the bids
+rises, the winning price moves further from the value. Its own warrant already separates it from The Best on
+Paper on **who selects and who pays**, one chooser over its own estimates against a competitive process over
+many bidders', and that separation is about the harm rather than the quantity, which is exactly the shape
+this register decided a family should have.
+
+**Two of the thirteen were proposed by the selector and refused by their own warrants, in their own words.**
+That is the pass. **The Dollar Auction** sits in a family with Good Money After Bad and looks like
+`sunk-cost`, and its warrant says the opposite outright: each bid is forward-looking and correct, the
+smaller loss chosen not because of what was spent but because the all-pay rule makes the next bid worth its
+cost, so it is step-wise rational escalation and not irrational persistence. **The High Water Mark** looks
+like `baseline-recency` beside As Full as I Remember, and its warrant refuses that too: the floor is a real
+budgetary commitment that structurally holds, nothing misperceived and the money genuinely still spent, a
+level that stays because it is **defended** and not because it has come to look ordinary.
+
+**So the selector's rationale is right about the literature and wrong about the yield, and the reason is
+worth carrying.** A shared canon work means a shared **conversation**, and a conversation is exactly where
+an author staging a second play had to justify it. So the distinctness paragraphs **cluster inside
+families**: the plays most likely to share a quantity are the plays whose separation somebody has already
+argued in prose. **`--families` is a high-yield selector for finding an existing argument and a low-yield
+one for finding a new axis member**, and its marks should be read as _these are the plays whose separation
+is already written down, go and read it_ rather than as a list to declare.
+
+**Which retires the axis-coverage line as it was written**, since its instruction was to take what
+`--families` ranks and declare the misfits in them. The live count is **174 of 335**. The ratchet stays
+open, it never closes, and the selector that has actually produced oppositions is the one from the
+eighty-first pass: **join an existing family from the whole undeclared list**, judged on the dial and not on
+the bibliography.
+
+- [ ] [P2] Widen the axis coverage, 174 of 335 declared. Select by **the dial**: read the undeclared list
+      for plays that would sit on an axis the house already has, and expect roughly half of what a
+      description proposes to be refused by the warrant. Misfit lane.
+
+**And the apparent-competition line is struck because it was never an item.** It reads as a slate entry and
+says **do not slate a second apparent-competition play on the strength of a new domain**, which is an
+instruction rather than a piece of work: nothing discharges it, and it will be true for as long as the house
+stands. It belongs in the register as a rule and not on the slate as a box, and leaving it as a box meant
+every refill pass had to read it and decide again that there was nothing to do. **A prohibition is not a
+task**, and a slate line that cannot be completed should be written as prose.

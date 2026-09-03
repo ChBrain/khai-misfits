@@ -2,6 +2,8 @@
 concept: "The Winner's Curse (common-value auctions)"
 field: "Markets, money, and economic equilibria"
 source: "Capen, Clapp & Campbell (1971); Thaler"
+axis: noise-share-of-the-measure
+sign: negative # how close the winning price is to the value as the share of estimation error in the bids rises
 updated: "2026-07-06"
 ---
 
