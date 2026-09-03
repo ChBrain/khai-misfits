@@ -2,6 +2,8 @@
 concept: "Rent-Seeking (unproductive competition for transfers)"
 field: "Markets, money, and economic equilibria"
 source: "Tullock (1967); Krueger (1974)"
+axis: transfer-size
+sign: negative # how much real production is left as the transfer available to be captured grows
 updated: "2026-07-02"
 ---
 

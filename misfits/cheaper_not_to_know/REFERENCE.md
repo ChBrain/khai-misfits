@@ -2,6 +2,8 @@
 concept: "Rational Ignorance"
 field: "Measurement, cognition, and inquiry"
 source: "Downs, _An Economic Theory of Democracy_ (1957)"
+axis: buyer-informedness
+sign: positive # how well a choice fits what the chooser needs as their ability to judge it rises
 updated: "2026-07-24"
 ---
 

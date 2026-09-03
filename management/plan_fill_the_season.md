@@ -8996,3 +8996,28 @@ declare.
 grep for a concept matches every warrant that **mentions** it, and only a match on the `concept:` frontmatter line
 finds the misfit that **holds** it. Three of four neighbours came back wrong on the first method and right on the
 second. **A neighbour named from a mention is a neighbour named from somebody else's prose.**
+
+**The seventy-fourth pass declared nine more axes, 150 to 160 of 330, and used a selector that had been proposed
+two passes earlier and not yet tried: undeclared plays whose remedy is another play's harm.**
+
+**It found one, and the same discriminator answered it for the third time.** Nothing to Lose lands **negative**
+on `protective-cover` against The Bank Run, joining Moral Hazard, Someone Will Catch Me and The Spent Margin. The
+rule that axis carries needed no amendment: **whether the cover changes the behaviour it insures.** Limited
+liability is a shield the sheltered party can act behind, so it is a price change and the behaviour moves to meet
+it; a guarantee against a self-fulfilling run is not, because the depositor who stays put does nothing more
+dangerous for being covered. That axis now carries five plays, one rule and one exception, and the exception is
+the one where there is no choice for the cover to reward.
+
+**The selector itself is worth a verdict, and the verdict is mixed.** It was built by reading each undeclared
+play's no-hero section for a remedy naming a quantity some other play's harm scales with, and the grep that
+implements it is noisy: "paying" matches "paying the price", so most of what it returned had to be read and
+discarded. **It found the one real hit by putting the right eight files in front of a reader**, which is what a
+probe is for, and it is not a rule that can be run without one.
+
+**And the house's fields are now all read.** Every one of the eight concept lists has been read out in full
+across this run, so **gap-hunting by list is spent as an instrument** and the next scouting pass will need to
+select on something other than what has not been looked at. Two candidates worth trying, recorded here rather
+than attempted: the **domains** the plays are set in rather than the fields they are filed under, since a
+mechanism hides under a domain's vocabulary and the house's domain coverage has never been surveyed; and the
+**axes with only one play**, since a quantity nothing else measures against is either a genuinely lonely
+mechanism or a synonym nobody has noticed.
