@@ -1,0 +1,9 @@
+---
+"@chbrain/khai-misfits": minor
+---
+
+Add the misfit **The Precinct Is Not a Person**: a court must find whether a group of voters votes cohesively, the ballot is secret so no individual record exists or ever will, the finest evidence there can be is the precinct return, and a number that is exactly right about places is converted into a finding about people by a forum that has no option to wait. Grouping removes the variation inside each group, so the ecological quantity differs from the individual one in size and sometimes in direction and both are correct. Every estimator recovers the individual quantity under an assumption about how groups behave across places, and the aggregate cannot report on it, since the individual level being unobserved is the whole reason the estimate was attempted.
+
+Staged on the secret ballot rather than on published aggregates, which is what separates it from Wherever You Draw It: there the individual data are missing because a bureau published at its own units, here because a democracy guarantees they will be. Distinct from The Bigger Picture, since stipulating no confounder and no reversal leaves the ecological correlation still exceeding the individual one, and from The Abstraction Ladder, since nothing was shed and the finer record was never made.
+
+Joins `record-granularity` as a positive against Only One Person Fits's negative, and both warrants name each other. The discriminator is whether the row is being used or protected: detail supplies the variation an inference needs and the uniqueness that identifies a person, and it is the same detail. Names the bare `Goodman` and `Freedman` cells in Spoiled for Choice and The Streetlight Effect, since the new spine cites Leo Goodman and David A. Freedman and neither is the person already in the house.
