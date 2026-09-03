@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.333.0",
+  "version": "0.334.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -67979,6 +67979,228 @@
           "kind": "process",
           "title": "Narrowing",
           "taxonomy": "play_what_we_always_do.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "whatever_you_call_it",
+      "title": "Whatever You Call It",
+      "description": "A kinder word is chosen, works, and then means the thing, because the feeling was never in the word.",
+      "members": [
+        {
+          "file": "persona_the_advocate.md",
+          "kind": "persona",
+          "title": "The Advocate",
+          "type": "archetype",
+          "taxonomy": "position_naming.md"
+        },
+        {
+          "file": "persona_the_listener.md",
+          "kind": "persona",
+          "title": "The Listener",
+          "type": "archetype",
+          "taxonomy": "position_hearing.md"
+        },
+        {
+          "file": "persona_the_new_word.md",
+          "kind": "persona",
+          "title": "The New Word",
+          "type": "archetype",
+          "taxonomy": "position_use.md"
+        },
+        {
+          "file": "persona_the_next_word.md",
+          "kind": "persona",
+          "title": "The Next Word",
+          "type": "archetype",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "persona_the_referent.md",
+          "kind": "persona",
+          "title": "The Referent",
+          "type": "archetype",
+          "taxonomy": "position_reference.md"
+        },
+        {
+          "file": "piece_clear_adopted_meant.md",
+          "kind": "piece",
+          "title": "Clear, Adopted, Meant",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "piece_it_is_not_overuse.md",
+          "kind": "piece",
+          "title": "It Is Not Overuse",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "piece_nobody_misused_it.md",
+          "kind": "piece",
+          "title": "Nobody Misused It",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "piece_the_concept_is_in_charge.md",
+          "kind": "piece",
+          "title": "The Concept Is in Charge",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "piece_the_interval_is_the_only_variable.md",
+          "kind": "piece",
+          "title": "The Interval Is the Only Variable",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "pitch_the_feeling_was_never_in_the_word.md",
+          "kind": "pitch",
+          "title": "The Feeling Was Never in the Word",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "place_the_form.md",
+          "kind": "place",
+          "title": "The Form",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "place_the_playground.md",
+          "kind": "place",
+          "title": "The Playground",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "place_the_style_guide.md",
+          "kind": "place",
+          "title": "The Style Guide",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "plan_choose_a_word_without_a_history.md",
+          "kind": "plan",
+          "title": "Choose a Word Without a History",
+          "taxonomy": "position_naming.md"
+        },
+        {
+          "file": "plan_find_another_one.md",
+          "kind": "plan",
+          "title": "Find Another One",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "plan_learn_what_it_points_at.md",
+          "kind": "plan",
+          "title": "Learn What It Points At",
+          "taxonomy": "position_hearing.md"
+        },
+        {
+          "file": "plan_say_it_plainly_and_often.md",
+          "kind": "plan",
+          "title": "Say It Plainly and Often",
+          "taxonomy": "position_use.md"
+        },
+        {
+          "file": "plan_stay_what_it_is.md",
+          "kind": "plan",
+          "title": "Stay What It Is",
+          "taxonomy": "position_reference.md"
+        },
+        {
+          "file": "play_whatever_you_call_it.md",
+          "kind": "play",
+          "title": "Whatever You Call It"
+        },
+        {
+          "file": "plot_a_kinder_word_is_chosen.md",
+          "kind": "plot",
+          "title": "A Kinder Word Is Chosen",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "plot_and_somebody_proposes_a_new_one.md",
+          "kind": "plot",
+          "title": "And Somebody Proposes a New One",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "plot_and_then_it_is_the_insult.md",
+          "kind": "plot",
+          "title": "And Then It Is the Insult",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "plot_it_works_for_a_while.md",
+          "kind": "plot",
+          "title": "It Works, For a While",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "plot_the_word_learns_the_thing.md",
+          "kind": "plot",
+          "title": "The Word Learns the Thing",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "position_hearing.md",
+          "kind": "position",
+          "title": "Hearing",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "position_naming.md",
+          "kind": "position",
+          "title": "Naming",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "position_recourse.md",
+          "kind": "position",
+          "title": "Recourse",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "position_reference.md",
+          "kind": "position",
+          "title": "Reference",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "position_use.md",
+          "kind": "position",
+          "title": "Use",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "process_adopting.md",
+          "kind": "process",
+          "title": "Adopting",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "process_associating.md",
+          "kind": "process",
+          "title": "Associating",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "process_choosing.md",
+          "kind": "process",
+          "title": "Choosing",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "process_replacing.md",
+          "kind": "process",
+          "title": "Replacing",
+          "taxonomy": "play_whatever_you_call_it.md"
+        },
+        {
+          "file": "process_souring.md",
+          "kind": "process",
+          "title": "Souring",
+          "taxonomy": "play_whatever_you_call_it.md"
         }
       ]
     },
