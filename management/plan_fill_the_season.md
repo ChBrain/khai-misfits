@@ -8727,7 +8727,7 @@ is not a rule applied**, and the gap between them is one pass long.
       unstated condition is a malformed declaration that parses, and a one-dial-two-bad-ends structure has no sign
       and should be left undeclared rather than given an invented one.
 
-- [ ] [P3] Refill the slate once the three P2 lines are struck, scouting by **reading the concept list** rather
+- [x] [P3] Refill the slate once the three P2 lines are struck, scouting by **reading the concept list** rather
       than by probing the house with a candidate's vocabulary, running `--check` against the concept before
       believing an absence, and distrusting a probe that returns mostly zeros.
 
@@ -9649,3 +9649,53 @@ instruction rather than a piece of work: nothing discharges it, and it will be t
 stands. It belongs in the register as a rule and not on the slate as a box, and leaving it as a box meant
 every refill pass had to read it and decide again that there was nothing to do. **A prohibition is not a
 task**, and a slate line that cannot be completed should be written as prose.
+
+**The eighty-eighth pass refilled the slate with a selector nobody had proposed, and the selector's main
+result is a correction to what the ratchet's shape means.** The three earlier scouting methods search
+outward, through fields, through domains and through a list of named effects. This one searches **inward**:
+the house has 174 declared axes, 113 of them carrying a single play, and every singleton is a question.
+The dial has a direction and a sign; **what happens at the other end of it, and is that a play?**
+
+**Two recent finds were exactly this and neither was recognised as a method at the time.** The Precinct Is
+Not a Person is the empty end of `record-granularity`, and its own opposite number had already written the
+sentence in prose. Safe Enough to Fight and Dry Enough to Build On are both the empty end of the cover that
+The Bank Run occupies positively. So the method has a record before it has a name, which is the ordinary
+way this file discovers one.
+
+**The main result is that most singletons are singletons for a reason, and the reason is not neglect.**
+Reading all 113, the great majority have **one bad end only**. Nothing goes wrong when there is no transfer
+to capture, when no simultaneity is required, when the vaccine blocks transmission, when the primary is
+unreliable and the spare stays fit. **A dial with one harmful direction can never have an opposed pair**,
+so those axes will stay singletons however long the ratchet runs, and counting them as uncovered
+misreads the mechanism. The coverage number is a count of plays that have declared, not a count of
+oppositions waiting to be found.
+
+**And the method has a second failure mode the house cannot express, which is worth naming before somebody
+walks into it.** Several dials are harmful at **both** ends: low processing effort is read as truth and
+high processing effort is read as poor quality; too many veto points paralyse and too few let anything
+through. The contract already records that a **one-dial-two-bad-ends structure has no sign** and should be
+left undeclared, so the empty end of such a dial is not an opposition and staging it produces a second play
+that cannot declare against the first. **An empty end is a candidate only where the two ends have different
+engines, not merely different signs.**
+
+- [ ] [P2] **The silent patch**, slated with the two-bad-ends caution attached. A vendor ships a fix with
+      no advisory, to avoid telling attackers where the flaw is. The attacker diffs the binary and has it
+      in a day or two. The administrator has no severity, no applicability and no blast radius, so the
+      patch waits for the next maintenance window, and the estate is exposed for weeks by the decision
+      that was taken to protect it.
+
+**The caution is that this is the empty end of `disclosure-detail`, which The Fix Tells Them Where already
+holds negatively, so the first question is whether it is a second play or the second horn of one dilemma.**
+The argument that it is a play is an **asymmetry** rather than a symmetry: recovering the flaw from a patch
+costs an attacker a diff, and recovering the urgency from a patch costs an administrator an applicability
+and severity judgement across an estate, which almost nobody performs by reverse-engineering a binary. So
+withholding the detail disarms the defender far more than it disarms the attacker, and that is an engine
+the sibling play does not contain. **Run that switch-off properly before authoring.**
+
+**And the shared-work wall arrives here as a constraint on the candidate rather than as a gate on a
+draft**, which is new. The Fix Tells Them Where already holds the patch-diffing canon, Brumley and
+colleagues on automatic patch-based exploit generation, Bilge and Dumitras on the exploitation window,
+Arbaugh and colleagues, Arora and colleagues, and Rescorla. **A second play in this literature cannot reach
+for any of them**, so it must be built on the disclosure-practice side instead, where the material is
+industry writing rather than peer-reviewed work and the bound has to be stated in Restrictions. That is a
+real cost, it is knowable now, and it is better decided before the authoring pass than at the wall.
