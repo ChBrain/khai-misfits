@@ -2,6 +2,8 @@
 concept: "Braess's Paradox (added capacity, less flow)"
 field: "Collective action, commons, and coordination"
 source: "Braess (1968)"
+axis: added-capacity
+sign: negative # how low the equilibrium travel cost stays as another link is added to the network
 updated: "2026-07-01"
 ---
 

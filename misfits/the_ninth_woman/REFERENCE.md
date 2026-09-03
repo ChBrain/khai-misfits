@@ -2,7 +2,7 @@
 concept: "Brooks's Law (the mythical man-month)"
 field: "Organisations, hierarchy, and management"
 source: "Brooks, _The Mythical Man-Month_ (1975)"
-axis: added-headcount
+axis: added-capacity
 sign: negative # how delivery time moves as people are added to a late project
 updated: "2026-07-01"
 ---
