@@ -9301,7 +9301,7 @@ to the probe anyway, since the probe needs two named cells and this one was bare
 are now named, and the bare `Downs` cell in Pournelle's Iron Law was named while the scan was open, since
 Anthony Downs is one person across three cells and the play adds a fourth.
 
-- [ ] [P2] Declare `Turner` in `scholarPolicy.homonyms`, now that all three cells are named. Governance
+- [x] [P2] Declare `Turner` in `scholarPolicy.homonyms`, now that all three cells are named. Governance
       lane, because the config is not the misfit lane, which is the whole reason this is a second pass.
 
 **The lane split is the finding here and it is a small one worth writing down.** A namesake obligation has
@@ -9310,3 +9310,56 @@ two halves that live in **different lanes**: naming the cells is `misfits/**` an
 ordering table already says which half comes first for each case, and it turns out the ordering is not
 only about correctness: for a bare incumbent, cells-first is also the only order that fits the lanes,
 because the declaration would have nothing to resolve against.
+
+**The eighty-first pass discharged the slated declaration in four lines and then spent the rest of itself
+correcting the pass that slated it.** `Turner` is declared, `["Matthew", "John C", "Barry A"]`, and the
+walls read 83 declared surnames with 0 shadowed forms and 0 unresolved occurrences. That was the unit. What
+follows is the part worth keeping.
+
+**Two statements in the seventy-ninth pass were wrong, and they were wrong in the same way.** That entry
+said `Snyder` and `Robinson` were **undeclared with named incumbent cells**, and put both in the
+declaration-first arm of the ordering table. Both are **declared**. `Snyder` carries Glenn and Jack, and
+Glenn Snyder is **already in the house**, cited in Exactly How Far for the security dilemma in alliance
+politics, so the stability-instability candidate is that same scholar returning on another work rather
+than a namesake at all. `Robinson` carries Sandra and Robert, so W S Robinson of the ecological fallacy
+would be a **third** person under a declaration that already exists, which means the declaration must be
+**widened** before the citation lands or the namesake wall fires on the spot. Neither correction changes
+whether the candidate is worth authoring; both change what the authoring pass has to do first, which is
+the only thing the note was for.
+
+**The cause is a habit, and it is worth stating as a rule because it will recur.** The scan was run as a
+loop over surnames ending in `| tail -1`, which is exactly right for a **clear** surname, because that
+output is one line, and silently wrong for a **taken** one, because that output opens with the count and
+the declaration state and then lists the cells. Taking the last line of it returns a cell and hides
+everything that decides the answer, and the surviving line looks like a complete result. **A truncation
+that is safe on the empty case is not safe on the full one**, and the tool's output was designed to be
+read whole precisely because a hit is a cell to read rather than a verdict.
+
+**And the second failure compounded the first, which is the one that should sting.** The seventy-first
+pass had already scouted the ecological fallacy and had already published the correct row in a table in
+this very file: `Robinson`, the house's Sandra and Robert, **declared**, the candidate's W S, owing a
+declaration first. So the answer was written down, by an earlier pass, for the same candidate, and a later
+pass re-derived it from a truncated command and contradicted it. **The register is a source and not only a
+record**, and a candidate that feels new is often one this file has already considered, so the scouting
+step before the tools is `grep` over this file for the candidate's name.
+
+- [ ] [P2] Extend `Robinson` to a third form before the ecological fallacy is authored, if it is authored.
+      The declaration exists and the wall fires on the citation, so this one cannot be left to the
+      authoring pass the way an undeclared surname can. Governance lane.
+
+**A note on where the corrections go.** They go here, appended, and the wrong lines above are left
+standing. This file is a log: a pass that quietly edited an earlier entry into correctness would destroy
+the only evidence that the error was possible, and the error is the finding. The status boxes are the
+exception, because a tick is a state and not a claim.
+
+**And the declaration failed the gates before it passed them, which is the practical note this pass owes
+its successor.** A homonym declaration edits one config file and nothing else, so it reads like a change
+with no artefact behind it, and the suite refused the push: `docs/SCIENCE.md` had drifted. It had to,
+because the declaration is exactly what turns one collated index entry into three. Before, the index
+carried a single **Turner** with three works hanging beneath it, which is what an undeclared surname looks
+like and is precisely the collation the wall exists to prevent. After, it carries **Turner (Barry A)**,
+**Turner (John C)** and **Turner (Matthew)**, and the house's scholar count rises from 1631 to 1633,
+because two people who were not being counted now are. **A declaration is a content change wearing a
+config file's clothes**, so a governance pass that declares a surname rebuilds the science index and the
+references in the same breath, and the built artefacts travel on the governance lane because they are
+declared shared.

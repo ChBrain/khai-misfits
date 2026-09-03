@@ -1,0 +1,4 @@
+---
+---
+
+Declare `Turner` as a homonym, `["Matthew", "John C", "Barry A"]`, which was the slated half of the namesake obligation the last misfit pass could not discharge in its own lane. Then corrects that pass: it recorded `Snyder` and `Robinson` as undeclared when both are declared, and Glenn Snyder is already in the house on another work. The cause was reading `science surname` through `tail -1`, which is right for a clear surname and hides the count and the declaration state for a taken one, so a truncation safe on the empty case was unsafe on the full one. The compounding failure was that this register already held the correct `Robinson` row, published by the pass that first scouted the ecological fallacy, so the register is a source and not only a record. Slates the widening of `Robinson` to a third form, which cannot be left to an authoring pass because the declaration exists and the wall fires on the citation. Ships nothing.
