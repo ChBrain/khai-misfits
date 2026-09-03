@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.335.0",
+  "version": "0.336.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -14447,6 +14447,228 @@
           "kind": "process",
           "title": "Triggering",
           "taxonomy": "play_held_under.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "how_many_they_have_done",
+      "title": "How Many They Have Done",
+      "description": "The surgeon is good and the team is careful, and the missing thing is the operations they did not do.",
+      "members": [
+        {
+          "file": "persona_the_journey.md",
+          "kind": "persona",
+          "title": "The Journey",
+          "type": "archetype",
+          "taxonomy": "position_distance.md"
+        },
+        {
+          "file": "persona_the_local_service.md",
+          "kind": "persona",
+          "title": "The Local Service",
+          "type": "archetype",
+          "taxonomy": "position_provision.md"
+        },
+        {
+          "file": "persona_the_network.md",
+          "kind": "persona",
+          "title": "The Network",
+          "type": "archetype",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "persona_the_referral.md",
+          "kind": "persona",
+          "title": "The Referral",
+          "type": "archetype",
+          "taxonomy": "position_referral.md"
+        },
+        {
+          "file": "persona_the_surgeon.md",
+          "kind": "persona",
+          "title": "The Surgeon",
+          "type": "archetype",
+          "taxonomy": "position_practice.md"
+        },
+        {
+          "file": "piece_it_decays_between_cases.md",
+          "kind": "piece",
+          "title": "It Decays Between Cases",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "piece_it_is_not_headcount.md",
+          "kind": "piece",
+          "title": "It Is Not Headcount",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "piece_nobody_is_bad_at_their_job.md",
+          "kind": "piece",
+          "title": "Nobody Is Bad at Their Job",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "piece_the_work_is_the_training.md",
+          "kind": "piece",
+          "title": "The Work Is the Training",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "piece_which_way_the_arrow_runs.md",
+          "kind": "piece",
+          "title": "Which Way the Arrow Runs",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "pitch_the_ones_they_did_not_do.md",
+          "kind": "pitch",
+          "title": "The Ones They Did Not Do",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "place_the_catchment.md",
+          "kind": "place",
+          "title": "The Catchment",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "place_the_list.md",
+          "kind": "place",
+          "title": "The List",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "place_the_theatre.md",
+          "kind": "place",
+          "title": "The Theatre",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "plan_do_it_properly_every_time.md",
+          "kind": "plan",
+          "title": "Do It Properly Every Time",
+          "taxonomy": "position_practice.md"
+        },
+        {
+          "file": "plan_get_there_somehow.md",
+          "kind": "plan",
+          "title": "Get There Somehow",
+          "taxonomy": "position_distance.md"
+        },
+        {
+          "file": "plan_keep_the_service_here.md",
+          "kind": "plan",
+          "title": "Keep the Service Here",
+          "taxonomy": "position_provision.md"
+        },
+        {
+          "file": "plan_send_them_locally.md",
+          "kind": "plan",
+          "title": "Send Them Locally",
+          "taxonomy": "position_referral.md"
+        },
+        {
+          "file": "plan_set_a_minimum_number.md",
+          "kind": "plan",
+          "title": "Set a Minimum Number",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "play_how_many_they_have_done.md",
+          "kind": "play",
+          "title": "How Many They Have Done"
+        },
+        {
+          "file": "plot_and_somebody_has_to_drive_there.md",
+          "kind": "plot",
+          "title": "And Somebody Has to Drive There",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "plot_and_the_other_way_round.md",
+          "kind": "plot",
+          "title": "And the Other Way Round",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "plot_four_a_year.md",
+          "kind": "plot",
+          "title": "Four a Year",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "plot_the_number_that_should_not_matter.md",
+          "kind": "plot",
+          "title": "The Number That Should Not Matter",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "plot_there_is_no_course_for_it.md",
+          "kind": "plot",
+          "title": "There Is No Course for It",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "position_distance.md",
+          "kind": "position",
+          "title": "Distance",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "position_practice.md",
+          "kind": "position",
+          "title": "Practice",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "position_provision.md",
+          "kind": "position",
+          "title": "Provision",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "position_recourse.md",
+          "kind": "position",
+          "title": "Recourse",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "position_referral.md",
+          "kind": "position",
+          "title": "Referral",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "process_accumulating.md",
+          "kind": "process",
+          "title": "Accumulating",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "process_concentrating.md",
+          "kind": "process",
+          "title": "Concentrating",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "process_decaying.md",
+          "kind": "process",
+          "title": "Decaying",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "process_operating.md",
+          "kind": "process",
+          "title": "Operating",
+          "taxonomy": "play_how_many_they_have_done.md"
+        },
+        {
+          "file": "process_referring.md",
+          "kind": "process",
+          "title": "Referring",
+          "taxonomy": "play_how_many_they_have_done.md"
         }
       ]
     },

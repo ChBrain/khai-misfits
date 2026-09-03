@@ -9727,7 +9727,7 @@ Factor**, negative: a group's resilience to losing one member falls as knowledge
 holds it. Its No Hero paragraph is about the departure and the successor excavating an undocumented system,
 and carries nothing at all about the other end.
 
-- [ ] [P1] **The volume-outcome relationship.** A hospital does four of a complex operation a year, by a
+- [x] [P1] **The volume-outcome relationship.** A hospital does four of a complex operation a year, by a
       surgeon who is careful, trained and conscientious, and its results are worse than a centre that does
       two hundred. Concentrating the work is what makes it good, and every party resisting concentration is
       right: patients want the service locally, the hospital wants to offer it, and travelling is a real
@@ -9756,5 +9756,38 @@ today because the surname is undeclared and would become a shadowed form the day
 That is the `E J` against `EJ` defect this file recorded once before, and it is cell hygiene rather than a
 namesake.
 
-- [ ] [P3] Regularise `Gary Becker` and `Gary S. Becker` to one spelling across the four cells, before
+- [x] [P3] Regularise `Gary Becker` and `Gary S. Becker` to one spelling across the four cells, before
       anything forces a `Becker` declaration. Misfit lane, cheap, and much cheaper now than at a wall.
+
+**The ninetieth pass staged the candidate the refined empty-end selector produced, and it is the tightest
+opposition this house holds.**
+[How Many They Have Done](../misfits/how_many_they_have_done/play_how_many_they_have_done.md) is misfit
+336: a hospital performs a complex operation four times a year, by a surgeon who trained properly, keeps
+up and does each one carefully, and its results are worse than a centre doing two hundred. Nothing about
+anybody is deficient. **The thing that is missing is the operations they did not do.**
+
+**The pair with The Bus Factor is the shape the axis mechanism was built to produce and had not yet
+produced this cleanly.** Not merely one dial with two signs, but **each play's remedy being the other
+play's harm**: spread the work so nobody is indispensable and nobody accumulates enough of it to be good
+at it; concentrate it so whoever does it is excellent and the institution cannot survive their leaving.
+The discriminator is what the concentration is asked to produce, **capability or continuity**, which is
+the same routing decision judged against two obligations every organisation holds at once. Both warrants
+name each other and both carry the discriminator.
+
+**The selector's new test earned itself immediately.** The Bus Factor's No Hero paragraph is about the
+departure and the successor excavating an undocumented system and carries nothing about the other end, so
+the empty end was genuinely empty. That is the whole check, it took one paragraph to read, and it is what
+separates this candidate from the silent patch the last pass refused.
+
+**And the pass tripped a house rule by writing rather than by tooling, which has not happened before.**
+The canon refuses a **display-title collision**: a title names one element, so two kinds may not carry it.
+The piece that holds the mechanism was called The Work Is the Training and the plot that stages it was
+called the same thing, which is the most natural authoring move there is, since a plot is cued by its
+piece and naming them alike reads as coherence. The plot is now **There Is No Course for It**. The rule to
+carry: **name a plot for what happens in it and never for the piece that cues it**, because the cue is
+already a link on the line above and the two elements are different objects.
+
+**The hygiene item from the last pass is discharged in the same lane it belongs to.** `Gary S. Becker`
+became `Gary Becker`, so the five cells that carry him across the house now agree, and the day somebody
+declares `Becker` there is no shadowed form waiting. That took one substitution and would have taken a
+governance pass and an argument if it had been found at a wall.
