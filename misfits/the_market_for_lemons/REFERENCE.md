@@ -2,6 +2,8 @@
 concept: "The Market for Lemons (adverse selection)"
 field: "Markets, money, and economic equilibria"
 source: 'Akerlof, "The Market for ''Lemons''" (QJE, 1970)'
+axis: buyer-informedness
+sign: positive # how well the quality of what a market delivers holds up as the buyer's ability to judge a unit rises
 updated: "2026-08-28"
 ---
 

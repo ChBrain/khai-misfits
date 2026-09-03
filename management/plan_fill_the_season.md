@@ -9129,3 +9129,44 @@ and it is not a claim that they are variations: it is a claim that they all move
 axis is the quantity, the harm is the play, and the mechanism only demands that two misfits naming one
 axis with **opposite** signs explain themselves to each other. Agreement on an axis is not a duplication
 finding and should not be read as one.
+
+**The seventy-eighth pass ran the ratchet with a selector, and the selector is the finding.** The axis
+mechanism has 331 plays and had 161 declarations, so the open question was never whether to declare more
+but which ones are worth declaring first. The last pass answered it by accident: The Market for Lemons
+shares an engine with a play the house had just staged, and the check that exists to find exactly that
+could not see it, because lemons was undeclared. **An undeclared play is not merely uncovered, it is a
+hole in the detector for every play near it**, so the highest-value declaration is not a play with an
+interesting quantity, it is a play that **joins a family the house already has**.
+
+**Seven joined, across five families, and the batch is smaller than the candidate list because reading
+the warrants refused two of them.** Group size gained the bystander effect and social loafing, which is
+the best case for the selector: they are twins, one warrant says so in prose, and neither was declared,
+so the mechanism held two plays on one dial and knew about neither. Buyer-informedness gained The Market
+for Lemons. Incentive-intensity gained The Firefighter's Medal. Protective-cover gained Dry Enough to
+Build On. And credibility-deference was **renamed** to `deference-to-judgement`, because the incumbent's
+name described its own play and not the quantity, which let Good Enough to Hold and On Good Authority
+join a dial they had always been on.
+
+**The refusals are worth more than the declarations.** Two candidates were proposed from the play's
+one-line description and rejected on reading the warrant. **Bad Coin** looked like buyer-informedness
+and is its opposite in the relevant respect: its own warrant says the difference is not hidden at all,
+and what drives the good out is a rule that fixes one value on two unlike things, so the dial is whether
+price may track a quality everybody can see. **Sandbag** looked like incentive-intensity and turns on the
+link from this period's result to next period's target, which is why its own warrant already separates it
+from Metric Fixation. The rule: **a description proposes a family and only the warrant can confirm one**,
+and roughly half of what the description proposes does not survive.
+
+**And declaring a joiner is how an opposition is found, which is the second half of the argument for the
+selector.** Dry Enough to Build On landed on protective-cover as a fifth negative against The Bank Run's
+positive, and the check fired at once, because **an opposition can only exist inside a family** and a
+singleton axis can never produce one. The discriminator was already written down, that the sign turns on
+whether the cover changes the behaviour it insures, and the levee is the cleanest reading of it yet: the
+guaranteed depositor does nothing more dangerous for being covered, and the town behind the wall **is**
+the behaviour.
+
+**A note on the rename, since it is the second one and there will be more.** The house's axis names are
+written by whoever declares first, and a first declarer names the quantity as their own play sees it, so
+`credibility-deference` meant deference on the ground of demeanour and could not be read as anything
+wider. That is not a fault in the author, it is a property of naming from one instance. **Expect to
+rename an axis whenever its second member arrives**, and treat a singleton's name as provisional until
+somebody joins it.

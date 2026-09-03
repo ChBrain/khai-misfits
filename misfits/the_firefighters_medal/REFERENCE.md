@@ -2,6 +2,8 @@
 concept: "The Firefighting Trap (nobody gets credit for problems that never happened)"
 field: "Organisations, hierarchy, and management"
 source: "Repenning & Sterman (CMR, 2001); Bohn (HBR, 2000)"
+axis: incentive-intensity
+sign: negative # how much preventive capability an organisation keeps as the reward attached to the visible save rises
 updated: "2026-07-03"
 ---
 

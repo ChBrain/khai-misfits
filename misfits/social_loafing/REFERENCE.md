@@ -2,6 +2,8 @@
 concept: "Social Loafing (the Ringelmann effect)"
 field: "Collective action, commons, and coordination"
 source: "Ringelmann (1913); Latané"
+axis: group-size
+sign: negative # how much effort each member puts in as the number pooling their output rises
 updated: "2026-08-28"
 ---
 

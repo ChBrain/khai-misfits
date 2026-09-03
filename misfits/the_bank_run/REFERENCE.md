@@ -31,9 +31,11 @@ self-fulfilling coordination failure that a credible guarantee can prevent. The 
 the house's own Moral Hazard: the backstop that ends the run also stands behind the risk the bank
 now knows it can take.
 
-It runs against four of the house's plays on this axis, **Moral Hazard**, **Someone Will Catch Me**,
-**The Spent Margin** and **Nothing to Lose**, and the opposition is the one this warrant already states in prose: the guarantee
-that ends the run is the backstop those plays are about.
+It runs against five of the house's plays on this axis, **Moral Hazard**, **Someone Will Catch Me**,
+**The Spent Margin**, **Nothing to Lose** and **Dry Enough to Build On**, and the opposition is the one this
+warrant already states in prose: the guarantee that ends the run is the backstop those plays are about. The
+levee play is the newest of them and the clearest reading of the discriminator below, since there the cover
+does not merely permit the behaviour it insures, it recruits it.
 
 **What sets the sign on this axis is whether the cover changes the behaviour it insures.** A guarantee
 against a self-fulfilling run underwrites no risk-taking: the depositor who stays put does nothing more

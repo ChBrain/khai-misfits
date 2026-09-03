@@ -1,0 +1,5 @@
+---
+"@chbrain/khai-misfits": patch
+---
+
+Declare seven axes under one selector: **join an existing family**. The last pass proved why that is where the yield is, since The Market for Lemons shares an engine with a declared play and was invisible to the check that finds exactly that. Group size gains The Bystander Effect and Social Loafing, which were twins in prose and strangers to every gate. Buyer-informedness gains The Market for Lemons. Incentive-intensity gains The Firefighter's Medal. Protective-cover gains Dry Enough to Build On, and that declaration immediately produced an opposition with The Bank Run, since a family is the only place an opposition can live. Renames credibility-deference to deference-to-judgement, because the incumbent's name described its own play rather than the quantity, and two more plays sit on the quantity: Good Enough to Hold and On Good Authority. Two candidates the descriptions proposed were refused by their warrants and are recorded as such rather than declared.
