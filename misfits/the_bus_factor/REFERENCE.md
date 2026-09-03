@@ -33,6 +33,18 @@ redundancy is seen, costed and deliberately removed, whereas here it was never t
 concentration built itself out of the ordinary speed of one person who knew everything, and nobody
 decided anything at any point.
 
+It runs against the house's **How Many They Have Done**, on the same axis and with the opposite sign, and
+the pair is as tight as this mechanism produces: **each play's remedy is the other play's harm.** There a
+service performs a complex operation four times a year, by a surgeon with nothing to answer for, and the
+capability is missing because it is made of repetitions the small catchment never supplies. Spreading the
+work so nobody is indispensable is exactly what stops anybody accumulating enough of it to be good at it.
+
+**What sets the sign on this axis is what the concentration is asked to produce.** Where the obligation is
+**continuity**, surviving the loss of a person or a site, routing the work to whoever already holds it is
+the harm and spreading it is the answer. Where the obligation is **capability**, doing the difficult thing
+well on the day, the same routing is what produces it and spreading it is the harm. Same routing decision,
+two obligations, and every organisation holds both.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.
