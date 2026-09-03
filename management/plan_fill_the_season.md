@@ -9054,3 +9054,47 @@ axes and asking of each whether some other play measures the same thing backward
 
 **Yield: one in 117**, which is worth stating plainly. The audit is expensive, it is not repeatable often, and it
 found one real thing. It should be run again when the single-play count has roughly doubled, and not before.
+
+**The seventy-sixth pass ran the other selector the audit recorded, surveying the domains the plays are actually
+set in rather than the fields they are filed under, and it works, with one correction to how it must be read.**
+
+**The instrument is the place titles, not the voice line.** The `voice:` frontmatter was tried first and is
+useless for this: it describes tone, so it sorts into `warm and`, `prudent and`, `plain and`, and tells you
+nothing about where anybody is standing. The **places** are where the plays stand, and there are **700 distinct
+ones across 330 misfits**. Their frequent heads are institutional and generic, the floor, the ledger, the table,
+the field, the review, the market, which is itself a portrait: this house is set overwhelmingly in professional
+and administrative rooms.
+
+**Forty domains returned nothing.** Prison, mine, quarry, cockpit, orchestra, gym, stadium, temple, data centre,
+call centre, border, customs, dairy, foundry, kiln, landfill, pharmacy, veterinary, dental, funeral, morgue,
+pension, library, newsroom, bakery, abattoir, greenhouse, orchard, vineyard, apiary, kennel, stable, paddock and
+others. **An absent domain is not an absent mechanism**, which is the whole discipline for reading this list, and
+most of those forty were discarded on exactly that ground: the parole board's risk instrument is Metric Fixation
+and The Proxy, the abandoned mine's perpetual liability is Nothing to Lose, orchestral pitch drift is The Arms
+Race, and the border's targeting system is the proxy plays again.
+
+- [ ] [P1] **The generic sterile injectable shortage.** A drug comes off patent, competition drives the price to
+      the floor, and the cheapest and most essential medicines are the ones that stop being made. Dedup below.
+
+**The finding is sharper than the price story, and it decides the axis.** The FDA analysis puts the cause at
+**the market's inability to observe and reward quality**, meaning reliability of production: competition runs on
+the one dimension buyers can see and manufacturers economise on the one they cannot, until a single plant's
+problem is a national shortage. **Success at making a drug affordable is what makes it disappear.** So the
+quantity is `buyer-informedness`, the same dial as Shrouded Attributes, Nobody Reads It and Cheaper Not to Know,
+sign **positive**, and this **agrees rather than opposes**. What is new is the harm: not a bad purchase, but the
+disappearance of supply.
+
+**Against the nearest incumbent the switch-off is clean.** Stipulate that **Kept for the Worst**'s engine is off,
+no conservation requirement at all and reward tied freely to volume, and this harm survives entirely, because the
+exit is driven by unobservable quality and not by restricted use. And **the spine is free**: Woodcock, Wosinska,
+Yurukoglu, Liebman, Ridley, Conti, Berndt and Schondelmeyer are all clear, and the work is cited nowhere here.
+
+**The instruction the survey earns is about how to read it.** A domain with no place in this house is a prompt to
+ask what structural trap lives there, and the answer is usually a mechanism the house already stages under
+another domain's furniture. **The list is a reading list and not a backlog**, in the same way `--mixed-cells` is,
+and it is recorded as one so that nobody later treats forty absent domains as forty available misfits.
+
+**And a formatting note, because it cost this pass twenty minutes.** Prettier does not converge on a
+multi-paragraph list item at this indent depth: it adds four spaces to every continuation paragraph on each run,
+so `--write` followed by `--check` still fails, for ever. **A slate line must be one paragraph**, with anything
+longer written as ordinary prose beneath the list.
