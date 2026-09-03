@@ -9563,7 +9563,7 @@ properties in tension, it is one property serving two purposes**, so the trade-o
 away by a better release format. And the plays differ again in how the dial got where it is: there a body
 chooses and can trade the harms off, here the setting was fixed once and cannot be revisited.
 
-- [ ] [P2] Declare `Goodman` and `Freedman` in `scholarPolicy.homonyms`, now that all four cells are
+- [x] [P2] Declare `Goodman` and `Freedman` in `scholarPolicy.homonyms`, now that all four cells are
       named. Governance lane. `Goodman` is Joseph K against Leo A; `Freedman` is David H against David A,
       so that pair must be declared on middle initials.
 
@@ -9573,3 +9573,31 @@ invisible to every wall. It resolved cleanly the moment the cell arrived, so the
 worked **only because the next pass happened**, and nothing in the house would have complained if it had
 not, which is the gap already recorded and is worth restating with the evidence in hand: a declaration
 made in advance is a promise the walls do not hold anybody to.
+
+**The eighty-sixth pass closes the three-pass sequence and then audits the instrument the sequence relied
+on.** `Goodman` is declared as `["Joseph K", "Leo A"]` and `Freedman` as `["David H", "David A"]`, the
+science index splits four cells into four keys, and the house's scholar count rises from 1641 to 1643,
+because two people who were being counted as one now are not. The walls read 85 declared surnames, 0
+shadowed forms, 0 unresolved occurrences.
+
+**The `Freedman` pair is the tightest declaration the house holds and it is worth knowing why it is
+safe.** Both scholars are David, so the forms differ only at the second token, and the build's rule that
+two given forms are one person when one is a **token prefix** of the other is what keeps them apart:
+`David H` is not a prefix of `David A`. **The rule that usually merges is here the rule that separates**,
+and it works only because both cells were written with the middle initial. A cell reading plainly `David
+Freedman` would be a prefix of both and would belong to neither, which is the failure mode to watch for
+the next time a pair like this arrives.
+
+**And a gap this register recorded twice was finally measured rather than asserted.** The finding was that
+a declared form matching no cell is invisible to every wall, so a speculative declaration leaves no trace.
+That is true of the instrument and says nothing about the house, so the whole declaration set was audited
+against the index, surname by surname: **217 declared forms across 85 surnames, and every one of them
+reaches a cell.** The gap is real and has so far cost nothing.
+
+**The general shape is worth carrying, because this register has now produced it twice in a fortnight.**
+A missing wall is a statement about what could go wrong, and the answer to it is not always a wall.
+Sometimes it is **a measurement**, run once, reported, and repeated when the population changes. The
+declaration set is 217 forms and takes a few minutes to audit end to end, which is cheap enough that
+building a gate for it would cost more than running it whenever somebody wonders. The slate-line
+reconciliation from the seventy-ninth pass is the opposite case, since it must be checked on every pass
+and belongs in the kit; this one does not.

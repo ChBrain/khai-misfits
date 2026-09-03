@@ -1,0 +1,4 @@
+---
+---
+
+Declare `Goodman` as `["Joseph K", "Leo A"]` and `Freedman` as `["David H", "David A"]`, closing the three-pass sequence the lane split forced: the obligation was discovered in a governance pass, the cells were named in a misfit pass, and the declaration lands here. Rebuilds the science index, which splits four cells into four keys and raises the scholar count from 1641 to 1643. The `Freedman` pair is the tightest the house holds, since both scholars are David and the build's token-prefix rule is what keeps them apart, which works only because both cells carry the middle initial. Then audits the instrument: a declared form matching no cell is invisible to every wall, so the whole set was measured rather than assumed, and all 217 declared forms across 85 surnames reach a cell. Ships nothing.
