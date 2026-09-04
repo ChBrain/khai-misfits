@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.337.0",
+  "version": "0.338.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -24721,6 +24721,228 @@
           "kind": "process",
           "title": "Teaching It Back",
           "taxonomy": "play_nobody_stopped_speaking_it.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "nobody_sues_for_taking_it_down",
+      "title": "Nobody Sues for Taking It Down",
+      "description": "One error costs the host its safe harbour and the other costs it nothing, and the speaker was never a party.",
+      "members": [
+        {
+          "file": "persona_the_form_that_costs_a_courtroom.md",
+          "kind": "persona",
+          "title": "The Form That Costs a Courtroom",
+          "type": "archetype",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "persona_the_one_at_the_queue.md",
+          "kind": "persona",
+          "title": "The One at the Queue",
+          "type": "archetype",
+          "taxonomy": "position_custody.md"
+        },
+        {
+          "file": "persona_the_one_who_sends_it.md",
+          "kind": "persona",
+          "title": "The One Who Sends It",
+          "type": "archetype",
+          "taxonomy": "position_claim.md"
+        },
+        {
+          "file": "persona_the_one_who_was_not_asked.md",
+          "kind": "persona",
+          "title": "The One Who Was Not Asked",
+          "type": "archetype",
+          "taxonomy": "position_absence.md"
+        },
+        {
+          "file": "persona_the_two_prices.md",
+          "kind": "persona",
+          "title": "The Two Prices",
+          "type": "archetype",
+          "taxonomy": "position_exposure.md"
+        },
+        {
+          "file": "piece_one_error_is_free.md",
+          "kind": "piece",
+          "title": "One Error Is Free",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "piece_ten_days_and_a_courtroom.md",
+          "kind": "piece",
+          "title": "Ten Days and a Courtroom",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "piece_the_form_is_the_test.md",
+          "kind": "piece",
+          "title": "The Form Is the Test",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "piece_the_speaker_was_not_a_party.md",
+          "kind": "piece",
+          "title": "The Speaker Was Not a Party",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "piece_what_the_sender_believed.md",
+          "kind": "piece",
+          "title": "What the Sender Believed",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "pitch_the_notice_was_in_the_right_form.md",
+          "kind": "pitch",
+          "title": "The Notice Was in the Right Form",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "place_the_federal_court.md",
+          "kind": "place",
+          "title": "The Federal Court",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "place_the_notice_form.md",
+          "kind": "place",
+          "title": "The Notice Form",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "place_the_queue.md",
+          "kind": "place",
+          "title": "The Queue",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "plan_answer_every_notice_the_same_way.md",
+          "kind": "plan",
+          "title": "Answer Every Notice the Same Way",
+          "taxonomy": "position_custody.md"
+        },
+        {
+          "file": "plan_have_it_back_up.md",
+          "kind": "plan",
+          "title": "Have It Back Up",
+          "taxonomy": "position_absence.md"
+        },
+        {
+          "file": "plan_keep_the_safe_harbour.md",
+          "kind": "plan",
+          "title": "Keep the Safe Harbour",
+          "taxonomy": "position_custody.md"
+        },
+        {
+          "file": "plan_make_a_wrong_notice_cost_something.md",
+          "kind": "plan",
+          "title": "Make a Wrong Notice Cost Something",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "plan_protect_the_catalogue.md",
+          "kind": "plan",
+          "title": "Protect the Catalogue",
+          "taxonomy": "position_claim.md"
+        },
+        {
+          "file": "play_nobody_sues_for_taking_it_down.md",
+          "kind": "play",
+          "title": "Nobody Sues for Taking It Down"
+        },
+        {
+          "file": "plot_making_it_cost_something.md",
+          "kind": "plot",
+          "title": "Making It Cost Something",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "plot_reading_the_two_prices.md",
+          "kind": "plot",
+          "title": "Reading the Two Prices",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "plot_the_form_nobody_files.md",
+          "kind": "plot",
+          "title": "The Form Nobody Files",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "plot_the_hour_it_comes_down.md",
+          "kind": "plot",
+          "title": "The Hour It Comes Down",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "plot_the_notice_arrives.md",
+          "kind": "plot",
+          "title": "The Notice Arrives",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "position_absence.md",
+          "kind": "position",
+          "title": "Absence",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "position_claim.md",
+          "kind": "position",
+          "title": "Claim",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "position_custody.md",
+          "kind": "position",
+          "title": "Custody",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "position_exposure.md",
+          "kind": "position",
+          "title": "Exposure",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "position_recourse.md",
+          "kind": "position",
+          "title": "Recourse",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "process_pricing.md",
+          "kind": "process",
+          "title": "Pricing",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "process_putting_it_back.md",
+          "kind": "process",
+          "title": "Putting It Back",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "process_removing.md",
+          "kind": "process",
+          "title": "Removing",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "process_sending.md",
+          "kind": "process",
+          "title": "Sending",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
+        },
+        {
+          "file": "process_waiting.md",
+          "kind": "process",
+          "title": "Waiting",
+          "taxonomy": "play_nobody_sues_for_taking_it_down.md"
         }
       ]
     },

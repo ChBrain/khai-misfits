@@ -3,7 +3,7 @@ concept: "Process Accretion (the removal asymmetry; omission bias in control ret
 field: "Organisations, hierarchy, and management"
 source: "Spranca, Minsk & Baron (Journal of Experimental Social Psychology, 1991); Ritov & Baron (1990)"
 axis: removal-asymmetry
-sign: negative
+sign: negative # how fit a procedure stays, as the cost of removing a step rises above the cost of leaving it in
 updated: "2026-08-25"
 ---
 
@@ -97,6 +97,18 @@ target so capacity is hidden. Remove that engine, by stipulating no targets anyw
 anybody, and this is untouched, because **nothing here is being concealed and no performance is being rationed.**
 That ratchet is on what a worker admits to being able to do; this one is on what a procedure contains, and it
 turns even where every participant is entirely candid.
+
+It runs against the house's **Nobody Sues for Taking It Down**, on this axis and at the opposite end, and the
+two are the same dial read from its two harmful sides. There a host answers a takedown notice about material
+it holds: leaving the material up can cost it the statutory protection its whole activity depends on, and
+removing it is immunised in terms, so the removal is the free direction and everything complained of comes
+down. Here the removal is the attributed direction and the non-removal leaves no record, so nobody signs for
+taking a control out and the procedure accretes. **What sets the sign is where the cost of the cheap error
+lands.** In this play the decider bears both errors and only one of them can be pinned on them, so the
+attributable direction is the one avoided and what accumulates is their own unnecessary procedure. There the
+cheap error's cost falls entirely outside the transaction, on a speaker who is neither the decider nor the
+complainant, so the cheap direction is taken freely and what accumulates is other people's lawful material.
+Same asymmetry, opposite occupant of the loss, opposite behaviour.
 
 ## Origin
 
