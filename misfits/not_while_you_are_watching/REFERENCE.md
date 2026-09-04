@@ -3,8 +3,8 @@ concept: "The Observer's Paradox (reactivity; the vernacular as an unobservable 
 field: "Measurement, cognition, and inquiry"
 source: "Labov, Sociolinguistic Patterns (1972); Orne (1962); Lesley Milroy, Language and Social Networks (1980)"
 axis: observer-presence
-sign: negative
-updated: "2026-08-18"
+sign: negative # how much of the unrehearsed thing is available, as somebody is present to see it
+updated: "2026-09-04"
 ---
 
 # Not While You Are Watching: Reference
@@ -78,6 +78,14 @@ entirely, the bank wiring room's peer enforcement of an output norm. That is wor
 implicit: the most famous body of evidence in this territory is already in the house, carrying a different
 mechanism, and this warrant deliberately does not take it. The Hawthorne effect enters here only through the
 re-analysis that disputes it, cited below as a bound and never as a spine.
+
+It is joined on the axis `observer-presence` by the house's **The Front**, at the same sign and in a
+different trade. There the audience is other people in a group, the editing is done by everybody
+continuously, and what is lost is the unresolved signal the group most needed. Here the audience is one
+researcher, the editing is not done by anybody on purpose, and what is lost is a target that was specified
+by nobody being there. **The quantity is the same in both, how much of the unrehearsed thing is available
+once somebody is present to see it**, and the two differ in who is watching and in what the loss is
+measured against, a study in this play and a group's own learning in that one.
 
 ## Origin
 

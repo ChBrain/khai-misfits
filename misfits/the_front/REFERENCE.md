@@ -1,8 +1,10 @@
 ---
 concept: "Impression Management (the presentation of self; dramaturgy; front/back regions; face-work)"
 field: "Groups, candour, and face"
+axis: observer-presence
+sign: negative # how much of the unrehearsed thing is available, as somebody is present to see it
 source: "Goffman, _The Presentation of Self in Everyday Life_ (1959); Hochschild (1983)"
-updated: "2026-07-13"
+updated: "2026-09-04"
 ---
 
 # The Front: Reference
@@ -44,6 +46,16 @@ Abilene and the held-off preference falsification, which stage a false consensus
 preference: there a choice is on the table and each privately dissents while publicly assenting; here no decision
 need be on the table and no preference is misreported, the play staging the standing structure of the presented
 self that those collisions run on rather than any one collision it produces.
+
+It joins the house's **Not While You Are Watching** on the axis `observer-presence`, at the same sign, and
+the paragraph above is why it is on that dial rather than on `face-protection`. **The front is up before
+any threat appears**, so the quantity this play turns on is the presence of somebody to be seen by, not the
+skill of protecting a face under one: stipulate that nobody has any skill at face-work at all and this
+stands, because editing the still-burning thing into the presentable is the ordinary act of writing it up
+rather than a defence; stipulate that nobody is present to be seen by and it has nothing left. In the other
+play on this dial the audience is a single researcher, the editing is done by nobody on purpose, and the
+loss is a target specified by the observer's absence. Here the audience is the room, the editing is done by
+everybody continuously, and the loss is the unresolved signal the room needed most.
 
 ## Origin
 
