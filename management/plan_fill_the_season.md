@@ -9824,3 +9824,39 @@ somebody who was arguing for a distinction and named the shared dial to make it.
 - [ ] [P2] Widen the axis coverage, 181 of 336 declared. The rule stands and the reporting should change
       with it: **count the candidates read, not the declarations made**, since a pass that reads twenty and
       declares six has done the same work as one that declares twelve and has half of them wrong.
+
+**The ninety-second pass wrote nothing new and lifted something out, which this file has needed for a
+while and could not say so about itself.** [Find the Next One](plan_find_the_next_one.md) collects the six
+selectors the house has worked out for finding the misfit it does not yet hold, each with what it
+searches, what it has actually returned, and how it fails.
+
+**The reason is a number: this register is now over a megabyte.** Every finding in it is true, dated and
+discoverable only by grep, and the passes have been re-deriving their own rules. The resemblance trap was
+learned three times under three names before anybody called it one thing. The instruction to read the
+whole of a tool's output rather than its last line was learned once and then broken by the pass that had
+learned it. **A log is the right place to find something out and the wrong place to keep it.**
+
+**The plan is a `plan_*.md` and not a new kind of file, which matters.** The management README says the
+directory arrives with the house from the blueprint and is the same in every house on purpose, so a local
+edit that invented a category would be the wrong shape. `plan_*.md` is already the documented category for
+**recurring procedures the house runs**, and Name It Once already carries craft rules of exactly this
+kind, including the display-title rule the last pass tripped. So this is the existing shelf, used.
+
+**What went in is the yield rather than the method, which is the part that was expensive.** Anybody can
+think of reading the place titles. What cost passes was learning that forty domains come back empty and
+that an absent domain is not an absent mechanism; that `--families` is a high-yield selector for finding
+an argument already written and a low-yield one for finding an axis member; that the empty-end method
+needs two tests in front of it and that most singletons have one harmful end and always will. **A selector
+without its measured yield is an idea, and the house had six ideas and no ledger.**
+
+**And the plan carries the standing rules that govern every selector**, which were scattered across
+seventy entries: a description proposes and only the warrant confirms; one engine in two domains is a row;
+where two plays pass each other's switch-offs but share a room the separation is in the staging; a
+candidate's incumbents are not counted until somebody writes it; scan the surnames twice and read the
+whole output; a slate line carries the shape of an obligation and not its fact; a prohibition is not a
+task.
+
+**One target in it is about this file.** The last one says the register should stop being the only place a
+selector is written down. That is the whole intent, and it is written as a target rather than a claim
+because it is not finished: the plan holds what has been learned up to here, and the next thing learned
+will arrive in this log first, as it should.
