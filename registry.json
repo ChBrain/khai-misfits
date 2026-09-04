@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.336.0",
+  "version": "0.337.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -28274,6 +28274,228 @@
           "kind": "process",
           "title": "Stranding",
           "taxonomy": "play_only_as_good_as_the_worst.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "only_from_someone_like_us",
+      "title": "Only From Someone Like Us",
+      "description": "The proof that would move them can come only from somebody in their position, and adopting is what leaves it.",
+      "members": [
+        {
+          "file": "persona_the_agent.md",
+          "kind": "persona",
+          "title": "The Agent",
+          "type": "archetype",
+          "taxonomy": "position_advocacy.md"
+        },
+        {
+          "file": "persona_the_careful_one.md",
+          "kind": "persona",
+          "title": "The Careful One",
+          "type": "archetype",
+          "taxonomy": "position_decision.md"
+        },
+        {
+          "file": "persona_the_demonstration_plot.md",
+          "kind": "persona",
+          "title": "The Demonstration Plot",
+          "type": "archetype",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "persona_the_gap.md",
+          "kind": "persona",
+          "title": "The Gap",
+          "type": "archetype",
+          "taxonomy": "position_sorting.md"
+        },
+        {
+          "file": "persona_the_one_who_went_first.md",
+          "kind": "persona",
+          "title": "The One Who Went First",
+          "type": "archetype",
+          "taxonomy": "position_precedent.md"
+        },
+        {
+          "file": "piece_early_means_different.md",
+          "kind": "piece",
+          "title": "Early Means Different",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "piece_it_is_not_the_cascade.md",
+          "kind": "piece",
+          "title": "It Is Not the Cascade",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "piece_salesmen_inform_neighbours_persuade.md",
+          "kind": "piece",
+          "title": "Salesmen Inform, Neighbours Persuade",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "piece_the_agent_is_least_like_them.md",
+          "kind": "piece",
+          "title": "The Agent Is Least Like Them",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "piece_the_filter_is_correct.md",
+          "kind": "piece",
+          "title": "The Filter Is Correct",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "pitch_the_leaflet_reached_everybody.md",
+          "kind": "pitch",
+          "title": "The Leaflet Reached Everybody",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "place_the_bulletin.md",
+          "kind": "place",
+          "title": "The Bulletin",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "place_the_field_day.md",
+          "kind": "place",
+          "title": "The Field Day",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "place_the_kitchen_table.md",
+          "kind": "place",
+          "title": "The Kitchen Table",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "plan_bring_them_the_evidence.md",
+          "kind": "plan",
+          "title": "Bring Them the Evidence",
+          "taxonomy": "position_advocacy.md"
+        },
+        {
+          "file": "plan_go_first_because_i_can.md",
+          "kind": "plan",
+          "title": "Go First Because I Can",
+          "taxonomy": "position_precedent.md"
+        },
+        {
+          "file": "plan_run_it_on_a_holding_like_theirs.md",
+          "kind": "plan",
+          "title": "Run It on a Holding Like Theirs",
+          "taxonomy": "position_recourse.md"
+        },
+        {
+          "file": "plan_take_whoever_can_afford_it.md",
+          "kind": "plan",
+          "title": "Take Whoever Can Afford It",
+          "taxonomy": "position_sorting.md"
+        },
+        {
+          "file": "plan_wait_for_somebody_like_me.md",
+          "kind": "plan",
+          "title": "Wait for Somebody Like Me",
+          "taxonomy": "position_decision.md"
+        },
+        {
+          "file": "play_only_from_someone_like_us.md",
+          "kind": "play",
+          "title": "Only From Someone Like Us"
+        },
+        {
+          "file": "plot_not_someone_like_me.md",
+          "kind": "plot",
+          "title": "Not Someone Like Me",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "plot_the_agent_at_the_gate.md",
+          "kind": "plot",
+          "title": "The Agent at the Gate",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "plot_the_leaflet_arrives.md",
+          "kind": "plot",
+          "title": "The Leaflet Arrives",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "plot_the_ones_who_could_afford_it.md",
+          "kind": "plot",
+          "title": "The Ones Who Could Afford It",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "plot_the_plot_at_the_end_of_the_lane.md",
+          "kind": "plot",
+          "title": "The Plot at the End of the Lane",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "position_advocacy.md",
+          "kind": "position",
+          "title": "Advocacy",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "position_decision.md",
+          "kind": "position",
+          "title": "Decision",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "position_precedent.md",
+          "kind": "position",
+          "title": "Precedent",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "position_recourse.md",
+          "kind": "position",
+          "title": "Recourse",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "position_sorting.md",
+          "kind": "position",
+          "title": "Sorting",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "process_demonstrating.md",
+          "kind": "process",
+          "title": "Demonstrating",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "process_dividing_on_what_can_be_lost.md",
+          "kind": "process",
+          "title": "Dividing on What Can Be Lost",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "process_informing.md",
+          "kind": "process",
+          "title": "Informing",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "process_judging.md",
+          "kind": "process",
+          "title": "Judging",
+          "taxonomy": "play_only_from_someone_like_us.md"
+        },
+        {
+          "file": "process_waiting.md",
+          "kind": "process",
+          "title": "Waiting",
+          "taxonomy": "play_only_from_someone_like_us.md"
         }
       ]
     },
