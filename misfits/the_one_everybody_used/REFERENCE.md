@@ -3,8 +3,8 @@ concept: "The Popular Sire Effect (the best-documented animal used by everyone; 
 field: "Ecology, evolution, and public health"
 source: "Calboli, Sampson, Fretwell & Balding (Genetics, 2008); Lewis, Abhayaratne & Blott (Canine Genetics and Epidemiology, 2015)"
 axis: merit-legibility
-sign: negative
-updated: "2026-08-23"
+sign: negative # how far an individual is judged on their own qualities, as those qualities become cheaper to observe directly
+updated: "2026-09-04"
 ---
 
 # The One Everybody Used: Reference
@@ -101,6 +101,15 @@ so that a lead widens by accumulation. Remove that engine, by stipulating that n
 begins fresh, and this stands, because **one round is already the finding**: a single generation in which most matings
 go to one sire collapses that generation's contribution to a handful of ancestors, and the effective number is a
 property of how evenly one generation's matings were spread rather than of any accumulation across them.
+
+It runs against the house's **The Proxy**, on this axis and at the opposite end, and the two are the same
+dial read from its two harmful sides. There merit is **not legible** at the level that matters, so an agent
+prices an individual by the average of the group they belong to and the rating comes true, because the
+person rated low earns a discounted return on any signal they could send. Here merit is **cheaply and
+reliably legible**, one animal is provably best on a measured index, and every independent chooser makes
+the same choice. **What sets the sign is what a decision falls back on when it cannot read the individual,
+and what it converges on when it can.** Neither end fails safely: perfect legibility spends the variety a
+population needed, and no legibility hands the decision to a group prior that then makes itself true.
 
 ## Origin
 

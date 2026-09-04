@@ -1,0 +1,11 @@
+---
+"@chbrain/khai-misfits": patch
+---
+
+Run the joiner from the plays a second time: 150 concept lines re-read, six warrants opened, five plays declared and two joins refused. The axis wall reads 193 units declaring an axis and 0 opposed pairs not naming each other.
+
+**The Proxy joins `merit-legibility` at the opposite end from The One Everybody Used**, which is the pass's find. There merit becomes cheaply and reliably legible, one animal is provably best on a measured index, every independent chooser makes the same choice, and a generation's contribution collapses to a handful of ancestors. Here merit is not legible at the level that matters, so an agent prices an individual by the group average and the rating comes true, because the person rated low earns a discounted return on any signal they could send. What sets the sign is what a decision falls back on when it cannot read the individual, and what it converges on when it can: a collapse of variation at one end and a self-confirming average at the other, neither of them anybody's prejudice.
+
+**The Bullwhip Effect joins `response-lag`** beside Chasing the Price and More Mouths Than Meat, at the same sign and by a longer arm, since the same delay is repeated at every link and each link's cover for it becomes the next link's observed demand. **The Weather We Make joins `simultaneous-deleveraging`** beside Debt-Deflation, where the simultaneity comes from a common obligation and here from a common measure. **The File Drawer and The Survivors declare `outcome-selection`** together, which their own warrants already called one statistical family: a sample whose membership depends on the outcome it is read to learn cannot speak for the population it is read about, and the dial is the same while the removal is not, a gatekeeper deciding on a result against a hazard deciding on survival.
+
+Two refused. The Case It Destroys against `response-lag`, because stipulating the lag away does remove the harm but the bite is the censored evidence rather than the delay, and a play joins the dial its mechanism turns on. The File Drawer and The Survivors against `appraisal-selectivity`, where the quantity is what a present's questions keep for a future rather than how a sample was filtered on its own outcome.

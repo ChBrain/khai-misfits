@@ -1,8 +1,10 @@
 ---
 concept: "Endogenous Risk (risk-model monoculture; the value-at-risk feedback)"
 field: "Markets, money, and economic equilibria"
+axis: simultaneous-deleveraging
+sign: negative # how much a sale relieves the seller, as more holders sell the same thing at the same time
 source: 'Daníelsson & Shin, "Endogenous Risk", in _Modern Risk Management: A History_ (Risk Books, 2003)'
-updated: "2026-07-31"
+updated: "2026-09-04"
 ---
 
 # The Weather We Make: Reference
@@ -69,6 +71,15 @@ others' beliefs: there the mechanism is inherently about second-guessing, wherea
 forms any belief about any other participant, the response is mechanical and mandate-driven, and the
 loop would run in full even under common knowledge of fundamentals and of every other institution's
 position.
+
+It joins the house's **Debt-Deflation** on the axis `simultaneous-deleveraging`, at the same sign and from
+a different cause. There the simultaneity comes from **a common shock and a common obligation**: many
+borrowers are called on at once and each sells to reduce a debt, so the price falls and the real burden of
+what is left rises. Here it comes from **a common measure**: harmonised, risk-sensitive models estimated on
+the same history agree and update together, so a single reading turns many independent prudent decisions
+into one sale. **Stipulate that no two holders sell at the same time** and this play has nothing left,
+which is the test that puts it on the dial. What it adds is that the coordination needs no shared exposure
+at all, only a shared instrument for looking at exposure.
 
 ## Origin
 
