@@ -1,8 +1,10 @@
 ---
 concept: "Plausible Deniability (willful blindness)"
 field: "Groups, candour, and face"
+axis: blame-attachment
+sign: negative # how much of a party's conduct is aimed at the outcome rather than at its own answerability, as blame attaches more readily to whoever can be shown to have known or decided
 source: "Church Committee (U.S. Senate, 1975-76)"
-updated: "2026-07-02"
+updated: "2026-09-04"
 ---
 
 # Plausible Deniability: Reference
@@ -28,6 +30,16 @@ willed, so responsibility must be assigned not only for what a principal ordered
 it arranged not to. It is the engineered, top-down counterpart of the house's Watermelon Reporting:
 there each rung filters bad news upward to protect itself, here the top builds the ignorance downward
 so that no news can attach.
+
+It joins the house's **The Paper Trail** on the axis `blame-attachment`, at the same sign and by the other
+face of the same avoidance, which that play's own warrant already names. There a clinician documents
+defensively so that no fault can attach, and the effort that goes into the record is effort not going into
+the patient. Here a principal arranges not to know so that no knowledge can attach, and the deed still
+happens and lands on the agent who understood the wink. **The quantity is the same in both, how readily
+blame attaches to whoever can be shown to have known or decided**, and the two engines are what a party
+builds against it: a record in one and an ignorance in the other. The axis was called
+`blame-for-deviation` while The Paper Trail held it alone, and this play is why it is not called that any
+more.
 
 ## Origin
 
