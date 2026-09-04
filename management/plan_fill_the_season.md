@@ -10302,7 +10302,7 @@ namespace.** Reading it as a namespace asks whether a name is taken; reading it 
 quantity is already measured somewhere, and the second question is the one that finds an opposition. It
 costs nothing extra, because the list is the same list.
 
-- [ ] [P2] Read the other singleton axes for the same fault. The ninety-first pass concluded that most
+- [x] [P2] Read the other singleton axes for the same fault. The ninety-first pass concluded that most
       singleton axes have one harmful end only, and that conclusion was reached by reading the axes rather
       than by reading the candidates that might occupy their empty ends. `witness-similarity` was already
       filed with the same doubt last week. The instrument is the two tests above, and the pass that runs it
@@ -10359,3 +10359,67 @@ worth keeping has not finished until the rule is in the plan that governs the wo
       the four were the ones a recent pass happened to remember. The instrument is a reading rather than a
       search, since a rule does not announce itself as one, and the pass that runs it should count the
       entries read rather than the rules moved.
+
+**The hundred and third pass runs the empty-end selector deliberately, reads eight candidates, and
+declares one.**
+
+**`entitlement-universality` gains its second member and its first opposition.** **Too Much to Ask**, the
+administrative burden play, has been undeclared since July and is the low end of the dial **Nobody Was Left
+Out** has held alone. The two now name each other, the wall reads 186 units declaring an axis and 0 opposed
+pairs unnamed, and both files gain the sign comment the axis was missing.
+
+**What sets the sign is what the entitlement is rationed by**, and that sentence is the whole of the pair.
+A universal claim is rationed by the **supply of the thing it buys**, so it goes to whoever can attract
+that supply, which is how a smaller class for everybody becomes a reordering of teachers. A gated claim is
+rationed by the **cost of proving eligibility**, so it goes to whoever can bear that cost, which is how a
+scheme aimed at the neediest reaches them least. Neither allocation is the need the scheme was written for,
+and **each is the settlement the other refuses**: the universal form is chosen because the list of who
+waits is a document nobody will sign, and the gate is raised because an entitlement with no test admits
+what the test guarded.
+
+**The candidates read, with the verdict on each, because the refusals are the pass's other half.**
+
+- `redundant-elements` (Belt and Braces) against `barriers-in-series` (Ninety Six Times Eight). **Refused
+  as a merge**: one is elements in **parallel** and the other is barriers in **series**, which are opposite
+  topologies rather than one quantity, and neither has a harmful far end that is not the ordinary case.
+- `observation-destructiveness` (Taken Apart to Be Read) against `observer-presence` (Not While You Are
+  Watching). **Refused**: both stage an observation that spends what it measures, on two different
+  quantities, and each incumbent already holds its own far end, since the case for waiting and the target
+  defined by the observer's absence are both stated inside the plays.
+- `hierarchy-depth` (Five or a Layer). **Refused on the second test**, cleanly and instructively: its
+  governing law is that supervision can only be bought with layers, so the play **already holds both
+  horns**. That is exactly the failure mode the selector's second test exists to catch.
+- `fan-out-width` (The Last One to Answer). **Refused as a pairing**: it is fan-out latency in a
+  distributed service and not organisational span, which the name invites and the warrant refuses.
+- `time-in-use` (Nothing Known Against It). **Refused on the second test**: the substitute with no record
+  is the play's own subject, so the far end is inside it.
+- `experimental-control` (Proved on Somebody Else) against `control-arm-cost` (A Lower Bar Set by a Higher
+  One). **Refused**: two quantities, both harmful at their high ends, and the first play's governing law
+  already names the trade.
+- `interpretive-mediation` (In Somebody Else's Words). **Refused on the second test**: its No Hero runs
+  every horn including conducting proceedings in the witness's language, which is the far end.
+- `credential-recognisability` (Good Enough to Leave). **Held, not slated.** The far end, a qualified
+  person whose credential is not recognised where they are, is a different party and a different engine
+  from the training country losing its graduates. The incumbent's No Hero names teaching to something
+  unrecognised as a policy choice, which is close enough to the far end that the second test cannot be
+  called cleanly either way, and a candidate that needs an argument to survive a test is not yet a
+  candidate.
+
+**Eight read, one declared, one held, six refused, and the shape of the refusals is the finding.** Five of
+the six failed the **second** test rather than the first: the dial was harmful at both ends and the
+occupied play already carried the far end as a vector. That is a well made production doing its job, since
+a play that stages a trade holds both horns by construction. **So the second test is not a formality and
+it is the one that does the work**, and a pass that runs this selector should apply it before spending any
+time on whether the far end is interesting.
+
+**And the pass this one is not.** An earlier pass ran a **synonym audit** over the singleton axes, looking
+for one dial carrying two names, and merged the pair that became `reviewer-proximity`. This pass asked a
+different question of the same list: not whether two names are one dial, but whether an **undeclared play
+already in the house** sits at a declared dial's empty end. Same list, different question, and the second
+question is the one that pays, because the house holds a hundred and fifty-two undeclared plays and the
+axis list is a hundred and thirty-one names long.
+
+- [ ] [P2] Read the undeclared list against the declared axes rather than the axis list against itself.
+      This pass worked from the axes and found one member in eight reads. The house holds 152 undeclared
+      plays against 186 declared and 131 axis names, so the cheaper direction is to take each undeclared play and ask which declared
+      dial it measures, which is the sixth selector run at scale. Count the candidates read.

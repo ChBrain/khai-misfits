@@ -2,7 +2,9 @@
 concept: "Administrative Burden (learning, psychological and compliance costs; ordeal mechanisms)"
 field: "Organisations, hierarchy, and management"
 source: "Moynihan, Herd & Harbage (JPART, 2015)"
-updated: "2026-07-23"
+axis: entitlement-universality
+sign: positive # how far an entitlement reaches the people it is for, as it is raised on the same terms for everybody rather than gated on eligibility
+updated: "2026-09-04"
 ---
 
 # Too Much to Ask: Reference
@@ -42,6 +44,19 @@ sum is not an unwilled aggregate but a selection, a friction that screens the in
 their capacity to bear it, the harm distributional and falling on the neediest, not a merely unmanaged
 total. The house stages only the earnest version, the accretion of well-meant steps, and refuses the
 deliberate-sludge barrier the literature also records.
+
+It runs against the house's **Nobody Was Left Out**, on the axis `entitlement-universality` and at the
+opposite end, and the two are the same dial read from its two harmful sides. There a legislature funds a
+smaller class for every district on the same terms in the same year, refusing to write down which children
+wait, and the claim lands on a stock of teachers that takes years to make, so it reorders who holds them
+and settles by who can attract. Here the entitlement is gated instead, and each gate is a defensible step
+guarding against a real fraud, error or misallocation, so the claiming cost accumulates and screens the
+eligible by their capacity to bear it. **What sets the sign is what the entitlement is rationed by.** A
+universal claim is rationed by the supply of the thing it buys, so it goes to whoever can attract that
+supply. A gated claim is rationed by the cost of proving eligibility, so it goes to whoever can bear that
+cost. Both allocations are settled by a capacity the scheme never named and neither is the need it was
+written for, and the universal form is chosen precisely because the list of who waits is the document
+nobody will sign.
 
 ## Origin
 
