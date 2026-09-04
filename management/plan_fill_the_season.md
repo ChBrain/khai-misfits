@@ -10166,11 +10166,11 @@ are both named, so a declaration lands and every occurrence resolves. `Ryan` **o
 surname collates. Declare `Ryan` and that bare occurrence resolves to nothing and the wall fires, so the
 obligation has two halves in two lanes. **Count the cells, not the surnames.**
 
-- [ ] [P2] Declare `Gross` as `["Samuel", "Neal"]`. Declaration-only: both cells are already named, so this
+- [x] [P2] Declare `Gross` as `["Samuel", "Neal"]`. Declaration-only: both cells are already named, so this
       is a single governance pull request with no misfit half and no drift beyond the science rebuild that
       every declaration requires.
 
-- [ ] [P2] Name the bare `Ryan` cell in **Paid to Stop Caring** as Richard Ryan, then declare `Ryan` as
+- [x] [P2] Name the bare `Ryan` cell in **Paid to Stop Caring** as Richard Ryan, then declare `Ryan` as
       `["Richard", "Bryce"]`. Two halves in two lanes, misfit first: the declaration cannot land until the
       bare occurrence has a form to resolve to.
 
@@ -10219,3 +10219,39 @@ is taken and whether it is declared. The first tells you what the house already 
 what the new play adds. Neither is a substitute for the suite, which is the only thing that reports a
 **declared** surname cited without a matching form, and that is the failure both of the last two passes
 turned on.
+
+**The hundredth pass declares both `Gross` and `Ryan`, and records a check that has now caught the same
+thing twice in two passes.**
+
+**`Gross` becomes `["Neal", "Samuel"]` and `Ryan` becomes `["Richard", "Bryce"]`**, and the walls read 88
+declared surnames and 0 unresolved occurrences. The probe's bill is empty for the first time since the
+reference group play landed. Neal Gross of the hybrid seed corn study and Samuel Gross of the settlement
+selection work are two people behind one surname, and so are Bryce Ryan of that same study and Richard
+Ryan of self-determination theory. Both declarations split a collated science entry, which is why the
+index and REFERENCES are rebuilt here.
+
+**They were slated as two shapes and the shapes were right.** `Gross` was declaration-only, because both
+its cells were already named. `Ryan` was two halves in two lanes, because Paid to Stop Caring carried
+"Deci, Koestner and Ryan" with no given name, and the misfit half naming it had to reach the trunk before
+this half could be written at all. It did, and this line is the whole of what was left.
+
+**Now the check, and it earns its place because it has fired twice.** This pass was asked for twice. The
+first time, the work it depended on was reported merged and was **open**: the naming pass was written,
+reviewed, correct, and absent from `main`, so `Ryan` was held and only `Gross` shipped. The second time,
+`Gross` itself was reported merged and was **also open**, its branch by then a commit behind a trunk that
+had moved under it.
+
+**So: a report that something merged is not a reading of the trunk.** Both reports were made in good
+faith, by somebody who had done the merging or intended to, and both were wrong about the state of `main`
+at the moment the next pass started. Neither is a mistake worth attributing; what matters is that the next
+piece of work is computed against the trunk, and the trunk is the only thing that can say what is in it.
+`git checkout main && git pull`, then run the gate that the new work depends on and read what it says. It
+costs one command and it has now saved two passes from proposing a change against a base that did not
+hold.
+
+**And the second firing shows the failure's other face.** The first time, the missing merge would have
+made the new work **fail its wall**, which is loud. The second time, the missing merge left an earlier
+pull request **stale rather than wrong**, still green against a base nobody has any more. That is quiet,
+and it is the one that turns into somebody else's conflict later. The remedy for it is the same reading,
+and the fix is to bring the branch onto the current trunk rather than to open a third pull request beside
+the two already standing.
