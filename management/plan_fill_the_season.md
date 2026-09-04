@@ -10092,3 +10092,25 @@ The base was wrong because a **second request arrived inside a running turn** an
 continuation of the work in hand rather than as a new unit. A new unit has its own base. That is the part
 to watch for: not a forgotten command, but a request that feels like a follow-up and is a new piece of
 work.
+
+**The ninety-seventh pass widens `Katz`, and the reason it exists at all is that the authoring pass
+scanned for the wrong thing.**
+
+**`Katz` becomes `["Daniel", "Joel", "Michael", "Ralph", "Elihu"]`.** Elihu Katz is the Katz of _Medical
+Innovation_, the physician prescribing study that the reference group play cites as the same shape outside
+farming, and `Katz` was **already declared**, so the citation fails the wall the moment it lands. The
+widening is governance and the play is misfit, so this is the second pass in a row that exists because the
+lane split makes it exist.
+
+**The finding is about the scan and not about the declaration.** The authoring pass looked up `Ryan` and
+`Gross`, read their cells, and correctly concluded that neither owed anything today, because **an
+undeclared surname collates**. It did not look up `Katz`. So the suite found it, which is the right place
+for a wall to fire and the wrong place to learn what a play owes, because by then thirty-six files are
+written and the bill splits the work across two lanes and two pull requests.
+
+**The two obligations are opposite and the scan treated them as one.** A surname the house **holds** is a
+cell to read: the same person on another work is expected, and a different person collates harmlessly until
+somebody declares the surname. A surname the house has **declared** is a wall: any new citation of it must
+carry a matching declared form or the gate fires. The first owes nothing and the second owes something
+immediately, and which one applies is a property of the config, not of the index. **Read the declarations
+and the index in the same scan**, or run the suite before deciding what a play owes.
