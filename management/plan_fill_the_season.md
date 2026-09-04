@@ -10187,3 +10187,35 @@ case: the other end, a decider who discounts the comparable witness and will act
 one, is a recognisable shape rather than an empty position. It is not slated, because the empty-end
 selector's two tests have not been run against it and the engine at the far end has not been identified. It
 is recorded so that the next run of that selector starts with a candidate instead of a scan.
+
+**The ninety-ninth pass names the bare `Ryan` cell, and finds that the instrument the last two passes
+needed already exists.**
+
+**Paid to Stop Caring's 1999 meta-analysis row now reads "Deci, Koestner and Richard Ryan".** That is the
+**misfit half** of the obligation the reference group play left behind, and it goes first because the
+declaration is governance and cannot land until every occurrence has a form to resolve to. The slate line
+stays open, because it describes both halves and only one of them has landed. The style is the house's
+existing one and not a new one: the same table already reads "Lepper, David Greene and Nisbett" and
+"Cameron and W. David Pierce", so a warrant names the surnames a wall requires and leaves the rest as the
+citation writes them.
+
+**Now the finding, and it is a tool the house already ships.** `khai-tests science probe` reports, in one
+line, **every undeclared surname whose own cells already name more than one person**. That is the namesake
+bill for the whole house, computed rather than remembered, and it reads **two** today: `Gross` and `Ryan`.
+The pass that authored the reference group play scanned by looking surnames up one at a time and missed
+`Katz`; the pass after it widened `Katz` and wrote a rule about reading the declarations and the index in
+the same scan. **The rule was right and the instrument for it was already installed.**
+
+**The probe also reports a second and much longer list, and it is not a debt.** Sixty-seven undeclared
+surnames **mix a named cell with a bare one**: `Kahneman` named once and bare in seven plays, `Tversky`
+bare in five, and so on down. Every one of those is almost certainly the same person cited more than once,
+which is exactly what the house expects and exactly what collation is for. That list is a **readiness
+report**, not an obligation: it says what a declaration of each surname would cost if the house ever made
+one. Reading it as a backlog would invent sixty-seven items of work that nothing has asked for.
+
+**So the standing rule gets its instrument.** Before authoring, run `science probe` and read the first
+section, which is the bill, and `science surname <X>` on each new scholar, which says whether the surname
+is taken and whether it is declared. The first tells you what the house already owes; the second tells you
+what the new play adds. Neither is a substitute for the suite, which is the only thing that reports a
+**declared** surname cited without a matching form, and that is the failure both of the last two passes
+turned on.
