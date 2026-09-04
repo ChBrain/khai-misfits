@@ -10606,8 +10606,46 @@ about disclosure; Not While You Are Watching shares the shape and would have bee
 instrument that caught it is the one the last three passes built: read the axis list for the quantity
 before writing, because the dial you would declare is where your duplicate lives.
 
-- [ ] [P2] Read the other plays that would sit on `observer-presence` if the name were taken loosely. The
+- [x] [P2] Read the other plays that would sit on `observer-presence` if the name were taken loosely. The
       dial is attention and the house has several plays about being seen, none of which is on it. That is
       either correct, which the singleton rule would predict, or it is the same near-miss this pass made
       and did not make. The reading is cheap and the answer is worth having before the next play about
       being watched is authored.
+
+**The hundred and eighth pass reads the observation plays and finds the answer was already written in one
+of their own distinctness paragraphs.**
+
+**`observer-presence` gains its second member: The Front.** There a single researcher is present and the
+target was specified by nobody being there; here the audience is the room, the editing is done by everybody
+continuously, and what is lost is the unresolved signal the group most needed. The quantity is the same in
+both, **how much of the unrehearsed thing is available once somebody is present to see it**, and both files
+gain the sign comment the axis was missing. The wall reads 196 units declaring an axis and 0 opposed pairs
+unnamed.
+
+**The find is which dial it is not, and the reading took one sentence.** `face-protection` was the tempting
+home, since Saving Face stages a group that cannot learn because face is protected and The Front stages a
+group that only ever shares the resolved account. The two plays are already distinguished, and the
+distinguishing sentence is the axis answer: **the front is up before any threat appears**. Run the
+stipulation both ways and it holds. Stipulate that nobody has any skill at face-work at all and The Front
+stands, because editing the still-burning thing into the presentable is the ordinary act of writing it up
+rather than a defence. Stipulate that nobody is present to be seen by and it has nothing left.
+
+**So the pass's finding is a shortcut, and it is the third form of one the last four passes have been
+circling.** The kinship pass looked at what a distinctness paragraph **separates**. This one looked at what
+it separates **on**, and found the axis question already answered there. A warrant that has properly cut
+itself from a near neighbour has, in doing so, named the quantity it turns on, because that is what a cut
+has to be made of. **The distinctness paragraph is the axis declaration in prose**, and reading it is
+cheaper than reasoning about the dial from scratch.
+
+**Two refused, and both are the near-miss the last pass named.** The Spotlight Effect turns on a decider's
+**belief** about how much attention they are getting, not on an observer's presence, and the harm is the
+misestimate rather than anything the observer does. The Therapeutic Misconception turns on two roles held in
+the same hour and would run identically with a single unobserved clinician wearing both. Neither is a
+candidate and both were tempting for the same reason the takedown play was nearly put on `observer-presence`
+last week: the subject is being watched and the quantity is something else.
+
+- [ ] [P2] Run the distinctness paragraphs as a declaration source at scale. This pass and the one before it
+      each read a handful and each found the answer already written. The house holds 143 undeclared plays,
+      most of them carrying two or more distinctness paragraphs, and each of those paragraphs names a
+      quantity by construction. The pass that runs it should read paragraphs rather than warrants and report
+      how many named a dial the house already holds.
