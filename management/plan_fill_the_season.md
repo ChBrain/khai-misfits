@@ -10025,7 +10025,7 @@ against fixed infrastructure is genuinely high, and a better practice stalls wit
 the correct filter for its position. **That is a misfit shape and the house does not stage it**, verified:
 no `diffusion of innovation`, no `critical mass`, no Everett Rogers anywhere in the index.
 
-- [ ] [P1] **The reference group that cannot exist**, which is the sharper cut of diffusion than the chasm.
+- [x] [P1] **The reference group that cannot exist**, which is the sharper cut of diffusion than the chasm.
       The early majority requires evidence from people like itself, and everybody who has adopted is, by
       construction, unlike it: earlier adopters have more slack, more risk tolerance and more technical
       skill, which is what made them earlier. So the evidence that would move the next segment can only be
@@ -10114,3 +10114,76 @@ somebody declares the surname. A surname the house has **declared** is a wall: a
 carry a matching declared form or the gate fires. The first owes nothing and the second owes something
 immediately, and which one applies is a property of the config, not of the index. **Read the declarations
 and the index in the same scan**, or run the suite before deciding what a play owes.
+
+**The ninety-eighth pass authors the reference group that cannot exist, and records that a play's namesake
+bill is not known until the gate is run.**
+
+**Only From Someone Like Us is the three hundred and thirty-seventh misfit**, thirty-six files, declaring
+the axis `witness-similarity` with a **positive** sign on how persuasive an adoption is as the person who
+made it resembles the person deciding. The play stages the spread of a better practice as a proof that can
+only come from a witness who does not exist: the leaflet reached every holding, the figures are honest, two
+growers planted it, both farm three times the median acreage, and everybody else was right to wait.
+
+**Both slated switch-offs held on the reading, and a third arrived during the authoring.** Against **After
+You**, stipulate a single side and the harm survives, because the wait is for a **witness** and a witness
+is not the other half of a market. Against **Information Cascade**, stipulate that everybody weights their
+own signal fully and the harm survives, because the private signal is **accurate and is the difficulty**.
+The third is **What Everyone Else Does**, which the slate did not carry and which the neighbourhood of the
+concept put in front of the authoring: there a custom is being defended and its legal weight is the
+quantity, and here nothing is defended and no standard is at issue. **A switch-off found while writing is
+the ordinary case and not a slate failure**, since the slate proposes from a description and the warrant
+reads the neighbourhood.
+
+**The No Hero paragraph carries a shape worth naming: the remedy that works and consumes the thing it
+produces.** The demonstration plot run on a comparable holding is what the extension field actually does,
+it is effective, and it requires a comparable holder willing to go first, which is the quantity in short
+supply. That is not the usual settlement failure, where a remedy is ineffective or has its cost somewhere
+else. It is a remedy whose input is its own output, and the house should recognise it as a distinct kind of
+No Hero rather than filing it with the ones that simply do not work.
+
+**Now the namesake bill, and it is the pass's finding, because the scan before the authoring got it
+wrong.** Four surnames in the new warrant are already in the house. The scan found two of them, `Ryan` and
+`Gross`, read the cells, and concluded correctly that neither owed anything today: **an undeclared surname
+collates**, so the play could be written and the declarations slated behind it. It did not look up `Coleman`,
+which is also taken and also undeclared, and it did not look up `Katz`, which is **declared** as
+`["Daniel", "Joel", "Michael", "Ralph"]` and which the new Medical Innovation cell cites as a fifth person.
+That one fires, and it fired on the suite rather than on the scan. The pass before this one widened `Katz`
+to admit Elihu, which is why this play could ship at all, and the cell now names all three authors, which
+pre-pays half of the `Coleman` declaration whenever it comes.
+
+**The rule is that the namesake scan must be run against the declarations and not only against the index.**
+A surname the house already holds is a cell to read and owes nothing. A surname the house has **declared**
+is a wall, and the citation fails the moment it lands. Those are opposite obligations and the scan used for
+this play only distinguished them for the surnames it happened to look up. **Run the gate before deciding
+what the play owes**, because the suite reports the whole bill in one line and a reading of the index
+reports whichever part of it was looked for.
+
+**And the same reading shows why the two remaining follow-ups are different obligations.** `Gross` is
+**declaration-only**: Samuel Gross on the settlement selection work and Neal Gross on the seed corn study
+are both named, so a declaration lands and every occurrence resolves. `Ryan` **owes a cell first**:
+`a_reason_too_many` names Richard Ryan and the new cell names Bryce Ryan, but `paid_to_stop_caring` carries
+"Deci, Koestner and Ryan" with no given name, which is correct as a citation and invisible while the
+surname collates. Declare `Ryan` and that bare occurrence resolves to nothing and the wall fires, so the
+obligation has two halves in two lanes. **Count the cells, not the surnames.**
+
+- [ ] [P2] Declare `Gross` as `["Samuel", "Neal"]`. Declaration-only: both cells are already named, so this
+      is a single governance pull request with no misfit half and no drift beyond the science rebuild that
+      every declaration requires.
+
+- [ ] [P2] Name the bare `Ryan` cell in **Paid to Stop Caring** as Richard Ryan, then declare `Ryan` as
+      `["Richard", "Bryce"]`. Two halves in two lanes, misfit first: the declaration cannot land until the
+      bare occurrence has a form to resolve to.
+
+**One repair the canon caught, and it is the second of its kind in four passes.** The play was written with
+a position and a process both titled **Sorting**, and one title names one element, so the canon refused it.
+The process was renamed to **Dividing on What Can Be Lost**. The earlier instance was a piece and a plot
+both titled "The Work Is the Training". **The seat and the activity are the pair to watch**, because a
+position is named for what it decides and a process for what it does, and when a structure's decision and
+its activity are the same word the two names converge without either being wrong.
+
+**One note on the axis, filed rather than slated.** `witness-similarity` is a singleton at a positive sign,
+and the standing caution is that most singleton axes have one harmful end only. This one may not be such a
+case: the other end, a decider who discounts the comparable witness and will act only on the credentialed
+one, is a recognisable shape rather than an empty position. It is not slated, because the empty-end
+selector's two tests have not been run against it and the engine at the far end has not been identified. It
+is recorded so that the next run of that selector starts with a candidate instead of a scan.
