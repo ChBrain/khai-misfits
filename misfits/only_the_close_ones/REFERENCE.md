@@ -1,8 +1,10 @@
 ---
 concept: "The Priest-Klein Selection Hypothesis (selection of disputes for litigation; the fifty-percent tendency)"
 field: "Measurement, cognition, and inquiry"
+axis: outcome-selection
+sign: negative # how far a sample can speak for the population it is read about, as membership in it depends more on the outcome being studied
 source: 'Priest & Klein, "The Selection of Disputes for Litigation" (J. Legal Studies, 1984)'
-updated: "2026-07-21"
+updated: "2026-09-04"
 ---
 
 # Only the Close Ones: Reference
@@ -35,6 +37,12 @@ and joint decision by two adversaries who must both agree to close a case, and t
 predictability, so the residue is not the winners but the toss-ups, and the tried rate is pulled toward even rather than
 toward success. The engine is a strategic mutual selection on the outcome, not an attrition of the weak, and the
 correction is a reconstruction of what settled rather than a count of what was lost.
+
+It joins that play on the axis `outcome-selection`, which its own sentence above names: a strategic mutual
+selection **on the outcome** is the same quantity as an attrition on survival or a gatekeeper's choice on a
+result, and the engines are what separate the three. Here the filter is jointly operated by two adversaries
+who must both agree, so it selects the cases nobody could call, and the residue is neither the winners nor
+the survivors but the toss-ups.
 
 ## Origin
 

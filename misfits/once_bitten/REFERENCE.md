@@ -1,8 +1,10 @@
 ---
 concept: "The Experience-Sampling Asymmetry (why most people disapprove of me)"
 field: "Measurement, cognition, and inquiry"
+axis: outcome-selection
+sign: negative # how far a sample can speak for the population it is read about, as membership in it depends more on the outcome being studied
 source: "Denrell (Psychological Review, 2005)"
-updated: "2026-08-22"
+updated: "2026-09-04"
 ---
 
 # Once Bitten: Reference
@@ -60,6 +62,13 @@ avoidance that seals a particular error, not a learned helplessness that general
 Overfitting's fit to the noise in a given sample and The Streetlight Effect's search where the light is easy, in
 that here the defect is neither a model that mistakes noise for signal nor a search drawn to the convenient
 place, but a sample the learner itself truncates by declining to revisit what once went badly.
+
+That last sentence is the axis: the sample's membership depends on the outcome, which is
+`outcome-selection`, and the play joins The Survivors and The File Drawer on it. **The engine here is the
+only endogenous one of the three.** There the world removes a unit and an editor removes a result, and
+neither missing case was withheld by the party who will read the record. Here the learner does its own
+censoring, rationally, and is both the selector and the reader, so the correction cannot be a registry or a
+reconstruction of the missing but only a decision to sample what already hurt.
 
 **And two conditions the mechanism was stated under can each fail in a direction that sharpens it rather than
 softening it, which is what the online case shows.** The warrant holds that the effect needs a genuinely variable

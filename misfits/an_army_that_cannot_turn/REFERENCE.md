@@ -1,8 +1,10 @@
 ---
 concept: "Coup-Proofing (the loyalty-versus-effectiveness trade-off)"
 field: "Organisations, hierarchy, and management"
+axis: internal-advancement
+sign: negative # how the mission's influence moves as the weight advancement puts on devotion to the body rises
 source: 'Quinlivan, "Coup-proofing: Its Practice and Consequences in the Middle East" (International Security, 1999)'
-updated: "2026-07-31"
+updated: "2026-09-04"
 ---
 
 # An Army That Cannot Turn: Reference
@@ -56,7 +58,12 @@ installed in its place. It is distinct from Pournelle's Iron Law, where an organ
 those devoted to the organisation over its mission: there the drift is unintended and the captured
 organisation still believes it is pursuing its purpose, whereas here the ruler is perfectly
 goal-directed and clear-eyed, and the goal, regime survival, is simply orthogonal to the army's stated
-purpose, the trade being made knowingly and in full view of its cost. And it is distinct from The
+purpose, the trade being made knowingly and in full view of its cost.
+It therefore joins that play on the axis `internal-advancement`, at the same sign and by the opposite
+temperament. The quantity in both is how much advancement weights devotion to the body over service to the
+mission, and the difference the paragraph above draws is the **engine**: there the weighting accumulates
+because nobody is watching it and the organisation still believes it is pursuing its purpose, and here it
+is set deliberately, by a ruler who can price the capability being given up and pays it anyway. And it is distinct from The
 Brittle Optimum, where slack is trimmed for efficiency until nothing absorbs a shock: there every trim
 is a true saving and the loss of resilience is a by-product nobody sought, whereas here nothing is
 removed for economy, capability is removed **for control**, and the one removing it can name exactly
