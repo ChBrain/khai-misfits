@@ -2,6 +2,8 @@
 concept: "The Curse of Knowledge (the expert-novice gap)"
 field: "Measurement, cognition, and inquiry"
 source: "Camerer, Loewenstein & Weber (JPE, 1989); Newton; Pinker"
+axis: prior-related-knowledge
+sign: negative # how well an explanation lands with a novice as the explainer's prior related knowledge rises
 updated: "2026-07-03"
 ---
 
@@ -35,6 +37,15 @@ knowing itself hides the gap it must cross. And it is distinct from the house's 
 organisation's communication structure is stamped onto the system it builds: there the shaping force is the shape
 of the org, here it is a cognitive asymmetry within a single explainer, the knowledge that overwrites the
 ignorance it would need to reach, no org chart required.
+
+It runs against the house's **You Have to Know It to Learn It**, on the same axis and with the opposite sign.
+There an organisation short of prior related knowledge cannot evaluate what it buys, and the remedy is to
+accumulate the very thing that here makes an expert unable to picture not knowing.
+
+**What sets the sign on this axis is what the knowledge is being asked to do**, which that warrant states.
+Where the task is to receive, prior knowledge is the receiver and its absence is the harm. Where the task is
+to be exceeded, or in this play to be set aside long enough to model somebody without it, the same knowledge
+is what blocks, and its presence is the harm.
 
 ## Origin
 
