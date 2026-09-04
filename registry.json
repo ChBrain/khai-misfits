@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.338.0",
+  "version": "0.339.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -63342,6 +63342,235 @@
           "kind": "process",
           "title": "Pressing",
           "taxonomy": "play_the_unmarked_edge.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_vote_takes_four_minutes",
+      "title": "The Vote Takes Four Minutes",
+      "description": "The rule makes the meeting visible, so the deciding moves where the rule does not reach and the watcher sees a ceremony.",
+      "members": [
+        {
+          "file": "persona_the_briefing.md",
+          "kind": "persona",
+          "title": "The Briefing",
+          "type": "archetype",
+          "taxonomy": "position_assembly.md"
+        },
+        {
+          "file": "persona_the_minute.md",
+          "kind": "persona",
+          "title": "The Minute",
+          "type": "archetype",
+          "taxonomy": "position_record.md"
+        },
+        {
+          "file": "persona_the_one_in_the_gallery.md",
+          "kind": "persona",
+          "title": "The One in the Gallery",
+          "type": "archetype",
+          "taxonomy": "position_gallery.md"
+        },
+        {
+          "file": "persona_the_one_who_must_vote.md",
+          "kind": "persona",
+          "title": "The One Who Must Vote",
+          "type": "archetype",
+          "taxonomy": "position_assembly.md"
+        },
+        {
+          "file": "persona_the_reader_a_year_later.md",
+          "kind": "persona",
+          "title": "The Reader a Year Later",
+          "type": "archetype",
+          "taxonomy": "position_constituency.md"
+        },
+        {
+          "file": "persona_the_rule.md",
+          "kind": "persona",
+          "title": "The Rule",
+          "type": "archetype",
+          "taxonomy": "position_requirement.md"
+        },
+        {
+          "file": "piece_a_full_session_is_not_a_false_one.md",
+          "kind": "piece",
+          "title": "A Full Session Is Not a False One",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "piece_dissent_fell_when_the_transcripts_came.md",
+          "kind": "piece",
+          "title": "Dissent Fell When the Transcripts Came",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "piece_the_deliberation_moved.md",
+          "kind": "piece",
+          "title": "The Deliberation Moved",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "piece_the_record_is_the_cost.md",
+          "kind": "piece",
+          "title": "The Record Is the Cost",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "piece_the_watcher_cannot_tell.md",
+          "kind": "piece",
+          "title": "The Watcher Cannot Tell",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "pitch_nothing_was_decided_in_the_room.md",
+          "kind": "pitch",
+          "title": "Nothing Was Decided in the Room",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "place_the_chamber.md",
+          "kind": "place",
+          "title": "The Chamber",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "place_the_corridor.md",
+          "kind": "place",
+          "title": "The Corridor",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "place_the_livestream.md",
+          "kind": "place",
+          "title": "The Livestream",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "plan_close_the_gap_in_the_rule.md",
+          "kind": "plan",
+          "title": "Close the Gap in the Rule",
+          "taxonomy": "position_requirement.md"
+        },
+        {
+          "file": "plan_hold_it_in_the_open.md",
+          "kind": "plan",
+          "title": "Hold It in the Open",
+          "taxonomy": "position_requirement.md"
+        },
+        {
+          "file": "plan_keep_the_session_short.md",
+          "kind": "plan",
+          "title": "Keep the Session Short",
+          "taxonomy": "position_assembly.md"
+        },
+        {
+          "file": "plan_know_where_they_stand_first.md",
+          "kind": "plan",
+          "title": "Know Where They Stand First",
+          "taxonomy": "position_assembly.md"
+        },
+        {
+          "file": "plan_watch_them_decide.md",
+          "kind": "plan",
+          "title": "Watch Them Decide",
+          "taxonomy": "position_gallery.md"
+        },
+        {
+          "file": "play_the_vote_takes_four_minutes.md",
+          "kind": "play",
+          "title": "The Vote Takes Four Minutes"
+        },
+        {
+          "file": "plot_closing_the_gap.md",
+          "kind": "plot",
+          "title": "Closing the Gap",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "plot_four_minutes_and_a_vote.md",
+          "kind": "plot",
+          "title": "Four Minutes and a Vote",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "plot_the_briefing_before.md",
+          "kind": "plot",
+          "title": "The Briefing Before",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "plot_the_doors_are_opened.md",
+          "kind": "plot",
+          "title": "The Doors Are Opened",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "plot_what_the_gallery_takes_it_for.md",
+          "kind": "plot",
+          "title": "What the Gallery Takes It For",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "position_assembly.md",
+          "kind": "position",
+          "title": "Assembly",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "position_constituency.md",
+          "kind": "position",
+          "title": "Constituency",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "position_gallery.md",
+          "kind": "position",
+          "title": "Gallery",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "position_record.md",
+          "kind": "position",
+          "title": "Record",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "position_requirement.md",
+          "kind": "position",
+          "title": "Requirement",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "process_attributing.md",
+          "kind": "process",
+          "title": "Attributing",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "process_opening_the_doors.md",
+          "kind": "process",
+          "title": "Opening the Doors",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "process_ratifying.md",
+          "kind": "process",
+          "title": "Ratifying",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "process_relocating.md",
+          "kind": "process",
+          "title": "Relocating",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
+        },
+        {
+          "file": "process_watching.md",
+          "kind": "process",
+          "title": "Watching",
+          "taxonomy": "play_the_vote_takes_four_minutes.md"
         }
       ]
     },

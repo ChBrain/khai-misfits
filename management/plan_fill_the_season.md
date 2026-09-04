@@ -9950,7 +9950,7 @@ everyday practice, and the later empirical work on notice volumes, verified by s
       note that the switch-off against The Good Move looks clean, since there a solver stops searching and
       here there is no search at all, only a race the recall response wins on speed.
 
-- [ ] [P2] **The sunshine law that empties the room.** Deliberation is required to happen in public so
+- [x] [P2] **The sunshine law that empties the room.** Deliberation is required to happen in public so
       citizens can watch it, so the deliberation moves to corridors and pre-meetings and the public session
       becomes a ratification. The dedup owed is against **You Would Have to Tell**, where a duty to disclose
       suppresses the telling: the argument for a separate play is that nothing here is suppressed, it is
@@ -10565,3 +10565,49 @@ own words and settles the question before any reading.
       make an explicit claim about another play and left the ones where the phrase sits inside an Origin
       row or a general remark. The yield there will be lower and the reading is cheaper still, so it is a
       P3 rather than a refusal.
+
+**The hundred and seventh pass authors the sunshine law, and the dedup it was slated with turned out to be
+the second of two rather than the whole of it.**
+
+**The Vote Takes Four Minutes is the three hundred and thirty-ninth misfit**, thirty-seven files, joining
+`blame-attachment` as its third member. A statute defines a meeting by a quorum and a matter within the
+remit, requires that occasion to be public, and is obeyed completely, so the exchange of reasons moves to
+the briefing and the call and the public session becomes the place where what was settled is put on the
+record. **A duty of publicity attaches to an occasion and not to a decision**, so it can move the decision
+without touching the occasion.
+
+**The slated dedup held and was the easier one.** Against **You Would Have to Tell**, where a duty to
+report deters the telling: there the thing wanted is **suppressed** and no version of it exists anywhere,
+and here nothing is suppressed at all, the deliberation happens in full and candidly and is simply held
+where the rule does not reach. The difference is a thing not said against a thing said elsewhere, and only
+the second leaves the watcher a complete and misleading record.
+
+**The one the slate did not carry was harder and nearly sank the play.** **Not While You Are Watching**,
+the observer's paradox, sits close enough to be a duplicate: a target specified by the absence of an
+observer, reached only by observing. Two stipulations separate them and both were needed. **Stipulate that
+observation produces no self-monitoring at all**, members perfectly natural in front of a camera, and this
+survives intact, because a member who is entirely unselfconscious still will not commit to a position in a
+durable record before knowing where the others stand. **Stipulate that nothing said carries any consequence
+for anybody's standing**, and this disappears while the observer's paradox is untouched. The quantity there
+is **attention**; here it is **answerability**, and the two come apart in both directions.
+
+**And that is why the axis is `blame-attachment` and not `observer-presence`**, which was the tempting
+name and would have put the play on the dial it switches off against. The axis renamed one pass ago now
+carries three members and three constructions: a clinician builds a **record** so that no fault can attach,
+a principal builds an **ignorance** so that no knowledge can, and a body builds a **venue** so that no
+stated position can. The venue is the mildest of the three and the only one that is also indispensable,
+since a body that may not confer arrives unprepared.
+
+**The pass's finding is about the resemblance and where it was caught.** The slate named one neighbour, the
+authoring found a second and closer one, and the second was found by asking what the play's dial actually
+was rather than by scanning for neighbours. **A candidate's nearest incumbent is often the play that shares
+its axis name, not the play that shares its subject.** You Would Have to Tell shares the subject, a duty
+about disclosure; Not While You Are Watching shares the shape and would have been the duplication. The
+instrument that caught it is the one the last three passes built: read the axis list for the quantity
+before writing, because the dial you would declare is where your duplicate lives.
+
+- [ ] [P2] Read the other plays that would sit on `observer-presence` if the name were taken loosely. The
+      dial is attention and the house has several plays about being seen, none of which is on it. That is
+      either correct, which the singleton rule would predict, or it is the same near-miss this pass made
+      and did not make. The reading is cheap and the answer is worth having before the next play about
+      being watched is authored.
