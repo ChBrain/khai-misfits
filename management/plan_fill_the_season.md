@@ -9919,7 +9919,7 @@ selector.** Bufferbloat is **Too Kind to Drop**, and a search for the word found
 warrant happens to use it. **A concept list checks names and the house files by mechanism**, so the probe
 must be run on the mechanism as well as on the term, and a miss on the term is not an absence.
 
-- [ ] [P1] **Notice-and-takedown over-removal.** A host faces liability for leaving infringing material up
+- [x] [P1] **Notice-and-takedown over-removal.** A host faces liability for leaving infringing material up
       and none for removing lawful material, so it removes on any complaint that arrives in the right
       form. Nobody is at fault: the statute was written to protect rightsholders and it does, the host is
       responding correctly to the liability it actually carries, the complainant is often sincere, and the
@@ -10255,3 +10255,70 @@ pull request **stale rather than wrong**, still green against a base nobody has 
 and it is the one that turns into somebody else's conflict later. The remedy for it is the same reading,
 and the fix is to bring the branch onto the current trunk rather than to open a third pull request beside
 the two already standing.
+
+**The hundred and first pass authors the takedown play, and the scan it now runs found an opposition the
+slate did not know was there.**
+
+**Nobody Sues for Taking It Down is the three hundred and thirty-eighth misfit**, thirty-six files. A host
+can lose the protection its whole activity depends on by leaving infringing material up, and is immunised
+in terms for removing lawful material in good faith, so the two errors available to it are not comparable
+and the answer to any notice arriving in the right form is to act on it. The form is the whole of the test.
+The party who pays was never in the exchange.
+
+**The scan is the pass's first piece of evidence that the new rule pays.** `science probe` reads zero, so
+the play owed nothing before it was written. `science surname` on each new scholar returned four clear and
+one taken: `Schofield`, declared last week against Norman of the social-choice work, with the takedown
+study's Brianna now named in her own cell. **That is a declaration paying off in the pass it was made for**,
+which is what the declaration-first arm is supposed to look like and what the last three passes did not get
+to see.
+
+**Then the finding, which came out of the axis scan and not out of the slate.** The house already holds
+`removal-asymmetry`, declared by **Who Took It Out** at a negative sign: procedures accrete because a
+removal is the attributed act and a non-removal leaves no record, so nobody signs for taking a control out.
+The takedown play is the **same dial at the opposite end**. A removal there is the protected act and a
+non-removal is the exposed one, so everything complained of comes down. The two now name each other, the
+opposition wall reads 185 units declaring an axis and 0 opposed pairs unnamed, and `removal-asymmetry` has
+its second member and its first opposition.
+
+**What sets the sign is where the cost of the cheap error lands, and that is the sentence worth keeping.**
+In Who Took It Out the decider bears both errors and only one of them can be pinned on them, so the
+attributable direction is avoided and what accumulates is their own unnecessary procedure. In the takedown
+play the cheap error's cost falls entirely outside the transaction, on a speaker who is neither the decider
+nor the complainant, so the cheap direction is taken freely and what accumulates is other people's lawful
+material. **Same asymmetry, opposite occupant of the loss, opposite behaviour.**
+
+**And this is the empty end of an occupied dial, filled, which the eighty-eighth pass's selector asks for
+and the ninety-first pass's caution nearly ruled out.** The two tests it set are both met here. The dial is
+harmful at both ends **with different engines**: attribution and records at one end, an enacted statutory
+immunity at the other. And the occupied end does **not** already carry the other as a vector: Who Took It
+Out's No Hero is entirely about relocating a signature, and nothing in it concerns a third party's lawful
+material coming down. The selector's failure mode last time was a candidate that the incumbent already
+contained; the test that caught that one is the test that cleared this one.
+
+**A note on how the opposition was found, because it was not found by looking for it.** The scan that
+preceded the authoring listed the house's axes to pick a name for a new one, and `removal-asymmetry` was
+already in the list. **The axis list is a duplication check and the pass had been treating it as a
+namespace.** Reading it as a namespace asks whether a name is taken; reading it as a check asks whether the
+quantity is already measured somewhere, and the second question is the one that finds an opposition. It
+costs nothing extra, because the list is the same list.
+
+- [ ] [P2] Read the other singleton axes for the same fault. The ninety-first pass concluded that most
+      singleton axes have one harmful end only, and that conclusion was reached by reading the axes rather
+      than by reading the candidates that might occupy their empty ends. `witness-similarity` was already
+      filed with the same doubt last week. The instrument is the two tests above, and the pass that runs it
+      should count candidates read rather than ends declared.
+
+**One gate fired during the authoring and it is worth recording, because the fix was a rewrite and not a
+declaration.** Three Origin rows named a statute in the **Source** column, and the science build refuses a
+Source that names no scholar: the index drops the row and the citation with it. The gate offers two exits,
+declaring the string in `scholarPolicy.nonAuthorSources` or moving the work to where the work goes. **The
+second exit is the right one here and it is also the cheaper one**, because a declaration is governance and
+the play is misfit, so taking it would have split this pass across two lanes for a formatting fault. The
+rows now read "The statute that prices the two errors", "The way the material comes back" and "The
+provision that answers a bad notice", with the section numbers in Key Work where they belong.
+
+**The rule is that a non-person Source is a wording choice before it is a policy question.** The existing
+allowance already admits any Source opening with an article or a question word, which is how the house's
+narrative rows pass, so a row that fires this gate is usually a row that put the citation in the wrong
+column rather than one that needs a new exception. Reach for `nonAuthorSources` only when the Source is a
+genuine category that no rewording turns into a phrase, and remember that reaching for it changes the lane.
