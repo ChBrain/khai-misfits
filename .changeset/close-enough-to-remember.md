@@ -1,0 +1,9 @@
+---
+"@chbrain/khai-misfits": minor
+---
+
+Add the misfit **Close Enough to Remember**: a host builds a memory against the first strain it meets and answers anything resembling it out of that memory, in days rather than weeks, which is the whole value of having one and is the right answer nearly every time. When the strain has drifted, recall fires on resemblance anyway, the recalled antibody binds the parts that did not change, and the same binding lowers the antigen reaching the naive lineages that would have answered the parts that did. The response that would have worked is not merely unbuilt, it is starved of the material it needed, so the old answer suppresses the new one by consuming what the new one fed on.
+
+**It ships undeclared, and the reason is the finding.** The harm sits in the middle of its dial and both ends are safe: at zero antigenic distance the memory is exactly right, at large distance nothing cross-reacts and a fresh response is raised and correct, and the suboptimal answer appears only at intermediate relatedness. A dial harmless at zero and harmless at the far edge has no direction to name, which is the mirror of the rule that a one-dial-two-bad-ends structure takes no sign.
+
+Distinct from The Good Move, where a solver who has an adequate method stops looking: stipulate an immune system told to keep looking and there is nothing to tell, since no search is running and the naive cells are not declining to respond but are not receiving antigen. Distinct from Second Nature, where the quantity is the knower's own prior knowledge and the harm is a misjudgement of somebody else, while here the quantity is a property of the pair of pathogens and nothing is being judged. Distinct from Bred for the Ark, where a population is genuinely optimised for the wrong environment, while here nothing is optimised for anything and the memory remains correct for the strain that made it.

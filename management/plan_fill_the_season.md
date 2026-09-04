@@ -9941,7 +9941,7 @@ everyday practice, and the later empirical work on notice volumes, verified by s
       the 2016 report is the largest account of the practice and the play is about practice. **Take the
       governance pass.**
 
-- [ ] [P2] **Original antigenic sin**, slated with a caution about a dial rather than about a play. The
+- [x] [P2] **Original antigenic sin**, slated with a caution about a dial rather than about a play. The
       first exposure to a pathogen fixes the template, and a later drifted strain is answered by recall
       against the original rather than by building a new response, because recall is faster and is usually
       right. The caution: this may be a fourth member of `prior-related-knowledge`, negative, beside The
@@ -10785,8 +10785,43 @@ were on disk and split the work across two lanes and two pull requests.
 reading and the widening is governance; the play is misfit and is next. Writing it now would have produced
 exactly the split the rule exists to prevent, one pass after the rule was carried into the plan.
 
-- [ ] [P1] Author **original antigenic sin** once this widening is in the trunk. It ships **undeclared**,
+- [x] [P1] Author **original antigenic sin** once this widening is in the trunk. It ships **undeclared**,
       the dial being antigenic distance with the harm at intermediate values, and its switch-off against The
       Good Move is the competition for antigen rather than the abandoned search. The spine is Francis's
       coinage, Fazekas de St Groth and Webster's demonstration, Smith, Forrest, Ackley and Perelson on the
       antigenic distance hypothesis, and the epitope-masking account of why recall outruns a naive response.
+
+**The hundred and twelfth pass authors the antigenic sin play, and it is the first in the house that
+declares nothing on purpose.**
+
+**Close Enough to Remember is the three hundred and fortieth misfit**, thirty-six files, and it carries **no
+axis**. Everything the pass before it settled held on the writing: the quantity is antigenic distance, the
+harm sits at intermediate values, and both ends of the dial are safe. **A dial harmless at zero and
+harmless at the far edge has no direction to name**, so the play records the shape and takes no sign,
+which is the mirror of the rule for a dial harmful at both ends.
+
+**The mechanism sharpened once more in the staging.** The slate said the play was a race the recall wins on
+speed. The settling pass added that the naive lineage is starved rather than merely slow. Writing it added
+the last turn: **the two routes draw on the same consumable, and an antibody that binds without reducing
+availability is not a different setting of the process, it is not an antibody.** So the suppression cannot
+be tuned out, and the plot that would remove it removes the antibody response.
+
+**The widening paid off in the pass it was made for.** `Smith` admitted Derek last week and the Origin row
+resolves on first use, with the walls reading 88 declared surnames and 0 unresolved. That is the second
+declaration in three weeks to land in front of its citation rather than behind it, and both were found by
+running `science surname` on each new scholar **before** writing anything.
+
+**One thing the play cost that is worth recording: the settlement paragraph is the hardest in the house so
+far.** Four remedies are real, several are being pursued, and the reading that would dissolve the misfit
+entirely, that imprinting is on balance protective, is **largely correct**. The play survives it because
+the thing that would have to be given up is the speed, and the speed is doing the most good. A No Hero
+paragraph that has to concede its own literature's main finding and still stand is a different exercise
+from one that lists four remedies and their costs, and the house should expect more of them as it moves
+into fields where the phenomenon is contested rather than settled.
+
+- [ ] [P2] Read the house for other plays whose harm sits in the middle of a declared dial. This pass
+      established the rule for a harm-in-the-middle shape and applied it to one play. Any play that
+      declared a sign on a dial whose other extreme is also safe has declared something it should not
+      have, and the reading is the two-ended stipulation run at both extremes rather than at one. Report
+      dials read against signs withdrawn, and expect most to survive, since a sign is usually declared
+      because one end really is worse.

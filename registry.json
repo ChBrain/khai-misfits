@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.339.0",
+  "version": "0.340.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -8136,6 +8136,228 @@
           "kind": "process",
           "title": "Straightening",
           "taxonomy": "play_clear_from_here.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "close_enough_to_remember",
+      "title": "Close Enough to Remember",
+      "description": "It resembles the first one enough to be answered from memory, and the answer that arrives is the wrong one.",
+      "members": [
+        {
+          "file": "persona_the_host.md",
+          "kind": "persona",
+          "title": "The Host",
+          "type": "archetype",
+          "taxonomy": "position_protection.md"
+        },
+        {
+          "file": "persona_the_middle_of_the_range.md",
+          "kind": "persona",
+          "title": "The Middle of the Range",
+          "type": "archetype",
+          "taxonomy": "position_distance.md"
+        },
+        {
+          "file": "persona_the_one_that_answered_first.md",
+          "kind": "persona",
+          "title": "The One That Answered First",
+          "type": "archetype",
+          "taxonomy": "position_memory.md"
+        },
+        {
+          "file": "persona_the_one_that_was_never_called.md",
+          "kind": "persona",
+          "title": "The One That Was Never Called",
+          "type": "archetype",
+          "taxonomy": "position_recruitment.md"
+        },
+        {
+          "file": "persona_the_strain_that_drifted.md",
+          "kind": "persona",
+          "title": "The Strain That Drifted",
+          "type": "archetype",
+          "taxonomy": "position_encounter.md"
+        },
+        {
+          "file": "piece_harm_in_the_middle.md",
+          "kind": "piece",
+          "title": "Harm in the Middle",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "piece_nearly_always_right.md",
+          "kind": "piece",
+          "title": "Nearly Always Right",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "piece_nobody_chose_the_first_one.md",
+          "kind": "piece",
+          "title": "Nobody Chose the First One",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "piece_the_antibody_hides_the_target.md",
+          "kind": "piece",
+          "title": "The Antibody Hides the Target",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "piece_the_recall_is_faster.md",
+          "kind": "piece",
+          "title": "The Recall Is Faster",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "pitch_it_recognised_something.md",
+          "kind": "pitch",
+          "title": "It Recognised Something",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "place_the_bloodstream.md",
+          "kind": "place",
+          "title": "The Bloodstream",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "place_the_clinic.md",
+          "kind": "place",
+          "title": "The Clinic",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "place_the_lymph_node.md",
+          "kind": "place",
+          "title": "The Lymph Node",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "plan_answer_it_with_what_works.md",
+          "kind": "plan",
+          "title": "Answer It With What Works",
+          "taxonomy": "position_memory.md"
+        },
+        {
+          "file": "plan_get_into_a_host_that_has_met_one_before.md",
+          "kind": "plan",
+          "title": "Get Into a Host That Has Met One Before",
+          "taxonomy": "position_encounter.md"
+        },
+        {
+          "file": "plan_land_in_the_middle_of_the_range.md",
+          "kind": "plan",
+          "title": "Land in the Middle of the Range",
+          "taxonomy": "position_distance.md"
+        },
+        {
+          "file": "plan_prime_them_on_something_else.md",
+          "kind": "plan",
+          "title": "Prime Them on Something Else",
+          "taxonomy": "position_protection.md"
+        },
+        {
+          "file": "plan_raise_a_response_to_what_is_actually_there.md",
+          "kind": "plan",
+          "title": "Raise a Response to What Is Actually There",
+          "taxonomy": "position_recruitment.md"
+        },
+        {
+          "file": "play_close_enough_to_remember.md",
+          "kind": "play",
+          "title": "Close Enough to Remember"
+        },
+        {
+          "file": "plot_counting_the_season.md",
+          "kind": "plot",
+          "title": "Counting the Season",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "plot_priming_them_on_something_else.md",
+          "kind": "plot",
+          "title": "Priming Them on Something Else",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "plot_the_lineage_nobody_calls.md",
+          "kind": "plot",
+          "title": "The Lineage Nobody Calls",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "plot_the_strain_comes_back_changed.md",
+          "kind": "plot",
+          "title": "The Strain Comes Back Changed",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "plot_what_the_blood_already_has.md",
+          "kind": "plot",
+          "title": "What the Blood Already Has",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "position_distance.md",
+          "kind": "position",
+          "title": "Distance",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "position_encounter.md",
+          "kind": "position",
+          "title": "Encounter",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "position_memory.md",
+          "kind": "position",
+          "title": "Memory",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "position_protection.md",
+          "kind": "position",
+          "title": "Protection",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "position_recruitment.md",
+          "kind": "position",
+          "title": "Recruitment",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "process_calling_up_the_naive.md",
+          "kind": "process",
+          "title": "Calling Up the Naive",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "process_counting.md",
+          "kind": "process",
+          "title": "Counting",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "process_masking.md",
+          "kind": "process",
+          "title": "Masking",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "process_meeting.md",
+          "kind": "process",
+          "title": "Meeting",
+          "taxonomy": "play_close_enough_to_remember.md"
+        },
+        {
+          "file": "process_recalling.md",
+          "kind": "process",
+          "title": "Recalling",
+          "taxonomy": "play_close_enough_to_remember.md"
         }
       ]
     },
