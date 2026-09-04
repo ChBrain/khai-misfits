@@ -9821,7 +9821,7 @@ lies**. That is the family's quantity stated by a member that had not declared, 
 form of confirmation available: not the absence of an objection but the presence of the claim, written by
 somebody who was arguing for a distinction and named the shared dial to make it.
 
-- [ ] [P2] Widen the axis coverage, 181 of 336 declared. The rule stands and the reporting should change
+- [x] [P2] Widen the axis coverage, 181 of 336 declared. The rule stands and the reporting should change
       with it: **count the candidates read, not the declarations made**, since a pass that reads twenty and
       declares six has done the same work as one that declares twelve and has half of them wrong.
 
@@ -9860,3 +9860,49 @@ task.
 selector is written down. That is the whole intent, and it is written as a target rather than a claim
 because it is not finished: the plan holds what has been learned up to here, and the next thing learned
 will arrive in this log first, as it should.
+
+**The ninety-third pass ran the empty-end selector a second time, which its own new plan asks for, and the
+run is worth reporting for what it refused as much as for what it found.** The plan's first target is that
+every selector be run at least twice so its yield is measured rather than estimated. This is that run.
+
+**Test B refused two candidates on one paragraph each, which is what it was written for.** `blame-for-deviation`
+has an obvious empty end, a rule nobody is held to, and The Paper Trail's No Hero already says the cure
+**cannot strip the defensive file without risking the genuine safeguard hidden in it**. `entitlement-universality`
+has an obvious empty end, a benefit targeted rather than universal, and Nobody Was Left Out's No Hero already
+says that **targeting it at the poorest schools stops it being an entitlement, and the districts left out have
+a case that is not obviously worse**. Both refusals cost one paragraph and arrived before any research. The
+test is cheap in exactly the way the plan claimed and it is the difference between this run and the one that
+slated the silent patch.
+
+**A third candidate passed Test B and failed Test A**, which is the other failure mode and is worth having an
+instance of. `licence-permissiveness` is held by Given to Everyone, whose No Hero is about relicensing and
+forking and carries nothing about the restrictive end, so the empty end is available. But the play that would
+occupy it, Nobody to Ask, runs on **formality-free copyright** and an unlocatable rightsholder, which is a
+different dial that happens to sit nearby. **Two harms adjacent in a subject are not two ends of one
+quantity**, and the temptation to treat them as such is what Test A is for.
+
+**And the fourth found an opposition among plays the house already holds, which is the best outcome this
+selector has.** `prior-related-knowledge` was a positive singleton, Absorptive Capacity: an organisation
+without prior related knowledge cannot use what it buys, because there is nothing for the new thing to land
+on. Its No Hero is entirely about how hard that capacity is to acquire and carries nothing about having too
+much, so the empty end was genuinely empty. **Two staged plays were sitting in it.** The Good Move, where a
+first answer that works stops the search and the better one in plain sight is never found, and Second Nature,
+where knowing a thing so well you cannot picture not knowing it puts the explanation over the novice's head.
+Both are harms of **having** the quantity the incumbent is short of.
+
+**The discriminator is the cleanest of the four this file now holds, because it is about the task rather than
+about the parties.** Where the knowledge is being asked to **receive** something from outside, evaluating a
+licence or judging a report, it is the receiver and its absence is the harm. Where it is being asked to be
+**exceeded**, finding a better solution or modelling somebody without it, the same knowledge forecloses and its
+presence is the harm. Same dial, opposite sign, and nothing about who holds it enters the rule.
+
+**The measured yield of two runs, which is what the plan wanted.** Run one read all 113 singletons and produced
+one candidate that was later refused and one opposition found sideways. Run two examined four and produced two
+refusals, one Test A failure and one opposition covering two plays. **The selector's product is oppositions
+among staged plays rather than candidates for new ones**, and the plan should say so: it is a declaring
+instrument that occasionally scouts, not a scouting instrument that occasionally declares.
+
+- [ ] [P2] Widen the axis coverage, 183 of 336 declared. And amend
+      [Find the Next One](plan_find_the_next_one.md) to record what two runs have shown: the empty-end
+      selector is a **declaring** instrument first, so run it against the undeclared list rather than against
+      the world.

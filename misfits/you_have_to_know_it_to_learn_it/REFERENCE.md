@@ -3,7 +3,7 @@ concept: "Absorptive Capacity (prior related knowledge as the precondition for u
 field: "Organisations, hierarchy, and management"
 source: "Wesley M Cohen & Daniel Levinthal, Administrative Science Quarterly (1990)"
 axis: prior-related-knowledge
-sign: positive
+sign: positive # how much outside knowledge an organisation can use as its own prior related knowledge rises
 updated: "2026-08-21"
 ---
 
@@ -72,6 +72,18 @@ exploiting, and the difficulty is that the search returns things it cannot read.
 It is distinct from the house's **The Curse of Knowledge**, where an expert cannot model what a novice does not
 know and communicates past them. Nothing here turns on how the supplier explains: the documentation is accurate
 and is understood sentence by sentence, and what is missing is not in the explanation and could not be added to it.
+
+It runs against two of the house's plays on this axis, **The Good Move** and **Second Nature**, on the same
+quantity and with the opposite sign. There the solver whose first answer works stops searching and never sees
+the better one in plain sight, and the expert who cannot picture not knowing explains over the heads of the
+people who do not. Both are harms of **having** the prior knowledge this play is short of.
+
+**What sets the sign on this axis is what the knowledge is being asked to do.** Where the task is to take
+something in from outside, evaluating a licence, absorbing a partner's research, judging a consultant's
+report, prior knowledge is the receiver and its absence is the harm: there is nothing for the new thing to
+land on. Where the task is to get **past** what is already held, finding a better solution or picturing not
+knowing, the same knowledge is what forecloses, and its presence is the harm. Same dial, opposite sign, and
+the discriminator is whether the knowledge is being used to receive or to be exceeded.
 
 ## Origin
 

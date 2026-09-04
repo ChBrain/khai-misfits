@@ -2,6 +2,8 @@
 concept: "The Einstellung Effect (mental set; mechanization in problem-solving)"
 field: "Measurement, cognition, and inquiry"
 source: 'Luchins, "Mechanization in Problem Solving: The Effect of Einstellung" (Psych. Monographs, 1942)'
+axis: prior-related-knowledge
+sign: negative # how likely a better solution is to be found as the solver's prior related knowledge rises
 updated: "2026-07-21"
 ---
 
@@ -38,6 +40,16 @@ strike, while here the problem is seen correctly and a correct solution is found
 to the same, unaltered problem, blocked from view by the first. The one trap bends the definition of the problem to a
 tool; the other leaves the problem intact and closes the search for a better answer to it, a redefinition of the case
 against a foreclosure of the search.
+
+It runs against the house's **You Have to Know It to Learn It**, on the same axis and with the opposite sign.
+There an organisation without prior related knowledge cannot use what it buys from outside, because there is
+nothing for the new thing to land on, and the answer is to have more of exactly the quantity that traps the
+solver here.
+
+**What sets the sign on this axis is what the knowledge is being asked to do**, which that warrant states.
+Where the task is to receive something from outside, prior knowledge is the receiver and its absence is the
+harm. Where the task is to get past what is already held, which is this play, the same knowledge forecloses
+the search and its presence is the harm.
 
 ## Origin
 
