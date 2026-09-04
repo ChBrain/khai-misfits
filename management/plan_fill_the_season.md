@@ -9906,3 +9906,64 @@ instrument that occasionally scouts, not a scouting instrument that occasionally
       [Find the Next One](plan_find_the_next_one.md) to record what two runs have shown: the empty-end
       selector is a **declaring** instrument first, so run it against the undeclared list rather than against
       the world.
+
+**The ninety-fourth pass ran the concept list a second time, and the second run needed a different list,
+which is the first thing to record about the selector.** The first run read a general vocabulary of named
+structural traps and returned four candidates, all of which reached the stage. Running the same vocabulary
+again would mostly rediscover the house, so this run drew from **law and regulation, immunology,
+engineering and the politics of transparency**, where the house is thinner. Fourteen concepts were checked
+and four survived.
+
+**One was staged under a name the probe would never have matched, which is the standing hazard of this
+selector.** Bufferbloat is **Too Kind to Drop**, and a search for the word found it only because the
+warrant happens to use it. **A concept list checks names and the house files by mechanism**, so the probe
+must be run on the mechanism as well as on the term, and a miss on the term is not an absence.
+
+- [ ] [P1] **Notice-and-takedown over-removal.** A host faces liability for leaving infringing material up
+      and none for removing lawful material, so it removes on any complaint that arrives in the right
+      form. Nobody is at fault: the statute was written to protect rightsholders and it does, the host is
+      responding correctly to the liability it actually carries, the complainant is often sincere, and the
+      speaker whose lawful work came down was never a party to any of it.
+
+**The engine is an asymmetry of error costs borne by somebody outside the transaction, and no staged play
+holds it.** The nearest neighbours are all about a different thing: **And Then Who Makes Them** is the cost
+of enforcement to the enforcer, **Nobody to Ask** is an owner who cannot be found, and **The Judgment-Proof
+Problem** is a defendant who cannot pay. Here the decision-maker is fully solvent, fully able and entirely
+rational, and the whole difficulty is that **one kind of mistake is free to it and the other is not**. The
+spine is Urban and Quilter's study of section 512 notices, the large follow-up on notice and takedown in
+everyday practice, and the later empirical work on notice volumes, verified by search.
+
+- [ ] [P2] Declare `Schofield` in `scholarPolicy.homonyms` **before** that play is authored, if the 2016
+      report is cited. The house holds Norman Schofield of the social-choice work in Whoever Asks Last, in
+      a **named** cell, and the takedown study's is Brianna. Undeclared with a named incumbent is the
+      declaration-first arm, so this is a governance pass and it goes first. The alternative is to cite only
+      the 2006 study and the later volume work and avoid the surname, which is cheaper and weaker, since
+      the 2016 report is the largest account of the practice and the play is about practice. **Take the
+      governance pass.**
+
+- [ ] [P2] **Original antigenic sin**, slated with a caution about a dial rather than about a play. The
+      first exposure to a pathogen fixes the template, and a later drifted strain is answered by recall
+      against the original rather than by building a new response, because recall is faster and is usually
+      right. The caution: this may be a fourth member of `prior-related-knowledge`, negative, beside The
+      Good Move and Second Nature, in which case the question is whether an immune memory is the same
+      quantity as a person's prior knowledge or a metaphor for it. **Settle that before authoring**, and
+      note that the switch-off against The Good Move looks clean, since there a solver stops searching and
+      here there is no search at all, only a race the recall response wins on speed.
+
+- [ ] [P2] **The sunshine law that empties the room.** Deliberation is required to happen in public so
+      citizens can watch it, so the deliberation moves to corridors and pre-meetings and the public session
+      becomes a ratification. The dedup owed is against **You Would Have to Tell**, where a duty to disclose
+      suppresses the telling: the argument for a separate play is that nothing here is suppressed, it is
+      **relocated**, and the observer is left watching a ceremony rather than watching nothing.
+
+- [ ] [P3] **The safe harbour that becomes the ceiling.** A rule offers certainty to whoever does exactly
+      X, so everybody does exactly X and nothing beyond it, and the floor the regulator wrote is the roof
+      the field builds to. The caution is that it may be a row on **The Letter of the Law**: the argument
+      for separation is that nobody games anything here and the conduct is exactly what was asked for, but
+      that argument is thin and should be tested before it is trusted.
+
+**And the run measured the selector, which is what the plan asks of every one of them.** Two runs, twenty
+or so concepts each, four candidates each, and the difference between them is the list rather than the
+method. **The concept list is a reliable producer of candidates and its cost is entirely in sourcing a
+fresh list**, so the instruction to carry forward is to record which vocabulary a run drew from, or the
+third run will read the first one's again.
