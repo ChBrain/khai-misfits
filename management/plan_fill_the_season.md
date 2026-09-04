@@ -10466,8 +10466,54 @@ them is the same one in both places: **stipulate the axis quantity away and see 
 Take every credential out of the Dead Sea Effect and it runs unchanged; take the population's convergence
 out of Too Sure to Be True and it runs unchanged. A join that survives that stipulation is not a join.
 
-- [ ] [P2] Run this direction again on the rest of the shortlist. This pass verified four of about a dozen
+- [x] [P2] Run this direction again on the rest of the shortlist. This pass verified four of about a dozen
       lines that looked worth reading and stopped there rather than thinning the verification. The unread
       ones include the fiscal and organisational clusters, where the concept lines are closest to the axis
       names and the false positives will therefore be densest. Count the concept lines read and the
       warrants opened separately, because they are different costs.
+
+**The hundred and fifth pass runs the joiner from the plays again, opens six warrants and declares five
+plays, and the counts are kept apart because they are different costs.**
+
+**A hundred and fifty concept lines re-read, six warrants opened, five plays declared, two joins refused.**
+The wall reads 193 units declaring an axis and 0 opposed pairs unnamed. Reading a concept line is seconds
+and reading a warrant is minutes, which is why the slate asked for the two counts separately: the selector's
+real cost is the second number, and a shortlist that is wrong is expensive in a way a long list is not.
+
+**The Proxy joins `merit-legibility` at the opposite end from The One Everybody Used, and that is the
+pass's find.** There merit becomes **cheaply and reliably legible**: one animal is provably the best on a
+measured index, every independent chooser makes the same choice, and a generation's contribution collapses
+to a handful of ancestors. Here merit is **not legible** at the level that matters, so an agent prices an
+individual by the average of the group they belong to, and the rating comes true because the person rated
+low earns a discounted return on any signal they could send. **What sets the sign is what a decision falls
+back on when it cannot read the individual, and what it converges on when it can.** Neither end fails
+safely, and neither failure is anybody's prejudice.
+
+**Three quieter joins.** The Bullwhip Effect joins `response-lag`, beside Chasing the Price and More Mouths
+Than Meat, at the same sign and by a longer arm: the same delay repeated at every link, with each link's
+cover for it becoming the next link's observed demand. The Weather We Make joins `simultaneous-deleveraging`
+beside Debt-Deflation, where the simultaneity comes from a **common obligation** and here from a **common
+measure**, so the coordination needs no shared exposure at all, only a shared instrument for looking at
+exposure. And The File Drawer and The Survivors declare **`outcome-selection`** together, a new axis their
+own warrants had already named as one statistical family without giving it a dial.
+
+**That last one is the pass's second finding, and it is about where to look.** The two plays already said,
+in prose, that they belong to one family, **selection on an outcome**. Nobody had turned that sentence into
+an axis. So a distinctness paragraph that says two plays share a family is a **declared axis waiting to be
+written down**, and the phrase to search for is not the axis vocabulary but the warrants' own words for
+kinship: "one family", "the same shape", "the workforce cousin of". Those are the house telling itself
+where its dials are.
+
+**Two refusals, and the first is the more useful.** The Case It Destroys against `response-lag`: stipulating
+the lag away **does** remove the harm, and the join is still wrong, because the play's bite is the demand
+that the missing capacity suppresses and then reads back as proof, not the delay. **The stipulation test is
+necessary and not sufficient.** A play joins the dial its mechanism turns on, and a dial whose removal
+happens to take the harm with it can be a precondition rather than the quantity. The second refusal is The
+File Drawer and The Survivors against `appraisal-selectivity`, where the quantity is what a present's
+questions keep for a future rather than how a sample was filtered on its own outcome.
+
+- [ ] [P2] Search the warrants for their own kinship phrases and turn each into an axis question. The
+      distinctness paragraphs say "one family", "the same shape", "the cousin of" and similar in prose, and
+      at least one of those was a dial nobody had declared. The instrument is a grep over the Line of Work
+      chapters rather than a reading of concepts, so it is cheap, and the pass that runs it should report
+      how many phrases it found against how many became axes.

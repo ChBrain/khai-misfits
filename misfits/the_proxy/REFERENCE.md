@@ -1,8 +1,10 @@
 ---
 concept: "Statistical Discrimination (self-fulfilling group proxy)"
 field: "Markets, money, and economic equilibria"
+axis: merit-legibility
+sign: positive # how far an individual is judged on their own qualities, as those qualities become cheaper to observe directly
 source: 'Phelps, "The Statistical Theory of Racism and Sexism" (AER, 1972); Arrow (1973)'
-updated: "2026-07-20"
+updated: "2026-09-04"
 ---
 
 # The Proxy: Reference
@@ -40,6 +42,18 @@ in the manner of Becker, where an employer with a distaste for a group forgoes p
 is animus and the discriminator pays for it, here there is no distaste and no forgone profit, only an agent pricing
 by the best cheap signal it has, so the discrimination is authored by no prejudice and costs the discriminator
 nothing, which is why it holds.
+
+It runs against the house's **The One Everybody Used**, on the axis `merit-legibility` and at the opposite
+end, and the two are the same dial read from its two harmful sides. There merit becomes **cheaply and
+reliably legible**, one animal is provably the best on a measured index, everybody breeds to it, and a
+generation's contribution collapses to a handful of ancestors. Here merit is **not legible at all** at the
+level that matters, the agent cannot see the individual, so it prices by the group average and the rating
+comes true because the person rated low earns a discounted return on any signal they could send. **What
+sets the sign is what a decision falls back on when it cannot read the individual, and what it converges on
+when it can.** Legibility does not fail safely at either end: read merit perfectly and every chooser makes
+the same choice, so the variety the population needed is spent; read it not at all and the choice is made
+by a group prior that then makes itself true. The two failures are a collapse of variation and a
+self-confirming average, and neither is anybody's prejudice.
 
 ## Origin
 

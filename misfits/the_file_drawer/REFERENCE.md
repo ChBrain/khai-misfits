@@ -1,8 +1,10 @@
 ---
 concept: "Publication Bias (the file-drawer problem)"
 field: "Measurement, cognition, and inquiry"
+axis: outcome-selection
+sign: negative # how far a sample can speak for the population it is read about, as membership in it depends more on the outcome being studied
 source: 'Sterling (JASA, 1959); Rosenthal, "The File Drawer Problem" (1979)'
-updated: "2026-08-28"
+updated: "2026-09-04"
 ---
 
 # The File Drawer: Reference

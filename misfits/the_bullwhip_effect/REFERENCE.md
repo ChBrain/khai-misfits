@@ -1,8 +1,10 @@
 ---
 concept: "The Bullwhip Effect (demand amplification)"
 field: "Safety, risk, and complex systems"
+axis: response-lag
+sign: negative # how close supply stays to demand as the delay between committing and delivering lengthens
 source: "Forrester (HBR, 1958); Lee, Padmanabhan & Whang"
-updated: "2026-07-03"
+updated: "2026-09-04"
 ---
 
 # The Bullwhip Effect: Reference
@@ -30,6 +32,15 @@ Metric Fixation, where a proxy is gamed until it stops tracking the goal: here n
 order placed on an honest but distorted signal simply swells as it climbs. And it is distinct from the house's
 The Bounce, where a single extreme reading is mistaken for a durable effect and reverts: there one noisy
 measurement is misread, where here a real signal is amplified through a chain of prudent buffers and delays.
+
+It joins the house's **Chasing the Price** and **More Mouths Than Meat** on the axis `response-lag`, at the
+same sign and by a longer arm. There a single market or a single population commits before it can see the
+result and overshoots, because a control acting through a delay cannot stop at the right level. Here the
+same delay is repeated at every link of a chain, and each link's cover for it becomes the next link's
+observed demand, so the overshoot is compounded stage by stage rather than damped. **Stipulate the lag
+away**, instantaneous replenishment with no pipeline to refill, and the amplification goes with it, which
+is the test that puts this on the dial rather than beside it. What the chain adds to the dial is that the
+error is not only made again at each stage but is read by the next stage as information.
 
 ## Origin
 

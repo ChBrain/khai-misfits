@@ -1,8 +1,10 @@
 ---
 concept: "Survivorship Bias"
 field: "Safety, risk, and complex systems"
+axis: outcome-selection
+sign: negative # how far a sample can speak for the population it is read about, as membership in it depends more on the outcome being studied
 source: "Bacon, _Novum Organum_ (1620); Wald"
-updated: "2026-08-28"
+updated: "2026-09-04"
 ---
 
 # The Survivors: Reference
@@ -30,6 +32,14 @@ record, so science reads surer than it is: there the filter is a decision somebo
 to submit and what to publish, whereas here nobody decides anything and no record is withheld, the
 missing cases are simply absent because they did not come back, so the evidence is complete about
 the wrong population.
+
+The two therefore share the axis `outcome-selection` at the same sign, which is the family the paragraph
+above already names: a sample whose membership depends on the outcome it is read to learn cannot speak for
+the population it is read about, however well each retained case was measured. **The dial is the same and
+the removal is not.** There a gatekeeper decides, on a result, and could in principle decide otherwise;
+here a hazard decides, on survival, and nobody could have decided anything. That is why the corrections
+differ, a registry against a reconstruction of the missing, and why the two remain separate plays on one
+quantity.
 
 ## Origin
 
