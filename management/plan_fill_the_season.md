@@ -10419,7 +10419,55 @@ already in the house** sits at a declared dial's empty end. Same list, different
 question is the one that pays, because the house holds a hundred and fifty-two undeclared plays and the
 axis list is a hundred and thirty-one names long.
 
-- [ ] [P2] Read the undeclared list against the declared axes rather than the axis list against itself.
+- [x] [P2] Read the undeclared list against the declared axes rather than the axis list against itself.
       This pass worked from the axes and found one member in eight reads. The house holds 152 undeclared
       plays against 186 declared and 131 axis names, so the cheaper direction is to take each undeclared play and ask which declared
       dial it measures, which is the sixth selector run at scale. Count the candidates read.
+
+**The hundred and fourth pass runs the joiner in the cheaper direction, reads a hundred and fifty-two
+concept lines, verifies four and declares two.**
+
+**The direction was the whole change and it paid.** The pass before this one worked **axes to plays**,
+taking each singleton dial and asking what sits at its far end: eight reads, one declaration. This one
+works **plays to axes**, taking every undeclared play's `concept:` line and asking which declared dial it
+measures. A hundred and fifty-two concept lines are one screen of reading, the shortlist came out at four,
+and two survived the warrants. **The asymmetry is arithmetic**: the house holds 152 undeclared plays
+against 131 axis names, and an undeclared play carries its mechanism in one line while an axis carries only
+a quantity, so the play end of the search is both larger and better labelled.
+
+**The Frozen Middle joins `hierarchy-depth`**, beside Five or a Layer, at the same sign and by a different
+engine. There the arithmetic is the whole of it: supervision can only be bought with layers and a layer is
+a device for delivering less, whichever way the trade is taken. Here the layer is **measured on something**,
+continuity, while charged with something else, change, so it damps the large signal and passes the small one
+for a reason of its own rather than as an arithmetic remainder. The quantity is the same and the two plays
+say what it costs at two levels of description.
+
+**The High-Water Mark joins `removal-asymmetry`**, which now carries **three plays and one opposition**, and
+the three are the more interesting result. Who Took It Out builds the asymmetry out of **records**: an
+addition accrues unattributed and a removal enters the file with a name and a date against it. Nobody Sues
+for Taking It Down builds it out of **statute**, and runs the other way, which is why it holds the opposite
+end. The High-Water Mark builds it out of **who is counted**: a concentrated benefit is defended by people
+who will appear and a diffuse cost is borne by people who will not notice, so granting is cheap and cutting
+is dear with nobody attributed at all. **One dial, three constructions, and the third needs neither a
+signature nor a safe harbour.**
+
+**Two refusals, both on the reading and both instructive.** The Dead Sea Effect against
+`credential-recognisability`: the two plays agree that the good ones leave first, and the dials are not the
+same, because the Dead Sea runs on a **mobility gap** between skill with options and skill without and would
+run identically with no certification anywhere, while Good Enough to Leave runs on the **recognition** that
+makes a particular certificate an export licence. Too Sure to Be True against `criterion-convergence`: both
+names say convergence and the quantities differ, since Everybody Passed measures a **population attribute
+converging out of a choice** and Too Sure to Be True measures **agreement among independent observations of
+one case**, and the harms are a lost discrimination and a wrong verdict.
+
+**The rule the pass adds is that a shared word is the commonest false positive in this search.** Both
+refusals came from a name that sounded like the dial: "leaving" and "convergence". The test that settled
+them is the same one in both places: **stipulate the axis quantity away and see whether the play survives.**
+Take every credential out of the Dead Sea Effect and it runs unchanged; take the population's convergence
+out of Too Sure to Be True and it runs unchanged. A join that survives that stipulation is not a join.
+
+- [ ] [P2] Run this direction again on the rest of the shortlist. This pass verified four of about a dozen
+      lines that looked worth reading and stopped there rather than thinning the verification. The unread
+      ones include the fiscal and organisational clusters, where the concept lines are closest to the axis
+      names and the false positives will therefore be densest. Count the concept lines read and the
+      warrants opened separately, because they are different costs.

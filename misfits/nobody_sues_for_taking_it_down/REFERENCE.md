@@ -63,6 +63,16 @@ transaction**, on a speaker who is neither the decider nor the complainant, so t
 freely and what accumulates is other people's lawful material. Same asymmetry, opposite occupant of the
 loss, opposite behaviour.
 
+It runs against the house's **The High-Water Mark** in the same way and for the same reason. There a
+crisis lifts a spending floor and the floor does not come back down, because the benefit is concentrated
+in people who will appear and defend it while the cost is spread over people who will not notice, so
+granting is cheap and cutting is dear. **The discriminator is unchanged**: there the party who would bear
+the cheap error is also the party who decides, and the expensive direction is the one that touches
+somebody who can object, so what accumulates is a commitment nobody will end. Here the cheap error is
+cheap to the decider and expensive to a party with no standing in the decision at all, so nothing objects
+and what accumulates is other people's removed material. The cost of the cheap error lands inside the
+transaction in that play and outside it in this one, which is the whole of the sign.
+
 It is distinct from the house's **And Then Who Makes Them**, which stages second-order free-riding, where
 enforcing a rule costs the enforcer and nobody wants the job: there the difficulty is that the enforcement
 is **undersupplied**, and stipulating an enforcer who is fully willing removes the harm. Stipulate that
