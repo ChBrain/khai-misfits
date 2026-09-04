@@ -1,8 +1,10 @@
 ---
 concept: "Apology and Litigation (what the harmed want to hear; what counsel must forbid)"
 field: "Groups, candour, and face"
+axis: blame-attachment
+sign: negative # how much of a party's conduct is aimed at the outcome rather than at its own answerability, as blame attaches more readily to whoever can be shown to have known or decided
 source: 'Vincent, Young & Phillips, "Why do people sue doctors?" (Lancet, 1994)'
-updated: "2026-08-09"
+updated: "2026-09-04"
 ---
 
 # Sorry Is Evidence: Reference
@@ -60,6 +62,15 @@ It is distinct from the house's **Plausible Deniability**, where a principal wan
 it and arranges not to know, so blame cannot reach them: there ignorance is manufactured deliberately to
 defeat responsibility. Here nobody arranges not to know. The knowledge is complete, held by people who want
 to share it, and what is withheld is its transmission rather than its acquisition.
+
+That cut is on the engine and not on the quantity, so the two share the axis `blame-attachment`, and this
+play is its fourth member. **The dial in all four is how readily answerability attaches to whoever can be
+shown to have known, decided or said**, and what differs is what a party builds against it. A clinician
+builds a record so no fault can attach. A principal builds an ignorance so no knowledge can. A body builds
+a venue so no stated position can. **Here nothing is built at all**, which is what makes this the mildest
+and the hardest of the four: the knowledge is complete, the speaker is willing, the hearer is waiting, and
+counsel's advice is correct, so the only thing standing between them is that saying it would make it
+admissible.
 
 It is distinct from the house's **The Frozen Middle**, where a bold change is softened on the way down and
 the hard truth smoothed on the way up: there the message degrades as it passes through layers, each of them

@@ -10685,8 +10685,65 @@ this one read candidates chosen by resemblance and refused most of them. This on
 prior, because a house that makes its authors distinguish a new play from its nearest incumbent has been
 generating axis arguments as a by-product for three hundred and thirty-nine plays.
 
-- [ ] [P1] Work the 118-row shortlist down. This pass read six rows of it. The script that produces the list
+- [x] [P1] Work the 118-row shortlist down. This pass read six rows of it. The script that produces the list
       is four lines and belongs in the plan rather than in this entry, and the rows that name **two or more**
       declared neighbours should go first, since a play with two arguments already written is the cheapest
       possible read. Report rows read against declarations made, and expect the rate to fall as the obvious
       ones are spent.
+
+**The hundred and tenth pass works the shortlist and finds its own ordering rule was backwards.**
+
+**Ten rows read, one declared, eight refused, one held.** The rate fell from four in six to one in ten,
+which the slate predicted, and it fell for a reason the slate got exactly wrong.
+
+**Sorry Is Evidence joins `blame-attachment` as its fourth member.** Its cut against Plausible Deniability
+is on the engine: there ignorance is manufactured to defeat responsibility, and here nobody arranges not to
+know, the knowledge is complete, the speaker is willing, and **what is withheld is its transmission rather
+than its acquisition.** The dial in all four members is how readily answerability attaches to whoever can be
+shown to have known, decided or said, and what differs is what a party builds against it: a record, an
+ignorance, a venue, and here **nothing at all**, which makes this the mildest and hardest of the four,
+since the only thing standing between a willing speaker and a waiting hearer is that saying it would make
+it admissible.
+
+**The ordering rule was backwards and this is the pass's finding.** The last pass slated the rows naming
+**two or more** declared neighbours first, reasoning that a play with two arguments already written is a
+play with the work done. The opposite is true, and the paragraphs say why: **a play with four distinctness
+paragraphs is a play whose author found four different quantities.** Repeated neighbouring is evidence of
+**separation** rather than of kinship. The Balloon Effect, Over a Barrel, Already Explained and Sold to Find
+the Price each name three or four declared plays and each cut is on the quantity every time, because an
+author who had to place a play against four incumbents had to find four things it was not. So the shortlist
+should be worked from the rows naming **exactly one** declared neighbour, where the author reached for one
+comparison and stopped.
+
+**Four refusals worth naming, because each is a quantity separation stated by the warrant itself.** The Long
+Calm against The New Normal: "there nothing objective need change, only what is perceived as acceptable,
+here the balance sheets objectively become more leveraged." The Identified Patient against The Paper Trail:
+"there the trouble is diffused across everyone until it is no one's fault, here it is concentrated onto one
+until it is only theirs." Missing from the Count against The File Drawer: "there the omission is invisible
+and its size unknown", where here the number is published and the failure is that everybody knows. Safe to
+Say against Information Cascade: "there the public actions are honest and the failure is one of inference,
+whereas here the public stance is a deliberate lie."
+
+**One row held rather than settled, and it is the only genuinely close call in the ten.** **Over a Barrel**
+says of Good Money After Bad that "the two run opposite ways from the same sunk cost", which reads as one
+dial with two ends and would be an opposition on `sunk-cost`. Against it: the incumbent's quantity is what
+has already been spent, and this play's is **asset specificity**, with nothing sunk at all at the moment of
+the decision it turns on, since the harm is the anticipation of sinking. **A candidate that needs an
+argument settled before it can be declared is slated and not taken.**
+
+- [ ] [P2] Settle Over a Barrel against `sunk-cost`. The warrant claims one dial and the reading suggests
+      two, and the deciding question is whether the quantity is what has been spent or how little else the
+      asset could be used for. Run the stipulation: fix the amount already sunk at zero and ask whether the
+      hold-up survives, then fix asset specificity at zero and ask the same. If both survive it is not one
+      dial.
+
+- [ ] [P2] Re-run the shortlist ordered by rows naming **exactly one** declared neighbour. This pass
+      established that the count runs the wrong way, and the single-neighbour rows are untested. Report rows
+      read against declarations made, so the two orderings can be compared on measured yield rather than on
+      the argument above.
+
+- [ ] [P3] Read Safe to Say against `blame-attachment` rather than against Information Cascade. The
+      shortlist row pointed at the cascade and failed there. The fresh hypothesis is that a preference
+      falsified to escape a sanction is a fifth construction on the same dial, alongside the record, the
+      ignorance, the venue and the unsaid apology. It is a reading this pass did not do and should not be
+      credited with.
