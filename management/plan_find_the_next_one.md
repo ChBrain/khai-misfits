@@ -68,6 +68,24 @@ paragraph and whatever it calls its lever** before slating anything. Most
 singletons have one harmful end only and will stay singletons however long the
 ratchet runs, which is a property of the dials and not a coverage failure.
 
+**It is a declaring instrument before it is a scouting one**, which is worth
+saying plainly because the name suggests otherwise. Its output is usually an axis
+declaration on a play the house already holds, and only sometimes a candidate to
+write.
+
+**And it has a second mode that costs nothing, which is where its best result
+came from.** The sweep above is deliberate: pick a singleton, ask about its far
+end. The second mode is **passive and runs during authoring**. Before declaring a
+new axis, the house lists the axes it already has to pick a free name, and that
+list answers a different and better question if it is asked one. **The axis list
+is a duplication check, not a namespace.** Read as a namespace it asks whether a
+name is taken; read as a check it asks whether the quantity is already measured
+somewhere, under a name the new play would never have guessed. The second question
+is what found `removal-asymmetry` occupied at one end by a play about procedure
+accretion and empty at the other, where a play about takedown over-removal
+belongs. Both of the two tests above were what cleared it: different engines at
+the two ends, and an incumbent whose No Hero paragraph did not already contain it.
+
 **6. The joiner, by the dial.** Read the undeclared list for plays that would sit
 on an axis the house already has. It declares rather than scouts, and it has found
 pairs no warrant made, because two plays can share a quantity from different
@@ -104,6 +122,33 @@ line: for a clear surname that is one line and for a taken one it hides the coun
 and the declaration state. **A slate line must carry the shape of the namesake
 obligation and not the fact of one**, because the arm of the ordering table is the
 whole instruction and "not clear" is worth nothing to whoever discharges it.
+
+**And the scan has instruments, which three passes rediscovered the hard way.**
+`science probe` reads the **whole house's namesake bill in one line**: every
+undeclared surname whose own cells already name more than one person. That is the
+list of obligations. Its second and much longer list, the surnames mixing a named
+cell with a bare one, is a **readiness report and not a debt**: it says what a
+declaration would cost, and almost every entry is one person cited twice, which is
+what collation is for. `science opposed` reads the axis oppositions and whether
+they name each other. `science surname <X>` reads one surname.
+
+**None of those reports the failure that actually stops a pass**, which is a
+**declared** surname cited without a matching declared form. Only the suite does.
+So the order is: `science probe` for what the house owes, `science surname` for
+what the new play adds, and **the suite before deciding what the play owes at
+all**, because a taken surname owes nothing and a declared one owes something
+immediately, and which applies is a property of the config rather than of the
+index.
+
+**A non-person Origin `Source` is a wording fault before it is a policy
+question.** The science build refuses a Source column that names no scholar, and
+offers two exits: declare the string in `scholarPolicy.nonAuthorSources`, or move
+the work into Key Work where the work goes. **Take the second.** The existing
+allowance already admits any Source opening with an article or a question word,
+which is how the house's narrative rows pass, so a row that fires this gate is
+usually one that put a citation in the wrong column. And the first exit **changes
+the lane**: a declaration is governance and the play is misfit, so reaching for it
+splits an authoring pass across two pull requests for a formatting fault.
 
 **A prohibition is not a task.** A slate line that nothing can complete is an
 instruction and belongs in prose, or every refill pass reads it and decides again

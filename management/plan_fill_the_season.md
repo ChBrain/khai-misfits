@@ -10322,3 +10322,40 @@ allowance already admits any Source opening with an article or a question word, 
 narrative rows pass, so a row that fires this gate is usually a row that put the citation in the wrong
 column rather than one that needs a new exception. Reach for `nonAuthorSources` only when the Source is a
 genuine category that no rewording turns into a phrase, and remember that reaching for it changes the lane.
+
+**The hundred and second pass moves method out of the register, which is the thing the register has now
+concluded four times and never done.**
+
+**Nothing new was found this pass and that is the point.** [Find the Next One](plan_find_the_next_one.md)
+gains the instruments for a scan it already ordered, and [Name It Once](plan_name_it_once.md) gains the two
+patterns that have actually broken its first rule. Every line added was already written somewhere above in
+this file. The work was moving it.
+
+**What went into Find the Next One.** The surname order now names its tools: `science probe` for the
+house's whole namesake bill, its second list marked as a **readiness report and not a debt**, `science
+opposed` for the axis oppositions, `science surname` for one name, and **the suite as the only thing that
+reports a declared surname cited without a matching form**, which is the failure that actually stopped two
+passes. The empty-end selector gains its second mode, that **the axis list is a duplication check and not a
+namespace**, which is where its best result came from and costs nothing because the list is consulted
+anyway. And the Origin `Source` rule lands with the reason that matters, which is that the other exit
+changes the lane.
+
+**What went into Name It Once.** Two patterns, both of which look like good naming at the time. A **plot
+named for the piece that cues it**, because the piece states the fact and the plot stages where it lands,
+so one phrase fits both. A **position and a process on the same word**, because a position is named for
+what it decides and a process for what it does, and where those are the same noun the names converge with
+neither being wrong. The canon catches both. What they cost is a rename late in an authoring pass across
+every file that links the renamed one.
+
+**The finding is about this register and not about any of that.** This file is over a megabyte, it is
+append-only by design, and **a rule written here is found again only by somebody who already remembers it**.
+Three passes running rediscovered an instrument the house ships. The register is the right place to record
+what a pass learned and the **wrong place to keep what the next pass must do**, and the difference between
+those two is the whole of what a plan file is for. So the standing rule: **a pass that ends with a rule
+worth keeping has not finished until the rule is in the plan that governs the work it constrains**, and
+"recorded in the register" is not that.
+
+- [ ] [P2] Read the rest of this register for rules that never reached a plan. Four have moved today and
+      the four were the ones a recent pass happened to remember. The instrument is a reading rather than a
+      search, since a rule does not announce itself as one, and the pass that runs it should count the
+      entries read rather than the rules moved.
