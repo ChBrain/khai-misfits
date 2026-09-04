@@ -3,8 +3,8 @@ concept: "The Universal Entitlement Squeeze (a funded claim raised everywhere at
 field: "Markets, money, and economic equilibria"
 source: "California's class size reduction programme (1996); Jepsen & Rivkin on the trade it made"
 axis: entitlement-universality
-sign: negative
-updated: "2026-08-23"
+sign: negative # how far an entitlement reaches the people it is for, as it is raised on the same terms for everybody rather than gated on eligibility
+updated: "2026-09-04"
 ---
 
 # Nobody Was Left Out: Reference
@@ -102,6 +102,16 @@ so that a lead widens by accumulation. Remove that engine, by stipulating no adv
 fresh, and this stands, because it is **one clearing event and not an accumulation**: the gradient appears within three
 years out of a market that cleared once each hiring season, and nothing in it needs a previous round's outcome to feed
 the next.
+
+It runs against the house's **Too Much to Ask**, on this axis and at the opposite end, and the two are the
+same dial read from its two harmful sides. There the entitlement is gated, and each gate is a defensible
+step guarding against a real fraud, error or misallocation, so the claiming cost accumulates and screens
+the eligible by their capacity to bear it. Here the entitlement is raised for everybody on the same terms,
+which is the form chosen because the alternative is a written list of who waits, and it lands on a stock
+that cannot grow inside the window. **What sets the sign is what the entitlement is rationed by.** A
+universal claim is rationed by the supply of the thing it buys and goes to whoever can attract that supply;
+a gated claim is rationed by the cost of proving eligibility and goes to whoever can bear that cost.
+Neither allocation is the need the scheme was written for, and each is the settlement the other refuses.
 
 ## Origin
 
