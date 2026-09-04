@@ -1,8 +1,10 @@
 ---
 concept: "The Displacement Effect (the fiscal ratchet; Peacock-Wiseman)"
 field: "Markets, money, and economic equilibria"
+axis: removal-asymmetry
+sign: negative # how readily a commitment is undone when the reason for it has gone, as removing it costs more than leaving it standing
 source: "Peacock & Wiseman, _The Growth of Public Expenditure in the United Kingdom_ (1961)"
-updated: "2026-07-21"
+updated: "2026-09-04"
 ---
 
 # The High-Water Mark: Reference
@@ -42,6 +44,16 @@ distinct too from The New Normal, where a shifting baseline recalibrates what re
 perception of an unchanged-in-kind level: here the floor is a real budgetary commitment that structurally holds, nothing
 misperceived and the money genuinely still spent, a level that stays because it is defended, not because it has come to
 look ordinary.
+
+It joins the house's **Who Took It Out** and **Nobody Sues for Taking It Down** on the axis
+`removal-asymmetry`, at Who Took It Out's sign and by a third engine. There the asymmetry is made of
+**records**: an addition accrues unattributed and a removal enters the file with a name and a date against
+it, so the direction that can be pinned on somebody is the one nobody takes. In Nobody Sues for Taking It
+Down it is made of **statute**, and it runs the other way, which is why that play sits at the opposite end.
+Here it is made of **who is counted**: the benefit of a commitment is concentrated in people who will
+appear and defend it, and its cost is spread over people who will not notice it, so granting is cheap and
+cutting is dear without anybody having to be attributed at all. One dial, three ways of building the same
+asymmetry, and the third needs neither a signature nor a safe harbour.
 
 ## Origin
 

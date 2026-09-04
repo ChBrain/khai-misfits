@@ -1,8 +1,10 @@
 ---
 concept: "The Frozen Middle (middle-management distortion)"
 field: "Organisations, hierarchy, and management"
+axis: hierarchy-depth
+sign: negative # how much of a signal sent from one end of an organisation survives to the other, as the layers between them multiply
 source: 'Huy, "In Praise of Middle Managers" (HBR, 2001)'
-updated: "2026-07-06"
+updated: "2026-09-04"
 ---
 
 # The Frozen Middle: Reference
@@ -33,6 +35,15 @@ flesh never reaches a seat that can act, because every rung is paid to move on: 
 distorted is a status travelling upward and the incentive is one rung's own standing, whereas here
 the distortion runs both ways at once, a change softened on the way down and a hard truth smoothed
 on the way up, by people doing what the layer asks of them.
+
+It joins the house's **Five or a Layer** on the axis `hierarchy-depth`, at the same sign and by a
+different engine, which is what an axis is for. There the arithmetic is the whole of it: supervision can
+only be bought with layers, a layer is a device for delivering less, and attention and fidelity are spent
+against each other whichever way the trade is taken. Here the layer is not merely lossy by construction but
+**measured on something**, continuity, while being charged with something else, change, so it damps the
+large signal and passes the small one for a reason of its own rather than as an arithmetic remainder. The
+quantity is the same, the number of rungs between the sender and the receiver, and the two plays say what
+it costs at two different levels of description.
 
 ## Origin
 
