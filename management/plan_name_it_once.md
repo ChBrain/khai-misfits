@@ -35,6 +35,22 @@ concept shown twice: they are two elements a reader cannot tell apart in any
 sentence that does not carry a link. Repetition inside one kind is a different
 matter and is not what this forbids.
 
+**Two patterns have broken it, and both are worth naming because neither looks
+like carelessness at the time.** The first is a **plot named for the piece that
+cues it**: the piece states the fact and the plot stages the scene where the fact
+lands, so the same phrase is the natural title for both. Name a plot for **what
+happens in it**, never for the piece it turns on. The second is a **position and a
+process on the same word**: a position is named for what it decides and a process
+for what it does, so where a structure's decision and its activity are the same
+noun the two names converge without either being wrong. Name the process for the
+activity in full, long enough to be a different phrase, and leave the seat holding
+the short word.
+
+The canon catches both, so nothing ships broken. What they cost is a rename late
+in an authoring pass, across the play file and every element that links the one
+being renamed, which is why they are written down here rather than left to the
+gate.
+
 **The file is filed, not named.** A registry entry carries two fields, `id` and
 `title`, and only the `id` is ever sorted: `buildItems` reads the directory
 names, orders them by `localeCompare`, and writes them out in that order, while
