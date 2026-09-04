@@ -10512,8 +10512,56 @@ happens to take the harm with it can be a precondition rather than the quantity.
 File Drawer and The Survivors against `appraisal-selectivity`, where the quantity is what a present's
 questions keep for a future rather than how a sample was filtered on its own outcome.
 
-- [ ] [P2] Search the warrants for their own kinship phrases and turn each into an axis question. The
+- [x] [P2] Search the warrants for their own kinship phrases and turn each into an axis question. The
       distinctness paragraphs say "one family", "the same shape", "the cousin of" and similar in prose, and
       at least one of those was a dial nobody had declared. The instrument is a grep over the Line of Work
       chapters rather than a reading of concepts, so it is cheap, and the pass that runs it should report
       how many phrases it found against how many became axes.
+
+**The hundred and sixth pass greps the warrants for their own kinship phrases, reads the six that name two
+plays, declares one, and finds the rule that decides the other five.**
+
+**The grep is cheap and the yield is one.** Searching the warrants for "one family", "the same shape",
+"cousin of", "sibling of", "same dial" and their neighbours returns about fifty hits, most of them Origin
+rows and internal prose. Six are a warrant claiming kinship with another play. One of those six was an
+axis; five were not.
+
+**Plausible Deniability joins The Paper Trail, and the axis is renamed `blame-attachment`.** The Paper
+Trail's own warrant already called them "the other face of blame-avoidance": there everyone engineers
+process so no fault can attach, here a principal engineers ignorance so no knowledge can. **The quantity is
+the same in both**, how readily blame attaches to whoever can be shown to have known or decided, and the
+two engines are what a party builds against it, a record in one and an ignorance in the other.
+`blame-for-deviation` was the right name while one play held it and is too narrow for a principal who never
+deviated from anything, so the dial takes the wider name its second member requires, which is the
+`added-headcount` to `added-capacity` move run a second time.
+
+**The rule is where to cut, and it is the pass's whole finding.** A kinship phrase lives inside a
+**distinctness paragraph**, whose entire job is to separate two plays, so the sentence after the phrase is
+always a separation. That is why the grep looks so promising and mostly is not. **The question is what the
+sentence separates.**
+
+- It separates the **engine**: the dial is shared and an axis is owed. "A gatekeeper decides on a result,
+  a hazard decides on survival." "Everyone builds a record, a principal builds an ignorance." Both sides
+  are answering the same quantity by different means.
+- It separates the **quantity**: there is no axis, however close the family reads. "A product along a
+  chain against a maximum over a set." "An accumulation in the medium against a ratio inside the product."
+  "A mastered tool reshaping the problem against a search steered by the cost of looking." The plays are
+  relatives and the dials are two.
+
+**Five of six separated the quantity**, which is the ordinary case and says something about how the house
+writes: a warrant reaches for a family word to place a play for the reader, and then immediately does the
+work of telling them apart, and the work it does is nearly always on the quantity because that is what a
+switch-off has to show.
+
+**Two of the refusals are worth their lines.** **An Angle and a Count** against **Exactly One Kilogram**
+claims to "invert" its neighbour, one standard that cannot be checked against one checked constantly and
+still wrong. That is a rhetorical inversion and not an axis one: stipulate the standard uncheckable in An
+Angle and a Count and the conflict between civil time and the Earth's rotation is still there, merely
+unseen, so checkability is not the quantity the harm runs on. And **The Law of the Instrument** says of
+**The Streetlight Effect** that it "turns on a different pivot", which is a quantity claim in the warrant's
+own words and settles the question before any reading.
+
+- [ ] [P3] Read the remaining kinship hits that name a play only in passing. This pass took the six that
+      make an explicit claim about another play and left the ones where the phrase sits inside an Origin
+      row or a general remark. The yield there will be lower and the reading is cheaper still, so it is a
+      P3 rather than a refusal.

@@ -2,9 +2,9 @@
 concept: "Defensive Medicine (goal displacement; blame culture)"
 field: "Groups, candour, and face"
 source: "Studdert et al. (JAMA, 2005); Merton"
-axis: blame-for-deviation
-sign: negative # how effort's flow toward the aim moves as blame for departing from procedure rises
-updated: "2026-07-06"
+axis: blame-attachment
+sign: negative # how much of a party's conduct is aimed at the outcome rather than at its own answerability, as blame attaches more readily to whoever can be shown to have known or decided
+updated: "2026-09-04"
 ---
 
 # The Paper Trail: Reference
@@ -33,6 +33,15 @@ is the sibling of the house's Plausible Deniability, the other face of blame-avo
 principal engineers ignorance so no knowledge can attach, here everyone engineers process so no fault
 can, and its cure runs straight into the house's Chesterton's Fence, since some of the defensive paper
 is a real safeguard that the stripping hand may tear out.
+
+That sibling is now the second play on this axis, and the pair is what renamed it. `blame-for-deviation`
+was the right name while one play held it, since defensive documentation answers a blame that attaches to
+departing from procedure. **Plausible Deniability answers the same quantity from a different direction**,
+blame attaching to whoever can be shown to have known or decided, so the dial is `blame-attachment` and it
+is the same one both plays are avoiding. The engines differ and that is what keeps them separate plays:
+here everyone builds a record so that no fault can attach, there a principal builds an ignorance so that no
+knowledge can, and both are what a party does when the safest place to stand is out of the blame's reach
+rather than at the aim.
 
 ## Origin
 
