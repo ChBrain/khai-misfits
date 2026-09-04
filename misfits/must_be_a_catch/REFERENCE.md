@@ -2,6 +2,8 @@
 concept: "Reactive Devaluation (an offer discounted by its source)"
 field: "Groups, candour, and face"
 source: "Ross (1988); Stillinger, Epelbaum, Keltner & Ross (1990)"
+axis: external-origin
+sign: negative # how far an offer is judged on its terms as its source lies further outside, or opposite, the group
 updated: "2026-07-30"
 ---
 

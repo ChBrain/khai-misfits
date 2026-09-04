@@ -2,6 +2,8 @@
 concept: "The Cobweb Theorem (cobweb cycle; lagged supply and price expectations)"
 field: "Markets, money, and economic equilibria"
 source: 'Ezekiel, "The Cobweb Theorem" (QJE, 1938); Kaldor'
+axis: response-lag
+sign: negative # how close supply stays to demand as the delay between committing and delivering lengthens
 updated: "2026-08-18"
 ---
 

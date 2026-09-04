@@ -9639,7 +9639,7 @@ open, it never closes, and the selector that has actually produced oppositions i
 eighty-first pass: **join an existing family from the whole undeclared list**, judged on the dial and not on
 the bibliography.
 
-- [ ] [P2] Widen the axis coverage, 174 of 335 declared. Select by **the dial**: read the undeclared list
+- [x] [P2] Widen the axis coverage, 174 of 335 declared. Select by **the dial**: read the undeclared list
       for plays that would sit on an axis the house already has, and expect roughly half of what a
       description proposes to be refused by the warrant. Misfit lane.
 
@@ -9791,3 +9791,36 @@ already a link on the line above and the two elements are different objects.
 became `Gary Becker`, so the five cells that carry him across the house now agree, and the day somebody
 declares `Becker` there is no shadowed form waiting. That took one substitution and would have taken a
 governance pass and an argument if it had been found at a wall.
+
+**The ninety-first pass ran the ratchet the way the slate now specifies, selecting by the dial, and the
+yield was six from six, which is worth explaining rather than celebrating.** The earlier joiner pass
+proposed candidates from one-line descriptions and had about half refused by the warrants. This one
+proposed fewer and read further before committing, so the refusals happened during selection instead of
+after it. **The hit rate is a property of where the reading is done and not of the method**, and a pass
+that reports six from six has not found a better selector, it has moved the same discarding earlier.
+
+**The six.** `veto-points` gains **The Anticommons**, whose own warrant calls it the exact mirror of The
+Commons and whose engine is parties able to refuse; `external-origin` gains **Must Be a Catch**;
+`group-size` gains **Not Worth My While**; `response-lag` gains **Chasing the Price**; and
+`noise-share-of-the-measure` gains both **Overfitting** and **Stopped for Benefit**, taking that family to
+five. Coverage moves from 175 to 181 of 336.
+
+**One of the six is a connection no warrant in the house had made, and it is the best argument for the
+mechanism this file has.** Reactive devaluation, in **Must Be a Catch**, discounts an offer purely by its
+source. Not-invented-here, in **Not Invented Here**, rejects a solution for lying outside the group. That
+is one dial. Neither warrant mentions the other, and Must Be a Catch says in terms that it is an
+"attribution-and-negotiation structure no staged misfit holds", which was written carefully and against
+three neighbours, none of them the right one. **The two plays sit in different literatures, one in
+negotiation and one in organisations**, so no amount of care inside either warrant would have found the
+other. The axis found it in a table.
+
+**And one of the six was confirmed by the incumbent rather than merely tolerated by it.** Stopped for
+Benefit's warrant already says that The Best on Paper and The Winning Bid **share the selection-on-noise
+mechanism with this play and differ in what surrounds it, which is where the whole of the difference
+lies**. That is the family's quantity stated by a member that had not declared, and it is the strongest
+form of confirmation available: not the absence of an objection but the presence of the claim, written by
+somebody who was arguing for a distinction and named the shared dial to make it.
+
+- [ ] [P2] Widen the axis coverage, 181 of 336 declared. The rule stands and the reporting should change
+      with it: **count the candidates read, not the declarations made**, since a pass that reads twenty and
+      declares six has done the same work as one that declares twelve and has half of them wrong.
