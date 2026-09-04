@@ -9933,7 +9933,7 @@ rational, and the whole difficulty is that **one kind of mistake is free to it a
 spine is Urban and Quilter's study of section 512 notices, the large follow-up on notice and takedown in
 everyday practice, and the later empirical work on notice volumes, verified by search.
 
-- [ ] [P2] Declare `Schofield` in `scholarPolicy.homonyms` **before** that play is authored, if the 2016
+- [x] [P2] Declare `Schofield` in `scholarPolicy.homonyms` **before** that play is authored, if the 2016
       report is cited. The house holds Norman Schofield of the social-choice work in Whoever Asks Last, in
       a **named** cell, and the takedown study's is Brianna. Undeclared with a named incumbent is the
       declaration-first arm, so this is a governance pass and it goes first. The alternative is to cite only
@@ -10046,7 +10046,49 @@ for a witness who resembles them. Against **Information Cascade**, where visible
 private information: stipulate that everybody weights their own signal fully, and it survives, because the
 private signal here is accurate and is **the only available evidence comes from people unlike me**.
 
-- [ ] [P2] Widen `Rogers` to a third form before that play is authored. The house declares Todd and Will;
+- [x] [P2] Widen `Rogers` to a third form before that play is authored. The house declares Todd and Will;
       Everett is the diffusion scholar and would be the third. A widening may land before its citation,
       which the eighty-fifth pass established and the eighty-fourth got wrong, so this can travel with the
       authoring pass or ahead of it, and it is governance either way.
+
+**The ninety-sixth pass clears the two declarations that stand in front of the two slated P1s, and
+corrects the record on a mistake this file has now made in a third form.**
+
+**`Rogers` is widened to `["Todd", "Will", "Everett"]` and `Schofield` is declared as `["Norman",
+"Brianna"]`.** Both plays on the slate needed one before they could be written, and both declarations are
+governance while both plays are misfit, so a pass that did not exist would have blocked two. The walls
+read 86 declared surnames, 0 shadowed forms, 0 unresolved occurrences, and the science index is rebuilt,
+which a declaration always requires and which reads like a config change until it fails the suite.
+
+**And the two are different obligations, which is why the slate carried the shape rather than the fact.**
+`Rogers` is a **widening**: the surname is already declared, so the wall would have fired the moment an
+Everett Rogers cell landed, and the eighty-fifth pass established that a widening may land before its
+citation because an unmatched form is invisible to every wall. `Schofield` is a **first declaration**
+against a named incumbent, Norman of the social-choice work, which is the declaration-first arm and could
+equally have waited. Recording which arm applied is what made this pass four lines instead of an
+investigation.
+
+**Now the correction, and it is the third form of a mistake this file has recorded twice.** Pull request
+750 arrived showing a conflict and it was not one. The mirror repair was branched from
+`governance/concept-list-again` rather than from `main`, because a second request arrived mid-turn and the
+work started from whichever branch was underfoot. So the mirror pull request **carried the concept-list
+commit with it**, that content merged as part of 751, and 750 was left proposing a change already in the
+trunk. Its diff against `main` was empty. Merging it would have duplicated a register entry; it was closed
+instead, and nothing was lost.
+
+**The two earlier forms were squash-merge duplicates, where a base pull request merged as a squash and the
+branch's copy of the same work became a stranger to it.** This one is the mirror image: not a copy left
+behind by the trunk moving, but **a commit carried forward by a branch that started in the wrong place**.
+Same symptom, opposite cause, and the same diagnosis both times, which is that **a conflict is sometimes a
+statement about the base rather than about the content**.
+
+**The rule is one line and it belongs beside the branch command.** `git checkout main && git pull` **before**
+`npx khai-guard branch`, every time. The guard computes the lane from the diff and reports it accurately;
+it has no way to tell you that the diff is being taken against the wrong base, so a wrong base passes every
+check and surfaces later as somebody else's conflict.
+
+**And the occasion is worth naming as well as the rule, because the rule alone would not have caught it.**
+The base was wrong because a **second request arrived inside a running turn** and was treated as a
+continuation of the work in hand rather than as a new unit. A new unit has its own base. That is the part
+to watch for: not a forgotten command, but a request that feels like a follow-up and is a new piece of
+work.

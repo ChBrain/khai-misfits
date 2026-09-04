@@ -1,0 +1,6 @@
+---
+---
+
+Widen `Rogers` to `["Todd", "Will", "Everett"]` and declare `Schofield` as `["Norman", "Brianna"]`, clearing the declarations that stand in front of both slated P1s. Both are governance while both plays are misfit, so this pass exists because the lane split makes it exist. Recording which arm of the ordering table applied is what made it four lines rather than an investigation: `Rogers` is a widening against an already-declared surname, and `Schofield` is a first declaration against a named incumbent.
+
+Also corrects the record on pull request 750, which showed a conflict that was not one. The mirror repair was branched from that branch rather than from `main`, because a second request arrived mid-turn and the work started from whichever branch was underfoot, so 751 carried the earlier commit and 750 was left proposing a change already in the trunk. It was closed rather than merged. This is the third form of a mistake the register has recorded twice as squash-merge duplicates, and the mirror image of them: a commit carried forward by a branch that started in the wrong place rather than one left behind by the trunk moving. The rule is to check out and pull `main` before running the branch command, and the occasion to watch for is a request arriving inside a running turn and being treated as a continuation rather than as a new unit. Ships nothing.
