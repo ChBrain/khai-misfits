@@ -9967,3 +9967,86 @@ or so concepts each, four candidates each, and the difference between them is th
 method. **The concept list is a reliable producer of candidates and its cost is entirely in sourcing a
 fresh list**, so the instruction to carry forward is to record which vocabulary a run drew from, or the
 third run will read the first one's again.
+
+**The ninety-fifth pass repaired a play on a reading from the maintainer, and the fault it found is one no
+gate in this house can see.** The Mirror stages Conway's Law in **one direction only**. Every element in
+its encoding runs communication structure to design structure: the org chart is "the real graph of who
+talks to whom that the system will come to copy", the reflection is "the system wearing the shape of the
+org that built it", and the reorg is the inverse manoeuvre, reshape the teams and get the architecture.
+**The return arrow is absent.** Nothing in the play holds the fact that once the architecture exists it
+constrains the communication that can happen next, so the API boundary is not only a record of the silence
+between two teams, it becomes the reason that silence continues, and the seam is then load-bearing in both
+structures at once.
+
+**The play's own text presupposes the missing vector, which is how a gap this size survives every wall.**
+The Reorg's Load Bearing opens **without it the seams are fixed wherever the org already put them, and the
+design is stuck**, a sentence that only makes sense if the artefact holds the boundary in place, and the
+play never says that anywhere. Every gate here is intra-misfit and structural: link integrity, title
+collisions, element counts, the canon. **None of them asks whether the encoding covers the mechanism**,
+because that is a reading and not a computation, and it took a reader.
+
+**And the warrant cites the source that documents the return direction, in a row that describes only one
+arm of it.** MacCormack, Rusnak and Baldwin's paper is called _Exploring the **Duality** between Product
+and Organizational Architectures_, and the Scope cell read "the mirroring hypothesis tested, products built
+by loosely coupled organisations are themselves more modular, and the faults track the org". A duality
+reported as a copy. The row is corrected, and **Baldwin and Clark's _Design Rules_** is added for the
+return arrow proper: an architecture that creates options and then bounds them, so the split decides which
+organisational arrangements remain available afterwards.
+
+**The repair is one piece, because one load-bearing vector is one element.** [Now It Is the
+Reason](../misfits/the_mirror/piece_now_it_is_the_reason.md) carries it: the boundary was drawn where two
+teams did not talk, and now they do not need to, because the contract is written, the queue is in place and
+the escalation path runs through the interface rather than through a person. **A record of a silence
+becomes the cause of it**, and after a release or two nobody can tell which it is. Its Apparent is the
+correction the play most needed: the architecture is not the passive half waiting to be fixed, it is the
+half with the **longer memory**, since reporting lines are redrawn in an afternoon and a module boundary
+sits in the build, the deploy, the on-call rota and three years of code written against it.
+
+**Which changes what the remedy is, and the No Hero now says so.** The reorganiser was moving a boundary
+onto an empty field. They are not: they are arguing with a contract, a queue, an on-call rota and every
+line written against the split, none of which reports to anybody.
+
+**And the literature for the missing arrow was already in the house, next door.** The Success Trap cites
+Henderson and Clark on architectural innovation, which is the canonical account of architectural knowledge
+becoming embedded in an organisation's communication channels and of what that costs an incumbent when the
+architecture changes. It is not cited here and must not be, since one work cannot carry two misfits'
+spines, but the fact is the finding: **the house held the evidence for the vector one directory away and
+the play still ran one way**. A gap in an encoding is invisible to the gates, invisible to the surname
+walls, and invisible even to a neighbouring warrant that holds the answer.
+
+- [ ] [P2] Read the other one-directional laws in the house for the same fault. A law stated as "X shapes
+      Y" is a candidate whenever Y is durable enough to shape X back, and the tell is a play whose remedy
+      is described as free.
+
+**And a second reading arrived in the same message, about a concept the house does not hold: diffusion of
+innovations.** The proposal is that the innovator adopts because the advantage is obvious to them, the
+early majority waits because it needs proof from peers, the laggard resists because the switching cost
+against fixed infrastructure is genuinely high, and a better practice stalls with every segment applying
+the correct filter for its position. **That is a misfit shape and the house does not stage it**, verified:
+no `diffusion of innovation`, no `critical mass`, no Everett Rogers anywhere in the index.
+
+- [ ] [P1] **The reference group that cannot exist**, which is the sharper cut of diffusion than the chasm.
+      The early majority requires evidence from people like itself, and everybody who has adopted is, by
+      construction, unlike it: earlier adopters have more slack, more risk tolerance and more technical
+      skill, which is what made them earlier. So the evidence that would move the next segment can only be
+      produced by the next segment, and the change agent sent to bridge the gap is the least like the
+      people they are sent to, which is exactly why they are least effective where they are most needed.
+
+**Stage it on homophily rather than on the chasm, and the reason is the house's sourcing rule.** Rogers's
+**heterophily** finding, that diffusion runs between similar people and that a change agent is typically
+unlike their clients, is a documented result in the diffusion literature. **The chasm is Moore's and is a
+marketing framework**, widely used and weakly supported as a discontinuity, since much of the field reads
+the curve as continuous. The chasm belongs in Restrictions as the popular framing, and the play should rest
+on the homophily result, which is the same trap with evidence under it.
+
+**Two switch-offs, both looking clean before the reading.** Against **After You**, where each side of a
+market waits for the other: stipulate a single side, farmers adopting a practice with no complementary
+party anywhere, and this harm survives, because the early majority is not waiting for a counterparty but
+for a witness who resembles them. Against **Information Cascade**, where visible prior choices crowd out
+private information: stipulate that everybody weights their own signal fully, and it survives, because the
+private signal here is accurate and is **the only available evidence comes from people unlike me**.
+
+- [ ] [P2] Widen `Rogers` to a third form before that play is authored. The house declares Todd and Will;
+      Everett is the diffusion scholar and would be the third. A widening may land before its citation,
+      which the eighty-fifth pass established and the eighty-fourth got wrong, so this can travel with the
+      authoring pass or ahead of it, and it is governance either way.

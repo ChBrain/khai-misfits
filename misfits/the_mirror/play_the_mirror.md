@@ -92,6 +92,7 @@ Coordinate harder and the seams do not move: they are set by who reports to whom
 - [The Seam](piece_the_seam.md)
 - [The Handoff](piece_the_handoff.md)
 - [The Reorg](piece_the_reorg.md)
+- [Now It Is the Reason](piece_now_it_is_the_reason.md)
 - [The Reflection](piece_the_reflection.md)
 
 ## Triggers

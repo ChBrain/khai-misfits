@@ -26,7 +26,7 @@ The inverse move: take the architecture you want, and build the org to match it,
 
 ## Load Bearing
 
-Without it the seams are fixed wherever the org already put them, and the design is stuck.
+Without it the seams are fixed wherever the org already put them, and the design is stuck: that fixity is [Now It Is the Reason](piece_now_it_is_the_reason.md), the architecture holding the boundary in place after the org has stopped needing to.
 With it the seams can move, because they follow the boundaries, and the boundaries are now the ones the architecture chose: the inverse Conway maneuver, aligning communication structure to intended structure so the mirror finally reflects the drawing. The Reorg is load bearing because it is the only move in the play that changes the shape rather than fighting it.
 
 ## Apparent
