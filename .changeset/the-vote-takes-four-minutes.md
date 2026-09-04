@@ -1,0 +1,9 @@
+---
+"@chbrain/khai-misfits": minor
+---
+
+Add the misfit **The Vote Takes Four Minutes**: an open-meetings statute defines a meeting by a quorum and a matter within the remit, requires that occasion to be public, and is obeyed in full, so the exchange of reasons moves to the briefing and the call, which no drafter can enumerate, and the public session becomes the place where what was settled is put on the record. A position stated in a durable record is a different object from the same position stated among colleagues, because the record is read later, by people with their own reasons, without the room that made it tentative. The measured version is a central bank's: after it began publishing full transcripts, its members were less willing to voice dissent in them. And the watcher is left with a session that is complete, lawful and accurate, since a ratification and a genuine agreement produce the same minutes.
+
+Distinct from You Would Have to Tell, where the thing wanted is suppressed and no version of it exists anywhere, while here nothing is suppressed and the deliberation is simply held where the rule does not reach. Distinct from Not While You Are Watching, where the quantity is attention itself: stipulate that observation produces no self-monitoring at all and this survives, because a member who is entirely unselfconscious still will not commit to a position in a durable record before knowing where the others stand, and stipulate the reverse, that nothing said carries any consequence for anybody's standing, and this disappears while the observer's paradox is untouched.
+
+Joins `blame-attachment` as its third member, beside The Paper Trail and Plausible Deniability, by a third construction: there a clinician builds a record so that no fault can attach and a principal builds an ignorance so that no knowledge can, and here a body builds a venue so that no stated position can.
