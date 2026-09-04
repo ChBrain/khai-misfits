@@ -36,4 +36,5 @@ With the org aligned to the architecture, the seams have nowhere to fall, and th
 ## Tension
 
 The mirror turns, and the settled org that ran so smoothly is gone.
+And the boundary does not move onto an empty field, because [Now It Is the Reason](piece_now_it_is_the_reason.md): the seam being redrawn is held in place by the artefact that copied it, so the reorganiser is arguing with a contract, a queue, an on-call rota and three years of code written against the split, none of which reports to anybody.
 The inverse maneuver works, and it costs: reporting lines redrawn, teams broken up, months of churn with no feature to show, all paid now against seams that will simply never form. It trades a comfortable, historical org for one shaped like its own architecture ... or the reorganisation is judged too expensive and disruptive, the boundaries stay, and the system goes on wearing the shape of its builders.
