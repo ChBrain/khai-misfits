@@ -10747,3 +10747,46 @@ argument settled before it can be declared is slated and not taken.**
       falsified to escape a sanction is a fifth construction on the same dial, alongside the record, the
       ignorance, the venue and the unsaid apology. It is a reading this pass did not do and should not be
       credited with.
+
+**The hundred and eleventh pass settles the antigenic sin caution, clears the surname in front of it, and
+does not write the play, which is the whole point.**
+
+**The caution is settled twice over, and the second answer is the better one.** The slate asked whether an
+immune memory is the same quantity as a person's prior related knowledge or a metaphor for it. It is a
+metaphor: the three members of `prior-related-knowledge` measure **a possessor's own** prior knowledge, an
+explainer's, a solver's, an organisation's, and this candidate's quantity is **antigenic distance**, which
+is a property of the pair of pathogens rather than of the immune system holding the memory.
+
+**And it could not take a sign in any case, which is the answer that settles it for good.** At zero
+distance the memory is the right answer and there is no harm. At large distance nothing cross-reacts, a
+naive response is mounted, and there is no harm. The suboptimal recall appears at **intermediate**
+relatedness, which is the antigenic distance hypothesis and is the documented shape. **A dial that is good
+at both ends and harmful between them has no direction to declare**, so the play ships undeclared, for the
+mirror of the reason a one-dial-two-bad-ends structure does. The house has a rule for harm at both ends and
+did not have one for harm in the middle; it is the same rule and it is now written down in both directions.
+
+**The switch-off against The Good Move survives and got sharper on the reading.** The slate said "there a
+solver stops searching and here there is no search at all, only a race the recall response wins on speed",
+which is true and understates it. Pre-existing cross-reactive antibodies **reduce the new antigen's
+availability**, so the naive lineages that would answer the drifted epitopes are not merely unrecruited,
+they are starved of the stimulus that would recruit them. The old response suppresses the new **by
+consuming what it fed on**, which is a competition mechanism and not a satisfied searcher.
+
+**`Smith` becomes `["John Maynard", "Adam C", "H Jeff", "James", "Derek"]`, and this is the pass's other
+half.** The antigenic distance hypothesis is Derek Smith's with Forrest, Ackley and Perelson. `Smith` is
+already declared four ways, so a fifth person fires the wall on the citation, and the play cannot ship
+until the widening is in the trunk. **The scan caught it before the play was written**, which is the
+ninety-seventh pass's rule paying for itself for the first time: `science probe` read zero, `science
+surname` on each new scholar returned four clear and two taken, and one of the two taken was declared.
+Compare the reference group play, where the same failure was found by the suite after thirty-seven files
+were on disk and split the work across two lanes and two pull requests.
+
+**So the pass does not write the play, and that is the discipline rather than a delay.** The settling is a
+reading and the widening is governance; the play is misfit and is next. Writing it now would have produced
+exactly the split the rule exists to prevent, one pass after the rule was carried into the plan.
+
+- [ ] [P1] Author **original antigenic sin** once this widening is in the trunk. It ships **undeclared**,
+      the dial being antigenic distance with the harm at intermediate values, and its switch-off against The
+      Good Move is the competition for antigen rather than the abandoned search. The spine is Francis's
+      coinage, Fazekas de St Groth and Webster's demonstration, Smith, Forrest, Ackley and Perelson on the
+      antigenic distance hypothesis, and the epitope-masking account of why recall outruns a naive response.
