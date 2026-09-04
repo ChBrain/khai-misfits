@@ -1,8 +1,10 @@
 ---
 concept: "The Repeat Player Advantage (settling to avoid precedent; the one-shotter)"
 field: "Markets, money, and economic equilibria"
+axis: outcome-selection
+sign: negative # how far a sample can speak for the population it is read about, as membership in it depends more on the outcome being studied
 source: 'Galanter, "Why the ''Haves'' Come Out Ahead" (Law & Society Review, 1974)'
-updated: "2026-08-09"
+updated: "2026-09-04"
 ---
 
 # The Next One Pays: Reference
@@ -60,6 +62,13 @@ It is distinct from the house's **The Survivors**, where the evidence is read of
 what did not was destroyed: there nobody selects, the missing cases are missing by attrition, and the error
 is the reader's. Here somebody selects, deliberately and at a price, and the reader of the reports is not
 in error at all: every authority is correctly stated and correctly decided.
+
+Those three cuts are all on the **engine** and none on the quantity, which is why this play joins the two
+of them on the axis `outcome-selection`. In each case the record's membership depends on the outcome, and
+what differs is who does the depending: a gatekeeper on a result, a hazard on survival, and here a repeat
+player paying to remove the judgments that would have gone the wrong way. **This is the only one of the
+three in which the selection is bought**, and the price is what makes the resulting record both incomplete
+and impeccable.
 
 It is distinct from the house's **On Good Authority**, where a claim repeated in good faith acquires weight
 the evidence never gave it: there the record is complete and its weight is misread. Here the record is

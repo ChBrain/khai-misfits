@@ -10644,8 +10644,49 @@ the same hour and would run identically with a single unobserved clinician weari
 candidate and both were tempting for the same reason the takedown play was nearly put on `observer-presence`
 last week: the subject is being watched and the quantity is something else.
 
-- [ ] [P2] Run the distinctness paragraphs as a declaration source at scale. This pass and the one before it
+- [x] [P2] Run the distinctness paragraphs as a declaration source at scale. This pass and the one before it
       each read a handful and each found the answer already written. The house holds 143 undeclared plays,
       most of them carrying two or more distinctness paragraphs, and each of those paragraphs names a
       quantity by construction. The pass that runs it should read paragraphs rather than warrants and report
       how many named a dial the house already holds.
+
+**The hundred and ninth pass runs the distinctness paragraphs as a declaration source, with a mechanical
+shortlist in front of it, and declares four.**
+
+**The shortlist is a script and it is the reusable part.** For each of the 143 undeclared plays, take its
+Line of Work, find every **declared** play it names, and report the pair with the neighbour's axis. **118 of
+the 143 name at least one declared neighbour**, and 45 name two or more. That is not a list of joins, it is
+a list of paragraphs already written about a dial, and the reading is one paragraph rather than one warrant.
+
+**`outcome-selection` goes from two members to five**, which is now the house's largest axis outside the
+long-established ones. The Next One Pays, Only the Close Ones and Once Bitten all join The File Drawer and
+The Survivors, and in every case **their own paragraph had already said so**: "the engine is a strategic
+mutual selection **on the outcome**", "there the censoring is exogenous, whereas here it is endogenous",
+"there the omission is unpaid, here a second party pays money to keep a result off the record". Five
+constructions of one quantity: a hazard removes a unit, an editor removes a result, two adversaries jointly
+remove the cases anybody could call, a repeat player **buys** the removal of the judgments that would go the
+wrong way, and a learner stops sampling what burned it. The last is the only endogenous one, where the
+selector and the reader are the same party.
+
+**An Army That Cannot Turn joins `internal-advancement`** beside Pournelle's Iron Law, at the same sign and
+by the opposite temperament: there the weighting of devotion over mission accumulates unwatched and the
+organisation still believes it is pursuing its purpose, and here it is set deliberately by a ruler who can
+price the capability being given up and pays it anyway.
+
+**Two refused, and both were refused by the paragraph rather than by any reasoning of the pass's own.**
+Immortal Time Bias against `outcome-selection`: its cut says **every subject is present and counted** and
+the error is in how one subject's time is apportioned between two columns, so there is no selection
+anywhere in it. The Widening Want against `repeated-exposure`: its cut is a backward-looking reset of
+perception against a forward-looking rise of social expectation, which separates the quantity.
+
+**Four from six is a high rate and the reason is the shortlist, not the reading.** The three passes before
+this one read candidates chosen by resemblance and refused most of them. This one read candidates chosen by
+**a warrant having already written a paragraph about a play that holds an axis**, which is a much stronger
+prior, because a house that makes its authors distinguish a new play from its nearest incumbent has been
+generating axis arguments as a by-product for three hundred and thirty-nine plays.
+
+- [ ] [P1] Work the 118-row shortlist down. This pass read six rows of it. The script that produces the list
+      is four lines and belongs in the plan rather than in this entry, and the rows that name **two or more**
+      declared neighbours should go first, since a play with two arguments already written is the cheapest
+      possible read. Report rows read against declarations made, and expect the rate to fall as the obvious
+      ones are spent.
