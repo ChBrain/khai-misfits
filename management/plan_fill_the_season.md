@@ -11185,3 +11185,50 @@ have caught anyway.
       Gregory Murphy in The Way I Told It to You, so both cells resolve and the declaration fires on
       nothing. Governance lane, and owed immediately rather than at leisure, because the count it breaks is
       one the house holds at zero.
+
+**The hundred and twenty-first pass declares Murphy, which is the half the last pass could not carry, and
+then looks at what the instrument that billed it cannot see.**
+
+**`Murphy` is declared as `["Kevin", "Gregory"]`** and the probe returns to zero on the undeclared-surname
+bill. The declaration fires on nothing, exactly as slated: Kevin Murphy is already named in How Many They
+Have Done and Gregory Murphy in The Way I Told It to You, so both cells resolve on the first scan and no
+existing citation is left owing a form. **A declaration that arrives after both cells are named costs
+nothing and is only ever late**, which is the whole argument for putting it first.
+
+**The pass that created the obligation had the information to avoid it.** `science surname Murphy` was run
+before authoring and returned `taken`, bare, on a work by Gary Becker and Kevin Murphy. That is a different
+person, the reading was correct, and the authoring went ahead anyway on the reasoning that the probe reports
+rather than gates. It does report rather than gate. But the count it reports is one the house holds at zero,
+and holding a number at zero is a decision about what the house will notice, not a decision about what a
+test will refuse.
+
+**Now the part that is worth more than the declaration.** The bill that caught this catches a surname whose
+own cells **name** two different people. It caught `Murphy` only because both cells happened to be resolved:
+Kevin by an earlier pass, Gregory by the citation that created the collision. **Where the second person is
+hiding in a bare cell, there is nothing for it to compare**, and the house currently holds sixty-eight
+surnames mixing a named cell with a bare one.
+
+**So the mixed bill is not a tidiness backlog. It is the unsearched set.** A bare cell is not a cell known
+to hold the same person as the named one; it is a cell nobody has asked. `Bell` is already this shape and
+was already in front of this pass: bare in The Identified Patient, on Vogel and Bell's family-scapegoat
+work, which is Norman Bell, while the scouting for the audience-tuning play surfaced Allan Bell on style
+shifting. Cite Allan Bell one day and the two collate silently, because a bare key has nothing to disagree
+with. `Hardin` is the same shape and turns out clean, both cells being Garrett Hardin, but the point is that
+it took a reading to find that out and the instrument had not asked for one.
+
+**The rule this composes with the last one.** Before authoring, a `taken` result on a bare surname is not a
+result at all until the cell has been read for who it is. That was already the rule and this pass restates
+it. What is new is the direction it also runs in: **a bare cell in the house is an unanswered question about
+every future citation**, and the sixty-eight are sixty-eight of them, sitting where nothing will fire.
+
+**And a collated key is not only unlabelled, it undercounts.** Declaring `Murphy` moved the science index
+from 1679 scholars to 1680, because the two works had been sitting under one row with the second hung below
+it as a continuation. So every undeclared collision is a person the house does not know it holds, and the
+figure the index publishes was wrong by exactly the number of them.
+
+- [ ] [P2] Audit the sixty-eight mixed surnames for a bare cell that is a different person from the named
+      one. The probe cannot do it, because a bare key has nothing to compare against, so it is a reading
+      job: `science surname <X>` per entry, and each bare cell resolved to a person. The ones to take first
+      are the surnames common enough to recur, where a future citation is likely and the collation would be
+      silent. `Bell` is the known case and is content lane, so naming the Norman Bell cell in The Identified
+      Patient belongs to a misfit pass rather than to the declaration that would follow it.

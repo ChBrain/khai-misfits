@@ -1,0 +1,4 @@
+---
+---
+
+Declare `Murphy` as a homonym, `["Kevin", "Gregory"]`, which was the slated governance half of the namesake obligation the last misfit pass created and could not discharge in its own lane. Kevin Murphy is already named in How Many They Have Done and Gregory Murphy in The Way I Told It to You, so both cells resolve, the declaration fires on no citation, and `science probe` returns to zero on the undeclared-surname bill. Records the finding that the probe's undeclared bill catches a surname whose cells **name** two people and cannot catch one whose second person is hiding in a bare cell, so the sixty-eight mixed entries are not only untidy but unsearched, and slates that audit. Declaring the key also moved the science index from 1679 scholars to 1680, so a collated key does not only go unlabelled: it undercounts the house by one person per collision. Ships nothing.
