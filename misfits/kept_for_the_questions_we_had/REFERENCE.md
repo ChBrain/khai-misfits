@@ -3,8 +3,8 @@ concept: "Archival Appraisal (selection for permanent retention; the destroyed c
 field: "Measurement, cognition, and inquiry"
 source: "Jenkinson (1922); Schellenberg, Modern Archives (1956); Ham, The Archival Edge (1975)"
 axis: appraisal-selectivity
-sign: negative
-updated: "2026-08-18"
+sign: negative # how much a later question can still be asked of the record, as the criterion for keeping a document is made more selective
+updated: "2026-09-04"
 ---
 
 # Kept for the Questions We Had: Reference

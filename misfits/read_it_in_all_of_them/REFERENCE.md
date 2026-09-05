@@ -3,8 +3,8 @@ concept: "Equal Authenticity in Multilingual Law (divergent language versions; t
 field: "Collective action, commons, and coordination"
 source: "the principle of equal authenticity; Stauder (1969); CILFIT (1982); the case law on linguistic divergence"
 axis: authentic-language-versions
-sign: negative
-updated: "2026-08-19"
+sign: negative # how confidently a reader can know the law from the text in front of them, as the number of equally authentic language versions rises
+updated: "2026-09-04"
 ---
 
 # Read It in All of Them: Reference

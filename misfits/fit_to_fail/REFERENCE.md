@@ -3,8 +3,8 @@ concept: "Evolutionary Suicide (runaway selection; evolutionary trapping)"
 field: "Ecology, evolution, and public health"
 source: "Matsuda & Abrams (1994); Parvinen (2005)"
 axis: competitive-trait
-sign: negative
-updated: "2026-07-06"
+sign: negative # how long a population persists, as selection on the trait that wins within it strengthens
+updated: "2026-09-04"
 ---
 
 # Fit to Fail: Reference

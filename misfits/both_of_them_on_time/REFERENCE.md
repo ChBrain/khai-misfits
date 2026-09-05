@@ -3,8 +3,8 @@ concept: "Phenological Mismatch in Mutualisms (the undefended synchrony; two acc
 field: "Ecology, evolution, and public health"
 source: "Kudo & Ida (Ecology, 2013); Kudo & Cooper (Proceedings B, 2019)"
 axis: cue-divergence
-sign: negative
-updated: "2026-08-21"
+sign: negative # how well two mutualists still meet, as the cues each of them reads correctly drift apart
+updated: "2026-09-04"
 ---
 
 # Both of Them on Time: Reference

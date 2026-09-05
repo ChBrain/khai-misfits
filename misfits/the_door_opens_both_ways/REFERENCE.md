@@ -3,8 +3,8 @@ concept: "The Self-Amendment Bind (militant democracy; unamendability and the en
 field: "Collective action, commons, and coordination"
 source: "Karl Loewenstein, American Political Science Review (1937); the German Basic Law, Article 79(3); Refah Partisi v Turkey, ECtHR (2003)"
 axis: amendment-openness
-sign: negative
-updated: "2026-08-19"
+sign: negative # how safe an order is from being ended by its own procedure, as the procedure for amending it stays open
+updated: "2026-09-04"
 ---
 
 # The Door Opens Both Ways: Reference

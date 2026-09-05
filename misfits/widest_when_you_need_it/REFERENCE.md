@@ -3,8 +3,8 @@ concept: "Adverse Selection in Market Making (the bid-ask spread as a defence; l
 field: "Markets, money, and economic equilibria"
 source: "Glosten & Milgrom, Journal of Financial Economics (1985); the March 2020 Treasury market dysfunction"
 axis: adverse-selection-risk
-sign: negative
-updated: "2026-08-21"
+sign: negative # how tightly a market maker can quote as the risk of trading with a better-informed counterparty rises
+updated: "2026-09-04"
 ---
 
 # Widest When You Need It: Reference

@@ -3,8 +3,8 @@ concept: "Criterion Collapse under Successful Regulation (a measured dimension c
 field: "Collective action, commons, and coordination"
 source: "The Paris MoU flag-state performance lists; UNCLOS Article 91"
 axis: criterion-convergence
-sign: negative
-updated: "2026-08-22"
+sign: negative # how much a measure tells a chooser, as the dimension it reports converges across the field
+updated: "2026-09-04"
 ---
 
 # Everybody Passed: Reference

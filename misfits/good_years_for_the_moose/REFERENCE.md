@@ -3,8 +3,8 @@ concept: "Apparent Competition (the shared predator; disturbance-mediated prey s
 field: "Ecology, evolution, and public health"
 source: "Holt (_Theoretical Population Biology_, 1977); Serrouya et al. (_PeerJ_, 2017)"
 axis: alternative-prey-abundance
-sign: negative
-updated: "2026-08-28"
+sign: negative # how well a scarce prey species survives as an alternative prey sharing its predator grows more abundant
+updated: "2026-09-04"
 ---
 
 # Good Years for the Moose: Reference

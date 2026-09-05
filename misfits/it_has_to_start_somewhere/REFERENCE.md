@@ -3,8 +3,8 @@ concept: "The Default Effect (choice architecture; the unavailability of a neutr
 field: "Measurement, cognition, and inquiry"
 source: "Thaler & Sunstein, Nudge (2008); Johnson & Goldstein, Science (2003); Madrian & Shea, QJE (2001)"
 axis: default-effort-to-depart
-sign: negative
-updated: "2026-08-18"
+sign: negative # how much an answer reflects what the person wanted, as the effort needed to leave the default rises
+updated: "2026-09-04"
 ---
 
 # It Has to Start Somewhere: Reference

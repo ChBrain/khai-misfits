@@ -3,8 +3,8 @@ concept: "The Surgical Placebo Problem (sham controls; the evidentiary asymmetry
 field: "Measurement, cognition, and inquiry"
 source: "Moseley et al, NEJM (2002); Horng & Miller, NEJM (2002); the vertebroplasty sham trials (2009)"
 axis: control-arm-cost
-sign: negative
-updated: "2026-08-19"
+sign: negative # how decisive the evidence for a procedure can be, as the harm a proper control arm would inflict on a volunteer rises
+updated: "2026-09-04"
 ---
 
 # A Lower Bar Set by a Higher One: Reference

@@ -3,8 +3,8 @@ concept: "Response Shift (scale recalibration in self-reported outcomes; the wit
 field: "Measurement, cognition, and inquiry"
 source: "Sprangers & Carolyn Schwartz, Social Science & Medicine (1999); the then-test and the response-shift measurement literature"
 axis: adaptation-to-condition
-sign: negative
-updated: "2026-08-19"
+sign: negative # how much of a change score is a change in the thing rather than in the scale, as the patient adapts to the condition
+updated: "2026-09-04"
 ---
 
 # What Seven Means Now: Reference

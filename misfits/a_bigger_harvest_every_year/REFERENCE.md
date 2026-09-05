@@ -3,8 +3,8 @@ concept: "CO2-Induced Nutrient Dilution (the hidden ionome shift; the carbohydra
 field: "Ecology, evolution, and public health"
 source: "Loladze, Trends in Ecology and Evolution (2002) and eLife (2014); Myers et al., Nature (2014)"
 axis: atmospheric-co2
-sign: negative
-updated: "2026-08-17"
+sign: negative # how much mineral nutrition a given mass of crop carries, as atmospheric carbon dioxide rises
+updated: "2026-09-04"
 ---
 
 # A Bigger Harvest Every Year: Reference

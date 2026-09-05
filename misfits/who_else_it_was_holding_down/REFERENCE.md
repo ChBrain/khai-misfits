@@ -3,8 +3,8 @@ concept: "Mesopredator Release (the suppressor removed; predation raised by remo
 field: "Ecology, evolution, and public health"
 source: "Soulé et al, Conservation Biology (1988); Crooks & Soulé, Nature (1999); Prugh et al, BioScience (2009)"
 axis: apex-predator-abundance
-sign: positive
-updated: "2026-08-19"
+sign: positive # how much of the smaller prey survives, as the apex predator suppressing their predators stays abundant
+updated: "2026-09-04"
 ---
 
 # Who Else It Was Holding Down: Reference

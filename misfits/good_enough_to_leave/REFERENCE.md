@@ -3,8 +3,8 @@ concept: "The Portable Credential (health worker migration; recognition as the e
 field: "Collective action, commons, and coordination"
 source: "Beine, Docquier & Rapoport (_The Economic Journal_, 2008); the WHO Global Code of Practice (2010)"
 axis: credential-recognisability
-sign: negative
-updated: "2026-08-28"
+sign: negative # how much of the workforce a training country keeps, as the certificate it awards is recognised further away
+updated: "2026-09-04"
 ---
 
 # Good Enough to Leave: Reference
