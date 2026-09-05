@@ -10737,7 +10737,7 @@ argument settled before it can be declared is slated and not taken.**
       hold-up survives, then fix asset specificity at zero and ask the same. If both survive it is not one
       dial.
 
-- [ ] [P2] Re-run the shortlist ordered by rows naming **exactly one** declared neighbour. This pass
+- [x] [P2] Re-run the shortlist ordered by rows naming **exactly one** declared neighbour. This pass
       established that the count runs the wrong way, and the single-neighbour rows are untested. Report rows
       read against declarations made, so the two orderings can be compared on measured yield rather than on
       the argument above.
@@ -11180,7 +11180,7 @@ available and both refused: attributing audience design to a sole-authored Clark
 it, and hiding the pair in the Key Work column where the index does not read, which the compound bill would
 have caught anyway.
 
-- [ ] [P1] Declare `Murphy` as `["Kevin", "Gregory"]` in `khai-guard.config.json`, restoring the probe to
+- [x] [P1] Declare `Murphy` as `["Kevin", "Gregory"]` in `khai-guard.config.json`, restoring the probe to
       zero on the undeclared-surname bill. Kevin Murphy is already named in How Many They Have Done and
       Gregory Murphy in The Way I Told It to You, so both cells resolve and the declaration fires on
       nothing. Governance lane, and owed immediately rather than at leisure, because the count it breaks is
@@ -11418,3 +11418,81 @@ country rather than a person and the clock is a labour market rather than a care
 touches the axis question, because **an axis shares a dial and not a mechanism**. A distinctness paragraph
 proves two plays are different plays; it never proves they are on different dials, and reading it as though
 it did would have stopped this pass before it started.
+
+**The hundred and twenty-sixth pass runs the single-neighbour ordering, measures it, and finds that the
+count predicts nothing in either direction.**
+
+**Ten rows read, zero declarations, which is exactly what the other ordering gave.** The forty-seven rows
+naming exactly one declared neighbour were listed and the first ten taken **alphabetically**, chosen that
+way and stated in advance so the sample could not be picked for promise. All at Once against The Bank Run,
+Anyone Can See It against Closing Ranks, Ask Me When It Hurts against Starting Tomorrow, Bad Coin against
+The Market for Lemons, Better in Both against The Survivors, Bootleggers and Baptists against Regulatory
+Capture, Both Take the Crown against The Bank Run, Clear from Here against The Paper Trail, I Would Know Him
+Anywhere against The Proxy, In Its Own Defence against Alarm Fatigue. Not one is a join.
+
+**So the previous pass's finding is withdrawn.** It said the two-or-more ordering ran the wrong way and the
+single-neighbour rows were where the yield would be. They are not. **The count of declared neighbours a
+warrant names does not predict whether the play shares a dial with any of them**, in either direction, and
+the argument that it should have, that an author placing a play against four incumbents had to find four
+things it was not, was a good argument for a false conclusion.
+
+**Three of the ten were rejected on tests worth keeping.**
+
+**Bad Coin against The Market for Lemons** is the cleanest negative available: the incumbent's dial is
+`buyer-informedness`, and the warrant stipulates it away in its own words, "nothing is hidden at all", and
+the harm survives. **A cut that stipulates the incumbent's declared dial to its harmless end and keeps the
+harm is a refusal, not a candidate.**
+
+**Clear from Here against The Paper Trail** looked strong, because the warrant says the two are "genuinely
+related, so the cut must be exact". Hold `blame-attachment` at its maximum, every decision scrutinised and
+somebody always answerable, and blind the evaluator to the outcome: the harm vanishes. So the harm is not
+monotone in blame-attachment once hindsight is zeroed, and **blame-attachment is the channel the harm is
+delivered through rather than the quantity it scales with**. A precondition again.
+
+**I Would Know Him Anywhere against The Proxy** fails on a distinction the axis needed and did not have.
+The dial is how cheaply an observer can read an individual's own qualities, and in the cross-race effect the
+observer has complete access and inadequate skill, while nothing is inferred from a group and no loop runs.
+**`merit-legibility` is a property of what can be observed and not of who is observing**, and reading
+someone's quality is not the same task as telling two people apart.
+
+**The instrument that does work is the language of the cut, and it is one grep.** Ordering the same
+forty-seven rows by whether the distinctness sentence claims **one dial** rather than two quantities, on the
+phrases "the same dial", "the opposite end", "the mirror", "the exact inverse", "one property", returns five
+rows. Three survive a reading. **Five rows yielding three beats ten yielding none, and the difference is not
+how many neighbours a warrant named but what it said about them.**
+
+**And the two false positives in the five have a signature of their own.** Exactly How Far calls itself "the
+exact inverse of the hold-up **remedy**", and In Its Own Defence calls immunopathology "the mirror" of alarm
+fatigue on the **shape** of the harm, too much defence against too little. Neither is a dial claim. Alarm
+sensitivity is a threshold and immune magnitude is a strength; stipulate either perfect and the other play
+is untouched. **An inverted remedy and a mirrored shape are not an opposed sign**, and the phrase that does
+carry one is the third form: the remedy for that play is the poison for this one.
+
+**Fair Warning is declared on `precommitment` at a negative sign**, the axis's first opposition, and it is
+the row whose own warrant states the deciding test: the remedy that fixes time inconsistency, making a
+commitment more credible, is the thing that makes this worse. **What sets the sign is whether the party
+whose behaviour matters is the party being bound.** In Time Inconsistency, Starting Tomorrow and You Have to
+Mean It the actor who cannot bind themselves is the actor whose behaviour is the trouble, so every increment
+of binding closes the gap. In the Green Paradox the government binds itself perfectly and the decisive
+behaviour belongs to a resource owner bound by nothing, who reads the announcement as news about future
+prices and brings the coal up sooner. All four now name each other.
+
+**The pass also ticks a line the work for which was done and merged in #777.** The Murphy declaration was
+carried out, the probe was returned to zero, the register recorded it in prose, and the checkbox was left
+unticked, so the slate has been claiming for five passes that a discharged obligation is outstanding. **A
+register that records the work and not the tick is a register that lies to its own reader**, and the tick is
+the part a future pass reads first.
+
+- [ ] [P2] Read **No Place in the Theory** against `deference-to-judgement`. Its cut against On Good
+      Authority calls itself "the mirror image of the same trust", and both plays sit at the high-deference
+      end: there a weak claim is over-accepted because the citations are counted rather than walked, here a
+      true finding is under-accepted for having no place in the reigning theory. The deciding question is
+      whether deference to a **theory** is the same object as deference to a **chain of citations**, or
+      whether the second is a count and the first a frame. If it joins, it joins at the same sign as the
+      three incumbents and adds no opposition.
+
+- [ ] [P3] Read **The Peace It Keeps** against `recombination`. Its cut against No Way Back Up calls itself
+      "the mirror", a fitter class winning by positive selection against a fitter class lost by chance, and
+      both are consequences of an asexual population. The deciding question is whether the dial is
+      recombination itself, in which case they are two harms at one end and a same-sign join, or whether the
+      second play turns on drift and this one on selection, which are not one quantity.

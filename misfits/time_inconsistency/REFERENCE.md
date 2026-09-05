@@ -30,6 +30,14 @@ prized. It is the engine beneath the house's Moral Hazard and Bank Run: the no-b
 time-inconsistent, promised to induce prudence and broken to stop the panic, so the promise that
 would prevent the trouble is exactly the one no one believes.
 
+It runs against the house's **Fair Warning**, on this axis and at the opposite end. There a government binds
+itself perfectly, announcing a phase-out early enough to be fair and credibly enough to be believed, and the
+behaviour that matters belongs to a resource owner who is bound by nothing and reads the announcement as
+news about future prices, so extraction is brought forward and the credible commitment is the cause of the
+harm. **What sets the sign is whether the party whose behaviour matters is the party being bound.** Here it
+is, so more binding is better; there it is not, so the remedy that fixes this play is the thing that makes
+that one worse.
+
 ## Origin
 
 The phenomenon in practice, and the research spine beneath it.
