@@ -3,8 +3,8 @@ concept: "Mistimed Negative Reinforcement (the release as the reinforcer; the co
 field: "Measurement, cognition, and inquiry"
 source: "McGreevy & McLean (Journal of Veterinary Behavior, 2009); Egenvall, Eisersiö & Roepstorff (2012)"
 axis: reinforcer-delay
-sign: negative
-updated: "2026-08-25"
+sign: negative # how accurately an animal learns what was asked, as the delay between the act and the release lengthens
+updated: "2026-09-04"
 ---
 
 # It Learns When You Stop: Reference

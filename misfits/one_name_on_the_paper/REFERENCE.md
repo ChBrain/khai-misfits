@@ -3,8 +3,8 @@ concept: "Certification and the Attribution Requirement (individuation of jointl
 field: "Groups, candour, and face"
 source: "Hutchins, Cognition in the Wild (1995); Wegner, transactive memory (1987); the peer-assessment record"
 axis: work-distribution
-sign: negative
-updated: "2026-08-18"
+sign: negative # how well a certificate attributes what a person did, as the work is spread across more of a team
+updated: "2026-09-04"
 ---
 
 # One Name on the Paper: Reference

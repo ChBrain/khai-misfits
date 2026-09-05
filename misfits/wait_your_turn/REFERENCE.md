@@ -3,8 +3,8 @@ concept: "Head-of-Line Blocking (first-come queueing; the ready item held behind
 field: "Safety, risk, and complex systems"
 source: "Karol, Hluchyj & Morgan (IEEE Trans. Communications, 1987)"
 axis: shared-ordering
-sign: negative
-updated: "2026-08-24"
+sign: negative # how quickly a ready item is served, as more traffic is made to share one first-come order
+updated: "2026-09-04"
 ---
 
 # Wait Your Turn: Reference

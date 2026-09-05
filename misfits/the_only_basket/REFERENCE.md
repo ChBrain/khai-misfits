@@ -3,8 +3,8 @@ concept: "The Homevoter Hypothesis (local capitalisation; the single-asset house
 field: "Markets, money, and economic equilibria"
 source: "Fischel, _The Homevoter Hypothesis_ (2001)"
 axis: owner-diversification
-sign: positive
-updated: "2026-08-19"
+sign: positive # how willingly a household votes for building near it, as its wealth is spread across more than the one asset
+updated: "2026-09-04"
 ---
 
 # The Only Basket: Reference

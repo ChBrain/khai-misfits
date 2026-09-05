@@ -10980,8 +10980,53 @@ a structural trap rather than an ordinary failure, and whether the play **stages
 naming it among its settlements. All four have to hold. Seventy-six signs read, three failed all four, and
 four failed the first alone.
 
-- [ ] [P3] Work the last thirty-two bare signs. Twenty-three are singletons continuing alphabetically from
+- [x] [P3] Work the last thirty-two bare signs. Twenty-three are singletons continuing alphabetically from
       `recombination`, and nine sit on the four axes where every member is bare, which are the only rows
       left where a co-member cannot help and none has ever had the question put to it. It is a P3 rather
       than a P2 because the campaign has already produced its findings and this is the tail of it, which is
       worth finishing and is unlikely to teach anything further.
+
+**The hundred and seventeenth pass finishes the sign campaign, and the last slice turns up a failure the
+instrument was not built for.**
+
+**Thirty-two attempted, thirty-two written, none withdrawn, one sign corrected. The bare count reaches zero
+from ninety-nine.** Every declared sign in the house now names what moves, and the wall holds at 198 units
+declaring an axis.
+
+**The Only Sky There Is had its sign the wrong way round.** It read `sample-realisations` as negative, which
+would say an estimate worsens as independent realisations accumulate. It improves: five independent patterns
+at the largest angular scale is why the spread is what it is, and fifty would narrow it. The dial is the
+count, the good rises with the count, and the sign is positive.
+
+**Nothing about the play changes, and that is the point of the correction being small.** Its harm is that
+the count **cannot be raised**, not that raising it would hurt, so a floor set by how many independent
+things exist is a statement about the sample and not about the instrument. The play was always right and
+its metadata was always backwards.
+
+**That is a different failure from the three withdrawals, and the same instrument caught it.** A withdrawn
+sign had **no single good quantity** to name. This one had a perfectly good quantity and pointed at it
+backwards, and the comment could not be written without noticing, because writing "how tightly a quantity
+can be estimated, as the number of realisations rises" and then reading `negative` above it is a
+contradiction on one line. **So the comment test catches an inverted sign as well as an undeclarable one**,
+which is not what it was built for and is the better half of what it did.
+
+**The campaign's totals, for the record.** Five passes, **108 signs read**, **three axes withdrawn**, **one
+sign corrected**, **99 comments written**, and **four near-misses refused** on rules the refusals themselves
+produced. The rules compose into one procedure: try the comment in a single clause; if it needs a
+conjunction joining two goods, ask whether the far end is a setting somebody could occupy, whether what is
+bad there is a structural trap rather than an ordinary failure, and whether the play stages that end rather
+than naming it among its settlements.
+
+**And the campaign's own lesson is about what a metadata field is for.** `sign:` was carried by half the
+house as a bare direction for months, and nothing was wrong with any of those files as prose. The moment
+each was asked to say **what moves**, four of them could not, and three of those four were structures the
+house has a rule about and had not applied. **A field that can be filled without being said is a field that
+is not being checked**, and the cheapest audit of any such field is to require the sentence rather than the
+value.
+
+- [ ] [P2] Consider whether the sign comment should be required rather than conventional. Every declared
+      sign now carries one, so a gate demanding it would pass today and would have caught four faults over
+      five passes. The cost is that a fifth-pass author writing a new play must compose the sentence before
+      the suite goes green, which is the point. It is governance, it belongs to whoever owns `khai-tests`
+      rather than to this house alone, and the register should say so rather than assume the gate is ours
+      to add.

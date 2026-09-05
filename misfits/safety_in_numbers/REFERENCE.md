@@ -3,8 +3,8 @@ concept: "The Allee Effect (positive density dependence; the extinction vortex)"
 field: "Ecology, evolution, and public health"
 source: "Allee (1931; 1938); Courchamp, Berec & Gascoigne (2008)"
 axis: population-density
-sign: positive
-updated: "2026-07-03"
+sign: positive # how well a population still finds mates and defends itself, as its density rises
+updated: "2026-09-04"
 ---
 
 # Safety in Numbers: Reference

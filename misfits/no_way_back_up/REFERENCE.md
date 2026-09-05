@@ -3,8 +3,8 @@ concept: "Muller's Ratchet (irreversible mutation accumulation in asexuals)"
 field: "Ecology, evolution, and public health"
 source: 'Muller, "The Relation of Recombination to Mutational Advance" (Mutation Research, 1964); Felsenstein (1974)'
 axis: recombination
-sign: positive
-updated: "2026-07-21"
+sign: positive # how well a lineage clears the mutations it has accumulated, as recombination between lineages rises
+updated: "2026-09-04"
 ---
 
 # No Way Back Up: Reference

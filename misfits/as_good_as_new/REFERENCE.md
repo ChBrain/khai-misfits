@@ -3,8 +3,8 @@ concept: "Structural Inertia (organizational ecology; reorganisation and the lia
 field: "Organisations, hierarchy, and management"
 source: "Hannan & Freeman (American Sociological Review, 1984)"
 axis: reorganisation-rate
-sign: negative
-updated: "2026-08-24"
+sign: negative # how much of an organisation's record of doing the same thing reliably survives, as it remakes its structure more often
+updated: "2026-09-04"
 ---
 
 # As Good as New: Reference

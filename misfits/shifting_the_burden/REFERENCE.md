@@ -3,8 +3,8 @@ concept: "Shifting the Burden (dependence on the symptomatic fix)"
 field: "Systems-dynamics archetypes (Senge)"
 source: "Senge, _The Fifth Discipline_ (1990)"
 axis: symptomatic-fix-reliance
-sign: negative
-updated: "2026-08-28"
+sign: negative # how much capacity for the fundamental solution survives, as reliance on the symptomatic fix rises
+updated: "2026-09-04"
 ---
 
 # Shifting the Burden: Reference

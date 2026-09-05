@@ -3,8 +3,8 @@ concept: "Fixes that Fail (the delayed side effect)"
 field: "Systems-dynamics archetypes (Senge)"
 source: "Senge, _The Fifth Discipline_ (1990)"
 axis: symptomatic-fix-reliance
-sign: negative
-updated: "2026-08-28"
+sign: negative # how well the underlying problem is doing, as more of the response goes to the symptomatic fix
+updated: "2026-09-04"
 ---
 
 # Fixes that Fail: Reference

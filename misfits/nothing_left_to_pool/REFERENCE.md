@@ -3,8 +3,8 @@ concept: "The Hirshleifer Effect in Insurance (the destruction of risk-sharing b
 field: "Markets, money, and economic equilibria"
 source: "Jack Hirshleifer, American Economic Review (1971); Arrow (1963); Cochrane, JPE (1995)"
 axis: risk-information-precision
-sign: negative
-updated: "2026-08-18"
+sign: negative # how much risk can still be shared, as public information says more precisely whose turn it is
+updated: "2026-09-04"
 ---
 
 # Nothing Left to Pool: Reference

@@ -3,8 +3,8 @@ concept: "The Comparative Method's Horizon (time depth; the decay of the evidenc
 field: "Measurement, cognition, and inquiry"
 source: "the neogrammarian comparative method; Swadesh (1952, 1955); Ringe (1992); Campbell (2004)"
 axis: time-depth
-sign: negative
-updated: "2026-08-19"
+sign: negative # how much evidence of a family survives, as the time since the languages diverged lengthens
+updated: "2026-09-04"
 ---
 
 # Erased by What Divided Them: Reference

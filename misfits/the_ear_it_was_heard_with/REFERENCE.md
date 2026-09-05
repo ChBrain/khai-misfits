@@ -3,8 +3,8 @@ concept: "The Sides of a Message (the Organon model; the receiver's selection)"
 field: "Groups, candour, and face"
 source: "Bühler, _Sprachtheorie_ (1934); Sperber & Wilson, _Relevance_ (1986)"
 axis: utterance-sidedness
-sign: negative
-updated: "2026-08-28"
+sign: negative # how likely two parties are to have taken the same thing from a remark, as it carries more sides at once
+updated: "2026-09-04"
 ---
 
 # The Ear It Was Heard With: Reference

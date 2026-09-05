@@ -3,8 +3,8 @@ concept: "The Redundancy Paradox (more backups, less reliability)"
 field: "Safety, risk, and complex systems"
 source: 'Sagan, "The Problem of Redundancy Problem" (Risk Analysis, 2004); Perrow (1984)'
 axis: redundant-elements
-sign: negative
-updated: "2026-08-27"
+sign: negative # how much a system's reliability actually improves, as the number of redundant elements rises
+updated: "2026-09-04"
 ---
 
 # Belt and Braces: Reference

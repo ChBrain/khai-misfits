@@ -3,8 +3,8 @@ concept: "Cosmic Variance (the sample-of-one limit on the largest observable sca
 field: "Measurement, cognition, and inquiry"
 source: "the mode count on the sphere; Scott, Srednicki & White, ApJ (1994); Ellis (2007); Copi, Huterer, Schwarz & Starkman (2010)"
 axis: sample-realisations
-sign: negative
-updated: "2026-08-19"
+sign: positive # how tightly a quantity can be estimated, as the number of independent realisations of it available rises
+updated: "2026-09-04"
 ---
 
 # The Only Sky There Is: Reference
@@ -26,6 +26,13 @@ the floor derived from geometry with no instrumental quantity in it, the mission
 leaves it standing, the feature whose significance needs a draw that does not exist, and the remedy that works
 and has a ceiling, as the load-bearing vectors of the structure, not as a tale of the wrong instrument or the
 wrong question.
+
+**The sign on this play was the wrong way round and is corrected here.** It read `sample-realisations` as
+negative, which would say the estimate worsens as independent realisations accumulate. It improves: five
+independent patterns at the largest scale is why the spread is what it is, and fifty would narrow it. The
+dial is the count, the good rises with the count, and the sign is positive. Nothing about the play changes,
+because the harm is that **the count cannot be raised** rather than that raising it would hurt, and a floor
+set by how many independent things exist is a statement about the sample and not about the instrument.
 
 The governing law is that the dominant uncertainty on the largest scales is set by how many independent things
 there are rather than by how well anybody saw them, so it survives a measurement that could not be improved.

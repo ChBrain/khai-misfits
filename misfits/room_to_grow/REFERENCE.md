@@ -3,8 +3,8 @@ concept: "The Hydra Effect (overcompensation; mortality raising abundance)"
 field: "Ecology, evolution, and public health"
 source: "Abrams (Ecology Letters, 2009)"
 axis: population-density
-sign: negative
-updated: "2026-07-28"
+sign: negative # how reliably removing individuals lowers a population, as the density it was already held at rises
+updated: "2026-09-04"
 ---
 
 # Room to Grow: Reference

@@ -3,8 +3,8 @@ concept: "Reference Rot (link rot; the decay of citation targets)"
 field: "Measurement, cognition, and inquiry"
 source: "Zittrain, Albert & Lessig (Harvard Law Review Forum, 2014)"
 axis: time-since-citation
-sign: negative
-updated: "2026-08-25"
+sign: negative # how likely a citation still resolves to what it cited, as the years since it was written accumulate
+updated: "2026-09-04"
 ---
 
 # It Was There When I Wrote It: Reference

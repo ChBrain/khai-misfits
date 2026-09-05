@@ -3,8 +3,8 @@ concept: "Periodisation as Self-Definition (retrospective significance; the succ
 field: "Measurement, cognition, and inquiry"
 source: "Mommsen (Speculum, 1942) on Petrarch; Trouillot, Silencing the Past (1995); Le Goff (2015)"
 axis: successor-identity-dependence
-sign: negative
-updated: "2026-08-25"
+sign: negative # how much a period's own account of itself survives, as its name depends on a successor defining itself against it
+updated: "2026-09-04"
 ---
 
 # A Dark Age to Be Reborn From: Reference

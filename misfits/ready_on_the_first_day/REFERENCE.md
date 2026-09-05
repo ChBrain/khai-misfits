@@ -3,8 +3,8 @@ concept: "The Specificity Trade in Vocational Education (early employment advant
 field: "Organisations, hierarchy, and management"
 source: "Hanushek, Schwerdt, Woessmann & Zhang, Journal of Human Resources (2017); Autor, Levy & Murnane, QJE (2003)"
 axis: training-specificity
-sign: negative
-updated: "2026-08-17"
+sign: negative # how well a leaver adapts when the task moves, as the course they took was specified more tightly
+updated: "2026-09-04"
 ---
 
 # Ready on the First Day: Reference

@@ -3,8 +3,8 @@ concept: "Organisational Territoriality (psychological ownership; the trust mode
 field: "Groups, candour, and face"
 source: "Brown, Lawrence & Robinson, AMR (2005); Pierce, Kostova & Dirks, AMR (2001); Brown, Crossley & Robinson (2014)"
 axis: team-trust
-sign: negative
-updated: "2026-08-16"
+sign: negative # how benignly a territorial signal is read, as the trust it appears against rises
+updated: "2026-09-04"
 ---
 
 # A Fence in a Good Street: Reference
