@@ -10819,9 +10819,50 @@ paragraph that has to concede its own literature's main finding and still stand 
 from one that lists four remedies and their costs, and the house should expect more of them as it moves
 into fields where the phenomenon is contested rather than settled.
 
-- [ ] [P2] Read the house for other plays whose harm sits in the middle of a declared dial. This pass
+- [x] [P2] Read the house for other plays whose harm sits in the middle of a declared dial. This pass
       established the rule for a harm-in-the-middle shape and applied it to one play. Any play that
       declared a sign on a dial whose other extreme is also safe has declared something it should not
       have, and the reading is the two-ended stipulation run at both extremes rather than at one. Report
       dials read against signs withdrawn, and expect most to survive, since a sign is usually declared
       because one end really is worse.
+
+**The hundred and thirteenth pass reads the signs for dials that do not run one way, and withdraws the
+house's first one.**
+
+**Sixteen similarity-shaped dials read, two warrants opened, one axis withdrawn.** The wall goes from 201
+units declaring an axis to 200. The slice was chosen rather than swept: a **similarity, distance, match or
+agreement** is the quantity most likely to be non-monotone, because both of its extremes are meaningful
+positions, where an amount usually has a harmless floor.
+
+**Marked the Same by Anyone gives up `marker-agreement`.** Raise agreement and the instrument narrows to
+what everybody can score alike, which suppresses the expertise it was paying for; the play's own governing
+law is that "the valuable judgements and the reliability-destroying ones are the same set". Lower it and the
+mark becomes one an advocate can contest, which is survivable by a candidate with a school behind them and
+not by one without. **Both ends are harmful and in different currencies**, so there is no single good
+quantity to move in one direction, and the play stages both horns itself, which is the case the rule was
+written for.
+
+**The screen that found it is mechanical and cheap and the house should keep it. Of the 201 signs declared,
+99 carry no comment naming what moves.** This one was among them, and the absence was the evidence: nobody
+could write the comment because **two things were rising and they were not the same thing**. So the standing
+diagnostic is that **a sign that cannot be given a comment may have no single good quantity behind it**, and
+the ninety-nine are the list to work rather than the whole house.
+
+**Two rules sharpened rather than added, and both are near-misses this pass had to avoid.** First, **the far
+end being ordinarily bad is not a second bad end.** Alarm sensitivity set too low misses events; redundancy
+removed leaves a single point of failure; training too general leaves a leaver unproductive. All three are
+worse and none of them is a **structural trap**, so none makes a two-bad-ends structure and all three signs
+survive. Second, **a warrant that says "two signs" may mean two times rather than two ends.** Ready on the
+First Day stages "one property with two signs, twenty five years apart, carried by one person", which is
+the same end of the dial being good early and bad late, and a temporal trade is not a non-monotone dial.
+
+**And the pass found no harm-in-the-middle case at all**, which is worth saying plainly. The shape the last
+pass named in the antigenic sin play is rarer than the two-bad-ends one, and the only wrong sign this
+reading turned up was of the older kind. That is a result about the house rather than about the method: its
+authors have been good at spotting a dial with a bad end at each extreme and have declared one anyway, once.
+
+- [ ] [P2] Work the ninety-nine bare signs. Every one of them is a play whose author declared a direction
+      and did not say what moves in it, and writing the comment is the test: a sign whose comment writes
+      itself in one clause is sound, and a sign whose comment needs two clauses joined by "and" is naming
+      two quantities. Report signs commented against signs withdrawn, and expect withdrawals to be rare,
+      since one in a hundred is what this pass measured.

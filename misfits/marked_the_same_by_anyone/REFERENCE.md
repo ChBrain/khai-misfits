@@ -2,9 +2,7 @@
 concept: "The Reliability Ceiling on Validity (the attenuation bound; inter-rater agreement as a precondition)"
 field: "Measurement, cognition, and inquiry"
 source: "Charles Spearman, American Journal of Psychology (1904); Guilford, American Psychologist (1950); Messick, American Psychologist (1995)"
-axis: marker-agreement
-sign: negative
-updated: "2026-08-18"
+updated: "2026-09-04"
 ---
 
 # Marked the Same by Anyone: Reference
@@ -32,6 +30,15 @@ count.
 The governing law is that consistency is not one virtue among several but the ceiling on the others. That
 removes the move every argument about assessment rests on: nobody can accept a looser instrument in exchange
 for a truer measure, because the second quantity is bounded by the first.
+
+**And this play declares no axis, which is a correction rather than an omission.** It carried
+`marker-agreement` at a negative sign, and the sign was wrong: agreement is not a dial with a bad end and a
+good one. Raise it and the instrument narrows to what everybody can score alike, which suppresses the
+expertise it was paying for. Lower it and the mark becomes one an advocate can contest, which is survivable
+by a candidate with a school behind them and not by one without. **Both ends are harmful and in different
+currencies**, so there is no single good quantity to move in one direction, and a one-dial-two-bad-ends
+structure has no sign to declare. The sign carried no comment for exactly that reason: nobody could name
+what was supposed to be rising, because two things were and they were not the same thing.
 
 **The valuable judgements and the reliability-destroying ones are not merely correlated: they are the same
 set.** Everything expert marking adds sits on the scripts two competent markers would score differently, so an
