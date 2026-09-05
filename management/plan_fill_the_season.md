@@ -11226,9 +11226,75 @@ from 1679 scholars to 1680, because the two works had been sitting under one row
 it as a continuation. So every undeclared collision is a person the house does not know it holds, and the
 figure the index publishes was wrong by exactly the number of them.
 
-- [ ] [P2] Audit the sixty-eight mixed surnames for a bare cell that is a different person from the named
+- [x] [P2] Audit the sixty-eight mixed surnames for a bare cell that is a different person from the named
       one. The probe cannot do it, because a bare key has nothing to compare against, so it is a reading
       job: `science surname <X>` per entry, and each bare cell resolved to a person. The ones to take first
       are the surnames common enough to recur, where a future citation is likely and the collation would be
       silent. `Bell` is the known case and is content lane, so naming the Norman Bell cell in The Identified
       Patient belongs to a misfit pass rather than to the declaration that would follow it.
+
+**The hundred and twenty-second pass runs the audit the last one slated, and ten of the sixty-eight turn out
+to be two people.**
+
+**The reading was the instrument.** Sixty-eight surnames mixed a named cell with a bare one, and the probe
+cannot tell any of them apart, because a bare key has nothing to disagree with. The job was to open each
+one and ask who the bare cell is. Six were picked first on suspicion, on the shape the register had already
+named: a common surname whose two works sit in different fields. **All six were different people**, which
+was not the expected hit rate and is the finding in itself. Reading the remaining sixty-two turned up four
+more.
+
+**The ten.**
+
+| surname   | the incumbent                                 | the second person, now named                                        |
+| --------- | --------------------------------------------- | ------------------------------------------------------------------- |
+| Bowen     | Murray Bowen, family systems                  | **William G Bowen**, Baumol's co-author on _Performing Arts_        |
+| Samuelson | Paul Samuelson                                | **William F Samuelson**, Bazerman's co-author on the winner's curse |
+| Myers     | Samuel S Myers, CO2 and nutrition             | **C A Myers**, with Polis and Holt on intraguild predation          |
+| Clarke    | Edward Clarke, the Clarke tax                 | **Ronald V Clarke**, with Cornish on situational crime prevention   |
+| Frey      | Bruno Frey, motivation crowding               | **Dieter Frey**, the selective-exposure literature                  |
+| Keil      | Frank Keil, the illusion of explanatory depth | **Mark Keil**, software-project status reporting                    |
+| Coleman   | James Coleman, Medical Innovation             | **Jesse Coleman**, the Kodiak fisheries paper                       |
+| Huang     | Lei Huang, life-cycle assessment              | **Lexiang Huang**, Metastable Failures in the Wild                  |
+| Webster   | Rob Webster, original antigenic sin           | **Bruce F Webster**, the Dead Sea effect                            |
+| Pearl     | Judea Pearl, causality                        | **Raymond Pearl**, _The Rate of Living_ (1928)                      |
+
+**Every one of them was already in the house.** Not one is a new citation, a new risk or a thing a future
+pass might have introduced. They were sitting under a single index key, and the count the science index
+publishes was wrong by ten in exactly the way declaring Murphy showed it was wrong by one. **A silent
+collision is not a hazard to be avoided in future work: it is a defect already present**, and the mixed bill
+was the list of places to look.
+
+**The naming moved the probe from zero to ten, and that is the audit working.** A pass that leaves an
+instrument reading worse than it found it is normally the wrong pass. Not here: the ten were undetectable
+before and are billed now, so the number went up because the house can finally see them. **What the probe
+counts is not collisions but collisions it can prove**, and the audit's whole output is converting the
+second kind into the first.
+
+**The sequencing rule from the last pass is right and was stated too broadly.** It said the governance half
+goes first. That holds where both cells already name their person, as Murphy's did, because the declaration
+then fires on nothing. **Here neither cell was named, so declaring first would fire the wall on the unnamed
+one**, and the content half is forced ahead. The rule is therefore conditional: **declare first only when
+every cell carrying the surname is already resolved; otherwise name the cells first and declare after.**
+
+**And the completeness test for the content half is not "the collision is named" but "no cell is bare".**
+`Samuelson` was named on both people and still carried a bare cell in The Paradox of Thrift, which is Paul
+and would have fired the moment the declaration landed. Naming it was the difference between a governance
+half that passes and one that does not. **The check is the mixed bill, not the undeclared one**: a surname
+about to be declared must have left the mixed list.
+
+**The count will move when the declarations land, not now.** The index still reads 1680 scholars, because
+splitting a key is what a declaration does; naming a cell only makes the split legible. So the governance
+pass has a prediction to check: ten declarations, and 1680 becomes 1690.
+
+- [ ] [P1] Declare the ten as homonyms in `khai-guard.config.json`: `Bowen ["Murray", "William G"]`,
+      `Samuelson ["Paul", "William F"]`, `Myers ["Samuel S", "C A"]`, `Clarke` widened with `Ronald V`,
+      `Frey ["Bruno", "Dieter"]`, `Keil ["Frank", "Mark"]`, `Coleman ["James", "Jesse"]`,
+      `Huang ["Lei", "Lexiang"]`, `Webster ["Rob", "Bruce F"]`, `Pearl ["Judea", "Raymond"]`. Governance
+      lane, owed immediately: the probe reads ten until it lands, and the content half is already in and
+      complete, so nothing else has to happen first. Check that the science index moves from 1680 scholars
+      to 1690.
+
+- [ ] [P3] The remaining fifty-eight mixed surnames were read and are all one person, so the mixed bill is
+      now a tidiness backlog and not an unsearched set. Naming those cells is worth doing for the index and
+      is worth nothing for correctness, so it is a low priority and should never again be confused with the
+      audit that just ran.
