@@ -4,7 +4,7 @@ field: "Measurement, cognition, and inquiry"
 source: "Greenberg (BMJ, 2009)"
 axis: deference-to-judgement
 sign: negative # how far a belief rests on evidence as deference to the cited record rises
-updated: "2026-07-28"
+updated: "2026-09-04"
 ---
 
 # On Good Authority: Reference
@@ -59,6 +59,15 @@ where genuinely independent judgments agree so perfectly that the agreement itse
 the observers are independent and their improbable concord is the tell, whereas here the references are not independent
 at all but echoes of a single upstream claim, so the many citations are not confirmations whose agreement is suspicious
 but repetitions that were never confirmations to begin with.
+
+It runs against the house's **I Can See Why I Think So**, on the axis `deference-to-judgement` and at the
+opposite end. There a judge defers **too little**: an adviser's estimate arrives as a bare number with its
+reasoning left behind, so it cannot be weighed against a claim the judge can inspect, and the small revision
+that follows is worse than the midpoint would have been. Here a reader defers **too much**, to a record of
+citations that is dense and unfounded. **What sets the sign is whether deference replaces the work or
+replaces a comparison the work cannot make.** Walking a citation chain back to its root is available and
+expensive, so more deference is worse. Reconstructing an adviser's reasoning is not available at all, so the
+alternative to deference is not looking harder but arithmetic, and less of it is worse.
 
 ## Origin
 

@@ -4,7 +4,7 @@ field: "Measurement, cognition, and inquiry"
 source: "Wellborn, Demeanor (Cornell Law Review, 1991); Bond & DePaulo (Personality and Social Psychology Review, 2006)"
 axis: deference-to-judgement
 sign: negative # how well-founded a judgement is as the party downstream adopts it rather than re-examining it
-updated: "2026-08-25"
+updated: "2026-09-04"
 ---
 
 # Seen, and Therefore Settled: Reference
@@ -108,6 +108,16 @@ It is distinct from the house's **Clear from Here**, which stages hindsight bias
 path look inevitable. Remove that engine, by stipulating that nobody overestimates how foreseeable anything was,
 and the mechanism runs unchanged, because **the question here is who saw the witness and not how predictable
 anything looks afterwards.**
+
+It runs against the house's **I Can See Why I Think So**, on this axis and at the opposite end. There a
+judge defers **too little**, to an adviser whose estimate arrives as a bare number with the reasoning left
+behind, and the revision that follows is smaller than the one that would have paid. Here an appeal court
+defers **too much**, to a finding it cannot re-examine because what would have to be re-examined did not
+travel. **What sets the sign is whether deference replaces the work or replaces a comparison the work cannot
+make.** In both plays something failed to travel, and the difference is what the deferring party can do
+about it: an appeal court could re-run the trial and the deference exists precisely to stop it, while a
+judge cannot reconstruct an adviser's reasons at all, so their alternative is not examination but
+arithmetic.
 
 ## Origin
 
