@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.341.0",
+  "version": "0.342.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -64224,6 +64224,228 @@
           "kind": "process",
           "title": "Standing",
           "taxonomy": "play_the_wasted_vote.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "the_way_i_told_it_to_you",
+      "title": "The Way I Told It to You",
+      "description": "I shape the account to the person hearing it, they take it, and the shaped version is the one I keep.",
+      "members": [
+        {
+          "file": "persona_the_nod.md",
+          "kind": "persona",
+          "title": "The Nod",
+          "type": "archetype",
+          "taxonomy": "position_uptake.md"
+        },
+        {
+          "file": "persona_the_one_who_was_there.md",
+          "kind": "persona",
+          "title": "The One Who Was There",
+          "type": "archetype",
+          "taxonomy": "position_telling.md"
+        },
+        {
+          "file": "persona_the_person_i_was_telling.md",
+          "kind": "persona",
+          "title": "The Person I Was Telling",
+          "type": "archetype",
+          "taxonomy": "position_reception.md"
+        },
+        {
+          "file": "persona_what_i_have_a_year_later.md",
+          "kind": "persona",
+          "title": "What I Have a Year Later",
+          "type": "archetype",
+          "taxonomy": "position_record.md"
+        },
+        {
+          "file": "persona_what_the_afternoon_would_also_support.md",
+          "kind": "persona",
+          "title": "What the Afternoon Would Also Support",
+          "type": "archetype",
+          "taxonomy": "position_ambiguity.md"
+        },
+        {
+          "file": "piece_every_sentence_was_true.md",
+          "kind": "piece",
+          "title": "Every Sentence Was True",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "piece_it_only_moves_if_it_landed.md",
+          "kind": "piece",
+          "title": "It Only Moves If It Landed",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "piece_nobody_was_persuaded.md",
+          "kind": "piece",
+          "title": "Nobody Was Persuaded",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "piece_the_room_lost_nothing.md",
+          "kind": "piece",
+          "title": "The Room Lost Nothing",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "piece_the_tuning_is_the_competence.md",
+          "kind": "piece",
+          "title": "The Tuning Is the Competence",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "pitch_i_told_you_what_happened.md",
+          "kind": "pitch",
+          "title": "I Told You What Happened",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "place_common_ground.md",
+          "kind": "place",
+          "title": "Common Ground",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "place_the_second_telling.md",
+          "kind": "place",
+          "title": "The Second Telling",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "place_the_walk_home.md",
+          "kind": "place",
+          "title": "The Walk Home",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "plan_check_that_it_landed.md",
+          "kind": "plan",
+          "title": "Check That It Landed",
+          "taxonomy": "position_uptake.md"
+        },
+        {
+          "file": "plan_keep_my_view_out_of_it.md",
+          "kind": "plan",
+          "title": "Keep My View Out of It",
+          "taxonomy": "position_reception.md"
+        },
+        {
+          "file": "plan_remember_what_happened.md",
+          "kind": "plan",
+          "title": "Remember What Happened",
+          "taxonomy": "position_record.md"
+        },
+        {
+          "file": "plan_say_it_so_they_get_it.md",
+          "kind": "plan",
+          "title": "Say It So They Get It",
+          "taxonomy": "position_telling.md"
+        },
+        {
+          "file": "plan_say_nothing_that_is_not_true.md",
+          "kind": "plan",
+          "title": "Say Nothing That Is Not True",
+          "taxonomy": "position_ambiguity.md"
+        },
+        {
+          "file": "play_the_way_i_told_it_to_you.md",
+          "kind": "play",
+          "title": "The Way I Told It to You"
+        },
+        {
+          "file": "plot_a_year_later.md",
+          "kind": "plot",
+          "title": "A Year Later",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "plot_telling_it_straight.md",
+          "kind": "plot",
+          "title": "Telling It Straight",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "plot_the_version_that_fits.md",
+          "kind": "plot",
+          "title": "The Version That Fits",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "plot_they_got_it.md",
+          "kind": "plot",
+          "title": "They Got It",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "plot_who_i_am_telling.md",
+          "kind": "plot",
+          "title": "Who I Am Telling",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "position_ambiguity.md",
+          "kind": "position",
+          "title": "Ambiguity",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "position_reception.md",
+          "kind": "position",
+          "title": "Reception",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "position_record.md",
+          "kind": "position",
+          "title": "Record",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "position_telling.md",
+          "kind": "position",
+          "title": "Telling",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "position_uptake.md",
+          "kind": "position",
+          "title": "Uptake",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "process_grounding.md",
+          "kind": "process",
+          "title": "Grounding",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "process_keeping.md",
+          "kind": "process",
+          "title": "Keeping",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "process_recalling.md",
+          "kind": "process",
+          "title": "Recalling",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "process_trusting.md",
+          "kind": "process",
+          "title": "Trusting",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
+        },
+        {
+          "file": "process_tuning.md",
+          "kind": "process",
+          "title": "Tuning",
+          "taxonomy": "play_the_way_i_told_it_to_you.md"
         }
       ]
     },

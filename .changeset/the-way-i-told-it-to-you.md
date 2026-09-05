@@ -1,0 +1,9 @@
+---
+"@chbrain/khai-misfits": minor
+---
+
+Add the misfit **The Way I Told It to You**: a person who was there describes an afternoon to a person who was not, and describes it to _them_, selecting among the accounts the afternoon honestly supports the ones this listener will be able to take. The message lands, the listener has it, and a year later what the speaker retrieves is the version they told. Nothing false was asserted, because real events admit several accurate descriptions. Nobody was persuaded, because the listener made no case and never once said what they thought. And the tuning cannot be given up, because a hearer reaches a unique reading by assuming the speaker built the utterance for them, so an untuned account is not a plainer one but an unusable one.
+
+The boundary condition is what makes it a trap rather than a habit: the memory follows the tuning only where the exchange **succeeded**, after feedback that the audience identified what was described and not after failed identification, mediated by the speaker's epistemic trust in the audience's reading of the world. What makes the message good is what makes the memory move.
+
+Declares the axis `message-tailoring` at a negative sign, its first member. Distinct from The Front, where the edit is driven by how the speaker will be read and the loss lands on a group starved of the burning thing while the speaker's own belief is untouched: stipulate away every stake and every audience worth impressing and this play survives whole, because tuning to a listener is not something a speaker does under observation but something a speaker does to be understood. Distinct from The Illusion of Shared Understanding and The Ear It Was Heard With, which both run on a gap between what was meant and what was taken: here there is no gap, and the harm needs the communication to have worked perfectly.
