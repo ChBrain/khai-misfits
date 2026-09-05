@@ -3,8 +3,8 @@ concept: "Alternative Stable States and Hysteresis (the lake that will not come 
 field: "Ecology, evolution, and public health"
 source: "Scheffer et al. on shallow lakes; Scheffer, Critical Transitions in Nature and Society"
 axis: nutrient-load
-sign: negative
-updated: "2026-08-09"
+sign: negative # how readily a lake returns to its clear state, as the nutrient load it has already carried rises
+updated: "2026-09-04"
 ---
 
 # Back to Where It Was Fine: Reference

@@ -3,8 +3,8 @@ concept: "The Lee Shore (the windward no-go sector; leeway rising as speed falls
 field: "Safety, risk, and complex systems"
 source: "Marchaj (Aero-Hydrodynamics of Sailing, 1979; Seaworthiness, 1986); Harland (1984); the loss of HMS St George and HMS Defence (1811)"
 axis: onshore-wind-strength
-sign: negative
-updated: "2026-08-25"
+sign: negative # how far a vessel can work off a lee shore, as the wind setting her onto it strengthens
+updated: "2026-09-04"
 ---
 
 # The Wind That Holds You There: Reference

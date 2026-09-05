@@ -3,8 +3,8 @@ concept: "Sequential Attention to Goals (quasi-resolution of conflict; goals as 
 field: "Organisations, hierarchy, and management"
 source: "Cyert & March, _A Behavioral Theory of the Firm_ (1963); Greve (_AMJ_, 2008)"
 axis: goal-conflict
-sign: negative
-updated: "2026-08-28"
+sign: negative # how much a decision weighs its goals against one another, as the goals it must satisfy conflict more
+updated: "2026-09-04"
 ---
 
 # Whichever Is Behind: Reference

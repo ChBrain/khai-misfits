@@ -3,8 +3,8 @@ concept: "Limits to Growth (the binding balancing loop)"
 field: "Systems-dynamics archetypes (Senge)"
 source: "Senge, _The Fifth Discipline_ (1990); Meadows"
 axis: growth-engine-effort
-sign: negative
-updated: "2026-08-28"
+sign: negative # how much growth an added effort buys, as more of it is spent on the engine rather than on the limit
+updated: "2026-09-04"
 ---
 
 # Limits to Growth: Reference

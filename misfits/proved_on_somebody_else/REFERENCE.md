@@ -3,8 +3,8 @@ concept: "The Efficacy-Effectiveness Gap (explanatory versus pragmatic trials; t
 field: "Measurement, cognition, and inquiry"
 source: "Schwartz & Lellouch (Journal of Chronic Diseases, 1967); Rothwell (Lancet, 2005)"
 axis: experimental-control
-sign: negative
-updated: "2026-08-22"
+sign: negative # how far a result transfers to the conditions of use, as the control that made the demonstration decisive tightens
+updated: "2026-09-04"
 ---
 
 # Proved on Somebody Else: Reference

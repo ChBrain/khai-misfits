@@ -3,8 +3,8 @@ concept: "Accent and Credibility (processing fluency misattributed as a cue to t
 field: "Groups, candour, and face"
 source: "Lev-Ari & Boaz Keysar, Journal of Experimental Social Psychology (2010); the processing-fluency literature"
 axis: processing-effort
-sign: negative
-updated: "2026-08-21"
+sign: negative # how much a listener's judgement of a claim reflects the claim, as the effort of processing it rises
+updated: "2026-09-04"
 ---
 
 # They Heard Their Own Effort: Reference

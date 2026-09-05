@@ -3,8 +3,8 @@ concept: "The Doctrinal Paradox (the discursive dilemma; judgment aggregation, p
 field: "Collective action, commons, and coordination"
 source: "Kornhauser & Sager on the doctrinal paradox (1986); Christian List & Pettit on the discursive dilemma; Mongin on the distinction"
 axis: proposition-interdependence
-sign: negative
-updated: "2026-08-24"
+sign: negative # how far a group's votes on the parts agree with its vote on the whole, as the propositions become more interdependent
+updated: "2026-09-04"
 ---
 
 # Which Question First: Reference

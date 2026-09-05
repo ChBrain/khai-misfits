@@ -3,8 +3,8 @@ concept: "IPO Lockup Expiration (the anticipation puzzle; the anomaly that canno
 field: "Markets, money, and economic equilibria"
 source: "Field & Hanka, Journal of Finance (2001); Ofek & Richardson (NYU Stern, 1999); Edward M. Miller, Journal of Finance (1977)"
 axis: locked-float-fraction
-sign: negative
-updated: "2026-08-17"
+sign: negative # how much a price reflects what the shares are worth, as more of them are locked out of trading
+updated: "2026-09-04"
 ---
 
 # The Shares to Say It With: Reference

@@ -3,8 +3,8 @@ concept: "Archaeological Excavation as Destruction (the unrepeatable reading; pr
 field: "Measurement, cognition, and inquiry"
 source: "Gavin Lucas, Critical Approaches to Fieldwork (2001); Renfrew & Bahn; the Valletta Convention (1992)"
 axis: observation-destructiveness
-sign: negative
-updated: "2026-08-28"
+sign: negative # how much of a record survives to be read again, as reading it costs more of it
+updated: "2026-09-04"
 ---
 
 # Taken Apart to Be Read: Reference

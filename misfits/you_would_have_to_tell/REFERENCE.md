@@ -3,8 +3,8 @@ concept: "Disclosure Deterrence under a Duty to Report (the Tarasoff duty to war
 field: "Groups, candour, and face"
 source: "Tarasoff v. Regents (1976); Griffin Edwards (_Journal of Law and Economics_, 2014)"
 axis: mandated-onward-disclosure
-sign: negative
-updated: "2026-08-28"
+sign: negative # how much a person tells a professional, as the professional's duty to pass it on widens
+updated: "2026-09-04"
 ---
 
 # You Would Have to Tell: Reference

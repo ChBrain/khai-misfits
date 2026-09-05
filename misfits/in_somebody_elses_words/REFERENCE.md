@@ -3,8 +3,8 @@ concept: "The Court Interpreter's Bind (pragmatic transfer; credibility read fro
 field: "Groups, candour, and face"
 source: "Berk-Seligson, The Bilingual Courtroom (1990); Conley, O'Barr & Lind (Duke Law Journal, 1978); Hale (2004); Wadensjö (1998)"
 axis: interpretive-mediation
-sign: negative
-updated: "2026-08-19"
+sign: negative # how directly a listener assesses the speaker rather than the rendering, as the speech passes through more mediation
+updated: "2026-09-04"
 ---
 
 # In Somebody Else's Words: Reference
