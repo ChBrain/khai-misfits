@@ -11286,7 +11286,7 @@ about to be declared must have left the mixed list.
 splitting a key is what a declaration does; naming a cell only makes the split legible. So the governance
 pass has a prediction to check: ten declarations, and 1680 becomes 1690.
 
-- [ ] [P1] Declare the ten as homonyms in `khai-guard.config.json`: `Bowen ["Murray", "William G"]`,
+- [x] [P1] Declare the ten as homonyms in `khai-guard.config.json`: `Bowen ["Murray", "William G"]`,
       `Samuelson ["Paul", "William F"]`, `Myers ["Samuel S", "C A"]`, `Clarke` widened with `Ronald V`,
       `Frey ["Bruno", "Dieter"]`, `Keil ["Frank", "Mark"]`, `Coleman ["James", "Jesse"]`,
       `Huang ["Lei", "Lexiang"]`, `Webster ["Rob", "Bruce F"]`, `Pearl ["Judea", "Raymond"]`. Governance
@@ -11298,3 +11298,28 @@ pass has a prediction to check: ten declarations, and 1680 becomes 1690.
       now a tidiness backlog and not an unsearched set. Naming those cells is worth doing for the index and
       is worth nothing for correctness, so it is a low priority and should never again be confused with the
       audit that just ran.
+
+**The hundred and twenty-third pass declares the ten, and the audit's prediction lands on the number.**
+
+**All ten are declared and the probe returns to zero.** `Bowen`, `Clarke`, `Coleman`, `Frey`, `Huang`,
+`Keil`, `Myers`, `Pearl`, `Samuelson` and `Webster`, each with the incumbent first and the person the audit
+found second. Every cell carrying every one of them was already resolved by the previous pass, so all ten
+fire on nothing, which is what the conditional sequencing rule was written to guarantee. **The half that
+went first made the half that follows uneventful**, and that is the whole argument for the order.
+
+**The science index moves from 1680 scholars to 1690.** The audit predicted it to the number and the pass
+checked it rather than asserting it. Ten keys became twenty, which is the arithmetic of the finding stated
+plainly: **the house had ten people it did not know it held**, and it held them for as long as each of those
+citations has been in.
+
+**A prediction is worth more than a claim, and this one cost nothing to make.** The audit could have said
+the count was wrong and left it there. Naming the figure it would move to turned the next pass into a test
+with a pass mark, and a wrong number would have meant the model of the mechanism was wrong somewhere. It was
+not. **Where a pass hands work to a successor, the cheapest thing it can hand over is a number the successor
+can check.**
+
+**One correction to the audit's own slate line.** It wrote `Clarke` as a widening of an existing
+declaration, on the strength of `Clark` being in the config with four forms. `Clark` and `Clarke` are
+different surnames and the config had no `Clarke` at all, so the entry is new rather than widened. The error
+was harmless and its cause is worth keeping: **a surname read from memory of a neighbouring key is a surname
+not read**, and the config is one grep away.
