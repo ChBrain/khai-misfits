@@ -11030,3 +11030,62 @@ value.
       the suite goes green, which is the point. It is governance, it belongs to whoever owns `khai-tests`
       rather than to this house alone, and the register should say so rather than assume the gate is ours
       to add.
+
+**The hundred and eighteenth pass runs the concept list on a fresh vocabulary, refuses its best candidate,
+and finds the instrument that refused it.**
+
+**The vocabulary is recorded, which the plan asks of every run of this selector: the named effects of group
+dynamics and interpersonal communication.** It was chosen by the field count, which orders a search and
+never answers one: **Groups, candour, and face** holds 26 plays against 86 for Measurement, cognition and
+inquiry. **Thirty-five terms probed, five clear on the term, one refused on the mechanism, three slated.**
+
+**The refusal is the finding.** "Hidden profile" and "common knowledge effect" both returned **clear**, and
+the house holds the mechanism outright. **The Colour of the Bike Shed** cites Stasser and Titus twice, and
+stages the dynamic as a piece of its own: **The Drift**, "carries the hidden-profile dynamic, discussion
+flowing to the shared and graspable and away from the consequential". A whole play was nearly written for a
+vector another play already carries.
+
+**Three probes, three answers, in increasing order of authority.** The **term** probe said clear and was
+wrong. The **surname** probe said Stasser and Titus are already in the index and pointed at the file. The
+**piece list** settled it, because a piece's line in the Company says what that piece carries, and this one
+names the mechanism in so many words.
+
+**So the surname scan belongs in scouting and not only before authoring**, where the plan currently puts
+it. A named effect's founding paper already appearing in the index is the strongest available signal that
+the house holds the mechanism, and it costs one command per candidate. **And the piece descriptions are a
+better index of mechanisms than the concept lines are**, because a play's concept names what it stages and
+its pieces name everything it carries, which is where a supporting vector lives.
+
+**This is the same lesson the bufferbloat pass recorded from the other side.** There a concept list found
+Too Kind to Drop only because its warrant happened to use the word, and the rule written was that the probe
+must run on the mechanism as well as the term. **The rule was right and had no instrument.** It has two
+now, and both are one command.
+
+- [ ] [P2] **Audience tuning**, the saying-is-believing effect. A speaker tailors a message to what the
+      audience is known to think, which is ordinary communicative competence, and their own later memory of
+      the event shifts toward the version they told. Nobody lies and nobody is persuaded by anybody: the
+      tuning is cooperative and the drift is in the teller. The dedup owed is against **The Front**, where
+      what is edited is what gets shared and the speaker's own belief is untouched.
+
+- [ ] [P2] **Egocentric advice discounting.** A judge weights their own estimate above an adviser's and
+      does worse than the average of the two would have. The engine is an asymmetry of access rather than
+      arrogance: a person sees their own reasons and only the adviser's conclusion, so the two inputs are
+      not comparable objects and weighting them equally would require information the judge does not have.
+      The dedup owed is against **On Good Authority** and **Seen and Therefore Settled**, which both run on
+      deference rather than on its absence.
+
+- [ ] [P3] **Stereotype threat**, slated with a **sourcing** caution rather than a shape one. The shape is
+      good and the literature is contested, with replication failures and publication-bias analyses that
+      the house's Restrictions would have to carry honestly. Read the state of the evidence before writing,
+      and be prepared to refuse it on the sourcing rule rather than on the mechanism.
+
+- [ ] [P3] **Deindividuation**, with the same caution and a sharper form of it. The classical account has
+      been substantially reinterpreted by the social identity model of deindividuation effects, so a play
+      would have to choose which account it stages and say why, and the honest version may be the
+      reinterpretation rather than the famous original.
+
+**One note on an instrument this pass broke and repaired.** Counting the fields with a grep for lines
+beginning `field:` returned an extra category made of prose, because one warrant's paragraph wraps so that
+"field:" starts a line. **A grep for a frontmatter key must be anchored to the frontmatter block**, and a
+count that returns one more category than the house has categories is the cheapest possible signal that it
+was not.
