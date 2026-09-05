@@ -3,8 +3,8 @@ concept: "Safeguarding as Codification (heritage inscription; the suppression of
 field: "Measurement, cognition, and inquiry"
 source: "Kirshenblatt-Gimblett (Museum International, 2004); Milroy & Milroy, Authority in Language"
 axis: codification
-sign: negative
-updated: "2026-08-16"
+sign: negative # how freely a practice keeps changing in the hands of the people who hold it, as it is written down and fixed
+updated: "2026-09-04"
 ---
 
 # Held Still to Keep It: Reference

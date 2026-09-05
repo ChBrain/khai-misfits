@@ -3,8 +3,8 @@ concept: "Normal Accidents (tight coupling); the fragility of the lean"
 field: "Safety, risk, and complex systems"
 source: "Perrow, _Normal Accidents_ (1984); Taleb"
 axis: buffer-slack
-sign: positive
-updated: "2026-08-27"
+sign: positive # how much of a shock a system absorbs before a failure crosses between its parts, as slack rises
+updated: "2026-09-04"
 ---
 
 # The Brittle Optimum: Reference

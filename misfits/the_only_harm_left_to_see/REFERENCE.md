@@ -3,8 +3,8 @@ concept: "The Immunisation Programme Cycle (success removing the evidence for it
 field: "Ecology, evolution, and public health"
 source: "Chen & Orenstein (Epidemiologic Reviews, 1996); Gangarosa et al. (Lancet, 1998); Larson et al. (EBioMedicine, 2016)"
 axis: intervention-coverage
-sign: negative
-updated: "2026-08-25"
+sign: negative # how visible the harm a programme prevents remains, as its coverage rises
+updated: "2026-09-04"
 ---
 
 # The Only Harm Left to See: Reference

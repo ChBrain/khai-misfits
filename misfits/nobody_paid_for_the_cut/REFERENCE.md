@@ -3,8 +3,8 @@ concept: "The Multitask Distortion (incentive intensity on the contractible dime
 field: "Organisations, hierarchy, and management"
 source: "Holmström & Milgrom (JLEO, 1991); the penny-a-liner trade (1830s)"
 axis: incentive-intensity
-sign: negative
-updated: "2026-08-22"
+sign: negative # how much effort reaches the parts of a job nobody can verify, as the reward on the verifiable parts rises
+updated: "2026-09-04"
 ---
 
 # Nobody Paid for the Cut: Reference
