@@ -10731,7 +10731,7 @@ has already been spent, and this play's is **asset specificity**, with nothing s
 the decision it turns on, since the harm is the anticipation of sinking. **A candidate that needs an
 argument settled before it can be declared is slated and not taken.**
 
-- [ ] [P2] Settle Over a Barrel against `sunk-cost`. The warrant claims one dial and the reading suggests
+- [x] [P2] Settle Over a Barrel against `sunk-cost`. The warrant claims one dial and the reading suggests
       two, and the deciding question is whether the quantity is what has been spent or how little else the
       asset could be used for. Run the stipulation: fix the amount already sunk at zero and ask whether the
       hold-up survives, then fix asset specificity at zero and ask the same. If both survive it is not one
@@ -11323,3 +11323,55 @@ declaration, on the strength of `Clark` being in the config with four forms. `Cl
 different surnames and the config had no `Clarke` at all, so the entry is new rather than widened. The error
 was harmless and its cause is worth keeping: **a surname read from memory of a neighbouring key is a surname
 not read**, and the config is one grep away.
+
+**The hundred and twenty-fourth pass settles Over a Barrel against `sunk-cost`, and the answer is no on a
+test that leaves nothing to judgement.**
+
+**Escalation turns on a magnitude and hold-up turns on a ratio.** That is the whole settlement and it is
+better than the stipulations, because it decides the question without weighing anything. What drives Good
+Money After Bad is how much has already been spent, so doubling the amount sunk makes it worse. What drives
+Over a Barrel is how much less the asset is worth in its next best use than in this one, so doubling the
+amount sunk changes nothing where the ratio holds. **A plant costing a hundred million with a
+ninety-nine-million alternative use exposes almost nothing; a ten-thousand-pound tool worth a hundred as
+scrap exposes almost everything.** Two quantities that are not in the same units cannot be one dial, and no
+amount of reading the two warrants against each other would have been as quick as noticing that.
+
+**The stipulations agree and are worth recording as the confirmation rather than the argument.** Fix the
+amount sunk at zero and the hold-up survives whole, because the decision the play turns on is taken before
+anything is sunk at all and the harm is the investment never made. Fix asset specificity at zero and the
+quasi-rent, the threat and the play all disappear together. Both survive one and die on the other, which is
+the shape the slate line said would settle it.
+
+**The warrant's own sentence was the source of the confusion and has been corrected.** It said the two "run
+opposite ways from the same sunk cost", which is true as prose and false as an axis claim: both sentences
+mention a sunk cost, and a sunk cost is a precondition in one play and the quantity in the other. **A shared
+word is the commonest false positive in axis joins**, and this is the register's own rule catching a case
+the register itself had let stand for nine passes.
+
+**And the play does have an axis: `asset-specificity`, renamed from `training-specificity`.** The incumbent
+is **Ready on the First Day**, which is a play about vocational education, so the nearest incumbent was
+again the play that shares the dial rather than the play that shares the subject. Over a Barrel's
+subject-neighbours are Moral Hazard, The Market for Lemons and Good Money After Bad, all economics, and all
+three are distinctness rows rather than axis rows.
+
+**The join was already written into the incumbent's warrant, unnoticed.** Ready on the First Day carries a
+disclosure that the general-versus-specific distinction it depends on is Becker's. Williamson's asset
+specificity names human assets as one of its four kinds, and the hold-up problem is the standard account of
+why a firm and a worker both under-invest in a skill worth less anywhere else. **The two plays were sitting
+on one theoretical floor and only one of them had said so.** A disclosure paragraph naming a theory is an
+axis declaration waiting to be read, in the same way a distinctness paragraph is, and the house has now been
+shown both.
+
+**The rename was forced rather than chosen.** `training-specificity` is a name that cannot hold a plant
+built beside a buyer's factory, and the general term is the literature's own. Where a first member's axis
+name describes the member instead of the dial, the second member does not join it: it renames it.
+
+- [ ] [P2] Read **Good Enough to Leave** against `asset-specificity`. It is declared on
+      `credential-recognisability` at a negative sign, "how much of the workforce a training country keeps,
+      as the certificate it awards is recognised further away", and recognisability rising is specificity
+      falling, so it may be the same dial read from the far end and the axis's first opposition. Against it:
+      recognisability is whether a third party can **verify** the skill, not whether the skill is **useful**
+      elsewhere, and a nurse's competence is redeployable whether or not anybody will certify it. The
+      deciding question is whether an outside option nobody will recognise is an outside option at all. **A
+      candidate that needs an argument settled before it can be declared is slated and not taken**, which is
+      the rule that produced the row this pass has just closed.
