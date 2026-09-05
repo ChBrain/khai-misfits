@@ -111,6 +111,13 @@ the same choice. **What sets the sign is what a decision falls back on when it c
 and what it converges on when it can.** Neither end fails safely: perfect legibility spends the variety a
 population needed, and no legibility hands the decision to a group prior that then makes itself true.
 
+The house's **Good Enough to Leave** stands at this play's own end of the dial, on the same axis and the
+same sign. There the legible individual is a clinician whose certificate a foreign registrar can read, every
+board that can read it recruits her, and the country that paid for the training loses the rota. **A legible
+individual is drawn out of the population that produced them, and the population thins**, which is this
+play's law in a studbook and that play's in a labour market. The instrument differs, a progeny index against
+a certificate, and the dial does not.
+
 ## Origin
 
 The measured spine, the scale and the trend, why the register cannot be replenished, why the evidence concentrates the

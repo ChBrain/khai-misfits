@@ -11366,7 +11366,7 @@ shown both.
 built beside a buyer's factory, and the general term is the literature's own. Where a first member's axis
 name describes the member instead of the dial, the second member does not join it: it renames it.
 
-- [ ] [P2] Read **Good Enough to Leave** against `asset-specificity`. It is declared on
+- [x] [P2] Read **Good Enough to Leave** against `asset-specificity`. It is declared on
       `credential-recognisability` at a negative sign, "how much of the workforce a training country keeps,
       as the certificate it awards is recognised further away", and recognisability rising is specificity
       falling, so it may be the same dial read from the far end and the axis's first opposition. Against it:
@@ -11375,3 +11375,46 @@ name describes the member instead of the dial, the second member does not join i
       deciding question is whether an outside option nobody will recognise is an outside option at all. **A
       candidate that needs an argument settled before it can be declared is slated and not taken**, which is
       the rule that produced the row this pass has just closed.
+
+**The hundred and twenty-fifth pass reads Good Enough to Leave against `asset-specificity`, answers no, and
+finds the axis it does belong on somewhere else entirely.**
+
+**The deciding test is to redeploy the asset by fiat and watch its value.** Put the nurse in a foreign ward
+with no paperwork question and she is worth every penny of her training. Put the specialised plant beside a
+different buyer and the value collapses. Same operation, opposite results, so the two plays are not on one
+dial. **Asset specificity is a property of the asset; recognisability is a property of the market's ability
+to observe it.** A credential nobody will read is an outside option that exists and cannot be exercised; a
+specific asset has no outside option to exercise at all.
+
+**And specificity is not merely the wrong dial here, it is pinned.** Clinical competence is clinical
+competence anywhere, so the play runs its whole length at the low-specificity end without moving along it.
+The slated hypothesis had the relationship backwards: recognisability rising is not specificity falling,
+because the two are not the same variable measured in opposite directions but two independent reasons an
+outside option fails to bind.
+
+**The reading found the real axis, and it was two rows away.** Good Enough to Leave moves from
+`credential-recognisability` to **`merit-legibility`**, keeping its negative sign, joining **The One
+Everybody Used** at the legible end and opposing **The Proxy** at the other. The dial is how cheaply a
+stranger can read an individual's own qualities, and a certificate is exactly the instrument that makes a
+clinician readable to a registrar who has never met her.
+
+**The incumbent axis's discriminator covered the new member without a word changed**, which is the best
+evidence a join can have. It reads: what sets the sign is what a decision falls back on when it cannot read
+the individual, and what it converges on when it can. Good Enough to Leave is on the converging side, and
+the pair with the popular sire compresses to one sentence: **a legible individual is drawn out of the
+population that produced them, and the population thins.** A studbook in one play and a labour market in the
+other; a progeny index in one and a certificate in the other; the same dial.
+
+**`credential-recognisability` is retired for the reason the last pass named.** It described the instrument
+rather than the quantity, a certificate being one way merit becomes cheap for an outsider to read and a
+progeny index being another. The last pass wrote that where a first member's axis name describes the member,
+the second member renames it. **This pass adds the other half: where the general axis already exists, the
+singleton does not get renamed, it gets absorbed**, and the test for which of the two applies is simply
+whether a dial-shaped name is already in the house.
+
+**And the incumbent's own distinctness row was not the obstacle it looked like.** Good Enough to Leave
+already carried a paragraph cutting itself from Ready on the First Day, on the grounds that the payer is a
+country rather than a person and the clock is a labour market rather than a career. Both true, and neither
+touches the axis question, because **an axis shares a dial and not a mechanism**. A distinctness paragraph
+proves two plays are different plays; it never proves they are on different dials, and reading it as though
+it did would have stopped this pass before it started.

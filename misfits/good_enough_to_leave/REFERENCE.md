@@ -2,8 +2,8 @@
 concept: "The Portable Credential (health worker migration; recognition as the export licence)"
 field: "Collective action, commons, and coordination"
 source: "Beine, Docquier & Rapoport (_The Economic Journal_, 2008); the WHO Global Code of Practice (2010)"
-axis: credential-recognisability
-sign: negative # how much of the workforce a training country keeps, as the certificate it awards is recognised further away
+axis: merit-legibility
+sign: negative # how much of the workforce a training country keeps, as its clinicians' quality becomes cheaper for a stranger to verify
 updated: "2026-09-04"
 ---
 
@@ -53,6 +53,23 @@ It is distinct from the house's **The Lowest Bar**, which stages regulatory comp
 standards downward to attract what is mobile. Switch that engine off, stipulating no competitive pressure on
 standards anywhere, and this stands entire, and it runs the other way: nothing here is lowered to attract
 anything, and **the funding country raises its standard unilaterally, at its own cost, and that is what exports.**
+
+It runs on the axis `merit-legibility`, at the **legible** end, with the house's
+**The One Everybody Used**, and against the house's **The Proxy** at the opposite end. The dial is how
+cheaply a stranger can read an individual's own qualities, and this play's certificate is the instrument
+that makes a clinician readable to a registrar who has never met them: the governing law here, that
+recognisability is the whole content of a certification, is that dial stated in the language of documents.
+**What sets the sign is what a decision falls back on when it cannot read the individual, and what it
+converges on when it can**, and this play is on the converging side. There a bull is provably best on a
+measured index and every independent chooser breeds to him until a generation's ancestry collapses to a
+handful; here a nurse is provably competent on a readable certificate and every independent board recruits
+her until a rota does not fill. **A legible individual is drawn out of the population that produced them,
+and the population thins.** In The Proxy the same dial fails at the other end, the agent cannot see the
+individual at all and falls back on the average of their group.
+
+The axis was declared as `credential-recognisability` while this play was its only member, which named the
+instrument rather than the quantity: a certificate is one way an individual's merit becomes cheap for an
+outsider to read, and a progeny index is another.
 
 ## Origin
 
