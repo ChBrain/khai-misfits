@@ -3,8 +3,8 @@ concept: "Risk Compensation (the Peltzman effect; risk homeostasis)"
 field: "Safety, risk, and complex systems"
 source: 'Peltzman, "The Effects of Automobile Safety Regulation" (JPE, 1975); Wilde'
 axis: protective-cover
-sign: negative
-updated: "2026-08-28"
+sign: negative # how much of a safety gain survives as behaviour, as the protection between the actor and the harm thickens
+updated: "2026-09-04"
 ---
 
 # The Spent Margin: Reference

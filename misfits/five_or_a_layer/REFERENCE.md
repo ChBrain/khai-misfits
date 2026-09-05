@@ -2,9 +2,7 @@
 concept: "The Span of Control Trade (supervision bought with layers; attention and fidelity spent against each other)"
 field: "Organisations, hierarchy, and management"
 source: "Graicunas, Relationship in Organisation (1933); Rajan & Wulf on the flattening firm"
-axis: hierarchy-depth
-sign: negative
-updated: "2026-08-22"
+updated: "2026-09-04"
 ---
 
 # Five, or a Layer: Reference
@@ -26,6 +24,15 @@ bureaucratic middle or a manager who should try harder.
 
 The governing law is that supervision can only be bought with layers and a layer is a device for delivering less, so
 every setting of the shape spends the thing the other setting was protecting.
+
+**And this play declares no axis, which its own first sentence requires.** It staged the chart as "one dial
+with a cost written at each end", and then carried `hierarchy-depth` at a negative sign, which cannot be
+right: widen the span and each person gets a slice of a week already committed, narrow it and a layer is
+inserted that exists precisely so that less reaches the person above. **Attention and fidelity are two
+goods moving in opposite directions on one dial**, so there is no single quantity to say a sign about, and a
+one-dial-two-bad-ends structure is the case the house leaves undeclared. The dial itself is real and The
+Frozen Middle holds it, because that play's harm runs one way: more layers, less of the signal survives.
+This one is the trade rather than a position on it.
 
 **Nobody in the sequence falls short, and that is what puts the failure outside anybody's conduct.** The executive sets
 a span they can hold. The manager supervises a small team properly. The summary is accurate. The report does the work.

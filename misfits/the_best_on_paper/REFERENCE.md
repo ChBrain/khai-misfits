@@ -3,8 +3,8 @@ concept: "The Optimizer's Curse (post-decision surprise; selection on noisy esti
 field: "Measurement, cognition, and inquiry"
 source: 'Smith & Winkler, "The Optimizer''s Curse" (Management Science, 2006)'
 axis: noise-share-of-the-measure
-sign: negative
-updated: "2026-08-28"
+sign: negative # how close a chosen option's realised value stays to its estimate, as the share of estimation error in the estimates rises
+updated: "2026-09-04"
 ---
 
 # The Best on Paper: Reference

@@ -3,8 +3,8 @@ concept: "Moral Hazard (hidden action; risk compensation)"
 field: "Markets, money, and economic equilibria"
 source: 'Arrow, "Uncertainty and the Welfare Economics of Medical Care" (AER, 1963)'
 axis: protective-cover
-sign: negative
-updated: "2026-07-02"
+sign: negative # how much unobservable care a party takes as the cover between it and the loss thickens
+updated: "2026-09-04"
 ---
 
 # Moral Hazard: Reference

@@ -3,8 +3,8 @@ concept: "Intellectual Distance in Peer Evaluation (the expert reviewer's lower 
 field: "Measurement, cognition, and inquiry"
 source: "Kevin J Boudreau, Guinan, Lakhani & Riedl, Management Science (2016); Gallo and colleagues, PLOS ONE (2016)"
 axis: reviewer-proximity
-sign: negative
-updated: "2026-08-21"
+sign: negative # how likely a novel proposal is to be funded as the reviewer able to judge it sits closer to its field
+updated: "2026-09-04"
 ---
 
 # Near Enough to Doubt It: Reference

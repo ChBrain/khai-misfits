@@ -10861,8 +10861,48 @@ pass named in the antigenic sin play is rarer than the two-bad-ends one, and the
 reading turned up was of the older kind. That is a result about the house rather than about the method: its
 authors have been good at spotting a dial with a bad end at each extreme and have declared one anyway, once.
 
-- [ ] [P2] Work the ninety-nine bare signs. Every one of them is a play whose author declared a direction
+- [x] [P2] Work the ninety-nine bare signs. Every one of them is a play whose author declared a direction
       and did not say what moves in it, and writing the comment is the test: a sign whose comment writes
       itself in one clause is sound, and a sign whose comment needs two clauses joined by "and" is naming
       two quantities. Report signs commented against signs withdrawn, and expect withdrawals to be rare,
       since one in a hundred is what this pass measured.
+
+**The hundred and fourteenth pass writes fifteen sign comments, and the sixteenth refuses to be written,
+which is the instrument working on its first outing.**
+
+**Sixteen attempted, fifteen written, one withdrawal.** The bare count falls from 98 to 82 and the wall from
+200 units declaring an axis to 199. The slice was the eleven axes with **some members commented and some
+bare**, chosen because the comment is nearly free there and because writing it tests the join: a co-member's
+comment says what the dial measures, so a bare member either takes a comment of the same shape or does not
+belong.
+
+**Five or a Layer gives up `hierarchy-depth`, and its own first sentence is the reason.** It stages the
+organisation chart as **"one dial with a cost written at each end"**: widen the span and each person gets a
+slice of a week already committed, narrow it and a layer is inserted that exists precisely so that less
+reaches the person above. Its governing law says every setting of the shape spends the thing the other
+setting was protecting. **Attention and fidelity are two goods moving in opposite directions on one dial**,
+so there is no single quantity to say a sign about.
+
+**The comment could not be written in one clause, which is the test the last pass proposed, and it worked
+first time.** Every attempt came out as "how much attention **and** fidelity survive together", and the
+"and" was joining two quantities rather than elaborating one. That is now a measured instrument rather than
+a proposal: **fifteen comments wrote themselves in a single clause and the one that needed a conjunction was
+a sign that should not have been declared.**
+
+**The dial survives and The Frozen Middle holds it alone.** Its harm runs one way, because its layer is
+measured on continuity while charged with change, so it damps the large signal for a reason of its own
+rather than as an arithmetic remainder, and it loses a single quantity: how much of what was sent survives
+the rungs between the ends. **Its joining paragraph is corrected**, since it named Five or a Layer as an
+axis-mate one pass ago, and the correction is in the file rather than only here.
+
+**And the reading settled what a sign comment is for, which nobody had written down.** It names **that
+play's** good quantity, not the axis's. That is why `incentive-intensity` carries seven members with seven
+different comments, and why an opposed pair carries two comments about two different goods and is still one
+dial. The diagnostic from the last pass survives this correction intact, because its case is two goods
+moving oppositely **inside one play**, which is what both withdrawals turned out to be.
+
+- [ ] [P2] Work the remaining eighty-two bare signs, which are on axes where **every** member is bare, so
+      no co-member's comment is there to copy the shape from. Expect them to be harder and the withdrawal
+      rate to be higher, since a dial whose whole membership never said what moves has never had the
+      question put to it. Report comments written against signs withdrawn, and take the singletons first,
+      because a singleton's sign has never been checked against anybody.

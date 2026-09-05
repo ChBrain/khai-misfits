@@ -3,8 +3,8 @@ concept: "Re-identification of De-identified Records (quasi-identifiers; the uti
 field: "Measurement, cognition, and inquiry"
 source: "Sweeney (2000); Golle (2006); de Montjoye (2013); Rocher, Hendrickx & de Montjoye (2019)"
 axis: record-granularity
-sign: negative
-updated: "2026-08-21"
+sign: negative # how well a released record hides the individual in it, as the detail that makes it answer a question rises
+updated: "2026-09-04"
 ---
 
 # Only One Person Fits: Reference

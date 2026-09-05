@@ -3,8 +3,8 @@ concept: "The Deterrence Paradox (the wrongful intentions principle; rational to
 field: "Collective action, commons, and coordination"
 source: 'Kavka, "Some Paradoxes of Deterrence" (Journal of Philosophy, 1978); Gauthier (Ethics, 1984)'
 axis: precommitment
-sign: positive
-updated: "2026-08-16"
+sign: positive # how credible a threat is as the ability to bind oneself to carrying it out rises
+updated: "2026-09-04"
 ---
 
 # You Have to Mean It: Reference

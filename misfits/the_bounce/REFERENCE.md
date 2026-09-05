@@ -3,8 +3,8 @@ concept: "Regression to the Mean"
 field: "Measurement, cognition, and inquiry"
 source: 'Galton, "Regression towards Mediocrity" (1886); Kahneman'
 axis: noise-share-of-the-measure
-sign: negative
-updated: "2026-08-28"
+sign: negative # how much of an extreme reading is the thing rather than the occasion, as the share of noise in the measure rises
+updated: "2026-09-04"
 ---
 
 # The Bounce: Reference
