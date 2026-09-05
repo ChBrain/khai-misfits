@@ -11061,7 +11061,7 @@ Too Kind to Drop only because its warrant happened to use the word, and the rule
 must run on the mechanism as well as the term. **The rule was right and had no instrument.** It has two
 now, and both are one command.
 
-- [ ] [P2] **Audience tuning**, the saying-is-believing effect. A speaker tailors a message to what the
+- [x] [P2] **Audience tuning**, the saying-is-believing effect. A speaker tailors a message to what the
       audience is known to think, which is ordinary communicative competence, and their own later memory of
       the event shifts toward the version they told. Nobody lies and nobody is persuaded by anybody: the
       tuning is cooperative and the drift is in the teller. The dedup owed is against **The Front**, where
@@ -11128,3 +11128,60 @@ name. The gate is right and its complaint reads as a content fault when it is a 
       near a line end, and the failure mode is a gate that is correct and unhelpfully worded. It is
       `khai-tests` governance rather than this house's, so the register records it and does not assume the
       fix is ours to make.
+
+**The hundred and twentieth pass authors the audience-tuning play, and pays a namesake bill it could have
+sequenced around.**
+
+**The Way I Told It to You is the three hundred and forty-second misfit**, thirty-six files, declaring the
+axis `message-tailoring` at a **negative** sign as its first member. The slate owed a dedup against The
+Front, and the cut held on the first reading: there the edit is driven by how the speaker will be read, what
+is held back is what would cost them standing, and the loss lands on a group starved of the burning thing
+while the speaker's own belief is untouched. Here nothing is held back, the listener receives a true and
+well-built account, the group is short of nothing, and the only party changed is the one who was actually
+there. **Stipulate away every stake and every audience worth impressing and this play survives whole**,
+which is the switch-off that settles it: tuning to a listener is not something a speaker does under
+observation but something a speaker does to be understood.
+
+**The nearer incumbents were not the ones the slate named.** The Ear It Was Heard With and The Illusion of
+Shared Understanding sit in the same field and both run on a gap between what was meant and what was taken.
+This play has no gap in it: the message is designed for this hearer, the hearer takes it as designed, and
+the two end in genuine agreement. **The harm needs the communication to have worked perfectly**, which is
+the condition those two plays are about failing to reach, so the dedup is not a matter of degree.
+
+**The boundary condition runs the wrong way round, and that is the whole trap.** The memory does not follow
+the tuning by itself. It follows the tuning where feedback signalled that the audience had identified the
+target, and not after failed identification, mediated by the communicator's epistemic trust in the
+audience's judgement about the world. **What makes the message good is what makes the memory move.** A
+speaker who wanted to protect their own copy of the afternoon would have to arrange to be misunderstood by
+somebody they did not respect, so the play's last settlement is the honest one: stop caring whether the
+listener understood, and the drift stops along with the reason anybody says anything to anybody.
+
+**The pass carries a namesake obligation it created knowingly and could have avoided.** The scan ran before
+authoring, as the rule now requires, and it reported `Murphy` as **taken and bare** in How Many They Have
+Done: Kevin Murphy, the economist. The audience-design citation this play's load-bearing piece rests on is
+Herbert Clark and **Gregory** Murphy, 1982. That is a different person, and the surname is undeclared, so
+the two cells collate under one key and the probe now bills one undeclared surname naming two people, where
+it had held at zero.
+
+**The scan tells you a surname is taken; it does not tell you the taken cell is somebody else.** Reading the
+cell is the second half of the instrument, and this pass read it, saw the collision coming, and authored
+anyway on the reasoning that the probe is a report rather than a gate. The suite is green and the citation
+is correct, so the work is sound. But the sequence was wrong, and it was wrong in a way the house has
+already solved: **Turner** was slated on exactly this shape and declared in its own governance pass, #737,
+before the count could rest anywhere but zero. The declaration is governance and the citation is content, so
+the obligation has two halves in two lanes and this pass can only carry one of them.
+
+**The rule that pays: where the scan returns a bare surname belonging to a different person, the governance
+half goes first.** A declaration naming a form no citation uses yet costs nothing and fires on nothing,
+since an existing cell that already names its person matches; authoring first leaves the probe off zero on
+the trunk for a pass. The bibliography was never the thing to bend. **Rewording a citation to keep an
+instrument quiet is the failure this rule exists to prevent**, and the two candidate dodges were both
+available and both refused: attributing audience design to a sole-authored Clark volume that does not name
+it, and hiding the pair in the Key Work column where the index does not read, which the compound bill would
+have caught anyway.
+
+- [ ] [P1] Declare `Murphy` as `["Kevin", "Gregory"]` in `khai-guard.config.json`, restoring the probe to
+      zero on the undeclared-surname bill. Kevin Murphy is already named in How Many They Have Done and
+      Gregory Murphy in The Way I Told It to You, so both cells resolve and the declaration fires on
+      nothing. Governance lane, and owed immediately rather than at leisure, because the count it breaks is
+      one the house holds at zero.
