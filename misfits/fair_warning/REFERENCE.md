@@ -1,6 +1,8 @@
 ---
 concept: "The Green Paradox (announced future demand cuts accelerating present extraction)"
 field: "Markets, money, and economic equilibria"
+axis: precommitment
+sign: negative # how much carbon a phase-out actually keeps in the ground, as the announcement of it becomes more credible
 source: 'Sinn, "Public policies against global warming: a supply side approach" (Int. Tax & Public Finance, 2008)'
 updated: "2026-07-31"
 ---
@@ -63,6 +65,23 @@ effective price and the total burned goes up, whereas here demand is being delib
 channel is **supply** responding to an expected future price, and the total burned may be unchanged
 while its arrival is merely brought forward, which is a different quantity going wrong for a different
 reason.
+
+It runs against the house's **Time Inconsistency**, **Starting Tomorrow** and
+**You Have to Mean It**, on the axis `precommitment` and at the opposite end, and the four are one
+dial read from its two harmful sides. The warrant's own cut against the first states the test: **the remedy
+that fixes time inconsistency, making the commitment more credible, is the thing that makes this worse.** In
+the three incumbents the party who cannot bind themselves is the party whose behaviour is the problem, a
+saver who will not save, a government that will re-optimise, a deterrer who cannot mean the threat, and
+every increment of binding closes the gap between what they want now and what they will want later. Here the
+government binds itself perfectly and the behaviour that matters belongs to somebody else entirely: a
+resource owner, bound by nothing, who reads the announcement as news about future prices and correctly
+brings extraction forward.
+
+**What sets the sign is whether the party whose behaviour matters is the party being bound.** Where the
+binding falls on the actor whose own future self is the trouble, more of it is better. Where it falls on one
+party and the decisive behaviour belongs to an unbound third who reads the commitment as a price signal,
+more of it is worse, and the credibility that makes a promise work is the same credibility that makes this
+one backfire.
 
 ## Origin
 
