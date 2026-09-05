@@ -3,8 +3,8 @@ concept: "Automation Bias (overtrust; automation complacency)"
 field: "Safety, risk, and complex systems"
 source: "Parasuraman & Riley (1997); Skitka, Mosier & Burdick (1999); Parasuraman & Manzey (2010)"
 axis: automation-coverage
-sign: negative
-updated: "2026-07-03"
+sign: negative # how much independent checking a monitor still does, as the automation covers more of the task
+updated: "2026-09-04"
 ---
 
 # The Empty Seat: Reference

@@ -3,8 +3,8 @@ concept: "The Ironies of Automation"
 field: "Safety, risk, and complex systems"
 source: 'Bainbridge, "Ironies of Automation" (Automatica, 1983)'
 axis: automation-coverage
-sign: negative
-updated: "2026-07-03"
+sign: negative # how ready an operator is to take over, as the automation covers more of the task
+updated: "2026-09-04"
 ---
 
 # The Irony of Automation: Reference

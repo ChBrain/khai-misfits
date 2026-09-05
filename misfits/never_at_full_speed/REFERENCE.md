@@ -3,8 +3,8 @@ concept: "Severity-Gated Rehearsal (the untested reserve; skill availability und
 field: "Safety, risk, and complex systems"
 source: "Renden, Landman, Savelsbergh & Oudejans (Ergonomics, 2015); Pinder, Davids, Renshaw & Araújo (2011); Kano (Kodokan judo, 1882)"
 axis: technique-severity
-sign: negative
-updated: "2026-08-25"
+sign: negative # how well a technique can be rehearsed at the speed it would be used, as its severity rises
+updated: "2026-09-04"
 ---
 
 # Never at Full Speed: Reference

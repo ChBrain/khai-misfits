@@ -3,8 +3,8 @@ concept: "Material Convergence (unsolicited in-kind donations consuming the capa
 field: "Collective action, commons, and coordination"
 source: "Fritz & Mathewson (1957); the material-convergence and humanitarian-logistics literature"
 axis: unsolicited-inflow
-sign: negative
-updated: "2026-08-21"
+sign: negative # how much sorting capacity is left for the useful donations, as unsolicited goods arrive in greater volume
+updated: "2026-09-04"
 ---
 
 # They All Sent Something: Reference

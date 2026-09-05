@@ -3,8 +3,8 @@ concept: "Regrettable Substitution (the evidence asymmetry; absence of data as c
 field: "Safety, risk, and complex systems"
 source: "Rochester & Bolden, EHP (2015); Blum et al., ES&T Letters (2019); Zhanyun Wang et al., Environment International (2013)"
 axis: time-in-use
-sign: negative
-updated: "2026-08-17"
+sign: negative # how likely a substitute is to be better than what it replaces, as the incumbent accumulates years of use and a record
+updated: "2026-09-04"
 ---
 
 # Nothing Known Against It: Reference

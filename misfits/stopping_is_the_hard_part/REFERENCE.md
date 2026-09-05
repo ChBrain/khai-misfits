@@ -3,8 +3,8 @@ concept: "Transient Operating Mode Risk (process safety in start-up and shutdown
 field: "Safety, risk, and complex systems"
 source: "the IChemE study of 500 process safety incidents (1998); CCPS, Guidelines for Process Safety During the Transient Operating Mode"
 axis: time-in-transient
-sign: negative
-updated: "2026-08-21"
+sign: negative # how well a plant's protection matches its state, as more of its time is spent moving between states
+updated: "2026-09-04"
 ---
 
 # Stopping Is the Hard Part: Reference

@@ -3,8 +3,8 @@ concept: "Load-Redistribution Cascade (the fiber-bundle model)"
 field: "Safety, risk, and complex systems"
 source: 'Daniels, "The Statistical Theory of the Strength of Bundles of Threads" (1945)'
 axis: risk-pool-members
-sign: positive
-updated: "2026-07-24"
+sign: positive # how much margin each member keeps, as the number still carrying the load rises
+updated: "2026-09-04"
 ---
 
 # Onto the Survivors: Reference

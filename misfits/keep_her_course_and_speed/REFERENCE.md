@@ -3,8 +3,8 @@ concept: "The Stand-On Obligation (COLREG Rule 17; determinacy bought by suppres
 field: "Safety, risk, and complex systems"
 source: "COLREG 1972, Rules 16 and 17; García Maza & Poo Argüelles (Ocean Engineering, 2022); Hagen, Knutsen, Johansen & Brekke (Journal of Navigation, 2024)"
 axis: stand-on-hold-obligation
-sign: negative
-updated: "2026-08-25"
+sign: negative # how much a vessel that can see the danger may do about it, as its duty to hold course binds harder
+updated: "2026-09-04"
 ---
 
 # Keep Her Course and Speed: Reference

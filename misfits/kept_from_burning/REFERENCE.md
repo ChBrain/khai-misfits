@@ -3,8 +3,8 @@ concept: "The Fire Suppression Paradox (fuel accumulation; the fire deficit)"
 field: "Safety, risk, and complex systems"
 source: "Pyne, Fire in America (1982); Minnich, Science (1983); Arno & Brown (1991)"
 axis: small-disturbance-suppression
-sign: negative
-updated: "2026-08-16"
+sign: negative # how mild the eventual disturbance is, as more of the small ones are suppressed
+updated: "2026-09-04"
 ---
 
 # Kept From Burning: Reference

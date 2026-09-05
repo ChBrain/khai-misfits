@@ -3,8 +3,8 @@ concept: "The Anthropogenic Allee Effect (rarity value; scarcity pricing a speci
 field: "Ecology, evolution, and public health"
 source: "Courchamp, Angulo, Rivalan et al. (PLoS Biology, 2006); Hall, Milner-Gulland & Courchamp"
 axis: population-density
-sign: positive
-updated: "2026-07-30"
+sign: positive # how safe a species is from being priced into extinction, as its density rises
+updated: "2026-09-04"
 ---
 
 # Worth More Nearly Gone: Reference

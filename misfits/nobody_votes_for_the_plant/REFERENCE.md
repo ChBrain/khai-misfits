@@ -3,8 +3,8 @@ concept: "Shareholder Primacy and Firm-Specific Investment (the control right ag
 field: "Markets, money, and economic equilibria"
 source: "Berle & Means (1932); Blair & Stout, Virginia Law Review (1999); Hansmann, The Ownership of Enterprise (1996)"
 axis: owner-diversification
-sign: negative
-updated: "2026-08-19"
+sign: negative # how much weight a firm's decisions give to a stake nobody can diversify, as its residual claimants hold more diversified portfolios
+updated: "2026-09-04"
 ---
 
 # Nobody Votes for the Plant: Reference

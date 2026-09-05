@@ -3,8 +3,8 @@ concept: "The Hierarchy of Controls, Inverted in Practice (effectiveness ordered
 field: "Safety, risk, and complex systems"
 source: "The National Safety Council (1950); NIOSH; Ajslev et al. (IJERPH, 2022)"
 axis: response-urgency
-sign: negative
-updated: "2026-08-21"
+sign: negative # how strong a control the answer can be, as the harm demands an answer sooner
+updated: "2026-09-04"
 ---
 
 # Gloves by Friday: Reference

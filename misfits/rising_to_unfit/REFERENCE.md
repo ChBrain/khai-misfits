@@ -3,8 +3,8 @@ concept: "The Peter Principle (promotion to incompetence)"
 field: "Organisations, hierarchy, and management"
 source: "Peter & Hull, _The Peter Principle_ (1969)"
 axis: role-similarity
-sign: positive
-updated: "2026-08-28"
+sign: positive # how well a promoted person performs, as the new post resembles the one they were promoted for
+updated: "2026-09-04"
 ---
 
 # Rising to Unfit: Reference
