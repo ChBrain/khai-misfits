@@ -3,8 +3,8 @@ concept: "Cumulative Fish Passage Loss (per-structure efficiency multiplied acro
 field: "Ecology, evolution, and public health"
 source: "Keefer, Jepson, Clabough & Caudill, PLOS ONE (2021); the fishway passage-efficiency literature"
 axis: barriers-in-series
-sign: negative
-updated: "2026-08-21"
+sign: negative # how much of a run arrives at the spawning ground, as the number of barriers it must pass in series rises
+updated: "2026-09-04"
 ---
 
 # Ninety-Six Times Eight: Reference

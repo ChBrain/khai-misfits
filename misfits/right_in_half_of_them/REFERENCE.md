@@ -3,8 +3,8 @@ concept: "Intralocus Sexual Conflict (sexual antagonism; the load on a shared ge
 field: "Ecology, evolution, and public health"
 source: "Rice (Science, 1992); Chippindale, Gibson & Rice (PNAS, 2001); Foerster and colleagues on red deer (Nature, 2007)"
 axis: cross-sex-genetic-sharing
-sign: negative
-updated: "2026-08-23"
+sign: negative # how close each sex comes to its own optimum, as the genome carrying the trait is shared between them
+updated: "2026-09-04"
 ---
 
 # Right in Half of Them: Reference

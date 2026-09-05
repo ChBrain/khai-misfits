@@ -3,8 +3,8 @@ concept: "Alarm Fatigue (the cry-wolf effect; signal detection)"
 field: "Safety, risk, and complex systems"
 source: "Aesop; Breznitz (1984); Green & Swets"
 axis: alarm-sensitivity
-sign: negative
-updated: "2026-07-03"
+sign: negative # how reliably a warning is answered as the setting that raises its catch rate is turned up
+updated: "2026-09-04"
 ---
 
 # Alarm Fatigue: Reference

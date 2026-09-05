@@ -3,8 +3,8 @@ concept: "Second-Order Free-Riding (the sanctioning system as a public good; the
 field: "Collective action, commons, and coordination"
 source: "Oliver (1980); Yamagishi, Journal of Personality and Social Psychology (1986); Heckathorn (1989)"
 axis: enforcement-cost-to-the-enforcer
-sign: negative
-updated: "2026-08-19"
+sign: negative # how much enforcement a group gets, as the cost of enforcing falls on the enforcer alone
+updated: "2026-09-04"
 ---
 
 # And Then Who Makes Them: Reference

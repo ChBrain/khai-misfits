@@ -3,8 +3,8 @@ concept: "Forensic Confirmation Bias (contextual bias; the necessary contaminati
 field: "Measurement, cognition, and inquiry"
 source: "Dror, Charlton & Péron, Forensic Science International (2006); Krane et al., J. Forensic Sciences (2008)"
 axis: case-context-supplied
-sign: negative
-updated: "2026-08-17"
+sign: negative # how independent an examiner's judgement is of everything but the marks, as the case context that makes the examination possible rises
+updated: "2026-09-04"
 ---
 
 # The Same Print Twice: Reference

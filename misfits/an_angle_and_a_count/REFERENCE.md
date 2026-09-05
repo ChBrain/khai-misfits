@@ -2,9 +2,7 @@
 concept: "The Leap Second (civil time bound to both the Earth's rotation and a uniform count)"
 field: "Measurement, cognition, and inquiry"
 source: "the definition of UTC (1972); Robert A Nelson et al, Metrologia (2001); CGPM Resolution 4 (2022)"
-axis: civil-time-earth-coupling
-sign: negative
-updated: "2026-08-18"
+updated: "2026-09-04"
 ---
 
 # An Angle and a Count: Reference
@@ -28,6 +26,13 @@ committee or a careless programmer.
 
 The governing law is that both requirements are correct and one quantity has to carry them, so every
 publishable civil time breaks one of them and the only decision available is which.
+
+**And this play declares no axis, which that sentence requires.** It carried `civil-time-earth-coupling` at
+a negative sign, and there is no direction to declare on it. Hold the published number to the rotation and
+the count stops being uniform, so an interval is not a measurement and two events cannot be ordered. Let the
+count run uniform and noon drifts off the sun, so nothing fixed to the ground can be pointed at. **Both ends
+are harmful and in different currencies**, which is the one-dial-two-bad-ends structure the house leaves
+undeclared, and the play says as much itself: the only decision available is which requirement to break.
 
 **Nothing here is measured wrong, which is what puts the failure outside anybody's conduct.** The Earth's
 orientation is known to far better precision than the correction it justifies, and the caesium count is the

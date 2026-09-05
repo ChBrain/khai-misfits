@@ -3,8 +3,8 @@ concept: "Patch-Based Exploit Generation (the disclosure window; the repair that
 field: "Safety, risk, and complex systems"
 source: "Brumley, Poosankam, Song & Zheng, IEEE S&P (2008); Bilge & Dumitraş, CCS (2012); Arbaugh, Fithen & McHugh (2000)"
 axis: disclosure-detail
-sign: negative
-updated: "2026-08-17"
+sign: negative # how long a defender has before the flaw is usable, as the repair specifies it more precisely
+updated: "2026-09-04"
 ---
 
 # The Fix Tells Them Where: Reference

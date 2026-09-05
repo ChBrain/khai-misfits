@@ -3,8 +3,8 @@ concept: "Common Ownership (horizontal shareholding; the proprietor of rival fir
 field: "Markets, money, and economic equilibria"
 source: "Azar, Schmalz & Tecu, Journal of Finance (2018); O'Brien & Salop (2000); Elhauge, Harvard Law Review (2016)"
 axis: common-ownership-overlap
-sign: negative
-updated: "2026-08-19"
+sign: negative # how hard two rivals compete, as the same proprietors hold more of both
+updated: "2026-09-04"
 ---
 
 # The Same Name on Both Registers: Reference

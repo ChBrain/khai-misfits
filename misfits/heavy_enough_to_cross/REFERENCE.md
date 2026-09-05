@@ -3,8 +3,8 @@ concept: "Ballast Water as an Invasion Vector (the seaworthiness of the unladen 
 field: "Ecology, evolution, and public health"
 source: "Carlton & Geller, Science (1993); the Ballast Water Management Convention; the Black Sea Mnemiopsis invasion"
 axis: ballast-volume
-sign: negative
-updated: "2026-08-28"
+sign: negative # how little living coastal water a ship carries between coasts, as the ballast it needs to cross safely rises
+updated: "2026-09-04"
 ---
 
 # Heavy Enough to Cross: Reference

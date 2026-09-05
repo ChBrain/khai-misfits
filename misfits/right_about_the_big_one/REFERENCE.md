@@ -3,8 +3,8 @@ concept: "The Forecaster's Dilemma (evaluation conditioned on extreme outcomes; 
 field: "Measurement, cognition, and inquiry"
 source: "Lerch, Thorarinsdottir, Ravazzolo & Gneiting, Statistical Science (2017); Gneiting & Raftery, JASA (2007); Denrell & Fang, Management Science (2010)"
 axis: evaluation-extremeness
-sign: negative
-updated: "2026-08-17"
+sign: negative # how well a proper scoring rule still rewards honesty, as the forecasts scored are selected for extreme outcomes
+updated: "2026-09-04"
 ---
 
 # Right About the Big One: Reference

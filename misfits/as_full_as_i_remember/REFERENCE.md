@@ -3,8 +3,8 @@ concept: "Shifting Baseline Syndrome (generational amnesia; the reference point 
 field: "Measurement, cognition, and inquiry"
 source: "Daniel Pauly, TREE (1995); Papworth et al., Conservation Letters (2009); Soga & Gaston (2018)"
 axis: baseline-recency
-sign: negative
-updated: "2026-08-28"
+sign: negative # how much of a decline a person can see, as the baseline they carry is set later
+updated: "2026-09-04"
 ---
 
 # As Full As I Remember: Reference

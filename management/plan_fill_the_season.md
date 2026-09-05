@@ -10901,8 +10901,48 @@ different comments, and why an opposed pair carries two comments about two diffe
 dial. The diagnostic from the last pass survives this correction intact, because its case is two goods
 moving oppositely **inside one play**, which is what both withdrawals turned out to be.
 
-- [ ] [P2] Work the remaining eighty-two bare signs, which are on axes where **every** member is bare, so
+- [x] [P2] Work the remaining eighty-two bare signs, which are on axes where **every** member is bare, so
       no co-member's comment is there to copy the shape from. Expect them to be harder and the withdrawal
       rate to be higher, since a dial whose whole membership never said what moves has never had the
       question put to it. Report comments written against signs withdrawn, and take the singletons first,
       because a singleton's sign has never been checked against anybody.
+
+**The hundred and fifteenth pass comments twenty-four bare singleton signs, withdraws a third axis, and
+refuses a fourth withdrawal on a rule the refusal produced.**
+
+**Twenty-five attempted, twenty-four written, one withdrawal.** The bare count falls from 82 to 57 and the
+wall from 199 units declaring an axis to 198. The slice is the first twenty-five of the seventy-three bare
+singletons taken alphabetically by axis, which is an arbitrary cut deliberately: an ordering chosen for
+interest would report a rate that means nothing.
+
+**An Angle and a Count gives up `civil-time-earth-coupling`**, and its own governing law is the reason:
+"both requirements are correct and one quantity has to carry them, so every publishable civil time breaks
+one of them and **the only decision available is which**". Hold the number to the rotation and the count
+stops being uniform, so an interval is not a measurement and two events cannot be ordered. Let the count run
+uniform and noon drifts off the sun, so nothing fixed to the ground can be pointed at. Both ends harmful, in
+different currencies.
+
+**The near-withdrawal is the pass's finding, because it stops the instrument over-firing.** The Same Print
+Twice reads exactly like a two-bad-ends play: "the value of expert judgement and its exposure to context are
+the same property of the material", and "removing the exposure would mean removing the reason for the
+examination". Two goods on one dial, by the look of it. **It is not**, and the reason is that at zero
+context the examiner cannot begin: an item handed over with no question attached is not a request anybody
+can act on. That end of the dial is not a bad setting, it is **no setting**, because the activity the play
+stages does not occur there.
+
+**So the rule: a far end at which the activity does not exist is not a harmful end.** Run it against the
+three withdrawals and all three survive it. At zero layers an organisation still runs and every person gets
+a sliver of one manager's week. At a pure atomic count civil time still runs and simply diverges from the
+sky. At perfect marker agreement an examination still happens and measures the trivial. Each of those is a
+**bad setting somebody could choose**, which is what a second harmful end has to be.
+
+**That is the third rule this campaign has produced and they now compose into a test.** A sign is wrong when
+the comment cannot be written in one clause **and** the far end is a setting somebody could occupy **and**
+what is bad there is a structural trap rather than an ordinary failure. Three plays have failed all three
+conditions; one failed the first and passed the second, and keeps its sign.
+
+- [ ] [P2] Work the remaining forty-eight bare singletons, continuing alphabetically from
+      `experimental-control`. Three withdrawals in fifty-one signs read is a rate worth extrapolating from,
+      and the next slice will say whether it holds. Report comments written against signs withdrawn, and
+      apply the three conditions rather than the first one alone, since this pass showed the first fires on
+      plays that keep their signs.
