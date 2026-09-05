@@ -2,6 +2,8 @@
 concept: "The Hold-Up Problem (appropriable quasi-rents; the fundamental transformation)"
 field: "Markets, money, and economic equilibria"
 source: "Klein, Crawford & Alchian (J. Law & Econ., 1978); Williamson"
+axis: asset-specificity
+sign: negative # how much of the value-creating investment actually gets made, as the asset is worth less in its next best use than in this one
 updated: "2026-08-25"
 ---
 
@@ -47,8 +49,24 @@ has no comparably good outside use and so exposes its holder. It is distinct fro
 the escalation of commitment, where a sunk cost irrationally pulls more investment after it in the hope
 of redeeming it: there the sunk cost causes overinvestment and the error is the actor's own, here the
 sunk cost causes underinvestment and the retreat is entirely rational, the specific asset left unbuilt
-precisely because building it would expose it, so the two run opposite ways from the same sunk cost, one
-throwing good money after bad and the other declining to put good money at risk at all.
+precisely because building it would expose it. The two do run opposite ways, but **not along one dial**, and
+the reason is that they are not measured in the same units: **escalation turns on a magnitude and hold-up
+turns on a ratio**. What drives Good Money After Bad is how much has already been spent, so doubling the
+amount sunk makes it worse. What drives this play is how much less the asset is worth in its next best use
+than in this one, so doubling the amount sunk changes nothing where the ratio holds: a plant costing a
+hundred million with a ninety-nine-million alternative use exposes almost nothing, and a ten-thousand-pound
+tool worth a hundred pounds as scrap exposes almost everything. And the decision this play turns on is taken
+when **nothing has been sunk at all**, because the harm is the investment never made.
+
+It runs with the house's **Ready on the First Day** on the axis `asset-specificity`, at the same end and
+the same sign, and the pair is what the axis is named from. There the asset is a person's training and the
+alternative use is a different task twenty years on; here it is a plant, a tool or a skill and the
+alternative use is a different counterparty this afternoon. Williamson's own term covers both, human asset
+specificity being one of the four kinds he names, and the quantity is identical in each: **how much value is
+lost when the thing is redeployed**. What differs is only the second ingredient that turns the exposure into
+a loss, a world that changes there and a counterparty who can squeeze here, and an axis shares a dial rather
+than a mechanism. The axis was called `training-specificity` while it held one member, which is a name that
+cannot hold a plant built beside a factory.
 
 ## Origin
 

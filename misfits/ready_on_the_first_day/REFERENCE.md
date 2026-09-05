@@ -2,7 +2,7 @@
 concept: "The Specificity Trade in Vocational Education (early employment advantage, later adaptability cost)"
 field: "Organisations, hierarchy, and management"
 source: "Hanushek, Schwerdt, Woessmann & Zhang, Journal of Human Resources (2017); Autor, Levy & Murnane, QJE (2003)"
-axis: training-specificity
+axis: asset-specificity
 sign: negative # how well a leaver adapts when the task moves, as the course they took was specified more tightly
 updated: "2026-09-04"
 ---
@@ -95,6 +95,19 @@ that cannot discriminate cannot be aimed. This production does not cite that wor
 lifecycle literature instead, but the two misfits sit on one theoretical floor and a reader should be told so:
 there the question is what an unaimable grant can appropriate, and here it is what a person's specific skill is
 worth across a working life.
+
+It runs with the house's **Over a Barrel** on the axis `asset-specificity`, at the same end and the same
+sign, and the axis is renamed from `training-specificity` now that a second member has arrived, since that
+name cannot hold a plant built beside one buyer's factory. The quantity is identical in both: **how much
+value is lost when the thing is redeployed**. Here the thing is a person's training and the alternative use
+is a different task twenty years on; there it is a plant, a tool or a skill and the alternative use is a
+different counterparty this afternoon. What differs is only the second ingredient that turns the exposure
+into a loss, a world that changes here and a counterparty who can squeeze there, and an axis shares a dial
+rather than a mechanism. **The join was already written into the disclosure above**: the general-versus-
+specific distinction this play rests on is Becker's, Williamson's asset specificity names human assets as one
+of its four kinds, and the hold-up problem is the standard account of why a firm and a worker both
+under-invest in a skill that is worth less anywhere else. The two plays were sitting on one floor and only
+one of them had said so.
 
 ## Origin
 
