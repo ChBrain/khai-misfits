@@ -3,8 +3,8 @@ concept: "Kessler Syndrome (the collision cascade; a commons emptied by its own 
 field: "Collective action, commons, and coordination"
 source: "Donald Kessler & Cour-Palais, JGR (1978); Liou & Johnson, Science (2006)"
 axis: orbital-object-density
-sign: negative
-updated: "2026-08-17"
+sign: negative # how usable an orbit stays, as the density of objects in it rises
+updated: "2026-09-04"
 ---
 
 # Nobody Has to Launch Again: Reference

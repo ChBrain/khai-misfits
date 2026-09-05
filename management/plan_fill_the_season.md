@@ -10941,8 +10941,47 @@ the comment cannot be written in one clause **and** the far end is a setting som
 what is bad there is a structural trap rather than an ordinary failure. Three plays have failed all three
 conditions; one failed the first and passed the second, and keeps its sign.
 
-- [ ] [P2] Work the remaining forty-eight bare singletons, continuing alphabetically from
+- [x] [P2] Work the remaining forty-eight bare singletons, continuing alphabetically from
       `experimental-control`. Three withdrawals in fifty-one signs read is a rate worth extrapolating from,
       and the next slice will say whether it holds. Report comments written against signs withdrawn, and
       apply the three conditions rather than the first one alone, since this pass showed the first fires on
       plays that keep their signs.
+
+**The hundred and sixteenth pass comments twenty-five more singleton signs and withdraws nothing, which is
+the result the campaign needed.**
+
+**Twenty-five attempted, twenty-five written, none withdrawn.** The bare count falls from 57 to 32 and the
+wall holds at 198 units declaring an axis. The slice continues alphabetically from `experimental-control`,
+by the same arbitrary cut as the last one.
+
+**A clean slice is a result and it moves the rate.** Three withdrawals in fifty-one signs read is now three
+in seventy-six, and more importantly **the instrument is not finding a wrong sign wherever it looks**. A
+test that fired on one in twenty-five and then on none in twenty-five is behaving like a test; one that
+fired at a steady rate would have been evidence that the reading was generating findings rather than
+detecting them.
+
+**Three near-misses refused, and the third adds the fourth rule of the campaign.** _Taken Apart to Be Read_
+trades digging now against letting the record decay, and the trade runs along **time** rather than along
+destructiveness, whose far end is a non-destructive reading and is simply good. _Given to Everyone_ says the
+property making an open grant valuable is the property making it unaimable, which is **one setting with two
+faces** rather than two settings, the same shape as The Same Print Twice. And **The Name Does Not Move**
+names its far end outright, since the alternative code "trades fixity for correctness without escaping the
+trade", and keeps its sign anyway.
+
+**So: a far end named as a rejected settlement is not a far end staged.** A No Hero paragraph exists to name
+the settlements and say what each costs, so every well-made play in the house names positions on its dial
+that it does not occupy. The three withdrawn plays did something different: they said so **in their first
+sentence**, as the structure they were staging. One dial with a cost written at each end; two correct
+requirements one quantity has to carry; a protection and a narrowing that arrive in one property.
+
+**The four rules now read as one procedure.** Try the comment in a single clause. If it needs a conjunction
+joining two goods, ask whether the far end is a setting somebody could occupy, whether what is bad there is
+a structural trap rather than an ordinary failure, and whether the play **stages** that end rather than
+naming it among its settlements. All four have to hold. Seventy-six signs read, three failed all four, and
+four failed the first alone.
+
+- [ ] [P3] Work the last thirty-two bare signs. Twenty-three are singletons continuing alphabetically from
+      `recombination`, and nine sit on the four axes where every member is bare, which are the only rows
+      left where a co-member cannot help and none has ever had the question put to it. It is a P3 rather
+      than a P2 because the campaign has already produced its findings and this is the tail of it, which is
+      worth finishing and is unlikely to teach anything further.

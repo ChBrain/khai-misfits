@@ -3,8 +3,8 @@ concept: "Language Shift (intergenerational transmission; the one-way acquisitio
 field: "Collective action, commons, and coordination"
 source: "Fishman, Reversing Language Shift (1991); Gal, Language Shift (1979); Crystal, Language Death (2000)"
 axis: intergenerational-transmission
-sign: positive
-updated: "2026-08-16"
+sign: positive # how much of a language survives, as the number of households still passing it to children rises
+updated: "2026-09-04"
 ---
 
 # Nobody Stopped Speaking It: Reference

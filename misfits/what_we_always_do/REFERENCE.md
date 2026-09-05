@@ -3,8 +3,8 @@ concept: "Threat Rigidity (restricted information processing and constricted con
 field: "Organisations, hierarchy, and management"
 source: "Staw, Sandelands & Dutton (Administrative Science Quarterly, 1981)"
 axis: perceived-threat
-sign: negative
-updated: "2026-08-24"
+sign: negative # how wide the range of responses considered stays, as the threat felt by those considering them rises
+updated: "2026-09-04"
 ---
 
 # What We Always Do: Reference

@@ -3,8 +3,8 @@ concept: "The Calibration Window (proxy reconstruction; the stationarity assumpt
 field: "Measurement, cognition, and inquiry"
 source: "Briffa et al, Nature (1998); the calibration-verification method; the NRC report on surface temperature reconstructions (2006)"
 axis: extrapolation-reach
-sign: negative
-updated: "2026-08-19"
+sign: negative # how much a reconstruction can be trusted, as it is asked to reach further beyond the window it was calibrated in
+updated: "2026-09-04"
 ---
 
 # A Hundred Years to Vouch for a Thousand: Reference

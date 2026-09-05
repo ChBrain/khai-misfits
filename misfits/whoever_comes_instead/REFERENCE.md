@@ -3,8 +3,8 @@ concept: "The Non-Identity Problem (person-affecting morality; the harm with no 
 field: "Collective action, commons, and coordination"
 source: 'Parfit, Reasons and Persons (1984), Part IV; Kavka, "The Paradox of Future Individuals" (1982)'
 axis: identity-dependence
-sign: negative
-updated: "2026-08-16"
+sign: negative # how well a person-affecting principle can name who was wronged, as the choice determines which people exist
+updated: "2026-09-04"
 ---
 
 # Whoever Comes Instead: Reference

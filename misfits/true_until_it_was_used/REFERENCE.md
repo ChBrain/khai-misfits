@@ -3,8 +3,8 @@ concept: "The Lucas Critique (regime dependence of estimated relations; paramete
 field: "Markets, money, and economic equilibria"
 source: "Lucas, Carnegie-Rochester Conference Series (1976); Marschak (1953); Ericsson & Irons (1995)"
 axis: policy-reliance-on-estimates
-sign: negative
-updated: "2026-08-18"
+sign: negative # how well an estimated relation holds, as policy leans on it more heavily
+updated: "2026-09-04"
 ---
 
 # True Until It Was Used: Reference

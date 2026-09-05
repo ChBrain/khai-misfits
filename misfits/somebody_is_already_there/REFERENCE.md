@@ -3,8 +3,8 @@ concept: "Planck's Principle (the eminent incumbent and the deterrence of entry)
 field: "Measurement, cognition, and inquiry"
 source: "Planck, _Scientific Autobiography_ (1950); Azoulay, Fons-Rosen & Graff Zivin (American Economic Review, 2019)"
 axis: incumbent-occupancy
-sign: negative
-updated: "2026-08-25"
+sign: negative # how quickly a field corrects, as the position is held by an eminent incumbent
+updated: "2026-09-04"
 ---
 
 # Somebody Is Already There: Reference

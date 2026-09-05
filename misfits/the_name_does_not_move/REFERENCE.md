@@ -3,8 +3,8 @@ concept: "Nomenclatural Stability (the name-bearing type; priority over accuracy
 field: "Measurement, cognition, and inquiry"
 source: "the International Code of Zoological Nomenclature; the botanical code; the PhyloCode as the alternative"
 axis: name-anchor-rigidity
-sign: negative
-updated: "2026-08-19"
+sign: negative # how closely a name still fits what it is used for, as the anchors fixing it are made harder to move
+updated: "2026-09-04"
 ---
 
 # The Name Does Not Move: Reference

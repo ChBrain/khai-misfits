@@ -3,8 +3,8 @@ concept: "The Expertise Reversal Effect (cognitive load; the redundancy of guida
 field: "Measurement, cognition, and inquiry"
 source: "Kalyuga, Ayres, Chandler & Sweller, Educational Psychologist (2003); Kalyuga, Chandler & Sweller (1998)"
 axis: learner-expertise
-sign: negative
-updated: "2026-08-16"
+sign: negative # how much a given piece of guidance helps, as the learner receiving it already holds more of the schema
+updated: "2026-09-04"
 ---
 
 # The Scaffold Left Up: Reference

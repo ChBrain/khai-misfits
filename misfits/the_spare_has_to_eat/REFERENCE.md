@@ -3,8 +3,8 @@ concept: "The Insurance Egg (obligate siblicide; redundancy that consumes the re
 field: "Ecology, evolution, and public health"
 source: "Lack's brood reduction hypothesis; David J. Anderson on obligate siblicide in boobies (1990)"
 axis: primary-reliability
-sign: negative
-updated: "2026-08-23"
+sign: negative # how long a redundant offspring is kept, as the primary's chance of surviving rises
+updated: "2026-09-04"
 ---
 
 # The Spare Has to Eat: Reference

@@ -3,8 +3,8 @@ concept: "The Tail at Scale (fan-out latency amplification; the service governed
 field: "Safety, risk, and complex systems"
 source: "Dean & Barroso (Communications of the ACM, 2013); Vulimiri and colleagues on redundancy (CoNEXT, 2013)"
 axis: fan-out-width
-sign: negative
-updated: "2026-08-23"
+sign: negative # how close a service's response time stays to a typical component's, as the number it waits on rises
+updated: "2026-09-04"
 ---
 
 # The Last One to Answer: Reference

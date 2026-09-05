@@ -3,8 +3,8 @@ concept: "Appropriability Under an Open Grant (non-discrimination; the unaimable
 field: "Markets, money, and economic equilibria"
 source: "Teece, Research Policy (1986); Lerner & Tirole, JIE (2002); the Open Source Definition, clauses 5 and 6"
 axis: licence-permissiveness
-sign: negative
-updated: "2026-08-16"
+sign: negative # how much of a grant's value its giver can still direct, as the licence permits more to more people
+updated: "2026-09-04"
 ---
 
 # Given to Everyone: Reference

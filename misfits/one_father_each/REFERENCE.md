@@ -3,8 +3,8 @@ concept: "Fisher's Principle (equal parental investment in the sexes; the sex-ra
 field: "Ecology, evolution, and public health"
 source: "Darwin (1871, withdrawn 1874); Düsing (1884); named for Fisher (1930); Hamilton on the exception"
 axis: population-mixing
-sign: negative
-updated: "2026-08-23"
+sign: negative # how far a population's sex ratio can sit where the population would benefit, as it mixes more freely
+updated: "2026-09-04"
 ---
 
 # One Father Each: Reference
