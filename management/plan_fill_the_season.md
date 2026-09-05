@@ -11067,7 +11067,7 @@ now, and both are one command.
       tuning is cooperative and the drift is in the teller. The dedup owed is against **The Front**, where
       what is edited is what gets shared and the speaker's own belief is untouched.
 
-- [ ] [P2] **Egocentric advice discounting.** A judge weights their own estimate above an adviser's and
+- [x] [P2] **Egocentric advice discounting.** A judge weights their own estimate above an adviser's and
       does worse than the average of the two would have. The engine is an asymmetry of access rather than
       arrogance: a person sees their own reasons and only the adviser's conclusion, so the two inputs are
       not comparable objects and weighting them equally would require information the judge does not have.
@@ -11089,3 +11089,42 @@ beginning `field:` returned an extra category made of prose, because one warrant
 "field:" starts a line. **A grep for a frontmatter key must be anchored to the frontmatter block**, and a
 count that returns one more category than the house has categories is the cheapest possible signal that it
 was not.
+
+**The hundred and nineteenth pass authors the advice-discounting play, and the dial it slated against turned
+out to be the dial it belongs on.**
+
+**I Can See Why I Think So is the three hundred and forty-first misfit**, thirty-six files, joining
+`deference-to-judgement` at a **positive** sign. The slate owed it a dedup against On Good Authority and
+Seen, and Therefore Settled, "which both run on deference rather than on its absence". They do, and that is
+why it is the same axis: **the absence of deference is a position on the deference dial**, and the slate
+line had written the opposition without noticing it had.
+
+**So the axis gains its first opposition and its first member at the low end.** Three plays sat at the high
+end, where a deferring party **stops examining**: a belief comes to rest on a citation chain nobody has
+walked, an appeal court adopts a finding it cannot re-examine, a holder takes a rule-recognised grade in
+place of a view. Here nobody stops examining. The judge examines hard, and only one of the two things in
+front of them can be examined at all.
+
+**What sets the sign is whether deference replaces the work or replaces a comparison the work cannot make.**
+Walking a citation chain is available and expensive; re-running a trial on paper is available and is what
+the deference exists to prevent; forming one's own credit view is available and the rule forbids it. In all
+three, deference substitutes for work that exists. **Reconstructing an adviser's reasoning is not available
+at all**, so the alternative to deference there is not more looking but arithmetic, and less of it is worse.
+
+**The mechanism is an asymmetry of access and it is symmetric**, which is what keeps the play outside
+anybody's conduct. Forming an opinion is assembling the case for it, so the case attaches to whoever built
+it, in both directions equally. Swap the two people and the discounting swaps with them. A judge who thought
+less of themselves would still be holding one inspectable claim and one bare one, so humility is not the
+missing ingredient and the play refuses it as a settlement.
+
+**One authoring note worth keeping, because it cost a cycle.** The opposition wall matches a play's title as
+a contiguous string, and the new warrant's line wrapped in the middle of **Good Enough to Hold**, so the
+wall reported the pair as unnamed while the name was plainly there to a reader. **A title that must be
+matched must not be allowed to wrap**, and the fix is to reflow the sentence rather than to shorten the
+name. The gate is right and its complaint reads as a content fault when it is a typographic one.
+
+- [ ] [P3] Ask whether the wall should match across a line break. Reflowing a sentence to keep a title
+      contiguous is a real editorial constraint, it will recur every time a play with a long title is named
+      near a line end, and the failure mode is a gate that is correct and unhelpfully worded. It is
+      `khai-tests` governance rather than this house's, so the register records it and does not assume the
+      fix is ours to make.

@@ -1,0 +1,9 @@
+---
+"@chbrain/khai-misfits": minor
+---
+
+Add the misfit **I Can See Why I Think So**: a person forms an estimate, and forming it is the same act as assembling the case for it, so their own number arrives with its reasons permanently attached. An adviser, asked, sends a number. The reasoning stayed where it was made, because a conclusion is what an opinion is and what was asked for, and sending the derivation would be a second analysis rather than a second opinion. So the judge weighs a claim they can inspect against a claim they cannot, moves a short way toward the second, and does worse than the midpoint would have done. Weighting them equally would mean acting on the strength of reasoning nobody has seen, and the argument for the midpoint is arithmetic about independent errors with nothing local in it, so it could not have been made in the room.
+
+**Joins `deference-to-judgement` at a positive sign, as the first member at that end of the dial and its first opposition.** On Good Authority, Seen and Therefore Settled and Good Enough to Hold all sit at the other end, where the deferring party stops examining. Here nobody stops examining, and only one of the two things in front of the judge can be examined at all. **What sets the sign is whether deference replaces the work or replaces a comparison the work cannot make**: where deference substitutes for looking, more of it is worse, and where the object deferred to is a bare conclusion and the alternative is arithmetic rather than more looking, less of it is worse. All four plays now name each other.
+
+Distinct from Not Invented Here, since stipulating advice with no author and no institution attached leaves this entire, because what is missing is not the adviser's standing but their reasoning. Distinct from The Skill to See It, since the judge may be exactly right about their own ability and the adviser's and the discounting persists.

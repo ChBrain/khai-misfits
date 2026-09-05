@@ -4,7 +4,7 @@ field: "Markets, money, and economic equilibria"
 source: 'Partnoy, "The Siskel and Ebert of Financial Markets?" (Washington University Law Quarterly, 1999); Lawrence J. White (JEP, 2010)'
 axis: deference-to-judgement
 sign: negative # how far a holder forms its own view as a rule-recognised grade carries more of the decision
-updated: "2026-07-31"
+updated: "2026-09-04"
 ---
 
 # Good Enough to Hold: Reference
@@ -63,6 +63,14 @@ it is distinct from On Good Authority, where a claim is believed because of who 
 deference is a judgement about credibility that a reader could revise, whereas here the deference is a
 legal requirement that a reader may not revise, and the investor who did revise it would be exceeding
 its mandate.
+
+It runs against the house's **I Can See Why I Think So**, on this axis and at the opposite end. There a
+judge defers **too little**, to an adviser's bare number, and does worse than the midpoint of the two
+estimates would have done. Here a holder defers **too much**, to a grade a rule has made into a permit.
+**What sets the sign is whether deference replaces the work or replaces a comparison the work cannot make.**
+A holder could form its own view and the rule is what stops it, so the deference substitutes for work that
+exists; a judge cannot see the reasoning behind the number they were sent, so nothing is being substituted
+for and the case for moving further is a property of errors rather than anything about the adviser.
 
 ## Origin
 

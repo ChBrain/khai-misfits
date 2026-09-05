@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.340.0",
+  "version": "0.341.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -14891,6 +14891,228 @@
           "kind": "process",
           "title": "Referring",
           "taxonomy": "play_how_many_they_have_done.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "i_can_see_why_i_think_so",
+      "title": "I Can See Why I Think So",
+      "description": "They know why they think it and the adviser sent a number, so the two cannot be weighed and the average is never taken.",
+      "members": [
+        {
+          "file": "persona_the_one_who_already_thought_about_it.md",
+          "kind": "persona",
+          "title": "The One Who Already Thought About It",
+          "type": "archetype",
+          "taxonomy": "position_estimate.md"
+        },
+        {
+          "file": "persona_the_one_who_sent_a_number.md",
+          "kind": "persona",
+          "title": "The One Who Sent a Number",
+          "type": "archetype",
+          "taxonomy": "position_counsel.md"
+        },
+        {
+          "file": "persona_the_score_nobody_waits_for.md",
+          "kind": "persona",
+          "title": "The Score Nobody Waits For",
+          "type": "archetype",
+          "taxonomy": "position_outcome.md"
+        },
+        {
+          "file": "persona_the_weighting.md",
+          "kind": "persona",
+          "title": "The Weighting",
+          "type": "archetype",
+          "taxonomy": "position_revision.md"
+        },
+        {
+          "file": "persona_what_did_not_travel.md",
+          "kind": "persona",
+          "title": "What Did Not Travel",
+          "type": "archetype",
+          "taxonomy": "position_access.md"
+        },
+        {
+          "file": "piece_a_number_is_not_an_argument.md",
+          "kind": "piece",
+          "title": "A Number Is Not an Argument",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "piece_nobody_scores_the_counterfactual.md",
+          "kind": "piece",
+          "title": "Nobody Scores the Counterfactual",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "piece_not_arrogance.md",
+          "kind": "piece",
+          "title": "Not Arrogance",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "piece_the_average_would_have_won.md",
+          "kind": "piece",
+          "title": "The Average Would Have Won",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "piece_the_reasons_are_only_mine.md",
+          "kind": "piece",
+          "title": "The Reasons Are Only Mine",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "pitch_they_sent_me_a_number.md",
+          "kind": "pitch",
+          "title": "They Sent Me a Number",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "place_the_desk.md",
+          "kind": "place",
+          "title": "The Desk",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "place_the_email.md",
+          "kind": "place",
+          "title": "The Email",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "place_the_post_mortem.md",
+          "kind": "place",
+          "title": "The Post-Mortem",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "plan_average_them_and_say_so.md",
+          "kind": "plan",
+          "title": "Average Them and Say So",
+          "taxonomy": "position_outcome.md"
+        },
+        {
+          "file": "plan_give_them_my_best_number.md",
+          "kind": "plan",
+          "title": "Give Them My Best Number",
+          "taxonomy": "position_counsel.md"
+        },
+        {
+          "file": "plan_send_the_conclusion_not_the_reasons.md",
+          "kind": "plan",
+          "title": "Send the Conclusion, Not the Reasons",
+          "taxonomy": "position_access.md"
+        },
+        {
+          "file": "plan_use_what_i_actually_know.md",
+          "kind": "plan",
+          "title": "Use What I Actually Know",
+          "taxonomy": "position_estimate.md"
+        },
+        {
+          "file": "plan_weigh_them_properly.md",
+          "kind": "plan",
+          "title": "Weigh Them Properly",
+          "taxonomy": "position_revision.md"
+        },
+        {
+          "file": "play_i_can_see_why_i_think_so.md",
+          "kind": "play",
+          "title": "I Can See Why I Think So"
+        },
+        {
+          "file": "plot_a_number_arrives.md",
+          "kind": "plot",
+          "title": "A Number Arrives",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "plot_averaging_them_anyway.md",
+          "kind": "plot",
+          "title": "Averaging Them Anyway",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "plot_the_estimate_before_the_advice.md",
+          "kind": "plot",
+          "title": "The Estimate Before the Advice",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "plot_the_small_move.md",
+          "kind": "plot",
+          "title": "The Small Move",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "plot_two_things_that_cannot_be_weighed.md",
+          "kind": "plot",
+          "title": "Two Things That Cannot Be Weighed",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "position_access.md",
+          "kind": "position",
+          "title": "Access",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "position_counsel.md",
+          "kind": "position",
+          "title": "Counsel",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "position_estimate.md",
+          "kind": "position",
+          "title": "Estimate",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "position_outcome.md",
+          "kind": "position",
+          "title": "Outcome",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "position_revision.md",
+          "kind": "position",
+          "title": "Revision",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "process_advising.md",
+          "kind": "process",
+          "title": "Advising",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "process_comparing.md",
+          "kind": "process",
+          "title": "Comparing",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "process_estimating.md",
+          "kind": "process",
+          "title": "Estimating",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "process_moving_the_number.md",
+          "kind": "process",
+          "title": "Moving the Number",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
+        },
+        {
+          "file": "process_scoring.md",
+          "kind": "process",
+          "title": "Scoring",
+          "taxonomy": "play_i_can_see_why_i_think_so.md"
         }
       ]
     },
