@@ -194,6 +194,15 @@ shaped alike on different dials. The phrase that predicts a join is the narrow o
 **that the incumbent's remedy is this play's poison**, because that is a claim about
 what happens when the dial moves, which is the only thing an axis asserts.
 
+**Two things the grep needs, learned by running it.** First, **exclude a keyword that
+is part of a play's title**: the house holds a play called **The Mirror**, so a search
+for the word returns every warrant that merely cuts itself from that play, and half a
+run's hits can be that artefact rather than a claim. Match the keyword only where it
+is not inside a title the house holds. Second, **run it on undeclared pairs and not
+only on undeclared-against-declared**: two plays that share a dial can both be
+undeclared, and a shortlist built only from rows naming a declared neighbour cannot
+see them.
+
 ## Implementation
 
 The slate and the register are both [Fill the Season](plan_fill_the_season.md),

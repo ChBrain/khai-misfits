@@ -11694,7 +11694,7 @@ for them first was a survey nobody needed.
       all three fire on nothing. Governance lane, and it blocks the authoring pass rather than merely
       preceding it.
 
-- [ ] [P2] Author **the nocebo bind in informed consent** once the three declarations are in. The dedup owed
+- [x] [P2] Author **the nocebo bind in informed consent** once the three declarations are in. The dedup owed
       is against the patch that specifies the flaw, where the disclosure is read by a third party rather
       than by the person it was owed to, and the switch-off to run is whether a patient told nothing at all
       is better off, which is the settlement the bioethics literature refuses and the play must refuse too.
@@ -11827,3 +11827,56 @@ in it is found except by grep, by somebody who already knows what they are looki
       from an observation about one play, and the second is checking the survivors against the four plans.
       Take it a few hundred lines at a time and record where each stretch ended, or it will be restarted
       from the top every time.
+
+**The hundred and thirty-fourth pass runs the language instrument on the class it had never covered, and
+gets three findings and no declarations.**
+
+**The shortlist was always built undeclared-against-declared, which cannot see two silent plays that share
+a dial.** Every axis pass so far has taken an undeclared play and asked which declared neighbour it names.
+Two plays can share a quantity and both have stayed undeclared, and no run has ever looked. Running the
+same grep on **undeclared pairs** returns six.
+
+**Three of the six are the grep matching a play's name, which is a defect in the instrument and not a result.**
+The house holds a play called **The Mirror**, so a search for that keyword returns every warrant that merely
+cuts itself from it: Five, or a Layer, The Common Object and The Leadership Script all matched on the
+sentence naming the play they are distinct from. **Half a run's hits were an artefact of the house's own
+title.** The plan now says to exclude a keyword occurrence sitting inside a title the house holds, and to run
+the search on undeclared pairs as well.
+
+**Better in Both against Prevalence-Induced Concept Change is the interesting refusal, and it is the pinned
+rule's second use.** The warrant states a clean structural inversion in its own words: there the boundary
+moves and the cases stand still, here the boundary is fixed and published and the cases move across it. That
+reads like one dial with two ends. **Stipulate the boundary perfectly fixed and only one of them dies.**
+Concept creep has nothing left to drift and is gone. The Will Rogers phenomenon **requires** the fixed
+boundary, and runs entire, because its driver is an improving instrument and not a moving boundary. **A play
+pinned at a value of a dial is not a member of that dial's axis**, which is now the second case that rule has
+decided, after Good Enough to Leave.
+
+**The Driest Wells against The Head Start refuses more simply.** Temporal against static, a lead that widens
+by accumulation against two distributions laid over each other and running opposite at any moment. That is a
+quantity separation stated plainly and it needs no test.
+
+**And the sixth is genuinely arguable, so it is slated and not taken.** Anyone Can See It calls The Trip to
+Abilene "the mirror case, false discord rather than false accord", and both plays die if each party can see
+what the others actually hold. But the objects differ: **pluralistic ignorance turns on misreading another's
+assent, and naive realism turns on low insight into one's own construal.** Whether those are one quantity or
+two is the deciding question and this pass did not settle it.
+
+**One recurrence worth naming. The nocebo authoring line was done and merged two passes ago and left
+unticked**, which is the second stale tick this session after the Murphy declaration. Both were missed the
+same way: **the pass that did the work appended a new register entry rather than returning to the slate line
+far above it.** The register grows at the bottom and the slate is scattered through eleven thousand lines, so
+the tick is the one step that requires going back, and going back is the step a pass at its end skips.
+
+- [ ] [P2] Read **Anyone Can See It** against **The Trip to Abilene**. Both die under a stipulation of
+      perfect mutual insight, which is the mark of a shared dial, and both are undeclared so neither has a
+      sign to anchor against. The deciding question is whether insight into another's assent and insight
+      into one's own construal are one quantity: **pluralistic ignorance is a misreading of other people and
+      naive realism is a failure to see one's own lens as a lens**, and a dial that covered both would have
+      to be about the transparency of inner states in general. If it joins it is an agreement at the same
+      end and founds a new axis rather than joining one.
+
+- [ ] [P3] Tick the slate line in the same pass that does the work, before appending the register entry. Two
+      lines have now gone stale for several passes each, both because the entry was written and the line was
+      not revisited. The cheap discipline is to tick first and write second, since the tick is the part a
+      future pass reads and the entry is the part it reads only if the tick sent it there.
