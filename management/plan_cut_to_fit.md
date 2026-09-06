@@ -61,6 +61,27 @@ drama: at least three personas, and at least one plot for each beat the concept
 turns on. The count is the concept's to set, inside that floor, never a quota to
 fill.
 
+**Sourcing, held while drafting and not at the edit.** Publisher hosts and the
+article archives are blocked to this house, so a warrant's sources are verified by
+search and corroborated across independent reports. That corroboration licenses
+**the bibliography and the direction of a finding, and it does not license a
+number.** Carry no numerical parameter and no theorem statement out of a paper the
+pass could not read, however many summaries agree on it: a figure read off a
+summary is a figure nobody here has checked against the source. Write the direction
+instead, most rather than a percentage and worse rather than a score, and say in
+Restrictions that the magnitudes were deliberately not carried. **The stronger the
+corroboration the more tempting the number and the more necessary the rule**, which
+is why it belongs here, at the sentence being written, rather than in the pass that
+reads the draft back.
+
+**And a warrant cannot state as a governing law a claim whose best-powered test
+returns null.** The Restrictions convention can carry a bound, a contested
+magnitude, or a mechanism that is one account among several. It cannot carry a
+doubt about whether the phenomenon occurs, because everything above it in the file
+has already asserted that it does. Where the literature is live enough that the
+direction itself is in dispute, the candidate is refused on sourcing and the shape
+is scouted again on a different evidential base.
+
 ## Implementation
 
 The misfits under `misfits/**` and the warrant (`REFERENCE.md`) that names each
@@ -76,3 +97,5 @@ what is named is load-bearing.
 - [ ] every element the play lists in its Company resolves, and every persona is wired
 - [ ] the floor holds: at least three personas, at least one plot per beat
 - [ ] element counts read from the concept, not copied from a sibling misfit
+- [ ] no numerical parameter is carried from a source the pass could not read
+- [ ] no governing law rests on a claim whose best-powered test returns null

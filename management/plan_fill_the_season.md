@@ -10355,7 +10355,7 @@ those two is the whole of what a plan file is for. So the standing rule: **a pas
 worth keeping has not finished until the rule is in the plan that governs the work it constrains**, and
 "recorded in the register" is not that.
 
-- [ ] [P2] Read the rest of this register for rules that never reached a plan. Four have moved today and
+- [x] [P2] Read the rest of this register for rules that never reached a plan. Four have moved today and
       the four were the ones a recent pass happened to remember. The instrument is a reading rather than a
       search, since a rule does not announce itself as one, and the pass that runs it should count the
       entries read rather than the rules moved.
@@ -11765,9 +11765,65 @@ is easy to lose precisely when the searching has gone well. The rule exists beca
 summary of a paper is a figure nobody in the pass has checked against the paper, however many summaries
 agree. **The stronger the corroboration, the more tempting the number and the more necessary the rule.**
 
-- [ ] [P3] Consider whether the sourcing rule should be stated where an author meets it rather than only in
+- [x] [P3] Consider whether the sourcing rule should be stated where an author meets it rather than only in
       the register. It is followed in every warrant's Restrictions and is written down in the plans, but
       this pass wrote three sentences against it before recalling it, which suggests the reminder arrives
       after the draft rather than before it. **A rule that is remembered at the editing stage is a rule that
       costs a rewrite every time**, and the cheap fix may be a line in the authoring plan rather than a new
       gate.
+
+**The hundred and thirty-third pass carries this session's rules out of the register and into the plans,
+and narrows the slate line that asked for it.**
+
+**The line asked for a read of the whole register, and that is not one pass.** Extracting the rule-shaped
+bold statements returns **four hundred and thirty-seven**. Most are observations tied to one play or one
+incident and were never meant to be standing instructions, and a pass that tried to triage all of them would
+either take a dozen sittings or do it badly. **The scope taken is the rules this session produced**, which
+is bounded, completable and checkable, and the older register is left as its own job rather than pretended
+at. A slate line that asks for more than a pass can hold is a line that gets done badly or not at all, and
+narrowing it explicitly is better than either.
+
+**Seven of the session's rules had no home in any plan.** The scouting instruments had landed, the surname
+scan, the probes, the distinctness reading, because the pass that produced them amended the plan in the same
+breath. Everything since had stayed in the register.
+
+Carried to **Find the Next One**, which the scout holds:
+
+- **the two halves in two lanes, and the conditional order between them**, declaring first only where every
+  cell carrying the surname already names its person, and naming first where one does not;
+- **the completeness test for the content half**, which is that no cell is bare, read off the mixed bill and
+  not the undeclared one;
+- **that `(bare)` means undeclared and not unnamed**, with the corollary that a declaration always resolves a
+  label and moves the count only when the key was holding more than one person;
+- **that an axis shares a dial and not a mechanism**, with its three consequences: a distinctness paragraph
+  settles nothing about the dial, a play pinned at a fixed point is not a member, and the one-person test
+  rules out a whole family at once;
+- **and that candidates are ordered by the language of the cut**, where a mirror or an inverse is a claim
+  about the shape of two harms and only the incumbent's-remedy-is-this-play's-poison is a claim about the
+  dial.
+
+Carried to **Cut to Fit**, which the author holds while writing:
+
+- **that corroboration licenses the bibliography and the direction and never a number**;
+- **and that a warrant cannot state as a governing law a claim whose best-powered test returns null.**
+
+Both are added to that plan's Targets as well as its Orders, so they are checkable and not only readable.
+
+**The sourcing rule is the case that proves the line was worth having.** It has been honoured in every
+warrant's Restrictions for the life of the house, it is stated in full in a dozen places in this register,
+and it was nowhere an author meets while drafting. The last pass wrote three sentences against it before
+recalling it and had to rewrite them. **A rule that lives only in the register is a rule remembered at the
+edit**, which costs a rewrite every time and eventually costs a miss.
+
+**Which is the general finding and the reason to expect more of these. The register is where a rule is
+discovered and not where it is kept.** Its form works against retention: it is chronological, so a rule sits
+where it was found rather than where it applies; it is appended and never edited, so a rule refined three
+passes later is stated twice with the correction downstream; and it is now eleven thousand lines, so nothing
+in it is found except by grep, by somebody who already knows what they are looking for.
+
+- [ ] [P2] Read the register **before** this session for rules that never reached a plan, in bounded
+      stretches rather than in one pass. Four hundred and thirty-seven rule-shaped statements is the raw
+      count and most will not qualify, so the first job is a filter that separates a standing instruction
+      from an observation about one play, and the second is checking the survivors against the four plans.
+      Take it a few hundred lines at a time and record where each stretch ended, or it will be restarted
+      from the top every time.
