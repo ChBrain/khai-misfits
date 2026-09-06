@@ -11483,7 +11483,7 @@ unticked, so the slate has been claiming for five passes that a discharged oblig
 register that records the work and not the tick is a register that lies to its own reader**, and the tick is
 the part a future pass reads first.
 
-- [ ] [P2] Read **No Place in the Theory** against `deference-to-judgement`. Its cut against On Good
+- [x] [P2] Read **No Place in the Theory** against `deference-to-judgement`. Its cut against On Good
       Authority calls itself "the mirror image of the same trust", and both plays sit at the high-deference
       end: there a weak claim is over-accepted because the citations are counted rather than walked, here a
       true finding is under-accepted for having no place in the reigning theory. The deciding question is
@@ -11491,8 +11491,57 @@ the part a future pass reads first.
       whether the second is a count and the first a frame. If it joins, it joins at the same sign as the
       three incumbents and adds no opposition.
 
-- [ ] [P3] Read **The Peace It Keeps** against `recombination`. Its cut against No Way Back Up calls itself
+- [x] [P3] Read **The Peace It Keeps** against `recombination`. Its cut against No Way Back Up calls itself
       "the mirror", a fitter class winning by positive selection against a fitter class lost by chance, and
       both are consequences of an asexual population. The deciding question is whether the dial is
       recombination itself, in which case they are two harms at one end and a same-sign join, or whether the
       second play turns on drift and this one on selection, which are not one quantity.
+
+**The hundred and twenty-seventh pass finishes the language-ordered shortlist, refuses both remaining
+candidates, and comes out with two instruments and no declarations.**
+
+**No Place in the Theory does not join `deference-to-judgement`, and the test that decides it is to strip
+the play to one person.** Put a lone scientist in a room with no colleagues, a well-supported theory and a
+repeatable anomaly that has no mechanism. They downweight the anomaly, by entirely sound reasoning, and the
+play runs whole. Now do the same to On Good Authority: remove every other person and there is no citation
+chain, no repetition, nothing to accrete authority, and the play is gone before it starts. **The axis needs
+a judge whose judgement is being substituted, and a theory is not a judge.** Its four sign comments each
+name a party, the cited record, the party downstream, a rule-recognised grade, an adviser's number, and what
+this play defers to is a body of evidence rather than anybody's opinion.
+
+**Which answers the slate line more sharply than it asked.** It asked whether deference to a theory is the
+same object as deference to a chain of citations, or whether the second is a count and the first a frame.
+Neither: **the second is a person's judgement and the first is not a person at all.**
+
+**The one-person test generalises and is worth keeping as a first move.** Strip a candidate to a single
+actor. If the play survives, no axis whose dial is a relation between parties can hold it, which rules out
+`deference-to-judgement`, `observer-presence`, `group-size`, `blame-attachment` and everything else of that
+family **in one move** rather than one reading each. It costs a sentence and it is the cheapest instrument
+the shortlist work has produced.
+
+**The Peace It Keeps does not join `recombination`.** Somatic cell lineages do not recombine, and they do
+not recombine as a **fixed setting of the world** rather than as a position the play moves along. Turn
+recombination up and a fitter clone is still selected and still expands, because the play turns on positive
+selection within a body and not on the clearance of mutational load. **A play pinned at a point on a dial is
+not a member of that dial's axis**, which is the second time that rule has decided a case, the first being
+Good Enough to Leave sitting at the low-specificity end without moving along it.
+
+**And the grep from the last pass can now be sharpened, because the five rows have decided.** Three of them
+used the word **mirror**: In Its Own Defence against Alarm Fatigue, No Place in the Theory against On Good
+Authority, The Peace It Keeps against No Way Back Up. **All three fail.** A fourth, Exactly How Far, called
+itself the exact inverse of the hold-up **remedy** and failed. The one that held was Fair Warning, and what
+its warrant actually said was that **the remedy that fixes time inconsistency is the thing that makes this
+worse**.
+
+**So the predictive phrase is not a mirror and not an inverse: it is that the incumbent's remedy is this
+play's poison.** A mirror is a claim about the shape of two harms and two harms can be shaped alike on
+different dials. A remedy that reverses is a claim about **what happens when you move the dial**, which is
+the only thing an axis asserts. The grep should keep the wider list to generate candidates, since five rows
+producing one declaration is still far better than ten producing none, but the wider phrases should be read
+as **candidates and never as verdicts**, and the narrow phrase as the one that usually pays.
+
+**A refusal pass with no declaration is not a wasted pass, and this is worth stating once.** Five candidates
+were read to the end, four were refused on tests that will decide future cases, and the fifth was declared
+last pass. **The instrument was calibrated on its own output**, which is the only way an instrument gets
+calibrated, and the alternative was to keep the wide list and let a later pass mistake a shape claim for a
+dial claim with a declaration already written.
