@@ -11987,9 +11987,67 @@ nobody thought to search**, and the second is the cheaper case by a whole produc
       claim going to the register where a later pass reads it as a finding to be checked rather than as a
       settled premise it is inheriting.
 
-- [ ] [P2] Carry the cross-field dedup rule into Find the Next One, in a governance pass: **run the dedup in
+- [x] [P2] Carry the cross-field dedup rule into Find the Next One, in a governance pass: **run the dedup in
       the field whose language the dial is described in, and not in the field the play sits in.** A play is
       filed by its subject and declared by its quantity, and those are two different indexes, so a candidate
       whose dial can only be stated in another discipline's words has already named the field to search, and
       a dedup that stays inside the candidate's own field reports a clear run it has not earned. Written in
       full in this pass's entry above; it needs only moving.
+
+**The hundred and thirty-seventh pass carries the cross-field rule to the plan, and runs it once to find out
+what it is worth.**
+
+**A rule that has fired once is a rule with one instance, so the pass that carries it should also run it.**
+The cross-field rule was written from a single case, Abilene, where it was found by being violated. Carrying
+it to Find the Next One without a second run would have put a one-observation rule in the plan under the
+same heading as the rules that were measured, and the plan does not distinguish them by eye.
+
+**Run one: eleven hits from a hundred and two, and six of them noise.** The undeclared set outside
+measurement is a hundred and two plays. Grepping the whole warrant for sampling vocabulary returned eleven,
+of which six were the word in another sense entirely: **censor** as censorship in You Are the Product,
+**attrition** as bidders dropping out of The Dollar Auction, **samples** as goods in Sold to Find the Price.
+
+**Run two refutes the obvious narrowing.** The fix that suggests itself is to grep the bend rather than the
+whole warrant, since the bend is where a play states its law. It returns four, it drops three of the six
+noise hits, and **it loses the one real candidate**. The reason is worth more than the count: **a play states
+its bend in its own field's words**, and names the borrowed discipline only where it names the phenomenon.
+It Saved My Life says grateful survivors in its bend and says lead-time and length bias in its concept line.
+
+**Run three finds the index: the `concept:` line.** Five hits, the real candidate kept, and the bidding and
+market noise gone, because the concept line is where a play says what it is in the canonical terms of
+whatever literature owns it. That is exactly the cross-field index, and no prose search substitutes for it.
+
+**And the instrument that finds a cross-field dial is the instrument that finds a cross-field pun.** Four of
+the five concept-line hits were one word doing different work in two disciplines. **Selection** is Darwinian
+in Never Aimed at You and The Lie of the Land and is about samples in a measurement play. **Bias** is
+cognitive in the Spotlight Effect and statistical next door. **Artefact** is a designed object in No One's
+Remit and a measurement error elsewhere. Vocabulary that crosses fields is vocabulary that means different
+things in them, which is why it crosses, so the instrument cannot be run without reading every hit. **This
+is the namesake wall in another register**: a surname collates two people and a discipline's word collates
+two meanings, and in both cases the collation is invisible to the count.
+
+**The refusals sharpened the axis more than the hit did.** Four near neighbours refuse `outcome-selection` on
+one clause, that **nothing is missing**: Safe to Say falsifies every value and omits no unit, Better in Both
+reclassifies every unit and omits none, True of No One aggregates a complete sample validly, and the
+Spotlight Effect misestimates with no sample at all. And a fifth refuses on a clause the axis had never had
+to state: **it needs a reader**. Time Ran While You Were Well selects the heard claims on a property of the
+harm, which is a real selection on the outcome, and still refuses, because nobody reads the heard claims as
+a census of harms and the injury is the barred claimant rather than anyone's misread.
+
+**One candidate, and the pass will not call it a strong one.** **It Saved My Life** stages the popularity
+paradox of screening:
+the overdiagnosed cannot tell rescue from harm, so the programme manufactures its own advocates and its
+popularity rises with the harm it does. The sample is the grateful survivors, membership in it depends on
+having been overdiagnosed, the reader takes it for evidence the programme works, and the correction is
+censored by the same mechanism, since the harmed party is the one who cannot know they were harmed. It has
+Abilene's compounding too: the record recruits. **And the nothing-is-missing clause may well kill it**, since
+the overdiagnosed are not absent from the record but present in it under the wrong label, which is Better in
+Both's shape and not The File Drawer's. That is a reading, not a verdict, and it is left as a question rather
+than written into the slate as a finding, which is the whole of what the last two corrections were about.
+Declaring it is `misfits/**` and could not ship here in any case.
+
+- [ ] [P2] Declare `outcome-selection` on **It Saved My Life**, in a misfit pass. The dedup owed is against
+      the two members already filed under measurement, The Survivors and The File Drawer, and the cut to
+      make is on how the unit leaves: here it stays in the sample and is misclassified as a success, which
+      is nearer to Better in Both than to either, so check the nothing-is-missing clause carefully before
+      declaring. If it survives, the removal mechanism is a fourth kind and wants naming.
