@@ -1,0 +1,6 @@
+---
+---
+
+Declare the three surnames the nocebo play needs, the governance half that **blocks** its authoring rather than merely preceding it. Widens `Wells` with `Rebecca Erwin`, and declares `Howard` as `["Louise", "James P"]` and `Francis` as `["Thomas", "Darrel P"]`. Every incumbent cell already names its person, so all three fire on nothing and `science probe` stays at zero. Names verified: the n-of-1 statin trial is Frances A Wood, James P Howard and colleagues with Darrel P Francis, and the consent argument is Rebecca Erwin Wells with Ted Kaptchuk.
+
+**`Howard` and `Francis` now read as resolved keys, which is the last pass's finding demonstrated rather than asserted.** Both cells were fully named before this change and both printed `(bare)`; the declaration alone moved them, and nothing else did. **And the scholar count does not move**, holding at 1690, because these declarations separate no two people who were previously collated: each key held one person and now holds one person with a label. That is the other half of the same mechanism. The count tracks people the index can tell apart, so it moved by ten when ten collisions were split and moves by nothing when three keys are merely prepared for a citation that has not arrived. Ships nothing.
