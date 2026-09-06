@@ -154,6 +154,46 @@ splits an authoring pass across two pull requests for a formatting fault.
 instruction and belongs in prose, or every refill pass reads it and decides again
 that there is nothing to do.
 
+**Two halves in two lanes, and which goes first is conditional.** A namesake
+obligation has a content half, naming the person in the warrant cell, and a
+governance half, declaring the surname in `khai-guard.config.json`. They cannot
+ship together. **Declare first only when every cell carrying the surname already
+names its person**, since the declaration then fires on nothing. Where a cell is
+unnamed, declaring first fires the wall on it, so the naming goes first and the
+declaration follows. And the completeness test for the content half is not that
+the collision is named but that **no cell is bare**: check the mixed bill and not
+the undeclared one, because a surname named on both people can still carry a third
+cell that a declaration would fire on.
+
+**`science surname` prints `(bare)` for a surname that is undeclared, not for one
+whose cells fail to name a person.** A fully named pair reads `(bare)` until the
+surname is declared, which is why the probe can report an undeclared surname as
+naming two people. Read the label as **undeclared**. And a declaration resolves a
+key's label always, while it moves the scholar count only when the key was holding
+more than one person, so a declaration that fires on nothing also moves nothing.
+
+**An axis shares a dial and not a mechanism.** Two plays belong on one axis when
+one quantity exists such that both harms are monotone in it, whatever else differs:
+the second ingredient that turns exposure into loss can be a changing world in one
+play and an opportunistic counterparty in the other. Three consequences follow.
+**A distinctness paragraph proves two plays are different plays and never that they
+are on different dials**, so a warrant that has already cut itself from a neighbour
+has not thereby answered the axis question. **A play pinned at a fixed point on a
+dial is not a member of that dial's axis**, since a setting of the world it never
+moves along is a precondition and not a quantity. And **the one-person test rules
+out a whole family at once**: strip the candidate to a single actor, and if the
+play still runs, no axis whose dial is a relation between parties can hold it.
+
+**Order axis candidates by the language of the cut, not by the count of the cuts.**
+Counting how many declared neighbours a warrant names predicts nothing in either
+direction, measured twice at ten rows each for no declarations. Grepping the same
+rows for a sentence that claims **one dial** returns far fewer and yields far more.
+But the wide phrases generate candidates and never verdicts: **"the mirror" and
+"the exact inverse" are claims about the shape of two harms**, and two harms can be
+shaped alike on different dials. The phrase that predicts a join is the narrow one,
+**that the incumbent's remedy is this play's poison**, because that is a claim about
+what happens when the dial moves, which is the only thing an axis asserts.
+
 ## Implementation
 
 The slate and the register are both [Fill the Season](plan_fill_the_season.md),
