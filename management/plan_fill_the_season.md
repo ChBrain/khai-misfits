@@ -11727,3 +11727,47 @@ correctly is a governance half with no incident in it**, and the incidents this 
 from taking them out of order.
 
 The authoring pass is unblocked.
+
+**The hundred and thirty-second pass authors the nocebo play, three passes after the scout that found it.**
+
+**Told What to Watch For is the three hundred and forty-third misfit**, thirty-six files, joining
+`disclosure-detail` at its existing negative sign as the second member. The obligation chain the scout
+mapped ran exactly as written: name the bare cell, declare the three surnames, then cite. **Nothing fired,
+nothing had to be undone, and the authoring pass had no namesake work in it at all.**
+
+**The play the house wanted from stereotype threat, on evidence that holds.** A prescriber must say what the
+drug may do; the saying is a cause of it; the duty is not a formality because a risk not disclosed is a risk
+the patient never got to decline. The list is true in every line. The watching is the correct response to a
+warning. **The mechanism needs no new sensation, only a new reason to notice an old one**, and the symptom
+is real while the attribution is the single false thing and the one thing nobody can test.
+
+**And the cost is not the ache**, which took a plot to place properly. The drug is stopped, humanely, by a
+clinician any colleague would endorse, for a harm it did not do, and the risk it was preventing returns.
+**A felt symptom is vivid and a prevented event is nothing at all**, so the weighing is between things of
+unlike kind and is not decided by the evidence.
+
+**The axis join is an agreement rather than an opposition, and the discriminator is about the target rather
+than the sign.** In both plays the harm scales with how exactly a disclosure specifies its subject, and in
+both the disclosure is owed: a fleet that is not told cannot patch, a patient who is not told cannot refuse.
+**What differs is who it is turned against, a third party who reads it there and the person it was owed to
+here.** One play needs an adversary and the other needs only a nervous system, which is the clearest case
+yet of the rule that an axis shares a dial and not a mechanism.
+
+**One thing this pass got wrong and caught before it shipped, worth recording because the catch was late.**
+The first draft of the warrant carried the trial's headline figure, a percentage, in three places. **The
+house's sourcing rule forbids carrying a numerical parameter from a paper the pass could not read**, and the
+figure had been corroborated across several independent reports, which is the licence for the bibliography
+and the direction and is not a licence for the number. The draft was written, the rule was remembered, and
+the figure was stripped to its direction: most rather than a percentage, worse rather than a score.
+
+**Corroboration is what makes a citation safe and it is not what makes a number safe**, and the distinction
+is easy to lose precisely when the searching has gone well. The rule exists because a figure read off a
+summary of a paper is a figure nobody in the pass has checked against the paper, however many summaries
+agree. **The stronger the corroboration, the more tempting the number and the more necessary the rule.**
+
+- [ ] [P3] Consider whether the sourcing rule should be stated where an author meets it rather than only in
+      the register. It is followed in every warrant's Restrictions and is written down in the plans, but
+      this pass wrote three sentences against it before recalling it, which suggests the reminder arrives
+      after the draft rather than before it. **A rule that is remembered at the editing stage is a rule that
+      costs a rewrite every time**, and the cheap fix may be a line in the authoring plan rather than a new
+      gate.

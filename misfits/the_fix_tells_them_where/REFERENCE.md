@@ -82,6 +82,15 @@ the weakest task. Here the unpatched machines do not degrade anybody else's secu
 own account, and the difficulty is not that the estate is only as strong as its slowest member but that the
 slowest member's exposure was created by the act that protected the fastest.
 
+It runs with the house's **Told What to Watch For** on this axis, at the same end and the same sign, and the
+axis is named from the pair. There a consent conversation states precisely what a drug may do, and the
+precision that lets the patient decide is the precision that produces what it names. **In both, the harm
+scales with how exactly the disclosure specifies its subject, and in both the disclosure is owed**: a fleet
+that is not told cannot patch, and a patient who is not told cannot refuse. What differs is who the
+disclosure is turned against. **Here it arms a third party who reads it; there it acts on the person it was
+owed to**, so one play needs an adversary and the other needs only a nervous system. An axis shares a dial
+and not a mechanism, and these two mechanisms are as far apart as those.
+
 ## Origin
 
 The mechanism, the measurement, and the policy argument that is still open.
