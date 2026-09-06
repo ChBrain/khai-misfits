@@ -11922,9 +11922,74 @@ on it. **A play with no axis is sometimes a play whose axis has not been founded
 finding from a play that belongs on an existing one, and the register has been recording only the second
 kind.
 
-- [ ] [P3] Consider whether the house wants a play on **the observability asymmetry** in its own right: a
+- [x] [P3] Consider whether the house wants a play on **the observability asymmetry** in its own right: a
       record in which agreement is recorded and disagreement is not, read by everybody as a sample of what
       people think. Abilene and Safe to Say would then have somewhere to sit, and so might the spiral of
       silence, which the house does not hold. It is a candidate for authoring rather than a declaration to
       make, and the dedup owed is against Information Cascade, where the asymmetry is temporal and the
       record is a count of predecessors rather than a censored sample of contemporaries.
+
+**The hundred and thirty-sixth pass declares the axis the last pass said did not exist.**
+
+**The last pass wrote that the house holds no play whose dial is the observability asymmetry, and slated
+authoring one. It is false, and the axis had been carrying two plays for days.** `outcome-selection` is
+declared on The Survivors and on The File Drawer, with the sign comment that names the quantity exactly:
+how far a sample can speak for the population it is read about, as membership in it depends more on the
+outcome being studied. The Trip to Abilene is a member and now says so.
+
+**The dedup the slate owed was named against the wrong play.** It named Information Cascade, because that
+is the neighbour a social play brings to mind, and Information Cascade is the one near neighbour that
+refuses. The File Drawer was never considered, and The File Drawer is the same law: a record that keeps a
+unit by how it came out, read by everybody as a sample of the population, with the correction subject to
+the same screen that made the record. **The reason it did not surface is that it is filed under measurement
+and Abilene under groups**, and the search ran inside Abilene's own field.
+
+**The pass's own sentence was the map it did not read.** It called Abilene's asymmetry a censored sample of
+contemporaries. Censored and sample are sampling words, and the sampling field is where the sampling axis
+lives. A play is filed by its subject and declared by its quantity, and those are two different indexes, so
+**a candidate whose dial can only be stated in another discipline's words has already said where to look**.
+Not carried to Find the Next One in this pass, because a plan is governance and a misfit's warrant is the
+misfit lane, and the two cannot ship together. **The register rides the lane of the change it drives and a
+plan does not**, which is a finer cut than the note in the plan makes, and worth having in writing before
+the next pass tries the same pairing.
+
+**The stipulation that separates it from Information Cascade is a complete record.** Require every party to
+state their position in turn, aloud, with nothing withheld. Abilene is gone, because the first genuine
+objector's no is on the table and the false consensus falls. The cascade is untouched, because a cascade
+withholds nothing: every chooser states their choice, honestly, as the best action given what they have
+seen, and the record of actions is complete. What that record cannot carry is the hint behind the action.
+**So one asymmetry is between an act and its reason with nothing missing, and the other is between a voiced
+position and a held one with the sample censored on the quantity it is read for.**
+
+**Safe to Say refuses, and the reason is worth more than the refusal.** It is the closest law in the house
+to Abilene's and it does not join this dial, because in preference falsification **every party speaks**.
+Nobody is missing from the record; the values in it are wrong. **A falsified record is not a censored one**,
+and outcome-selection is a claim about which units are in the sample and not about what they say. That is
+why the two kept pairing and kept failing: the laws rhyme and the failures are of different kinds.
+
+**Abilene is the third removal mechanism on a dial that had two.** The Survivors loses the unit to a passive
+attrition indifferent to any finding, The File Drawer to a rational gatekeeper screening on the result, and
+Abilene to **the unit removing itself**, since the holder of the position is the one who withholds it. And
+it adds the compounding neither of the others has: the censored record is itself the evidence the next unit
+censors itself on, so each swallowed objection is a nod to the next person and the sample does not merely
+mislead, it recruits.
+
+**No play needed authoring, and the axis-coverage count moves without one.** The slated candidate was a play
+to be written so that Abilene and Safe to Say would have somewhere to sit. They did not need a new
+neighbour; one of them needed a declaration and the other needed a refusal. **A play with no axis is
+sometimes a play whose axis has not been founded, and sometimes a play whose axis was founded in a field
+nobody thought to search**, and the second is the cheaper case by a whole production.
+
+- [ ] [P2] Two passes running have had to correct the pass before them, both times on a claim made while
+      slating rather than while working, and both times the claim was checkable in minutes. The tick-first
+      rule fixed where the slate is written; nothing yet fixes what may be written into it. Consider whether
+      a slate line is allowed to carry a claim at all, or whether it may carry only the question, with the
+      claim going to the register where a later pass reads it as a finding to be checked rather than as a
+      settled premise it is inheriting.
+
+- [ ] [P2] Carry the cross-field dedup rule into Find the Next One, in a governance pass: **run the dedup in
+      the field whose language the dial is described in, and not in the field the play sits in.** A play is
+      filed by its subject and declared by its quantity, and those are two different indexes, so a candidate
+      whose dial can only be stated in another discipline's words has already named the field to search, and
+      a dedup that stays inside the candidate's own field reports a clear run it has not earned. Written in
+      full in this pass's entry above; it needs only moving.

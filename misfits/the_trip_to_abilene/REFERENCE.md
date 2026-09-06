@@ -1,8 +1,10 @@
 ---
 concept: "The Abilene Paradox (pluralistic ignorance)"
 field: "Groups, candour, and face"
+axis: outcome-selection
+sign: negative # how far a sample can speak for the population it is read about, as membership in it depends more on the outcome being studied
 source: 'Harvey, "The Abilene Paradox" (Organizational Dynamics, 1974)'
-updated: "2026-08-28"
+updated: "2026-09-06"
 ---
 
 # The Trip to Abilene: Reference
@@ -23,6 +25,34 @@ finding of the source literature is the play's governing law: the failure is the
 inability to manage agreement rather than conflict, and it is one-directional, because a
 voiced yes adds to the apparent consensus while a swallowed no never subtracts from it,
 so the misread compounds toward unanimity that no seat privately shares.
+
+It joins the house's **The Survivors** and **The File Drawer** on the axis `outcome-selection`, at the
+same sign, and it is a third way for the same removal to work. In The Survivors the unit is dropped by a
+passive attrition, a hazard indifferent to any finding; in The File Drawer it is screened out by a rational
+gatekeeper reading the result; **here the unit removes itself**, because the holder of the position is the
+one who withholds it. The quantity is the one all three turn on: how far a sample can speak for the
+population it is read about, once membership in it depends on the outcome being studied. What is read here
+is the set of voiced positions, what it is read as is the set of held ones, and membership in the first
+depends on the second, since a yes is voiced and a no is swallowed. This play adds the compounding the
+other two lack, because **the censored record is itself the evidence the next unit censors itself on**:
+each swallowed objection is a nod to the next person, so the sample does not merely mislead, it recruits.
+
+It is distinct from **Information Cascade**, which shares the field and the sequence and not the dial, and
+the stipulation that separates them is a **complete record**. Require every party to state their position
+in turn, aloud, with no withholding permitted, and this play is gone: the first genuine objector's no is on
+the table and the false consensus falls. The cascade runs on unchanged, because in a cascade nothing is
+withheld at all. Every chooser states their choice, honestly and as their best action given what they have
+seen, and the record of actions is complete: what it cannot carry is the private hint behind the action. So
+the asymmetry there is between an act and its reason, with nothing missing from the sample, and the
+asymmetry here is between a voiced position and a held one, with the sample censored on the very quantity
+it is read for.
+
+It is distinct too from **Safe to Say**, whose law is the closest in the house to this one and which does
+not join this dial. There every party speaks and each professes the safe thing, so no unit is missing from
+the record and the values in it are wrong: **a falsified record is not a censored one**, and
+outcome-selection is a claim about which units are in the sample rather than about what they say. Fix the
+social cost of dissent at zero and Safe to Say has nothing left, while this play runs at the costless end
+by construction, since Harvey's family goes to Abilene out of politeness and not out of fear.
 
 ## Origin
 
