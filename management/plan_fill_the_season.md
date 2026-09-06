@@ -11636,8 +11636,65 @@ concept and piece probes.
 kind and needs the same discipline: the classical account has been substantially reinterpreted, so the
 reading has to settle which account a play would stage before any other work is done on it.
 
-- [ ] [P3] Scout for a play with stereotype threat's **shape** and sounder evidence. What the slate saw was
+- [x] [P3] Scout for a play with stereotype threat's **shape** and sounder evidence. What the slate saw was
       a person performing worse because they know what is expected of them, with nobody in the room
       intending anything, and that shape is worth having. It does not have to be this literature, and the
       refusal above is a refusal of one evidential base rather than of the structure. Treat it as a fresh
       candidate and not as a rehabilitation of this one, which would smuggle the same sourcing back in.
+
+**The hundred and thirtieth pass scouts the replacement for stereotype threat, finds one, and does not
+author it.**
+
+**The candidate is the nocebo bind in informed consent.** A prescriber is obliged to name the side effects
+before prescribing; the naming produces them; the duty and the harm are the same act. It has the shape the
+refused candidate had, a person doing worse because they know what is expected of them with nobody in the
+room intending anything, and it has the evidential base the refused candidate lacked.
+
+**The evidence is unusually strong for a claim of this kind, and the reason is the design.** An n-of-1
+crossover trial put the same patients through statin months, placebo months and no-tablet months and found
+**ninety per cent of the symptom burden on the drug was also elicited by placebo**, with symptoms worse on
+placebo than on no tablet at all. That is a within-patient demonstration and not a between-group inference,
+which is exactly the property the stereotype-threat literature could not supply. **The bind is also not the
+house's own reading**: the tension between the duty to disclose and the duty not to harm is named and argued
+in the bioethics literature, with a proposed resolution of its own.
+
+**Not in the house, and the near neighbours are each a different engine.** No nocebo anywhere. The surgical
+placebo problem is about the evidentiary standard for procedures; the Tarasoff play is about a duty to
+report chilling what gets said; the observer's paradox is about observation changing the observed; and the
+patch that specifies the flaw is the closest structural cousin, an honest disclosure that carries the harm,
+but there the harm is done by a third party who reads the disclosure, and here it is done by the person the
+disclosure was owed to.
+
+**The play is not authored here because it carries three namesake obligations and one of them fires a
+wall.** Citing the trial needs `Howard` and `Francis`, both bare in the house and both a different person
+from the one already there, Louise Howard on diagnostic overshadowing and Thomas Francis on antigenic sin.
+Citing the consent argument needs `Wells`, which is **declared** on two forms, so a third form arrives at a
+wall that fires rather than at a key that collates. **A declared surname is stricter than an undeclared one
+and has to be widened before the citation, never after.**
+
+**The first obstacle is cleared in this lane**: the diagnostic-overshadowing row in Already Explained now
+names Louise Howard and Graham Thornicroft.
+
+**And clearing it turned up a property of the instrument worth more than the obstacle. `science surname`
+prints `(bare)` for a surname that is undeclared, and not for one whose cells fail to name a person.**
+Naming both authors in that row left it reading `(bare)`, and it will keep reading `(bare)` until `Howard`
+is declared. The evidence was in front of this session twice: every resolved key in the house belongs to a
+declared surname, and **`Murphy` read `(bare)` for as long as it did while both of its cells named their
+person in full**, which is why the probe could report it as an undeclared surname naming two people.
+
+**The label says unnamed and means undeclared, and this pass believed it twice before the pattern held.**
+The first time it produced a wrong hypothesis, that a cell led by a bare surname hides the forms after it,
+and the second produced a survey of sixty-five cells built on that hypothesis. Both were abandoned when
+`Samuelson` and `Keil`, which resolve from exactly that cell shape, refused to fit. **Two counterexamples
+already visible in this session's own output were the whole of the refutation**, and the cost of not looking
+for them first was a survey nobody needed.
+
+- [ ] [P1] Declare the three surnames the nocebo play needs, in `khai-guard.config.json`: widen `Wells` with
+      `Rebecca Erwin`, and declare `Howard` and `Francis`, whose incumbent cells now name their person, so
+      all three fire on nothing. Governance lane, and it blocks the authoring pass rather than merely
+      preceding it.
+
+- [ ] [P2] Author **the nocebo bind in informed consent** once the three declarations are in. The dedup owed
+      is against the patch that specifies the flaw, where the disclosure is read by a third party rather
+      than by the person it was owed to, and the switch-off to run is whether a patient told nothing at all
+      is better off, which is the settlement the bioethics literature refuses and the play must refuse too.
