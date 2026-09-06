@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.342.0",
+  "version": "0.343.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -66611,6 +66611,228 @@
           "kind": "process",
           "title": "Taking the Point",
           "taxonomy": "play_time_ran_while_you_were_well.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "told_what_to_watch_for",
+      "title": "Told What to Watch For",
+      "description": "The consent that has to name the side effects is the reason the patient has them, and everybody did their job.",
+      "members": [
+        {
+          "file": "persona_the_ache_that_was_always_there.md",
+          "kind": "persona",
+          "title": "The Ache That Was Always There",
+          "type": "archetype",
+          "taxonomy": "position_symptom.md"
+        },
+        {
+          "file": "persona_the_one_who_has_to_tell_you.md",
+          "kind": "persona",
+          "title": "The One Who Has to Tell You",
+          "type": "archetype",
+          "taxonomy": "position_prescription.md"
+        },
+        {
+          "file": "persona_the_prescription_not_refilled.md",
+          "kind": "persona",
+          "title": "The Prescription Not Refilled",
+          "type": "archetype",
+          "taxonomy": "position_tolerance.md"
+        },
+        {
+          "file": "persona_what_i_now_know_to_look_for.md",
+          "kind": "persona",
+          "title": "What I Now Know to Look For",
+          "type": "archetype",
+          "taxonomy": "position_expectation.md"
+        },
+        {
+          "file": "persona_what_the_duty_requires.md",
+          "kind": "persona",
+          "title": "What the Duty Requires",
+          "type": "archetype",
+          "taxonomy": "position_duty.md"
+        },
+        {
+          "file": "piece_it_was_already_there.md",
+          "kind": "piece",
+          "title": "It Was Already There",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "piece_nobody_lied.md",
+          "kind": "piece",
+          "title": "Nobody Lied",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "piece_the_duty_is_the_mechanism.md",
+          "kind": "piece",
+          "title": "The Duty Is the Mechanism",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "piece_the_same_body_both_months.md",
+          "kind": "piece",
+          "title": "The Same Body, Both Months",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "piece_the_symptom_is_real.md",
+          "kind": "piece",
+          "title": "The Symptom Is Real",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "pitch_they_have_to_tell_you.md",
+          "kind": "pitch",
+          "title": "They Have to Tell You",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "place_the_consulting_room.md",
+          "kind": "place",
+          "title": "The Consulting Room",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "place_the_leaflet.md",
+          "kind": "place",
+          "title": "The Leaflet",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "place_the_third_week.md",
+          "kind": "place",
+          "title": "The Third Week",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "plan_know_what_i_am_taking.md",
+          "kind": "plan",
+          "title": "Know What I Am Taking",
+          "taxonomy": "position_expectation.md"
+        },
+        {
+          "file": "plan_leave_nothing_out.md",
+          "kind": "plan",
+          "title": "Leave Nothing Out",
+          "taxonomy": "position_duty.md"
+        },
+        {
+          "file": "plan_notice_what_changes.md",
+          "kind": "plan",
+          "title": "Notice What Changes",
+          "taxonomy": "position_symptom.md"
+        },
+        {
+          "file": "plan_stop_if_it_is_harming_me.md",
+          "kind": "plan",
+          "title": "Stop If It Is Harming Me",
+          "taxonomy": "position_tolerance.md"
+        },
+        {
+          "file": "plan_tell_them_properly.md",
+          "kind": "plan",
+          "title": "Tell Them Properly",
+          "taxonomy": "position_prescription.md"
+        },
+        {
+          "file": "play_told_what_to_watch_for.md",
+          "kind": "play",
+          "title": "Told What to Watch For"
+        },
+        {
+          "file": "plot_saying_less.md",
+          "kind": "plot",
+          "title": "Saying Less",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "plot_the_list.md",
+          "kind": "plot",
+          "title": "The List",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "plot_the_tablet_stops.md",
+          "kind": "plot",
+          "title": "The Tablet Stops",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "plot_there_it_is.md",
+          "kind": "plot",
+          "title": "There It Is",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "plot_watching_for_it.md",
+          "kind": "plot",
+          "title": "Watching for It",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "position_duty.md",
+          "kind": "position",
+          "title": "Duty",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "position_expectation.md",
+          "kind": "position",
+          "title": "Expectation",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "position_prescription.md",
+          "kind": "position",
+          "title": "Prescription",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "position_symptom.md",
+          "kind": "position",
+          "title": "Symptom",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "position_tolerance.md",
+          "kind": "position",
+          "title": "Tolerance",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "process_ascribing.md",
+          "kind": "process",
+          "title": "Ascribing",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "process_consenting.md",
+          "kind": "process",
+          "title": "Consenting",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "process_reporting.md",
+          "kind": "process",
+          "title": "Reporting",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "process_stopping.md",
+          "kind": "process",
+          "title": "Stopping",
+          "taxonomy": "play_told_what_to_watch_for.md"
+        },
+        {
+          "file": "process_watching.md",
+          "kind": "process",
+          "title": "Watching",
+          "taxonomy": "play_told_what_to_watch_for.md"
         }
       ]
     },
