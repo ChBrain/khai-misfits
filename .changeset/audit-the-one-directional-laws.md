@@ -1,0 +1,8 @@
+---
+---
+
+Run the slated audit for The Mirror's fault, a law stated one way where the shaped thing is durable enough to shape back. **The house is clean, and the tell the slate line named could never have fired.**
+
+It said the tell is "a play whose remedy is described as free". No play in the house describes a remedy as free, because the Restrictions template opens its No Hero with a refusal of exactly that: **the play refuses to resolve the misfit into a costless correction.** The two strongest candidates, The Only Basket and No Need to Ask, each name the return arrow inside that refusal, one saying the remedy exposes the home value the restriction was there to protect and the other that it depends on a prior strength most petro-states did not have. **A tell that a template makes impossible is not a tell**, and the fault was not found that way in the first place: it was found because a source titled _Exploring the **Duality**_ was cited in a Scope cell describing one arm.
+
+So the instrument is corrected to the one that worked, and run: **grep the Origin tables for sources whose titles name a two-way relation, then read the Scope cell for whether it describes both arms.** Nineteen rows across the house, eighteen sound, one imprecise, and it is fixed here. Sick Enough to Spread cites Anderson and May's "Coevolution of hosts and parasites" for the parasite's trade-off alone, while the host's arm carries a remedy in its own No Hero; the row now says the source is two-armed and that the rabbits' rising resistance moved the optimum the virus was settling at. **A citation is a claim about what a work shows, and a two-armed work cited for one arm is a claim that is not quite true**, even where the play uses both arms elsewhere. Ships nothing.

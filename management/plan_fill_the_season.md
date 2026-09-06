@@ -10014,7 +10014,7 @@ spines, but the fact is the finding: **the house held the evidence for the vecto
 the play still ran one way**. A gap in an encoding is invisible to the gates, invisible to the surname
 walls, and invisible even to a neighbouring warrant that holds the answer.
 
-- [ ] [P2] Read the other one-directional laws in the house for the same fault. A law stated as "X shapes
+- [x] [P2] Read the other one-directional laws in the house for the same fault. A law stated as "X shapes
       Y" is a candidate whenever Y is durable enough to shape X back, and the tell is a play whose remedy
       is described as free.
 
@@ -11545,3 +11545,50 @@ were read to the end, four were refused on tests that will decide future cases, 
 last pass. **The instrument was calibrated on its own output**, which is the only way an instrument gets
 calibrated, and the alternative was to keep the wide list and let a later pass mistake a shape claim for a
 dial claim with a declaration already written.
+
+**The hundred and twenty-eighth pass audits the house for The Mirror's fault, finds none, and finds that
+the tell it was given could never have fired.**
+
+**The slate line said the tell is a play whose remedy is described as free.** No play in the house describes
+a remedy as free. The Restrictions template opens its No Hero bullet with the words **the play refuses to
+resolve the misfit into a costless correction**, so the document form forbids the thing the instrument was
+looking for. **A tell that a template makes impossible is not a tell**, and an audit built on one returns
+clean whatever the house is actually like.
+
+**Worse, the tell was not how the fault was found.** The Mirror's missing arrow was caught because a source
+titled _Exploring the **Duality** between Product and Organizational Architectures_ sat in a Scope cell
+describing one arm of it. A reader noticed a word in a title. **The slate line recorded a conclusion and
+lost the method**, which is a specific way for a register to fail: the finding survives and the instrument
+that produced it does not.
+
+**So the instrument is rebuilt from what actually worked and run.** Grep the Origin tables for sources whose
+**titles** name a two-way relation, duality, coevolution, mutual, reciprocal, feedback, coupling, interplay,
+and then read each Scope cell for whether it describes both arms. Nineteen rows across the house. **Eighteen
+sound and one imprecise.**
+
+**Sick Enough to Spread cites Anderson and May's "Coevolution of hosts and parasites" for the parasite's
+trade-off alone.** The host arm is not missing from the play: its own No Hero rests a remedy on the slow
+partial coevolution that pared the myxoma virus down as the rabbits' resistance rose. The arm is missing
+from the **row**, which describes what the source shows. The row now says so. **A citation is a claim about
+what a work shows, and a two-armed work cited for one arm is a claim that is not quite true**, even where
+the play uses both arms elsewhere and the reader is not misled about the mechanism.
+
+**The second cut was semantic and also came back clean.** Laws naming a fast actor and a durable artefact
+together, thirteen of them, read for whether the durable half is treated as passive. The two closest, The
+Only Basket and No Need to Ask, each name the return arrow **inside the refusal of a costless correction**:
+the zoning remedy exposes the home value the restriction was there to protect, and the institution-building
+remedy depends on a prior strength most petro-states did not have. Those are the arrows, written where a
+reader would find them.
+
+**Which is the pass's substantive result and worth stating plainly: The Mirror's fault was a single defect
+and not a pattern.** It is tempting, having found one warrant running one way, to expect a class of them.
+There is no class. The house's Restrictions template does real work here, because a No Hero that must cost
+its remedy is a No Hero that must name what resists the remedy, and **what resists a remedy is usually the
+return arrow.** The convention that looked like boilerplate is the reason the fault did not spread.
+
+- [ ] [P3] The two-way-title grep covers only sources that announce the duality in a title. A return arrow
+      whose source is titled neutrally is invisible to it, and the only instrument for those is a reading of
+      the mechanism, which is what caught The Mirror in the end. Worth one deliberate reading pass over the
+      fields where the durable half is most obviously durable, the built environment, infrastructure,
+      standards and code, rather than a grep. Low priority, because this pass has evidence the fault is rare
+      and the template suppresses it.
