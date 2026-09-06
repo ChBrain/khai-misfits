@@ -1,0 +1,10 @@
+---
+---
+
+Run the language-of-the-cut instrument on the class it had never covered, **undeclared plays cut against other undeclared plays**. The shortlist was always built from rows naming a **declared** neighbour, which cannot see two plays that share a dial and have both stayed silent. Six pairs come back, and no declaration survives them, but three findings do.
+
+**Three of the six are the grep matching a play's name.** The house holds a play called **The Mirror**, so a search for that keyword returns every warrant that merely cuts itself from it, and half a run's hits were an artefact of the house's own title rather than a claim about a dial. The plan now says to exclude a keyword occurrence that sits inside a title the house holds, and to run the search on undeclared pairs as well as against declared ones.
+
+**Better in Both against Prevalence-Induced Concept Change refuses on the pinned rule, its second use.** The two are a clean structural inversion in the warrant's own words, the boundary moving while the cases stand still against the boundary fixed while the cases move across it. But stipulate the boundary perfectly fixed and only one of them dies: concept creep has nothing left to drift, and the Will Rogers phenomenon **requires** the fixed boundary and runs entire. **A play pinned at a value of a dial is not a member of that dial's axis**, and the driver here is an improving instrument rather than a moving boundary. The Driest Wells against The Head Start refuses more simply, on temporal against static, which is a quantity separation and not a dial. **Anyone Can See It against The Trip to Abilene is slated rather than taken**, because the deciding question is whether insight into one's own construal and insight into another's assent are one quantity or two.
+
+Also ticks the slate line for the nocebo authoring, done and merged two passes ago and left unticked. **That is the second stale tick this session**, after the Murphy declaration, and both were missed the same way: the pass appended a new register entry rather than returning to the line far above it. Ships nothing.
