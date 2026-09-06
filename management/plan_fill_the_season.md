@@ -11868,7 +11868,7 @@ same way: **the pass that did the work appended a new register entry rather than
 far above it.** The register grows at the bottom and the slate is scattered through eleven thousand lines, so
 the tick is the one step that requires going back, and going back is the step a pass at its end skips.
 
-- [ ] [P2] Read **Anyone Can See It** against **The Trip to Abilene**. Both die under a stipulation of
+- [x] [P2] Read **Anyone Can See It** against **The Trip to Abilene**. Both die under a stipulation of
       perfect mutual insight, which is the mark of a shared dial, and both are undeclared so neither has a
       sign to anchor against. The deciding question is whether insight into another's assent and insight
       into one's own construal are one quantity: **pluralistic ignorance is a misreading of other people and
@@ -11880,3 +11880,51 @@ the tick is the one step that requires going back, and going back is the step a 
       lines have now gone stale for several passes each, both because the entry was written and the line was
       not revisited. The cheap discipline is to tick first and write second, since the tick is the part a
       future pass reads and the entry is the part it reads only if the tick sent it there.
+
+**The hundred and thirty-fifth pass settles the Abilene question, and corrects what the last pass said about
+it.**
+
+**The last pass wrote that both plays die under a stipulation of perfect mutual insight, which is the mark of
+a shared dial. It said so without running the stipulation, and it is false.** The claim was made at the end
+of a pass, about a row being slated rather than taken, and being slated is exactly the condition under which
+a claim is least likely to be checked. **A sentence written to justify slating a row is still a claim, and
+the slate is where unchecked claims go to look settled.**
+
+**Run it properly and only one dies.** Give every party perfect knowledge of the others' inner states.
+Pluralistic ignorance is gone, because nobody can misread an assent that is fully legible. **Naive realism
+is untouched.** Its three tenets are about the self and not the other: I see reality as it is, a rational
+person would agree with me, and one who does not is ignorant, irrational or biased. Knowing your mental
+state completely, I learn only that you sincerely hold the other view. The first tenet is undisturbed, so I
+conclude you are the distorted one, which is the harm, arrived at **from** perfect insight into you.
+
+**So the quantity in Abilene is what a party can observe about others, and the quantity in naive realism is
+what a party can observe about itself.** Those are different quantities and the second is the one that play
+needs. Not one dial, and the deciding move was a stipulation that discriminates rather than one that kills
+both, which is the difference between a test and a gesture.
+
+**The reading turned up Abilene's real nearest relative, and it is not naive realism.** Safe to Say stages
+preference falsification, and its law is the same shape as Abilene's: each conceals, sees only the safe
+professions of others, believes itself more isolated than it is, and conceals the harder. Abilene's own law
+names the same asymmetry from the other side, that a voiced yes adds to the apparent consensus while a
+swallowed no never subtracts from it. **Two plays whose laws are that close are the pair worth testing**,
+and no shortlist had ever put them together, because neither is declared and both name other neighbours.
+
+**And that pair refuses too, on the cost stipulation.** Fix the social cost of dissent at zero. Safe to Say
+is gone, because it needs honesty to be expensive. Abilene runs at the costless end **by construction**:
+Harvey's point is that people accommodate where there is nothing whatever to fear, and the family goes to
+Abilene out of politeness rather than out of risk. **Abilene is pinned at low cost and does not move along
+that dial**, which is the third case that rule has decided, after Good Enough to Leave and Better in Both.
+
+**What Abilene turns on is the observability asymmetry itself, and the house holds no play whose dial is
+that.** A yes is visible and a swallowed no is not, so the public record is biased by construction and each
+reader treats it as a sample. That is a quantity, it has a harmful high end, and nothing in the house sits
+on it. **A play with no axis is sometimes a play whose axis has not been founded yet**, which is a different
+finding from a play that belongs on an existing one, and the register has been recording only the second
+kind.
+
+- [ ] [P3] Consider whether the house wants a play on **the observability asymmetry** in its own right: a
+      record in which agreement is recorded and disagreement is not, read by everybody as a sample of what
+      people think. Abilene and Safe to Say would then have somewhere to sit, and so might the spiral of
+      silence, which the house does not hold. It is a candidate for authoring rather than a declaration to
+      make, and the dedup owed is against Information Cascade, where the asymmetry is temporal and the
+      record is a count of predecessors rather than a censored sample of contemporaries.
