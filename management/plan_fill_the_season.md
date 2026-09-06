@@ -11689,7 +11689,7 @@ and the second produced a survey of sixty-five cells built on that hypothesis. B
 already visible in this session's own output were the whole of the refutation**, and the cost of not looking
 for them first was a survey nobody needed.
 
-- [ ] [P1] Declare the three surnames the nocebo play needs, in `khai-guard.config.json`: widen `Wells` with
+- [x] [P1] Declare the three surnames the nocebo play needs, in `khai-guard.config.json`: widen `Wells` with
       `Rebecca Erwin`, and declare `Howard` and `Francis`, whose incumbent cells now name their person, so
       all three fire on nothing. Governance lane, and it blocks the authoring pass rather than merely
       preceding it.
@@ -11698,3 +11698,32 @@ for them first was a survey nobody needed.
       is against the patch that specifies the flaw, where the disclosure is read by a third party rather
       than by the person it was owed to, and the switch-off to run is whether a patient told nothing at all
       is better off, which is the settlement the bioethics literature refuses and the play must refuse too.
+
+**The hundred and thirty-first pass declares the three surnames the nocebo play needs, and the pass is
+uneventful, which is the point.**
+
+**`Wells` widened with `Rebecca Erwin`, `Howard` declared `["Louise", "James P"]`, `Francis` declared
+`["Thomas", "Darrel P"]`.** Every incumbent cell already names its person, so all three fire on nothing and
+the probe stays at zero. The names were verified before they went into the config: the n-of-1 statin trial
+is Frances A Wood, James P Howard and colleagues with Darrel P Francis, and the consent argument is Rebecca
+Erwin Wells with Ted Kaptchuk.
+
+**`Howard` and `Francis` now print as resolved keys, which is the last pass's finding demonstrated rather
+than asserted.** Both cells were fully named before this change. Both printed `(bare)`. The declaration
+alone moved them and nothing else did, so the label's meaning is now established by a controlled change and
+not by a pattern read off other people's rows.
+
+**And the scholar count does not move.** It holds at 1690, because these three declarations separate no two
+people who were previously collated: each key held one person before and holds one person with a label
+after. **The count tracks people the index can tell apart**, which is why it moved by exactly ten when ten
+collisions were split and moves by nothing here. The two observations together fix the model: a declaration
+resolves a key's label always, and moves the count only when the key was holding more than one person.
+
+**The pass is uneventful and that was the design.** The obligation was created two passes ago, its content
+half was cleared one pass ago, and the sequencing rule this session worked out said the declaration must
+come before the citation because a declared surname fires on a citation lacking a matching form. Having done
+those in order, there is nothing to report but the arithmetic. **A governance half that has been sequenced
+correctly is a governance half with no incident in it**, and the incidents this session did have all came
+from taking them out of order.
+
+The authoring pass is unblocked.
