@@ -11074,7 +11074,7 @@ now, and both are one command.
       The dedup owed is against **On Good Authority** and **Seen and Therefore Settled**, which both run on
       deference rather than on its absence.
 
-- [ ] [P3] **Stereotype threat**, slated with a **sourcing** caution rather than a shape one. The shape is
+- [x] [P3] **Stereotype threat**, slated with a **sourcing** caution rather than a shape one. The shape is
       good and the literature is contested, with replication failures and publication-bias analyses that
       the house's Restrictions would have to carry honestly. Read the state of the evidence before writing,
       and be prepared to refuse it on the sourcing rule rather than on the mechanism.
@@ -11592,3 +11592,52 @@ return arrow.** The convention that looked like boilerplate is the reason the fa
       fields where the durable half is most obviously durable, the built environment, infrastructure,
       standards and code, rather than a grep. Low priority, because this pass has evidence the fault is rare
       and the template suppresses it.
+
+**The hundred and twenty-ninth pass reads the evidence on stereotype threat and refuses it, which is what
+its slate line asked for and not a fallback.**
+
+**The line was explicit: the shape is good, the literature is contested, read the state of the evidence
+before writing, and be prepared to refuse on the sourcing rule rather than on the mechanism.** It refuses on
+sourcing. The shape was never the problem and is not the reason.
+
+**The refusal is not that the literature is contested. It is that no direction survives the house's own
+test.** A warrant states a governing law drawn from a source's finding, in the house's own words the
+governing finding of the source literature is the play's governing law. Neither branch a play would rest on
+supplies one.
+
+**The gender-and-mathematics branch.** Two meta-analyses report strong publication bias in the published
+record, and a **pre-registered replication in Dutch high schools, about two thousand students**, set out to
+replicate the effect among girls and to test the four theorised moderators, domain identification, gender
+identification, maths anxiety and test difficulty. It found **neither the overall effect nor any of the
+moderators**. That is the best-powered, least-biased test of the most-cited branch and it returns null.
+
+**The founding race branch.** Sackett, Hardison and Cullen showed the 1995 result is routinely read as
+saying something it does not. The scores were adjusted for prior SAT, so what the study reports is that the
+gap in the no-threat condition is **the gap the prior scores predict**, rather than that the gap closes.
+The finding is real and the popular reading of it is not the finding.
+
+**Serious defenders remain and the field is not dead, and that is exactly the problem rather than a reason
+to proceed.** A live dispute is a fine thing to cite and a poor thing to build a governing law on.
+**A warrant cannot state as a governing law a claim whose best-powered test returns null**, and a play whose
+Restrictions would have to say the effect may not exist has no engine to stage. The house's Restrictions
+convention can carry a bound, a contested magnitude, a mechanism that is one account among several. It
+cannot carry a doubt about whether the phenomenon occurs, because everything above it in the file has
+already asserted that it does.
+
+**One ordering finding, cheaply bought.** The surname scan ran first, by habit and by the standing rule that
+it runs before authoring, and it flagged a collision the play would have created: **Diane Quinn** against
+the **Kevin Quinn** already in You Would Have to Tell, a two-lane obligation on a play that was never going
+to be written. **Where a candidate carries a sourcing caution, the sourcing read is the cheaper filter and
+belongs before the surname scan.** The standing rule is right about authoring and says nothing about
+scouting, and the order within scouting is now: sourcing caution first, then the surname wall, then the
+concept and piece probes.
+
+**And the same applies to the deindividuation line still on the slate**, whose caution is of a different
+kind and needs the same discipline: the classical account has been substantially reinterpreted, so the
+reading has to settle which account a play would stage before any other work is done on it.
+
+- [ ] [P3] Scout for a play with stereotype threat's **shape** and sounder evidence. What the slate saw was
+      a person performing worse because they know what is expected of them, with nobody in the room
+      intending anything, and that shape is worth having. It does not have to be this literature, and the
+      refusal above is a refusal of one evidential base rather than of the structure. Treat it as a fresh
+      candidate and not as a rehabilitation of this one, which would smuggle the same sourcing back in.
