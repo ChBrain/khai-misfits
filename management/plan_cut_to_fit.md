@@ -95,6 +95,12 @@ is a theoretical result rather than a measurement, the sourcing question is whet
 anything has tested it**, because a result that has only ever been derived can be
 carried as a claim about a model and not as a claim about the world.
 
+**And a structure that runs where its conditions hold is the only kind this house
+stages.** A warrant is not weakened by naming the conditions under which its law
+operates, and a play whose bound is stated is stronger than one whose bound is left
+for a reader to find. Hold the whole against its own limit in the text rather than
+hoping nobody asks.
+
 ## Implementation
 
 The misfits under `misfits/**` and the warrant (`REFERENCE.md`) that names each

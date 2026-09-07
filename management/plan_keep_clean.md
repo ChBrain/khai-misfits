@@ -33,6 +33,24 @@ deterministic tools are run; the Roadie never edits content to make a check pass
 and never authors. A finding the Roadie cannot clear by running a tool is raised
 to the Theatre Manager, not fixed by hand.
 
+**A gate that never fires is not a gate**, and a wall the house trusts has to be a
+wall that **only** fires when something is wrong. Those are the two failures and
+they pull in opposite directions: a check that has never once caught anything is
+either watching a thing that cannot happen or is written so that it cannot see it,
+and a check that fires on correct work teaches the house to route around it. Both
+are found the same way, by reading what a wall has actually caught rather than by
+reading what it was meant to catch.
+
+**And where a defect is a judgement about what a cell means, build something that
+finds it and leave the deciding to a person; where a defect is a computation, build
+a wall.** That line decides whether a finding belongs to the suite or to a reader,
+and it is why this house has instruments that report and gates that fail.
+
+**A grep for a frontmatter key must be anchored to the frontmatter block.** An
+unanchored search for a line beginning with a key name matches prose that happens to
+wrap onto that word, and a count that returns one more category than the house has
+is the cheapest possible signal that it was not anchored.
+
 ## Implementation
 
 The gates, dependency updates, the security panel (alerts, secret scanning), the

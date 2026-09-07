@@ -178,7 +178,15 @@ the second ingredient that turns exposure into loss can be a changing world in o
 play and an opportunistic counterparty in the other. Three consequences follow.
 **A distinctness paragraph proves two plays are different plays and never that they
 are on different dials**, so a warrant that has already cut itself from a neighbour
-has not thereby answered the axis question. **A play pinned at a fixed point on a
+has not thereby answered the axis question. **But read it anyway, because it is
+where the candidate dial is written down.** A warrant that has properly cut itself
+from a near neighbour has, in doing so, named the quantity it turns on, since that
+is what a cut has to be made of, so **the distinctness paragraph is the axis
+declaration in prose** and reading it is cheaper than reasoning about the dial from
+scratch. The two halves are not in conflict and the plan held only the first for
+long enough to read as forbidding the second: the paragraph settles nothing about
+whether two plays share a dial, and it supplies the best available guess at which
+dial to test. **A play pinned at a fixed point on a
 dial is not a member of that dial's axis**, since a setting of the world it never
 moves along is a precondition and not a quantity. And **the one-person test rules
 out a whole family at once**: strip the candidate to a single actor, and if the
@@ -231,6 +239,36 @@ reason.
 what they could not settle.** As a selector this is a different question from _which
 remedy fails_ and from _which seat is uncast_, and it found a candidate neither of
 those could, in the largest field in the house.
+
+**Five more from the second stretch, and the count that came with them.** Of the
+hundred and thirty work-framed rules in the register written before this run,
+**exactly one had reached a plan**; the rest were carried by these two passes or are
+carried still.
+
+**A candidate whose only difference from an incumbent is where it happens, or how
+the result looks, is a domain and not a spine.** Both forms were recorded
+separately and they are one rule: a new setting for a staged mechanism is not a new
+mechanism, and neither is a familiar mechanism producing an unfamiliar-looking
+outcome.
+
+**A candidate whose core the reader can check without a source is worth more than
+one that needs a citation nobody can reach.** This house cannot open publisher hosts
+or article archives, so a spine that a reader can follow from the structure itself
+survives the sourcing rule that a spine resting on an unreadable result does not.
+Prefer it at selection, before any of the cost is spent.
+
+**A dial with one harmful direction can never have an opposed pair.** Where a
+quantity is bad only as it rises, there is no end for a play at the other sign to
+occupy, so a search for oppositions on such a dial is a search with no possible
+result and the effort belongs on a dial that is harmful in both directions.
+
+**The namesake scan must be run against the declarations and not only against the
+index**, and **a play's namesake bill is not known until the gate is run**, so a
+scan before authoring is a readiness report rather than a settlement.
+
+**The register is a source and not only a record.** It holds rules that were never
+sent to a plan, and the measured rate at which it holds them is high enough that
+reading it back is a selector in its own right and not housekeeping.
 
 **Order axis candidates by the language of the cut, not by the count of the cuts.**
 Counting how many declared neighbours a warrant names predicts nothing in either
