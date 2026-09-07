@@ -184,6 +184,23 @@ moves along is a precondition and not a quantity. And **the one-person test rule
 out a whole family at once**: strip the candidate to a single actor, and if the
 play still runs, no axis whose dial is a relation between parties can hold it.
 
+**Monotone in it is two questions, and the house had four names for them.** An audit
+of the register found the clause deciding at least eleven rows since the sixty-sixth
+pass under names that never referred to each other, so ask both, in this order.
+**Does the harm move when the dial moves, in one direction?** It fails three ways,
+and each already had a name: a play **pinned** at a fixed value, whose harm does not
+respond at all; a response that goes **flat** at a bound, so there is no direction to
+sign; and a play holding **both horns**, harmful at each end of the dial, which is
+what a well made production staging a trade does by construction and is the most
+common refusal in the register. **Does the harm stay put when the dial stays put?**
+Nothing in the first question catches this. A candidate can pass it and still fail
+here, if the harm has a driver the dial does not name: hold a safe harbour's shield
+at a fixed thickness and Still Compliant's harm grows anyway, because the text ages
+while the hazard moves. The first question asks whether the harm responds to the
+dial and the second whether it responds to nothing else, and **the second is the
+cheaper of the two to run and the one nobody thought to ask for a hundred and thirty
+passes**.
+
 **Order axis candidates by the language of the cut, not by the count of the cuts.**
 Counting how many declared neighbours a warrant names predicts nothing in either
 direction, measured twice at ten rows each for no declarations. Grepping the same

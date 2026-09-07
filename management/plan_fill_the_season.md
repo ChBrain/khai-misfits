@@ -12164,9 +12164,64 @@ match**, and a practice can be fixed as hard by a document it never appeared in 
 Carried into all four warrants, since a discriminator that has moved should not be legible only from the
 newest member.
 
-- [ ] [P3] The axis rule says two plays belong on one dial when one quantity exists such that both harms are
+- [x] [P3] The axis rule says two plays belong on one dial when one quantity exists such that both harms are
       monotone in it, and until this pass every refusal in the register was decided on mechanism, on the
       one-person test, or on the pinned rule. **The monotonicity clause had never once been the thing that
       decided a row.** Worth a pass reading the refusals already recorded to see how many of them would have
       been settled faster by asking whether the harm grows with the dial held still, which is a cheaper
       question than any of the three and was available the whole time.
+
+**The hundred and fortieth pass audits the register for the monotonicity clause, and the slate line that
+asked for the audit was wrong about it.**
+
+**The line said the clause had never once decided a row. It has decided at least eleven, since the
+sixty-sixth pass, under four different names.** This is the third correction in a run to a claim written
+into a slate line rather than into a finding, and the second written by a pass that had already recorded the
+rule about it. **Knowing the failure mode is not the same as being outside it**, and what the two earlier
+corrections have in common with this one is that the false sentence was the one justifying the slating and
+not the one doing the work.
+
+**The four names, and the rows each decided.**
+
+- **Flat, not signed.** Pushing on a String, at the sixty-sixth pass: at the bound further easing does
+  nothing, so the response has no direction to give. Recorded then as a third shape the mechanism cannot
+  express, beside a one-dial-two-bad-ends and a horizon-dependent sign.
+- **The second test, or holding both horns.** The pass that ran the empty-end selector refused **five of
+  six** on it: the dial was harmful at both ends and the incumbent already carried the far end as a vector.
+  Hierarchy Depth, Time in Use and Interpretive Mediation by name, with two pairs refused as two quantities
+  both harmful at their high ends, and a sixth held because the test could not be called cleanly.
+- **The pinned rule.** Four cases: Good Enough to Leave at the low-specificity end, The Peace It Keeps
+  against `recombination`, Better in Both against prevalence-induced concept change, and The Trip to Abilene
+  on the cost dial.
+- **Monotonicity, called by its name.** Still Compliant against `protective-cover`, one pass ago, and the
+  only one of the eleven where the register wrote the word.
+
+**But the last pass had found something, and the audit says which half.** An axis wants one quantity in which
+each harm is monotone, and that is two requirements, not one. **Does the harm move when the dial moves, in
+one direction?** catches pinned, flat and both horns, and was already running under three names. **Does the
+harm stay put when the dial stays put?** catches nothing any of those names catch, and was genuinely first
+used last pass, on a shield held at fixed thickness while the text aged underneath it. The first question is
+about the harm responding to the dial and the second is about the harm responding to nothing else, and a
+candidate can pass the first and fail the second, which is exactly what `protective-cover` did. So the find
+was real and half the size it was written up as.
+
+**And the pinned rule's own use-count is wrong in the register, in two places.** Good Enough to Leave was
+first and The Peace It Keeps was recorded as second. The next pass called Better in Both the second case
+"after Good Enough to Leave", dropping The Peace It Keeps, and the pass after that called Abilene the third
+"after Good Enough to Leave and Better in Both", inheriting the drop. Abilene is the fourth. **A running
+count kept in an append-only register is kept by whoever wrote it last**, because the cheap way to find the
+number is to read the nearest previous statement of it rather than to count the set, and the error then
+propagates forward at no cost to anyone.
+
+**Carried to Find the Next One in this pass, and the lane is why.** A plan is governance and the register is
+governance, so unlike the cross-field rule two passes ago there is nothing to split, and a rule discovered
+and left in the register is the failure this house has recorded more often than any other. The pinned rule's
+paragraph there is replaced by the pair it belongs to, with pinned, flat and both horns named as the three
+ways the first question fails, so a later pass recognises them as one test rather than coining a fifth name
+for it.
+
+- [ ] [P3] No count in the register should be stated as an ordinal. The pinned rule's went wrong twice by
+      each pass reading the nearest previous statement, and the register holds other running counts written
+      the same way. **A number that is only ever incremented from the last sighting of it is not a count of
+      the set**, and the cheap fix is to name the cases rather than to number them, since a list can be
+      checked against the register and an ordinal cannot.
