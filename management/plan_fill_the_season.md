@@ -12281,8 +12281,75 @@ the register does not begin as a method document and becomes one at a definite p
 the house had enough production behind it to have a practice to be wrong about. **A method is what a register
 grows, not what it starts with**, and a reader looking for rules can skip the first quarter of this file.
 
-- [ ] [P2] The second stretch of the register read: ranks 46 to 130 of the work-framed set, scored the same
+- [x] [P2] The second stretch of the register read: ranks 46 to 130 of the work-framed set, scored the same
       way. The filter and the scoring are described above and should be rerun rather than re-invented, and
       the expectation to record against is that the yield falls, since the ordering put the least-covered
       first. If it does not fall, the score is not measuring what it was built to measure and that is the
       more interesting result.
+
+**The hundred and forty-second pass runs the second stretch, refutes the score it was ordered by, and the
+count that replaces it is one in a hundred and thirty.**
+
+**The yield did not fall, and the slate said that would be the more interesting result.** It is. Ranks 46 to
+130 came back **93 per cent absent**, against the first stretch's seven of seven, so the ordering did nothing
+whatever. The reason is that the score measured **vocabulary overlap with the plans**, and a rule's
+vocabulary is drawn from this house's standard nouns, candidate, gate, axis, warrant, lane, which appear in
+the plans whether or not the rule does. **Six rules scoring a perfect 1.00 are entirely absent from every
+plan**, among them _a gate that never fires is not a gate_ and _the distinctness paragraph is the axis
+declaration in prose_. The score was measuring whether a rule is written in house words.
+
+**The instrument that does work is phrase containment, and it is exact rather than approximate.** Take any
+six consecutive content words of the rule and ask whether that sequence appears in a plan. This house
+carries rules close to verbatim, so the test is nearly free of both error kinds, and it is cheaper than the
+score it replaces.
+
+**Run over all hundred and thirty: six are in a plan, and five of the six were put there last pass.** So
+**exactly one work-framed rule from the pre-session register had reached a plan before this run**, and a
+hundred and twenty-four are still only in the register. That is the answer to whether this read is worth
+continuing, and it is two orders of magnitude away from what the slate's original framing implied.
+
+**And the rank bookmark failed inside one pass, measurably.** Five of the seven rules carried last pass now
+score high enough to sit in ranks 46 to 130, which is the set this pass was told was unread. **Carrying a
+rule raises its own score and its neighbours', so each stretch reshuffles the queue behind it**, and a pass
+trusting the bookmark would have re-read what it had already carried. The fix is not a better bookmark: with
+an exact carried-or-absent test the queue needs no bookmark at all, because it is regenerated each time and a
+carried rule leaves it by itself.
+
+**The best find is a rule the plan holds one half of, in a form that reads as forbidding the other half.**
+Find the Next One says a distinctness paragraph proves two plays are different plays and never that they are
+on different dials, so a warrant that has cut itself from a neighbour has not answered the axis question.
+The register says the opposite-sounding thing: a warrant that has properly cut itself has named the quantity
+it turns on, because that is what a cut is made of, so **the distinctness paragraph is the axis declaration
+in prose**. Both are true and they are about different things. The paragraph **settles** nothing about
+whether two plays share a dial, and it **supplies** the best available guess at which dial to test. The plan
+held only the negative half, which reads as an instruction not to bother, and the register's half is the one
+that paid: it is where an axis pass found its shortcut.
+
+**Nine more rules carried**, to three plans. A candidate differing from an incumbent only in where it
+happens or how the result looks is a domain and not a spine, in two recorded halves that are one rule. A
+candidate whose core a reader can check without a source is worth more than one needing a citation nobody can
+reach, which is a selection rule this house's egress makes load-bearing. A dial with one harmful direction
+can never have an opposed pair. The namesake scan runs against the declarations and not only the index, and
+a play's namesake bill is not known until the gate is run. The register is a source and not only a record. A
+structure that runs where its conditions hold is the only kind this house stages. And two for the gates: **a
+gate that never fires is not a gate**, against **a wall the house trusts only fires when something is
+wrong**, which are opposite failures found the same way; with the line that decides which findings are walls
+at all, that a defect which is a judgement gets an instrument and a reader, and a defect which is a
+computation gets a wall.
+
+**One correction to the previous pass's history.** The hundred and second pass already moved method out of
+this register into Find the Next One and Name It Once, and its own entry says the register had **concluded
+four times and never done it**. So this read is the sixth conclusion and the second execution, and the first
+execution did not stop the accumulation: everything measured above was written before and after it alike.
+
+- [ ] [P2] The third stretch, with no rank and no bookmark: regenerate the work-framed set, run phrase
+      containment against every plan, and read what comes back absent. A hundred and twenty-four remain. The
+      only ordering worth applying is by how much of the register a rule was written to govern, which is not
+      computable, so read them in file order and record nothing but the count carried, since the containment
+      test recomputes the rest.
+
+- [ ] [P3] The register concluded six times that method belongs in the plans and executed twice. **A
+      conclusion that recurs is a conclusion nobody made into work**, and the two executions were both passes
+      that took it as their whole unit. Worth deciding whether carrying a rule is a step in every pass that
+      finds one, which is the cheap version and the one that keeps failing, or a standing periodic pass with
+      its own slate line, which is the expensive version and the only one with a record of working.
