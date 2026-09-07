@@ -100,7 +100,7 @@ article archives cannot be opened from here is a property of how this house is
 currently able to work, and it should be read as **bounding every warrant written
 under it**, not as a caveat one warrant happens to carry.
 
-**And a warrant names the pattern rather than printing the sequence.** Where the
+**The warrant names the pattern and does not print the sequence.** Where the
 clearest instance of a mechanism is a series whose recitation performs the harm the
 play is about, name the pattern and demonstrate the engine on an instance where
 nobody is hurt. The play loses nothing: the mechanism is fully visible either way.

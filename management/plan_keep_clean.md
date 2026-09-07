@@ -98,6 +98,19 @@ opened by one pass and closed by a different one**.
 that returns nothing has told you either that the house is clean or that the
 instrument cannot see, and only reading what it looked at distinguishes those.
 
+**A gate failed without finding anything, and the shape of that is worth carrying.**
+The canon validator went red once, passed on a re-run with nothing changed in the tree,
+and was written off in a pull request as transient. It was not transient and it was not
+a flake: there is no randomness, no ordering and no async race in that test. It was the
+runner's default five-second timeout against an assertion whose cost grows with the
+house, and **the count is not what failed it, load is**: anything that doubles
+wall-clock puts the resting time over the wall. **A gate that fails without naming a
+finding is reporting on the machine and not on the house**, and writing it off as a
+flake is how the house learns to ignore the one wall that measures its own growth.
+
+**And the whole point of the lane is that content and its governance move separately**,
+which is why the guard refuses a change that touches both and is right to.
+
 ## Implementation
 
 The gates, dependency updates, the security panel (alerts, secret scanning), the
