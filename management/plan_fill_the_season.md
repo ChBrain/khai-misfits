@@ -12442,7 +12442,55 @@ Fit rather than in a pass entry from the fifty-eighth.
 rule-shaped spans, six carried, none left. That is what the order is for and it took one command, which is
 the difference between a discipline and a step.
 
-- [ ] [P2] The fourth stretch: a hundred and twenty-two remain and the instrument regenerates the list, so
+- [x] [P2] The fourth stretch: a hundred and twenty-two remain and the instrument regenerates the list, so
       there is nothing to resume from. The rate to record against is this run's, roughly one real rule in
       four spans read across three stretches, which is higher than the one in eight the last pass guessed
       because the guess counted only what was carried and not what was read.
+
+**The hundred and forty-fifth pass runs the fourth stretch and finds that three rules it carried last pass
+came back on the list, because the instrument cannot see a rule reworded on its way into a plan.**
+
+**`register_rules.mjs` detects verbatim carriage and nothing else, which is the cost of the test that
+replaced the score.** Phrase containment was chosen because it is exact, and exactness cuts both ways: a rule
+quoted into a plan disappears from the list, and the same rule glossed in the plan's own voice stays on it
+forever. Three from the third stretch came back on the fourth. _The warrant names the pattern and does not
+print the sequence_ went into Cut to Fit as _a warrant names the pattern rather than printing the sequence_.
+_No villain is available and is the candidate's strength_ went in as _no villain being available is the
+candidate's strength_. The codification discriminator was carried as an argument rather than as its sentence.
+
+**The rule, and it is cheap: quote the register's sentence once, then gloss it.** A false positive on this
+instrument is not paid once, it is paid on every future run, so a rule carried in a plan's own words costs a
+reading forever. The three are quoted properly now and the plans read no worse for it, because a rule stated
+in the words it was found in is usually the sharper sentence anyway.
+
+**Fifteen carried, and the count moved 60 to 75 of 182.** A hundred and seven remain, and the three above are
+part of the movement, which is worth saying plainly: **the count includes rules that were already carried and
+were only made visible**, so it overstates the pass's new work and understates how much of the earlier work
+had gone unrecorded.
+
+**Five to Find the Next One, quoted.** The oldest standing rule in the register goes first: **dedup by engine
+against the concordance, never by title, and grep this slate before appending to it**, which is the first
+rule this file ever held and had never been carried. Then: a discriminator written for one pair answered the
+next without amendment, so **look for the existing answer on an axis before writing a new one**. A **singleton
+axis can never produce an opposition**, which is why every opposition the house holds came from declaring a
+joiner onto a dial that already had a member. **The register can compute where the house is thin, and it never
+had**, since the field a warrant declares is a count away. And **a slate line must carry the shape of the
+namesake obligation and not the fact of one**, because the fact is worth nothing to the pass that must
+discharge it.
+
+**Three to Name It Once, and they are one argument in three sentences.** The instrument that finds a namesake
+is always a change that forces the index to resolve; the scan says where to point the instrument and the
+declaration is the instrument; and a declaration made ahead of its cell is the one kind that costs nothing.
+
+**Two to Keep Clean, and the first is a correction to a pull request nobody reread.** A gate went red once,
+passed on a re-run with nothing changed, and was written off as transient. It was neither transient nor a
+flake: it was the runner's default timeout against an assertion whose cost grows with the house, and **the
+count is not what failed it, load is**. **A gate that fails without naming a finding is reporting on the
+machine and not on the house**, and writing that off as a flake is how a house learns to ignore the one wall
+that measures its own growth.
+
+- [ ] [P2] The fifth stretch: a hundred and seven remain. The rate is holding at roughly fifteen carried per
+      pass with no sign of the seam thinning, which is the third stretch in a row to say so, so the thing to
+      watch is not the yield but whether the rules being found are getting narrower. The last two stretches
+      turned up the oldest rule in the register and the register's own diagnosis of why rules are not carried,
+      which are not narrow at all.

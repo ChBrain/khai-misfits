@@ -157,6 +157,15 @@ the declaration follows. And **rewording a citation to keep an instrument quiet 
 the failure this rule exists to prevent**: the bibliography is never the thing to
 bend.
 
+**Three more, quoted as the register wrote them.** **The instrument that finds a
+namesake is always a change that forces the index to resolve, and the scan only decides
+where to point it**, so a scan is a readiness report and the declaration is what
+actually resolves anything: **the scan says where to point the instrument and the
+declaration is the instrument.** And **a declaration made ahead of its cell is the one
+kind that costs nothing**, changing no index key, rebuilding no artefact and firing on
+nothing, which is the practical argument for reading the ordering table before costing a
+pass rather than after.
+
 Held separate, and not covered by this plan: **49 staged titles are the canonical
 concept name** (`Moral Hazard`, `Rent-Seeking`, `Dutch Disease`), against the
 house rule that a title hides the textbook name the way Bad Coin hides Gresham.

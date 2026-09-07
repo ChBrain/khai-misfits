@@ -192,6 +192,12 @@ moves along is a precondition and not a quantity. And **the one-person test rule
 out a whole family at once**: strip the candidate to a single actor, and if the
 play still runs, no axis whose dial is a relation between parties can hold it.
 
+**What is being made explicit decides the sign: writing down a living practice fixes
+content it never had, and writing down the reason a fence was built subtracts nothing
+from the fence and adds a handle.** That is the `codification` axis's discriminator and
+it is quoted here because a discriminator written for one pair is the first thing to try
+on the next.
+
 **Monotone in it is two questions, and the house had four names for them.** An audit
 of the register found the clause deciding at least eleven rows since the sixty-sixth
 pass under names that never referred to each other, so ask both, in this order.
@@ -244,6 +250,10 @@ those could, in the largest field in the house.
 hundred and thirty work-framed rules in the register written before this run,
 **exactly one had reached a plan**; the rest were carried by these two passes or are
 carried still.
+
+**No villain is available and is the candidate's strength.** Where every party is
+doing the competent, correct or required thing and the harm arrives anyway, that is the
+shape this house is for.
 
 **A candidate whose only difference from an incumbent is where it happens, or how
 the result looks, is a domain and not a spine.** Both forms were recorded
@@ -306,6 +316,39 @@ on one dial is the ordinary case and the point of the mechanism.
 **Where a pass hands work to a successor, the cheapest thing it can hand over is a
 number the successor can check.** A count that has moved is evidence the work
 happened; a sentence saying it happened is not.
+
+**Five from the fourth stretch, quoted as the register wrote them.**
+
+**dedup by engine against the concordance, never by title, and grep this slate before
+appending to it.** The oldest standing rule in the register and the first ever written
+there. A title is a name the house chose and an engine is what the play runs on, so two
+titles can differ and stage one mechanism, which is the collision a title check cannot
+see.
+
+**A discriminator written for one pair answered the next one without amendment**, which
+is the evidence that the axis mechanism accumulates rather than merely accretes, so
+**the instruction is to look for the existing answer on an axis before writing a new
+one**. A dial that already carries two plays has usually already been argued about.
+
+**A singleton axis can never produce an opposition**, since an opposition can only
+exist inside a family, so declaring a joiner onto a dial that already has a member is
+where every opposition this house holds has come from. A play landing on a fresh axis
+can disagree with nobody.
+
+**The register can compute where the house is thin, and it never had.** The field a
+warrant declares in frontmatter is a count away, and the counts are lopsided, so a
+selector that asks which field is under-staged costs one command and needs no reading
+at all.
+
+**A slate line must carry the shape of the namesake obligation and not the fact of
+one**, because the fact is worth nothing to the pass that has to discharge it and the
+shape is the whole instruction: which half goes first, what it owes, and why.
+
+**And a rule carried in the plan's own words is a rule the instrument cannot see.**
+`tests/register_rules.mjs` detects verbatim carriage, so a rule reworded on its way here
+stays on the uncarried list for every future run and costs a reading every time. Quote
+the register's sentence once, then gloss it. Three rules carried by the third stretch
+came back on the fourth for exactly this and are quoted properly now.
 
 **Order axis candidates by the language of the cut, not by the count of the cuts.**
 Counting how many declared neighbours a warrant names predicts nothing in either
