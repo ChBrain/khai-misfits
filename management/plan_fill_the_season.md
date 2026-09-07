@@ -12348,8 +12348,52 @@ execution did not stop the accumulation: everything measured above was written b
       computable, so read them in file order and record nothing but the count carried, since the containment
       test recomputes the rest.
 
-- [ ] [P3] The register concluded six times that method belongs in the plans and executed twice. **A
+- [x] [P3] The register concluded six times that method belongs in the plans and executed twice. **A
       conclusion that recurs is a conclusion nobody made into work**, and the two executions were both passes
       that took it as their whole unit. Worth deciding whether carrying a rule is a step in every pass that
       finds one, which is the cheap version and the one that keeps failing, or a standing periodic pass with
       its own slate line, which is the expensive version and the only one with a record of working.
+
+**The hundred and forty-third pass answers the question by refusing both of its options, and builds the
+instrument instead.**
+
+**The slate offered a discipline or a periodic pass, and the evidence rules out both.** The discipline,
+carrying a rule in the pass that finds it, has failed every time it has been relied on, which is what a
+hundred and forty-four uncarried rules are. The periodic pass has worked twice and **did not stop the
+accumulation**, because a rule written between two of them waits for the next one, and everything this run
+measured was written before and after the hundred and second pass alike. A mechanism with a record of
+working twice in six conclusions is not a mechanism, it is a habit two passes happened to have.
+
+**What changed is that the finding became computable, and the house already has a rule for that case.** _Where
+a defect is a judgement about what a cell means, build something that finds it and leave the deciding to a
+person; where a defect is a computation, build a wall._ That rule was carried out of the register one pass
+ago and it decides this: whether a bold sentence is a standing rule is a judgement and the filter has obvious
+false positives, so **an instrument, not a wall**. But the filter and the containment test are both exact
+computations, so the _finding_ can be automated even though the _deciding_ cannot, and that is the whole of
+why the cheap version is now viable. **The discipline failed because it was memory. It becomes a step when
+it becomes a tool.**
+
+**`tests/register_rules.mjs` is that tool**, in the shape of the house's other standing instrument. It takes
+a line range so a pass can check its own entry, reports what is rule-shaped and uncarried, and says on its
+own output that it is a reading list and not a wall. Keep Clean carries the order: run it before writing the
+entry, and carry what reads as a standing instruction before the pass ends.
+
+**And it needs no bookmark, which is the property that lets it be a step at all.** The carried test is
+exact, so the queue regenerates on every run and a rule that has been carried leaves it by itself. Neither
+earlier attempt could have been a step, because both were built on a position in a list that had to be
+remembered between passes, and the last pass measured that position failing inside one.
+
+**The measured state, whole register rather than pre-session: 174 rule-shaped spans, 30 in a plan, 144
+not.** The pre-session figure was one in a hundred and thirty; this run carried twenty-nine, which is more
+than the register's entire prior history and still leaves five-sixths of it uncarried.
+
+**The instrument's first run was on the two passes that built it, and it flagged their own method
+description as uncarried**, which was correct: the filter, the containment test and the no-bookmark property
+were all written into this file and into no plan. They are in Keep Clean now, which is what the tool was for.
+
+- [ ] [P3] The instrument reports 144 uncarried spans and most of them owe nothing, so the number that
+      matters is not the count but the **rate at which a reader finds a real rule in it**. This run's two
+      reading passes found sixteen worth carrying out of a hundred and thirty read, which is about one in
+      eight. Worth recording that rate against the next few runs, because if it holds the remaining hundred
+      and forty-four hold roughly eighteen more rules, and if it falls sharply the filter is returning the
+      easy ones first for a reason nobody has identified.
