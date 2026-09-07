@@ -12109,7 +12109,7 @@ collisions its own vocabulary makes**, because the natural name for the piece at
 play, and the natural name for the plot in a room is the room, so the wall is catching the same three shapes
 every time and it is cheaper to name against them than to be caught.
 
-- [ ] [P2] Declare an axis on **Still Compliant**, in a later pass, with two candidates already tempting and
+- [x] [P2] Declare an axis on **Still Compliant**, in a later pass, with two candidates already tempting and
       neither run. `blame-attachment` reads well, since the conduct is aimed at answerability rather than at
       the outcome, but its sign comment turns on blame attaching to whoever can be shown to have known or
       decided, and here the harbour **detaches** blame from whoever conformed, which may be a different
@@ -12122,3 +12122,51 @@ every time and it is cheaper to name against them than to be caught.
 - [ ] [P3] Name a misfit's elements against the three collisions the canon catches every time: the piece
       that carries the play's name, and the plot that carries its place's name. Cheap to avoid at authoring
       and currently found by the wall on every authoring pass.
+
+**The hundred and thirty-ninth pass declares the axis on the play authored last pass, and neither candidate
+the slate named survived.**
+
+**Still Compliant joins `codification` at the negative sign**, with Held Still to Keep It, against No One in
+Charge and Chesterton's Fence at the positive one. The dial is how much of an arrangement is made explicit
+and fixed, and the axis already carries a discriminator, **what sets the sign is what is being made
+explicit**, which decided this one without amendment: writing down what will count as enough is a claim
+about content, and the claim becomes the standard the practice is held to.
+
+**Both slated candidates refused, and the refusals were cleaner than the guesses.** `blame-attachment` reads
+well because the conduct is aimed at answerability, but its four members all stage conduct shaped to avoid
+being shown to have known or decided, and **this play runs the other way**: it maximises the record,
+documents everything, and the documentation is the defence. `deference-to-judgement` reads well because the
+firm stops forming its own view, but the thing deferred to is a text and nobody is graded: **stipulate that
+the officer privately believes the framework inadequate and the play is unchanged**, because belief is not
+what the defence reads, which no deference dial survives.
+
+**The strongest candidate was the one the slate never named, and it refuses on monotonicity.**
+`protective-cover` carries moral hazard and Nothing to Lose and is plainly about a shield between an actor
+and a loss, which a safe harbour is. But **hold the shield at a fixed thickness and this play's harm still
+grows**, because the text ages while the hazard moves, and a harm that grows with the dial held constant is
+not monotone in it. Stipulate a shield of maximum thickness attached to no text, a statute barring liability
+for any breach whatever, and there is no line to stop at and no ceiling at all: what is left is Nothing to
+Lose at its extreme. **That is the axis rule doing real work rather than being recited**, and it is the
+first refusal in the register decided on monotonicity rather than on mechanism.
+
+**The near reading is Held Still to Keep It, and that warrant states this play's premise outright.**
+_Nothing that safeguards can safeguard a moving target_ is written there, about heritage inscription, three
+hundred plays before the play that needed it. **The cut is whose practice is inscribed.** There the record
+is made out of the thing being protected, so the harm falls on the practice and on the people carrying it.
+Here nothing about the firm is written down at all: the text is a standards body's catalogue composed
+elsewhere, the firm maps onto it, and the party who pays is a stranger to the transaction.
+
+**And that extends the axis's discriminator rather than straining it.** The earlier reading turned on what
+is made explicit, a living practice against a relation of power or a reason for a fence. **This play makes
+nothing about its own practice explicit and lands on the negative side anyway.** So it is not the
+inscription of a practice that does the damage, it is the inscription of **the content a practice must
+match**, and a practice can be fixed as hard by a document it never appeared in as by one made out of it.
+Carried into all four warrants, since a discriminator that has moved should not be legible only from the
+newest member.
+
+- [ ] [P3] The axis rule says two plays belong on one dial when one quantity exists such that both harms are
+      monotone in it, and until this pass every refusal in the register was decided on mechanism, on the
+      one-person test, or on the pinned rule. **The monotonicity clause had never once been the thing that
+      decided a row.** Worth a pass reading the refusals already recorded to see how many of them would have
+      been settled faster by asking whether the harm grows with the dial held still, which is a cheaper
+      question than any of the three and was available the whole time.

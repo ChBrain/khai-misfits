@@ -94,6 +94,19 @@ writing it down is what would have saved it. The discriminator is unchanged: **w
 decides the sign.** A rationale is not the thing it justifies, so recording it costs the fence nothing,
 where recording a practice fixes content the practice never had.
 
+And it runs **with** the house's **Still Compliant**, on the same axis at the same sign, which is the
+nearest law in the house to this one: this warrant's own sentence, that **nothing that safeguards can
+safeguard a moving target**, is that play's premise stated here first. There a statute writes down the
+conduct that will count as enough, a firm's security work must answer a hazard that keeps changing, and the
+specification fixes what will count. **The cut is whose practice is inscribed.** Here the record is made
+out of the thing being protected, so the harm falls on the practice and on the people carrying it, and the
+canon is a canon of them. There nothing about the firm is written down at all: the text is a standards
+body's catalogue, composed elsewhere by people with no view of that firm, and the party who pays is not the
+one whose practice was fixed but a stranger to the transaction whose data was taken. That case extends the
+discriminator: **it is the inscription of the content a practice must match that does the damage, and not
+the inscription of the practice**, so a practice can be fixed as hard by a document it never appeared in as
+by one made out of it.
+
 ## Origin
 
 The instrument, the critique, and the parallel in language.

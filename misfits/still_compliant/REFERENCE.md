@@ -1,6 +1,8 @@
 ---
 concept: "The Compliance Safe Harbour (statutory conformity as an affirmative defence; the floor that becomes the ceiling)"
 field: "Safety, risk, and complex systems"
+axis: codification
+sign: negative # how freely a party's protective practice keeps changing to meet a moving hazard, as the conduct that will count as enough is written down and fixed
 source: "Ohio Data Protection Act, ORC ch. 1354 (2018); The T.J. Hooper, 60 F.2d 737 (2d Cir. 1932); Florida HB 473 (2024), vetoed"
 updated: "2026-09-07"
 ---
@@ -70,6 +72,50 @@ word. There a safe harbour prices two errors differently and the host takes the 
 expense; the harm is over-removal and the party who pays was not in the transaction. Here the two errors are
 not priced against each other at all: the firm does the thing the statute asked, at the level the statute
 asked, and the harm is what was never done.
+
+It joins the house's **Held Still to Keep It** on the axis `codification`, at the same sign, and runs
+against **No One in Charge** and **Chesterton's Fence**, which sit on it at the opposite one. The quantity
+is the same in all four, **how much of an arrangement is made explicit and fixed**, and the discriminator
+those plays established decides this one without amendment: **what sets the sign is what is being made
+explicit.** Writing down the reason a fence was built subtracts nothing from the fence and adds a handle;
+naming a relation of power subtracts nothing from it and adds a handle. Writing down what will count as
+enough is a claim about content, and the claim becomes the standard the practice is held to. That is the
+negative side's own test, and this play meets it.
+
+The near reading is Held Still to Keep It, and the law is close enough that its warrant states this play's
+premise outright: **nothing that safeguards can safeguard a moving target.** There a practice was alive
+because it varied, protection required a canonical object, and the inscription fixed content the practice
+never had. Here a firm's security must answer a hazard that keeps changing, certainty requires a specified
+conduct, and the specification fixes what will count. **The cut is whose practice is inscribed.** In that
+play the record is a record of the thing being protected, made from it, so the harm falls on the practice
+itself and on the people who carried it. Here nothing about the firm is written down at all: the text is
+somebody else's catalogue, written elsewhere by a body with no view of this firm, and the firm maps onto
+it. The party harmed is not the party whose practice was fixed but the one outside the transaction whose
+data was taken.
+
+That difference sharpens the axis's discriminator rather than straining it. The earlier reading turned on
+what is made explicit, a living practice against a relation or a reason. **This play makes nothing about
+its own practice explicit and lands on the negative side anyway**, because what was written down is the
+content the practice must match. So it is not the inscription of a practice that does the damage: it is the
+inscription of the standard, and a practice can be fixed as hard by a document it never appeared in as by
+one made out of it.
+
+Two dials the slate named were tried and refused. **`blame-attachment`** reads well at first, since the
+conduct is aimed at answerability rather than at the hazard, but its four members all stage conduct shaped
+to avoid being shown to have known or decided, and this play runs the other way: it **maximises** the
+record, documents everything, exhaustively, and the documentation is the defence. Nothing is hidden and the
+dial's driver is absent. **`deference-to-judgement`** reads well too, since the firm stops forming its own
+view of its risk, but the thing deferred to is a text rather than a judgement and nobody is graded.
+Stipulate that the officer privately believes the framework inadequate and the play is unchanged, because
+belief is not what the defence reads, which a deference dial cannot survive.
+
+And **`protective-cover`** was the strongest unnamed candidate and refuses on the monotonicity the axis
+rule actually requires. The harbour is plainly a shield between the actor and the loss. But hold the shield
+at a fixed thickness and this play's harm still grows, because the text ages while the hazard moves, and a
+harm that grows with the dial held constant is not monotone in it. Stipulate a shield of maximum thickness
+that is not attached to any text, a statute barring liability for any breach whatever, and there is no line
+to stop at and no ceiling: what is left is Nothing to Lose, at its extreme, which is that axis working
+properly and this play absent from it.
 
 ## Origin
 
