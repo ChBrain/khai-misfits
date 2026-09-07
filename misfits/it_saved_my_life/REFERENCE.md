@@ -1,8 +1,10 @@
 ---
 concept: "The Popularity Paradox of Screening (overdiagnosis; lead-time and length bias)"
 field: "Ecology, evolution, and public health"
+axis: outcome-selection
+sign: negative # how far a sample can speak for the population it is read about, as membership in it depends more on the outcome being studied
 source: "Raffle & Gray, _Screening: Evidence and Practice_ (2007); Welch, Schwartz & Woloshin"
-updated: "2026-07-21"
+updated: "2026-09-07"
 ---
 
 # It Saved My Life: Reference
@@ -43,6 +45,38 @@ thing that produced them. It is distinct too from First Do Harm, whose engine is
 iatrogenic harm, in that the load-bearing move here is not the harm but the popularity it earns, and from Metric
 Fixation, whose number is a target gamed, in that the survival rate here is honestly computed and honestly misleading,
 inflated by lead time and overdiagnosis with no one gaming anything.
+
+It joins the house's **The Survivors**, **The File Drawer** and **The Trip to Abilene** on the axis
+`outcome-selection`, at the same sign, and the distinctness paragraph above is where the dial was already
+written down: it separates this play from The Survivors on **how the selection works** and never on what is
+being selected, which is the mark of one quantity and two mechanisms. What is read here is the body of
+testimony that the programme saves lives; what it is read as is the programme's effect on the people it
+touches; and membership in the first depends on the second, since a person who was overdiagnosed survives
+with certainty and speaks, while the harm they carry has no voice anywhere.
+
+**The removal mechanism is a fourth kind, and it is the one that cannot be repaired by anybody's honesty.**
+In The Survivors the unit is dropped by a passive attrition; in The File Drawer it is screened out by a
+gatekeeper reading the result; in The Trip to Abilene it withholds itself. **Here the unit is present and its
+evidence is unformable.** Nobody drops the counter-testimony, nobody screens it and nobody swallows it: it is
+never generated, because no one can tell in a single body the tumour that would have killed from the one that
+would have sat still, so the class of people who know they were overdiagnosed is empty by construction. The
+play's own second stanza is the statement of it, that the overdiagnosed cannot know they were not saved.
+
+**The stipulation that places it is knowability, and it is discriminating rather than a gesture.** Suppose
+each treated person learns with certainty whether their disease would ever have harmed them. This play is
+gone: the overdiagnosed know what happened to them, testify accordingly, and the loop that turns harm into
+demand has nothing to turn. The Survivors is gone under the matching stipulation, since the drowned reporting
+is the whole of its repair. **Better in Both survives it entire**, because the Will Rogers phenomenon is an
+arithmetic property of the reporting categories and not of anyone's knowledge: give every case perfect
+knowledge of its own prognosis and the stage-specific averages still both improve. That is the cut the slate
+asked for and it lands the other way from the one it feared.
+
+**And nothing-is-missing is satisfied, on the reading that clause was written for.** The people are not
+missing; the observation is. A testimony against the programme is absent from a record everybody reads as
+the programme's effect, so a unit that the population contains has no representative in the sample, which is
+a censored sample and not a falsified or a reclassified one. The reader clause holds too: the funder, the
+campaigner and the public all take the testimony for evidence of benefit, and the randomised comparison that
+would answer them arrives late, cold, and against a room full of moving stories.
 
 ## Origin
 

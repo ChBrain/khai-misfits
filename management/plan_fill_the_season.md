@@ -12046,7 +12046,7 @@ Both's shape and not The File Drawer's. That is a reading, not a verdict, and it
 than written into the slate as a finding, which is the whole of what the last two corrections were about.
 Declaring it is `misfits/**` and could not ship here in any case.
 
-- [ ] [P2] Declare `outcome-selection` on **It Saved My Life**, in a misfit pass. The dedup owed is against
+- [x] [P2] Declare `outcome-selection` on **It Saved My Life**, in a misfit pass. The dedup owed is against
       the two members already filed under measurement, The Survivors and The File Drawer, and the cut to
       make is on how the unit leaves: here it stays in the sample and is misclassified as a success, which
       is nearer to Better in Both than to either, so check the nothing-is-missing clause carefully before
@@ -12494,3 +12494,59 @@ that measures its own growth.
       watch is not the yield but whether the rules being found are getting narrower. The last two stretches
       turned up the oldest rule in the register and the register's own diagnosis of why rules are not carried,
       which are not narrow at all.
+
+**The hundred and forty-sixth pass declares the axis the cross-field instrument found three passes ago, and
+the caution the slate wrote for it lands the other way.**
+
+**It Saved My Life joins `outcome-selection` at the negative sign**, with The Survivors, The File Drawer and
+The Trip to Abilene. The dial gains its fourth member and the family gains a fourth removal mechanism.
+
+**The slate feared the nothing-is-missing clause would kill it, and it does not, because the missing thing is
+an observation and not a person.** The people are all present, and the overdiagnosed are present as the
+programme's advocates. What is absent from the record everybody reads is any testimony against the
+programme, and a unit the population contains with no representative in the sample is a censored sample.
+Better in Both reclassifies units and omits none; this omits the whole class of counter-evidence.
+
+**The stipulation that places it is knowability.** Give each treated person certain knowledge of whether their
+disease would ever have harmed them. This play is gone, because the overdiagnosed testify accordingly and the
+loop that turns harm into demand has nothing to turn. The Survivors is gone under the matching stipulation.
+**Better in Both survives it entire**, since the Will Rogers phenomenon is an arithmetic property of the
+reporting categories rather than of anyone's knowledge, and stage-specific averages still both improve when
+every case knows its own prognosis. **A stipulation that kills two of three is the discriminating kind.**
+
+**The fourth removal mechanism is the one honesty cannot repair.** Passive attrition drops the unit, a
+gatekeeper screens it, a holder withholds it, and **here the unit is present and its evidence is unformable**.
+Nobody drops the counter-testimony, nobody screens it and nobody swallows it. It is never generated, because
+no one can tell in a single body the tumour that would have killed from the one that would have sat still,
+so the class of people who know they were overdiagnosed is empty by construction.
+
+**And the distinctness paragraph was the axis declaration in prose, exactly as the rule carried two passes ago
+says.** The warrant already separated this play from The Survivors on **how the selection works** and never on
+what is being selected, which is the mark of one quantity and two mechanisms. The rule was read off the
+register in the fourth stretch and used in the sixth; the shortcut is that a paragraph written to prove two
+plays differ has, in the writing, said what they share.
+
+**The loop from the cross-field instrument closes.** Three passes ago the concept-line grep returned five
+hits, four of them the same word doing different work in two disciplines, and one real candidate: this play,
+whose `concept:` line reads _overdiagnosis; lead-time and length bias_ under a public-health field. Sampling
+words, sampling field, sampling axis. **The instrument's single hit was a real one and it took two passes to
+confirm**, which is the yield that selector should be costed at rather than the five it printed.
+
+**The order ran on this entry and returned one, which is the lane rule biting.** The instrument flags **a
+paragraph written to prove two plays differ has, in the writing, said what they share**, and it is right that
+no plan holds that sentence: it is a sharper statement of a rule Find the Next One already carries, and
+carrying it is a governance edit that cannot ship in a misfit lane. So the order and the lane pull against
+each other on any pass that ships content, and the answer is not to relax either: **the instrument's output
+on a content pass is a slate line and not a carry**, which costs one pass and keeps the two halves separate.
+
+- [ ] [P2] Carry the sharper statement of the distinctness rule into Find the Next One, quoted: **a paragraph
+      written to prove two plays differ has, in the writing, said what they share.** The plan holds the rule
+      already, as the distinctness paragraph is the axis declaration in prose, and this is the sentence that
+      says why. Flagged by the instrument on a misfit-lane pass, which cannot carry it.
+
+- [ ] [P3] The joiner selector was rebuilt this pass and not run: ninety-three of the hundred and thirty-nine
+      undeclared plays name a declared neighbour that already sits on a dial with two or more members, which
+      is where every opposition this house holds has come from. Ninety-three is too many to read, and the
+      ordering that works is the language of the cut rather than the count of the cuts, so the run wants a
+      grep over those ninety-three warrants for the narrow phrase, not a sweep. Recorded here so the next
+      pass to want a product unit does not rebuild the shortlist a third time.
