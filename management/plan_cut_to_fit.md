@@ -82,6 +82,19 @@ has already asserted that it does. Where the literature is live enough that the
 direction itself is in dispute, the candidate is refused on sourcing and the shape
 is scouted again on a different evidential base.
 
+**Two sourcing rules the register had held since the fifty-first pass and never sent
+here.** First, **a row that cannot be traced is dropped, whatever it would have
+added**: a citation the pass cannot follow to a source it can name is not made safe
+by being interesting, and the warrant is shorter without it. Second, **where the
+mechanism has moved, go back to the original rather than forward to the next**. A
+candidate whose engine has been restated by a later literature has two versions, and
+the later one usually has strong incumbents in this house precisely because it is the
+version everybody now writes about; the earlier statement is the one that says what
+the phenomenon was noticed to be. And narrower than both: **when a candidate's spine
+is a theoretical result rather than a measurement, the sourcing question is whether
+anything has tested it**, because a result that has only ever been derived can be
+carried as a claim about a model and not as a claim about the world.
+
 ## Implementation
 
 The misfits under `misfits/**` and the warrant (`REFERENCE.md`) that names each

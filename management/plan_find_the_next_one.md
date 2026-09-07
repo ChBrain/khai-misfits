@@ -201,6 +201,37 @@ dial and the second whether it responds to nothing else, and **the second is the
 cheaper of the two to run and the one nobody thought to ask for a hundred and thirty
 passes**.
 
+**Four candidate rules the register had held for eighty passes and never sent here.**
+They were found by the first stretch of the register read, and each had decided a real
+row before it was written down.
+
+**A candidate that needs a wrongdoer to produce its outcome is not a structure**,
+however elegant the bind looks. Nothing goes wrong in such an arrangement unless
+somebody is behaving badly, so the play would need a bad actor inside the sequence for
+anything to happen at all, and a misfit whose events require a culprit is a crime with
+a diagram. The positive form is the better test to carry, because it is a reason to
+take a candidate rather than only to kill one: **no villain being available is the
+candidate's strength**, and where every party is doing the competent, correct or
+required thing and the harm arrives anyway, that is the shape this house is for.
+
+**Where an incumbent's remedy is the thing a candidate cannot obtain, the two are not
+competitors and the candidate should say so plainly.** This is a relation of
+dependence rather than of adjacency: the incumbent names a hazard and the candidate
+stages why the standard repair for it is unavailable to a whole class of case. A
+warrant that spots this has its distinctness paragraph already written.
+
+**A candidate whose remedy is undone in proportion to how well it works is not a
+coordination failure and should not be dedup'd against one.** Where the quality of an
+outcome and the strength of the force destroying it are one quantity, the restoring
+force is strongest exactly where the arrangement is working best, which no
+coordination play has, and a dedup run against that family will refuse for the wrong
+reason.
+
+**A bound is a confession, so the file worth mining is the one where authors record
+what they could not settle.** As a selector this is a different question from _which
+remedy fails_ and from _which seat is uncast_, and it found a candidate neither of
+those could, in the largest field in the house.
+
 **Order axis candidates by the language of the cut, not by the count of the cuts.**
 Counting how many declared neighbours a warrant names predicts nothing in either
 direction, measured twice at ten rows each for no declarations. Grepping the same

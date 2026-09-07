@@ -11821,7 +11821,7 @@ where it was found rather than where it applies; it is appended and never edited
 passes later is stated twice with the correction downstream; and it is now eleven thousand lines, so nothing
 in it is found except by grep, by somebody who already knows what they are looking for.
 
-- [ ] [P2] Read the register **before** this session for rules that never reached a plan, in bounded
+- [x] [P2] Read the register **before** this session for rules that never reached a plan, in bounded
       stretches rather than in one pass. Four hundred and thirty-seven rule-shaped statements is the raw
       count and most will not qualify, so the first job is a filter that separates a standing instruction
       from an observation about one play, and the second is checking the survivors against the four plans.
@@ -12225,3 +12225,64 @@ for it.
       the same way. **A number that is only ever incremented from the last sighting of it is not a count of
       the set**, and the cheap fix is to name the cases rather than to number them, since a list can be
       checked against the register and an ordinal cannot.
+
+**The hundred and forty-first pass runs the first stretch of the register read, and seven of seven rules
+found had never reached a plan.**
+
+**The filter is three tests and it is the reusable part.** A standing rule in this register is bold, is at
+least eight words, carries a general marker, **contains no proper noun** past the first word, and is framed
+on the work rather than on the subject: its subject is a pass, a warrant, a candidate, an axis, an
+instrument, a grep, a lane, a count. The first two tests leave 472 spans in the pre-session register and the
+proper-noun test does most of the work; the work-frame test cuts 472 to **130**. That is a readable set,
+which the raw count of four hundred and thirty-seven the slate quoted is not.
+
+**The stretch is a rank and not a line range, which is the correction to the slate's method.** The slate said
+to take it a few hundred lines at a time. Line ranges are the wrong axis, because the rules are not spread
+evenly and reading a range means reading whatever it happens to hold. Instead each of the 130 was scored by
+how much of its vocabulary already appears in the six plans other than this one, and the pass read the **45
+lowest**. That orders the set by the thing being looked for. **The next stretch is ranks 46 to 130**, and it
+will be a thinner seam by construction, which is the point of ordering it.
+
+**Seven confirmed rules, and none of them is in any plan.** All ten phrases checked returned nothing outside
+the register.
+
+- **A candidate that needs a wrongdoer to produce its outcome is not a structure**, however elegant the bind
+  looks, and its positive form is the better carry: **no villain being available is the candidate's
+  strength**.
+- **Where an incumbent's remedy is the thing a candidate cannot obtain, the two are not competitors and the
+  candidate should say so plainly.** Dependence rather than adjacency, recorded as a form the second time it
+  appeared.
+- **A candidate whose remedy is undone in proportion to how well it works is not a coordination failure and
+  should not be dedup'd against one.**
+- **A bound is a confession, so the file worth mining is the one where authors record what they could not
+  settle**, which is a selector and not a test, and found a candidate two other selectors could not.
+- **A row that cannot be traced is dropped whatever it would have added**, and **where the mechanism has
+  moved, go back to the original rather than forward to the next**, with the narrower note that a spine which
+  is a theoretical result rather than a measurement asks whether anything has tested it.
+
+Four carried to Find the Next One and three to Cut to Fit, in this pass, since both are governance and so is
+this file.
+
+**And one of the seven is a rule this session re-derived and wrote into a plan as new.** _A shared word is
+the commonest false positive in this search_ was recorded at the hundred and fourth pass, with the test that
+settles it: **stipulate the axis quantity away and see whether the play survives**. Two passes ago this house
+found the same thing again from the concept-line instrument, called it a cross-field pun, and shipped it to
+Find the Next One as a finding. **The register had it, in the same plan's subject area, eighty passes
+earlier.** That is the fourth re-derivation this run and the first one measured rather than noticed, and it
+is the whole answer to whether this read is worth continuing.
+
+**The slate said four plans and there are seven.** Cut to Fit, Find the Next One, Fill the Season, Go on
+Tour, Keep Clean, Name It Once, Stage the Score. A pass checking survivors against four of them would have
+reported clean on rules that live in the other three.
+
+**The register holds no standing rule at all before line three thousand, and it is not a filter artefact.**
+Those lines carry 160 bold spans and zero rule-shaped ones; everything after carries about 2,400 and 472. So
+the register does not begin as a method document and becomes one at a definite point, which is roughly where
+the house had enough production behind it to have a practice to be wrong about. **A method is what a register
+grows, not what it starts with**, and a reader looking for rules can skip the first quarter of this file.
+
+- [ ] [P2] The second stretch of the register read: ranks 46 to 130 of the work-framed set, scored the same
+      way. The filter and the scoring are described above and should be rerun rather than re-invented, and
+      the expectation to record against is that the yield falls, since the ordering put the least-covered
+      first. If it does not fall, the score is not measuring what it was built to measure and that is the
+      more interesting result.
