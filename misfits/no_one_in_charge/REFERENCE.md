@@ -49,6 +49,14 @@ a claim about its content, and the claim becomes the standard the practice is he
 recommended by both literatures in good faith, is the correction in one and the loss in the other, and
 neither play is wrong about its own case.
 
+The dial has since taken a third case at the negative sign, the house's **Still Compliant**, and it extends
+the discriminator without breaking it. There a statute writes down the conduct that will count as enough
+against a moving hazard, and the firm's own practice is never inscribed at all: the text is a standards
+body's catalogue, written elsewhere. It lands on the loss side anyway, which shows that **what does the
+damage is the inscription of the content a practice must match rather than the inscription of the practice
+itself**. Naming power still adds a handle and subtracts nothing, because a relation of power is not a
+thing that has to keep changing to stay adequate.
+
 ## Origin
 
 The phenomenon in theory, and the research spine beneath it.

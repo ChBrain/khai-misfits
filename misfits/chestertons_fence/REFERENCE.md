@@ -43,7 +43,12 @@ established holds here without amendment: **what sets the sign is what is being 
 down a living practice is a claim about its content, and the claim becomes the standard the practice is
 held to. Writing down the reason a fence was built subtracts nothing from the fence and adds a handle, so
 this play is on the same side as the naming of power: the safeguard whose rationale is written survives
-the review that the safeguard whose rationale is tacit does not.
+the review that the safeguard whose rationale is tacit does not. The house's **Still Compliant** has since joined the
+negative sign as a third case, where a statute writes down the conduct that will count as enough against a
+hazard that keeps moving, and it sharpens the discriminator rather than disturbing it: the firm's own
+practice is never inscribed there, only the standard it must match, so **what does the damage is the
+inscription of the content rather than the inscription of the practice**. A reason for a fence is not
+content a safeguard has to keep matching, which is why writing it down still adds a handle here.
 
 ## Origin
 
