@@ -179,7 +179,8 @@ play and an opportunistic counterparty in the other. Three consequences follow.
 **A distinctness paragraph proves two plays are different plays and never that they
 are on different dials**, so a warrant that has already cut itself from a neighbour
 has not thereby answered the axis question. **But read it anyway, because it is
-where the candidate dial is written down.** A warrant that has properly cut itself
+where the candidate dial is written down.** **A paragraph written to prove two plays
+differ has, in the writing, said what they share.** A warrant that has properly cut itself
 from a near neighbour has, in doing so, named the quantity it turns on, since that
 is what a cut has to be made of, so **the distinctness paragraph is the axis
 declaration in prose** and reading it is cheaper than reasoning about the dial from
@@ -359,6 +360,32 @@ But the wide phrases generate candidates and never verdicts: **"the mirror" and
 shaped alike on different dials. The phrase that predicts a join is the narrow one,
 **that the incumbent's remedy is this play's poison**, because that is a claim about
 what happens when the dial moves, which is the only thing an axis asserts.
+
+**Measured again on a different selector, the narrow phrase predicts a decision and not
+a join.** Run over the ninety-three undeclared plays that name a declared neighbour on a
+dial with two or more members, it returned eight well-formed rows and **none of them
+joined**. The reason is structural rather than bad luck: the sentence the phrase matches
+is a distinctness sentence, and a warrant that has properly cut itself from a neighbour
+has already reasoned about the quantity, so the row arrives **settled**. Settled rows go
+either way, and a selector that finds them is finding rows somebody has already decided
+rather than rows that will decide a new way.
+
+**And the phrase must sit in the same sentence as the neighbour, or it matches ordinary
+English.** Grepping whole warrants returned five rows and every one was the phrase doing
+other work: _runs against the grain of how argument usually goes_, _the restraint runs
+against the drive that imposed the grid_, _the compensation is the same quantity that
+later pushes it over_. Constrain the match to a sentence that also names the declared
+neighbour and the false positives vanish. This is the shared-word rule again, arriving
+inside the narrow phrase that was supposed to be immune to it.
+
+**The cheapest pre-filter is the incumbent axis's own refusal clause, grepped against the
+candidate.** Two of the eight rows named a member of `outcome-selection`, and both
+candidates state that axis's refusal clause **in the very sentence that shortlisted
+them**: _every subject is present and counted, nobody is absent from anything_, and _the
+absent are counted, and counted as though still present_. Nothing-is-missing decides both
+before anybody reads further. **When a candidate's own warrant states the incumbent
+axis's refusal clause, the row is decided before it is opened**, and an axis whose
+refusal clause is written down can be run as a grep rather than as a reading.
 
 **Two things the grep needs, learned by running it.** First, **exclude a keyword that
 is part of a play's title**: the house holds a play called **The Mirror**, so a search

@@ -12539,14 +12539,65 @@ carrying it is a governance edit that cannot ship in a misfit lane. So the order
 each other on any pass that ships content, and the answer is not to relax either: **the instrument's output
 on a content pass is a slate line and not a carry**, which costs one pass and keeps the two halves separate.
 
-- [ ] [P2] Carry the sharper statement of the distinctness rule into Find the Next One, quoted: **a paragraph
+- [x] [P2] Carry the sharper statement of the distinctness rule into Find the Next One, quoted: **a paragraph
       written to prove two plays differ has, in the writing, said what they share.** The plan holds the rule
       already, as the distinctness paragraph is the axis declaration in prose, and this is the sentence that
       says why. Flagged by the instrument on a misfit-lane pass, which cannot carry it.
 
-- [ ] [P3] The joiner selector was rebuilt this pass and not run: ninety-three of the hundred and thirty-nine
+- [x] [P3] The joiner selector was rebuilt this pass and not run: ninety-three of the hundred and thirty-nine
       undeclared plays name a declared neighbour that already sits on a dial with two or more members, which
       is where every opposition this house holds has come from. Ninety-three is too many to read, and the
       ordering that works is the language of the cut rather than the count of the cuts, so the run wants a
       grep over those ninety-three warrants for the narrow phrase, not a sweep. Recorded here so the next
       pass to want a product unit does not rebuild the shortlist a third time.
+
+**The hundred and forty-seventh pass runs the joiner selector and declares nothing, and the null is the
+finding: the narrow phrase predicts a decision and not a join.**
+
+**Eight well-formed rows, no joins.** Ninety-three of the hundred and thirty-nine undeclared plays name a
+declared neighbour that already sits on a dial with two or more members, which is where every opposition this
+house holds has come from. The narrow phrase cut that to eight. None of the eight belongs on the dial its
+sentence named.
+
+**The reason is structural and not bad luck.** The sentence the phrase matches is a **distinctness** sentence,
+and a warrant that has properly cut itself from a neighbour has already reasoned about the quantity, so the
+row arrives **settled**. Settled rows go either way. The rule this register carries says the narrow phrase
+predicts a join; measured on a second selector it predicts that somebody has already thought about it, which
+is a weaker and more useful claim. Three of the eight were rows this file had already refused, which is the
+same fact seen from the other side.
+
+**And the phrase must sit in the same sentence as the neighbour, or it matches ordinary English.** The
+unconstrained grep returned five rows and every one was the phrase doing other work: _runs against the grain
+of how argument usually goes_, _the restraint runs against the drive that imposed the grid_, _the compensation
+protecting the far end is the same quantity that later pushes it over_. **This is the shared-word rule
+arriving inside the narrow phrase that was supposed to be immune to it**, and the constraint that fixes it is
+one line: the match and the neighbour's title in one sentence.
+
+**The cheapest pre-filter this pass found is the incumbent axis's own refusal clause.** Two rows named a
+member of `outcome-selection`, and **both candidates state that axis's refusal clause in the very sentence
+that shortlisted them**. Long Enough to Qualify: _every subject is present and counted, nobody is absent from
+anything_. Saved for Something Else: _the absent are counted, and counted as though still present, which is
+the opposite error_. Immortal time bias and competing-risk censoring are both sampling faults in the
+measurement field with a Survivors cut already written, and neither loses a unit. **When a candidate's own
+warrant states the incumbent axis's refusal clause, the row is decided before it is opened.**
+
+**The other three refuse on the first monotonicity question, and each in one stipulation.** First Do Harm
+against `symptomatic-fix-reliance`: set every fix to be fully curative and the play runs entire, because
+iatrogenic harm needs no symptomatic remedy, only a remedy. Known Too Late against `codification`: stipulate
+everything written down and fixed from the first day and Collingridge is untouched, because the harms are not
+yet knowable and no amount of explicitness reaches a harm that has not happened. Marked the Same by Anyone
+against `incentive-intensity`: set the reward attached to the measure to zero and the attenuation bound holds
+exactly as before.
+
+**A refusal pass with no declaration is not a wasted pass, and this one paid in instrument.** The selector is
+now three lines narrower, the phrase has a positional constraint it did not have, and an axis whose refusal
+clause is written down can be run as a grep rather than as a reading. All three carried to Find the Next One,
+with the sharper distinctness sentence the last pass could not ship from a misfit lane.
+
+- [ ] [P3] Known Too Late refused `codification` but named a dial nobody has founded: **how entrenched a
+      thing is against how well its harms are known**, which moves in opposite directions over time and is
+      the whole of Collingridge. Candidates to test it against are `time-in-use`, `asset-specificity` and
+      whatever carries path dependence, and the one-person test does not rule it out, since a single builder
+      faces the same pacing problem. Worth a pass, and worth checking first whether the dial is one quantity
+      or two moving in opposite directions, which the axis mechanism cannot express and this register has
+      recorded twice as a shape it cannot hold.
