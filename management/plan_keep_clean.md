@@ -72,6 +72,32 @@ accumulation, because a rule written between them waited for the next one. The
 measured state at the time this order was written: **174 rule-shaped spans in the
 register, 30 in a plan, 144 not.**
 
+**And the rule this order exists for was itself in the register three times and
+carried none of them.** _A pass that ends with a rule worth keeping has not finished
+until the rule is in the plan that governs the work it constrains._ _A rule that
+lives only in the register is a rule remembered at the edit._ _The register is where
+a rule is discovered and not where it is kept._ Three statements, three passes, no
+plan. That is the whole argument for the instrument and it was available the entire
+time.
+
+**Two more the instrument found, both about gates.** **A lane allow for a path that
+cannot occur is cargo**, and the cheapest way to learn whether the tooling ever
+generates one is to let it fail loudly on the day it does. And **the guard computes
+the lane and never the base**, and nothing else does either, so a branch cut from
+another lane's branch rather than from the trunk carries that lane's files into this
+one and `branch-check` rejects it, correctly and late. Check the trunk, not the
+pull request.
+
+**The house has a gate for every relation it can compute and none for the relation
+between a slate line and the house's own contents**, which is computable: a line
+names a concept and the concept either has a directory or it does not. Stale ticks
+and stale counts are the symptom, and they are stale because **a slate item is
+opened by one pass and closed by a different one**.
+
+**And the instrument that failed is worth more than the two that worked.** A run
+that returns nothing has told you either that the house is clean or that the
+instrument cannot see, and only reading what it looked at distinguishes those.
+
 ## Implementation
 
 The gates, dependency updates, the security panel (alerts, secret scanning), the

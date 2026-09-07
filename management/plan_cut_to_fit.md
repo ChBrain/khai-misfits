@@ -95,6 +95,16 @@ is a theoretical result rather than a measurement, the sourcing question is whet
 anything has tested it**, because a result that has only ever been derived can be
 carried as a claim about a model and not as a claim about the world.
 
+**The egress bound is not a note about one pass.** That the publisher hosts and the
+article archives cannot be opened from here is a property of how this house is
+currently able to work, and it should be read as **bounding every warrant written
+under it**, not as a caveat one warrant happens to carry.
+
+**And a warrant names the pattern rather than printing the sequence.** Where the
+clearest instance of a mechanism is a series whose recitation performs the harm the
+play is about, name the pattern and demonstrate the engine on an instance where
+nobody is hurt. The play loses nothing: the mechanism is fully visible either way.
+
 **And a structure that runs where its conditions hold is the only kind this house
 stages.** A warrant is not weakened by naming the conditions under which its law
 operates, and a play whose bound is stated is stronger than one whose bound is left

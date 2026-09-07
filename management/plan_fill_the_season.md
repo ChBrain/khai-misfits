@@ -12342,7 +12342,7 @@ this register into Find the Next One and Name It Once, and its own entry says th
 four times and never done it**. So this read is the sixth conclusion and the second execution, and the first
 execution did not stop the accumulation: everything measured above was written before and after it alike.
 
-- [ ] [P2] The third stretch, with no rank and no bookmark: regenerate the work-framed set, run phrase
+- [x] [P2] The third stretch, with no rank and no bookmark: regenerate the work-framed set, run phrase
       containment against every plan, and read what comes back absent. A hundred and twenty-four remain. The
       only ordering worth applying is by how much of the register a rule was written to govern, which is not
       computable, so read them in file order and record nothing but the count carried, since the containment
@@ -12397,3 +12397,52 @@ were all written into this file and into no plan. They are in Keep Clean now, wh
       eight. Worth recording that rate against the next few runs, because if it holds the remaining hundred
       and forty-four hold roughly eighteen more rules, and if it falls sharply the filter is returning the
       easy ones first for a reason nobody has identified.
+
+**The hundred and forty-fourth pass runs the third stretch with the instrument, and finds the rule the
+instrument was built for written in the register three times and carried none of them.**
+
+**The three statements, at three different passes, none in any plan.** _A pass that ends with a rule worth
+keeping has not finished until the rule is in the plan that governs the work it constrains._ _A rule that
+lives only in the register is a rule remembered at the edit._ _The register is where a rule is discovered and
+not where it is kept._ The last pass built a tool to enforce that rule and argued for it from the measured
+gap, and it never noticed that the rule itself was sitting in the gap. **The register's own diagnosis of the
+problem was one of the things the problem had swallowed**, which is the sharpest instance this run has of
+what the instrument is for and the reason it is now written into Keep Clean as the order's justification.
+
+**Twenty-two carried, and the count moved 32 to 54 of 176.** Eight to Find the Next One, five to Keep Clean,
+four to Name It Once, two to Cut to Fit, plus the three statements above. A hundred and twenty-two remain.
+
+**The pick worth naming, because each had already decided a row.** An empty end is a candidate only where the
+two ends have **different engines** and not merely different signs. A refusal can be **the incumbent's own
+production containing the candidate**, which is stronger than a distinctness paragraph drawing a line. A
+deference dial needs a judge whose judgement is being substituted, and **a theory is not a judge**. A **seat
+gap is a claim about the house and a topic gap is only a prompt**. Where a candidate carries a sourcing
+caution, the sourcing read is the cheaper filter and belongs before the surname scan. And a declaration that
+cannot be made confidently is worse than none, because none is visibly absent and a doubtful one reads as
+done.
+
+**Two about gates that had never left this file.** **A lane allow for a path that cannot occur is cargo**, and
+the cheapest way to learn whether the tooling ever generates one is to let it fail loudly. And **the guard
+computes the lane and never the base**, which is why a branch cut from another lane's branch carries that
+lane's files into this one and is rejected correctly and late. That second one is the reason this run's own
+standing habit exists, and the habit was in the register and the rule behind it was not.
+
+**Four about the index, in the plan that owns the index.** The index is not a record of who the house cites,
+it is a record of who the house cites **in one column**, so a scholar in a warrant's `source:` and absent
+from its Origin table is invisible to every instrument. Where the two disagree, the table is what is wrong.
+A namesake is cheap when its cells are few and certain and the count is not what decides it. And **rewording
+a citation to keep an instrument quiet is the failure the namesake rule exists to prevent**.
+
+**And the egress bound was carried as what it is.** That the publisher hosts and the article archives cannot
+be opened from here had been recorded as a note on one pass. It is a property of how this house is currently
+able to work and **bounds every warrant written under it**, which is a different claim and belongs in Cut to
+Fit rather than in a pass entry from the fifty-eighth.
+
+**And the new order was run on this entry, which is the first time a pass has checked its own.** Six
+rule-shaped spans, six carried, none left. That is what the order is for and it took one command, which is
+the difference between a discipline and a step.
+
+- [ ] [P2] The fourth stretch: a hundred and twenty-two remain and the instrument regenerates the list, so
+      there is nothing to resume from. The rate to record against is this run's, roughly one real rule in
+      four spans read across three stretches, which is higher than the one in eight the last pass guessed
+      because the guess counted only what was carried and not what was read.

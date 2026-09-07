@@ -270,6 +270,43 @@ scan before authoring is a readiness report rather than a settlement.
 sent to a plan, and the measured rate at which it holds them is high enough that
 reading it back is a selector in its own right and not housekeeping.
 
+**Eight more from the third stretch, now the instrument finds them.**
+
+**An empty end is a candidate only where the two ends have different engines, not
+merely different signs.** A dial whose far end is the same mechanism run backwards
+has no play waiting at it, and the empty-end selector will keep proposing one.
+
+**A refusal can be the incumbent's own production containing the candidate**, which
+is a stronger no than a distinctness paragraph drawing a line. Where the thing the
+candidate stages is already a vector inside a play the house holds, there is nothing
+to separate, and a selector that proposed it is the thing to correct.
+
+**An axis whose dial is deference needs a judge whose judgement is being
+substituted, and a theory is not a judge.** Strip the candidate to one person: if
+the party being deferred to is a document, a record or a result rather than
+somebody's judgement, the dial is something else.
+
+**A seat gap is a claim about the house and a topic gap is only a prompt.** The
+method's output is not a candidate but a sentence about the field, checkable from a
+list in one command, and the candidate follows from it, which is why it survives the
+dedup: a seat nobody has cast is by construction not already staged.
+
+**Where a candidate carries a sourcing caution, the sourcing read is the cheaper
+filter and belongs before the surname scan.** Both can kill a candidate and only one
+of them costs an index walk.
+
+**A declaration that cannot be made confidently is worse than none**, because none is
+visibly absent and a doubtful one reads as done. The same argument kills a contrived
+axis: a dial nobody names and no literature measures is worse than an undeclared
+play.
+
+**The axis is not an identifier of a misfit and was never meant to be.** Two plays
+on one dial is the ordinary case and the point of the mechanism.
+
+**Where a pass hands work to a successor, the cheapest thing it can hand over is a
+number the successor can check.** A count that has moved is evidence the work
+happened; a sentence saying it happened is not.
+
 **Order axis candidates by the language of the cut, not by the count of the cuts.**
 Counting how many declared neighbours a warrant names predicts nothing in either
 direction, measured twice at ten rows each for no declarations. Grepping the same

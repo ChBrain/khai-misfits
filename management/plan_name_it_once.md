@@ -142,6 +142,21 @@ change. Until it lands the filing is held by hand, which is the weaker state and
 is why the strip runs as one sweep rather than drifting in per misfit. The third
 rule is not computable at all and is held by the reading.
 
+**Four rules the register held about the index and never sent here.** **The index is
+not a record of who the house cites, it is a record of who the house cites in one
+column**, so a scholar named in a warrant's `source:` and absent from its Origin
+table is invisible to every instrument that reads the index. **Where a warrant's
+`source:` names somebody the table does not, the table is the thing that is wrong**,
+and the fix is an addition rather than a move.
+
+**A namesake is cheap when its cells are few and certain, and the count is not what
+decides it**, so a surname carried by two confident cells is cheaper to declare than
+one carried by six uncertain ones. **A declaration that arrives after both cells are
+named costs nothing and is only ever late**, which is why the naming goes first and
+the declaration follows. And **rewording a citation to keep an instrument quiet is
+the failure this rule exists to prevent**: the bibliography is never the thing to
+bend.
+
 Held separate, and not covered by this plan: **49 staged titles are the canonical
 concept name** (`Moral Hazard`, `Rent-Seeking`, `Dutch Disease`), against the
 house rule that a title hides the textbook name the way Bad Coin hides Gresham.
