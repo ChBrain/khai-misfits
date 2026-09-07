@@ -203,13 +203,56 @@ only on undeclared-against-declared**: two plays that share a dial can both be
 undeclared, and a shortlist built only from rows naming a declared neighbour cannot
 see them.
 
+**Run the dedup in the field whose language the dial is described in, and not in the
+field the play sits in.** A play is filed by its subject and declared by its quantity,
+and those are two different indexes. Abilene is filed under groups and its dial,
+`outcome-selection`, was already carrying two plays filed under measurement, so a pass
+that had correctly called the asymmetry a **censored sample** searched the social
+neighbourhood, found nothing, and concluded the axis had not been founded. **A candidate
+whose dial you can only state in another discipline's words has already named the field
+to search**, and a dedup that stays inside the candidate's own field reports a clear run
+it has not earned.
+
+**Index that search on the `concept:` line and not on the warrant prose.** Measured on
+the hundred and two undeclared plays filed outside measurement: grepping the whole
+warrant for sampling vocabulary returned eleven, of which six were the word in another
+sense; grepping the `## Arc` bend alone returned four and **lost the one real
+candidate**, because a play states its bend in its own field's words and names the
+borrowed discipline only where it names the phenomenon. The `concept:` line returned
+five and kept it. The concept line is where a play says what it is in the canonical
+terms of whatever literature owns it, which is exactly the cross-field index.
+
+**And read every hit, because the vocabulary that crosses fields is the vocabulary that
+means different things in them.** Four of the five concept-line hits were the same word
+doing different work: **selection** is Darwinian in an ecology play and about samples in
+a measurement one, **bias** is cognitive in one and statistical in another, **artefact**
+is a designed object in one and a measurement error in another. The instrument that
+finds a cross-field dial is the same instrument that finds a cross-field pun and cannot
+tell them apart. This is the namesake wall in another register: a surname collates two
+people, and a discipline's word collates two meanings.
+
+**The refusal for `outcome-selection` is that nothing is missing.** It is a claim about
+which units are in the sample and not about what they say or how they are labelled, so
+four near neighbours refuse on the same clause: Safe to Say falsifies every value and
+omits no unit, Better in Both reclassifies every unit and omits none, True of No One
+aggregates a complete sample validly, and the Spotlight Effect misestimates with no
+sample at all. **And it needs a reader**, someone who takes the sample for the
+population: Time Ran While You Were Well selects the heard claims on a property of the
+harm and still refuses, because nobody reads the heard claims as a census of harms and
+the injury is the barred claimant rather than a misread.
+
 ## Implementation
 
 The slate and the register are both [Fill the Season](plan_fill_the_season.md),
-which rides the lane of the change it drives. Declaring an axis is `misfits/**`
-and is the misfit lane; declaring a surname is `khai-guard.config.json` and is
+which rides the lane of the change it drives, **and it is the only file under
+`management/**` that does**. Every other plan is governance-owned and rides
+nothing, so a pass that declares an axis and amends a plan in the same breath
+spans two lanes and the guard splits it. Declaring an axis is `misfits/**` and
+is the misfit lane; declaring a surname is `khai-guard.config.json` and is
 governance, so **one namesake obligation cannot be discharged in one pull
-request** and the ordering table decides which half goes first.
+request** and the ordering table decides which half goes first. The same
+division holds for a rule: the pass that discovers it writes it into the
+register, and a later governance pass moves it here.
 
 A pass runs one selector, not several. The register records the yield whether it
 is six or zero, because **a refusal recorded is worth more than a candidate
