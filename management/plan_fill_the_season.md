@@ -9956,7 +9956,7 @@ everyday practice, and the later empirical work on notice volumes, verified by s
       suppresses the telling: the argument for a separate play is that nothing here is suppressed, it is
       **relocated**, and the observer is left watching a ceremony rather than watching nothing.
 
-- [ ] [P3] **The safe harbour that becomes the ceiling.** A rule offers certainty to whoever does exactly
+- [x] [P3] **The safe harbour that becomes the ceiling.** A rule offers certainty to whoever does exactly
       X, so everybody does exactly X and nothing beyond it, and the floor the regulator wrote is the roof
       the field builds to. The caution is that it may be a row on **The Letter of the Law**: the argument
       for separation is that nobody games anything here and the conduct is exactly what was asked for, but
@@ -12051,3 +12051,74 @@ Declaring it is `misfits/**` and could not ship here in any case.
       make is on how the unit leaves: here it stays in the sample and is misclassified as a success, which
       is nearer to Better in Both than to either, so check the nothing-is-missing clause carefully before
       declaring. If it survives, the removal mechanism is a fourth kind and wants naming.
+
+**The hundred and thirty-eighth pass authors the safe-harbour play, and the caution the slate wrote was
+aimed at the wrong neighbour.**
+
+**Still Compliant is the three hundred and forty-fourth misfit**, thirty-six files, undeclared. A statute
+deems conformity to a named framework an affirmative defence, so the protection attaches to matching a text
+rather than to meeting a hazard, effort converges on the text and stops, and the text is fixed at the date
+somebody wrote it while the hazard is not fixed at all. The morning after the breach, everybody is compliant
+and the answer to the injury is true.
+
+**The slate warned it might be a row on The Letter of the Law, and that was never the risk.** Specification
+gaming needs a gap between the proxy and the intent and a route that scores the objective while missing the
+goal. Here there is no gap and no route: conforming is exactly the conduct asked for. Stipulate that the
+specification captures the drafters' intent perfectly and The Letter of the Law has nothing left, while this
+play is untouched, **because its harm is the absence of anything above the specification rather than the
+presence of a perverse route through it.** The slate's own caution said the argument was thin and should be
+tested; it was thin in the other direction, and the test cleared it in one stipulation.
+
+**The real neighbour is What Everyone Else Does, and the slate never named it.** Custom as the standard of
+care shares an arm of the mechanism outright: its warrant already says that the one who went first pays for
+the improvement and gets nothing for it, and that guidelines codify best practice, become the custom
+including whatever they got wrong, and make departing the risky act. **That is this play's law, written in
+another play's warrant**, and had the pass stopped at the named comparison it would have authored a
+duplicate.
+
+**The cut is what the standard is made of, and it is the whole of the separation.** Custom is practice, so
+it cannot age relative to practice: improve the calling and the duty improves with it. A framework is a
+document with a revision date, so it can be years behind and still confer the defence, and improvement by
+the whole field moves it not at all. **Stipulate that every firm spontaneously adopts a better method and
+custom's duty rises to meet them, while the harbour sits exactly where it was written.** One dies and one
+does not, which is the discriminating stipulation and not the one that kills both.
+
+**And the doctrinal half is sharper than the economic half.** Hand held in 1932 that a whole calling may
+have unduly lagged and that courts must in the end say what is required, which is the crack What Everyone
+Else Does turns on and which has stayed open, rarely used, for ninety years. **Custom was never conclusive
+and a harbour is.** The court in this play is not deferring to a practice: it is being told by a legislature
+that conformity is a defence, which is the one thing Hand refused to let custom be, so the escape hatch is
+not narrow here, it is shut by statute.
+
+**The sourcing is thinner than this house likes and the warrant says so in terms.** The design is real and
+re-enacted: Ohio's Data Protection Act of 2018, then Utah, Connecticut, Iowa, Tennessee and Texas. The
+objection is on the record from somebody who acted on it, a governor's 2024 veto of the same design saying
+it provides across-the-board protections for only substantially complying with standards and incentivises
+doing the minimum, against a statutory purpose that says the opposite. **What could not be found is a study
+measuring whether the convergence actually happens**, so the play makes no claim about magnitude, states
+none, and says in Restrictions that it stages a mechanism named on the record rather than a measured effect.
+Kaplow is carried for the bibliography and the direction of the argument and for no proposition. Every
+primary text was blocked to the pass: the statutory codes, the law-review archives and the publisher hosts
+alike, so the statutes, the case and the veto were verified by search and corroborated across independent
+reports.
+
+**Three title collisions and one uncast element, all caught by the canon and none by reading.** The piece
+sharing the play's own name, and two plots sharing their places' names, each tripped the display-title wall;
+the standard seat was in the Company and in no plot. **A play authored in one pass will contain the
+collisions its own vocabulary makes**, because the natural name for the piece at the end of the play is the
+play, and the natural name for the plot in a room is the room, so the wall is catching the same three shapes
+every time and it is cheaper to name against them than to be caught.
+
+- [ ] [P2] Declare an axis on **Still Compliant**, in a later pass, with two candidates already tempting and
+      neither run. `blame-attachment` reads well, since the conduct is aimed at answerability rather than at
+      the outcome, but its sign comment turns on blame attaching to whoever can be shown to have known or
+      decided, and here the harbour **detaches** blame from whoever conformed, which may be a different
+      driver on the same dial or a different dial. `deference-to-judgement` also reads well, since the firm
+      stops forming its own view of its risk, but the party being deferred to is a text rather than a
+      judgement and nobody is graded. The dial the play itself states is **how much of a party's protection
+      depends on matching a specified text rather than on the conduct's fitness for the hazard**, which may
+      be neither of them.
+
+- [ ] [P3] Name a misfit's elements against the three collisions the canon catches every time: the piece
+      that carries the play's name, and the plot that carries its place's name. Cheap to avoid at authoring
+      and currently found by the wall on every authoring pass.

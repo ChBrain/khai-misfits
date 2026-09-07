@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.343.0",
+  "version": "0.344.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -39257,6 +39257,228 @@
           "kind": "process",
           "title": "Resolving",
           "taxonomy": "play_starting_tomorrow.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "still_compliant",
+      "title": "Still Compliant",
+      "description": "A statute deems conformity to a written standard a defence, so the standard is the whole of the effort, and it ages.",
+      "members": [
+        {
+          "file": "persona_the_framework_as_written.md",
+          "kind": "persona",
+          "title": "The Framework as Written",
+          "type": "archetype",
+          "taxonomy": "position_standard.md"
+        },
+        {
+          "file": "persona_the_judge_who_may_not_say_more.md",
+          "kind": "persona",
+          "title": "The Judge Who May Not Say More",
+          "type": "archetype",
+          "taxonomy": "position_bench.md"
+        },
+        {
+          "file": "persona_the_one_who_signs_off.md",
+          "kind": "persona",
+          "title": "The One Who Signs Off",
+          "type": "archetype",
+          "taxonomy": "position_budget.md"
+        },
+        {
+          "file": "persona_what_is_already_past_the_door.md",
+          "kind": "persona",
+          "title": "What Is Already Past the Door",
+          "type": "archetype",
+          "taxonomy": "position_hazard.md"
+        },
+        {
+          "file": "persona_what_the_statute_deems.md",
+          "kind": "persona",
+          "title": "What the Statute Deems",
+          "type": "archetype",
+          "taxonomy": "position_harbour.md"
+        },
+        {
+          "file": "piece_the_answer_that_is_true.md",
+          "kind": "piece",
+          "title": "The Answer That Is True",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "piece_the_control_list.md",
+          "kind": "piece",
+          "title": "The Control List",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "piece_the_deeming_clause.md",
+          "kind": "piece",
+          "title": "The Deeming Clause",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "piece_the_gap_the_standard_does_not_name.md",
+          "kind": "piece",
+          "title": "The Gap the Standard Does Not Name",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "piece_the_line_where_spending_stops.md",
+          "kind": "piece",
+          "title": "The Line Where Spending Stops",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "pitch_it_was_enough_because_they_said_so.md",
+          "kind": "pitch",
+          "title": "It Was Enough Because They Said So",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "place_the_attestation.md",
+          "kind": "place",
+          "title": "The Attestation",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "place_the_board_paper.md",
+          "kind": "place",
+          "title": "The Board Paper",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "place_the_morning_after.md",
+          "kind": "place",
+          "title": "The Morning After",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "plan_apply_the_statute.md",
+          "kind": "plan",
+          "title": "Apply the Statute",
+          "taxonomy": "position_bench.md"
+        },
+        {
+          "file": "plan_buy_the_defence.md",
+          "kind": "plan",
+          "title": "Buy the Defence",
+          "taxonomy": "position_budget.md"
+        },
+        {
+          "file": "plan_deem_it_enough.md",
+          "kind": "plan",
+          "title": "Deem It Enough",
+          "taxonomy": "position_harbour.md"
+        },
+        {
+          "file": "plan_go_where_the_door_is.md",
+          "kind": "plan",
+          "title": "Go Where the Door Is",
+          "taxonomy": "position_hazard.md"
+        },
+        {
+          "file": "plan_say_what_good_looks_like.md",
+          "kind": "plan",
+          "title": "Say What Good Looks Like",
+          "taxonomy": "position_standard.md"
+        },
+        {
+          "file": "play_still_compliant.md",
+          "kind": "play",
+          "title": "Still Compliant"
+        },
+        {
+          "file": "plot_the_defence_holds.md",
+          "kind": "plot",
+          "title": "The Defence Holds",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "plot_the_door_that_used_to_be_open.md",
+          "kind": "plot",
+          "title": "The Door That Used to Be Open",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "plot_the_line_priced.md",
+          "kind": "plot",
+          "title": "The Line, Priced",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "plot_the_years_pass.md",
+          "kind": "plot",
+          "title": "The Years Pass",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "plot_what_good_looks_like.md",
+          "kind": "plot",
+          "title": "What Good Looks Like",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "position_bench.md",
+          "kind": "position",
+          "title": "Bench",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "position_budget.md",
+          "kind": "position",
+          "title": "Budget",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "position_harbour.md",
+          "kind": "position",
+          "title": "Harbour",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "position_hazard.md",
+          "kind": "position",
+          "title": "Hazard",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "position_standard.md",
+          "kind": "position",
+          "title": "Standard",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "process_ageing.md",
+          "kind": "process",
+          "title": "Ageing",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "process_conforming.md",
+          "kind": "process",
+          "title": "Conforming",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "process_deeming.md",
+          "kind": "process",
+          "title": "Deeming",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "process_defending.md",
+          "kind": "process",
+          "title": "Defending",
+          "taxonomy": "play_still_compliant.md"
+        },
+        {
+          "file": "process_stopping.md",
+          "kind": "process",
+          "title": "Stopping",
+          "taxonomy": "play_still_compliant.md"
         }
       ]
     },
