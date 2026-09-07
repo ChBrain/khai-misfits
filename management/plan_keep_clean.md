@@ -51,6 +51,27 @@ unanchored search for a line beginning with a key name matches prose that happen
 wrap onto that word, and a count that returns one more category than the house has
 is the cheapest possible signal that it was not anchored.
 
+**Before a pass writes its register entry, run `node tests/register_rules.mjs
+--from=<the first line of the entry>` and read what it says.** The instrument finds
+bold spans in the register that are rule-shaped, carry no proper noun, and are framed
+on the work rather than on a subject the house stages, then asks whether any six
+consecutive words of each appear in a plan. What comes back uncarried is a reading
+list: most of it is an observation about one pass and owes nothing, and the ones that
+read as a standing instruction belong in a plan before the pass ends.
+
+**It is an instrument and not a wall, by this file's own rule.** Deciding whether a
+bold sentence is a standing rule or an observation is a judgement, and the filter has
+obvious false positives, so it reports and a person decides. Nothing here fails a
+build.
+
+**And it needs no bookmark, which is why it can be a step rather than a pass.** The
+carried test is exact, so the queue regenerates every run and a rule that has been
+carried leaves it by itself. Two earlier attempts at this were periodic passes that
+each took the carry as their whole unit; they worked and did not stop the
+accumulation, because a rule written between them waited for the next one. The
+measured state at the time this order was written: **174 rule-shaped spans in the
+register, 30 in a plan, 144 not.**
+
 ## Implementation
 
 The gates, dependency updates, the security panel (alerts, secret scanning), the
