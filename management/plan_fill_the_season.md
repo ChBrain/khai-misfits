@@ -12652,7 +12652,50 @@ the Next One with the measured note that the phrase grep missed the clearest mem
       is a play whose governing law **is** the trade, which is a shape a house that stages structural traps
       should expect to keep producing rather than a rarity.
 
-- [ ] [P3] Separate **cannot declare** from **has not declared** in whatever this house uses to read its own
+- [x] [P3] Separate **cannot declare** from **has not declared** in whatever this house uses to read its own
       axis coverage. Four plays are the first known members of the first kind and there will be more, and
       until they are marked the ratchet counts an undischargeable debt as work owed. This is a house question
       and not a `khai-tests` one, since the counting is done here.
+
+**The hundred and forty-ninth pass separates the debt that can be discharged from the debt that cannot, and
+finds the ratchet had ninety misfits of slack.**
+
+**The baseline stood at 228 against an actual 138.** The axis ratchet refuses a count above its baseline, and
+the baseline is a constant somebody has to lower by hand. Every declaring pass for months lowered the actual
+and left the constant, so the gate had **ninety misfits of headroom** and could not have fired in any of
+them. **A gate that never fires is not a gate**, carried out of the register two passes ago, and here is the
+house's own instance of it, found by reading the number rather than the rule.
+
+**The gate's own comment contains the diagnosis.** It says the opposition check cannot see an undeclared
+misfit, which is _the same "depends on somebody remembering" the rest of this gate exists to remove_, and
+then holds its coverage in a number that depends on somebody remembering. Two stale figures sit in the same
+block: the comment says 238 of 246 and the house is 344.
+
+**So the ratchet is checked from both sides now, and the second side is the one that matters.** Growth above
+the baseline still fails, as before. And **slack is capped**: let the baseline sit more than one pass of
+declarations above the actual and the gate fails with the number to write. Forgetting to tighten it now costs
+a failed gate instead of costing nothing. The cap was proved by raising the baseline sixteen and watching it
+fire, because a wall nobody has seen fire is a wall nobody has tested.
+
+**And the four that cannot declare are carved out with their reasons, in `AXIS_EXEMPT`.** Exactly How Far,
+Five or a Layer, Known Too Late and In Its Own Defence each hold both horns of their own dial, so no monotone
+sign exists for them and no pass will produce one. The list is a house list and not a `khai-tests` one,
+because the counting is done here, and adding to it is a claim that must be argued in the register in the
+same terms as any refusal: which dial, and why the harm is high at both ends.
+
+**The count now means what it says: 134 owed, 4 exempt, 206 declared of 344.** The exemption is itself
+walled, because a stale entry naming a directory that no longer exists would shrink the debt by one, which is
+the same slack arriving through the exemption instead of through the baseline.
+
+**And the failure message now offers the second exit.** A play that ships without an axis is told to declare
+one **or**, if its law is a trade-off and the harm sits at both ends, to argue that in the register and join
+the exempt list. A gate that names only one way out teaches the house that the other does not exist.
+
+**Carried to Keep Clean in this pass**, both the two-sided ratchet and the two-exits message, since this is a
+governance lane and so is the plan.
+
+- [ ] [P3] Every other hand-written baseline in this house is the same shape and none has been checked. The
+      canon exemptions, the mixed-cell list, the namesake declarations and whatever else is a constant
+      somebody lowers by hand all ratchet only while somebody remembers. **The cheap audit is not to read
+      them but to compare each against what it is holding**, which is one command per baseline and was the
+      whole of this pass's finding.

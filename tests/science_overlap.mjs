@@ -468,13 +468,50 @@ export function findMalformedAxes(root = ROOT) {
   return kitFindMalformedAxes(kitAxesOf(root));
 }
 
+// Plays that CANNOT declare an axis, with the reason for each.
+//
+// The declaration is `axis` plus a `sign`, and a sign presumes the outcome moves
+// monotonically as the quantity rises. A play whose governing law IS a trade-off
+// holds both horns of its own dial: the harm sits at both ends at once, no
+// monotone sign exists for it, and no pass will produce one. Counting those as
+// coverage owed makes the ratchet read as incomplete forever, and a debt that
+// cannot be discharged is not a debt.
+//
+// This is a house list and not a khai-tests one, because the counting is done
+// here. Adding to it is a claim that has to be argued in the register, in the
+// same terms as any refusal: which dial, and why the harm is high at both ends.
+export const AXIS_EXEMPT = {
+  exactly_how_far:
+    "one dial, two bad ends: precision reassures the ally and entraps the guarantor, vagueness does the reverse",
+  five_or_a_layer:
+    "one dial, two bad ends: supervision can only be bought with layers, and attention and fidelity are spent against each other whichever way the trade is taken",
+  known_too_late:
+    "one dial, two bad ends: as a technology matures its steerability falls and the knowledge of what to steer rises, so early there is power and no warrant and late there is warrant and no power",
+  in_its_own_defence:
+    "one dial, two bad ends: too strong a response destroys the host and too weak a one loses it to the pathogen",
+};
+
 // Misfits carrying no axis at all. Invisible to the opposition check, which is
 // why the coverage of that check is ratcheted rather than assumed.
 //
-// House-specific: the ratchet baseline lives in this house's own test.
+// House-specific: the ratchet baseline lives in this house's own test. The
+// exempt plays above are excluded here, so the number the ratchet holds is
+// coverage actually owed rather than coverage plus a residue nothing can move.
 export function findUnaxised(root = ROOT) {
   const declared = new Set(kitAxesOf(root).map((r) => r.id));
-  return [...houseTitles(root).keys()].filter((d) => !declared.has(d)).sort();
+  return [...houseTitles(root).keys()]
+    .filter((d) => !declared.has(d) && !(d in AXIS_EXEMPT))
+    .sort();
+}
+
+// The exempt plays that are actually in the house, so a stale entry cannot sit
+// in the list unnoticed and quietly shrink the debt by naming a directory that
+// no longer exists.
+export function findAxisExempt(root = ROOT) {
+  const present = new Set(houseTitles(root).keys());
+  return Object.keys(AXIS_EXEMPT)
+    .filter((d) => present.has(d))
+    .sort();
 }
 
 export function findOpposed(root = ROOT) {
