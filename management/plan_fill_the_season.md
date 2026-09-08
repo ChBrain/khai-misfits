@@ -12594,10 +12594,65 @@ now three lines narrower, the phrase has a positional constraint it did not have
 clause is written down can be run as a grep rather than as a reading. All three carried to Find the Next One,
 with the sharper distinctness sentence the last pass could not ship from a misfit lane.
 
-- [ ] [P3] Known Too Late refused `codification` but named a dial nobody has founded: **how entrenched a
+- [x] [P3] Known Too Late refused `codification` but named a dial nobody has founded: **how entrenched a
       thing is against how well its harms are known**, which moves in opposite directions over time and is
       the whole of Collingridge. Candidates to test it against are `time-in-use`, `asset-specificity` and
       whatever carries path dependence, and the one-person test does not rule it out, since a single builder
       faces the same pacing problem. Worth a pass, and worth checking first whether the dial is one quantity
       or two moving in opposite directions, which the axis mechanism cannot express and this register has
       recorded twice as a shape it cannot hold.
+
+**The hundred and forty-eighth pass settles the Collingridge dial and finds the class it belongs to has four
+members, not one, so the trigger this register set at the fifty-sixth pass has fired.**
+
+**Known Too Late is one dial and two bad ends, and the dial is maturity.** As a technology matures its
+steerability falls and the knowledge of what to steer rises, so the harm is high at both ends: early there is
+power and no warrant, late there is warrant and no power. **That is the first monotonicity question failing,
+and it fails because the play's law is the trade rather than a position on it.** A play whose whole subject is
+the trade-off holds both horns by construction, which is a well made production doing its job.
+
+**The register named this shape once and set a trigger.** The fifty-sixth pass recorded Exactly How Far as a
+one-dial-two-bad-ends structure, noted that **a new misfit of that shape would have to declare a sign it does
+not have**, offered a convention for a related case where the sign depends on a horizon, and said explicitly:
+raise the mechanism only when a misfit arrives that the convention cannot serve.
+
+**Four have arrived and the convention serves none of them.** Exactly How Far, on precision in a deterrent
+commitment. Five, or a Layer, on hierarchy depth, refused a declaration in an earlier pass on exactly this
+ground. Known Too Late, on maturity, settled here. And In Its Own Defence, on the strength of an immune
+response, whose own Restrictions state the knife-edge in terms. **The horizon convention cannot serve any of
+them, because there is no end that was meant: both ends are bad at once and simultaneously.** Three of the
+four are undeclared and the fourth was refused, which is the same condition read two ways.
+
+**The class is self-identifying from the warrants, which is the cheap way to find the rest.** The Frozen
+Middle is declared on `hierarchy-depth` with a proper monotone sign, and **its own distinctness paragraph
+names Five, or a Layer as the two-ends play**: _that play stages one dial where attention and fidelity are
+spent against each other whichever way the trade is taken._ A warrant that has cut itself from a two-ends
+neighbour has classified that neighbour, so the class can be read off what plays say about each other rather
+than off a phrase grep. **The phrase grep found thirty-two plays and missed Known Too Late entirely**, whose
+law is stated as _never in hand at the same time_ and uses none of the two-ends vocabulary.
+
+**And the coverage count means less than it says.** The axis ratchet reads an undeclared play as work owed. At
+least four cannot declare, not for want of a pass but because the mechanism has no value for them, so the
+count of a hundred and thirty-nine undeclared includes a residue that no amount of work will move. **A debt
+that cannot be discharged is not a debt**, and a ratchet that cannot tell the two apart will read as
+incomplete forever.
+
+**No mechanism is proposed here, for the reason this house gave the first time.** The declaration is
+`khai-tests` governance and not this house's, and this house has three times refused to build a gate ahead of
+the cases that would use it. What has changed is only the evidence: one case became four, and the convention
+offered in place of a mechanism was written for a different problem.
+
+**The order ran on this entry and both flags were carried in the same pass**, since this is a governance lane
+and so are the plans: the build-discipline rule to Keep Clean, and the undischargeable-debt reading to Find
+the Next One with the measured note that the phrase grep missed the clearest member.
+
+- [ ] [P2] Ask `khai-tests` for a value that says **the harm sits at both ends of this dial**, since the
+      declaration is `axis` plus a `sign` and a sign presumes monotonicity. Four plays in this house need it
+      and the horizon convention does not reach them. Carry the four as the evidence, with the note that each
+      is a play whose governing law **is** the trade, which is a shape a house that stages structural traps
+      should expect to keep producing rather than a rarity.
+
+- [ ] [P3] Separate **cannot declare** from **has not declared** in whatever this house uses to read its own
+      axis coverage. Four plays are the first known members of the first kind and there will be more, and
+      until they are marked the ratchet counts an undischargeable debt as work owed. This is a house question
+      and not a `khai-tests` one, since the counting is done here.

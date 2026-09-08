@@ -387,6 +387,21 @@ before anybody reads further. **When a candidate's own warrant states the incumb
 axis's refusal clause, the row is decided before it is opened**, and an axis whose
 refusal clause is written down can be run as a grep rather than as a reading.
 
+**And read the coverage count knowing what is in it.** The axis ratchet reads an
+undeclared play as work owed, and some plays **cannot** declare: a play whose governing
+law is a trade-off holds both horns of its own dial, so no monotone sign exists for it
+and no pass will produce one. Four are known, and there will be more, because a house
+that stages structural traps should expect to keep producing plays whose law is the
+trade. **A debt that cannot be discharged is not a debt**, and until the two kinds are
+marked apart the count will read as incomplete forever.
+
+**The class is self-identifying from the warrants.** A play declared with a proper
+monotone sign will often have cut itself from the two-ends play next door and said so,
+which classifies the neighbour, so the cheap way to find these is to read what plays say
+about each other rather than to grep for two-ends vocabulary. Measured: the phrase grep
+returned thirty-two plays and **missed the clearest new member entirely**, whose law is
+stated as _never in hand at the same time_ and uses none of that vocabulary.
+
 **Two things the grep needs, learned by running it.** First, **exclude a keyword that
 is part of a play's title**: the house holds a play called **The Mirror**, so a search
 for the word returns every warrant that merely cuts itself from that play, and half a
