@@ -7,6 +7,8 @@ import {
   findUndeclared,
   findOpposed,
   findUnaxised,
+  findAxisExempt,
+  AXIS_EXEMPT,
   findMalformedAxes,
   findUnindexed,
   findUnconcepted,
@@ -157,13 +159,30 @@ describe("Misfits house: cross-misfit warrant gate", () => {
     // it is invisible. That is the same "depends on somebody remembering" the
     // rest of this gate exists to remove, so coverage is ratcheted.
     //
-    // 238 of 246 carry no axis yet. They are grandfathered and walk down as
-    // families are declared; what the ratchet refuses is a new misfit adding
-    // to them. Because the declaration lives in the misfit's own REFERENCE.md
-    // frontmatter rather than in khai-guard.config.json, it rides the same
-    // branch as the misfit it describes, so satisfying this costs no second
-    // pull request.
-    const UNAXISED_BASELINE = 228;
+    // The undeclared are grandfathered and walk down as families are declared;
+    // what the ratchet refuses is a new misfit adding to them. Because the
+    // declaration lives in the misfit's own REFERENCE.md frontmatter rather
+    // than in khai-guard.config.json, it rides the same branch as the misfit
+    // it describes, so satisfying this costs no second pull request.
+    //
+    // The baseline is checked from BOTH sides, and the second side is the one
+    // that matters. A baseline that only refuses growth is a number somebody
+    // has to remember to lower, and every declaring pass lowered the count
+    // without lowering it: the baseline stood at 228 against an actual 138, so
+    // the gate had ninety misfits of headroom and could not have fired for
+    // months. That is the very "depends on somebody remembering" the comment
+    // above says this gate exists to remove, and a gate that never fires is
+    // not a gate. So slack is capped: let the ratchet fall behind by a pass's
+    // worth of declarations and no further, and forgetting to tighten it costs
+    // a failed gate instead of costing nothing.
+    //
+    // The exempt plays are carved out in `AXIS_EXEMPT` and are not in this
+    // count. A play whose governing law is a trade-off holds both horns of its
+    // own dial, so no monotone sign exists for it and no pass will produce
+    // one: counting it as coverage owed is counting a debt that cannot be
+    // discharged.
+    const UNAXISED_BASELINE = 134;
+    const MAX_SLACK = 4;
     const unaxised = findUnaxised();
     if (unaxised.length > UNAXISED_BASELINE) {
       const fresh = unaxised.length - UNAXISED_BASELINE;
@@ -172,10 +191,28 @@ describe("Misfits house: cross-misfit warrant gate", () => {
           `${fresh} new misfit(s) shipped without one, so the opposed-pair check\n` +
           `cannot see them. Add to the misfit's REFERENCE.md frontmatter:\n\n` +
           `  axis: <the quantity the play acts on>\n` +
-          `  sign: positive | negative   # how the outcome moves as that quantity rises\n`,
+          `  sign: positive | negative   # how the outcome moves as that quantity rises\n\n` +
+          `Or, if the play's law IS a trade-off and the harm sits at both ends of\n` +
+          `its dial, argue that in the register and add it to AXIS_EXEMPT.\n`,
+      );
+    }
+    if (UNAXISED_BASELINE - unaxised.length > MAX_SLACK) {
+      throw new Error(
+        `science-overlap: baseline ${UNAXISED_BASELINE} is ${UNAXISED_BASELINE - unaxised.length} above the\n` +
+          `actual ${unaxised.length}, which is more than one pass of declarations.\n` +
+          `A ratchet that is not tightened stops ratcheting: lower UNAXISED_BASELINE\n` +
+          `to ${unaxised.length} in this file, in the same change that declared them.\n`,
       );
     }
     expect(unaxised.length).toBeLessThanOrEqual(UNAXISED_BASELINE);
+    expect(UNAXISED_BASELINE - unaxised.length).toBeLessThanOrEqual(MAX_SLACK);
+  });
+
+  it("every exempt play is really in the house", () => {
+    // A stale entry in AXIS_EXEMPT would name a directory that no longer
+    // exists and quietly shrink the debt by one, which is the same slack the
+    // ratchet above was carrying, arriving through the exemption instead.
+    expect(findAxisExempt()).toEqual(Object.keys(AXIS_EXEMPT).sort());
   });
 
   it("coverage does not slip: every misfit reaches the concordance", () => {

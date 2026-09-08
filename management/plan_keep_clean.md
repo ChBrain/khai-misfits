@@ -111,6 +111,21 @@ flake is how the house learns to ignore the one wall that measures its own growt
 **And the whole point of the lane is that content and its governance move separately**,
 which is why the guard refuses a change that touches both and is right to.
 
+**A ratchet with a hand-written baseline ratchets only while somebody remembers, so
+check it from both sides.** A baseline that refuses only growth is a constant somebody
+has to lower, and the work that would lower it is the work that makes lowering it
+unnecessary to notice: this house's axis ratchet stood at 228 against an actual 138, so
+it carried ninety of headroom and could not have fired for months. **Cap the slack.**
+Let the baseline sit no more than one pass's work above what it is holding, and fail with
+the number to write when it does, so forgetting costs a failed gate rather than costing
+nothing. And **prove the new side fires before trusting it**, by moving the baseline and
+watching it go red: a wall nobody has seen fire is a wall nobody has tested.
+
+**A gate that names one way out teaches the house the other does not exist**, so where a
+wall has two honest answers its message carries both. The axis ratchet now says declare a
+sign **or** argue the exemption, because a play whose law is a trade-off has no sign to
+declare and was previously told only to declare one.
+
 **And raise the mechanism only when a misfit arrives that the convention cannot serve.**
 This house has four times declined to build a gate ahead of the cases that would use it,
 and the discipline is not thrift: a wall built for an imagined case is written against an
