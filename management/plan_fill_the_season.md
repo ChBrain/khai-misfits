@@ -12694,8 +12694,51 @@ the exempt list. A gate that names only one way out teaches the house that the o
 **Carried to Keep Clean in this pass**, both the two-sided ratchet and the two-exits message, since this is a
 governance lane and so is the plan.
 
-- [ ] [P3] Every other hand-written baseline in this house is the same shape and none has been checked. The
+- [x] [P3] Every other hand-written baseline in this house is the same shape and none has been checked. The
       canon exemptions, the mixed-cell list, the namesake declarations and whatever else is a constant
       somebody lowers by hand all ratchet only while somebody remembers. **The cheap audit is not to read
       them but to compare each against what it is holding**, which is one command per baseline and was the
       whole of this pass's finding.
+
+**The hundred and fiftieth pass audits every hand-written baseline in the house, and the numbers were clean
+while the paths were not.**
+
+**Three numeric baselines, and two of them cannot go slack.** `UNDECLARED_BASELINE` and `UNINDEXED_BASELINE`
+both stand at zero, which is the tight end: a zero baseline has nowhere to drift. `UNAXISED_BASELINE` was the
+only one with room and the last pass capped it. **So the shape the last pass found was the exception rather
+than the rule**, and the audit that would have found it was one command per baseline.
+
+**Thirty-two canon exemptions and every one is live.** Each exempts a work carried by two or more misfits, so
+none is exempting nothing. **A hundred and one homonym declarations and every one is live**, each resolving
+two or more index keys, so none separates nobody. Both lists earn their length.
+
+**And the first canon audit was wrong, which is the method finding.** Matching the canon strings by
+normalising them and searching the warrants reported _Political Parties: the iron law of oligarchy_ as dead.
+It is cited by three misfits. Run through `canonFamilies`, the view the wall itself reads, all thirty-two are
+live. **A hand-rolled matcher answers a question the wall never asked**, so an audit of a list is worth only
+as much as its use of the list's own reader. Carried to Keep Clean.
+
+**Fourteen path entries in the lane config match nothing, and thirteen of them are correct.** Thirteen are
+`packages/**` allows for the workspace layout the fifty-eighth pass reasoned through and planned: the content
+moving to `packages/khai-misfits/` under a private root. They have never matched a file and are meant not to.
+The fourteenth is `governance/* :: REFERENCE.md`, singular, sitting immediately beside `REFERENCES.md`,
+plural, which is the real file. **It has never existed, it is not part of the planned shape, and it is a
+typo.** Removed.
+
+**And that is the finding worth keeping: cargo and a forward-declaration are indistinguishable from the
+config.** Both are entries that match nothing. Only the register tells them apart, and only for a reader who
+knows to go and look. **An entry whose justification lives nowhere will be re-audited forever**, so the
+thirteen now have their reason in Keep Clean, where the next audit will find it before spending the reading.
+
+**The house's own rule pulled the wrong way here and is worth restating carefully.** _A lane allow for a path
+that cannot occur is cargo_ was carried out of the register two passes ago, and read flat it condemns all
+fourteen. It was written about a path the house had decided **not** to declare, and the reasoning behind it
+was to let the tooling fail loudly on the day it generates one rather than to pre-declare against a guess. A
+declared plan is not a guess. **The rule is about paths nobody has argued for, and it does not reach paths
+somebody has.**
+
+- [ ] [P3] The `scholarPolicy.nonAuthorSources` list is forty-three patterns and was not audited here, because
+      the question is different: a pattern that matches nothing is dead, but a pattern is written to catch a
+      shape that may simply not have arrived yet, which is the forward-declaration case again. Worth a pass
+      that separates the two the way this one did for paths, by asking whether anybody argued for each, and
+      worth doing with the instrument that consumes the list rather than a fresh regex.

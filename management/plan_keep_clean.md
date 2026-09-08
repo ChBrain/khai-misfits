@@ -121,6 +121,21 @@ the number to write when it does, so forgetting costs a failed gate rather than 
 nothing. And **prove the new side fires before trusting it**, by moving the baseline and
 watching it go red: a wall nobody has seen fire is a wall nobody has tested.
 
+**Audit a list with the instrument that consumes it, and never with a grep.** A
+first pass over the canon exemptions, matched by normalising the strings and searching
+the warrants, reported one entry as exempting nothing. Run through `canonFamilies`, the
+view the wall itself reads, all thirty-two exempt a real pair and none is dead. **A
+hand-rolled matcher answers a question the wall never asked**, so the audit of a list is
+worth only as much as its use of the list's own reader.
+
+**And cargo is indistinguishable from a forward-declaration without a stated reason.**
+The lane config carries thirteen `packages/**` allows for a workspace layout this house
+does not have and has documented a plan to adopt, and they read exactly like the one
+entry that was a typo. **An entry whose justification lives nowhere will be re-audited
+forever**, so the reason belongs somewhere a later audit will find it: the thirteen
+stand for the planned move of the content to `packages/khai-misfits/`, reasoned through
+in the register, and are not to be cleared as cargo.
+
 **A gate that names one way out teaches the house the other does not exist**, so where a
 wall has two honest answers its message carries both. The axis ratchet now says declare a
 sign **or** argue the exemption, because a play whose law is a trade-off has no sign to
