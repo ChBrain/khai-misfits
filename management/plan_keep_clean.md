@@ -111,6 +111,13 @@ flake is how the house learns to ignore the one wall that measures its own growt
 **And the whole point of the lane is that content and its governance move separately**,
 which is why the guard refuses a change that touches both and is right to.
 
+**And raise the mechanism only when a misfit arrives that the convention cannot serve.**
+This house has four times declined to build a gate ahead of the cases that would use it,
+and the discipline is not thrift: a wall built for an imagined case is written against an
+imagined shape, and the real case arrives shaped differently. Offer a convention, record
+the cases it does not fit, and build when the count of those is the argument. What
+changes the answer is evidence and not elegance.
+
 ## Implementation
 
 The gates, dependency updates, the security panel (alerts, secret scanning), the
