@@ -12742,3 +12742,62 @@ somebody has.**
       shape that may simply not have arrived yet, which is the forward-declaration case again. Worth a pass
       that separates the two the way this one did for paths, by asking whether anybody argued for each, and
       worth doing with the instrument that consumes the list rather than a fresh regex.
+
+**The hundred and fifty-first pass scouts, because the slate had nothing left to author, and the field-count
+selector picked the field in one command.**
+
+**The slate held one authoring candidate and it carries a sourcing caution.** Eleven passes have gone by since
+the last play was staged, every one of them governance or reading, and the reason is not neglect: there was
+nothing on the slate to build. **A slate that empties of candidates is a slate that has stopped being
+refilled**, and refilling it is a selector's job rather than a pass's inspiration.
+
+**The register can compute where the house is thin, and this pass finally ran it.** The rule was carried out
+of the register two passes ago and had never once been used. Field counts: Measurement 87, Markets 61, Safety
+45, Collective action 41, Organisations 39, Ecology 38, **Groups, candour and face 28**, Senge 5. One
+command, and the thinnest real field named itself.
+
+**Twenty-eight concepts read, and the field is dense in one direction and empty in another.** Everything in it
+is about **what gets said, what gets withheld, and how the saying is read**: preference falsification,
+groupthink, the MUM effect, the double bind, impression management, illusory transparency, the euphemism
+treadmill, disclosure deterrence. **What no play in the house casts is the group's memory.** The memory plays
+this house holds are all individual: shifting baselines, familiarity, face exposure across a line, peak and
+end. Nothing stages a group reconstructing what happened.
+
+**Five uncast seats were considered and one taken forward.** The person spoken about but not to, closest to
+The Identified Patient and probably inside it. The unwanted confidence, whose informal version reads as
+You Would Have to Tell without the duty. The token spokesperson. The newcomer with no standing to object.
+And **the group that remembers together**, which is the one with a literature and no incumbent.
+
+**The candidate is collaborative recall, and it has two arms that pull the same way.** A group meets to
+reconstruct an event, which is the right thing to do and what every debrief is for. **Collaborative
+inhibition**: hearing the others recall disrupts each person's own retrieval order, so the group produces
+less than the same people would have produced separately (Weldon and Bellinger, 1997, with the
+retrieval-disruption account). **Memory conformity**: each account is exposed to the others before it is
+fixed, so one member's error is taken up and later recalled as first-hand, and the reports converge (Roediger,
+Meade and Bergman, 2001, on the social contagion of memory). The group leaves with an account that is shorter
+and more uniform than the one it walked in with.
+
+**And the harm needs no claim about anybody's confidence, which is what makes it stageable.** The convergence
+is read afterwards as corroboration, by everyone who receives two agreeing accounts and by the group itself,
+and the agreement was manufactured by the meeting rather than observed. **That is a claim about the reader of
+the accounts and not about the psychology of the rememberers**, so the play can stand on the two documented
+arms and carry no finding about felt certainty, which the pass could not source.
+
+**The nearest incumbent, named as the plan requires.** **Too Sure to Be True** stages agreement past a
+threshold as evidence of a common error, in the measurement field, where the observations were independent and
+the agreement is the anomaly. Here the observations are **made** dependent by the act of pooling, so the
+agreement is not an anomaly to be explained but the meeting's own product. **The Trip to Abilene** is the
+other, and the cut is what is being read off the room: there a record of what is voiced is misread as a record
+of what is held, and here a record of what is recalled together is misread as a record of what was seen apart.
+
+**The switch-off, written before the authoring rather than after.** Elicit each account independently and in
+writing before anybody speaks. Both arms die: there is no retrieval to disrupt and no exposure to conform to.
+**And that is exactly what a debrief is not**, nor a post-incident review, nor a family working out what
+happened, because the whole point of the meeting is that everybody is in the room together.
+
+- [ ] [P2] Author the collaborative-recall play, with the dedup above already run and the switch-off already
+      written. The bound to hold in view: the effect is measured on word lists and staged scenes rather than
+      on real events, **the collaborative-inhibition arm weakens when members retrieve non-overlapping parts
+      or are made to organise their recall the same way**, and the papers were not readable from here, so the
+      warrant carries the bibliography and the direction and no magnitude. Run the surname scan before and
+      after, since Meade, Bergman, Weldon and Bellinger are all new to the index.
