@@ -387,6 +387,35 @@ before anybody reads further. **When a candidate's own warrant states the incumb
 axis's refusal clause, the row is decided before it is opened**, and an axis whose
 refusal clause is written down can be run as a grep rather than as a reading.
 
+**The seven sign discriminators this house has written, quoted, because none of them was
+in a plan.** Each was produced by the pass that found its axis's first opposition, and
+each answered a pair the dial alone could not settle. **A discriminator is what an
+opposition leaves behind**, and the register's own evidence is that one written for a
+pair answers the next without amendment, so this is the first list to try before arguing
+a sign from scratch. A discriminator also belongs in the warrants of the pair it settled,
+and that is not enough on its own: **the warrant of a pair is the right place for that
+pair and no place at all for the next candidate on that dial**, which is why the list
+lives here as well.
+
+- `codification` : **what sets the sign is what is being made explicit.** Writing down a
+  living practice fixes content it never had; writing down the reason a fence was built
+  subtracts nothing and adds a handle. Extended since: what does the damage is the
+  inscription of **the content a practice must match**, not of the practice itself.
+- `reviewer-proximity` : **what sets the sign is what the reviewer is being asked to
+  produce.** This one carries a warning with it, since the two plays on that dial were
+  declared with the same sign under two names for one quantity, each agreeing with
+  nobody and each passing every gate.
+- `removal-asymmetry` : **what sets the sign is where the cost of the cheap error lands.**
+- `entitlement-universality` : **what sets the sign is what the entitlement is rationed
+  by.** A universal claim is rationed by the supply of the thing it buys; a gated one by
+  the cost of proving eligibility.
+- `merit-legibility` : **what sets the sign is what a decision falls back on when it
+  cannot read the individual, and what it converges on when it can.**
+- `deference-to-judgement` : **what sets the sign is whether deference replaces the work
+  or replaces a comparison the work cannot make.**
+- `precommitment` : **what sets the sign is whether the party whose behaviour matters is
+  the party being bound.**
+
 **And read the coverage count knowing what is in it.** The axis ratchet reads an
 undeclared play as work owed, and some plays **cannot** declare: a play whose governing
 law is a trade-off holds both horns of its own dial, so no monotone sign exists for it

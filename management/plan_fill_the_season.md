@@ -9902,7 +9902,8 @@ refusals, one Test A failure and one opposition covering two plays. **The select
 among staged plays rather than candidates for new ones**, and the plan should say so: it is a declaring
 instrument that occasionally scouts, not a scouting instrument that occasionally declares.
 
-- [ ] [P2] Widen the axis coverage, 207 of 345 declared, of which 134 are owed and 4 cannot declare. And amend
+- [ ] [P2] Widen the axis coverage. The live figures are `npx khai-tests science opposed` for the
+      declared count and `findUnaxised` against `AXIS_EXEMPT` for what is owed and what cannot declare. And amend
       [Find the Next One](plan_find_the_next_one.md) to record what two runs have shown: the empty-end
       selector is a **declaring** instrument first, so run it against the undeclared list rather than against
       the world.
@@ -12391,7 +12392,8 @@ than the register's entire prior history and still leaves five-sixths of it unca
 description as uncarried**, which was correct: the filter, the containment test and the no-bookmark property
 were all written into this file and into no plan. They are in Keep Clean now, which is what the tool was for.
 
-- [ ] [P3] The instrument reports 115 uncarried spans and most of them owe nothing, so the number that
+- [ ] [P3] The uncarried count is whatever `node tests/register_rules.mjs` prints, and most of what it
+      lists owes nothing, so the number that
       matters is not the count but the **rate at which a reader finds a real rule in it**. This run's two
       reading passes found sixteen worth carrying out of a hundred and thirty read, which is about one in
       eight. Worth recording that rate against the next few runs, because if it holds the remaining hundred
@@ -12489,7 +12491,7 @@ count is not what failed it, load is**. **A gate that fails without naming a fin
 machine and not on the house**, and writing that off as a flake is how a house learns to ignore the one wall
 that measures its own growth.
 
-- [ ] [P2] The fifth stretch: a hundred and fifteen remain. The rate is holding at roughly fifteen carried per
+- [x] [P2] The fifth stretch: a hundred and fifteen remain. The rate is holding at roughly fifteen carried per
       pass with no sign of the seam thinning, which is the third stretch in a row to say so, so the thing to
       watch is not the yield but whether the rules being found are getting narrower. The last two stretches
       turned up the oldest rule in the register and the register's own diagnosis of why rules are not carried,
@@ -12980,9 +12982,61 @@ rule-shaped spans, 88 carried, 115 not.
 **Three gaps have now been found by running it on the pass that was writing about it**, which is the cheapest
 place to find them and the only one where the missed rule is still in front of you.
 
-- [ ] [P3] Every number written into this register ages the moment the pass ends, and the slate is where the
+- [x] [P3] Every number written into this register ages the moment the pass ends, and the slate is where the
       aged ones do damage, because a slate line is read as an instruction. **Three of five were wrong and the
       house had never checked.** The cheap discipline is not to re-audit but to **stop writing counts into
       slate lines at all**: name the instrument that produces the number instead, since the instrument is
       current and the number never is. Worth one pass rewriting the five, and worth a rule if the rewrite
       reads better than the originals.
+
+**The hundred and fifty-fifth pass runs the fifth stretch and finds the seam has changed shape: the old
+register is nearly read out, and the newest one holds a kind of rule nobody had collected.**
+
+**Nine rows left below line eleven thousand that earlier stretches had not read, and most are narration.**
+Four stretches took the pre-session register from one carried rule to most of what it holds, and what remains
+there is pass headlines and observations about single candidates. **The seam the first four stretches worked
+is close to exhausted**, which is the first time a selector in this house has run out rather than been
+abandoned.
+
+**The seam that is not exhausted is this session's own passes, and it holds seven of one thing.** Every axis
+in the house that has an opposition produced, at the pass that found it, a sentence beginning **what sets the
+sign is**. There are seven. **None of them was in any plan.** They sit in the register, and some sit in the
+warrants of the pair they were written for, which is the right place for a pair and no place at all for the
+next candidate on that dial.
+
+**A discriminator is what an opposition leaves behind.** The register already holds the evidence that they
+generalise: a discriminator written for one pair answered the next one without amendment, which was recorded
+as the first sign that the axis mechanism accumulates rather than merely accretes. So seven reusable answers
+existed and there was nowhere to look them up, and a pass arguing a sign was arguing from scratch against a
+question the house had already settled.
+
+**Carried, quoted, by axis, to Find the Next One.** `codification`, what is being made explicit.
+`reviewer-proximity`, what the reviewer is being asked to produce. `removal-asymmetry`, where the cost of the
+cheap error lands. `entitlement-universality`, what the entitlement is rationed by. `merit-legibility`, what
+a decision falls back on when it cannot read the individual. `deference-to-judgement`, whether deference
+replaces the work or replaces a comparison the work cannot make. `precommitment`, whether the party whose
+behaviour matters is the party being bound.
+
+**One of the seven carries a warning and it is the one worth reading twice.** `reviewer-proximity` exists
+because two plays declared the same sign under two names for one quantity, so the house held two plays making
+opposite claims about one dial, each agreeing with nobody, each passing every gate. **A discriminator can be
+the residue of a merge as well as of an opposition**, and that one is a record of the house having been
+wrong in a way no wall could see.
+
+**Two method rules carried to Keep Clean beside them.** A rule that has fired once is a rule with one
+instance, so the pass that carries it should also run it. And name the cases rather than number them, since a
+list can be checked against the register and an ordinal cannot.
+
+**And the counted slate lines are rewritten to name their instrument instead.** _Widen the axis coverage, 207
+of 345_ becomes the two commands that produce those figures; _the instrument reports 115 uncarried_ becomes
+the command that prints it. **The instrument is current and the number never is**, and a slate line is read
+as an instruction, so the reader of a rewritten line runs one command and the reader of the old one acted on
+a figure that had been wrong for a month. Two lines rewritten, and the rule earned rather than assumed: the
+rewrites read better than the originals, which is what the slate asked to be checked.
+
+- [ ] [P3] The pre-session seam is nearly read out and the newest seam is one pass behind the writing, so the
+      stretch selector needs replacing rather than continuing. **The obvious successor is the instrument
+      itself run per pass**, which the standing order already does, leaving the stretches for whatever the
+      order misses. Worth measuring once: run the instrument over the last ten passes' entries and see how
+      much it flags that those passes did not carry, since if the answer is nearly nothing the stretch is
+      finished as a unit of work and should be struck rather than re-slated.
