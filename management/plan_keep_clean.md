@@ -72,6 +72,17 @@ accumulation, because a rule written between them waited for the next one. The
 measured state at the time this order was written: **174 rule-shaped spans in the
 register, 30 in a plan, 144 not.**
 
+**A rule that has fired once is a rule with one instance, so the pass that carries it
+should also run it.** Carrying a rule found in a single case puts a one-observation
+claim in a plan beside the measured ones, and nothing in the plan distinguishes them by
+eye. Run it, record the yield, and carry what survives.
+
+**And name the cases rather than number them, since a list can be checked against the
+register and an ordinal cannot.** A count stated as an ordinal is maintained by whoever
+wrote it last, because the cheap way to find the number is to read the nearest previous
+statement of it rather than to count the set: this house's pinned rule went wrong twice
+that way, in two consecutive passes, the second inheriting the first one's drop.
+
 **A backlog with an inflow every pass and an outflow only on stretch passes does not
 converge by being worked at intervals.** The order above holds the inflow, so a pass
 carries what it wrote; the reading stretches clear the stock, which is a different job
