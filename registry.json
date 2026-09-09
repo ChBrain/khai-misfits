@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-misfits",
-  "version": "0.344.0",
+  "version": "0.345.0",
   "misfits": [
     {
       "kind": "misfit",
@@ -18554,6 +18554,228 @@
           "kind": "process",
           "title": "Focusing",
           "taxonomy": "play_larger_in_the_looking.md"
+        }
+      ]
+    },
+    {
+      "kind": "misfit",
+      "id": "lets_go_round_the_room",
+      "title": "Let's Go Round the Room",
+      "description": "A group reconstructs an event together, and leaves with less of it, agreed, and reads the agreement as proof.",
+      "members": [
+        {
+          "file": "persona_the_one_who_speaks_first.md",
+          "kind": "persona",
+          "title": "The One Who Speaks First",
+          "type": "archetype",
+          "taxonomy": "position_first_account.md"
+        },
+        {
+          "file": "persona_the_one_who_was_not_there.md",
+          "kind": "persona",
+          "title": "The One Who Was Not There",
+          "type": "archetype",
+          "taxonomy": "position_reader.md"
+        },
+        {
+          "file": "persona_the_sensible_reason_to_meet.md",
+          "kind": "persona",
+          "title": "The Sensible Reason to Meet",
+          "type": "archetype",
+          "taxonomy": "position_room.md"
+        },
+        {
+          "file": "persona_the_way_i_had_it.md",
+          "kind": "persona",
+          "title": "The Way I Had It",
+          "type": "archetype",
+          "taxonomy": "position_own_order.md"
+        },
+        {
+          "file": "persona_what_we_wrote_down.md",
+          "kind": "persona",
+          "title": "What We Wrote Down",
+          "type": "archetype",
+          "taxonomy": "position_record.md"
+        },
+        {
+          "file": "piece_my_own_thread.md",
+          "kind": "piece",
+          "title": "My Own Thread",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "piece_the_agreement_made_here.md",
+          "kind": "piece",
+          "title": "The Agreement Made Here",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "piece_the_detail_that_was_not_mine.md",
+          "kind": "piece",
+          "title": "The Detail That Was Not Mine",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "piece_the_reason_to_meet.md",
+          "kind": "piece",
+          "title": "The Reason to Meet",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "piece_the_shorter_account.md",
+          "kind": "piece",
+          "title": "The Shorter Account",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "pitch_more_heads_more_of_it.md",
+          "kind": "pitch",
+          "title": "More Heads, More of It",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "place_the_blank_page.md",
+          "kind": "place",
+          "title": "The Blank Page",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "place_the_later_reading.md",
+          "kind": "place",
+          "title": "The Later Reading",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "place_the_room.md",
+          "kind": "place",
+          "title": "The Room",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "plan_follow_my_own_thread.md",
+          "kind": "plan",
+          "title": "Follow My Own Thread",
+          "taxonomy": "position_own_order.md"
+        },
+        {
+          "file": "plan_get_it_straight_together.md",
+          "kind": "plan",
+          "title": "Get It Straight Together",
+          "taxonomy": "position_room.md"
+        },
+        {
+          "file": "plan_start_us_off.md",
+          "kind": "plan",
+          "title": "Start Us Off",
+          "taxonomy": "position_first_account.md"
+        },
+        {
+          "file": "plan_take_it_as_corroborated.md",
+          "kind": "plan",
+          "title": "Take It as Corroborated",
+          "taxonomy": "position_reader.md"
+        },
+        {
+          "file": "plan_write_the_agreed_version.md",
+          "kind": "plan",
+          "title": "Write the Agreed Version",
+          "taxonomy": "position_record.md"
+        },
+        {
+          "file": "play_lets_go_round_the_room.md",
+          "kind": "play",
+          "title": "Let's Go Round the Room"
+        },
+        {
+          "file": "plot_a_sensible_meeting.md",
+          "kind": "plot",
+          "title": "A Sensible Meeting",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "plot_losing_the_thread.md",
+          "kind": "plot",
+          "title": "Losing the Thread",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "plot_read_as_corroboration.md",
+          "kind": "plot",
+          "title": "Read as Corroboration",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "plot_the_agreed_version.md",
+          "kind": "plot",
+          "title": "The Agreed Version",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "plot_where_did_that_come_from.md",
+          "kind": "plot",
+          "title": "Where Did That Come From",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "position_first_account.md",
+          "kind": "position",
+          "title": "First Account",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "position_own_order.md",
+          "kind": "position",
+          "title": "Own Order",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "position_reader.md",
+          "kind": "position",
+          "title": "Reader",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "position_record.md",
+          "kind": "position",
+          "title": "Record",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "position_room.md",
+          "kind": "position",
+          "title": "Room",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "process_adopting.md",
+          "kind": "process",
+          "title": "Adopting",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "process_convening.md",
+          "kind": "process",
+          "title": "Convening",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "process_corroborating.md",
+          "kind": "process",
+          "title": "Corroborating",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "process_disrupting.md",
+          "kind": "process",
+          "title": "Disrupting",
+          "taxonomy": "play_lets_go_round_the_room.md"
+        },
+        {
+          "file": "process_hearing.md",
+          "kind": "process",
+          "title": "Hearing",
+          "taxonomy": "play_lets_go_round_the_room.md"
         }
       ]
     },
