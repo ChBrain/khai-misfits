@@ -59,6 +59,12 @@ consecutive words of each appear in a plan. What comes back uncarried is a readi
 list: most of it is an observation about one pass and owes nothing, and the ones that
 read as a standing instruction belong in a plan before the pass ends.
 
+**A raw uncarried figure from this instrument is a reading list length and never a
+debt.** Measured over eleven consecutive passes: thirty-five rule-shaped spans, twelve
+uncarried, and **eleven of the twelve were narration about one pass**. The count
+overstates by roughly four to one, so read the list and never quote the number as work
+owed.
+
 **It is an instrument and not a wall, by this file's own rule.** Deciding whether a
 bold sentence is a standing rule or an observation is a judgement, and the filter has
 obvious false positives, so it reports and a person decides. Nothing here fails a
@@ -71,6 +77,19 @@ each took the carry as their whole unit; they worked and did not stop the
 accumulation, because a rule written between them waited for the next one. The
 measured state at the time this order was written: **174 rule-shaped spans in the
 register, 30 in a plan, 144 not.**
+
+**Deferring a declaration a wall requires is not a scheduling choice, it is shipping the
+thing the wall exists to stop.** A slate line reading _declare it in a later pass_ is
+fine where nothing demands it now and is a refused push where something does, so read
+the wall before writing the deferral: the axis ratchet refuses a new misfit that adds to
+the undeclared, and a pass that slated its own play's axis found that out at the suite.
+
+**And a declaration that costs nothing to make also ships nothing.** A change confined to
+configuration, to the register, or to a built label that is not package content takes an
+empty changeset, whatever else moved in the tree. **A wall that reads a diff needs a
+diff**, so this one answers differently on an uncommitted working tree and from the
+pre-push hook: `npm run gates` can pass on the tree and the identical wall refuse the
+same change once it is a commit, which is cheap to live with and cheaper to know.
 
 **A rule that has fired once is a rule with one instance, so the pass that carries it
 should also run it.** Carrying a rule found in a single case puts a one-observation
