@@ -72,6 +72,14 @@ accumulation, because a rule written between them waited for the next one. The
 measured state at the time this order was written: **174 rule-shaped spans in the
 register, 30 in a plan, 144 not.**
 
+**A backlog with an inflow every pass and an outflow only on stretch passes does not
+converge by being worked at intervals.** The order above holds the inflow, so a pass
+carries what it wrote; the reading stretches clear the stock, which is a different job
+and does not happen by itself. Measured: the uncarried count fell from 144 to 107 across
+four stretches and rose to 115 in the six passes after them, because every pass writes
+some. **Both jobs are needed and neither substitutes for the other**, so a stretch
+should be slated on its own and not expected to follow from the order.
+
 **And the rule this order exists for was itself in the register three times and
 carried none of them.** _A pass that ends with a rule worth keeping has not finished
 until the rule is in the plan that governs the work it constrains._ _A rule that

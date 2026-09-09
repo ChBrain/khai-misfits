@@ -33,7 +33,11 @@
 //                         cannot, must, is not, only, every. 1368 become 630.
 //   no proper noun     -- past the first word. This is the test that does most
 //                         of the work, because a statement about one play names
-//                         it. 630 become 472.
+//                         it. 630 become 472. Its known cost is a false negative
+//                         on a rule that names one of the house's own capitalised
+//                         column or chapter names, `Source`, `Scope`, `Origin`,
+//                         `Company` and the rest, so those are held in COMMON:
+//                         they are a closed set and none of them is a person.
 //   framed on the work -- its subject is a pass, a warrant, a candidate, an
 //                         axis, an instrument, a lane, a count, rather than a
 //                         subject the house stages. 472 become 130.
@@ -68,14 +72,16 @@ const COMMON = new Set(
    Whose Not No Nothing Nobody Every Each Both Two Three Four Five One Read Take
    Order Run Name Write Declare Count Ask Grep Check Fix Do Use Prefer Here There
    Then Now Only Same Under In On At By For From To With Without Against Because
-   Since While Until Whether`.split(/\s+/),
+   Since While Until Whether
+   Source Scope Origin Restrictions Encoding Company Triggers Stakes Arc Estate
+   Taxonomy Owner Direction Orders Targets Implementation`.split(/\s+/),
 );
 
 const MARKER =
   /\b(never|always|cannot|must|should|is not|are not|does not|do not|the rule|means|is the|is what|only|every|a pass|worth)\b/i;
 
 const WORK =
-  /\b(a pass|the pass|this house|the slate|the register|the warrant|a warrant|the plan|a declaration|an audit|the audit|an instrument|the instrument|a grep|the grep|a shortlist|the shortlist|a selector|the selector|the gate|a gate|the wall|a wall|the lane|a lane|the changeset|a changeset|the branch|a branch|the concordance|the roster|the index|a candidate|the candidate|the count|a count|the dedup|dedup|the axis|an axis|a dial|the sign|the encoding|the canon)\b/i;
+  /\b(a pass|the pass|every pass|each pass|any pass|this house|the slate|the register|the warrant|a warrant|the plan|a declaration|an audit|the audit|an instrument|the instrument|a grep|the grep|a shortlist|the shortlist|a selector|the selector|the gate|a gate|the wall|a wall|the lane|a lane|the changeset|a changeset|the branch|a branch|the concordance|the roster|the index|a candidate|the candidate|the count|a count|the dedup|dedup|the axis|an axis|a dial|the sign|the encoding|the canon)\b/i;
 
 const words = (text) => text.toLowerCase().match(/[a-z']+/g) ?? [];
 
