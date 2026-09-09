@@ -166,6 +166,15 @@ kind that costs nothing**, changing no index key, rebuilding no artefact and fir
 nothing, which is the practical argument for reading the ordering table before costing a
 pass rather than after.
 
+**Name a misfit's elements against the three collisions the canon catches every time.**
+A play authored in one pass contains the collisions its own vocabulary makes, because the
+natural name for the piece at the end of the play is the play, and the natural name for
+the plot staged in a room is the room. So the display-title wall catches the same three
+shapes on every authoring pass: **the piece carrying the play's name**, and **the plot
+carrying its place's name**, twice over. Naming against them at authoring costs nothing
+and was measured: an authoring pass that did so produced thirty-six files and **zero
+title collisions**, against three on the pass before it.
+
 Held separate, and not covered by this plan: **49 staged titles are the canonical
 concept name** (`Moral Hazard`, `Rent-Seeking`, `Dutch Disease`), against the
 house rule that a title hides the textbook name the way Bad Coin hides Gresham.

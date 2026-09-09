@@ -9902,7 +9902,7 @@ refusals, one Test A failure and one opposition covering two plays. **The select
 among staged plays rather than candidates for new ones**, and the plan should say so: it is a declaring
 instrument that occasionally scouts, not a scouting instrument that occasionally declares.
 
-- [ ] [P2] Widen the axis coverage, 183 of 336 declared. And amend
+- [ ] [P2] Widen the axis coverage, 207 of 345 declared, of which 134 are owed and 4 cannot declare. And amend
       [Find the Next One](plan_find_the_next_one.md) to record what two runs have shown: the empty-end
       selector is a **declaring** instrument first, so run it against the undeclared list rather than against
       the world.
@@ -12119,7 +12119,7 @@ every time and it is cheaper to name against them than to be caught.
       depends on matching a specified text rather than on the conduct's fitness for the hazard**, which may
       be neither of them.
 
-- [ ] [P3] Name a misfit's elements against the three collisions the canon catches every time: the piece
+- [x] [P3] Name a misfit's elements against the three collisions the canon catches every time: the piece
       that carries the play's name, and the plot that carries its place's name. Cheap to avoid at authoring
       and currently found by the wall on every authoring pass.
 
@@ -12391,7 +12391,7 @@ than the register's entire prior history and still leaves five-sixths of it unca
 description as uncarried**, which was correct: the filter, the containment test and the no-bookmark property
 were all written into this file and into no plan. They are in Keep Clean now, which is what the tool was for.
 
-- [ ] [P3] The instrument reports 144 uncarried spans and most of them owe nothing, so the number that
+- [ ] [P3] The instrument reports 115 uncarried spans and most of them owe nothing, so the number that
       matters is not the count but the **rate at which a reader finds a real rule in it**. This run's two
       reading passes found sixteen worth carrying out of a hundred and thirty read, which is about one in
       eight. Worth recording that rate against the next few runs, because if it holds the remaining hundred
@@ -12489,7 +12489,7 @@ count is not what failed it, load is**. **A gate that fails without naming a fin
 machine and not on the house**, and writing that off as a flake is how a house learns to ignore the one wall
 that measures its own growth.
 
-- [ ] [P2] The fifth stretch: a hundred and seven remain. The rate is holding at roughly fifteen carried per
+- [ ] [P2] The fifth stretch: a hundred and fifteen remain. The rate is holding at roughly fifteen carried per
       pass with no sign of the seam thinning, which is the third stretch in a row to say so, so the thing to
       watch is not the yield but whether the rules being found are getting narrower. The last two stretches
       turned up the oldest rule in the register and the register's own diagnosis of why rules are not carried,
@@ -12899,12 +12899,12 @@ proper-noun test reads a capitalised word past the first as a name. **Every erro
 until now was a false positive**, and this is the other kind, produced by a technical term that is
 capitalised because it names a field rather than a person. Worth knowing before anybody trusts a clean run.
 
-- [ ] [P2] Carry the non-author Source rule into Cut to Fit, quoted: **a non-author Source row can usually be
+- [x] [P2] Carry the non-author Source rule into Cut to Fit, quoted: **a non-author Source row can usually be
       named to fit a pattern the config already holds, and naming it that way keeps an authoring pass in one
       lane.** Flagged by hand rather than by the instrument, which missed it, and unshippable from this pass
       because the plans are governance and this is the misfit lane.
 
-- [ ] [P3] The register-rules filter reads a capitalised word past the first as a proper noun, which is what
+- [x] [P3] The register-rules filter reads a capitalised word past the first as a proper noun, which is what
       makes it cheap and is now measured to cost a real rule. The house's frontmatter keys and column names,
       **Source**, **Key Work**, **Scope**, **Origin**, **Restrictions**, are all capitalised and none is a
       person. Worth a small exemption list of those, since they are a closed set and the fix is one line,
@@ -12936,7 +12936,53 @@ fired and its cut from Information Cascade already named the quantity, which is 
 a paragraph written to prove two plays differ turned out to hold the dial. The declaration was a rewrite of
 two sentences and not a reading.
 
-- [ ] [P3] A slate line deferring a declaration that a gate requires is a slate line the gate will refuse.
+- [x] [P3] A slate line deferring a declaration that a gate requires is a slate line the gate will refuse.
       This pass wrote one and found out at the suite. **Worth checking the other deferrals on this slate
       against what the walls actually demand**, since the register has several lines of the form _declare it
       in a later pass_ and at least one of them was against the contract rather than merely unhurried.
+
+**The hundred and fifty-fourth pass audits the slate's deferrals against the walls, finds one, and finds
+something worse beside it.**
+
+**Nineteen open lines, and exactly one deferred what a wall demands.** It was the axis declaration the ratchet
+caught last pass, which is the answer the audit was asked for and a dull one: the rest of the slate is
+questions, reading tasks and process notes that no wall requires, so **the mistake was a single case rather
+than a pattern**. Recorded because a suspicion checked and found small is worth as much as one confirmed, and
+because the alternative was to keep half-believing the slate was full of them.
+
+**What the audit found instead is that a number in a slate line is a hand-written baseline.** Five open lines
+carry one and **three are stale**. _Widen the axis coverage, 183 of 336_ against 207 of 345. _The instrument
+reports 144 uncarried_ against 115. _A hundred and seven remain_ against 115. Two passes ago this house
+audited every hand-written baseline it holds and scoped the audit to `tests/` and the config. **The slate
+holds more of them than the code does**, and none of them had been looked at.
+
+**And one of the three is stale upward, which is the finding worth keeping.** The uncarried count went 144 to
+107 across four reading stretches and is now 115. The register gained rule-shaped spans in the passes since,
+because every pass writes some. **A backlog with an inflow every pass and an outflow only on stretch passes
+does not converge by being worked at intervals**, and the standing order that each pass carry its own is what
+holds the inflow, not what clears the stock. Both are needed and they are different jobs.
+
+**Three leftovers carried, all of them things a misfit lane could not ship.** The non-author Source rule goes
+to Cut to Fit: **a non-author Source row can usually be named to fit a pattern the config already holds**, so
+_Error pruning_ becomes _The error-pruning counter-current_ and a wall is satisfied without a governance
+change. The naming rule goes to Name It Once, with the measurement that earned it: an authoring pass that
+named against the three known collisions produced thirty-six files and **zero title collisions**, against
+three on the pass before. And the register-rules filter now holds the house's own capitalised column and
+chapter names, `Source`, `Scope`, `Origin`, `Company` and the rest, in its common-word set.
+
+**That last is a fix to the instrument's first false negative and it cost three lines.** The names are a
+closed set and none of them is a person, so exempting them loosens nothing: the proper-noun test still does
+most of the filtering, and the rule it missed last pass would now be seen. Rerun after the change: 203
+rule-shaped spans, 88 carried, 115 not.
+
+**And the instrument found a third gap in itself, on this entry.** Its work-frame test knew `a pass` and
+`the pass` and not `every pass`, so the backlog rule above was invisible to it until the phrase was added.
+**Three gaps have now been found by running it on the pass that was writing about it**, which is the cheapest
+place to find them and the only one where the missed rule is still in front of you.
+
+- [ ] [P3] Every number written into this register ages the moment the pass ends, and the slate is where the
+      aged ones do damage, because a slate line is read as an instruction. **Three of five were wrong and the
+      house had never checked.** The cheap discipline is not to re-audit but to **stop writing counts into
+      slate lines at all**: name the instrument that produces the number instead, since the instrument is
+      current and the number never is. Worth one pass rewriting the five, and worth a rule if the rewrite
+      reads better than the originals.

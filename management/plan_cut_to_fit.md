@@ -105,6 +105,15 @@ clearest instance of a mechanism is a series whose recitation performs the harm 
 play is about, name the pattern and demonstrate the engine on an instance where
 nobody is hurt. The play loses nothing: the mechanism is fully visible either way.
 
+**A non-author Source row can usually be named to fit a pattern the config already
+holds, and naming it that way keeps an authoring pass in one lane.** The science build
+refuses an Origin row whose Source names no person and tells the pass to declare it in
+`scholarPolicy.nonAuthorSources`, which is governance and splits a misfit-lane change in
+two. The existing patterns already exempt any Source beginning with **The**, so a row
+called _Error pruning_ becomes _The error-pruning counter-current_ and the wall is
+satisfied without touching the config at all. Widen the pattern list only for a row that
+genuinely cannot be named into it.
+
 **And a structure that runs where its conditions hold is the only kind this house
 stages.** A warrant is not weakened by naming the conditions under which its law
 operates, and a play whose bound is stated is stronger than one whose bound is left
