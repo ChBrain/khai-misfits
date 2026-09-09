@@ -13034,9 +13034,48 @@ as an instruction, so the reader of a rewritten line runs one command and the re
 a figure that had been wrong for a month. Two lines rewritten, and the rule earned rather than assumed: the
 rewrites read better than the originals, which is what the slate asked to be checked.
 
-- [ ] [P3] The pre-session seam is nearly read out and the newest seam is one pass behind the writing, so the
+- [x] [P3] The pre-session seam is nearly read out and the newest seam is one pass behind the writing, so the
       stretch selector needs replacing rather than continuing. **The obvious successor is the instrument
       itself run per pass**, which the standing order already does, leaving the stretches for whatever the
       order misses. Worth measuring once: run the instrument over the last ten passes' entries and see how
       much it flags that those passes did not carry, since if the answer is nearly nothing the stretch is
       finished as a unit of work and should be struck rather than re-slated.
+
+**The hundred and fifty-sixth pass measures whether the stretch is finished, and it is: the per-pass order
+catches nearly everything and the residue is three rules across eleven passes.**
+
+**Thirty-five rule-shaped spans across the last eleven entries, twenty-three carried, twelve not.** A third
+uncarried looks like the order failing. It is not, and reading the twelve is what says so: **eleven of them
+are narration about one pass** and owe nothing, which is the instrument's known and accepted error. The
+count overstates by roughly four to one, so a raw uncarried figure from this instrument is a reading list
+length and never a debt.
+
+**One genuine rule was left behind, and it is a good one.** _Deferring a declaration a wall requires is not a
+scheduling choice, it is shipping the thing the wall exists to stop._ The pass that learned it learned it at
+the suite, having slated its own play's axis for later, and then wrote it into the register and not into a
+plan. Carried to Keep Clean, with two more found beside it in the same reading: **a declaration that costs
+nothing to make also ships nothing**, and **a wall that reads a diff needs a diff**, which is why the same
+changeset check passes on a working tree and refuses the change once it is a commit.
+
+**So the answer to the question is that the stretch is finished as a unit of work.** Four stretches read the
+pre-session register down to narration; a fifth found that the newest seam had a different shape and took
+seven discriminators out of it; and this measurement says the recent entries hold about one real rule per
+four passes, which the standing order in Keep Clean is already catching most of. **The bulk read is done and
+the sweep that replaces it is small**: eleven passes' entries are thirty-five spans, against two hundred and
+thirteen for the whole register.
+
+**And the residue that matters is not the rules, it is where they were found.** All three carried here came
+from the passes where the house was **wrong about something**: a deferral the ratchet refused, a changeset
+the hook refused, a wall answering differently before and after a commit. **A pass refused by a wall
+leaves a rule nearly every time**, which is a better selector than any line range and costs nothing to apply:
+read back the passes that failed a gate. The converse is weaker and this pass is its counterexample, since it
+was refused by nothing and still left one: _a raw uncarried figure from this instrument is a reading list
+length and never a debt_, found by running the order on this entry and carried before it could become the
+twelfth thing narration hid. **So the wall-refusal selector is where to look first and not the only place to
+look.**
+
+- [ ] [P2] Sweep the recent entries every ten passes or so, rather than re-slating a stretch. The instrument
+      takes a line range, the boundaries are the pass headlines, and eleven passes cost one command each.
+      **The thing to read for is a pass that was refused by a wall**, since all three rules this measurement
+      found came from one. Read the rest too, more quickly: this pass was refused by nothing and still left
+      a rule.
