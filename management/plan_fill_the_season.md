@@ -12801,3 +12801,52 @@ happened, because the whole point of the meeting is that everybody is in the roo
       or are made to organise their recall the same way**, and the papers were not readable from here, so the
       warrant carries the bibliography and the direction and no magnitude. Run the surname scan before and
       after, since Meade, Bergman, Weldon and Bellinger are all new to the index.
+
+**The hundred and fifty-second pass declares the surname the scouted play needs, before authoring it, which is
+the rule this house learned by breaking it.**
+
+**The scan found one collision in seven names and it is a real one.** Weldon, Bellinger, Roediger, Bergman,
+Basden and Rajaram are all clear. **Meade is taken and bare**: the index carries Ellen Meade, on the Federal
+Reserve's publicity of debate, in The Vote Takes Four Minutes. The play scouted last pass needs Michelle L
+Meade, on the social contagion of memory. Two people, one key, and no declaration.
+
+**So the governance half went first, and the ordering table says why it costs nothing.** The existing cell
+already names its person, _Ellen Meade & David Stasavage_, so a declaration made ahead of the new cell fires
+on nothing: it changes no index key, and the only thing that moves in any artefact is the label. **A
+declaration made ahead of its cell is the one kind that costs nothing**, carried out of the register two
+passes ago and used here for the first time since.
+
+**And the count did not move, exactly as the rule says it should not.** The index held 1702 scholar rows
+before and holds 1702 after. `Meade (bare)` became `Meade (Ellen)` and nothing else in `docs/SCIENCE.md`
+changed at all. **A declaration resolves a key's label always, and moves the count only when the key was
+holding more than one person**, so a declaration that fires on nothing also moves nothing. Measured, and
+confirming a rule the register had stated and never checked with a diff.
+
+**The authoring cannot ship here and that is the point.** Declaring a surname is `khai-guard.config.json`,
+which is governance; staging a play is `misfits/**`, which is the misfit lane. **One namesake obligation
+cannot be discharged in one pull request**, and the house learned that by authoring the nocebo play into a
+live Murphy collision and paying for it across two passes. This time the scan ran first and the wall was
+never armed against anything.
+
+**The order ran on this entry and returned two, both of them pass headlines rather than rules.** The two
+sentences that are rules, that a declaration made ahead of its cell costs nothing and that a declaration
+resolves a label always while moving the count only sometimes, both came back **carried**, because both are
+already in the plans that own them. **The instrument reporting nothing owed on a pass that quoted two
+existing rules is the instrument working**, and the two false positives are the known kind: a headline
+sentence with a general shape and no general claim in it.
+
+**And the changeset was wrong, which the gate caught at the push and not at the run before it.** The pass
+wrote a `patch`, on the reasoning that an artefact had moved. It had not moved anything the package ships:
+the config is governance, the register is governance, and the one label that changed in `docs/SCIENCE.md` is
+not package content. **A declaration that costs nothing to make also ships nothing**, which is the same rule
+read from the release side, and the correct changeset is empty.
+
+**The gate answered differently before and after the commit, and that is worth recording as observed.** `npm
+run gates` passed on the uncommitted tree with the `patch` changeset in place, and the identical wall refused
+it from the pre-push hook once the change was a commit. **A wall that reads a diff needs a diff**, so its
+answer on a working tree is an approximation of the one that will decide, and a pass that trusts the earlier
+answer is told it is clean and then refused. Cheap to live with, and cheaper to know.
+
+**Which leaves the content half exactly as the slate wrote it.** The candidate, its two arms, its nearest
+incumbents and its switch-off were all settled by the scouting pass, so the authoring pass has nothing left to
+decide and only the thirty-six files to write.
